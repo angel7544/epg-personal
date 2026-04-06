@@ -1,5 +1,10 @@
 # EPG [![update](https://github.com/iptv-org/epg/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/epg/actions/workflows/update.yml)
 
+> [!CAUTION]
+> **LEGAL DISCLAIMER**: Use of these tools is subject to the laws of your jurisdiction. All data processed and displayed is retrieved from publicly available sources on the internet. We do not host, store, or redistribute any copyrighted media content. This repository provides automated tools for data aggregation and formatting for personal use only.
+
+---
+
 Tools for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 
 ## Table of contents
@@ -240,3 +245,37 @@ And thank you to everyone who has already contributed!
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
+
+---
+
+## 🎨 Creative Engineering & Performance Overhaul
+
+This project has been significantly enhanced by **Angel Mehul Singh** (GitHub: [angel7544](https://github.com/angel7544)) to bring high-performance, real-time EPG management to modern IPTV applications.
+
+### 🚀 Technical Evolution Map
+
+```mermaid
+graph LR
+    subgraph "External Sources"
+    S[Public Internet / IPTV-Org]
+    end
+
+    subgraph "EPG Transformation Engine"
+    X[Raw XMLTV Feed] -->|JS Extraction| J[(Micro-JSON Nodes)]
+    J -->|O1 Dictionary| C[Optimized Search]
+    end
+
+    subgraph "High Performance UI"
+    C -->|Virtualization| V[Responsive Grid]
+    V -->|Real-time Sync| U([End User Experience])
+    end
+
+    S --> X
+```
+
+### ⚡ Key Contributions by @angel7544:
+- **Tata Play Custom Ingestion**: Engineered a tailored metadata alignment for Indian satellite channels.
+- **Micro-JSON Architecture**: Switched from massive monolithic XML files to lightning-fast, on-demand JSON extraction, preventing OOM crashes.
+- **O(1) Search Engine**: Implemented cross-channel dictionary lookups for instantaneous schedule mapping.
+- **Memory-Safe Core**: Re-architected the parsing engine to handle large-scale feeds without memory leaks using advanced buffer management.
+- **Global Timer Synchronization**: Resolved complex timestamp formatting issues to ensure accurate live-program tracking across all time zones.
