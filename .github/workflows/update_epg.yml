@@ -35,12 +35,24 @@ jobs:
         run: |
           npm run jiotv:generate
           npm run tataplay:generate
+          npm run airtel:generate
+          npm run dishtv:generate
+          npm run epgshare01:generate
 
       - name: Grab EPG (JioTV)
         run: npm run grab -- --channels=india.channels.xml --output=india.xml --days=2
 
       - name: Grab EPG (Tata Play)
         run: npm run grab -- --channels=tataplay.channels.xml --output=tataplay.xml --days=2
+
+      - name: Grab EPG (Airtel)
+        run: npm run grab -- --channels=india-airtel.channels.xml --output=india-airtel.xml --days=2
+
+      - name: Grab EPG (DishTV)
+        run: npm run grab -- --channels=dishtv.channels.xml --output=dishtv.xml --days=2
+
+      - name: Grab EPG (EPGShare01)
+        run: npm run grab -- --channels=epgshare01.channels.xml --output=epgshare01.xml --days=2
 
       - name: Monthly Cleanup (Fresh Reset)
         if: contains(github.event.schedule, '30 0 1 * *') || github.event.inputs.cleanup == 'true'
@@ -49,14 +61,14 @@ jobs:
           rm -rf src/epg-data/*
 
       - name: Extract EPG
-        run: npm run epg:extract -- -i india.xml tataplay.xml -o src/epg-data
+        run: npm run epg:extract -- -i india.xml tataplay.xml india-airtel.xml dishtv.xml epgshare01.xml -o src/epg-data
 
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add src/epg-data
-          git add india.channels.xml tataplay.channels.xml
-          git add india.m3u tataplay.m3u
-          git commit -m "chore: updated jiotv and tataplay epg data [$(date +'%Y-%m-%d')]" || echo "No changes to commit"
+          git add india.channels.xml tataplay.channels.xml india-airtel.channels.xml dishtv.channels.xml epgshare01.channels.xml
+          git add india.m3u tataplay.m3u india-airtel.m3u dishtv.m3u epgshare01.m3u
+          git commit -m "chore: updated epg data (jiotv, tataplay, airtel, dishtv, epgshare01) [$(date +'%Y-%m-%d')]" || echo "No changes to commit"
           git push origin master

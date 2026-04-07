@@ -66,14 +66,48 @@ npm run epg:extract -- --input tataplay.xml --output ../vega-app/src/epg-data
 npm run airtel:generate
 ```
 
-### Step 2: Fetch EPG Data (XML)
+### Airtel Xstream EPG
 ```bash
-npm run grab --- --channels=india-airtel.channels.xml --output=india-airtel.xml
+npm run airtel:generate
+npm run grab -- --channels=india-airtel.channels.xml --output=india-airtel.xml --days=2
+npm run epg:extract -- -i india-airtel.xml -o src/epg-data
 ```
 
-### Step 3: Extract JSON for App
+### DishTV EPG
 ```bash
-npm run epg:extract -- --input india-airtel.xml --output ../vega-app/src/epg-data
+npm run dishtv:generate
+npm run grab -- --channels=dishtv.channels.xml --output=dishtv.xml --days=2
+npm run epg:extract -- -i dishtv.xml -o src/epg-data
+```
+
+### EPGShare01 EPG
+```bash
+npm run epgshare01:generate
+npm run grab -- --channels=epgshare01.channels.xml --output=epgshare01.xml --days=2
+npm run epg:extract -- -i epgshare01.xml -o src/epg-data
+```
+
+---
+
+### Full Update (All Providers)
+To update all providers at once (JioTV, Tata Play, Airtel, DishTV, EPGShare01):
+```bash
+# Run the combined batch script (Windows)
+./update-all.bat
+```
+Or manually:
+```bash
+npm run jiotv:generate
+npm run tataplay:generate
+npm run airtel:generate
+npm run dishtv:generate
+npm run epgshare01:generate
+npm run grab -- --channels=india.channels.xml --output=india.xml --days=2
+npm run grab -- --channels=tataplay.channels.xml --output=tataplay.xml --days=2
+npm run grab -- --channels=india-airtel.channels.xml --output=india-airtel.xml --days=2
+npm run grab -- --channels=dishtv.channels.xml --output=dishtv.xml --days=2
+npm run grab -- --channels=epgshare01.channels.xml --output=epgshare01.xml --days=2
+npm run epg:extract -- -i india.xml tataplay.xml india-airtel.xml dishtv.xml epgshare01.xml -o src/epg-data
 ```
 
 ---

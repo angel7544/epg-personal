@@ -18,7 +18,7 @@ async function main() {
   const parsedChannels = EPGGrabber.parseChannelsXML(xml)
   
   const airtelChannels = new Collection(parsedChannels).map(
-    (channel: any) => new Channel(channel)
+    (channel: Record<string, string>) => new Channel(channel as any)
   )
 
   logger.info(`Found ${airtelChannels.count()} channels. Aligning IDs...`)
@@ -36,7 +36,7 @@ async function main() {
 
     // Attempt to find official ID if missing or invalid
     if (!xmltvId) {
-      const match = Object.values(data.channelsKeyById.data()).find((c: any) => 
+      const match = Object.values(data.channelsKeyById.data()).find((c) => 
         c.name.toLowerCase() === channel.name.toLowerCase() ||
         c.name.toLowerCase().replace(/\s+/g, '') === channel.name.toLowerCase().replace(/\s+/g, '')
       )

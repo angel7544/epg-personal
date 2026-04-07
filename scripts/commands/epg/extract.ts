@@ -1,6 +1,7 @@
 import { Storage } from '@freearhey/storage-js'
 import { Logger } from '@freearhey/core'
 import { Command } from 'commander'
+import { loadData, data } from '../../api'
 import path from 'node:path'
 import fs from 'node:fs'
 
@@ -14,7 +15,6 @@ const options = program.opts()
 
 async function main() {
   const logger = new Logger()
-  const storage = new Storage()
   const outputDir = path.resolve(options.output)
 
   if (!fs.existsSync(outputDir)) {
@@ -139,7 +139,7 @@ function parseXmlTime(timeStr: string) {
   const m = timeStr.match(regex)
   if (!m) return { ts: 0, display: '??:??' }
 
-  const [_, y, mo, d, h, mi, s, offset] = m
+  const [y, mo, d, h, mi, s, offset] = m.slice(1)
   const isoStr = `${y}-${mo}-${d}T${h}:${mi}:${s}${offset}`
   const date = new Date(isoStr)
 

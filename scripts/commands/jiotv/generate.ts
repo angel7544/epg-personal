@@ -4,7 +4,6 @@ import { EPGGrabber } from 'epg-grabber'
 import { generateChannelsXML } from '../../core'
 import { Channel } from '../../models'
 import { loadData, data } from '../../api'
-import path from 'node:path'
 
 async function main() {
   const logger = new Logger()
@@ -19,7 +18,7 @@ async function main() {
   const parsedChannels = EPGGrabber.parseChannelsXML(xml)
   
   const jiotvChannels = new Collection(parsedChannels).map(
-    (channel: any) => new Channel(channel)
+    (channel: Record<string, string>) => new Channel(channel as any)
   )
 
   logger.info(`Found ${jiotvChannels.count()} channels. Aligning IDs...`)
@@ -33,7 +32,7 @@ async function main() {
     // Attempt to find official ID if missing
     if (!xmltvId) {
       // Direct lookup by name in iptv-org database
-      const match = Object.values(data.channelsKeyById.data()).find((c: any) => 
+      const match = Object.values(data.channelsKeyById.data()).find((c) => 
         c.name.toLowerCase() === channel.name.toLowerCase() ||
         c.name.toLowerCase().replace(/\s+/g, '') === channel.name.toLowerCase().replace(/\s+/g, '')
       )
