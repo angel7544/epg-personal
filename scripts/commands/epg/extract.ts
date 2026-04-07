@@ -109,8 +109,13 @@ async function main() {
       }
     }
 
+    // Sharding logic: use the first character of the filename as the subdirectory
     const filename = `${cleanName.replace(/\s+/g, '_')}_in.json`
-    const filePath = path.join(outputDir, filename)
+    const shardDir = path.join(outputDir, filename.charAt(0).toLowerCase())
+    if (!fs.existsSync(shardDir)) {
+      fs.mkdirSync(shardDir, { recursive: true })
+    }
+    const filePath = path.join(shardDir, filename)
     fs.writeFileSync(filePath, JSON.stringify(uniquePrograms, null, 2), 'utf8')
   }
 

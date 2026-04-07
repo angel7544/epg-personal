@@ -9,17 +9,28 @@ Tools for downloading the EPG (Electronic Program Guide) for thousands of TV cha
 
 ## Table of contents
 
-- ✨ [Installation](#installation)
-- 🚀 [Usage](#usage)
-- 💫 [Update](#update)
-- 🐋 [Docker](#docker)
-- 📅 [Guides](#guides)
-- 🗄 [Database](#database)
-- 👨‍💻 [API](#api)
-- 📚 [Resources](#resources)
-- 💬 [Discussions](#discussions)
-- 🛠 [Contribution](#contribution)
-- 📄 [License](#license)
+- [🤖 Automated Daily Updates](#automated-daily-updates)
+- [✨ Installation](#installation)
+- [🚀 Usage](#usage)
+- [💫 Update](#update)
+- [🐋 Docker](#docker)
+- [📅 Guides](#guides)
+- [🗄 Database](#database)
+- [👨‍💻 API](#api)
+- [📚 Resources](#resources)
+- [💬 Discussions](#discussions)
+- [🛠 Contribution](#contribution)
+- [📄 License](#license)
+
+## 🤖 Automated Daily Updates
+
+This repository is now fully automated via GitHub Actions to handle **JioTV** and **Tata Play** EPG lifecycles:
+- **JioTV & Tata Play Sync**: Automatically generates and aligns channel lists.
+- **Multi-Source Grabbing**: Fetches individual XMLTV feeds for both providers.
+- **Smart Extraction**: Consolidates multiple sources into a single, high-performance JSON library.
+- **Sharded Architecture**: Organizes 1,200+ files into subdirectories (e.g., `s/star_plus_in.json`) to bypass GitHub's 1,000-file UI limit.
+
+For detailed setup instructions, see [AUTOMATION.md](AUTOMATION.md).
 
 ## Installation
 
