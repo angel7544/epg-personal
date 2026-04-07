@@ -79,7 +79,7 @@
     <tr><td><a href="sites/indihometv.com">indihometv.com</a></td><td align="right">128</td><td align="right">122</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/ionplustv.com">ionplustv.com</a></td><td align="right">1</td><td align="right">1</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/ipko.tv">ipko.tv</a></td><td align="right">194</td><td align="right">151</td><td align="center">🟢</td><td></td></tr>
-    <tr><td><a href="sites/jiotv.com">jiotv.com</a></td><td align="right">1094</td><td align="right">0</td><td align="center">🟢</td><td></td></tr>
+    <tr><td><a href="sites/jiotv.com">jiotv.com</a></td><td align="right">1094</td><td align="right">0</td><td align="center">🟢</td><td>[CI-Automated]</td></tr>
     <tr><td><a href="sites/kan.org.il">kan.org.il</a></td><td align="right">3</td><td align="right">3</td><td align="center">🔴</td><td>https://github.com/iptv-org/epg/issues/2273</td></tr>
     <tr><td><a href="sites/knr.gl">knr.gl</a></td><td align="right">1</td><td align="right">1</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/kvf.fo">kvf.fo</a></td><td align="right">1</td><td align="right">1</td><td align="center">🟢</td><td></td></tr>
@@ -167,7 +167,7 @@
     <tr><td><a href="sites/superguidatv.it">superguidatv.it</a></td><td align="right">204</td><td align="right">159</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/taiwanplus.com">taiwanplus.com</a></td><td align="right">1</td><td align="right">1</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/tapdmv.com">tapdmv.com</a></td><td align="right">39</td><td align="right">7</td><td align="center">🟢</td><td></td></tr>
-    <tr><td><a href="sites/tataplay.com">tataplay.com</a></td><td align="right">1103</td><td align="right">747</td><td align="center">🟢</td><td></td></tr>
+    <tr><td><a href="sites/tataplay.com">tataplay.com</a></td><td align="right">1103</td><td align="right">747</td><td align="center">🟢</td><td>[CI-Automated]</td></tr>
     <tr><td><a href="sites/telebilbao.es">telebilbao.es</a></td><td align="right">1</td><td align="right">1</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/teleboy.ch">teleboy.ch</a></td><td align="right">325</td><td align="right">0</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/telenet.tv">telenet.tv</a></td><td align="right">260</td><td align="right">91</td><td align="center">🟢</td><td></td></tr>

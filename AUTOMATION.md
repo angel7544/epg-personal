@@ -6,6 +6,40 @@ This repository is now equipped with a fully automated CI/CD pipeline for genera
 
 We have implemented a GitHub Action workflow that handles the entire EPG lifecycle automatically.
 
+## ⚙️ CI/CD Pipeline Architecture
+
+The following diagram illustrates the daily automated lifecycle, including the **Monthly Fresh Reset** logic.
+
+```mermaid
+graph TD
+    A[Trigger: Daily 00:00 / Monthly 1st] --> B{Is it the 1st?}
+    B -- Yes --> C[Monthly Cleanup: rm -rf src/epg-data/*]
+    B -- No --> D[Continue]
+    C --> D
+    D --> E[Sync: jiotv:generate & tataplay:generate]
+    E --> F[Grab: fetch india.xml & tataplay.xml]
+    F --> G[Extract & Shard: npm run epg:extract]
+    G --> H[Commit: Updated M3U & JSON Nodes]
+    H --> I[Push: master branch]
+    
+    style C fill:#f96,stroke:#333,stroke-width:2px
+    style I fill:#00ff00,stroke:#333,stroke-width:2px
+```
+
+## 📂 Sharding & Hashing Logic
+
+To ensure **O(1) lookup performance** and bypass GitHub's 1,000-file directory limit, we use a deterministic sharding strategy.
+
+```mermaid
+graph LR
+    ID[Channel ID: star_plus_in] --> Hash[First Character: 's']
+    Hash --> Path[Path: src/epg-data/s/star_plus_in.json]
+    
+    subgraph "Sharding Engine"
+    Hash
+    end
+```
+
 ### What it does:
 1. **Daily Trigger**: Runs every day at `00:00 UTC`.
 2. **Channel Alignment**: Executes `jiotv:generate` and `tataplay:generate` to keep channel lists and M3U files perfectly synced with the provider's official IDs.

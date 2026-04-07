@@ -273,20 +273,65 @@ graph LR
 
     subgraph "EPG Transformation Engine"
     X[Raw XMLTV Feed] -->|JS Extraction| J[(Micro-JSON Nodes)]
-    J -->|O1 Dictionary| C[Optimized Search]
+### 🏗️ System Architecture: From Monolith to Distributed JSON
+
+The transition from a 10MB monolithic XML feed to a Distributed JSON architecture has revolutionized client-side performance.
+
+```mermaid
+graph TD
+    subgraph "External Providers"
+    TP[Tata Play API]
+    JIO[Jio TV API]
     end
 
-    subgraph "High Performance UI"
-    C -->|Virtualization| V[Responsive Grid]
-    V -->|Real-time Sync| U([End User Experience])
+    subgraph "Aggregation Layer"
+    xml[Raw XMLTV Feeds]
     end
 
-    S --> X
+    subgraph "Transformation Engine (O1 Optimization)"
+    sh[Sharded Extraction] --> |Hashing| S1[Shard A]
+    sh --> |Hashing| S2[Shard B]
+    sh --> |Hashing| Sn[Shard Z]
+    end
+
+    subgraph "Frontend Client (Vega App)"
+    v[Virtual Grid] --> |O1 Lookup| Sn
+    end
+
+    TP --> xml
+    JIO --> xml
+    xml --> sh
 ```
 
-### ⚡ Key Contributions by @angel7544:
-- **Tata Play Custom Ingestion**: Engineered a tailored metadata alignment for Indian satellite channels.
-- **Micro-JSON Architecture**: Switched from massive monolithic XML files to lightning-fast, on-demand JSON extraction, preventing OOM crashes.
-- **O(1) Search Engine**: Implemented cross-channel dictionary lookups for instantaneous schedule mapping.
-- **Memory-Safe Core**: Re-architected the parsing engine to handle large-scale feeds without memory leaks using advanced buffer management.
+### 📊 Data Relationship (ER Diagram)
+
+This diagram shows how XMLTV attributes are mapped and distributed across the sharded storage system.
+
+```mermaid
+erDiagram
+    XML-SOURCE {
+        string channel_id
+        string start_time
+        string stop_time
+        string title
+    }
+    SHARD {
+        string prefix_key
+        string folder_path
+    }
+    JSON-NODE {
+        string filename
+        array programs
+    }
+
+    XML-SOURCE ||--o{ SHARD : "extracted into"
+    SHARD ||--o{ JSON-NODE : "contains"
+```
+
+### ⚡ Key Engineering Achievements:
+- **Distributed Sharding**: Implemented a first-character hashing system to stay under GitHub's 1,000-file per directory UI limit while providing instantaneous file system lookups.
+- **Automated Dual-Provider Ingestion**: Engineered a fully automated pipeline for **JioTV** and **Tata Play** that updates daily without manual intervention.
+- **O(1) Search Complexity**: Re-architected the parsing engine to ensure clients can fetch channel data in constant time, bypassing the need to parse massive XML files on mobile devices.
+- **Monthly Fresh Reset**: Integrated a smart cleanup strategy that on the 1st of every month clears the environment to prevent Git history bloat.
+- **Memory-Safe Core**: Re-architected handling of large-scale feeds using optimized buffer management, preventing OOM (Out of Memory) crashes on low-end hardware.
 - **Global Timer Synchronization**: Resolved complex timestamp formatting issues to ensure accurate live-program tracking across all time zones.

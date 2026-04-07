@@ -10,3 +10,16 @@
 </table>
 
 [How can I add my server to the list?](CONTRIBUTING.md#how-to-add-my-server-to-the-guides-md)
+
+---
+
+## 🛠️ Self-Hosting the Automated Pipeline
+
+You can now host your own high-performance EPG server using our new **Sharded JSON Architecture**.
+
+### Benefits:
+- **Zero Maintenance**: Fully automated via GitHub Actions (Daily + Monthly reset).
+- **High Performance**: Clients can fetch channel data in **O(1) time** using sharded paths.
+- **Provider Support**: Out-of-the-box support for **JioTV** and **Tata Play**.
+
+See [AUTOMATION.md](AUTOMATION.md) for detailed setup instructions.

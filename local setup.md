@@ -10,16 +10,27 @@ Ensure you have Node.js and Git installed, and you have already installed the pr
 npm install
 ```
 
-## Jio TV Workflow (Indian Channels)
+## 🛠️ Local Developer Workflow
 
-### Step 1: Generate Playlist & Mapping
-```bash
-npm run jiotv:generate
+The following flowchart shows the cycle for testing EPG updates locally.
+
+```mermaid
+graph LR
+    G[npm run grab] --> E[npm run epg:extract]
+    E --> S{Sharding Logic}
+    S --> D[src/epg-data/{shard}/*.json]
+    D --> V[Vega App Frontend]
+    
+    style S fill:#f9f,stroke:#333,stroke-width:2px
 ```
 
-### Step 2: Fetch EPG Data (XML)
+## Jio TV & Tata Play Workflow (Consolidated)
+
+You can now generate both Indian channel providers in a single extraction pass.
+
+### Step 1: Generate Channel Lists
 ```bash
-npm run grab --- --channels=india.channels.xml --output=india.xml
+npm run jiotv:generate
 ```
 
 ### Step 3: Extract JSON for App

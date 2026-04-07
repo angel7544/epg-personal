@@ -463,7 +463,20 @@ To run scripts use the `npm run <script-name>` command.
 - `sites:init`: creates a new site config from the template.
 - `sites:update`: updates the list of sites and their status in [SITES.md](SITES.md).
 - `guides:update`: updates the list of guides and their status in [GUIDES.md](GUIDES.md).
+- `jiotv:generate`: custom script to align JioTV metadata with the official database.
+- `tataplay:generate`: custom script to align Tata Play metadata with the official database.
+- `epg:extract`: high-performance script to extract XMLTV into Sharded JSON nodes.
 - `grab`: downloads a program from a specified source.
 - `serve`: starts the [web server](https://github.com/vercel/serve).
 - `lint`: сhecks the scripts for syntax errors.
 - `test`: runs a test of all the scripts described above.
+
+---
+
+## 🤖 Contributing to Automated Providers
+
+If you would like to help maintain the **JioTV** or **Tata Play** automation:
+
+1. **Mapping Fixes**: Update the mapping logic in `scripts/commands/jiotv/generate.ts` or `scripts/commands/tataplay/generate.ts` if channel IDs are mismatched.
+2. **Sharding Updates**: If we need to change how the data is distributed, modify `scripts/commands/epg/extract.ts`.
+3. **New Providers**: If you want to add a new provider with an automated pipeline, create a new `generate.ts` script in a subfolder and add it to the `.github/workflows/update_epg.yml` file.
