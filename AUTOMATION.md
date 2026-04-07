@@ -13,6 +13,7 @@ We have implemented a GitHub Action workflow that handles the entire EPG lifecyc
 4. **Smart Extraction**: Runs `npm run epg:extract` to consolidate and convert both XML sources into channel-specific JSON files.
 5. **Sharded Distribution**: Automatically organizes files into subdirectories (e.g., `a/`, `b/`, `s/`) to stay under GitHub's 1,000-file per directory limit.
 6. **Auto-Commit**: Pushes updated `.m3u`, `.channels.xml`, and the sharded `.json` data directly to your `master` branch.
+7. **Monthly Fresh Reset**: On the 1st of every month, the pipeline automatically clears the `src/epg-data` folder before regeneration. This prevents your Git history from bloating with old, unused data over time.
 
 ### How to trigger manually:
 1. Navigate to the **Actions** tab in this repository.

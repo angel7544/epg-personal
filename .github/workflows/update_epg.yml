@@ -2,8 +2,15 @@ name: Auto Update EPG
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Daily at midnight UTC
+    - cron: '0 0 * * *'   # Daily at midnight UTC
+    - cron: '30 0 1 * *'  # Monthly on the 1st at 00:30 UTC (Fresh Reset)
   workflow_dispatch: # Allows manual trigger
+    inputs:
+      cleanup:
+        description: 'Force Fresh Reset (Clears src/epg-data)'
+        required: false
+        default: 'false'
+        type: boolean
 
 jobs:
   update-epg:
@@ -34,6 +41,12 @@ jobs:
 
       - name: Grab EPG (Tata Play)
         run: npm run grab -- --channels=tataplay.channels.xml --output=tataplay.xml --days=2
+
+      - name: Monthly Cleanup (Fresh Reset)
+        if: contains(github.event.schedule, '30 0 1 * *') || github.event.inputs.cleanup == 'true'
+        run: |
+          echo "📅 Monthly Fresh Reset triggered. Clearing old data..."
+          rm -rf src/epg-data/*
 
       - name: Extract EPG
         run: npm run epg:extract -- -i india.xml tataplay.xml -o src/epg-data
