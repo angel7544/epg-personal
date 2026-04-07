@@ -59,6 +59,25 @@ npm run epg:extract -- --input tataplay.xml --output ../vega-app/src/epg-data
 
 ---
 
+## Airtel Xstream Workflow (Indian Channels)
+
+### Step 1: Generate Channel Lists
+```bash
+npm run airtel:generate
+```
+
+### Step 2: Fetch EPG Data (XML)
+```bash
+npm run grab --- --channels=india-airtel.channels.xml --output=india-airtel.xml
+```
+
+### Step 3: Extract JSON for App
+```bash
+npm run epg:extract -- --input india-airtel.xml --output ../vega-app/src/epg-data
+```
+
+---
+
 ## Summary of Files
 
 | File | Purpose |

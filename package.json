@@ -16,6 +16,8 @@
     "guides:update": "tsx scripts/commands/guides/update.ts",
     "jiotv:generate": "tsx scripts/commands/jiotv/generate.ts",
     "tataplay:generate": "tsx scripts/commands/tataplay/generate.ts",
+    "airtel:generate": "tsx scripts/commands/airtel/generate.ts",
+    "aitertel:generate": "npm run airtel:generate",
     "grab": "tsx scripts/commands/epg/grab.ts",
     "epg:extract": "tsx scripts/commands/epg/extract.ts",
     "lint": "npx eslint \"{scripts,tests,sites}/**/*.{ts,mts,js}\"",

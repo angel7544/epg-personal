@@ -1,38 +1,5 @@
 [
   {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1775543400000,
-    "stopTs": 1775545200000,
-    "title": "Times Now Live",
-    "desc": "The host presents the latest news and developments from across the world."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1775545200000,
-    "stopTs": 1775547000000,
-    "title": "Times LIVE 30",
-    "desc": "The host presents the latest thirty headlines of the day in fast pace, live."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1775547000000,
-    "stopTs": 1775548800000,
-    "title": "Newsroom 365",
-    "desc": "The host presents latest updates on the various issues about the current affairs of the country."
-  },
-  {
     "start": "08:00",
     "stop": "08:30",
     "channel": "TimesNowWorld.in",
@@ -41,7 +8,7 @@
     "startTs": 1775548800000,
     "stopTs": 1775550600000,
     "title": "Times LIVE 30",
-    "desc": "The host presents the latest thirty headlines of the day in fast pace, live."
+    "desc": "The host presents the top thirty headlines pertaining to political,social and economical issues of the day in fast pace, live."
   },
   {
     "start": "08:30",
@@ -52,7 +19,7 @@
     "startTs": 1775550600000,
     "stopTs": 1775552400000,
     "title": "Breaking Ground",
-    "desc": "The host presents the latest updates on various issues affecting the country."
+    "desc": "The host presents the latest updates and developments on various political, social and economic issues affecting the country."
   },
   {
     "start": "09:00",
@@ -63,7 +30,7 @@
     "startTs": 1775552400000,
     "stopTs": 1775554200000,
     "title": "Breaking Ground",
-    "desc": "The host presents the latest updates on various issues affecting the country."
+    "desc": "The host presents the latest updates and developments on various political, social and economic issues affecting the country."
   },
   {
     "start": "09:30",
@@ -74,7 +41,7 @@
     "startTs": 1775554200000,
     "stopTs": 1775561400000,
     "title": "Times Now LiveWire",
-    "desc": "The host presents a quick summary of various topical national and international events."
+    "desc": "The host presents a quick summary of various topical national and international events along with their key insights in quick succession."
   },
   {
     "start": "11:30",
@@ -85,7 +52,7 @@
     "startTs": 1775561400000,
     "stopTs": 1775563200000,
     "title": "Breaking Ground",
-    "desc": "The host presents the latest updates on various issues affecting the country."
+    "desc": "The host presents the latest updates and developments on various political, social and economic issues affecting the country."
   },
   {
     "start": "12:00",
@@ -96,7 +63,7 @@
     "startTs": 1775563200000,
     "stopTs": 1775565000000,
     "title": "Breaking Ground",
-    "desc": "The host presents the latest updates on various issues affecting the country."
+    "desc": "The host presents the latest updates and developments on various political, social and economic issues affecting the country."
   },
   {
     "start": "12:30",
@@ -107,7 +74,7 @@
     "startTs": 1775565000000,
     "stopTs": 1775566800000,
     "title": "Blueprint",
-    "desc": "The host presents the latest news on pressing issues of national and global importance."
+    "desc": "The host provides an in-depth insight into the latest news, current affairs and developments on some of the most pressing issues of national and international importance."
   },
   {
     "start": "13:00",
@@ -118,7 +85,7 @@
     "startTs": 1775566800000,
     "stopTs": 1775568600000,
     "title": "Blueprint",
-    "desc": "The host presents the latest news on pressing issues of national and global importance."
+    "desc": "The host provides an in-depth insight into the latest news, current affairs and developments on some of the most pressing issues of national and international importance."
   },
   {
     "start": "13:30",
@@ -129,7 +96,7 @@
     "startTs": 1775568600000,
     "stopTs": 1775570400000,
     "title": "Nation Wants to Know",
-    "desc": "The host explores pressing national issues, offering in-depth analyses and interviews."
+    "desc": "The host delves into pressing national issues, offering in-depth analyses, investigative reports and interviews to uncover the truth behind significant events and controversies."
   },
   {
     "start": "14:00",
@@ -140,7 +107,7 @@
     "startTs": 1775570400000,
     "stopTs": 1775572200000,
     "title": "Nation Wants to Know",
-    "desc": "The host explores pressing national issues, offering in-depth analyses and interviews."
+    "desc": "The host delves into pressing national issues, offering in-depth analyses, investigative reports and interviews to uncover the truth behind significant events and controversies."
   },
   {
     "start": "14:30",
@@ -151,7 +118,7 @@
     "startTs": 1775572200000,
     "stopTs": 1775574000000,
     "title": "India Upfront",
-    "desc": "The host provides insight and analysis on various current news and events in India."
+    "desc": "The host provides in-depth insights and factual analysis on the latest news, updates and developments on a range of issues relating to India."
   },
   {
     "start": "15:00",
@@ -162,7 +129,7 @@
     "startTs": 1775574000000,
     "stopTs": 1775575800000,
     "title": "India Upfront",
-    "desc": "The host provides insight and analysis on various current news and events in India."
+    "desc": "The host provides in-depth insights and factual analysis on the latest news, updates and developments on a range of issues relating to India."
   },
   {
     "start": "15:30",
@@ -173,7 +140,7 @@
     "startTs": 1775575800000,
     "stopTs": 1775577600000,
     "title": "The Newshour @ 9",
-    "desc": "The host holds a debate with prominent personalities on several topics."
+    "desc": "The host invites prominent personalities from various fields and holds a debate with them on several social and political issues."
   },
   {
     "start": "16:00",
@@ -184,7 +151,7 @@
     "startTs": 1775577600000,
     "stopTs": 1775579400000,
     "title": "The Newshour @ 9",
-    "desc": "The host holds a debate with prominent personalities on several topics."
+    "desc": "The host invites prominent personalities from various fields and holds a debate with them on several social and political issues."
   },
   {
     "start": "16:30",
@@ -195,7 +162,7 @@
     "startTs": 1775579400000,
     "stopTs": 1775581200000,
     "title": "The Newshour 10 Agenda",
-    "desc": "The host presents the latest updates on various national and international issues."
+    "desc": "The host provides an in-depth analysis of the latest updates and developments on various national and international issues."
   },
   {
     "start": "17:00",
@@ -206,7 +173,7 @@
     "startTs": 1775581200000,
     "stopTs": 1775583000000,
     "title": "The Newshour 10 Agenda",
-    "desc": "The host presents the latest updates on various national and international issues."
+    "desc": "The host provides an in-depth analysis of the latest updates and developments on various national and international issues."
   },
   {
     "start": "17:30",
@@ -217,18 +184,18 @@
     "startTs": 1775583000000,
     "stopTs": 1775584800000,
     "title": "India Upfront",
-    "desc": "The host provides insight and analysis on various current news and events in India."
+    "desc": "The host provides in-depth insights and factual analysis on the latest news, updates and developments on a range of issues relating to India."
   },
   {
     "start": "18:00",
-    "stop": "18:30",
+    "stop": "18:29",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
     "channelName": "Times Now World",
     "startTs": 1775584800000,
-    "stopTs": 1775586600000,
+    "stopTs": 1775586599000,
     "title": "India Upfront",
-    "desc": "The host provides insight and analysis on various current news and events in India."
+    "desc": "The host provides in-depth insights and factual analysis on the latest news, updates and developments on a range of issues relating to India."
   },
   {
     "start": "18:30",
@@ -239,7 +206,7 @@
     "startTs": 1775586600000,
     "stopTs": 1775588400000,
     "title": "The Newshour First",
-    "desc": "A panel of experts discuss various issues from across the nation."
+    "desc": "The hosts invite a panel of experts to engage in a debate and discuss various issues pertaining to the political, social and economic issues of the nation."
   },
   {
     "start": "19:00",
@@ -250,7 +217,7 @@
     "startTs": 1775588400000,
     "stopTs": 1775590200000,
     "title": "The Newshour First",
-    "desc": "A panel of experts discuss various issues from across the nation."
+    "desc": "The hosts invite a panel of experts to engage in a debate and discuss various issues pertaining to the political, social and economic issues of the nation."
   },
   {
     "start": "19:30",
@@ -261,7 +228,7 @@
     "startTs": 1775590200000,
     "stopTs": 1775592000000,
     "title": "The Newshour First",
-    "desc": "A panel of experts discuss various issues from across the nation."
+    "desc": "The hosts invite a panel of experts to engage in a debate and discuss various issues pertaining to the political, social and economic issues of the nation."
   },
   {
     "start": "20:00",
@@ -272,7 +239,7 @@
     "startTs": 1775592000000,
     "stopTs": 1775593800000,
     "title": "The Newshour First",
-    "desc": "A panel of experts discuss various issues from across the nation."
+    "desc": "The hosts invite a panel of experts to engage in a debate and discuss various issues pertaining to the political, social and economic issues of the nation."
   },
   {
     "start": "20:30",
@@ -283,7 +250,7 @@
     "startTs": 1775593800000,
     "stopTs": 1775595600000,
     "title": "India Upfront",
-    "desc": "The host provides insight and analysis on various current news and events in India."
+    "desc": "The host provides in-depth insights and factual analysis on the latest news, updates and developments on a range of issues relating to India."
   },
   {
     "start": "21:00",
@@ -294,7 +261,7 @@
     "startTs": 1775595600000,
     "stopTs": 1775597400000,
     "title": "India Upfront",
-    "desc": "The host provides insight and analysis on various current news and events in India."
+    "desc": "The host provides in-depth insights and factual analysis on the latest news, updates and developments on a range of issues relating to India."
   },
   {
     "start": "21:30",
@@ -305,7 +272,7 @@
     "startTs": 1775597400000,
     "stopTs": 1775599200000,
     "title": "The Newshour First",
-    "desc": "A panel of experts discuss various issues from across the nation."
+    "desc": "The hosts invite a panel of experts to engage in a debate and discuss various issues pertaining to the political, social and economic issues of the nation."
   },
   {
     "start": "22:00",
@@ -316,7 +283,7 @@
     "startTs": 1775599200000,
     "stopTs": 1775601000000,
     "title": "The Newshour First",
-    "desc": "A panel of experts discuss various issues from across the nation."
+    "desc": "The hosts invite a panel of experts to engage in a debate and discuss various issues pertaining to the political, social and economic issues of the nation."
   },
   {
     "start": "22:30",
@@ -327,7 +294,7 @@
     "startTs": 1775601000000,
     "stopTs": 1775602800000,
     "title": "The Newshour First",
-    "desc": "A panel of experts discuss various issues from across the nation."
+    "desc": "The hosts invite a panel of experts to engage in a debate and discuss various issues pertaining to the political, social and economic issues of the nation."
   },
   {
     "start": "23:00",
@@ -338,7 +305,7 @@
     "startTs": 1775602800000,
     "stopTs": 1775604600000,
     "title": "The Newshour First",
-    "desc": "A panel of experts discuss various issues from across the nation."
+    "desc": "The hosts invite a panel of experts to engage in a debate and discuss various issues pertaining to the political, social and economic issues of the nation."
   },
   {
     "start": "23:30",
@@ -349,7 +316,7 @@
     "startTs": 1775604600000,
     "stopTs": 1775606400000,
     "title": "The Newshour First",
-    "desc": "A panel of experts discuss various issues from across the nation."
+    "desc": "The hosts invite a panel of experts to engage in a debate and discuss various issues pertaining to the political, social and economic issues of the nation."
   },
   {
     "start": "00:00",
@@ -360,7 +327,7 @@
     "startTs": 1775606400000,
     "stopTs": 1775608200000,
     "title": "The Newshour First",
-    "desc": "A panel of experts discuss various issues from across the nation."
+    "desc": "The hosts invite a panel of experts to engage in a debate and discuss various issues pertaining to the political, social and economic issues of the nation."
   },
   {
     "start": "00:30",
@@ -393,7 +360,7 @@
     "startTs": 1775611800000,
     "stopTs": 1775613600000,
     "title": "First Break",
-    "desc": "The host presents the latest updates on the important national and international stories."
+    "desc": "The host presents the latest updates on the important national and international political and economic news stories from around the world."
   },
   {
     "start": "02:00",
@@ -404,7 +371,7 @@
     "startTs": 1775613600000,
     "stopTs": 1775615400000,
     "title": "First Break",
-    "desc": "The host presents the latest updates on the important national and international stories."
+    "desc": "The host presents the latest updates on the important national and international political and economic news stories from around the world."
   },
   {
     "start": "02:30",
@@ -415,7 +382,7 @@
     "startTs": 1775615400000,
     "stopTs": 1775617200000,
     "title": "The Morning Newshour",
-    "desc": "The host provides a detailed report on matters concerning the nation and the world."
+    "desc": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world."
   },
   {
     "start": "03:00",
@@ -426,7 +393,7 @@
     "startTs": 1775617200000,
     "stopTs": 1775619000000,
     "title": "The Morning Newshour",
-    "desc": "The host provides a detailed report on matters concerning the nation and the world."
+    "desc": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world."
   },
   {
     "start": "03:30",
@@ -437,7 +404,7 @@
     "startTs": 1775619000000,
     "stopTs": 1775620800000,
     "title": "The Morning Newshour",
-    "desc": "The host provides a detailed report on matters concerning the nation and the world."
+    "desc": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world."
   },
   {
     "start": "04:00",
@@ -448,7 +415,7 @@
     "startTs": 1775620800000,
     "stopTs": 1775622600000,
     "title": "The Morning Newshour",
-    "desc": "The host provides a detailed report on matters concerning the nation and the world."
+    "desc": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world."
   },
   {
     "start": "04:30",
@@ -459,7 +426,7 @@
     "startTs": 1775622600000,
     "stopTs": 1775628000000,
     "title": "Times Now Live",
-    "desc": "The host presents the latest news and developments from across the world."
+    "desc": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
   },
   {
     "start": "06:00",
@@ -470,7 +437,7 @@
     "startTs": 1775628000000,
     "stopTs": 1775629800000,
     "title": "News Flash",
-    "desc": "The host shares some of the latest national news on a range of topics of public interest."
+    "desc": "The host provides an in-depth insight into some of the latest news, current affairs and developments on a range of topics of public interest from across the country."
   },
   {
     "start": "06:30",
@@ -481,7 +448,7 @@
     "startTs": 1775629800000,
     "stopTs": 1775631600000,
     "title": "Times Now Live",
-    "desc": "The host presents the latest news and developments from across the world."
+    "desc": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
   },
   {
     "start": "07:00",
@@ -492,7 +459,7 @@
     "startTs": 1775631600000,
     "stopTs": 1775633400000,
     "title": "Times LIVE 30",
-    "desc": "The host presents the latest thirty headlines of the day in fast pace, live."
+    "desc": "The host presents the top thirty headlines pertaining to political,social and economical issues of the day in fast pace, live."
   },
   {
     "start": "07:30",
@@ -503,7 +470,7 @@
     "startTs": 1775633400000,
     "stopTs": 1775635200000,
     "title": "Newsroom 365",
-    "desc": "The host presents latest updates on the various issues about the current affairs of the country."
+    "desc": "The host presents some of the latest updates and developments pertaining to the political, social and economic issues of the day."
   },
   {
     "start": "08:00",
@@ -514,7 +481,7 @@
     "startTs": 1775635200000,
     "stopTs": 1775637000000,
     "title": "Times LIVE 30",
-    "desc": "The host presents the latest thirty headlines of the day in fast pace, live."
+    "desc": "The host presents the top thirty headlines pertaining to political,social and economical issues of the day in fast pace, live."
   },
   {
     "start": "08:30",
@@ -525,7 +492,7 @@
     "startTs": 1775637000000,
     "stopTs": 1775638800000,
     "title": "Breaking Ground",
-    "desc": "The host presents the latest updates on various issues affecting the country."
+    "desc": "The host presents the latest updates and developments on various political, social and economic issues affecting the country."
   },
   {
     "start": "09:00",
@@ -536,7 +503,7 @@
     "startTs": 1775638800000,
     "stopTs": 1775640600000,
     "title": "Breaking Ground",
-    "desc": "The host presents the latest updates on various issues affecting the country."
+    "desc": "The host presents the latest updates and developments on various political, social and economic issues affecting the country."
   },
   {
     "start": "09:30",
@@ -547,7 +514,7 @@
     "startTs": 1775640600000,
     "stopTs": 1775647800000,
     "title": "Times Now LiveWire",
-    "desc": "The host presents a quick summary of various topical national and international events."
+    "desc": "The host presents a quick summary of various topical national and international events along with their key insights in quick succession."
   },
   {
     "start": "11:30",
@@ -558,7 +525,7 @@
     "startTs": 1775647800000,
     "stopTs": 1775649600000,
     "title": "Breaking Ground",
-    "desc": "The host presents the latest updates on various issues affecting the country."
+    "desc": "The host presents the latest updates and developments on various political, social and economic issues affecting the country."
   },
   {
     "start": "12:00",
@@ -569,7 +536,7 @@
     "startTs": 1775649600000,
     "stopTs": 1775651400000,
     "title": "Breaking Ground",
-    "desc": "The host presents the latest updates on various issues affecting the country."
+    "desc": "The host presents the latest updates and developments on various political, social and economic issues affecting the country."
   },
   {
     "start": "12:30",
@@ -580,7 +547,7 @@
     "startTs": 1775651400000,
     "stopTs": 1775653200000,
     "title": "Blueprint",
-    "desc": "The host presents the latest news on pressing issues of national and global importance."
+    "desc": "The host provides an in-depth insight into the latest news, current affairs and developments on some of the most pressing issues of national and international importance."
   },
   {
     "start": "13:00",
@@ -591,7 +558,7 @@
     "startTs": 1775653200000,
     "stopTs": 1775655000000,
     "title": "Blueprint",
-    "desc": "The host presents the latest news on pressing issues of national and global importance."
+    "desc": "The host provides an in-depth insight into the latest news, current affairs and developments on some of the most pressing issues of national and international importance."
   },
   {
     "start": "13:30",
@@ -602,7 +569,7 @@
     "startTs": 1775655000000,
     "stopTs": 1775656800000,
     "title": "Nation Wants to Know",
-    "desc": "The host explores pressing national issues, offering in-depth analyses and interviews."
+    "desc": "The host delves into pressing national issues, offering in-depth analyses, investigative reports and interviews to uncover the truth behind significant events and controversies."
   },
   {
     "start": "14:00",
@@ -613,7 +580,7 @@
     "startTs": 1775656800000,
     "stopTs": 1775658600000,
     "title": "Nation Wants to Know",
-    "desc": "The host explores pressing national issues, offering in-depth analyses and interviews."
+    "desc": "The host delves into pressing national issues, offering in-depth analyses, investigative reports and interviews to uncover the truth behind significant events and controversies."
   },
   {
     "start": "14:30",
@@ -624,7 +591,7 @@
     "startTs": 1775658600000,
     "stopTs": 1775660400000,
     "title": "India Upfront",
-    "desc": "The host provides insight and analysis on various current news and events in India."
+    "desc": "The host provides in-depth insights and factual analysis on the latest news, updates and developments on a range of issues relating to India."
   },
   {
     "start": "15:00",
@@ -635,7 +602,7 @@
     "startTs": 1775660400000,
     "stopTs": 1775662200000,
     "title": "India Upfront",
-    "desc": "The host provides insight and analysis on various current news and events in India."
+    "desc": "The host provides in-depth insights and factual analysis on the latest news, updates and developments on a range of issues relating to India."
   },
   {
     "start": "15:30",
@@ -646,7 +613,7 @@
     "startTs": 1775662200000,
     "stopTs": 1775664000000,
     "title": "The Newshour @ 9",
-    "desc": "The host holds a debate with prominent personalities on several topics."
+    "desc": "The host invites prominent personalities from various fields and holds a debate with them on several social and political issues."
   },
   {
     "start": "16:00",
@@ -657,7 +624,7 @@
     "startTs": 1775664000000,
     "stopTs": 1775665800000,
     "title": "The Newshour @ 9",
-    "desc": "The host holds a debate with prominent personalities on several topics."
+    "desc": "The host invites prominent personalities from various fields and holds a debate with them on several social and political issues."
   },
   {
     "start": "16:30",
@@ -668,7 +635,7 @@
     "startTs": 1775665800000,
     "stopTs": 1775667600000,
     "title": "The Newshour 10 Agenda",
-    "desc": "The host presents the latest updates on various national and international issues."
+    "desc": "The host provides an in-depth analysis of the latest updates and developments on various national and international issues."
   },
   {
     "start": "17:00",
@@ -679,7 +646,7 @@
     "startTs": 1775667600000,
     "stopTs": 1775669400000,
     "title": "The Newshour 10 Agenda",
-    "desc": "The host presents the latest updates on various national and international issues."
+    "desc": "The host provides an in-depth analysis of the latest updates and developments on various national and international issues."
   },
   {
     "start": "17:30",
@@ -690,17 +657,17 @@
     "startTs": 1775669400000,
     "stopTs": 1775671200000,
     "title": "India Upfront",
-    "desc": "The host provides insight and analysis on various current news and events in India."
+    "desc": "The host provides in-depth insights and factual analysis on the latest news, updates and developments on a range of issues relating to India."
   },
   {
     "start": "18:00",
-    "stop": "18:30",
+    "stop": "18:29",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
     "channelName": "Times Now World",
     "startTs": 1775671200000,
-    "stopTs": 1775673000000,
+    "stopTs": 1775672999000,
     "title": "India Upfront",
-    "desc": "The host provides insight and analysis on various current news and events in India."
+    "desc": "The host provides in-depth insights and factual analysis on the latest news, updates and developments on a range of issues relating to India."
   }
 ]

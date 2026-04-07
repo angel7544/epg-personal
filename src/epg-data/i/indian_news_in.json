@@ -1,38 +1,5 @@
 [
   {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "IndianNews.in",
-    "channelId": "IndianNews.in",
-    "channelName": "Indian News",
-    "startTs": 1775543400000,
-    "stopTs": 1775545200000,
-    "title": "Sajna Hai Mujhe",
-    "desc": "The host shares beauty tips and techniques to help viewers experiment with their looks."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "IndianNews.in",
-    "channelId": "IndianNews.in",
-    "channelName": "Indian News",
-    "startTs": 1775545200000,
-    "stopTs": 1775547000000,
-    "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "IndianNews.in",
-    "channelId": "IndianNews.in",
-    "channelName": "Indian News",
-    "startTs": 1775547000000,
-    "stopTs": 1775548800000,
-    "title": "Bharat Ki Beti",
-    "desc": "The host presents the latest news stories surrounding various issues around the country."
-  },
-  {
     "start": "08:00",
     "stop": "08:30",
     "channel": "IndianNews.in",
@@ -41,7 +8,7 @@
     "startTs": 1775548800000,
     "stopTs": 1775550600000,
     "title": "Bazaar Garam Hai",
-    "desc": "The host collates and presents the latest updates and developments in the share market."
+    "desc": "The host collates and presents the latest updates and developments about the share market and provides tips related to investments."
   },
   {
     "start": "08:30",
@@ -52,7 +19,7 @@
     "startTs": 1775550600000,
     "stopTs": 1775552400000,
     "title": "Filmy Tadka",
-    "desc": "The host sheds light on the latest news stories pertaining to the entertainment industry."
+    "desc": "The host sheds light on the latest news stories pertaining to the entertainment industry and shares updates on renowned celebrities."
   },
   {
     "start": "09:00",
@@ -63,7 +30,7 @@
     "startTs": 1775552400000,
     "stopTs": 1775554200000,
     "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
+    "desc": "The host sheds light on the top social, political and economic stories and latest updates in the country, alongside developments in the fields of sports and entertainment."
   },
   {
     "start": "09:30",
@@ -74,7 +41,7 @@
     "startTs": 1775554200000,
     "stopTs": 1775556000000,
     "title": "Recipe Mein Aaj",
-    "desc": "An eminent chef shares and demonstrates cooking recipes and dishes."
+    "desc": "An expert chef shares recipes from different cuisines, along with demonstrating the process of cooking the dish, step by step."
   },
   {
     "start": "10:00",
@@ -85,7 +52,7 @@
     "startTs": 1775556000000,
     "stopTs": 1775557800000,
     "title": "Bollywood",
-    "desc": "The host provides the latest celebrity news and gossip from the Bollywood film industry."
+    "desc": "The host provides the latest Bollywood news and gossip while also showcasing trailers and promotions for upcoming films and television series."
   },
   {
     "start": "10:30",
@@ -96,7 +63,7 @@
     "startTs": 1775557800000,
     "stopTs": 1775559600000,
     "title": "Khas Mulakat",
-    "desc": "The host interviews some of the most influential personalities from politics."
+    "desc": "The host interviews some of the most influential personalities from the field of politics and entertainment to talk about their lives, work and future plans."
   },
   {
     "start": "11:00",
@@ -107,7 +74,7 @@
     "startTs": 1775559600000,
     "stopTs": 1775561400000,
     "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
+    "desc": "The host sheds light on the top social, political and economic stories and latest updates in the country, alongside developments in the fields of sports and entertainment."
   },
   {
     "start": "11:30",
@@ -118,7 +85,7 @@
     "startTs": 1775561400000,
     "stopTs": 1775563200000,
     "title": "Khelega India",
-    "desc": "The host sheds light on the latest news updates and key stories pertaining to the field of sports."
+    "desc": "The host sheds light on the latest news updates and key stories pertaining to the field of sports from around the country and the world."
   },
   {
     "start": "12:00",
@@ -140,7 +107,7 @@
     "startTs": 1775565000000,
     "stopTs": 1775566800000,
     "title": "Janta Toh Bolegi",
-    "desc": "The host asks locals to share their views on matters related to the state and the country."
+    "desc": "The host interviews locals on matters related to the state and country, encouraging them to share their views on these issues."
   },
   {
     "start": "13:00",
@@ -151,7 +118,7 @@
     "startTs": 1775566800000,
     "stopTs": 1775568600000,
     "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
+    "desc": "The host sheds light on the top social, political and economic stories and latest updates in the country, alongside developments in the fields of sports and entertainment."
   },
   {
     "start": "13:30",
@@ -162,7 +129,7 @@
     "startTs": 1775568600000,
     "stopTs": 1775570400000,
     "title": "Direct With CM",
-    "desc": "The host engages in a direct conversation with the chief minister about important issues."
+    "desc": "The host engages in a direct conversation with the chief minister about important issues and current affairs that matter to people."
   },
   {
     "start": "14:00",
@@ -173,7 +140,7 @@
     "startTs": 1775570400000,
     "stopTs": 1775572200000,
     "title": "Hisaab Do Sarkaar",
-    "desc": "The host highlights some of the chief pressing issues affecting the populace."
+    "desc": "The host highlights some of the chief pressing issues affecting the populace and demands redressal from the government for public grievances."
   },
   {
     "start": "14:30",
@@ -184,7 +151,7 @@
     "startTs": 1775572200000,
     "stopTs": 1775574000000,
     "title": "Rastrahit Prime Time",
-    "desc": "The host presents crucial prime news and the updates relating to the welfare of the nation."
+    "desc": "The host presents essential prime news and the latest updates on governance, political, social, and economic issues, and major developments that impact the nation&apos;s welfare."
   },
   {
     "start": "15:00",
@@ -195,7 +162,7 @@
     "startTs": 1775574000000,
     "stopTs": 1775575800000,
     "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
+    "desc": "The host sheds light on the top social, political and economic stories and latest updates in the country, alongside developments in the fields of sports and entertainment."
   },
   {
     "start": "15:30",
@@ -206,7 +173,7 @@
     "startTs": 1775575800000,
     "stopTs": 1775577600000,
     "title": "Postmartm",
-    "desc": "The host provides a detailed report on matters concerning the nation."
+    "desc": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation."
   },
   {
     "start": "16:00",
@@ -217,7 +184,7 @@
     "startTs": 1775577600000,
     "stopTs": 1775579400000,
     "title": "Veerpath",
-    "desc": "The host updates the social, economic and political issues of the day."
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "start": "16:30",
@@ -228,7 +195,7 @@
     "startTs": 1775579400000,
     "stopTs": 1775581200000,
     "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
+    "desc": "The host sheds light on the top social, political and economic stories and latest updates in the country, alongside developments in the fields of sports and entertainment."
   },
   {
     "start": "17:00",
@@ -254,12 +221,12 @@
   },
   {
     "start": "18:00",
-    "stop": "18:30",
+    "stop": "18:29",
     "channel": "IndianNews.in",
     "channelId": "IndianNews.in",
     "channelName": "Indian News",
     "startTs": 1775584800000,
-    "stopTs": 1775586600000,
+    "stopTs": 1775586599000,
     "title": "Channel On Wheel",
     "desc": "Bringing the best in television."
   },
@@ -272,7 +239,7 @@
     "startTs": 1775586600000,
     "stopTs": 1775588400000,
     "title": "Morning News",
-    "desc": "The host presents the latest updates on various social, political and economic issues."
+    "desc": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
   },
   {
     "start": "19:00",
@@ -283,7 +250,7 @@
     "startTs": 1775588400000,
     "stopTs": 1775590200000,
     "title": "Daily Update",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world."
+    "desc": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world."
   },
   {
     "start": "19:30",
@@ -294,7 +261,7 @@
     "startTs": 1775590200000,
     "stopTs": 1775592000000,
     "title": "Uttar Pradesh News",
-    "desc": "The presenter sheds light on the latest news stories around the state of Uttar Pradesh."
+    "desc": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the state of Uttar Pradesh."
   },
   {
     "start": "20:00",
@@ -305,7 +272,7 @@
     "startTs": 1775592000000,
     "stopTs": 1775593800000,
     "title": "Jan Bhakti",
-    "desc": "The host presents the latest news and updates regarding religious events and festivals."
+    "desc": "The host presents the latest news and updates regarding religious events, festivals and auspicious occasions happening in the country and around the world."
   },
   {
     "start": "20:30",
@@ -316,7 +283,7 @@
     "startTs": 1775593800000,
     "stopTs": 1775595600000,
     "title": "Jan Ki Charcha",
-    "desc": "A panel of local representatives discuss various issues faced by the common people."
+    "desc": "A panel of local representatives discuss various issues faced by the common people and offer their views on the ongoing developments in the country."
   },
   {
     "start": "21:00",
@@ -327,7 +294,7 @@
     "startTs": 1775595600000,
     "stopTs": 1775597400000,
     "title": "Jan Super Fast",
-    "desc": "The host presents the latest updates on various social, economic and political issues."
+    "desc": "The host presents the latest updates and headlines on the social, economic, and political issues and shares information on current affairs."
   },
   {
     "start": "21:30",
@@ -338,7 +305,7 @@
     "startTs": 1775597400000,
     "stopTs": 1775599200000,
     "title": "Khabar Din Bhar",
-    "desc": "The host presents information on various social, economic and political issues."
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "start": "22:00",
@@ -349,7 +316,7 @@
     "startTs": 1775599200000,
     "stopTs": 1775601000000,
     "title": "National Khabar",
-    "desc": "The host provides the latest updates and stories from around the country and the world."
+    "desc": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country."
   },
   {
     "start": "22:30",
@@ -360,7 +327,7 @@
     "startTs": 1775601000000,
     "stopTs": 1775602800000,
     "title": "Dear Docter",
-    "desc": "The host interacts with a doctor who provides insights into various health issues."
+    "desc": "The host engages in a conversation with a professional doctor who provides insights into various health issues and their remedies."
   },
   {
     "start": "23:00",
@@ -382,7 +349,7 @@
     "startTs": 1775604600000,
     "stopTs": 1775606400000,
     "title": "Bollywood Ki Khabrein",
-    "desc": "The host presents the latest updates and developments from the Hindi film industry."
+    "desc": "The host presents the latest updates and developments from the Hindi film industry and shares unique insights from the movie fraternity."
   },
   {
     "start": "00:00",
@@ -393,7 +360,7 @@
     "startTs": 1775606400000,
     "stopTs": 1775608200000,
     "title": "Bhajan Darshan",
-    "desc": "A comprehensive compilation of devotional songs and music is played back to back."
+    "desc": "A comprehensive compilation of devotional songs and music to aid in religious worship and meditation is played back to back."
   },
   {
     "start": "00:30",
@@ -404,7 +371,7 @@
     "startTs": 1775608200000,
     "stopTs": 1775611800000,
     "title": "Apna Pradesh",
-    "desc": "The host presents information about the social, economic and political issues of the day."
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "start": "01:30",
@@ -415,7 +382,7 @@
     "startTs": 1775611800000,
     "stopTs": 1775613600000,
     "title": "National Bulletin",
-    "desc": "The host presents the latest news pertaining to current affairs from India and across the world."
+    "desc": "The host presents the latest news and developments regarding social, economic and political issues from India and across the world."
   },
   {
     "start": "02:00",
@@ -426,7 +393,7 @@
     "startTs": 1775613600000,
     "stopTs": 1775615400000,
     "title": "Good Morning Bharat",
-    "desc": "The host presents a sharp overview of India&apos;s top headlines each morning."
+    "desc": "The host presents a sharp overview of India&apos;s top headlines, offering key insights into key political shifts, economic updates and social developments shaping the day."
   },
   {
     "start": "02:30",
@@ -437,7 +404,7 @@
     "startTs": 1775615400000,
     "stopTs": 1775617200000,
     "title": "Bhagya Dasha",
-    "desc": "The presenter sheds light on the latest news stories around the country."
+    "desc": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country."
   },
   {
     "start": "03:00",
@@ -448,7 +415,7 @@
     "startTs": 1775617200000,
     "stopTs": 1775619000000,
     "title": "24 Min 24 Khabar",
-    "desc": "The host presents the top 24 news updates from around the state and the country."
+    "desc": "The host presents the top 24 news updates concerning the political, social, economic and sports fronts from around the state and the country."
   },
   {
     "start": "03:30",
@@ -459,7 +426,7 @@
     "startTs": 1775619000000,
     "stopTs": 1775620800000,
     "title": "Desh Mein Aaj",
-    "desc": "The host presents the latest news stories and developments around India."
+    "desc": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around India."
   },
   {
     "start": "04:00",
@@ -470,7 +437,7 @@
     "startTs": 1775620800000,
     "stopTs": 1775622600000,
     "title": "Sehatmand Bharat",
-    "desc": "The host provides updates on initiatives aimed at promoting a healthier nation."
+    "desc": "The host provides updates on health policies, expert insights and initiatives aimed at promoting a healthier nation for all citizens."
   },
   {
     "start": "04:30",
@@ -481,7 +448,7 @@
     "startTs": 1775622600000,
     "stopTs": 1775624400000,
     "title": "Mudda Bharat Ka",
-    "desc": "The host delivers the latest breaking news and updates on global as well as local events."
+    "desc": "The host delivers the latest breaking news, in-depth analysis and updates on global as well as local events to keep audiences connected."
   },
   {
     "start": "05:00",
@@ -492,7 +459,7 @@
     "startTs": 1775624400000,
     "stopTs": 1775626200000,
     "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
+    "desc": "The host sheds light on the top social, political and economic stories and latest updates in the country, alongside developments in the fields of sports and entertainment."
   },
   {
     "start": "05:30",
@@ -503,7 +470,7 @@
     "startTs": 1775626200000,
     "stopTs": 1775628000000,
     "title": "Bharat Ki Siyasat",
-    "desc": "The host presents the latest news and updates from the world of Indian politics."
+    "desc": "The host presents all the latest news stories, developments and updates pertaining to the world of Indian politics and the parliament."
   },
   {
     "start": "06:00",
@@ -514,7 +481,7 @@
     "startTs": 1775628000000,
     "stopTs": 1775629800000,
     "title": "Pol Toh Kholenge",
-    "desc": "The host presents updates surrounding the Lok Sabha elections in various regions of India."
+    "desc": "The host presents and sheds light on the latest updates and developments surrounding the Lok Sabha elections in various regions of India."
   },
   {
     "start": "06:30",
@@ -525,7 +492,7 @@
     "startTs": 1775629800000,
     "stopTs": 1775631600000,
     "title": "Sajna Hai Mujhe",
-    "desc": "The host shares beauty tips and techniques to help viewers experiment with their looks."
+    "desc": "The host shares a host of beauty tips, tricks and techniques to help viewers groom themselves and experiment with their looks."
   },
   {
     "start": "07:00",
@@ -536,7 +503,7 @@
     "startTs": 1775631600000,
     "stopTs": 1775633400000,
     "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
+    "desc": "The host sheds light on the top social, political and economic stories and latest updates in the country, alongside developments in the fields of sports and entertainment."
   },
   {
     "start": "07:30",
@@ -547,7 +514,7 @@
     "startTs": 1775633400000,
     "stopTs": 1775635200000,
     "title": "Bharat Ki Beti",
-    "desc": "The host presents the latest news stories surrounding various issues around the country."
+    "desc": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country."
   },
   {
     "start": "08:00",
@@ -558,7 +525,7 @@
     "startTs": 1775635200000,
     "stopTs": 1775637000000,
     "title": "Bazaar Garam Hai",
-    "desc": "The host collates and presents the latest updates and developments in the share market."
+    "desc": "The host collates and presents the latest updates and developments about the share market and provides tips related to investments."
   },
   {
     "start": "08:30",
@@ -569,7 +536,7 @@
     "startTs": 1775637000000,
     "stopTs": 1775638800000,
     "title": "Filmy Tadka",
-    "desc": "The host sheds light on the latest news stories pertaining to the entertainment industry."
+    "desc": "The host sheds light on the latest news stories pertaining to the entertainment industry and shares updates on renowned celebrities."
   },
   {
     "start": "09:00",
@@ -580,7 +547,7 @@
     "startTs": 1775638800000,
     "stopTs": 1775640600000,
     "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
+    "desc": "The host sheds light on the top social, political and economic stories and latest updates in the country, alongside developments in the fields of sports and entertainment."
   },
   {
     "start": "09:30",
@@ -591,7 +558,7 @@
     "startTs": 1775640600000,
     "stopTs": 1775642400000,
     "title": "Recipe Mein Aaj",
-    "desc": "An eminent chef shares and demonstrates cooking recipes and dishes."
+    "desc": "An expert chef shares recipes from different cuisines, along with demonstrating the process of cooking the dish, step by step."
   },
   {
     "start": "10:00",
@@ -602,7 +569,7 @@
     "startTs": 1775642400000,
     "stopTs": 1775644200000,
     "title": "Bollywood",
-    "desc": "The host provides the latest celebrity news and gossip from the Bollywood film industry."
+    "desc": "The host provides the latest Bollywood news and gossip while also showcasing trailers and promotions for upcoming films and television series."
   },
   {
     "start": "10:30",
@@ -613,7 +580,7 @@
     "startTs": 1775644200000,
     "stopTs": 1775646000000,
     "title": "Khas Mulakat",
-    "desc": "The host interviews some of the most influential personalities from politics."
+    "desc": "The host interviews some of the most influential personalities from the field of politics and entertainment to talk about their lives, work and future plans."
   },
   {
     "start": "11:00",
@@ -624,7 +591,7 @@
     "startTs": 1775646000000,
     "stopTs": 1775647800000,
     "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
+    "desc": "The host sheds light on the top social, political and economic stories and latest updates in the country, alongside developments in the fields of sports and entertainment."
   },
   {
     "start": "11:30",
@@ -635,7 +602,7 @@
     "startTs": 1775647800000,
     "stopTs": 1775649600000,
     "title": "Khelega India",
-    "desc": "The host sheds light on the latest news updates and key stories pertaining to the field of sports."
+    "desc": "The host sheds light on the latest news updates and key stories pertaining to the field of sports from around the country and the world."
   },
   {
     "start": "12:00",
@@ -657,7 +624,7 @@
     "startTs": 1775651400000,
     "stopTs": 1775653200000,
     "title": "Janta Toh Bolegi",
-    "desc": "The host asks locals to share their views on matters related to the state and the country."
+    "desc": "The host interviews locals on matters related to the state and country, encouraging them to share their views on these issues."
   },
   {
     "start": "13:00",
@@ -668,7 +635,7 @@
     "startTs": 1775653200000,
     "stopTs": 1775655000000,
     "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
+    "desc": "The host sheds light on the top social, political and economic stories and latest updates in the country, alongside developments in the fields of sports and entertainment."
   },
   {
     "start": "13:30",
@@ -679,7 +646,7 @@
     "startTs": 1775655000000,
     "stopTs": 1775656800000,
     "title": "Direct With CM",
-    "desc": "The host engages in a direct conversation with the chief minister about important issues."
+    "desc": "The host engages in a direct conversation with the chief minister about important issues and current affairs that matter to people."
   },
   {
     "start": "14:00",
@@ -690,7 +657,7 @@
     "startTs": 1775656800000,
     "stopTs": 1775658600000,
     "title": "Hisaab Do Sarkaar",
-    "desc": "The host highlights some of the chief pressing issues affecting the populace."
+    "desc": "The host highlights some of the chief pressing issues affecting the populace and demands redressal from the government for public grievances."
   },
   {
     "start": "14:30",
@@ -701,7 +668,7 @@
     "startTs": 1775658600000,
     "stopTs": 1775660400000,
     "title": "Rastrahit Prime Time",
-    "desc": "The host presents crucial prime news and the updates relating to the welfare of the nation."
+    "desc": "The host presents essential prime news and the latest updates on governance, political, social, and economic issues, and major developments that impact the nation&apos;s welfare."
   },
   {
     "start": "15:00",
@@ -712,7 +679,7 @@
     "startTs": 1775660400000,
     "stopTs": 1775662200000,
     "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
+    "desc": "The host sheds light on the top social, political and economic stories and latest updates in the country, alongside developments in the fields of sports and entertainment."
   },
   {
     "start": "15:30",
@@ -723,7 +690,7 @@
     "startTs": 1775662200000,
     "stopTs": 1775664000000,
     "title": "Postmartm",
-    "desc": "The host provides a detailed report on matters concerning the nation."
+    "desc": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation."
   },
   {
     "start": "16:00",
@@ -734,7 +701,7 @@
     "startTs": 1775664000000,
     "stopTs": 1775665800000,
     "title": "Veerpath",
-    "desc": "The host updates the social, economic and political issues of the day."
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "start": "16:30",
@@ -745,7 +712,7 @@
     "startTs": 1775665800000,
     "stopTs": 1775667600000,
     "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
+    "desc": "The host sheds light on the top social, political and economic stories and latest updates in the country, alongside developments in the fields of sports and entertainment."
   },
   {
     "start": "17:00",
@@ -771,12 +738,12 @@
   },
   {
     "start": "18:00",
-    "stop": "18:30",
+    "stop": "18:29",
     "channel": "IndianNews.in",
     "channelId": "IndianNews.in",
     "channelName": "Indian News",
     "startTs": 1775671200000,
-    "stopTs": 1775673000000,
+    "stopTs": 1775672999000,
     "title": "Channel On Wheel",
     "desc": "Bringing the best in television."
   }
