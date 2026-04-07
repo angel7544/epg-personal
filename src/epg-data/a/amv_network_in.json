@@ -1,38 +1,5 @@
 [
   {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "AMVNetwork.in",
-    "channelId": "AMVNetwork.in",
-    "channelName": "AMV Network",
-    "startTs": 1775552400000,
-    "stopTs": 1775554200000,
-    "title": "Straight From State",
-    "desc": "A special news program."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "AMVNetwork.in",
-    "channelId": "AMVNetwork.in",
-    "channelName": "AMV Network",
-    "startTs": 1775554200000,
-    "stopTs": 1775556000000,
-    "title": "News Watch Express",
-    "desc": "A mixed-news bulletin that keeps viewers updated with the current affairs."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "AMVNetwork.in",
-    "channelId": "AMVNetwork.in",
-    "channelName": "AMV Network",
-    "startTs": 1775556000000,
-    "stopTs": 1775557800000,
-    "title": "Flash Back",
-    "desc": "A mixed-news bulletin which keeps viewers updated with the current affairs."
-  },
-  {
     "start": "10:30",
     "stop": "11:00",
     "channel": "AMVNetwork.in",
@@ -1065,5 +1032,38 @@
     "stopTs": 1775727000000,
     "title": "Straight From State",
     "desc": "A special news program."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "AMVNetwork.in",
+    "channelId": "AMVNetwork.in",
+    "channelName": "AMV Network",
+    "startTs": 1775727000000,
+    "stopTs": 1775728800000,
+    "title": "News Watch Express",
+    "desc": "A mixed-news bulletin that keeps viewers updated with the current affairs."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "AMVNetwork.in",
+    "channelId": "AMVNetwork.in",
+    "channelName": "AMV Network",
+    "startTs": 1775728800000,
+    "stopTs": 1775730600000,
+    "title": "Flash Back",
+    "desc": "A mixed-news bulletin which keeps viewers updated with the current affairs."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "AMVNetwork.in",
+    "channelId": "AMVNetwork.in",
+    "channelName": "AMV Network",
+    "startTs": 1775730600000,
+    "stopTs": 1775732400000,
+    "title": "News Bulletin",
+    "desc": "A mixed-news bulletin which keeps viewers updated with the current affairs."
   }
 ]

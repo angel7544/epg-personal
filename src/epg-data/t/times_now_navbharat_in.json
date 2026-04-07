@@ -1,38 +1,5 @@
 [
   {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "TimesNowNavbharat.in",
-    "channelId": "TimesNowNavbharat.in",
-    "channelName": "Times Now Navbharat",
-    "startTs": 1775550600000,
-    "stopTs": 1775552400000,
-    "title": "Navbharat 10x10",
-    "desc": "The host delivers the latest national news updates and developments pertaining to politics, economy and socio-cultural affairs."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "TimesNowNavbharat.in",
-    "channelId": "TimesNowNavbharat.in",
-    "channelName": "Times Now Navbharat",
-    "startTs": 1775552400000,
-    "stopTs": 1775554200000,
-    "title": "Times Now NavBharat Live",
-    "desc": "The host presents a comprehensive and detailed coverage of the latest news and developments from across the region, live."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "TimesNowNavbharat.in",
-    "channelId": "TimesNowNavbharat.in",
-    "channelName": "Times Now Navbharat",
-    "startTs": 1775554200000,
-    "stopTs": 1775556000000,
-    "title": "Times Now NavBharat Live",
-    "desc": "The host presents a comprehensive and detailed coverage of the latest news and developments from across the region, live."
-  },
-  {
     "start": "10:00",
     "stop": "10:30",
     "channel": "TimesNowNavbharat.in",
@@ -41,7 +8,7 @@
     "startTs": 1775556000000,
     "stopTs": 1775557800000,
     "title": "Times Now NavBharat Live",
-    "desc": "The host presents a comprehensive and detailed coverage of the latest news and developments from across the region, live."
+    "desc": "The host presents a detailed report of the latest news and developments, live."
   },
   {
     "start": "10:30",
@@ -52,7 +19,7 @@
     "startTs": 1775557800000,
     "stopTs": 1775561400000,
     "title": "Prime At 4",
-    "desc": "The host presents a thorough analysis of crucial political debates and impactful events, shedding light on their implications for governance and societal progress."
+    "desc": "The host explores major events and their impacts on the country&apos;s policies."
   },
   {
     "start": "11:30",
@@ -63,7 +30,7 @@
     "startTs": 1775561400000,
     "stopTs": 1775565000000,
     "title": "Rashtravaad",
-    "desc": "The host presents the latest news stories, socio-economic updates and political developments from across different regions of India."
+    "desc": "The host presents the latest news stories and developments from across various fields."
   },
   {
     "start": "12:30",
@@ -74,7 +41,18 @@
     "startTs": 1775565000000,
     "stopTs": 1775568600000,
     "title": "Desh Ka Mood Meter",
-    "desc": "The host invites guests from different walks of life to engage in a debate on various pressing matters pertaining to the nation."
+    "desc": "The host invites guests to debate on matters of national significance."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775566800000,
+    "stopTs": 1775568600000,
+    "title": "Rashtra Garv",
+    "desc": "This show highlights India&apos;s achievements and pride, featuring stories and discussions about development framed as noteworthy examples for viewers to learn from today."
   },
   {
     "start": "13:30",
@@ -85,7 +63,7 @@
     "startTs": 1775568600000,
     "stopTs": 1775572200000,
     "title": "Big And Bold",
-    "desc": "The host presents a detailed report of the latest political, social, economic and cultural news stories from around the region."
+    "desc": "The host presents a report of the latest news stories from around the region."
   },
   {
     "start": "14:30",
@@ -96,7 +74,7 @@
     "startTs": 1775572200000,
     "stopTs": 1775575800000,
     "title": "Sawaal Public Ka",
-    "desc": "The host facilitates discussions and debates with a panel of experts, who share their views on various matters of national importance."
+    "desc": "The host facilitates debates with experts, who share their views on important issues."
   },
   {
     "start": "15:30",
@@ -107,7 +85,7 @@
     "startTs": 1775575800000,
     "stopTs": 1775579400000,
     "title": "News Ki Paathshaala",
-    "desc": "The host presents the latest social, economic and political news from around the world and provides information on relevant current events."
+    "desc": "The host presents the latest social, economic and political news from around the world."
   },
   {
     "start": "16:30",
@@ -118,7 +96,7 @@
     "startTs": 1775579400000,
     "stopTs": 1775583000000,
     "title": "Sankalp",
-    "desc": "The host provides an in-depth analysis of the latest news stories and significant developments from various fields that impact the lives of people."
+    "desc": "The host provides an in-depth analysis of the latest news stories from various fields."
   },
   {
     "start": "17:30",
@@ -129,7 +107,7 @@
     "startTs": 1775583000000,
     "stopTs": 1775586600000,
     "title": "Final Prime Time",
-    "desc": "The host presents the latest news updates concerning the political, social, economic and sports fronts from around the nation and the world."
+    "desc": "The host presents the latest news updates from around the nation and the world."
   },
   {
     "start": "18:30",
@@ -140,7 +118,7 @@
     "startTs": 1775586600000,
     "stopTs": 1775588400000,
     "title": "Aark Media(teleslot)",
-    "desc": "The host provides a detailed report on a well-known businesses, specialising in the field of media, while shedding light on their services."
+    "desc": "The host provides a detailed report on businesses specialising in the field of media."
   },
   {
     "start": "19:00",
@@ -162,7 +140,7 @@
     "startTs": 1775590200000,
     "stopTs": 1775593800000,
     "title": "Sankalp",
-    "desc": "The host provides an in-depth analysis of the latest news stories and significant developments from various fields that impact the lives of people."
+    "desc": "The host provides an in-depth analysis of the latest news stories from various fields."
   },
   {
     "start": "20:30",
@@ -173,7 +151,7 @@
     "startTs": 1775593800000,
     "stopTs": 1775597400000,
     "title": "News Ki Paathshaala",
-    "desc": "The host presents the latest social, economic and political news from around the world and provides information on relevant current events."
+    "desc": "The host presents the latest social, economic and political news from around the world."
   },
   {
     "start": "21:30",
@@ -184,7 +162,7 @@
     "startTs": 1775597400000,
     "stopTs": 1775601000000,
     "title": "Sankalp",
-    "desc": "The host provides an in-depth analysis of the latest news stories and significant developments from various fields that impact the lives of people."
+    "desc": "The host provides an in-depth analysis of the latest news stories from various fields."
   },
   {
     "start": "22:30",
@@ -195,7 +173,7 @@
     "startTs": 1775601000000,
     "stopTs": 1775604600000,
     "title": "Sawaal Public Ka",
-    "desc": "The host facilitates discussions and debates with a panel of experts, who share their views on various matters of national importance."
+    "desc": "The host facilitates debates with experts, who share their views on important issues."
   },
   {
     "start": "23:30",
@@ -206,7 +184,7 @@
     "startTs": 1775604600000,
     "stopTs": 1775606400000,
     "title": "News Ki Paathshaala",
-    "desc": "The host presents the latest social, economic and political news from around the world and provides information on relevant current events."
+    "desc": "The host presents the latest social, economic and political news from around the world."
   },
   {
     "start": "00:00",
@@ -217,7 +195,7 @@
     "startTs": 1775606400000,
     "stopTs": 1775608200000,
     "title": "Aark Media(teleslot)",
-    "desc": "The host provides a detailed report on a well-known businesses, specialising in the field of media, while shedding light on their services."
+    "desc": "The host provides a detailed report on businesses specialising in the field of media."
   },
   {
     "start": "00:30",
@@ -228,7 +206,7 @@
     "startTs": 1775608200000,
     "stopTs": 1775611800000,
     "title": "Newsuday",
-    "desc": "The host presents the latest news and important updates of the day, on significant matters such as governance, social issues, economics, and politics from across the country."
+    "desc": "The host presents the latest news and important updates of the day on significant matters."
   },
   {
     "start": "01:30",
@@ -239,7 +217,7 @@
     "startTs": 1775611800000,
     "stopTs": 1775615400000,
     "title": "Fit India Superhit Bullitien",
-    "desc": "The hosts present the latest news updates and developments pertaining to various social, political and economic issues in quick succession."
+    "desc": "The hosts share the latest news updates related to various issues in quick succession."
   },
   {
     "start": "02:30",
@@ -250,7 +228,7 @@
     "startTs": 1775615400000,
     "stopTs": 1775619000000,
     "title": "Fresh And Fast",
-    "desc": "The hosts shed light on the latest news updates pertaining to the political, social, economic and sports fronts from around the nation and the world."
+    "desc": "The hosts shed light on the latest news updates pertaining to current affairs across the globe."
   },
   {
     "start": "03:30",
@@ -261,7 +239,7 @@
     "startTs": 1775619000000,
     "stopTs": 1775620800000,
     "title": "Khabar Jaroori Hai",
-    "desc": "The host presents a report of the latest political, social, economic and cultural news stories from around the region."
+    "desc": "The host presents a report of the latest news stories from around the region."
   },
   {
     "start": "04:00",
@@ -272,7 +250,7 @@
     "startTs": 1775620800000,
     "stopTs": 1775622600000,
     "title": "Times Now NavBharat Live",
-    "desc": "The host presents a comprehensive and detailed coverage of the latest news and developments from across the region, live."
+    "desc": "The host presents a detailed report of the latest news and developments, live."
   },
   {
     "start": "04:30",
@@ -283,7 +261,7 @@
     "startTs": 1775622600000,
     "stopTs": 1775626200000,
     "title": "Times Now NavBharat Live",
-    "desc": "The host presents a comprehensive and detailed coverage of the latest news and developments from across the region, live."
+    "desc": "The host presents a detailed report of the latest news and developments, live."
   },
   {
     "start": "05:30",
@@ -294,7 +272,7 @@
     "startTs": 1775626200000,
     "stopTs": 1775629800000,
     "title": "Times Now NavBharat Live",
-    "desc": "The host presents a comprehensive and detailed coverage of the latest news and developments from across the region, live."
+    "desc": "The host presents a detailed report of the latest news and developments, live."
   },
   {
     "start": "06:30",
@@ -305,7 +283,7 @@
     "startTs": 1775629800000,
     "stopTs": 1775633400000,
     "title": "Times Now NavBharat Live",
-    "desc": "The host presents a comprehensive and detailed coverage of the latest news and developments from across the region, live."
+    "desc": "The host presents a detailed report of the latest news and developments, live."
   },
   {
     "start": "07:30",
@@ -316,7 +294,7 @@
     "startTs": 1775633400000,
     "stopTs": 1775637000000,
     "title": "News War",
-    "desc": "The host presents the latest news updates and developments pertaining to various pressing issues across different sectors of the country."
+    "desc": "The host presents the latest news updates on various pressing issues of the country."
   },
   {
     "start": "08:30",
@@ -327,7 +305,7 @@
     "startTs": 1775637000000,
     "stopTs": 1775638800000,
     "title": "Navbharat 10x10",
-    "desc": "The host delivers the latest national news updates and developments pertaining to politics, economy and socio-cultural affairs."
+    "desc": "The host delivers the latest national news updates and developments."
   },
   {
     "start": "09:00",
@@ -338,7 +316,7 @@
     "startTs": 1775638800000,
     "stopTs": 1775640600000,
     "title": "Times Now NavBharat Live",
-    "desc": "The host presents a comprehensive and detailed coverage of the latest news and developments from across the region, live."
+    "desc": "The host presents a detailed report of the latest news and developments, live."
   },
   {
     "start": "09:30",
@@ -349,7 +327,7 @@
     "startTs": 1775640600000,
     "stopTs": 1775642400000,
     "title": "Times Now NavBharat Live",
-    "desc": "The host presents a comprehensive and detailed coverage of the latest news and developments from across the region, live."
+    "desc": "The host presents a detailed report of the latest news and developments, live."
   },
   {
     "start": "10:00",
@@ -360,7 +338,7 @@
     "startTs": 1775642400000,
     "stopTs": 1775644200000,
     "title": "Times Now NavBharat Live",
-    "desc": "The host presents a comprehensive and detailed coverage of the latest news and developments from across the region, live."
+    "desc": "The host presents a detailed report of the latest news and developments, live."
   },
   {
     "start": "10:30",
@@ -371,7 +349,7 @@
     "startTs": 1775644200000,
     "stopTs": 1775647800000,
     "title": "Prime At 4",
-    "desc": "The host presents a thorough analysis of crucial political debates and impactful events, shedding light on their implications for governance and societal progress."
+    "desc": "The host explores major events and their impacts on the country&apos;s policies."
   },
   {
     "start": "11:30",
@@ -382,7 +360,7 @@
     "startTs": 1775647800000,
     "stopTs": 1775651400000,
     "title": "Rashtravaad",
-    "desc": "The host presents the latest news stories, socio-economic updates and political developments from across different regions of India."
+    "desc": "The host presents the latest news stories and developments from across various fields."
   },
   {
     "start": "12:30",
@@ -393,7 +371,18 @@
     "startTs": 1775651400000,
     "stopTs": 1775655000000,
     "title": "Desh Ka Mood Meter",
-    "desc": "The host invites guests from different walks of life to engage in a debate on various pressing matters pertaining to the nation."
+    "desc": "The host invites guests to debate on matters of national significance."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775653200000,
+    "stopTs": 1775655000000,
+    "title": "Rashtra Garv",
+    "desc": "This show highlights India&apos;s achievements and pride, featuring stories and discussions about development framed as noteworthy examples for viewers to learn from today."
   },
   {
     "start": "13:30",
@@ -404,7 +393,7 @@
     "startTs": 1775655000000,
     "stopTs": 1775658600000,
     "title": "Big And Bold",
-    "desc": "The host presents a detailed report of the latest political, social, economic and cultural news stories from around the region."
+    "desc": "The host presents a report of the latest news stories from around the region."
   },
   {
     "start": "14:30",
@@ -415,7 +404,7 @@
     "startTs": 1775658600000,
     "stopTs": 1775662200000,
     "title": "Sawaal Public Ka",
-    "desc": "The host facilitates discussions and debates with a panel of experts, who share their views on various matters of national importance."
+    "desc": "The host facilitates debates with experts, who share their views on important issues."
   },
   {
     "start": "15:30",
@@ -426,7 +415,7 @@
     "startTs": 1775662200000,
     "stopTs": 1775665800000,
     "title": "News Ki Paathshaala",
-    "desc": "The host presents the latest social, economic and political news from around the world and provides information on relevant current events."
+    "desc": "The host presents the latest social, economic and political news from around the world."
   },
   {
     "start": "16:30",
@@ -437,7 +426,7 @@
     "startTs": 1775665800000,
     "stopTs": 1775669400000,
     "title": "Sankalp",
-    "desc": "The host provides an in-depth analysis of the latest news stories and significant developments from various fields that impact the lives of people."
+    "desc": "The host provides an in-depth analysis of the latest news stories from various fields."
   },
   {
     "start": "17:30",
@@ -448,6 +437,226 @@
     "startTs": 1775669400000,
     "stopTs": 1775673000000,
     "title": "Final Prime Time",
-    "desc": "The host presents the latest news updates concerning the political, social, economic and sports fronts from around the nation and the world."
+    "desc": "The host presents the latest news updates from around the nation and the world."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775673000000,
+    "stopTs": 1775676600000,
+    "title": "Sawaal Public Ka",
+    "desc": "Exclusive interview with Union Minister Hardeep Singh Puri discusses Afghanistan&apos;s Sikh community and elements of the CAA, highlighting concerns, implications, and policy perspectives."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775676600000,
+    "stopTs": 1775680200000,
+    "title": "Sankalp",
+    "desc": "Sankalp brings real-life inspiring narratives and social initiatives to the forefront. Through immersive storytelling, it showcases changemakers and motivates viewers with stories of hope and impact."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775680200000,
+    "stopTs": 1775683800000,
+    "title": "News Ki Paathshaala",
+    "desc": "Stay informed with up-to-date news coverage. This site delivers political updates, current affairs, and headlines, gathering all the latest stories in one convenient place."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775683800000,
+    "stopTs": 1775687400000,
+    "title": "Sankalp",
+    "desc": "Sankalp brings real-life inspiring narratives and social initiatives to the forefront. Through immersive storytelling, it showcases changemakers and motivates viewers with stories of hope and impact."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775687400000,
+    "stopTs": 1775691000000,
+    "title": "Sawaal Public Ka",
+    "desc": "Exclusive interview with Union Minister Hardeep Singh Puri discusses Afghanistan&apos;s Sikh community and elements of the CAA, highlighting concerns, implications, and policy perspectives."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775691000000,
+    "stopTs": 1775694600000,
+    "title": "News Ki Paathshaala",
+    "desc": "Stay informed with up-to-date news coverage. This site delivers political updates, current affairs, and headlines, gathering all the latest stories in one convenient place."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775694600000,
+    "stopTs": 1775698200000,
+    "title": "Newsuday",
+    "desc": "A host delivers a clear snapshot of the latest, most important national news making headlines, offering concise insights and essential context for informed understanding."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775698200000,
+    "stopTs": 1775701800000,
+    "title": "Fit India Superhit Bullitien",
+    "desc": "A host delivers a clear snapshot of the latest, most important national news making headlines, offering concise insights and essential context for informed understanding."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775701800000,
+    "stopTs": 1775705400000,
+    "title": "Fit India Superhit Bullitien",
+    "desc": "A host delivers a clear snapshot of the latest, most important national news making headlines, offering concise insights and essential context for informed understanding."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775705400000,
+    "stopTs": 1775707200000,
+    "title": "Khabar Jaroori Hai",
+    "desc": "Watch Hindi news coverage on sports, politics, and entertainment with Times Now Navbharat-your go-to source for nonstop updates and breaking stories!"
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775707200000,
+    "stopTs": 1775709000000,
+    "title": "Times Now Navbharat Live",
+    "desc": "Times Now Navbharat provides the latest live news and breaking updates on India&apos;s top news channel. Watch live TV online for current events."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775709000000,
+    "stopTs": 1775712600000,
+    "title": "Times Now Navbharat Live",
+    "desc": "Times Now Navbharat provides the latest live news and breaking updates on India&apos;s top news channel. Watch live TV online for current events."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775712600000,
+    "stopTs": 1775716200000,
+    "title": "Times Now Navbharat Live",
+    "desc": "Times Now Navbharat provides the latest live news and breaking updates on India&apos;s top news channel. Watch live TV online for current events."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775716200000,
+    "stopTs": 1775719800000,
+    "title": "News Room Live",
+    "desc": "Tune in live for the latest breaking news and clear analysis of today&apos;s biggest stories. Stay informed with real-time updates and helpful context."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775719800000,
+    "stopTs": 1775723400000,
+    "title": "Brahmashtra",
+    "desc": "Stay informed with our show covering top politics, sports, crime, and business news. Get quick, clear updates on the events shaping our world."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775723400000,
+    "stopTs": 1775725200000,
+    "title": "Navbharat 10X10",
+    "desc": "The host shares clear, concise updates on the country&apos;s top headlines, highlighting the latest important news and its impact for viewers."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775725200000,
+    "stopTs": 1775727000000,
+    "title": "Times Now Navbharat Live",
+    "desc": "Times Now Navbharat provides the latest live news and breaking updates on India&apos;s top news channel. Watch live TV online for current events."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775727000000,
+    "stopTs": 1775728800000,
+    "title": "Times Now Navbharat Live",
+    "desc": "Times Now Navbharat provides the latest live news and breaking updates on India&apos;s top news channel. Watch live TV online for current events."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775728800000,
+    "stopTs": 1775730600000,
+    "title": "Times Now Navbharat Live",
+    "desc": "Times Now Navbharat provides the latest live news and breaking updates on India&apos;s top news channel. Watch live TV online for current events."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:30",
+    "channel": "TimesNowNavbharat.in",
+    "channelId": "TimesNowNavbharat.in",
+    "channelName": "Times Now Navbharat",
+    "startTs": 1775730600000,
+    "stopTs": 1775734200000,
+    "title": "Prime At 4",
+    "desc": "Prime At 4 is a lively afternoon show featuring discussions on current affairs, entertainment, and lifestyle, providing insight and a relaxed atmosphere for viewers."
   }
 ]

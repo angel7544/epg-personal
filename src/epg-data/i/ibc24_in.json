@@ -1,38 +1,5 @@
 [
   {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "IBC24.in",
-    "channelId": "IBC24.in",
-    "channelName": "IBC24",
-    "startTs": 1775550600000,
-    "stopTs": 1775552400000,
-    "title": "Khabar Dopahar",
-    "desc": "The host presents the latest updates and developments pertaining to politics, finance, sports and entertainment news from across the nation."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "IBC24.in",
-    "channelId": "IBC24.in",
-    "channelName": "IBC24",
-    "startTs": 1775552400000,
-    "stopTs": 1775554200000,
-    "title": "Fast 50",
-    "desc": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "IBC24.in",
-    "channelId": "IBC24.in",
-    "channelName": "IBC24",
-    "startTs": 1775554200000,
-    "stopTs": 1775556000000,
-    "title": "City @ 3 PM",
-    "desc": "The host presents a round-up of some of the latest and important news stories and updates taking place all over the country."
-  },
-  {
     "start": "10:00",
     "stop": "10:30",
     "channel": "IBC24.in",
@@ -52,7 +19,7 @@
     "startTs": 1775557800000,
     "stopTs": 1775559600000,
     "title": "Mera Madhyapradesh",
-    "desc": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the state of Madhya Pradesh."
+    "desc": "A look at all the latest news updates and developments regarding Madhya Pradesh, an Indian state."
   },
   {
     "start": "11:00",
@@ -63,7 +30,7 @@
     "startTs": 1775559600000,
     "stopTs": 1775561400000,
     "title": "Chhattisgarh Abhi",
-    "desc": "The host presents a compilation of the latest updates and developments pertaining to social, political and economic news from across the state of Chhattisgarh."
+    "desc": "The host presents a compilation of the latest updates and developments pertaining to social, political and economic news from across Chhattisgarh."
   },
   {
     "start": "11:30",
@@ -73,8 +40,8 @@
     "channelName": "IBC24",
     "startTs": 1775561400000,
     "stopTs": 1775563200000,
-    "title": "5 Anchor 25 Khaberen",
-    "desc": "The hosts present the top 25 news stories and significant developments from various fields that impact people around the country."
+    "title": "Top @ 5 PM",
+    "desc": "The host presents the latest news updates and developments regarding social, political and economic issues from various parts of the country and the world."
   },
   {
     "start": "12:00",
@@ -84,19 +51,19 @@
     "channelName": "IBC24",
     "startTs": 1775563200000,
     "stopTs": 1775565000000,
-    "title": "Satta Ka Bazar",
-    "desc": "The host interacts with local people and highlights their opinions about the election candidate and the work accomplished by them."
+    "title": "23 Me Pradesh 24 Me Desh",
+    "desc": "The host and a politician discuss the latest news and updates pertaining to state legislative assembly elections in 2023 and the Indian general election in 2024."
   },
   {
     "start": "12:30",
-    "stop": "12:55",
+    "stop": "13:00",
     "channel": "IBC24.in",
     "channelId": "IBC24.in",
     "channelName": "IBC24",
     "startTs": 1775565000000,
-    "stopTs": 1775566500000,
-    "title": "Evening Round Up",
-    "desc": "The host presents updates, the latest information and development on social, political, cultural and economic issues of global significance."
+    "stopTs": 1775566800000,
+    "title": "Evening Roundup",
+    "desc": "The host sheds light on the latest and the most important socio-economic and political news, updates and developments of the day."
   },
   {
     "start": "12:55",
@@ -111,14 +78,25 @@
   },
   {
     "start": "13:00",
-    "stop": "13:30",
+    "stop": "13:15",
     "channel": "IBC24.in",
     "channelId": "IBC24.in",
     "channelName": "IBC24",
     "startTs": 1775566800000,
+    "stopTs": 1775567700000,
+    "title": "Salasar Balaji Arti",
+    "desc": "Religious leaders and devotees perform traditional rituals and chant verses offering prayers and praise to the Almighty."
+  },
+  {
+    "start": "13:15",
+    "stop": "13:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775567700000,
     "stopTs": 1775568600000,
-    "title": "Mahol Tight Hai",
-    "desc": "The host provides in-depth analysis of the intense battle between political parties as they strategize for the upcoming elections."
+    "title": "Sports Adda",
+    "desc": "The host presents the latest news updates from the world of sports and sheds light on some of the best moments from various events."
   },
   {
     "start": "13:30",
@@ -128,8 +106,8 @@
     "channelName": "IBC24",
     "startTs": 1775568600000,
     "stopTs": 1775570400000,
-    "title": "Madhyapradesh @ 24 Min",
-    "desc": "The host sheds light on the various news updates and development related to social, political, economic and cultural topics."
+    "title": "Face To Face Madhya Pradesh",
+    "desc": "The host presents all the latest news stories, updates and developments pertaining to the current affairs of the state of Madhya Pradesh."
   },
   {
     "start": "14:00",
@@ -150,8 +128,8 @@
     "channelName": "IBC24",
     "startTs": 1775572200000,
     "stopTs": 1775574000000,
-    "title": "Weekly Special",
-    "desc": "The host provides the latest information, advancements and developments regarding significant issues that are impacting many lives."
+    "title": "Chhattisgarh Ki Baat",
+    "desc": "The host presents a compilation of the latest updates pertaining to social, political and economic news from across the state of Chhattisgarh."
   },
   {
     "start": "15:00",
@@ -161,8 +139,8 @@
     "channelName": "IBC24",
     "startTs": 1775574000000,
     "stopTs": 1775575800000,
-    "title": "Face To Face Madhya Pradesh",
-    "desc": "The host leads intense political debates, discussing critical issues with expert panellsts offering various perspectives on regional affairs and their broader implications."
+    "title": "Madhyapradesh @ 24 Min",
+    "desc": "The host presents the latest news stories and updates on socio-economic and political issues from the state of Madhya Pradesh."
   },
   {
     "start": "15:30",
@@ -172,8 +150,8 @@
     "channelName": "IBC24",
     "startTs": 1775575800000,
     "stopTs": 1775577600000,
-    "title": "Sarkar",
-    "desc": "The host presents some of the latest political, social, economic, sports and other major updates and developments of the day."
+    "title": "News Decode",
+    "desc": "The host provides an in-depth analysis of some of the latest and most significant news stories and developments of the day."
   },
   {
     "start": "16:00",
@@ -183,8 +161,8 @@
     "channelName": "IBC24",
     "startTs": 1775577600000,
     "stopTs": 1775579400000,
-    "title": "Ram Kahani",
-    "desc": "The host provides detailed information about the birthplace of Lord Rama, a Hindu deity, and educates the audience about its mythological significance."
+    "title": "MP-CG 20-20",
+    "desc": "An advert which promotes various consumer products."
   },
   {
     "start": "16:30",
@@ -194,8 +172,8 @@
     "channelName": "IBC24",
     "startTs": 1775579400000,
     "stopTs": 1775581200000,
-    "title": "10 Baje Raat Pure Din Ki Baat",
-    "desc": "The host sheds on the news updates and developments of the day pertaining to politics, social issues, the economy, sports and more."
+    "title": "Raat 10 Baje",
+    "desc": "All the news of the day from all over Madhya Pradesh and Chhattisgarh are highlighted."
   },
   {
     "start": "17:00",
@@ -205,8 +183,8 @@
     "channelName": "IBC24",
     "startTs": 1775581200000,
     "stopTs": 1775583000000,
-    "title": "Fast100",
-    "desc": "The host presents the top 100 news updates pertaining to the political, social, economic and sports fronts from across the nation."
+    "title": "Lockup/Fast 20",
+    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
   },
   {
     "start": "17:30",
@@ -217,7 +195,7 @@
     "startTs": 1775583000000,
     "stopTs": 1775584800000,
     "title": "Citylight",
-    "desc": "The host presents the day&apos;s major news and latest updates on governance, social issues, economics, and politics, focusing on cities across Madhya Pradesh."
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "18:00",
@@ -227,8 +205,8 @@
     "channelName": "IBC24",
     "startTs": 1775584800000,
     "stopTs": 1775586600000,
-    "title": "News Roundup",
-    "desc": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
+    "title": "News Decode",
+    "desc": "The host provides an in-depth analysis of some of the latest and most significant news stories and developments of the day."
   },
   {
     "start": "18:30",
@@ -238,8 +216,8 @@
     "channelName": "IBC24",
     "startTs": 1775586600000,
     "stopTs": 1775588400000,
-    "title": "Arpan",
-    "desc": "This is TV Show - Entertainment Category"
+    "title": "Chhattisgarh Ki Baat",
+    "desc": "The host presents a compilation of the latest updates pertaining to social, political and economic news from across the state of Chhattisgarh."
   },
   {
     "start": "19:00",
@@ -249,8 +227,8 @@
     "channelName": "IBC24",
     "startTs": 1775588400000,
     "stopTs": 1775590200000,
-    "title": "Chhattisgarh Ke Rang",
-    "desc": "The host invites renowned and talented folk singers from Chhattisgarh who render performances and entertain the audience."
+    "title": "Madhya Pradesh Ki Baat",
+    "desc": "The host presents a compilation of the latest updates pertaining to social, political and economic news from across the state of Madhya Pradesh."
   },
   {
     "start": "19:30",
@@ -261,7 +239,7 @@
     "startTs": 1775590200000,
     "stopTs": 1775592000000,
     "title": "Fast 50",
-    "desc": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe."
+    "desc": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues."
   },
   {
     "start": "20:00",
@@ -271,8 +249,8 @@
     "channelName": "IBC24",
     "startTs": 1775592000000,
     "stopTs": 1775593800000,
-    "title": "Sawal Apka Hai",
-    "desc": "The host engages in conversation with experts to gain their opinions on societal issues whilst answering questions from the public."
+    "title": "Panchayati",
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "20:30",
@@ -283,7 +261,7 @@
     "startTs": 1775593800000,
     "stopTs": 1775595600000,
     "title": "Dharohar",
-    "desc": "The host sheds light on some of the most popular religious, historical and cultural landmarks of Madhya Pradesh and Chhattisgarh."
+    "desc": "This program showcases vivid cultural, historical, religious and tourism attractions of Madhya Pradesh and Chhattisgarh"
   },
   {
     "start": "21:00",
@@ -294,7 +272,7 @@
     "startTs": 1775595600000,
     "stopTs": 1775597400000,
     "title": "Citylight",
-    "desc": "The host presents the day&apos;s major news and latest updates on governance, social issues, economics, and politics, focusing on cities across Madhya Pradesh."
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "21:30",
@@ -305,7 +283,7 @@
     "startTs": 1775597400000,
     "stopTs": 1775599200000,
     "title": "Chhattisgarh Aaj",
-    "desc": "The host presents some of the most important and latest social, economic and political news stories and developments from Chhattisgarh."
+    "desc": "The host presents some of the most important and latest social, economic and political news stories and developments from Chattisgarh."
   },
   {
     "start": "22:00",
@@ -316,7 +294,7 @@
     "startTs": 1775599200000,
     "stopTs": 1775601000000,
     "title": "Mera Madhyapradesh",
-    "desc": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the state of Madhya Pradesh."
+    "desc": "A look at all the latest news updates and developments regarding Madhya Pradesh, an Indian state."
   },
   {
     "start": "22:30",
@@ -327,7 +305,7 @@
     "startTs": 1775601000000,
     "stopTs": 1775602800000,
     "title": "Fast 50",
-    "desc": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe."
+    "desc": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues."
   },
   {
     "start": "23:00",
@@ -337,8 +315,8 @@
     "channelName": "IBC24",
     "startTs": 1775602800000,
     "stopTs": 1775604600000,
-    "title": "Sawal Apka Hai",
-    "desc": "The host engages in conversation with experts to gain their opinions on societal issues whilst answering questions from the public."
+    "title": "Panchayati",
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "23:30",
@@ -349,7 +327,7 @@
     "startTs": 1775604600000,
     "stopTs": 1775606400000,
     "title": "Fast 50",
-    "desc": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe."
+    "desc": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues."
   },
   {
     "start": "00:00",
@@ -360,7 +338,7 @@
     "startTs": 1775606400000,
     "stopTs": 1775608200000,
     "title": "Arpan",
-    "desc": "This is TV Show - Entertainment Category"
+    "desc": "A collection of devotional songs performed by various artists, singers and musicians to praise a deity."
   },
   {
     "start": "00:30",
@@ -371,7 +349,7 @@
     "startTs": 1775608200000,
     "stopTs": 1775610000000,
     "title": "Arpan",
-    "desc": "This is TV Show - Entertainment Category"
+    "desc": "A collection of devotional songs performed by various artists, singers and musicians to praise a deity."
   },
   {
     "start": "01:00",
@@ -382,7 +360,7 @@
     "startTs": 1775610000000,
     "stopTs": 1775610900000,
     "title": "Salasar Balaji Arti",
-    "desc": "Priests offer &apos;aarti&apos; to the deity of Lord Balaji amid sacred chants and worship him, at the Salasar Balaji temple in Rajasthan."
+    "desc": "Religious leaders and devotees perform traditional rituals and chant verses offering prayers and praise to the Almighty."
   },
   {
     "start": "01:15",
@@ -393,7 +371,7 @@
     "startTs": 1775610900000,
     "stopTs": 1775611800000,
     "title": "Shubharambh",
-    "desc": "The host presents a roundup of the latest social, political and economic news updates and developments from the nation and around the world."
+    "desc": "A renowned astrologer gives his predictions for the day based on the movements of the heavenly bodies."
   },
   {
     "start": "01:30",
@@ -426,7 +404,7 @@
     "startTs": 1775615400000,
     "stopTs": 1775617200000,
     "title": "Good Morning Madhyapradesh",
-    "desc": "The host presents the latest updates, developments and current events on several important issues in the state of Madhya Pradesh."
+    "desc": "The host presents the latest and the most relevant social, political, economic and sports updates from Madhya Pradesh."
   },
   {
     "start": "03:00",
@@ -436,8 +414,8 @@
     "channelName": "IBC24",
     "startTs": 1775617200000,
     "stopTs": 1775619000000,
-    "title": "Good Morning Chhatisgarh",
-    "desc": "The host presents the latest social, economic and political news from Chhattisgarh and provides information on relevant current events."
+    "title": "Sitare Hamare",
+    "desc": "A daily horoscopic forecast show, where an astrologer provides a glimpse into how the day will be for various zodiac signs."
   },
   {
     "start": "03:30",
@@ -448,7 +426,7 @@
     "startTs": 1775619000000,
     "stopTs": 1775620800000,
     "title": "Fast 50",
-    "desc": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe."
+    "desc": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues."
   },
   {
     "start": "04:00",
@@ -458,8 +436,8 @@
     "channelName": "IBC24",
     "startTs": 1775620800000,
     "stopTs": 1775622600000,
-    "title": "Ram Kahani",
-    "desc": "The host provides detailed information about the birthplace of Lord Rama, a Hindu deity, and educates the audience about its mythological significance."
+    "title": "Lockup",
+    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
   },
   {
     "start": "04:30",
@@ -470,7 +448,7 @@
     "startTs": 1775622600000,
     "stopTs": 1775624400000,
     "title": "Khabar 10 Baje",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "A daily news bulletin where all state, national, international, business, sports and entertainment news is available."
   },
   {
     "start": "05:00",
@@ -481,7 +459,7 @@
     "startTs": 1775624400000,
     "stopTs": 1775626200000,
     "title": "Fast 50",
-    "desc": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe."
+    "desc": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues."
   },
   {
     "start": "05:30",
@@ -492,7 +470,7 @@
     "startTs": 1775626200000,
     "stopTs": 1775628000000,
     "title": "City 11",
-    "desc": "The host delivers the latest national news updates and developments pertaining to politics, economy and sociocultural affairs."
+    "desc": "The host delivers the latest national news updates and developments pertaining to politics, economy and socio-cultural affairs."
   },
   {
     "start": "06:00",
@@ -503,7 +481,7 @@
     "startTs": 1775628000000,
     "stopTs": 1775629800000,
     "title": "Fast 50",
-    "desc": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe."
+    "desc": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues."
   },
   {
     "start": "06:30",
@@ -514,7 +492,7 @@
     "startTs": 1775629800000,
     "stopTs": 1775631600000,
     "title": "Afternoon Roundup",
-    "desc": "The host presents updates, the latest information and development on social, political, cultural and economic issues of global significance."
+    "desc": "An advert which promotes various consumer products."
   },
   {
     "start": "07:00",
@@ -524,8 +502,8 @@
     "channelName": "IBC24",
     "startTs": 1775631600000,
     "stopTs": 1775633400000,
-    "title": "Fast 50",
-    "desc": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe."
+    "title": "Khabar Dopahar",
+    "desc": "News Bulletin focussed on MP and Chattisgarh"
   },
   {
     "start": "07:30",
@@ -535,8 +513,8 @@
     "channelName": "IBC24",
     "startTs": 1775633400000,
     "stopTs": 1775635200000,
-    "title": "Khabar Dopahar",
-    "desc": "The host presents the latest updates and developments pertaining to politics, finance, sports and entertainment news from across the nation."
+    "title": "20 Min. 100 Khabaren",
+    "desc": "The show tracks the most significant news update of the current day."
   },
   {
     "start": "08:00",
@@ -546,8 +524,8 @@
     "channelName": "IBC24",
     "startTs": 1775635200000,
     "stopTs": 1775637000000,
-    "title": "Afternoon Debate",
-    "desc": "The host engages in discussion with a panel of experts from different fields to share their views on important topics that concern society."
+    "title": "Social Syapa",
+    "desc": "The host presents information on the latest updates of some of the news stories that went viral on various social media platforms."
   },
   {
     "start": "08:30",
@@ -558,7 +536,7 @@
     "startTs": 1775637000000,
     "stopTs": 1775638800000,
     "title": "Khabar Dopahar",
-    "desc": "The host presents the latest updates and developments pertaining to politics, finance, sports and entertainment news from across the nation."
+    "desc": "News Bulletin focussed on MP and Chattisgarh"
   },
   {
     "start": "09:00",
@@ -568,19 +546,30 @@
     "channelName": "IBC24",
     "startTs": 1775638800000,
     "stopTs": 1775640600000,
-    "title": "Fast 50",
-    "desc": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe."
+    "title": "Khabar Dopahar",
+    "desc": "News Bulletin focussed on MP and Chattisgarh"
   },
   {
     "start": "09:30",
-    "stop": "10:30",
+    "stop": "10:00",
     "channel": "IBC24.in",
     "channelId": "IBC24.in",
     "channelName": "IBC24",
     "startTs": 1775640600000,
-    "stopTs": 1775644200000,
+    "stopTs": 1775642400000,
     "title": "City @ 3 PM",
     "desc": "The host presents a round-up of some of the latest and important news stories and updates taking place all over the country."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775642400000,
+    "stopTs": 1775644200000,
+    "title": "Arpan",
+    "desc": "A collection of devotional songs performed by various artists, singers and musicians to praise a deity."
   },
   {
     "start": "10:30",
@@ -591,7 +580,7 @@
     "startTs": 1775644200000,
     "stopTs": 1775646000000,
     "title": "Mera Madhyapradesh",
-    "desc": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the state of Madhya Pradesh."
+    "desc": "A look at all the latest news updates and developments regarding Madhya Pradesh, an Indian state."
   },
   {
     "start": "11:00",
@@ -602,7 +591,7 @@
     "startTs": 1775646000000,
     "stopTs": 1775647800000,
     "title": "Chhattisgarh Abhi",
-    "desc": "The host presents a compilation of the latest updates and developments pertaining to social, political and economic news from across the state of Chhattisgarh."
+    "desc": "The host presents a compilation of the latest updates and developments pertaining to social, political and economic news from across Chhattisgarh."
   },
   {
     "start": "11:30",
@@ -612,8 +601,8 @@
     "channelName": "IBC24",
     "startTs": 1775647800000,
     "stopTs": 1775649600000,
-    "title": "5 Anchor 25 Khaberen",
-    "desc": "The hosts present the top 25 news stories and significant developments from various fields that impact people around the country."
+    "title": "Top @ 5 PM",
+    "desc": "The host presents the latest news updates and developments regarding social, political and economic issues from various parts of the country and the world."
   },
   {
     "start": "12:00",
@@ -623,19 +612,19 @@
     "channelName": "IBC24",
     "startTs": 1775649600000,
     "stopTs": 1775651400000,
-    "title": "Fast 50",
-    "desc": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe."
+    "title": "23 Me Pradesh 24 Me Desh",
+    "desc": "The host and a politician discuss the latest news and updates pertaining to state legislative assembly elections in 2023 and the Indian general election in 2024."
   },
   {
     "start": "12:30",
-    "stop": "12:55",
+    "stop": "13:00",
     "channel": "IBC24.in",
     "channelId": "IBC24.in",
     "channelName": "IBC24",
     "startTs": 1775651400000,
-    "stopTs": 1775652900000,
-    "title": "Panchayati",
-    "desc": "The host invites a panel of experts who engage in an insightful dialogue, highlighting their opinions and views on several issues."
+    "stopTs": 1775653200000,
+    "title": "Evening Roundup",
+    "desc": "The host sheds light on the latest and the most important socio-economic and political news, updates and developments of the day."
   },
   {
     "start": "12:55",
@@ -650,14 +639,25 @@
   },
   {
     "start": "13:00",
-    "stop": "13:30",
+    "stop": "13:15",
     "channel": "IBC24.in",
     "channelId": "IBC24.in",
     "channelName": "IBC24",
     "startTs": 1775653200000,
+    "stopTs": 1775654100000,
+    "title": "Salasar Balaji Arti",
+    "desc": "Religious leaders and devotees perform traditional rituals and chant verses offering prayers and praise to the Almighty."
+  },
+  {
+    "start": "13:15",
+    "stop": "13:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775654100000,
     "stopTs": 1775655000000,
-    "title": "Dharohar",
-    "desc": "The host sheds light on some of the most popular religious, historical and cultural landmarks of Madhya Pradesh and Chhattisgarh."
+    "title": "Sports Adda",
+    "desc": "The host presents the latest news updates from the world of sports and sheds light on some of the best moments from various events."
   },
   {
     "start": "13:30",
@@ -667,8 +667,8 @@
     "channelName": "IBC24",
     "startTs": 1775655000000,
     "stopTs": 1775656800000,
-    "title": "Madhyapradesh @ 24 Min",
-    "desc": "The host sheds light on the various news updates and development related to social, political, economic and cultural topics."
+    "title": "Face To Face Madhya Pradesh",
+    "desc": "The host presents all the latest news stories, updates and developments pertaining to the current affairs of the state of Madhya Pradesh."
   },
   {
     "start": "14:00",
@@ -690,7 +690,7 @@
     "startTs": 1775658600000,
     "stopTs": 1775660400000,
     "title": "Chhattisgarh Ki Baat",
-    "desc": "The host invites various experts and holds an insightful discussion on the political, social and economic issues of Chhattisgarh."
+    "desc": "The host presents a compilation of the latest updates pertaining to social, political and economic news from across the state of Chhattisgarh."
   },
   {
     "start": "15:00",
@@ -700,8 +700,8 @@
     "channelName": "IBC24",
     "startTs": 1775660400000,
     "stopTs": 1775662200000,
-    "title": "Face To Face Madhya Pradesh",
-    "desc": "The host leads intense political debates, discussing critical issues with expert panellsts offering various perspectives on regional affairs and their broader implications."
+    "title": "Madhyapradesh @ 24 Min",
+    "desc": "The host presents the latest news stories and updates on socio-economic and political issues from the state of Madhya Pradesh."
   },
   {
     "start": "15:30",
@@ -711,8 +711,8 @@
     "channelName": "IBC24",
     "startTs": 1775662200000,
     "stopTs": 1775664000000,
-    "title": "Sarkar",
-    "desc": "The host presents some of the latest political, social, economic, sports and other major updates and developments of the day."
+    "title": "News Decode",
+    "desc": "The host provides an in-depth analysis of some of the latest and most significant news stories and developments of the day."
   },
   {
     "start": "16:00",
@@ -722,8 +722,8 @@
     "channelName": "IBC24",
     "startTs": 1775664000000,
     "stopTs": 1775665800000,
-    "title": "Ram Kahani",
-    "desc": "The host provides detailed information about the birthplace of Lord Rama, a Hindu deity, and educates the audience about its mythological significance."
+    "title": "MP-CG 20-20",
+    "desc": "An advert which promotes various consumer products."
   },
   {
     "start": "16:30",
@@ -733,8 +733,8 @@
     "channelName": "IBC24",
     "startTs": 1775665800000,
     "stopTs": 1775667600000,
-    "title": "10 Baje Raat Pure Din Ki Baat",
-    "desc": "The host sheds on the news updates and developments of the day pertaining to politics, social issues, the economy, sports and more."
+    "title": "Raat 10 Baje",
+    "desc": "All the news of the day from all over Madhya Pradesh and Chhattisgarh are highlighted."
   },
   {
     "start": "17:00",
@@ -744,8 +744,8 @@
     "channelName": "IBC24",
     "startTs": 1775667600000,
     "stopTs": 1775669400000,
-    "title": "Fast100",
-    "desc": "The host presents the top 100 news updates pertaining to the political, social, economic and sports fronts from across the nation."
+    "title": "Lockup/Fast 20",
+    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
   },
   {
     "start": "17:30",
@@ -756,7 +756,7 @@
     "startTs": 1775669400000,
     "stopTs": 1775671200000,
     "title": "Citylight",
-    "desc": "The host presents the day&apos;s major news and latest updates on governance, social issues, economics, and politics, focusing on cities across Madhya Pradesh."
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "18:00",
@@ -766,7 +766,381 @@
     "channelName": "IBC24",
     "startTs": 1775671200000,
     "stopTs": 1775673000000,
-    "title": "News Roundup",
-    "desc": "The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
+    "title": "News Decode",
+    "desc": "The host provides an in-depth analysis of some of the latest and most significant news stories and developments of the day."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775673000000,
+    "stopTs": 1775674800000,
+    "title": "Chhattisgarh Ki Baat",
+    "desc": "The host presents a compilation of the latest updates pertaining to social, political and economic news from across the state of Chhattisgarh."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775674800000,
+    "stopTs": 1775676600000,
+    "title": "Madhya Pradesh Ki Baat",
+    "desc": "The host presents a compilation of the latest updates pertaining to social, political and economic news from across the state of Madhya Pradesh."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775676600000,
+    "stopTs": 1775678400000,
+    "title": "Fast 50",
+    "desc": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775678400000,
+    "stopTs": 1775680200000,
+    "title": "Panchayati",
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775680200000,
+    "stopTs": 1775682000000,
+    "title": "Dharohar",
+    "desc": "This program showcases vivid cultural, historical, religious and tourism attractions of Madhya Pradesh and Chhattisgarh"
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775682000000,
+    "stopTs": 1775683800000,
+    "title": "Citylight",
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775683800000,
+    "stopTs": 1775685600000,
+    "title": "Chhattisgarh Aaj",
+    "desc": "The host presents some of the most important and latest social, economic and political news stories and developments from Chattisgarh."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775685600000,
+    "stopTs": 1775687400000,
+    "title": "Mera Madhyapradesh",
+    "desc": "A look at all the latest news updates and developments regarding Madhya Pradesh, an Indian state."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775687400000,
+    "stopTs": 1775689200000,
+    "title": "Fast 50",
+    "desc": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775689200000,
+    "stopTs": 1775691000000,
+    "title": "Panchayati",
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775691000000,
+    "stopTs": 1775692800000,
+    "title": "Fast 50",
+    "desc": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775692800000,
+    "stopTs": 1775694600000,
+    "title": "Arpan",
+    "desc": "A collection of devotional songs performed by various artists, singers and musicians to praise a deity."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775694600000,
+    "stopTs": 1775696400000,
+    "title": "Arpan",
+    "desc": "A collection of devotional songs performed by various artists, singers and musicians to praise a deity."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:15",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775696400000,
+    "stopTs": 1775697300000,
+    "title": "Salasar Balaji Arti",
+    "desc": "Religious leaders and devotees perform traditional rituals and chant verses offering prayers and praise to the Almighty."
+  },
+  {
+    "start": "01:15",
+    "stop": "01:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775697300000,
+    "stopTs": 1775698200000,
+    "title": "Shubharambh",
+    "desc": "A renowned astrologer gives his predictions for the day based on the movements of the heavenly bodies."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775698200000,
+    "stopTs": 1775700000000,
+    "title": "7 Ki Badi Baat",
+    "desc": "The host presents all the latest news stories, updates and major developments pertaining to the current affairs of the nation."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775700000000,
+    "stopTs": 1775701800000,
+    "title": "Hamer Bani Hamer Goth",
+    "desc": "The host collates and presents some of the most important news updates and current affairs from the Indian state of Chhattisgarh."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775701800000,
+    "stopTs": 1775703600000,
+    "title": "Good Morning Madhyapradesh",
+    "desc": "The host presents the latest and the most relevant social, political, economic and sports updates from Madhya Pradesh."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775703600000,
+    "stopTs": 1775705400000,
+    "title": "Sitare Hamare",
+    "desc": "A daily horoscopic forecast show, where an astrologer provides a glimpse into how the day will be for various zodiac signs."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775705400000,
+    "stopTs": 1775707200000,
+    "title": "Fast 50",
+    "desc": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775707200000,
+    "stopTs": 1775709000000,
+    "title": "Lockup",
+    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775709000000,
+    "stopTs": 1775710800000,
+    "title": "Khabar 10 Baje",
+    "desc": "A daily news bulletin where all state, national, international, business, sports and entertainment news is available."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775710800000,
+    "stopTs": 1775712600000,
+    "title": "Fast 50",
+    "desc": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775712600000,
+    "stopTs": 1775714400000,
+    "title": "City 11",
+    "desc": "The host delivers the latest national news updates and developments pertaining to politics, economy and socio-cultural affairs."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775714400000,
+    "stopTs": 1775716200000,
+    "title": "Fast 50",
+    "desc": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775716200000,
+    "stopTs": 1775718000000,
+    "title": "Afternoon Roundup",
+    "desc": "An advert which promotes various consumer products."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775718000000,
+    "stopTs": 1775719800000,
+    "title": "Khabar Dopahar",
+    "desc": "News Bulletin focussed on MP and Chattisgarh"
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775719800000,
+    "stopTs": 1775721600000,
+    "title": "20 Min. 100 Khabaren",
+    "desc": "The show tracks the most significant news update of the current day."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775721600000,
+    "stopTs": 1775723400000,
+    "title": "Social Syapa",
+    "desc": "The host presents information on the latest updates of some of the news stories that went viral on various social media platforms."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775723400000,
+    "stopTs": 1775725200000,
+    "title": "Khabar Dopahar",
+    "desc": "News Bulletin focussed on MP and Chattisgarh"
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775725200000,
+    "stopTs": 1775727000000,
+    "title": "Khabar Dopahar",
+    "desc": "News Bulletin focussed on MP and Chattisgarh"
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775727000000,
+    "stopTs": 1775728800000,
+    "title": "City @ 3 PM",
+    "desc": "The host presents a round-up of some of the latest and important news stories and updates taking place all over the country."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775728800000,
+    "stopTs": 1775730600000,
+    "title": "Arpan",
+    "desc": "A collection of devotional songs performed by various artists, singers and musicians to praise a deity."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1775730600000,
+    "stopTs": 1775732400000,
+    "title": "Mera Madhyapradesh",
+    "desc": "A look at all the latest news updates and developments regarding Madhya Pradesh, an Indian state."
   }
 ]

@@ -1,49 +1,5 @@
 [
   {
-    "start": "08:29",
-    "stop": "09:24",
-    "channel": "KolkataTV.in",
-    "channelId": "KolkataTV.in",
-    "channelName": "Kolkata TV",
-    "startTs": 1775550540000,
-    "stopTs": 1775553840000,
-    "title": "HDL + Sangbad Saradin",
-    "desc": "The host presents the latest news updates from various fronts and provides a detailed report on matters concerning the state and the nation."
-  },
-  {
-    "start": "09:24",
-    "stop": "09:29",
-    "channel": "KolkataTV.in",
-    "channelId": "KolkataTV.in",
-    "channelName": "Kolkata TV",
-    "startTs": 1775553840000,
-    "stopTs": 1775554140000,
-    "title": "5 Minute E 25",
-    "desc": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation."
-  },
-  {
-    "start": "09:29",
-    "stop": "10:00",
-    "channel": "KolkataTV.in",
-    "channelId": "KolkataTV.in",
-    "channelName": "Kolkata TV",
-    "startTs": 1775554140000,
-    "stopTs": 1775556000000,
-    "title": "HDL + Sangbad Saradin",
-    "desc": "The host presents the latest news updates from various fronts and provides a detailed report on matters concerning the state and the nation."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:02",
-    "channel": "KolkataTV.in",
-    "channelId": "KolkataTV.in",
-    "channelName": "Kolkata TV",
-    "startTs": 1775556000000,
-    "stopTs": 1775556120000,
-    "title": "Amar Sahar",
-    "desc": "The host talks about the various problems and issues that people from different cities across West Bengal face in their daily lives."
-  },
-  {
     "start": "10:02",
     "stop": "10:20",
     "channel": "KolkataTV.in",
@@ -52,7 +8,7 @@
     "startTs": 1775556120000,
     "stopTs": 1775557200000,
     "title": "Sangbad Saradin",
-    "desc": "The host presents a detailed analysis of some of the latest updates and top stories pertaining to the current affairs of the nation."
+    "desc": "The host presents the latest updates pertaining to the current affairs of the nation."
   },
   {
     "start": "10:20",
@@ -63,7 +19,7 @@
     "startTs": 1775557200000,
     "stopTs": 1775557740000,
     "title": "Bangla Ekhon",
-    "desc": "The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state of West Bengal."
+    "desc": "The host presents the latest news updates from around the state of West Bengal."
   },
   {
     "start": "10:29",
@@ -74,7 +30,7 @@
     "startTs": 1775557740000,
     "stopTs": 1775561340000,
     "title": "HDL + 4 Tey Chardik",
-    "desc": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation."
+    "desc": "The host presents the latest updates on various pressing issues across the nation."
   },
   {
     "start": "11:29",
@@ -85,7 +41,7 @@
     "startTs": 1775561340000,
     "stopTs": 1775563200000,
     "title": "HDL + Sangbad Saradin",
-    "desc": "The host presents the latest news updates from various fronts and provides a detailed report on matters concerning the state and the nation."
+    "desc": "The host provides top updates from various fronts and sheds light on important matters."
   },
   {
     "start": "12:00",
@@ -96,7 +52,7 @@
     "startTs": 1775563200000,
     "stopTs": 1775563320000,
     "title": "Amar Sahar",
-    "desc": "The host talks about the various problems and issues that people from different cities across West Bengal face in their daily lives."
+    "desc": "The host talks about the problems that people face from across West Bengal."
   },
   {
     "start": "12:02",
@@ -107,7 +63,7 @@
     "startTs": 1775563320000,
     "stopTs": 1775564940000,
     "title": "Sangbad Saradin",
-    "desc": "The host presents a detailed analysis of some of the latest updates and top stories pertaining to the current affairs of the nation."
+    "desc": "The host presents the latest updates pertaining to the current affairs of the nation."
   },
   {
     "start": "12:29",
@@ -118,7 +74,7 @@
     "startTs": 1775564940000,
     "stopTs": 1775566560000,
     "title": "HDL + Jelar Saradin",
-    "desc": "The host presents the latest news updates from across various fronts and provides a detailed report on matters concerning the state and the nation."
+    "desc": "The host provides the top updates from various fronts and sheds light on key matters."
   },
   {
     "start": "12:56",
@@ -140,7 +96,7 @@
     "startTs": 1775568360000,
     "stopTs": 1775572200000,
     "title": "Bangla Bolchhe",
-    "desc": "The host invites experts and political representatives to engage in debates on significant socio-political issues and current affairs relevant to the public."
+    "desc": "The host invites experts and conducts debates on significant socio-political issues."
   },
   {
     "start": "14:30",
@@ -151,7 +107,7 @@
     "startTs": 1775572200000,
     "stopTs": 1775574000000,
     "title": "Sera 10",
-    "desc": "The host sheds light on the top 10 news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
+    "desc": "The host presents the top 10 news and updates from India and around the world."
   },
   {
     "start": "15:00",
@@ -162,7 +118,7 @@
     "startTs": 1775574000000,
     "stopTs": 1775575200000,
     "title": "Sangbad Saradin",
-    "desc": "The host presents a detailed analysis of some of the latest updates and top stories pertaining to the current affairs of the nation."
+    "desc": "The host presents the latest updates pertaining to the current affairs of the nation."
   },
   {
     "start": "15:20",
@@ -184,7 +140,18 @@
     "startTs": 1775575800000,
     "stopTs": 1775577600000,
     "title": "Stadium Bulletin",
-    "desc": "The host provides detailed discussions on the latest sports updates, upcoming matches, post-game reviews, and player performances."
+    "desc": "The host provides detailed discussions on the latest updates in the field of sports."
+  },
+  {
+    "start": "15:50",
+    "stop": "16:00",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775577000000,
+    "stopTs": 1775577600000,
+    "title": "Bishoy Bidesh",
+    "desc": "Covers key global news and issues, analyzing international events from a Bengali lens."
   },
   {
     "start": "16:00",
@@ -195,7 +162,7 @@
     "startTs": 1775577600000,
     "stopTs": 1775579340000,
     "title": "Politics",
-    "desc": "The host presents updates on the latest news stories, developments, and current affairs from various sectors of society throughout the world."
+    "desc": "The host presents updates on the latest news and developments throughout the world."
   },
   {
     "start": "16:29",
@@ -206,7 +173,7 @@
     "startTs": 1775579340000,
     "stopTs": 1775580600000,
     "title": "Chaturtho Stamva",
-    "desc": "The anchor offers in-depth coverage and analysis of current events, providing a comprehensive understanding of key topics."
+    "desc": "The anchor offers in-depth coverage and analysis of current events."
   },
   {
     "start": "16:50",
@@ -217,7 +184,7 @@
     "startTs": 1775580600000,
     "stopTs": 1775581200000,
     "title": "AJKE",
-    "desc": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
+    "desc": "The host presents a detailed report on the latest news and developments."
   },
   {
     "start": "17:00",
@@ -228,7 +195,7 @@
     "startTs": 1775581200000,
     "stopTs": 1775582940000,
     "title": "Ponero Ponero Panch",
-    "desc": "The host sheds light on some of the latest news, current affairs and developments on various issues pertaining to public and national interest."
+    "desc": "The host sheds light on some of the top news pertaining to public and national interest."
   },
   {
     "start": "17:29",
@@ -239,7 +206,7 @@
     "startTs": 1775582940000,
     "stopTs": 1775584200000,
     "title": "Bangla Bolchhe",
-    "desc": "The host invites experts and political representatives to engage in debates on significant socio-political issues and current affairs relevant to the public."
+    "desc": "The host invites experts and conducts debates on significant socio-political issues."
   },
   {
     "start": "17:50",
@@ -250,7 +217,7 @@
     "startTs": 1775584200000,
     "stopTs": 1775584800000,
     "title": "Bangla Bolchhe",
-    "desc": "The host invites experts and political representatives to engage in debates on significant socio-political issues and current affairs relevant to the public."
+    "desc": "The host invites experts and conducts debates on significant socio-political issues."
   },
   {
     "start": "18:00",
@@ -261,7 +228,7 @@
     "startTs": 1775584800000,
     "stopTs": 1775586600000,
     "title": "Bangla Bolchhe",
-    "desc": "The host invites experts and political representatives to engage in debates on significant socio-political issues and current affairs relevant to the public."
+    "desc": "The host invites experts and conducts debates on significant socio-political issues."
   },
   {
     "start": "18:30",
@@ -272,7 +239,7 @@
     "startTs": 1775586600000,
     "stopTs": 1775588400000,
     "title": "Chaturtho Stamva",
-    "desc": "The anchor offers in-depth coverage and analysis of current events, providing a comprehensive understanding of key topics."
+    "desc": "The anchor offers in-depth coverage and analysis of current events."
   },
   {
     "start": "19:00",
@@ -283,7 +250,7 @@
     "startTs": 1775588400000,
     "stopTs": 1775590200000,
     "title": "Bharat Amar Bharatborsha",
-    "desc": "The host sheds light on the lesser-known facets of Indian history, iconic personalities, social movements that contributed to the growth of the nation."
+    "desc": "The host presents the unknown facets of Indian history that contributed to the growth of the nation."
   },
   {
     "start": "19:30",
@@ -294,7 +261,7 @@
     "startTs": 1775590200000,
     "stopTs": 1775608200000,
     "title": "Sangbad Saradin",
-    "desc": "The host presents a detailed analysis of some of the latest updates and top stories pertaining to the current affairs of the nation."
+    "desc": "The host presents the latest updates pertaining to the current affairs of the nation."
   },
   {
     "start": "00:30",
@@ -305,7 +272,7 @@
     "startTs": 1775608200000,
     "stopTs": 1775611800000,
     "title": "Sangbad Saradin",
-    "desc": "The host presents a detailed analysis of some of the latest updates and top stories pertaining to the current affairs of the nation."
+    "desc": "The host presents the latest updates pertaining to the current affairs of the nation."
   },
   {
     "start": "01:30",
@@ -316,7 +283,7 @@
     "startTs": 1775611800000,
     "stopTs": 1775613600000,
     "title": "Bharat Amar Bharatborsha",
-    "desc": "The host sheds light on the lesser-known facets of Indian history, iconic personalities, social movements that contributed to the growth of the nation."
+    "desc": "The host presents the unknown facets of Indian history that contributed to the growth of the nation."
   },
   {
     "start": "02:00",
@@ -327,7 +294,7 @@
     "startTs": 1775613600000,
     "stopTs": 1775613720000,
     "title": "Amar Sahar",
-    "desc": "The host talks about the various problems and issues that people from different cities across West Bengal face in their daily lives."
+    "desc": "The host talks about the problems that people face from across West Bengal."
   },
   {
     "start": "02:02",
@@ -338,7 +305,7 @@
     "startTs": 1775613720000,
     "stopTs": 1775615220000,
     "title": "Politics",
-    "desc": "The host presents updates on the latest news stories, developments, and current affairs from various sectors of society throughout the world."
+    "desc": "The host presents updates on the latest news and developments throughout the world."
   },
   {
     "start": "02:27",
@@ -349,7 +316,7 @@
     "startTs": 1775615220000,
     "stopTs": 1775617200000,
     "title": "HDL + Good Morning Kolkata",
-    "desc": "The host presents the latest news on areas like politics and socio-economic issues, and provides a detailed report on matters pertaining to the city of Kolkata."
+    "desc": "The host presents the latest news on matters pertaining to the city of Kolkata."
   },
   {
     "start": "03:00",
@@ -360,7 +327,7 @@
     "startTs": 1775617200000,
     "stopTs": 1775618220000,
     "title": "Chaturtho Stamva",
-    "desc": "The anchor offers in-depth coverage and analysis of current events, providing a comprehensive understanding of key topics."
+    "desc": "The anchor offers in-depth coverage and analysis of current events."
   },
   {
     "start": "03:17",
@@ -371,7 +338,7 @@
     "startTs": 1775618220000,
     "stopTs": 1775618820000,
     "title": "AJKE",
-    "desc": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
+    "desc": "The host presents a detailed report on the latest news and developments."
   },
   {
     "start": "03:27",
@@ -382,7 +349,7 @@
     "startTs": 1775618820000,
     "stopTs": 1775620800000,
     "title": "HDL + Sangbad Saradin",
-    "desc": "The host presents the latest news updates from various fronts and provides a detailed report on matters concerning the state and the nation."
+    "desc": "The host provides top updates from various fronts and sheds light on important matters."
   },
   {
     "start": "04:00",
@@ -393,7 +360,7 @@
     "startTs": 1775620800000,
     "stopTs": 1775620920000,
     "title": "Amar Sahar",
-    "desc": "The host talks about the various problems and issues that people from different cities across West Bengal face in their daily lives."
+    "desc": "The host talks about the problems that people face from across West Bengal."
   },
   {
     "start": "04:02",
@@ -404,7 +371,7 @@
     "startTs": 1775620920000,
     "stopTs": 1775622540000,
     "title": "Sangbad Saradin",
-    "desc": "The host presents a detailed analysis of some of the latest updates and top stories pertaining to the current affairs of the nation."
+    "desc": "The host presents the latest updates pertaining to the current affairs of the nation."
   },
   {
     "start": "04:29",
@@ -415,7 +382,7 @@
     "startTs": 1775622540000,
     "stopTs": 1775626140000,
     "title": "HDL + Sangbad Saradin",
-    "desc": "The host presents the latest news updates from various fronts and provides a detailed report on matters concerning the state and the nation."
+    "desc": "The host provides top updates from various fronts and sheds light on important matters."
   },
   {
     "start": "05:29",
@@ -426,7 +393,7 @@
     "startTs": 1775626140000,
     "stopTs": 1775628000000,
     "title": "HDL + Sangbad Saradin",
-    "desc": "The host presents the latest news updates from various fronts and provides a detailed report on matters concerning the state and the nation."
+    "desc": "The host provides top updates from various fronts and sheds light on important matters."
   },
   {
     "start": "06:00",
@@ -437,7 +404,7 @@
     "startTs": 1775628000000,
     "stopTs": 1775628120000,
     "title": "Amar Sahar",
-    "desc": "The host talks about the various problems and issues that people from different cities across West Bengal face in their daily lives."
+    "desc": "The host talks about the problems that people face from across West Bengal."
   },
   {
     "start": "06:02",
@@ -448,7 +415,7 @@
     "startTs": 1775628120000,
     "stopTs": 1775629200000,
     "title": "Sangbad Saradin",
-    "desc": "The host presents a detailed analysis of some of the latest updates and top stories pertaining to the current affairs of the nation."
+    "desc": "The host presents the latest updates pertaining to the current affairs of the nation."
   },
   {
     "start": "06:20",
@@ -459,7 +426,7 @@
     "startTs": 1775629200000,
     "stopTs": 1775629740000,
     "title": "Bangla Ekhon",
-    "desc": "The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state of West Bengal."
+    "desc": "The host presents the latest news updates from around the state of West Bengal."
   },
   {
     "start": "06:29",
@@ -481,7 +448,7 @@
     "startTs": 1775633040000,
     "stopTs": 1775633340000,
     "title": "5 Minute E 25",
-    "desc": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation."
+    "desc": "The host presents the latest updates on various pressing issues across the nation."
   },
   {
     "start": "07:29",
@@ -492,7 +459,7 @@
     "startTs": 1775633340000,
     "stopTs": 1775635200000,
     "title": "HDL + Sangbad Saradin",
-    "desc": "The host presents the latest news updates from various fronts and provides a detailed report on matters concerning the state and the nation."
+    "desc": "The host provides top updates from various fronts and sheds light on important matters."
   },
   {
     "start": "08:00",
@@ -503,7 +470,7 @@
     "startTs": 1775635200000,
     "stopTs": 1775635320000,
     "title": "Amar Sahar",
-    "desc": "The host talks about the various problems and issues that people from different cities across West Bengal face in their daily lives."
+    "desc": "The host talks about the problems that people face from across West Bengal."
   },
   {
     "start": "08:02",
@@ -514,7 +481,7 @@
     "startTs": 1775635320000,
     "stopTs": 1775636400000,
     "title": "Sangbad Saradin",
-    "desc": "The host presents a detailed analysis of some of the latest updates and top stories pertaining to the current affairs of the nation."
+    "desc": "The host presents the latest updates pertaining to the current affairs of the nation."
   },
   {
     "start": "08:20",
@@ -525,7 +492,7 @@
     "startTs": 1775636400000,
     "stopTs": 1775636940000,
     "title": "Bangla Ekhon",
-    "desc": "The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state of West Bengal."
+    "desc": "The host presents the latest news updates from around the state of West Bengal."
   },
   {
     "start": "08:29",
@@ -536,7 +503,7 @@
     "startTs": 1775636940000,
     "stopTs": 1775640240000,
     "title": "HDL + Sangbad Saradin",
-    "desc": "The host presents the latest news updates from various fronts and provides a detailed report on matters concerning the state and the nation."
+    "desc": "The host provides top updates from various fronts and sheds light on important matters."
   },
   {
     "start": "09:24",
@@ -547,7 +514,7 @@
     "startTs": 1775640240000,
     "stopTs": 1775640540000,
     "title": "5 Minute E 25",
-    "desc": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation."
+    "desc": "The host presents the latest updates on various pressing issues across the nation."
   },
   {
     "start": "09:29",
@@ -558,7 +525,7 @@
     "startTs": 1775640540000,
     "stopTs": 1775642400000,
     "title": "HDL + Sangbad Saradin",
-    "desc": "The host presents the latest news updates from various fronts and provides a detailed report on matters concerning the state and the nation."
+    "desc": "The host provides top updates from various fronts and sheds light on important matters."
   },
   {
     "start": "10:00",
@@ -569,7 +536,7 @@
     "startTs": 1775642400000,
     "stopTs": 1775642520000,
     "title": "Amar Sahar",
-    "desc": "The host talks about the various problems and issues that people from different cities across West Bengal face in their daily lives."
+    "desc": "The host talks about the problems that people face from across West Bengal."
   },
   {
     "start": "10:02",
@@ -580,7 +547,7 @@
     "startTs": 1775642520000,
     "stopTs": 1775643600000,
     "title": "Sangbad Saradin",
-    "desc": "The host presents a detailed analysis of some of the latest updates and top stories pertaining to the current affairs of the nation."
+    "desc": "The host presents the latest updates pertaining to the current affairs of the nation."
   },
   {
     "start": "10:20",
@@ -591,7 +558,7 @@
     "startTs": 1775643600000,
     "stopTs": 1775644140000,
     "title": "Bangla Ekhon",
-    "desc": "The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state of West Bengal."
+    "desc": "The host presents the latest news updates from around the state of West Bengal."
   },
   {
     "start": "10:29",
@@ -602,7 +569,7 @@
     "startTs": 1775644140000,
     "stopTs": 1775647740000,
     "title": "HDL + 4 Tey Chardik",
-    "desc": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation."
+    "desc": "The host presents the latest updates on various pressing issues across the nation."
   },
   {
     "start": "11:29",
@@ -613,7 +580,7 @@
     "startTs": 1775647740000,
     "stopTs": 1775649600000,
     "title": "HDL + Sangbad Saradin",
-    "desc": "The host presents the latest news updates from various fronts and provides a detailed report on matters concerning the state and the nation."
+    "desc": "The host provides top updates from various fronts and sheds light on important matters."
   },
   {
     "start": "12:00",
@@ -624,7 +591,7 @@
     "startTs": 1775649600000,
     "stopTs": 1775649720000,
     "title": "Amar Sahar",
-    "desc": "The host talks about the various problems and issues that people from different cities across West Bengal face in their daily lives."
+    "desc": "The host talks about the problems that people face from across West Bengal."
   },
   {
     "start": "12:02",
@@ -635,7 +602,7 @@
     "startTs": 1775649720000,
     "stopTs": 1775651340000,
     "title": "Sangbad Saradin",
-    "desc": "The host presents a detailed analysis of some of the latest updates and top stories pertaining to the current affairs of the nation."
+    "desc": "The host presents the latest updates pertaining to the current affairs of the nation."
   },
   {
     "start": "12:29",
@@ -646,7 +613,7 @@
     "startTs": 1775651340000,
     "stopTs": 1775652960000,
     "title": "HDL + Jelar Saradin",
-    "desc": "The host presents the latest news updates from across various fronts and provides a detailed report on matters concerning the state and the nation."
+    "desc": "The host provides the top updates from various fronts and sheds light on key matters."
   },
   {
     "start": "12:56",
@@ -668,7 +635,7 @@
     "startTs": 1775654760000,
     "stopTs": 1775658600000,
     "title": "Bangla Bolchhe",
-    "desc": "The host invites experts and political representatives to engage in debates on significant socio-political issues and current affairs relevant to the public."
+    "desc": "The host invites experts and conducts debates on significant socio-political issues."
   },
   {
     "start": "14:30",
@@ -679,7 +646,7 @@
     "startTs": 1775658600000,
     "stopTs": 1775660400000,
     "title": "Sera 100",
-    "desc": "The host presents the top 100 news updates concerning the political, social, economic and sports fronts from across the state and the nation."
+    "desc": "The host presents the top 100 news updates from across the state and the nation."
   },
   {
     "start": "15:00",
@@ -690,7 +657,7 @@
     "startTs": 1775660400000,
     "stopTs": 1775661600000,
     "title": "Sangbad Saradin",
-    "desc": "The host presents a detailed analysis of some of the latest updates and top stories pertaining to the current affairs of the nation."
+    "desc": "The host presents the latest updates pertaining to the current affairs of the nation."
   },
   {
     "start": "15:20",
@@ -712,7 +679,18 @@
     "startTs": 1775662200000,
     "stopTs": 1775664000000,
     "title": "Stadium Bulletin",
-    "desc": "The host provides detailed discussions on the latest sports updates, upcoming matches, post-game reviews, and player performances."
+    "desc": "The host provides detailed discussions on the latest updates in the field of sports."
+  },
+  {
+    "start": "15:50",
+    "stop": "16:00",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775663400000,
+    "stopTs": 1775664000000,
+    "title": "Bishoy Bidesh",
+    "desc": "Covers key global news and issues, analyzing international events from a Bengali lens."
   },
   {
     "start": "16:00",
@@ -723,7 +701,7 @@
     "startTs": 1775664000000,
     "stopTs": 1775665740000,
     "title": "Politics",
-    "desc": "The host presents updates on the latest news stories, developments, and current affairs from various sectors of society throughout the world."
+    "desc": "The host presents updates on the latest news and developments throughout the world."
   },
   {
     "start": "16:29",
@@ -734,7 +712,7 @@
     "startTs": 1775665740000,
     "stopTs": 1775667000000,
     "title": "Chaturtho Stamva",
-    "desc": "The anchor offers in-depth coverage and analysis of current events, providing a comprehensive understanding of key topics."
+    "desc": "The anchor offers in-depth coverage and analysis of current events."
   },
   {
     "start": "16:50",
@@ -745,7 +723,7 @@
     "startTs": 1775667000000,
     "stopTs": 1775667600000,
     "title": "AJKE",
-    "desc": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
+    "desc": "The host presents a detailed report on the latest news and developments."
   },
   {
     "start": "17:00",
@@ -756,7 +734,7 @@
     "startTs": 1775667600000,
     "stopTs": 1775669340000,
     "title": "Ponero Ponero Panch",
-    "desc": "The host sheds light on some of the latest news, current affairs and developments on various issues pertaining to public and national interest."
+    "desc": "The host sheds light on some of the top news pertaining to public and national interest."
   },
   {
     "start": "17:29",
@@ -767,7 +745,7 @@
     "startTs": 1775669340000,
     "stopTs": 1775670600000,
     "title": "Bangla Bolchhe",
-    "desc": "The host invites experts and political representatives to engage in debates on significant socio-political issues and current affairs relevant to the public."
+    "desc": "The host invites experts and conducts debates on significant socio-political issues."
   },
   {
     "start": "17:50",
@@ -778,7 +756,7 @@
     "startTs": 1775670600000,
     "stopTs": 1775671200000,
     "title": "Bangla Bolchhe",
-    "desc": "The host invites experts and political representatives to engage in debates on significant socio-political issues and current affairs relevant to the public."
+    "desc": "The host invites experts and conducts debates on significant socio-political issues."
   },
   {
     "start": "18:00",
@@ -789,6 +767,347 @@
     "startTs": 1775671200000,
     "stopTs": 1775673000000,
     "title": "Bangla Bolchhe",
-    "desc": "The host invites experts and political representatives to engage in debates on significant socio-political issues and current affairs relevant to the public."
+    "desc": "The host invites experts and conducts debates on significant socio-political issues."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775673000000,
+    "stopTs": 1775674800000,
+    "title": "Chaturtho Stamva",
+    "desc": "Insightful debates and opinions highlighting the role of media in democracy."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775674800000,
+    "stopTs": 1775676600000,
+    "title": "Bharat Amar Bharat Barsho",
+    "desc": "Showcasing the rich heritage, culture, and unity of India across diverse regions."
+  },
+  {
+    "start": "19:30",
+    "stop": "00:30",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775676600000,
+    "stopTs": 1775694600000,
+    "title": "Sangbad Saradin",
+    "desc": "A comprehensive daily news update from Bengal and around the world."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:30",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775694600000,
+    "stopTs": 1775698200000,
+    "title": "Sangbad Saradin",
+    "desc": "A comprehensive daily news update from Bengal and around the world."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775698200000,
+    "stopTs": 1775700000000,
+    "title": "Beyond Politics",
+    "desc": "Explores stories and individuals influencing society beyond political boundaries."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:02",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775700000000,
+    "stopTs": 1775700120000,
+    "title": "Amar Sahar",
+    "desc": "Amar Sahar features inspiring stories and historical accounts from the city&apos;s past."
+  },
+  {
+    "start": "02:02",
+    "stop": "02:27",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775700120000,
+    "stopTs": 1775701620000,
+    "title": "Aditir Sange sada kalo",
+    "desc": "Aditir Sange sada kalo showcases musical performances with devotional and folk songs."
+  },
+  {
+    "start": "02:27",
+    "stop": "03:00",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775701620000,
+    "stopTs": 1775703600000,
+    "title": "HDL/ Good Morning Kolkata",
+    "desc": "Start your day with Kolkata&apos;s headlines, updates, and conversations that matter."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:17",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775703600000,
+    "stopTs": 1775704620000,
+    "title": "Chaturtho Stamva",
+    "desc": "Insightful debates and opinions highlighting the role of media in democracy."
+  },
+  {
+    "start": "03:17",
+    "stop": "03:27",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775704620000,
+    "stopTs": 1775705220000,
+    "title": "Ajke",
+    "desc": "Ajke presents current news headlines and updates from the day&apos;s important events."
+  },
+  {
+    "start": "03:27",
+    "stop": "04:00",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775705220000,
+    "stopTs": 1775707200000,
+    "title": "HDL/ Sangbad Saradin",
+    "desc": "Day-long news coverage presenting local, national, and international highlights."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:02",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775707200000,
+    "stopTs": 1775707320000,
+    "title": "Amar Sahar",
+    "desc": "Amar Sahar features inspiring stories and historical accounts from the city&apos;s past."
+  },
+  {
+    "start": "04:02",
+    "stop": "04:29",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775707320000,
+    "stopTs": 1775708940000,
+    "title": "Sangbad Saradin",
+    "desc": "A comprehensive daily news update from Bengal and around the world."
+  },
+  {
+    "start": "04:29",
+    "stop": "05:29",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775708940000,
+    "stopTs": 1775712540000,
+    "title": "HDL/ Sangbad Saradin",
+    "desc": "Day-long news coverage presenting local, national, and international highlights."
+  },
+  {
+    "start": "05:29",
+    "stop": "06:00",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775712540000,
+    "stopTs": 1775714400000,
+    "title": "HDL/ Sangbad Saradin",
+    "desc": "Day-long news coverage presenting local, national, and international highlights."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:02",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775714400000,
+    "stopTs": 1775714520000,
+    "title": "Amar Sahar",
+    "desc": "Amar Sahar features inspiring stories and historical accounts from the city&apos;s past."
+  },
+  {
+    "start": "06:02",
+    "stop": "06:20",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775714520000,
+    "stopTs": 1775715600000,
+    "title": "Sangbad Saradin",
+    "desc": "A comprehensive daily news update from Bengal and around the world."
+  },
+  {
+    "start": "06:20",
+    "stop": "06:29",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775715600000,
+    "stopTs": 1775716140000,
+    "title": "Bangla Ekhon",
+    "desc": "A comprehensive news bulletin focusing on current affairs from across Bengal."
+  },
+  {
+    "start": "06:29",
+    "stop": "07:24",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775716140000,
+    "stopTs": 1775719440000,
+    "title": "HDL/ Aro Baro",
+    "desc": "A detailed analysis of headlines and stories shaping Bengal&apos;s public discourse."
+  },
+  {
+    "start": "07:24",
+    "stop": "07:29",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775719440000,
+    "stopTs": 1775719740000,
+    "title": "5 Minute E 25",
+    "desc": "5 Minute E 25 delivers short news bites and quick updates in a concise format."
+  },
+  {
+    "start": "07:29",
+    "stop": "08:00",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775719740000,
+    "stopTs": 1775721600000,
+    "title": "HDL/ Sangbad Saradin",
+    "desc": "Day-long news coverage presenting local, national, and international highlights."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:02",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775721600000,
+    "stopTs": 1775721720000,
+    "title": "Amar Sahar",
+    "desc": "Amar Sahar features inspiring stories and historical accounts from the city&apos;s past."
+  },
+  {
+    "start": "08:02",
+    "stop": "08:20",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775721720000,
+    "stopTs": 1775722800000,
+    "title": "Sangbad Saradin",
+    "desc": "A comprehensive daily news update from Bengal and around the world."
+  },
+  {
+    "start": "08:20",
+    "stop": "08:29",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775722800000,
+    "stopTs": 1775723340000,
+    "title": "Bangla Ekhon",
+    "desc": "A comprehensive news bulletin focusing on current affairs from across Bengal."
+  },
+  {
+    "start": "08:29",
+    "stop": "09:24",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775723340000,
+    "stopTs": 1775726640000,
+    "title": "HDL/ Sangbad Saradin",
+    "desc": "Day-long news coverage presenting local, national, and international highlights."
+  },
+  {
+    "start": "09:24",
+    "stop": "09:29",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775726640000,
+    "stopTs": 1775726940000,
+    "title": "5 Minute E 25",
+    "desc": "5 Minute E 25 delivers short news bites and quick updates in a concise format."
+  },
+  {
+    "start": "09:29",
+    "stop": "10:00",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775726940000,
+    "stopTs": 1775728800000,
+    "title": "HDL/ Sangbad Saradin",
+    "desc": "Day-long news coverage presenting local, national, and international highlights."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:02",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775728800000,
+    "stopTs": 1775728920000,
+    "title": "Amar Sahar",
+    "desc": "Amar Sahar features inspiring stories and historical accounts from the city&apos;s past."
+  },
+  {
+    "start": "10:02",
+    "stop": "10:20",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775728920000,
+    "stopTs": 1775730000000,
+    "title": "Sangbad Saradin",
+    "desc": "A comprehensive daily news update from Bengal and around the world."
+  },
+  {
+    "start": "10:20",
+    "stop": "10:29",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775730000000,
+    "stopTs": 1775730540000,
+    "title": "Bangla Ekhon",
+    "desc": "A comprehensive news bulletin focusing on current affairs from across Bengal."
+  },
+  {
+    "start": "10:29",
+    "stop": "11:29",
+    "channel": "KolkataTV.in",
+    "channelId": "KolkataTV.in",
+    "channelName": "Kolkata Tv",
+    "startTs": 1775730540000,
+    "stopTs": 1775734140000,
+    "title": "HDL/ 4 Tey Chardik",
+    "desc": "News roundup with updates from all four corners, covering regional and city reports."
   }
 ]

@@ -1,49 +1,5 @@
 [
   {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "VIPNews.in",
-    "channelId": "VIPNews.in",
-    "channelName": "VIP News",
-    "startTs": 1775548800000,
-    "stopTs": 1775550600000,
-    "title": "Alert India",
-    "desc": "The host presents information about social, economic and political issues and provides updates on current events and happenings."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "VIPNews.in",
-    "channelId": "VIPNews.in",
-    "channelName": "VIP News",
-    "startTs": 1775550600000,
-    "stopTs": 1775552400000,
-    "title": "News Headlines",
-    "desc": "The host presents the latest news reports, updates and developments on the political, social and economic fronts from across the country and the world."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "VIPNews.in",
-    "channelId": "VIPNews.in",
-    "channelName": "VIP News",
-    "startTs": 1775552400000,
-    "stopTs": 1775554200000,
-    "title": "News",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:30",
-    "channel": "VIPNews.in",
-    "channelId": "VIPNews.in",
-    "channelName": "VIP News",
-    "startTs": 1775554200000,
-    "stopTs": 1775557800000,
-    "title": "Special Report",
-    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
-  },
-  {
     "start": "10:30",
     "stop": "11:00",
     "channel": "VIPNews.in",
@@ -51,8 +7,8 @@
     "channelName": "VIP News",
     "startTs": 1775557800000,
     "stopTs": 1775559600000,
-    "title": "TOP 50",
-    "desc": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
+    "title": "News",
+    "desc": "News updates and developments of the day."
   },
   {
     "start": "11:00",
@@ -62,8 +18,8 @@
     "channelName": "VIP News",
     "startTs": 1775559600000,
     "stopTs": 1775561400000,
-    "title": "News",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "title": "News UP",
+    "desc": "Regional news program highlighting major updates from Uttar Pradesh."
   },
   {
     "start": "11:30",
@@ -73,8 +29,8 @@
     "channelName": "VIP News",
     "startTs": 1775561400000,
     "stopTs": 1775563200000,
-    "title": "News",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "title": "Chhattisgarh Bulletin",
+    "desc": "Regional news bulletin covering important updates and events from Chhattisgarh."
   },
   {
     "start": "12:00",
@@ -84,8 +40,8 @@
     "channelName": "VIP News",
     "startTs": 1775563200000,
     "stopTs": 1775565000000,
-    "title": "News",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
   },
   {
     "start": "12:30",
@@ -95,8 +51,8 @@
     "channelName": "VIP News",
     "startTs": 1775565000000,
     "stopTs": 1775566800000,
-    "title": "News",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
   },
   {
     "start": "13:00",
@@ -106,8 +62,8 @@
     "channelName": "VIP News",
     "startTs": 1775566800000,
     "stopTs": 1775568600000,
-    "title": "News",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
   },
   {
     "start": "13:30",
@@ -117,8 +73,8 @@
     "channelName": "VIP News",
     "startTs": 1775568600000,
     "stopTs": 1775570400000,
-    "title": "News",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
   },
   {
     "start": "14:00",
@@ -128,19 +84,30 @@
     "channelName": "VIP News",
     "startTs": 1775570400000,
     "stopTs": 1775572200000,
-    "title": "TOP 50",
-    "desc": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
+    "title": "News UP",
+    "desc": "Regional news program highlighting major updates from Uttar Pradesh."
   },
   {
     "start": "14:30",
-    "stop": "15:30",
+    "stop": "15:00",
     "channel": "VIPNews.in",
     "channelId": "VIPNews.in",
     "channelName": "VIP News",
     "startTs": 1775572200000,
+    "stopTs": 1775574000000,
+    "title": "Khabar Uttarakhand",
+    "desc": "Regional news coverage focusing on political, social, and local issues from Uttarakhand."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775574000000,
     "stopTs": 1775575800000,
-    "title": "Bebaak Bahas",
-    "desc": "The host invites various guests and experts in order for them share their insights and analyses on the different pressing issues concerning the nation."
+    "title": "Chhattisgarh Bulletin",
+    "desc": "Regional news bulletin covering important updates and events from Chhattisgarh."
   },
   {
     "start": "15:30",
@@ -150,8 +117,8 @@
     "channelName": "VIP News",
     "startTs": 1775575800000,
     "stopTs": 1775577600000,
-    "title": "9 At 9 Live",
-    "desc": "The host presents the latest updates pertaining various political, social and sports updates from all over the country, live."
+    "title": "Khabar Desh Ki",
+    "desc": "A national news show delivering key headlines and major developments from across the country."
   },
   {
     "start": "16:00",
@@ -161,8 +128,8 @@
     "channelName": "VIP News",
     "startTs": 1775577600000,
     "stopTs": 1775579400000,
-    "title": "VIP Live Express Nation Live",
-    "desc": "The host presents an insightful report on the latest news updates from the political and socio-economic spheres across the nation and globe, live."
+    "title": "Khabar Desh Ki",
+    "desc": "A national news show delivering key headlines and major developments from across the country."
   },
   {
     "start": "16:30",
@@ -172,8 +139,8 @@
     "channelName": "VIP News",
     "startTs": 1775579400000,
     "stopTs": 1775581200000,
-    "title": "Teleshopping",
-    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home."
+    "title": "Chhattisgarh Bulletin",
+    "desc": "Regional news bulletin covering important updates and events from Chhattisgarh."
   },
   {
     "start": "17:00",
@@ -183,8 +150,8 @@
     "channelName": "VIP News",
     "startTs": 1775581200000,
     "stopTs": 1775583000000,
-    "title": "Alert India",
-    "desc": "The host presents information about social, economic and political issues and provides updates on current events and happenings."
+    "title": "Plus Minus",
+    "desc": "A debate-driven show analyzing issues through contrasting viewpoints and expert opinions."
   },
   {
     "start": "17:30",
@@ -194,19 +161,19 @@
     "channelName": "VIP News",
     "startTs": 1775583000000,
     "stopTs": 1775584800000,
-    "title": "To Be Announced",
-    "desc": "Bringing the best in television."
+    "title": "Khabar Uttarakhand",
+    "desc": "Regional news coverage focusing on political, social, and local issues from Uttarakhand."
   },
   {
     "start": "18:00",
-    "stop": "18:29",
+    "stop": "18:30",
     "channel": "VIPNews.in",
     "channelId": "VIPNews.in",
     "channelName": "VIP News",
     "startTs": 1775584800000,
-    "stopTs": 1775586599000,
-    "title": "TOP 50",
-    "desc": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
+    "stopTs": 1775586600000,
+    "title": "News Bulletin",
+    "desc": "A comprehensive news bulletin summarizing top stories and breaking developments."
   },
   {
     "start": "18:30",
@@ -216,8 +183,8 @@
     "channelName": "VIP News",
     "startTs": 1775586600000,
     "stopTs": 1775588400000,
-    "title": "Teleshopping",
-    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home."
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
   },
   {
     "start": "19:00",
@@ -227,8 +194,8 @@
     "channelName": "VIP News",
     "startTs": 1775588400000,
     "stopTs": 1775590200000,
-    "title": "Teleshopping",
-    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home."
+    "title": "News Bulletin",
+    "desc": "A comprehensive news bulletin summarizing top stories and breaking developments."
   },
   {
     "start": "19:30",
@@ -238,8 +205,8 @@
     "channelName": "VIP News",
     "startTs": 1775590200000,
     "stopTs": 1775592000000,
-    "title": "Teleshopping",
-    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home."
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
   },
   {
     "start": "20:00",
@@ -249,8 +216,8 @@
     "channelName": "VIP News",
     "startTs": 1775592000000,
     "stopTs": 1775593800000,
-    "title": "Teleshopping",
-    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home."
+    "title": "News Bulletin",
+    "desc": "A comprehensive news bulletin summarizing top stories and breaking developments."
   },
   {
     "start": "20:30",
@@ -260,8 +227,8 @@
     "channelName": "VIP News",
     "startTs": 1775593800000,
     "stopTs": 1775595600000,
-    "title": "Teleshopping",
-    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home."
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
   },
   {
     "start": "21:00",
@@ -271,8 +238,8 @@
     "channelName": "VIP News",
     "startTs": 1775595600000,
     "stopTs": 1775597400000,
-    "title": "Teleshopping",
-    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home."
+    "title": "News Bulletin",
+    "desc": "A comprehensive news bulletin summarizing top stories and breaking developments."
   },
   {
     "start": "21:30",
@@ -282,8 +249,8 @@
     "channelName": "VIP News",
     "startTs": 1775597400000,
     "stopTs": 1775599200000,
-    "title": "TOP 50",
-    "desc": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
   },
   {
     "start": "22:00",
@@ -293,8 +260,8 @@
     "channelName": "VIP News",
     "startTs": 1775599200000,
     "stopTs": 1775601000000,
-    "title": "Bebaak Bahas",
-    "desc": "The host invites various guests and experts in order for them share their insights and analyses on the different pressing issues concerning the nation."
+    "title": "News Bulletin",
+    "desc": "A comprehensive news bulletin summarizing top stories and breaking developments."
   },
   {
     "start": "22:30",
@@ -304,8 +271,8 @@
     "channelName": "VIP News",
     "startTs": 1775601000000,
     "stopTs": 1775602800000,
-    "title": "Bebaak Bahas",
-    "desc": "The host invites various guests and experts in order for them share their insights and analyses on the different pressing issues concerning the nation."
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
   },
   {
     "start": "23:00",
@@ -315,8 +282,8 @@
     "channelName": "VIP News",
     "startTs": 1775602800000,
     "stopTs": 1775604600000,
-    "title": "Sai Aarti Live",
-    "desc": "Religious leaders and devotees gather to offer heartfelt prayers to Sai Baba of Shirdi, expressing their devotion through melodious songs and traditional hymns, live."
+    "title": "News Bulletin",
+    "desc": "A comprehensive news bulletin summarizing top stories and breaking developments."
   },
   {
     "start": "23:30",
@@ -326,8 +293,8 @@
     "channelName": "VIP News",
     "startTs": 1775604600000,
     "stopTs": 1775606400000,
-    "title": "Dharmik Karyakarm",
-    "desc": "Bringing the best in television."
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
   },
   {
     "start": "00:00",
@@ -337,8 +304,8 @@
     "channelName": "VIP News",
     "startTs": 1775606400000,
     "stopTs": 1775608200000,
-    "title": "VIP Live Express Nation",
-    "desc": "The host presents national news and offers insights into the social, political events with timely updates and in-depth analysis, live."
+    "title": "News Bulletin",
+    "desc": "A comprehensive news bulletin summarizing top stories and breaking developments."
   },
   {
     "start": "00:30",
@@ -348,8 +315,8 @@
     "channelName": "VIP News",
     "startTs": 1775608200000,
     "stopTs": 1775610000000,
-    "title": "Bebaak Bahas",
-    "desc": "The host invites various guests and experts in order for them share their insights and analyses on the different pressing issues concerning the nation."
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
   },
   {
     "start": "01:00",
@@ -359,8 +326,8 @@
     "channelName": "VIP News",
     "startTs": 1775610000000,
     "stopTs": 1775611800000,
-    "title": "Bebaak Bahas",
-    "desc": "The host invites various guests and experts in order for them share their insights and analyses on the different pressing issues concerning the nation."
+    "title": "News Bulletin",
+    "desc": "A comprehensive news bulletin summarizing top stories and breaking developments."
   },
   {
     "start": "01:30",
@@ -370,8 +337,8 @@
     "channelName": "VIP News",
     "startTs": 1775611800000,
     "stopTs": 1775613600000,
-    "title": "VIP Savera",
-    "desc": "The host presents information on the most recent developments and ongoing situations to offer insights on numerous significant matters."
+    "title": "Devotional Program",
+    "desc": "A devotional program featuring spiritual discourses, prayers, and religious teachings."
   },
   {
     "start": "02:00",
@@ -381,8 +348,8 @@
     "channelName": "VIP News",
     "startTs": 1775613600000,
     "stopTs": 1775615400000,
-    "title": "TOP 50",
-    "desc": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
+    "title": "Devotional Program",
+    "desc": "A devotional program featuring spiritual discourses, prayers, and religious teachings."
   },
   {
     "start": "02:30",
@@ -392,8 +359,8 @@
     "channelName": "VIP News",
     "startTs": 1775615400000,
     "stopTs": 1775617200000,
-    "title": "Mujhe Haq Hain",
-    "desc": "Bringing the best in television."
+    "title": "News Bulletin",
+    "desc": "A comprehensive news bulletin summarizing top stories and breaking developments."
   },
   {
     "start": "03:00",
@@ -403,8 +370,8 @@
     "channelName": "VIP News",
     "startTs": 1775617200000,
     "stopTs": 1775619000000,
-    "title": "Teleshopping",
-    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home."
+    "title": "The Big Breaking",
+    "desc": "A fast-paced bulletin delivering major breaking news as events unfold."
   },
   {
     "start": "03:30",
@@ -414,8 +381,8 @@
     "channelName": "VIP News",
     "startTs": 1775619000000,
     "stopTs": 1775620800000,
-    "title": "News Headlines",
-    "desc": "The host presents the latest news reports, updates and developments on the political, social and economic fronts from across the country and the world."
+    "title": "The Big Breaking",
+    "desc": "A fast-paced bulletin delivering major breaking news as events unfold."
   },
   {
     "start": "04:00",
@@ -425,8 +392,8 @@
     "channelName": "VIP News",
     "startTs": 1775620800000,
     "stopTs": 1775622600000,
-    "title": "Teleshopping",
-    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home."
+    "title": "The Big Breaking",
+    "desc": "A fast-paced bulletin delivering major breaking news as events unfold."
   },
   {
     "start": "04:30",
@@ -436,8 +403,8 @@
     "channelName": "VIP News",
     "startTs": 1775622600000,
     "stopTs": 1775624400000,
-    "title": "TOP 50",
-    "desc": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
+    "title": "News",
+    "desc": "News updates and developments of the day."
   },
   {
     "start": "05:00",
@@ -447,8 +414,8 @@
     "channelName": "VIP News",
     "startTs": 1775624400000,
     "stopTs": 1775626200000,
-    "title": "Teleshopping",
-    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home."
+    "title": "Khabar Desh Ki Live",
+    "desc": "A live news bulletin providing real-time updates on major national events."
   },
   {
     "start": "05:30",
@@ -458,8 +425,8 @@
     "channelName": "VIP News",
     "startTs": 1775626200000,
     "stopTs": 1775628000000,
-    "title": "News",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "title": "Khabar Desh Ki Live",
+    "desc": "A live news bulletin providing real-time updates on major national events."
   },
   {
     "start": "06:00",
@@ -469,8 +436,8 @@
     "channelName": "VIP News",
     "startTs": 1775628000000,
     "stopTs": 1775629800000,
-    "title": "Teleshopping",
-    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home."
+    "title": "News UP",
+    "desc": "Regional news program highlighting major updates from Uttar Pradesh."
   },
   {
     "start": "06:30",
@@ -480,19 +447,41 @@
     "channelName": "VIP News",
     "startTs": 1775629800000,
     "stopTs": 1775631600000,
-    "title": "Vip Dopaher",
-    "desc": "The host provides a concise overview of current events and important news updates on political, social and cultural themes."
+    "title": "Chhattisgarh Bulletin",
+    "desc": "Regional news bulletin covering important updates and events from Chhattisgarh."
   },
   {
     "start": "07:00",
-    "stop": "08:30",
+    "stop": "07:30",
     "channel": "VIPNews.in",
     "channelId": "VIPNews.in",
     "channelName": "VIP News",
     "startTs": 1775631600000,
+    "stopTs": 1775633400000,
+    "title": "Khabar Desh Ki Live",
+    "desc": "A live news bulletin providing real-time updates on major national events."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775633400000,
+    "stopTs": 1775635200000,
+    "title": "Khabar Uttarakhand",
+    "desc": "Regional news coverage focusing on political, social, and local issues from Uttarakhand."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775635200000,
     "stopTs": 1775637000000,
-    "title": "Vip Dopaher",
-    "desc": "The host provides a concise overview of current events and important news updates on political, social and cultural themes."
+    "title": "News",
+    "desc": "News updates and developments of the day."
   },
   {
     "start": "08:30",
@@ -502,8 +491,8 @@
     "channelName": "VIP News",
     "startTs": 1775637000000,
     "stopTs": 1775638800000,
-    "title": "News Headlines",
-    "desc": "The host presents the latest news reports, updates and developments on the political, social and economic fronts from across the country and the world."
+    "title": "Khabar Desh Ki",
+    "desc": "A national news show delivering key headlines and major developments from across the country."
   },
   {
     "start": "09:00",
@@ -513,30 +502,52 @@
     "channelName": "VIP News",
     "startTs": 1775638800000,
     "stopTs": 1775640600000,
-    "title": "Vip Dopaher",
-    "desc": "The host provides a concise overview of current events and important news updates on political, social and cultural themes."
+    "title": "Plus Minus",
+    "desc": "A debate-driven show analyzing issues through contrasting viewpoints and expert opinions."
   },
   {
     "start": "09:30",
-    "stop": "10:30",
+    "stop": "10:00",
     "channel": "VIPNews.in",
     "channelId": "VIPNews.in",
     "channelName": "VIP News",
     "startTs": 1775640600000,
+    "stopTs": 1775642400000,
+    "title": "Khabar Desh Ki",
+    "desc": "A national news show delivering key headlines and major developments from across the country."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775642400000,
     "stopTs": 1775644200000,
-    "title": "Janta Janardan",
-    "desc": "The host presents the views of the common man on social, political and economic issues in the country and discusses the problems they face on a daily basis."
+    "title": "News",
+    "desc": "News updates and developments of the day."
   },
   {
     "start": "10:30",
-    "stop": "11:30",
+    "stop": "11:00",
     "channel": "VIPNews.in",
     "channelId": "VIPNews.in",
     "channelName": "VIP News",
     "startTs": 1775644200000,
-    "stopTs": 1775647800000,
+    "stopTs": 1775646000000,
     "title": "News",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "News updates and developments of the day."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775646000000,
+    "stopTs": 1775647800000,
+    "title": "News UP",
+    "desc": "Regional news program highlighting major updates from Uttar Pradesh."
   },
   {
     "start": "11:30",
@@ -546,8 +557,8 @@
     "channelName": "VIP News",
     "startTs": 1775647800000,
     "stopTs": 1775649600000,
-    "title": "News",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "title": "Chhattisgarh Bulletin",
+    "desc": "Regional news bulletin covering important updates and events from Chhattisgarh."
   },
   {
     "start": "12:00",
@@ -557,8 +568,8 @@
     "channelName": "VIP News",
     "startTs": 1775649600000,
     "stopTs": 1775651400000,
-    "title": "News",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
   },
   {
     "start": "12:30",
@@ -568,8 +579,8 @@
     "channelName": "VIP News",
     "startTs": 1775651400000,
     "stopTs": 1775653200000,
-    "title": "News",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
   },
   {
     "start": "13:00",
@@ -579,8 +590,8 @@
     "channelName": "VIP News",
     "startTs": 1775653200000,
     "stopTs": 1775655000000,
-    "title": "News",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
   },
   {
     "start": "13:30",
@@ -590,8 +601,8 @@
     "channelName": "VIP News",
     "startTs": 1775655000000,
     "stopTs": 1775656800000,
-    "title": "News",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
   },
   {
     "start": "14:00",
@@ -601,19 +612,30 @@
     "channelName": "VIP News",
     "startTs": 1775656800000,
     "stopTs": 1775658600000,
-    "title": "TOP 50",
-    "desc": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
+    "title": "News UP",
+    "desc": "Regional news program highlighting major updates from Uttar Pradesh."
   },
   {
     "start": "14:30",
-    "stop": "15:30",
+    "stop": "15:00",
     "channel": "VIPNews.in",
     "channelId": "VIPNews.in",
     "channelName": "VIP News",
     "startTs": 1775658600000,
+    "stopTs": 1775660400000,
+    "title": "Khabar Uttarakhand",
+    "desc": "Regional news coverage focusing on political, social, and local issues from Uttarakhand."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775660400000,
     "stopTs": 1775662200000,
-    "title": "Bebaak Bahas",
-    "desc": "The host invites various guests and experts in order for them share their insights and analyses on the different pressing issues concerning the nation."
+    "title": "Chhattisgarh Bulletin",
+    "desc": "Regional news bulletin covering important updates and events from Chhattisgarh."
   },
   {
     "start": "15:30",
@@ -623,8 +645,8 @@
     "channelName": "VIP News",
     "startTs": 1775662200000,
     "stopTs": 1775664000000,
-    "title": "9 At 9 Live",
-    "desc": "The host presents the latest updates pertaining various political, social and sports updates from all over the country, live."
+    "title": "Khabar Desh Ki",
+    "desc": "A national news show delivering key headlines and major developments from across the country."
   },
   {
     "start": "16:00",
@@ -634,8 +656,8 @@
     "channelName": "VIP News",
     "startTs": 1775664000000,
     "stopTs": 1775665800000,
-    "title": "VIP Live Express Nation Live",
-    "desc": "The host presents an insightful report on the latest news updates from the political and socio-economic spheres across the nation and globe, live."
+    "title": "Khabar Desh Ki",
+    "desc": "A national news show delivering key headlines and major developments from across the country."
   },
   {
     "start": "16:30",
@@ -645,8 +667,8 @@
     "channelName": "VIP News",
     "startTs": 1775665800000,
     "stopTs": 1775667600000,
-    "title": "Teleshopping",
-    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home."
+    "title": "Chhattisgarh Bulletin",
+    "desc": "Regional news bulletin covering important updates and events from Chhattisgarh."
   },
   {
     "start": "17:00",
@@ -656,8 +678,8 @@
     "channelName": "VIP News",
     "startTs": 1775667600000,
     "stopTs": 1775669400000,
-    "title": "Mujhe Haq Hain",
-    "desc": "Bringing the best in television."
+    "title": "Plus Minus",
+    "desc": "A debate-driven show analyzing issues through contrasting viewpoints and expert opinions."
   },
   {
     "start": "17:30",
@@ -667,18 +689,381 @@
     "channelName": "VIP News",
     "startTs": 1775669400000,
     "stopTs": 1775671200000,
-    "title": "Movie Masti Aur More",
-    "desc": "The host presents the latest news updates and stories from the world of Hollywood, Bollywood, Television and other regional industries."
+    "title": "Khabar Uttarakhand",
+    "desc": "Regional news coverage focusing on political, social, and local issues from Uttarakhand."
   },
   {
     "start": "18:00",
-    "stop": "18:29",
+    "stop": "18:30",
     "channel": "VIPNews.in",
     "channelId": "VIPNews.in",
     "channelName": "VIP News",
     "startTs": 1775671200000,
-    "stopTs": 1775672999000,
-    "title": "TOP 50",
-    "desc": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
+    "stopTs": 1775673000000,
+    "title": "News Bulletin",
+    "desc": "A comprehensive news bulletin summarizing top stories and breaking developments."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775673000000,
+    "stopTs": 1775674800000,
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775674800000,
+    "stopTs": 1775676600000,
+    "title": "News Bulletin",
+    "desc": "A comprehensive news bulletin summarizing top stories and breaking developments."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775676600000,
+    "stopTs": 1775678400000,
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775678400000,
+    "stopTs": 1775680200000,
+    "title": "News Bulletin",
+    "desc": "A comprehensive news bulletin summarizing top stories and breaking developments."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775680200000,
+    "stopTs": 1775682000000,
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775682000000,
+    "stopTs": 1775683800000,
+    "title": "News Bulletin",
+    "desc": "A comprehensive news bulletin summarizing top stories and breaking developments."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775683800000,
+    "stopTs": 1775685600000,
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775685600000,
+    "stopTs": 1775687400000,
+    "title": "News Bulletin",
+    "desc": "A comprehensive news bulletin summarizing top stories and breaking developments."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775687400000,
+    "stopTs": 1775689200000,
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775689200000,
+    "stopTs": 1775691000000,
+    "title": "News Bulletin",
+    "desc": "A comprehensive news bulletin summarizing top stories and breaking developments."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775691000000,
+    "stopTs": 1775692800000,
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775692800000,
+    "stopTs": 1775694600000,
+    "title": "News Bulletin",
+    "desc": "A comprehensive news bulletin summarizing top stories and breaking developments."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775694600000,
+    "stopTs": 1775696400000,
+    "title": "Public Agenda",
+    "desc": "A discussion-based program focusing on public concerns, policies, and accountability."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775696400000,
+    "stopTs": 1775698200000,
+    "title": "News Bulletin",
+    "desc": "A comprehensive news bulletin summarizing top stories and breaking developments."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775698200000,
+    "stopTs": 1775700000000,
+    "title": "Devotional Program",
+    "desc": "A devotional program featuring spiritual discourses, prayers, and religious teachings."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775700000000,
+    "stopTs": 1775701800000,
+    "title": "Devotional Program",
+    "desc": "A devotional program featuring spiritual discourses, prayers, and religious teachings."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775701800000,
+    "stopTs": 1775703600000,
+    "title": "News Bulletin",
+    "desc": "A comprehensive news bulletin summarizing top stories and breaking developments."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775703600000,
+    "stopTs": 1775705400000,
+    "title": "The Big Breaking",
+    "desc": "A fast-paced bulletin delivering major breaking news as events unfold."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775705400000,
+    "stopTs": 1775707200000,
+    "title": "The Big Breaking",
+    "desc": "A fast-paced bulletin delivering major breaking news as events unfold."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775707200000,
+    "stopTs": 1775709000000,
+    "title": "The Big Breaking",
+    "desc": "A fast-paced bulletin delivering major breaking news as events unfold."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775709000000,
+    "stopTs": 1775710800000,
+    "title": "News",
+    "desc": "News updates and developments of the day."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775710800000,
+    "stopTs": 1775712600000,
+    "title": "Khabar Desh Ki Live",
+    "desc": "A live news bulletin providing real-time updates on major national events."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775712600000,
+    "stopTs": 1775714400000,
+    "title": "Khabar Desh Ki Live",
+    "desc": "A live news bulletin providing real-time updates on major national events."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775714400000,
+    "stopTs": 1775716200000,
+    "title": "News UP",
+    "desc": "Regional news program highlighting major updates from Uttar Pradesh."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775716200000,
+    "stopTs": 1775718000000,
+    "title": "Chhattisgarh Bulletin",
+    "desc": "Regional news bulletin covering important updates and events from Chhattisgarh."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775718000000,
+    "stopTs": 1775719800000,
+    "title": "Khabar Desh Ki Live",
+    "desc": "A live news bulletin providing real-time updates on major national events."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775719800000,
+    "stopTs": 1775721600000,
+    "title": "Khabar Uttarakhand",
+    "desc": "Regional news coverage focusing on political, social, and local issues from Uttarakhand."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775721600000,
+    "stopTs": 1775723400000,
+    "title": "News",
+    "desc": "News updates and developments of the day."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775723400000,
+    "stopTs": 1775725200000,
+    "title": "Khabar Desh Ki",
+    "desc": "A national news show delivering key headlines and major developments from across the country."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775725200000,
+    "stopTs": 1775727000000,
+    "title": "Plus Minus",
+    "desc": "A debate-driven show analyzing issues through contrasting viewpoints and expert opinions."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775727000000,
+    "stopTs": 1775728800000,
+    "title": "Khabar Desh Ki",
+    "desc": "A national news show delivering key headlines and major developments from across the country."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775728800000,
+    "stopTs": 1775730600000,
+    "title": "News",
+    "desc": "News updates and developments of the day."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "VIPNews.in",
+    "channelId": "VIPNews.in",
+    "channelName": "VIP News",
+    "startTs": 1775730600000,
+    "stopTs": 1775732400000,
+    "title": "News",
+    "desc": "News updates and developments of the day."
   }
 ]

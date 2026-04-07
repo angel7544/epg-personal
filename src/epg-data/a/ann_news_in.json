@@ -1,27 +1,5 @@
 [
   {
-    "start": "07:30",
-    "stop": "08:30",
-    "channel": "ANNNews.in",
-    "channelId": "ANNNews.in",
-    "channelName": "ANN News",
-    "startTs": 1775547000000,
-    "stopTs": 1775550600000,
-    "title": "ANN News",
-    "desc": "ANN News"
-  },
-  {
-    "start": "08:30",
-    "stop": "09:30",
-    "channel": "ANNNews.in",
-    "channelId": "ANNNews.in",
-    "channelName": "ANN News",
-    "startTs": 1775550600000,
-    "stopTs": 1775554200000,
-    "title": "ANN News",
-    "desc": "ANN News"
-  },
-  {
     "start": "09:30",
     "stop": "10:30",
     "channel": "ANNNews.in",
@@ -29,8 +7,8 @@
     "channelName": "ANN News",
     "startTs": 1775554200000,
     "stopTs": 1775557800000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Afternoon news",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "10:30",
@@ -40,8 +18,8 @@
     "channelName": "ANN News",
     "startTs": 1775557800000,
     "stopTs": 1775561400000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Kashmiri News",
+    "desc": "The host sheds light on insightful updates pertaining to matters from across Kashmir."
   },
   {
     "start": "11:30",
@@ -51,19 +29,30 @@
     "channelName": "ANN News",
     "startTs": 1775561400000,
     "stopTs": 1775565000000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Urdu Khabarnama",
+    "desc": "The host delivers timely updates and key headlines shaping the nation&apos;s current events."
   },
   {
     "start": "12:30",
-    "stop": "13:30",
+    "stop": "13:00",
     "channel": "ANNNews.in",
     "channelId": "ANNNews.in",
     "channelName": "ANN News",
     "startTs": 1775565000000,
+    "stopTs": 1775566800000,
+    "title": "Kashmiri News",
+    "desc": "The host sheds light on insightful updates pertaining to matters from across Kashmir."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "ANNNews.in",
+    "channelId": "ANNNews.in",
+    "channelName": "ANN News",
+    "startTs": 1775566800000,
     "stopTs": 1775568600000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Kashmiri Songs",
+    "desc": "A compilation of popular Kashmiri songs by various musicians."
   },
   {
     "start": "13:30",
@@ -73,19 +62,30 @@
     "channelName": "ANN News",
     "startTs": 1775568600000,
     "stopTs": 1775572200000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Saath Se Aath",
+    "desc": "The host conducts interviews and debates on current affairs and key issues from Kashmir."
   },
   {
     "start": "14:30",
-    "stop": "15:30",
+    "stop": "15:00",
     "channel": "ANNNews.in",
     "channelId": "ANNNews.in",
     "channelName": "ANN News",
     "startTs": 1775572200000,
+    "stopTs": 1775574000000,
+    "title": "Urdu News",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "ANNNews.in",
+    "channelId": "ANNNews.in",
+    "channelName": "ANN News",
+    "startTs": 1775574000000,
     "stopTs": 1775575800000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Documentary",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "15:30",
@@ -95,30 +95,41 @@
     "channelName": "ANN News",
     "startTs": 1775575800000,
     "stopTs": 1775579400000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Prime Time",
+    "desc": "The host presents latest updates on sports, politics and entertainment."
   },
   {
     "start": "16:30",
-    "stop": "17:30",
+    "stop": "17:00",
     "channel": "ANNNews.in",
     "channelId": "ANNNews.in",
     "channelName": "ANN News",
     "startTs": 1775579400000,
+    "stopTs": 1775581200000,
+    "title": "Budgam Khabarnama",
+    "desc": "The host presents a detailed report of the latest news and developments."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "ANNNews.in",
+    "channelId": "ANNNews.in",
+    "channelName": "ANN News",
+    "startTs": 1775581200000,
     "stopTs": 1775583000000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Urdu News",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "17:30",
-    "stop": "18:29",
+    "stop": "18:30",
     "channel": "ANNNews.in",
     "channelId": "ANNNews.in",
     "channelName": "ANN News",
     "startTs": 1775583000000,
-    "stopTs": 1775586599000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "stopTs": 1775586600000,
+    "title": "Kashmiri News",
+    "desc": "The host sheds light on insightful updates pertaining to matters from across Kashmir."
   },
   {
     "start": "18:30",
@@ -128,41 +139,19 @@
     "channelName": "ANN News",
     "startTs": 1775586600000,
     "stopTs": 1775590200000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Kashmiri News",
+    "desc": "The host sheds light on insightful updates pertaining to matters from across Kashmir."
   },
   {
     "start": "19:30",
-    "stop": "20:30",
-    "channel": "ANNNews.in",
-    "channelId": "ANNNews.in",
-    "channelName": "ANN News",
-    "startTs": 1775590200000,
-    "stopTs": 1775593800000,
-    "title": "ANN News",
-    "desc": "ANN News"
-  },
-  {
-    "start": "20:30",
-    "stop": "21:30",
-    "channel": "ANNNews.in",
-    "channelId": "ANNNews.in",
-    "channelName": "ANN News",
-    "startTs": 1775593800000,
-    "stopTs": 1775597400000,
-    "title": "ANN News",
-    "desc": "ANN News"
-  },
-  {
-    "start": "21:30",
     "stop": "22:30",
     "channel": "ANNNews.in",
     "channelId": "ANNNews.in",
     "channelName": "ANN News",
-    "startTs": 1775597400000,
+    "startTs": 1775590200000,
     "stopTs": 1775601000000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Kashmiri Songs",
+    "desc": "A compilation of popular Kashmiri songs by various musicians."
   },
   {
     "start": "22:30",
@@ -172,30 +161,19 @@
     "channelName": "ANN News",
     "startTs": 1775601000000,
     "stopTs": 1775604600000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Songs",
+    "desc": "A comprehensive compilation of songs by various artists and bands, is played back-to-back."
   },
   {
     "start": "23:30",
-    "stop": "00:30",
-    "channel": "ANNNews.in",
-    "channelId": "ANNNews.in",
-    "channelName": "ANN News",
-    "startTs": 1775604600000,
-    "stopTs": 1775608200000,
-    "title": "ANN News",
-    "desc": "ANN News"
-  },
-  {
-    "start": "00:30",
     "stop": "01:30",
     "channel": "ANNNews.in",
     "channelId": "ANNNews.in",
     "channelName": "ANN News",
-    "startTs": 1775608200000,
+    "startTs": 1775604600000,
     "stopTs": 1775611800000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Islamic Programme",
+    "desc": "Renowned religious experts delve into Islamic teachings, featuring discussions."
   },
   {
     "start": "01:30",
@@ -205,8 +183,8 @@
     "channelName": "ANN News",
     "startTs": 1775611800000,
     "stopTs": 1775615400000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Naats Islamic",
+    "desc": "Religious experts delve into personal and professional development."
   },
   {
     "start": "02:30",
@@ -216,8 +194,8 @@
     "channelName": "ANN News",
     "startTs": 1775615400000,
     "stopTs": 1775619000000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Subah Bakhir Zindagi",
+    "desc": "The host presents updates and developments from around the globe in a detailed manner."
   },
   {
     "start": "03:30",
@@ -227,8 +205,8 @@
     "channelName": "ANN News",
     "startTs": 1775619000000,
     "stopTs": 1775622600000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Kashmiri Songs",
+    "desc": "A compilation of popular Kashmiri songs by various musicians."
   },
   {
     "start": "04:30",
@@ -238,8 +216,8 @@
     "channelName": "ANN News",
     "startTs": 1775622600000,
     "stopTs": 1775626200000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Subah Bakhir Zindagi",
+    "desc": "The host presents updates and developments from around the globe in a detailed manner."
   },
   {
     "start": "05:30",
@@ -249,8 +227,8 @@
     "channelName": "ANN News",
     "startTs": 1775626200000,
     "stopTs": 1775629800000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Sisters In Islam",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "06:30",
@@ -260,8 +238,8 @@
     "channelName": "ANN News",
     "startTs": 1775629800000,
     "stopTs": 1775633400000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Kashmiri Songs",
+    "desc": "A compilation of popular Kashmiri songs by various musicians."
   },
   {
     "start": "07:30",
@@ -271,19 +249,30 @@
     "channelName": "ANN News",
     "startTs": 1775633400000,
     "stopTs": 1775637000000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Afternoon news",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "08:30",
-    "stop": "09:30",
+    "stop": "09:00",
     "channel": "ANNNews.in",
     "channelId": "ANNNews.in",
     "channelName": "ANN News",
     "startTs": 1775637000000,
+    "stopTs": 1775638800000,
+    "title": "Urdu Khabarnama",
+    "desc": "The host delivers timely updates and key headlines shaping the nation&apos;s current events."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "ANNNews.in",
+    "channelId": "ANNNews.in",
+    "channelName": "ANN News",
+    "startTs": 1775638800000,
     "stopTs": 1775640600000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Documentary",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "09:30",
@@ -293,8 +282,8 @@
     "channelName": "ANN News",
     "startTs": 1775640600000,
     "stopTs": 1775644200000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Afternoon news",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "10:30",
@@ -304,8 +293,8 @@
     "channelName": "ANN News",
     "startTs": 1775644200000,
     "stopTs": 1775647800000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Kashmiri News",
+    "desc": "The host sheds light on insightful updates pertaining to matters from across Kashmir."
   },
   {
     "start": "11:30",
@@ -315,19 +304,30 @@
     "channelName": "ANN News",
     "startTs": 1775647800000,
     "stopTs": 1775651400000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Urdu Khabarnama",
+    "desc": "The host delivers timely updates and key headlines shaping the nation&apos;s current events."
   },
   {
     "start": "12:30",
-    "stop": "13:30",
+    "stop": "13:00",
     "channel": "ANNNews.in",
     "channelId": "ANNNews.in",
     "channelName": "ANN News",
     "startTs": 1775651400000,
+    "stopTs": 1775653200000,
+    "title": "Kashmiri News",
+    "desc": "The host sheds light on insightful updates pertaining to matters from across Kashmir."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "ANNNews.in",
+    "channelId": "ANNNews.in",
+    "channelName": "ANN News",
+    "startTs": 1775653200000,
     "stopTs": 1775655000000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Kashmiri Songs",
+    "desc": "A compilation of popular Kashmiri songs by various musicians."
   },
   {
     "start": "13:30",
@@ -337,19 +337,30 @@
     "channelName": "ANN News",
     "startTs": 1775655000000,
     "stopTs": 1775658600000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Saath Se Aath",
+    "desc": "The host conducts interviews and debates on current affairs and key issues from Kashmir."
   },
   {
     "start": "14:30",
-    "stop": "15:30",
+    "stop": "15:00",
     "channel": "ANNNews.in",
     "channelId": "ANNNews.in",
     "channelName": "ANN News",
     "startTs": 1775658600000,
+    "stopTs": 1775660400000,
+    "title": "Urdu News",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "ANNNews.in",
+    "channelId": "ANNNews.in",
+    "channelName": "ANN News",
+    "startTs": 1775660400000,
     "stopTs": 1775662200000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Documentary",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "15:30",
@@ -359,29 +370,40 @@
     "channelName": "ANN News",
     "startTs": 1775662200000,
     "stopTs": 1775665800000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Prime Time",
+    "desc": "The host presents latest updates on sports, politics and entertainment."
   },
   {
     "start": "16:30",
-    "stop": "17:30",
+    "stop": "17:00",
     "channel": "ANNNews.in",
     "channelId": "ANNNews.in",
     "channelName": "ANN News",
     "startTs": 1775665800000,
+    "stopTs": 1775667600000,
+    "title": "Budgam Khabarnama",
+    "desc": "The host presents a detailed report of the latest news and developments."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "ANNNews.in",
+    "channelId": "ANNNews.in",
+    "channelName": "ANN News",
+    "startTs": 1775667600000,
     "stopTs": 1775669400000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "title": "Urdu News",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "17:30",
-    "stop": "18:29",
+    "stop": "18:30",
     "channel": "ANNNews.in",
     "channelId": "ANNNews.in",
     "channelName": "ANN News",
     "startTs": 1775669400000,
-    "stopTs": 1775672999000,
-    "title": "ANN News",
-    "desc": "ANN News"
+    "stopTs": 1775673000000,
+    "title": "Kashmiri News",
+    "desc": "The host sheds light on insightful updates pertaining to matters from across Kashmir."
   }
 ]

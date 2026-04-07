@@ -1,27 +1,5 @@
 [
   {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "JaihindTV.in",
-    "channelId": "JaihindTV.in",
-    "channelName": "Jaihind TV",
-    "startTs": 1775550600000,
-    "stopTs": 1775552400000,
-    "title": "Comedy Punch",
-    "desc": "A comprehensive compilation of hilarious scenes and comical snippets, played consecutively, in order to entertain the audience."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "JaihindTV.in",
-    "channelId": "JaihindTV.in",
-    "channelName": "Jaihind TV",
-    "startTs": 1775552400000,
-    "stopTs": 1775554200000,
-    "title": "Women On Move",
-    "desc": "Bringing the best in television."
-  },
-  {
     "start": "09:30",
     "stop": "10:30",
     "channel": "JaihindTV.in",
@@ -30,7 +8,7 @@
     "startTs": 1775554200000,
     "stopTs": 1775557800000,
     "title": "Kerala State Lottery Results Live",
-    "desc": "The host reveals the ticket numbers and announces the names of people from the state of Kerala who have won the lottery, live."
+    "desc": "The host reveals the ticket numbers and declares the winners of the lottery, live."
   },
   {
     "start": "10:30",
@@ -41,7 +19,7 @@
     "startTs": 1775557800000,
     "stopTs": 1775559600000,
     "title": "News Afternoon Live",
-    "desc": "The host presents updates pertaining to the latest developments in the state and interacts with personalities from different fields to learn about their opinions, live."
+    "desc": "The host presents the latest news from the state and interacts with personalities, live."
   },
   {
     "start": "11:00",
@@ -52,7 +30,7 @@
     "startTs": 1775559600000,
     "stopTs": 1775561400000,
     "title": "Beat Buff",
-    "desc": "A compilation of the greatest foot-tapping hits from Mollywood is played back to back in order to entertain the audience."
+    "desc": "A compilation of the greatest foot-tapping hits from Mollywood is played back to back."
   },
   {
     "start": "11:30",
@@ -63,7 +41,7 @@
     "startTs": 1775561400000,
     "stopTs": 1775563200000,
     "title": "News Afternoon Live",
-    "desc": "The host presents updates pertaining to the latest developments in the state and interacts with personalities from different fields to learn about their opinions, live."
+    "desc": "The host presents the latest news from the state and interacts with personalities, live."
   },
   {
     "start": "12:00",
@@ -74,7 +52,7 @@
     "startTs": 1775563200000,
     "stopTs": 1775565000000,
     "title": "Oru Vattom Koodi",
-    "desc": "The host invites renowned celebrities to discuss major milestones in their personal and professional lives, and also interacts with the guest&apos;s relatives and friends."
+    "desc": "The host invites celebrities to discuss major milestones in their lives."
   },
   {
     "start": "12:30",
@@ -85,7 +63,7 @@
     "startTs": 1775565000000,
     "stopTs": 1775566800000,
     "title": "Big News Live",
-    "desc": "The host presents a roundup of all the important social, political and economic news updates and developments from the country and around the world, live."
+    "desc": "The host presents a roundup of all the important news updates and developments, live."
   },
   {
     "start": "13:00",
@@ -96,7 +74,7 @@
     "startTs": 1775566800000,
     "stopTs": 1775568600000,
     "title": "Movie CafÉ",
-    "desc": "The host presents the latest updates on forthcoming films, star-studded events, box office collections and sensational celebrity gossip."
+    "desc": "The host presents the latest updates on forthcoming films and celebrity gossip."
   },
   {
     "start": "13:30",
@@ -107,7 +85,18 @@
     "startTs": 1775568600000,
     "stopTs": 1775572200000,
     "title": "News Today Live",
-    "desc": "The host reports the latest trending news pertaining to politics, sports, culture and entertainment from around the world, live."
+    "desc": "The host reports news in politics, sports, culture and entertainment, live."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775570400000,
+    "stopTs": 1775572200000,
+    "title": "Big News Live",
+    "desc": "Get the latest updates and detailed coverage on current events, so you&apos;re always informed about what&apos;s happening right now."
   },
   {
     "start": "14:30",
@@ -118,7 +107,7 @@
     "startTs": 1775572200000,
     "stopTs": 1775574000000,
     "title": "Andardhara",
-    "desc": "The host presents the latest news and developments surrounding various political issues and provides updates on current events."
+    "desc": "The host presents important issues and provides updates on current events."
   },
   {
     "start": "15:00",
@@ -129,7 +118,18 @@
     "startTs": 1775574000000,
     "stopTs": 1775577600000,
     "title": "Power Point",
-    "desc": "The host invites experts from various fields and moderates a debate between them on socio-political issues and current events of the nation."
+    "desc": "The host, along with experts, debates on socio-political issues and current events."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775575800000,
+    "stopTs": 1775577600000,
+    "title": "News Nightlive",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
   },
   {
     "start": "16:00",
@@ -140,7 +140,7 @@
     "startTs": 1775577600000,
     "stopTs": 1775579400000,
     "title": "Sports Time",
-    "desc": "The host presents the latest news updates from the world of sports and sheds light on some of the best moments from various events."
+    "desc": "The host presents the latest news updates from the world of sports."
   },
   {
     "start": "16:30",
@@ -151,7 +151,7 @@
     "startTs": 1775579400000,
     "stopTs": 1775581200000,
     "title": "Fresh Beats",
-    "desc": "A comprehensive collection of popular and entertaining songs by various musical artists and bands is played back to back to entertain the audience."
+    "desc": "A comprehensive collection of popular and entertaining songs by various musical artists."
   },
   {
     "start": "17:00",
@@ -162,7 +162,7 @@
     "startTs": 1775581200000,
     "stopTs": 1775583000000,
     "title": "Jaihind News Middle East Edition Live",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues, live."
+    "desc": "The host presents some of the latest updates, current affairs and developments, live."
   },
   {
     "start": "17:30",
@@ -173,7 +173,7 @@
     "startTs": 1775583000000,
     "stopTs": 1775584800000,
     "title": "Al-bayan",
-    "desc": "An Islamic scholar delivers a religious discourse and recites verses from the Quran while explaining various significant tenets of Islam."
+    "desc": "An Islamic scholar delivers a religious discourse and recites verses from the Holy Quran."
   },
   {
     "start": "18:00",
@@ -184,7 +184,18 @@
     "startTs": 1775584800000,
     "stopTs": 1775588400000,
     "title": "Oru Vattom Koodi",
-    "desc": "The host invites renowned celebrities to discuss major milestones in their personal and professional lives, and also interacts with the guest&apos;s relatives and friends."
+    "desc": "The host invites celebrities to discuss major milestones in their lives."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775586600000,
+    "stopTs": 1775588400000,
+    "title": "Big News",
+    "desc": "The host presents numerous top stories, latest happenings and significant updates from across the world."
   },
   {
     "start": "19:00",
@@ -195,7 +206,18 @@
     "startTs": 1775588400000,
     "stopTs": 1775592000000,
     "title": "News Today",
-    "desc": "The host reports the latest news and updates of the day in the fields of politics, social issues, education, sports and administration."
+    "desc": "The host reports the latest news and updates of the day in various fields."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775590200000,
+    "stopTs": 1775592000000,
+    "title": "Ballet Box",
+    "desc": "Ballet Box offers a light, enjoyable glimpse of films, perfect for viewers who want quick entertainment without committing to a full-length movie in one sitting."
   },
   {
     "start": "20:00",
@@ -206,7 +228,7 @@
     "startTs": 1775592000000,
     "stopTs": 1775593800000,
     "title": "Jaihind News Middle East Edition",
-    "desc": "The host presents the latest social, political, economic and sports news updates and developments from around the nation and the world."
+    "desc": "The host presents the latest social, political, economic and sports news updates."
   },
   {
     "start": "20:30",
@@ -217,7 +239,7 @@
     "startTs": 1775593800000,
     "stopTs": 1775595600000,
     "title": "Beat Buff",
-    "desc": "A compilation of the greatest foot-tapping hits from Mollywood is played back to back in order to entertain the audience."
+    "desc": "A compilation of the greatest foot-tapping hits from Mollywood is played back to back."
   },
   {
     "start": "21:00",
@@ -228,7 +250,7 @@
     "startTs": 1775595600000,
     "stopTs": 1775597400000,
     "title": "Comedy Punch",
-    "desc": "A comprehensive compilation of hilarious scenes and comical snippets, played consecutively, in order to entertain the audience."
+    "desc": "A curated collection of hilarious snippets played back-to-back."
   },
   {
     "start": "21:30",
@@ -239,7 +261,7 @@
     "startTs": 1775597400000,
     "stopTs": 1775599200000,
     "title": "Bollywood Beats",
-    "desc": "A comprehensive compilation of popular songs from famous Bollywood movies featuring renowned actors and actresses is played back to back."
+    "desc": "A compilation of popular songs from famous Bollywood movies is played back to back."
   },
   {
     "start": "22:00",
@@ -250,7 +272,7 @@
     "startTs": 1775599200000,
     "stopTs": 1775601000000,
     "title": "Andardhara",
-    "desc": "The host presents the latest news and developments surrounding various political issues and provides updates on current events."
+    "desc": "The host presents important issues and provides updates on current events."
   },
   {
     "start": "22:30",
@@ -261,7 +283,7 @@
     "startTs": 1775601000000,
     "stopTs": 1775602800000,
     "title": "Fresh Beats",
-    "desc": "A comprehensive collection of popular and entertaining songs by various musical artists and bands is played back to back to entertain the audience."
+    "desc": "A comprehensive collection of popular and entertaining songs by various musical artists."
   },
   {
     "start": "23:00",
@@ -272,7 +294,7 @@
     "startTs": 1775602800000,
     "stopTs": 1775604600000,
     "title": "Al-bayan",
-    "desc": "An Islamic scholar delivers a religious discourse and recites verses from the Quran while explaining various significant tenets of Islam."
+    "desc": "An Islamic scholar delivers a religious discourse and recites verses from the Holy Quran."
   },
   {
     "start": "23:30",
@@ -283,7 +305,7 @@
     "startTs": 1775604600000,
     "stopTs": 1775606400000,
     "title": "Comedy Punch",
-    "desc": "A comprehensive compilation of hilarious scenes and comical snippets, played consecutively, in order to entertain the audience."
+    "desc": "A curated collection of hilarious snippets played back-to-back."
   },
   {
     "start": "00:00",
@@ -294,7 +316,7 @@
     "startTs": 1775606400000,
     "stopTs": 1775608200000,
     "title": "Power Point",
-    "desc": "The host invites experts from various fields and moderates a debate between them on socio-political issues and current events of the nation."
+    "desc": "The host, along with experts, debates on socio-political issues and current events."
   },
   {
     "start": "00:30",
@@ -305,7 +327,7 @@
     "startTs": 1775608200000,
     "stopTs": 1775610000000,
     "title": "Bollywood Beats",
-    "desc": "A comprehensive compilation of popular songs from famous Bollywood movies featuring renowned actors and actresses is played back to back."
+    "desc": "A compilation of popular songs from famous Bollywood movies is played back to back."
   },
   {
     "start": "01:00",
@@ -316,7 +338,7 @@
     "startTs": 1775610000000,
     "stopTs": 1775611800000,
     "title": "Top 5",
-    "desc": "A dynamic roundup of five important stories, offering a sharp and informative take on the latest news, key topics and impactful events shaping the world."
+    "desc": "A dynamic roundup of five important stories, delivering key news and updates."
   },
   {
     "start": "01:30",
@@ -327,7 +349,7 @@
     "startTs": 1775611800000,
     "stopTs": 1775613600000,
     "title": "Morning News Live",
-    "desc": "The host presents a detailed report of the latest news updates and developments pertaining to society, politics, economy and sports, live."
+    "desc": "The host presents a detailed report of the latest news updates and developments, live."
   },
   {
     "start": "02:00",
@@ -338,7 +360,7 @@
     "startTs": 1775613600000,
     "stopTs": 1775615400000,
     "title": "Morning News",
-    "desc": "The host presents a summary of the latest social, economic and political news updates and developments from the nation and around the world."
+    "desc": "The host presents the latest social, economic and political news and developments."
   },
   {
     "start": "02:30",
@@ -349,7 +371,7 @@
     "startTs": 1775615400000,
     "stopTs": 1775617200000,
     "title": "Movie CafÉ",
-    "desc": "The host presents the latest updates on forthcoming films, star-studded events, box office collections and sensational celebrity gossip."
+    "desc": "The host presents the latest updates on forthcoming films and celebrity gossip."
   },
   {
     "start": "03:00",
@@ -360,7 +382,7 @@
     "startTs": 1775617200000,
     "stopTs": 1775619000000,
     "title": "Comedy Punch",
-    "desc": "A comprehensive compilation of hilarious scenes and comical snippets, played consecutively, in order to entertain the audience."
+    "desc": "A curated collection of hilarious snippets played back-to-back."
   },
   {
     "start": "03:30",
@@ -371,7 +393,7 @@
     "startTs": 1775619000000,
     "stopTs": 1775620800000,
     "title": "NEWS @ 9am LIVE",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues, live."
+    "desc": "The host presents some of the latest updates, current affairs and developments. Live."
   },
   {
     "start": "04:00",
@@ -382,7 +404,7 @@
     "startTs": 1775620800000,
     "stopTs": 1775622600000,
     "title": "Andardhara",
-    "desc": "The host presents the latest news and developments surrounding various political issues and provides updates on current events."
+    "desc": "The host presents important issues and provides updates on current events."
   },
   {
     "start": "04:30",
@@ -393,7 +415,18 @@
     "startTs": 1775622600000,
     "stopTs": 1775626200000,
     "title": "Trending News Live",
-    "desc": "The host presents updates pertaining to the latest developments in the state and interacts with personalities from different fields to learn about their opinions, live."
+    "desc": "The host presents the latest news from the state and interacts with personalities, live."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775624400000,
+    "stopTs": 1775626200000,
+    "title": "Breaking Hourslive",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
   },
   {
     "start": "05:30",
@@ -404,7 +437,40 @@
     "startTs": 1775626200000,
     "stopTs": 1775633400000,
     "title": "Trending News Live",
-    "desc": "The host presents updates pertaining to the latest developments in the state and interacts with personalities from different fields to learn about their opinions, live."
+    "desc": "The host presents the latest news from the state and interacts with personalities, live."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775628000000,
+    "stopTs": 1775629800000,
+    "title": "Breaking Hourslive",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775629800000,
+    "stopTs": 1775631600000,
+    "title": "Breaking Hourslive",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775631600000,
+    "stopTs": 1775633400000,
+    "title": "Breaking Hourslive",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
   },
   {
     "start": "07:30",
@@ -415,7 +481,7 @@
     "startTs": 1775633400000,
     "stopTs": 1775635200000,
     "title": "News Prime Live",
-    "desc": "The host presents all the important social, political, economic and sports news updates and developments from the nation and around the world, live."
+    "desc": "The host presents the important news updates and developments from around the world, live."
   },
   {
     "start": "08:00",
@@ -426,7 +492,7 @@
     "startTs": 1775635200000,
     "stopTs": 1775637000000,
     "title": "Movie CafÉ",
-    "desc": "The host presents the latest updates on forthcoming films, star-studded events, box office collections and sensational celebrity gossip."
+    "desc": "The host presents the latest updates on forthcoming films and celebrity gossip."
   },
   {
     "start": "08:30",
@@ -437,7 +503,7 @@
     "startTs": 1775637000000,
     "stopTs": 1775638800000,
     "title": "Oru Vattom Koodi",
-    "desc": "The host invites renowned celebrities to discuss major milestones in their personal and professional lives, and also interacts with the guest&apos;s relatives and friends."
+    "desc": "The host invites celebrities to discuss major milestones in their lives."
   },
   {
     "start": "09:00",
@@ -448,7 +514,7 @@
     "startTs": 1775638800000,
     "stopTs": 1775640600000,
     "title": "Beat Buff",
-    "desc": "A compilation of the greatest foot-tapping hits from Mollywood is played back to back in order to entertain the audience."
+    "desc": "A compilation of the greatest foot-tapping hits from Mollywood is played back to back."
   },
   {
     "start": "09:30",
@@ -459,7 +525,18 @@
     "startTs": 1775640600000,
     "stopTs": 1775644200000,
     "title": "Kerala State Lottery Results Live",
-    "desc": "The host reveals the ticket numbers and announces the names of people from the state of Kerala who have won the lottery, live."
+    "desc": "The host reveals the ticket numbers and declares the winners of the lottery, live."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775642400000,
+    "stopTs": 1775644200000,
+    "title": "Kerala Lottery",
+    "desc": "Born from a deep commitment to insightful reporting, News aims to be a beacon of clarity, trust, and timely information for readers seeking everyday understanding."
   },
   {
     "start": "10:30",
@@ -470,7 +547,7 @@
     "startTs": 1775644200000,
     "stopTs": 1775646000000,
     "title": "News Afternoon Live",
-    "desc": "The host presents updates pertaining to the latest developments in the state and interacts with personalities from different fields to learn about their opinions, live."
+    "desc": "The host presents the latest news from the state and interacts with personalities, live."
   },
   {
     "start": "11:00",
@@ -481,7 +558,7 @@
     "startTs": 1775646000000,
     "stopTs": 1775647800000,
     "title": "Comedy Punch",
-    "desc": "A comprehensive compilation of hilarious scenes and comical snippets, played consecutively, in order to entertain the audience."
+    "desc": "A curated collection of hilarious snippets played back-to-back."
   },
   {
     "start": "11:30",
@@ -492,7 +569,7 @@
     "startTs": 1775647800000,
     "stopTs": 1775649600000,
     "title": "News Afternoon Live",
-    "desc": "The host presents updates pertaining to the latest developments in the state and interacts with personalities from different fields to learn about their opinions, live."
+    "desc": "The host presents the latest news from the state and interacts with personalities, live."
   },
   {
     "start": "12:00",
@@ -503,7 +580,7 @@
     "startTs": 1775649600000,
     "stopTs": 1775651400000,
     "title": "Andardhara",
-    "desc": "The host presents the latest news and developments surrounding various political issues and provides updates on current events."
+    "desc": "The host presents important issues and provides updates on current events."
   },
   {
     "start": "12:30",
@@ -514,7 +591,7 @@
     "startTs": 1775651400000,
     "stopTs": 1775653200000,
     "title": "Big News Live",
-    "desc": "The host presents a roundup of all the important social, political and economic news updates and developments from the country and around the world, live."
+    "desc": "The host presents a roundup of all the important news updates and developments, live."
   },
   {
     "start": "13:00",
@@ -525,7 +602,7 @@
     "startTs": 1775653200000,
     "stopTs": 1775655000000,
     "title": "Power Point",
-    "desc": "The host invites experts from various fields and moderates a debate between them on socio-political issues and current events of the nation."
+    "desc": "The host, along with experts, debates on socio-political issues and current events."
   },
   {
     "start": "13:30",
@@ -536,7 +613,18 @@
     "startTs": 1775655000000,
     "stopTs": 1775658600000,
     "title": "News Today Live",
-    "desc": "The host reports the latest trending news pertaining to politics, sports, culture and entertainment from around the world, live."
+    "desc": "The host reports news in politics, sports, culture and entertainment, live."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775656800000,
+    "stopTs": 1775658600000,
+    "title": "Big News Live",
+    "desc": "Get the latest updates and detailed coverage on current events, so you&apos;re always informed about what&apos;s happening right now."
   },
   {
     "start": "14:30",
@@ -547,7 +635,7 @@
     "startTs": 1775658600000,
     "stopTs": 1775660400000,
     "title": "Sports Time",
-    "desc": "The host presents the latest news updates from the world of sports and sheds light on some of the best moments from various events."
+    "desc": "The host presents the latest news updates from the world of sports."
   },
   {
     "start": "15:00",
@@ -561,6 +649,17 @@
     "desc": "Bringing the best in television."
   },
   {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775662200000,
+    "stopTs": 1775664000000,
+    "title": "News Nightlive",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
     "start": "16:00",
     "stop": "16:30",
     "channel": "JaihindTV.in",
@@ -569,7 +668,7 @@
     "startTs": 1775664000000,
     "stopTs": 1775665800000,
     "title": "The View",
-    "desc": "The host invites prominent personalities from different fields and interviews them about their lives, works and plans for the future."
+    "desc": "The host interviews prominent personalities about their lives and works."
   },
   {
     "start": "16:30",
@@ -580,7 +679,7 @@
     "startTs": 1775665800000,
     "stopTs": 1775667600000,
     "title": "Pattinte Koottukar",
-    "desc": "The host interacts with talented singers and musicians, who perform some of their favourite Onam songs and talk about their experience in the music industry."
+    "desc": "The host interacts with various musicians, who perform some of their favourite Onam songs."
   },
   {
     "start": "17:00",
@@ -591,7 +690,7 @@
     "startTs": 1775667600000,
     "stopTs": 1775669400000,
     "title": "Jaihind News Middle East Edition Live",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues, live."
+    "desc": "The host presents some of the latest updates, current affairs and developments, live."
   },
   {
     "start": "17:30",
@@ -602,7 +701,7 @@
     "startTs": 1775669400000,
     "stopTs": 1775671200000,
     "title": "Al-bayan",
-    "desc": "An Islamic scholar delivers a religious discourse and recites verses from the Quran while explaining various significant tenets of Islam."
+    "desc": "An Islamic scholar delivers a religious discourse and recites verses from the Holy Quran."
   },
   {
     "start": "18:00",
@@ -613,6 +712,369 @@
     "startTs": 1775671200000,
     "stopTs": 1775674800000,
     "title": "Al-javab",
-    "desc": "A religious leader answers various questions from viewers regarding Islamic practices and guidelines to lead a righteous life."
+    "desc": "A religious leader answers questions from viewers regarding Islamic guidelines."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775673000000,
+    "stopTs": 1775674800000,
+    "title": "Big News",
+    "desc": "The host presents numerous top stories, latest happenings and significant updates from across the world."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775674800000,
+    "stopTs": 1775676600000,
+    "title": "Ballet Box",
+    "desc": "Ballet Box offers a light, enjoyable glimpse of films, perfect for viewers who want quick entertainment without committing to a full-length movie in one sitting."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775676600000,
+    "stopTs": 1775678400000,
+    "title": "Ballet Box",
+    "desc": "Ballet Box offers a light, enjoyable glimpse of films, perfect for viewers who want quick entertainment without committing to a full-length movie in one sitting."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775678400000,
+    "stopTs": 1775680200000,
+    "title": "Middle East",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775680200000,
+    "stopTs": 1775682000000,
+    "title": "Big News",
+    "desc": "The host presents numerous top stories, latest happenings and significant updates from across the world."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775682000000,
+    "stopTs": 1775683800000,
+    "title": "Big News",
+    "desc": "The host presents numerous top stories, latest happenings and significant updates from across the world."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775683800000,
+    "stopTs": 1775685600000,
+    "title": "Gen C",
+    "desc": "West Bengal Assembly elections stir focus on Prime Minister Modi as Bengal candidate list is reviewed; Modi attends a meeting to discuss campaign strategy plans."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775685600000,
+    "stopTs": 1775687400000,
+    "title": "Jillakaliloode",
+    "desc": "West Bengal Assembly elections stir focus on Prime Minister Modi as Bengal candidate list is reviewed; Modi attends a meeting to discuss campaign strategy plans."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775687400000,
+    "stopTs": 1775689200000,
+    "title": "Ballet Box",
+    "desc": "Ballet Box offers a light, enjoyable glimpse of films, perfect for viewers who want quick entertainment without committing to a full-length movie in one sitting."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775689200000,
+    "stopTs": 1775691000000,
+    "title": "Ballet Box",
+    "desc": "Ballet Box offers a light, enjoyable glimpse of films, perfect for viewers who want quick entertainment without committing to a full-length movie in one sitting."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775691000000,
+    "stopTs": 1775692800000,
+    "title": "Big News",
+    "desc": "The host presents numerous top stories, latest happenings and significant updates from across the world."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775692800000,
+    "stopTs": 1775694600000,
+    "title": "Big News",
+    "desc": "The host presents numerous top stories, latest happenings and significant updates from across the world."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775694600000,
+    "stopTs": 1775696400000,
+    "title": "Ballet Box",
+    "desc": "Ballet Box offers a light, enjoyable glimpse of films, perfect for viewers who want quick entertainment without committing to a full-length movie in one sitting."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775696400000,
+    "stopTs": 1775698200000,
+    "title": "Ballet Box",
+    "desc": "Ballet Box offers a light, enjoyable glimpse of films, perfect for viewers who want quick entertainment without committing to a full-length movie in one sitting."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775698200000,
+    "stopTs": 1775700000000,
+    "title": "News Morning Live",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775700000000,
+    "stopTs": 1775701800000,
+    "title": "News Morning Live",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775701800000,
+    "stopTs": 1775703600000,
+    "title": "News Morning Live",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775703600000,
+    "stopTs": 1775705400000,
+    "title": "Gen C",
+    "desc": "West Bengal Assembly elections stir focus on Prime Minister Modi as Bengal candidate list is reviewed; Modi attends a meeting to discuss campaign strategy plans."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775705400000,
+    "stopTs": 1775707200000,
+    "title": "News Morning Live",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775707200000,
+    "stopTs": 1775709000000,
+    "title": "Jillakaliloode",
+    "desc": "West Bengal Assembly elections stir focus on Prime Minister Modi as Bengal candidate list is reviewed; Modi attends a meeting to discuss campaign strategy plans."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775709000000,
+    "stopTs": 1775710800000,
+    "title": "Breaking Hourslive",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775710800000,
+    "stopTs": 1775712600000,
+    "title": "Breaking Hourslive",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775712600000,
+    "stopTs": 1775714400000,
+    "title": "Breaking Hourslive",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775714400000,
+    "stopTs": 1775716200000,
+    "title": "Breaking Hourslive",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775716200000,
+    "stopTs": 1775718000000,
+    "title": "Breaking Hourslive",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775718000000,
+    "stopTs": 1775719800000,
+    "title": "Breaking Hourslive",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775719800000,
+    "stopTs": 1775721600000,
+    "title": "News Mid Daylive",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775721600000,
+    "stopTs": 1775723400000,
+    "title": "News Mid Daylive",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775723400000,
+    "stopTs": 1775725200000,
+    "title": "News Mid Daylive",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775725200000,
+    "stopTs": 1775727000000,
+    "title": "Gen C",
+    "desc": "West Bengal Assembly elections stir focus on Prime Minister Modi as Bengal candidate list is reviewed; Modi attends a meeting to discuss campaign strategy plans."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775727000000,
+    "stopTs": 1775728800000,
+    "title": "Kerala Lottery",
+    "desc": "Born from a deep commitment to insightful reporting, News aims to be a beacon of clarity, trust, and timely information for readers seeking everyday understanding."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775728800000,
+    "stopTs": 1775730600000,
+    "title": "Kerala Lottery",
+    "desc": "Born from a deep commitment to insightful reporting, News aims to be a beacon of clarity, trust, and timely information for readers seeking everyday understanding."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "JaihindTV.in",
+    "channelId": "JaihindTV.in",
+    "channelName": "Jaihind TV",
+    "startTs": 1775730600000,
+    "stopTs": 1775732400000,
+    "title": "Over A Cup Of Tea Live",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
   }
 ]

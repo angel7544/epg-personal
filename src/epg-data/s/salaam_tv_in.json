@@ -1,38 +1,5 @@
 [
   {
-    "start": "08:20",
-    "stop": "09:00",
-    "channel": "SalaamTV.in",
-    "channelId": "SalaamTV.in",
-    "channelName": "Salaam TV",
-    "startTs": 1775550000000,
-    "stopTs": 1775552400000,
-    "title": "Dars-E-Hadith",
-    "desc": "This is TV Show - Religious Category"
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "SalaamTV.in",
-    "channelId": "SalaamTV.in",
-    "channelName": "Salaam TV",
-    "startTs": 1775552400000,
-    "stopTs": 1775554200000,
-    "title": "Hamd-o-Naat",
-    "desc": "A beautiful collection of Hamd and Naat recited by acclaimed Naat Khwans."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "SalaamTV.in",
-    "channelId": "SalaamTV.in",
-    "channelName": "Salaam TV",
-    "startTs": 1775554200000,
-    "stopTs": 1775556000000,
-    "title": "Namaz E Fazar",
-    "desc": "Recorded version of the first prayer of the day from Mecca for the devotees of God."
-  },
-  {
     "start": "10:00",
     "stop": "10:28",
     "channel": "SalaamTV.in",
@@ -52,7 +19,7 @@
     "startTs": 1775557680000,
     "stopTs": 1775557800000,
     "title": "Sunnat E Rasool",
-    "desc": "This is TV Show - Religious Category"
+    "desc": "A fictional representation on how to lead a balanced life as preached by Prophet Mohammed (P.B.U.H)."
   },
   {
     "start": "10:30",
@@ -77,6 +44,17 @@
     "desc": "A religious couplet performed by Pakistani singer Waris Baig for the devotees of God."
   },
   {
+    "start": "10:58",
+    "stop": "11:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775559480000,
+    "stopTs": 1775561280000,
+    "title": "Sham Se Pehle",
+    "desc": "A spiritual evening segment that blends reflection, bhajans, and calming wisdom, helping viewers wind down before the day comes to a close."
+  },
+  {
     "start": "11:00",
     "stop": "11:40",
     "channel": "SalaamTV.in",
@@ -86,6 +64,17 @@
     "stopTs": 1775562000000,
     "title": "Dars-E-Quran",
     "desc": "Translation of the Holy Quran from the Arabic language to Hindustani language."
+  },
+  {
+    "start": "11:28",
+    "stop": "12:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775561280000,
+    "stopTs": 1775564880000,
+    "title": "News Panorama",
+    "desc": "Covers key national and international stories with broad perspectives and deep insights, keeping viewers informed about everything that matters most."
   },
   {
     "start": "11:40",
@@ -107,7 +96,18 @@
     "startTs": 1775562300000,
     "stopTs": 1775565000000,
     "title": "Dars-E-Hadith",
-    "desc": "This is TV Show - Religious Category"
+    "desc": "The program features depiction of the life of Prophet Mohammed to inspire the Muslim community."
+  },
+  {
+    "start": "12:28",
+    "stop": "12:58",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775564880000,
+    "stopTs": 1775566680000,
+    "title": "Salaam Update",
+    "desc": "This bulletin is after an hour of debate, so during this time the big news stories are carried with updates"
   },
   {
     "start": "12:30",
@@ -121,6 +121,17 @@
     "desc": "The program features teachings and ideologies of Prophet Mohammad (P.B.U.H)."
   },
   {
+    "start": "12:58",
+    "stop": "13:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775566680000,
+    "stopTs": 1775568480000,
+    "title": "Kashmirnama",
+    "desc": "A complete bulletin of every small and big news of Jammu and Kashmir and Laddakh."
+  },
+  {
     "start": "13:00",
     "stop": "13:30",
     "channel": "SalaamTV.in",
@@ -130,6 +141,17 @@
     "stopTs": 1775568600000,
     "title": "Salaam Aaj",
     "desc": "The program features day-to-day holy Islamic activities that occur across the nation."
+  },
+  {
+    "start": "13:28",
+    "stop": "13:58",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775568480000,
+    "stopTs": 1775570280000,
+    "title": "Salaam Speed",
+    "desc": "Speed news is half an hour fast bulltein. In which Latest news from India and World on breaking news, politics, crime, viral news, bollywood, sports etc."
   },
   {
     "start": "13:30",
@@ -143,6 +165,17 @@
     "desc": "Featuring a devotional programme."
   },
   {
+    "start": "13:58",
+    "stop": "14:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775570280000,
+    "stopTs": 1775572080000,
+    "title": "Loud Speaker",
+    "desc": "An energetic opinion-based talk segment that amplifies the voices of the public and experts, blending facts with bold commentary and humor."
+  },
+  {
     "start": "14:00",
     "stop": "14:30",
     "channel": "SalaamTV.in",
@@ -151,7 +184,18 @@
     "startTs": 1775570400000,
     "stopTs": 1775572200000,
     "title": "Salaam-E-Mehfil",
-    "desc": "This is TV Show - Entertainment Category"
+    "desc": "Mushaira is a form of poetic symposium where aspiring poets participate and express their talent."
+  },
+  {
+    "start": "14:28",
+    "stop": "15:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775572080000,
+    "stopTs": 1775575680000,
+    "title": "Badi Bahes",
+    "desc": "In-depth discourse on the biggest topic of the day with the panel of experts."
   },
   {
     "start": "14:30",
@@ -173,7 +217,18 @@
     "startTs": 1775574000000,
     "stopTs": 1775575800000,
     "title": "Khana Khazana",
-    "desc": "This is TV Show - Entertainment Category"
+    "desc": "Sanjaeev Kapoor teaches you to cook your favourite delicacies. Cooking will never be boring again."
+  },
+  {
+    "start": "15:28",
+    "stop": "16:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775575680000,
+    "stopTs": 1775579280000,
+    "title": "Centre Stage",
+    "desc": "Centrestage based on analyze the Minority and Political news of the day and Top Speed News"
   },
   {
     "start": "15:30",
@@ -184,7 +239,7 @@
     "startTs": 1775575800000,
     "stopTs": 1775577600000,
     "title": "Teleshopping",
-    "desc": "Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment."
+    "desc": "Presenting the latest products live on television that can be ordered directly from home."
   },
   {
     "start": "16:00",
@@ -198,6 +253,17 @@
     "desc": "Devotional program."
   },
   {
+    "start": "16:28",
+    "stop": "17:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775579280000,
+    "stopTs": 1775582880000,
+    "title": "Sadabahar Nagme",
+    "desc": "Relive classics with favorite old Hindi film songs. Enjoy timeless melodies!"
+  },
+  {
     "start": "16:40",
     "stop": "16:50",
     "channel": "SalaamTV.in",
@@ -206,7 +272,7 @@
     "startTs": 1775580000000,
     "stopTs": 1775580600000,
     "title": "Quirat-Ul-Quran",
-    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations and reflections on their significance."
+    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations."
   },
   {
     "start": "16:50",
@@ -217,7 +283,7 @@
     "startTs": 1775580600000,
     "stopTs": 1775580900000,
     "title": "Quirat-Ul-Quran",
-    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations and reflections on their significance."
+    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations."
   },
   {
     "start": "16:55",
@@ -239,7 +305,18 @@
     "startTs": 1775581200000,
     "stopTs": 1775583000000,
     "title": "Salaam-E-Mehfil",
-    "desc": "This is TV Show - Entertainment Category"
+    "desc": "Mushaira is a form of poetic symposium where aspiring poets participate and express their talent."
+  },
+  {
+    "start": "17:28",
+    "stop": "18:00",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775582880000,
+    "stopTs": 1775584800000,
+    "title": "11Th Hour",
+    "desc": "A talk show where bold opinions and unfiltered discussions unfold over current events, pop culture, and political satire."
   },
   {
     "start": "17:30",
@@ -250,7 +327,7 @@
     "startTs": 1775583000000,
     "stopTs": 1775584800000,
     "title": "Khana Khazana",
-    "desc": "This is TV Show - Entertainment Category"
+    "desc": "Sanjaeev Kapoor teaches you to cook your favourite delicacies. Cooking will never be boring again."
   },
   {
     "start": "18:00",
@@ -327,7 +404,7 @@
     "startTs": 1775595600000,
     "stopTs": 1775599200000,
     "title": "Ramzaan Mubarak",
-    "desc": "A look at the salient features of the Muslim holy month called Ramzaan. It&apos;s the ninth month of the Islamic calendar. During Ramzaan, Muslims fast and seek Allah&apos;s blessings for oneself and others."
+    "desc": "A look at the salient features of the Muslim holy month called Ramzaan."
   },
   {
     "start": "22:00",
@@ -338,7 +415,7 @@
     "startTs": 1775599200000,
     "stopTs": 1775601000000,
     "title": "Teleshopping",
-    "desc": "Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment."
+    "desc": "Presenting the latest products live on television that can be ordered directly from home."
   },
   {
     "start": "22:30",
@@ -349,7 +426,7 @@
     "startTs": 1775601000000,
     "stopTs": 1775601600000,
     "title": "Quirat-Ul-Quran",
-    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations and reflections on their significance."
+    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations."
   },
   {
     "start": "22:40",
@@ -360,7 +437,7 @@
     "startTs": 1775601600000,
     "stopTs": 1775602200000,
     "title": "Quirat-Ul-Quran",
-    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations and reflections on their significance."
+    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations."
   },
   {
     "start": "22:50",
@@ -371,7 +448,7 @@
     "startTs": 1775602200000,
     "stopTs": 1775602800000,
     "title": "Quirat-Ul-Quran",
-    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations and reflections on their significance."
+    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations."
   },
   {
     "start": "23:00",
@@ -382,7 +459,7 @@
     "startTs": 1775602800000,
     "stopTs": 1775604600000,
     "title": "Ramzaan Magazine",
-    "desc": "This is TV Show - Events/Festivals Category"
+    "desc": "During the holy month of Ramadan, Muslims observe fast, recite the Holy Quran and practice charity."
   },
   {
     "start": "23:30",
@@ -415,7 +492,7 @@
     "startTs": 1775608200000,
     "stopTs": 1775608800000,
     "title": "Quirat-Ul-Quran",
-    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations and reflections on their significance."
+    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations."
   },
   {
     "start": "00:40",
@@ -426,7 +503,7 @@
     "startTs": 1775608800000,
     "stopTs": 1775609400000,
     "title": "Quirat-Ul-Quran",
-    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations and reflections on their significance."
+    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations."
   },
   {
     "start": "00:50",
@@ -437,7 +514,7 @@
     "startTs": 1775609400000,
     "stopTs": 1775610000000,
     "title": "Quirat-Ul-Quran",
-    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations and reflections on their significance."
+    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations."
   },
   {
     "start": "01:00",
@@ -448,7 +525,40 @@
     "startTs": 1775610000000,
     "stopTs": 1775613600000,
     "title": "Taraveeh Live",
-    "desc": "This is TV Show - Entertainment Category"
+    "desc": "Live telecast of congregational prayers offered every night in the Islamic month of Ramadan."
+  },
+  {
+    "start": "01:15",
+    "stop": "01:30",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775610900000,
+    "stopTs": 1775611800000,
+    "title": "Qiraat Ul Quran",
+    "desc": "Listen to the rhythmic recital of the Holy Quran. Discover peace in every verse!"
+  },
+  {
+    "start": "01:30",
+    "stop": "01:58",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775611800000,
+    "stopTs": 1775613480000,
+    "title": "Subah Ki Pehli Khabar",
+    "desc": "The hosts present some of the latest updates, current affairs and developments of economic, political and social issues, live."
+  },
+  {
+    "start": "01:58",
+    "stop": "02:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775613480000,
+    "stopTs": 1775615280000,
+    "title": "Tajdaar-E-Haram New",
+    "desc": "Stories of Prophets and religious songs in praise of Allah and Prophet Mohd."
   },
   {
     "start": "02:00",
@@ -462,6 +572,17 @@
     "desc": "The program features day-to-day holy Islamic activities that occur across the nation."
   },
   {
+    "start": "02:28",
+    "stop": "03:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775615280000,
+    "stopTs": 1775618880000,
+    "title": "Raah-E-Nijaat",
+    "desc": "LIVE telephone call in program encompasing Islamic religious scholars interacting with the viewers providing information"
+  },
+  {
     "start": "02:30",
     "stop": "03:30",
     "channel": "SalaamTV.in",
@@ -470,7 +591,18 @@
     "startTs": 1775615400000,
     "stopTs": 1775619000000,
     "title": "Ramzaan Mubarak",
-    "desc": "A look at the salient features of the Muslim holy month called Ramzaan. It&apos;s the ninth month of the Islamic calendar. During Ramzaan, Muslims fast and seek Allah&apos;s blessings for oneself and others."
+    "desc": "A look at the salient features of the Muslim holy month called Ramzaan."
+  },
+  {
+    "start": "03:28",
+    "stop": "04:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775618880000,
+    "stopTs": 1775622480000,
+    "title": "Atiya Herbs",
+    "desc": "A unique health based program showcasing Unani, Allopathy and other forms of medicines."
   },
   {
     "start": "03:30",
@@ -481,7 +613,7 @@
     "startTs": 1775619000000,
     "stopTs": 1775619300000,
     "title": "Teleshopping",
-    "desc": "Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment."
+    "desc": "Presenting the latest products live on television that can be ordered directly from home."
   },
   {
     "start": "03:35",
@@ -506,6 +638,28 @@
     "desc": "Live telecast of festivities in Mecca that happen during the holy month of Ramadan."
   },
   {
+    "start": "04:28",
+    "stop": "04:58",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775622480000,
+    "stopTs": 1775624280000,
+    "title": "Khaleej News",
+    "desc": "Covering Gulf region news, this show features business, economy, lifestyle, and community stories from UAE, Qatar, and neighboring countries."
+  },
+  {
+    "start": "04:58",
+    "stop": "05:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775624280000,
+    "stopTs": 1775626080000,
+    "title": "News Bulletin",
+    "desc": "The host presents all the latest news updates and developments from around the world."
+  },
+  {
     "start": "05:00",
     "stop": "06:00",
     "channel": "SalaamTV.in",
@@ -517,6 +671,17 @@
     "desc": "Live telecast of festivities in Mecca that happen during the holy month of Ramadan."
   },
   {
+    "start": "05:28",
+    "stop": "06:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775626080000,
+    "stopTs": 1775629680000,
+    "title": "Badi Bahes",
+    "desc": "In-depth discourse on the biggest topic of the day with the panel of experts."
+  },
+  {
     "start": "06:00",
     "stop": "06:30",
     "channel": "SalaamTV.in",
@@ -525,7 +690,18 @@
     "startTs": 1775628000000,
     "stopTs": 1775629800000,
     "title": "Teleshopping",
-    "desc": "Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment."
+    "desc": "Presenting the latest products live on television that can be ordered directly from home."
+  },
+  {
+    "start": "06:28",
+    "stop": "07:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775629680000,
+    "stopTs": 1775633280000,
+    "title": "Salaam News",
+    "desc": "The host presents the latest regional and national news, updates and developments on the various issues happening around the country."
   },
   {
     "start": "06:30",
@@ -536,7 +712,7 @@
     "startTs": 1775629800000,
     "stopTs": 1775631600000,
     "title": "Salaam-E-Mehfil",
-    "desc": "This is TV Show - Entertainment Category"
+    "desc": "Mushaira is a form of poetic symposium where aspiring poets participate and express their talent."
   },
   {
     "start": "07:00",
@@ -547,7 +723,18 @@
     "startTs": 1775631600000,
     "stopTs": 1775633400000,
     "title": "Teleshopping",
-    "desc": "Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment."
+    "desc": "Presenting the latest products live on television that can be ordered directly from home."
+  },
+  {
+    "start": "07:28",
+    "stop": "08:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775633280000,
+    "stopTs": 1775636880000,
+    "title": "Recorded Raah-E-Nijaat",
+    "desc": "RECORDED LIVE - call in program where religious scholar and doctor interacts with the viewers providing remedies, solutions related to health and problems arising in day to day life."
   },
   {
     "start": "07:30",
@@ -580,7 +767,29 @@
     "startTs": 1775636400000,
     "stopTs": 1775638800000,
     "title": "Dars-E-Hadith",
-    "desc": "This is TV Show - Religious Category"
+    "desc": "The program features depiction of the life of Prophet Mohammed to inspire the Muslim community."
+  },
+  {
+    "start": "08:28",
+    "stop": "08:58",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775636880000,
+    "stopTs": 1775638680000,
+    "title": "Kashmirnama",
+    "desc": "A complete bulletin of every small and big news of Jammu and Kashmir and Laddakh."
+  },
+  {
+    "start": "08:58",
+    "stop": "09:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775638680000,
+    "stopTs": 1775640480000,
+    "title": "News Bulletin",
+    "desc": "The host presents all the latest news updates and developments from around the world."
   },
   {
     "start": "09:00",
@@ -594,6 +803,17 @@
     "desc": "A beautiful collection of Hamd and Naat recited by acclaimed Naat Khwans."
   },
   {
+    "start": "09:28",
+    "stop": "09:58",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775640480000,
+    "stopTs": 1775642280000,
+    "title": "Salaam Speed",
+    "desc": "Speed news is half an hour fast bulltein. In which Latest news from India and World on breaking news, politics, crime, viral news, bollywood, sports etc."
+  },
+  {
     "start": "09:30",
     "stop": "10:00",
     "channel": "SalaamTV.in",
@@ -603,6 +823,17 @@
     "stopTs": 1775642400000,
     "title": "Namaz E Fazar",
     "desc": "Recorded version of the first prayer of the day from Mecca for the devotees of God."
+  },
+  {
+    "start": "09:58",
+    "stop": "10:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775642280000,
+    "stopTs": 1775644080000,
+    "title": "News Bulletin",
+    "desc": "The host presents all the latest news updates and developments from around the world."
   },
   {
     "start": "10:00",
@@ -624,7 +855,7 @@
     "startTs": 1775644080000,
     "stopTs": 1775644200000,
     "title": "Sunnat E Rasool",
-    "desc": "This is TV Show - Religious Category"
+    "desc": "A fictional representation on how to lead a balanced life as preached by Prophet Mohammed (P.B.U.H)."
   },
   {
     "start": "10:30",
@@ -649,6 +880,17 @@
     "desc": "A religious couplet performed by Pakistani singer Waris Baig for the devotees of God."
   },
   {
+    "start": "10:58",
+    "stop": "11:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775645880000,
+    "stopTs": 1775647680000,
+    "title": "Sham Se Pehle",
+    "desc": "A spiritual evening segment that blends reflection, bhajans, and calming wisdom, helping viewers wind down before the day comes to a close."
+  },
+  {
     "start": "11:00",
     "stop": "11:40",
     "channel": "SalaamTV.in",
@@ -658,6 +900,17 @@
     "stopTs": 1775648400000,
     "title": "Dars-E-Quran",
     "desc": "Translation of the Holy Quran from the Arabic language to Hindustani language."
+  },
+  {
+    "start": "11:28",
+    "stop": "12:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775647680000,
+    "stopTs": 1775651280000,
+    "title": "News Panorama",
+    "desc": "Covers key national and international stories with broad perspectives and deep insights, keeping viewers informed about everything that matters most."
   },
   {
     "start": "11:40",
@@ -679,7 +932,18 @@
     "startTs": 1775648700000,
     "stopTs": 1775651400000,
     "title": "Dars-E-Hadith",
-    "desc": "This is TV Show - Religious Category"
+    "desc": "The program features depiction of the life of Prophet Mohammed to inspire the Muslim community."
+  },
+  {
+    "start": "12:28",
+    "stop": "12:58",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775651280000,
+    "stopTs": 1775653080000,
+    "title": "Salaam Update",
+    "desc": "This bulletin is after an hour of debate, so during this time the big news stories are carried with updates"
   },
   {
     "start": "12:30",
@@ -693,6 +957,17 @@
     "desc": "The program features teachings and ideologies of Prophet Mohammad (P.B.U.H)."
   },
   {
+    "start": "12:58",
+    "stop": "13:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775653080000,
+    "stopTs": 1775654880000,
+    "title": "Kashmirnama",
+    "desc": "A complete bulletin of every small and big news of Jammu and Kashmir and Laddakh."
+  },
+  {
     "start": "13:00",
     "stop": "13:30",
     "channel": "SalaamTV.in",
@@ -702,6 +977,17 @@
     "stopTs": 1775655000000,
     "title": "Salaam Aaj",
     "desc": "The program features day-to-day holy Islamic activities that occur across the nation."
+  },
+  {
+    "start": "13:28",
+    "stop": "13:58",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775654880000,
+    "stopTs": 1775656680000,
+    "title": "Salaam Speed",
+    "desc": "Speed news is half an hour fast bulltein. In which Latest news from India and World on breaking news, politics, crime, viral news, bollywood, sports etc."
   },
   {
     "start": "13:30",
@@ -715,6 +1001,17 @@
     "desc": "Featuring a devotional programme."
   },
   {
+    "start": "13:58",
+    "stop": "14:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775656680000,
+    "stopTs": 1775658480000,
+    "title": "Loud Speaker",
+    "desc": "An energetic opinion-based talk segment that amplifies the voices of the public and experts, blending facts with bold commentary and humor."
+  },
+  {
     "start": "14:00",
     "stop": "14:30",
     "channel": "SalaamTV.in",
@@ -723,7 +1020,18 @@
     "startTs": 1775656800000,
     "stopTs": 1775658600000,
     "title": "Salaam-E-Mehfil",
-    "desc": "This is TV Show - Entertainment Category"
+    "desc": "Mushaira is a form of poetic symposium where aspiring poets participate and express their talent."
+  },
+  {
+    "start": "14:28",
+    "stop": "15:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775658480000,
+    "stopTs": 1775662080000,
+    "title": "Badi Bahes",
+    "desc": "In-depth discourse on the biggest topic of the day with the panel of experts."
   },
   {
     "start": "14:30",
@@ -745,7 +1053,18 @@
     "startTs": 1775660400000,
     "stopTs": 1775662200000,
     "title": "Khana Khazana",
-    "desc": "This is TV Show - Entertainment Category"
+    "desc": "Sanjaeev Kapoor teaches you to cook your favourite delicacies. Cooking will never be boring again."
+  },
+  {
+    "start": "15:28",
+    "stop": "16:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775662080000,
+    "stopTs": 1775665680000,
+    "title": "Centre Stage",
+    "desc": "Centrestage based on analyze the Minority and Political news of the day and Top Speed News"
   },
   {
     "start": "15:30",
@@ -756,7 +1075,7 @@
     "startTs": 1775662200000,
     "stopTs": 1775664000000,
     "title": "Teleshopping",
-    "desc": "Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment."
+    "desc": "Presenting the latest products live on television that can be ordered directly from home."
   },
   {
     "start": "16:00",
@@ -770,6 +1089,17 @@
     "desc": "Devotional program."
   },
   {
+    "start": "16:28",
+    "stop": "17:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775665680000,
+    "stopTs": 1775669280000,
+    "title": "Sadabahar Nagme",
+    "desc": "Relive classics with favorite old Hindi film songs. Enjoy timeless melodies!"
+  },
+  {
     "start": "16:40",
     "stop": "16:50",
     "channel": "SalaamTV.in",
@@ -778,7 +1108,7 @@
     "startTs": 1775666400000,
     "stopTs": 1775667000000,
     "title": "Quirat-Ul-Quran",
-    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations and reflections on their significance."
+    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations."
   },
   {
     "start": "16:50",
@@ -789,7 +1119,7 @@
     "startTs": 1775667000000,
     "stopTs": 1775667300000,
     "title": "Quirat-Ul-Quran",
-    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations and reflections on their significance."
+    "desc": "Religious experts chant scriptures from the Holy Quran, offering insightful explanations."
   },
   {
     "start": "16:55",
@@ -811,7 +1141,18 @@
     "startTs": 1775667600000,
     "stopTs": 1775669400000,
     "title": "Salaam-E-Mehfil",
-    "desc": "This is TV Show - Entertainment Category"
+    "desc": "Mushaira is a form of poetic symposium where aspiring poets participate and express their talent."
+  },
+  {
+    "start": "17:28",
+    "stop": "18:00",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775669280000,
+    "stopTs": 1775671200000,
+    "title": "11Th Hour",
+    "desc": "A talk show where bold opinions and unfiltered discussions unfold over current events, pop culture, and political satire."
   },
   {
     "start": "17:30",
@@ -822,7 +1163,7 @@
     "startTs": 1775669400000,
     "stopTs": 1775671200000,
     "title": "Khana Khazana",
-    "desc": "This is TV Show - Entertainment Category"
+    "desc": "Sanjaeev Kapoor teaches you to cook your favourite delicacies. Cooking will never be boring again."
   },
   {
     "start": "18:00",
@@ -834,5 +1175,269 @@
     "stopTs": 1775673000000,
     "title": "Qawalli",
     "desc": "Qawwali is performed by the Nizami brothers and other renowned Qawwali performers."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775673000000,
+    "stopTs": 1775674800000,
+    "title": "News Panorama",
+    "desc": "Covers key national and international stories with broad perspectives and deep insights, keeping viewers informed about everything that matters most."
+  },
+  {
+    "start": "19:00",
+    "stop": "20:00",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775674800000,
+    "stopTs": 1775678400000,
+    "title": "Sadabahar Nagme",
+    "desc": "Relive classics with favorite old Hindi film songs. Enjoy timeless melodies!"
+  },
+  {
+    "start": "20:00",
+    "stop": "21:00",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775678400000,
+    "stopTs": 1775682000000,
+    "title": "Centre Stage",
+    "desc": "Centrestage based on analyze the Minority and Political news of the day and Top Speed News"
+  },
+  {
+    "start": "21:00",
+    "stop": "22:00",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775682000000,
+    "stopTs": 1775685600000,
+    "title": "Badi Bahes",
+    "desc": "In-depth discourse on the biggest topic of the day with the panel of experts."
+  },
+  {
+    "start": "22:00",
+    "stop": "23:00",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775685600000,
+    "stopTs": 1775689200000,
+    "title": "Sadabahar Nagme",
+    "desc": "Relive classics with favorite old Hindi film songs. Enjoy timeless melodies!"
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775689200000,
+    "stopTs": 1775691000000,
+    "title": "11Th Hour",
+    "desc": "A talk show where bold opinions and unfiltered discussions unfold over current events, pop culture, and political satire."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775691000000,
+    "stopTs": 1775692800000,
+    "title": "Qiraat Ul Quran",
+    "desc": "Listen to the rhythmic recital of the Holy Quran. Discover peace in every verse!"
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775692800000,
+    "stopTs": 1775694600000,
+    "title": "Namaz-E-Fajr",
+    "desc": "Experience serenity with recorded Fazar Namaz from Mecca. Watch and pray with us!"
+  },
+  {
+    "start": "00:30",
+    "stop": "01:15",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775694600000,
+    "stopTs": 1775697300000,
+    "title": "Dars E Quran",
+    "desc": "A translation of The Holy Quran from Arabic to Hindustani language and also Muslim Kari and distinguished scholars translate the same in Urdu."
+  },
+  {
+    "start": "01:15",
+    "stop": "01:30",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775697300000,
+    "stopTs": 1775698200000,
+    "title": "Qiraat Ul Quran",
+    "desc": "Listen to the rhythmic recital of the Holy Quran. Discover peace in every verse!"
+  },
+  {
+    "start": "01:30",
+    "stop": "01:58",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775698200000,
+    "stopTs": 1775699880000,
+    "title": "Subah Ki Pehli Khabar",
+    "desc": "The hosts present some of the latest updates, current affairs and developments of economic, political and social issues, live."
+  },
+  {
+    "start": "01:58",
+    "stop": "02:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775699880000,
+    "stopTs": 1775701680000,
+    "title": "Tajdaar-E-Haram New",
+    "desc": "Stories of Prophets and religious songs in praise of Allah and Prophet Mohd."
+  },
+  {
+    "start": "02:28",
+    "stop": "03:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775701680000,
+    "stopTs": 1775705280000,
+    "title": "Raah-E-Nijaat",
+    "desc": "LIVE telephone call in program encompasing Islamic religious scholars interacting with the viewers providing information"
+  },
+  {
+    "start": "03:28",
+    "stop": "04:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775705280000,
+    "stopTs": 1775708880000,
+    "title": "Atiya Herbs",
+    "desc": "A unique health based program showcasing Unani, Allopathy and other forms of medicines."
+  },
+  {
+    "start": "04:28",
+    "stop": "04:58",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775708880000,
+    "stopTs": 1775710680000,
+    "title": "Khaleej News",
+    "desc": "Covering Gulf region news, this show features business, economy, lifestyle, and community stories from UAE, Qatar, and neighboring countries."
+  },
+  {
+    "start": "04:58",
+    "stop": "05:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775710680000,
+    "stopTs": 1775712480000,
+    "title": "News Bulletin",
+    "desc": "The host presents all the latest news updates and developments from around the world."
+  },
+  {
+    "start": "05:28",
+    "stop": "06:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775712480000,
+    "stopTs": 1775716080000,
+    "title": "Badi Bahes",
+    "desc": "In-depth discourse on the biggest topic of the day with the panel of experts."
+  },
+  {
+    "start": "06:28",
+    "stop": "07:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775716080000,
+    "stopTs": 1775719680000,
+    "title": "Salaam News",
+    "desc": "The host presents the latest regional and national news, updates and developments on the various issues happening around the country."
+  },
+  {
+    "start": "07:28",
+    "stop": "08:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775719680000,
+    "stopTs": 1775723280000,
+    "title": "Recorded Raah-E-Nijaat",
+    "desc": "RECORDED LIVE - call in program where religious scholar and doctor interacts with the viewers providing remedies, solutions related to health and problems arising in day to day life."
+  },
+  {
+    "start": "08:28",
+    "stop": "08:58",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775723280000,
+    "stopTs": 1775725080000,
+    "title": "Kashmirnama",
+    "desc": "A complete bulletin of every small and big news of Jammu and Kashmir and Laddakh."
+  },
+  {
+    "start": "08:58",
+    "stop": "09:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775725080000,
+    "stopTs": 1775726880000,
+    "title": "News Bulletin",
+    "desc": "The host presents all the latest news updates and developments from around the world."
+  },
+  {
+    "start": "09:28",
+    "stop": "09:58",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775726880000,
+    "stopTs": 1775728680000,
+    "title": "Salaam Speed",
+    "desc": "Speed news is half an hour fast bulltein. In which Latest news from India and World on breaking news, politics, crime, viral news, bollywood, sports etc."
+  },
+  {
+    "start": "09:58",
+    "stop": "10:28",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775728680000,
+    "stopTs": 1775730480000,
+    "title": "News Bulletin",
+    "desc": "The host presents all the latest news updates and developments from around the world."
+  },
+  {
+    "start": "10:28",
+    "stop": "10:58",
+    "channel": "SalaamTV.in",
+    "channelId": "SalaamTV.in",
+    "channelName": "Salaam TV",
+    "startTs": 1775730480000,
+    "stopTs": 1775732280000,
+    "title": "Badi Bahes",
+    "desc": "In-depth discourse on the biggest topic of the day with the panel of experts."
   }
 ]

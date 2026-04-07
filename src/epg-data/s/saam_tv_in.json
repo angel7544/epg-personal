@@ -1,38 +1,5 @@
 [
   {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "SaamTV.in",
-    "channelId": "SaamTV.in",
-    "channelName": "Saam TV",
-    "startTs": 1775550600000,
-    "stopTs": 1775552400000,
-    "title": "Duparchya Batamya",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "SaamTV.in",
-    "channelId": "SaamTV.in",
-    "channelName": "Saam TV",
-    "startTs": 1775552400000,
-    "stopTs": 1775554200000,
-    "title": "Duparchya Batamya",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "SaamTV.in",
-    "channelId": "SaamTV.in",
-    "channelName": "Saam TV",
-    "startTs": 1775554200000,
-    "stopTs": 1775556000000,
-    "title": "Tea Time",
-    "desc": "The anchor delivers in-depth analysis of the latest news stories, key developments and current affairs, covering topics of national and global significance."
-  },
-  {
     "start": "10:00",
     "stop": "10:30",
     "channel": "SaamTV.in",
@@ -41,7 +8,18 @@
     "startTs": 1775556000000,
     "stopTs": 1775557800000,
     "title": "Tea Time",
-    "desc": "The anchor delivers in-depth analysis of the latest news stories, key developments and current affairs, covering topics of national and global significance."
+    "desc": "The anchor delves into the latest news stories, key developments and current affairs."
+  },
+  {
+    "start": "10:26",
+    "stop": "10:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775557560000,
+    "stopTs": 1775559360000,
+    "title": "Saam Newstime",
+    "desc": "A news bulletin keeping viewers updated with regional and national news."
   },
   {
     "start": "10:30",
@@ -52,7 +30,18 @@
     "startTs": 1775557800000,
     "stopTs": 1775559600000,
     "title": "Tea Time",
-    "desc": "The anchor delivers in-depth analysis of the latest news stories, key developments and current affairs, covering topics of national and global significance."
+    "desc": "The anchor delves into the latest news stories, key developments and current affairs."
+  },
+  {
+    "start": "10:56",
+    "stop": "11:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775559360000,
+    "stopTs": 1775561160000,
+    "title": "Saam Sanjivani Rjr",
+    "desc": "A renowned health expert discusses causes, of health problems, and questions."
   },
   {
     "start": "11:00",
@@ -63,7 +52,18 @@
     "startTs": 1775559600000,
     "stopTs": 1775561400000,
     "title": "Tea Time",
-    "desc": "The anchor delivers in-depth analysis of the latest news stories, key developments and current affairs, covering topics of national and global significance."
+    "desc": "The anchor delves into the latest news stories, key developments and current affairs."
+  },
+  {
+    "start": "11:26",
+    "stop": "11:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775561160000,
+    "stopTs": 1775562960000,
+    "title": "Saam Newstime",
+    "desc": "A news bulletin keeping viewers updated with regional and national news."
   },
   {
     "start": "11:30",
@@ -74,7 +74,18 @@
     "startTs": 1775561400000,
     "stopTs": 1775563200000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "11:56",
+    "stop": "12:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775562960000,
+    "stopTs": 1775564760000,
+    "title": "Agro 1 Fast",
+    "desc": "Focused updates on the agriculture sector with weather, market rates, and expert tips for farmers to improve yield and efficiency."
   },
   {
     "start": "12:00",
@@ -85,7 +96,18 @@
     "startTs": 1775563200000,
     "stopTs": 1775565000000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "12:26",
+    "stop": "12:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775564760000,
+    "stopTs": 1775566560000,
+    "title": "Sarkarnama 360",
+    "desc": "The host presents latest socio-economic, political news, updates and developments across the nation."
   },
   {
     "start": "12:30",
@@ -96,7 +118,18 @@
     "startTs": 1775565000000,
     "stopTs": 1775566800000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "12:56",
+    "stop": "13:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775566560000,
+    "stopTs": 1775568360000,
+    "title": "36 Jila 36 Reporter",
+    "desc": "Coverage of the latest news and updates regarding various social, political and economic issues."
   },
   {
     "start": "13:00",
@@ -107,7 +140,18 @@
     "startTs": 1775566800000,
     "stopTs": 1775568600000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "13:26",
+    "stop": "13:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775568360000,
+    "stopTs": 1775570160000,
+    "title": "Saamrajya",
+    "desc": "Tune into Saamrajya: Stay informed on state affairs and governance with clear reporting."
   },
   {
     "start": "13:30",
@@ -118,7 +162,18 @@
     "startTs": 1775568600000,
     "stopTs": 1775570400000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "13:56",
+    "stop": "14:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775570160000,
+    "stopTs": 1775571960000,
+    "title": "Top 50 News",
+    "desc": "A rapid-fire countdown of the day&apos;s 50 biggest news stories from politics, sports, entertainment, and more, keeping viewers updated and engaged."
   },
   {
     "start": "14:00",
@@ -129,7 +184,18 @@
     "startTs": 1775570400000,
     "stopTs": 1775572200000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "14:26",
+    "stop": "14:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775571960000,
+    "stopTs": 1775573760000,
+    "title": "Satyameva Jayate",
+    "desc": "A news bulletin keeping viewers updated with regional and national news."
   },
   {
     "start": "14:30",
@@ -140,7 +206,18 @@
     "startTs": 1775572200000,
     "stopTs": 1775574000000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "14:56",
+    "stop": "15:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775573760000,
+    "stopTs": 1775575560000,
+    "title": "Mega Prime Time",
+    "desc": "A news bulletin with an in-depth coverage of local, regional and global news stories."
   },
   {
     "start": "15:00",
@@ -151,7 +228,18 @@
     "startTs": 1775574000000,
     "stopTs": 1775575800000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "15:26",
+    "stop": "15:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775575560000,
+    "stopTs": 1775577360000,
+    "title": "Saam Report",
+    "desc": "Saam Report brings quick updates on current events for easy understanding."
   },
   {
     "start": "15:30",
@@ -162,7 +250,18 @@
     "startTs": 1775575800000,
     "stopTs": 1775577600000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "15:56",
+    "stop": "16:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775577360000,
+    "stopTs": 1775579160000,
+    "title": "100 Express",
+    "desc": "Join in for 100 Express: Get quick updates on essential events and news highlights."
   },
   {
     "start": "16:00",
@@ -173,7 +272,18 @@
     "startTs": 1775577600000,
     "stopTs": 1775579400000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "16:26",
+    "stop": "16:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775579160000,
+    "stopTs": 1775580960000,
+    "title": "Aaj Dinank",
+    "desc": "The host sheds light the most recent news, updates and developments from across the nation and the world."
   },
   {
     "start": "16:30",
@@ -184,7 +294,18 @@
     "startTs": 1775579400000,
     "stopTs": 1775581200000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "16:56",
+    "stop": "17:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775580960000,
+    "stopTs": 1775582760000,
+    "title": "Maha Top 50",
+    "desc": "A musical countdown of 50 trending songs spanning genres and languages, offering entertainment and music-packed segments."
   },
   {
     "start": "17:00",
@@ -195,7 +316,18 @@
     "startTs": 1775581200000,
     "stopTs": 1775583000000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "17:26",
+    "stop": "17:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775582760000,
+    "stopTs": 1775584560000,
+    "title": "Sarakarnama Special",
+    "desc": "Lok Sabha election updates: contenders&apos; prospects and ongoing developments."
   },
   {
     "start": "17:30",
@@ -209,6 +341,17 @@
     "desc": "Bringing the best in television."
   },
   {
+    "start": "17:56",
+    "stop": "18:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775584560000,
+    "stopTs": 1775586360000,
+    "title": "Saam Report",
+    "desc": "Saam Report brings quick updates on current events for easy understanding."
+  },
+  {
     "start": "18:00",
     "stop": "00:30",
     "channel": "SaamTV.in",
@@ -220,6 +363,149 @@
     "desc": "Bringing the best in television."
   },
   {
+    "start": "18:26",
+    "stop": "18:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775586360000,
+    "stopTs": 1775588160000,
+    "title": "Aaj Dinank",
+    "desc": "The host sheds light the most recent news, updates and developments from across the nation and the world."
+  },
+  {
+    "start": "18:56",
+    "stop": "19:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775588160000,
+    "stopTs": 1775589960000,
+    "title": "Maha Top 50",
+    "desc": "A musical countdown of 50 trending songs spanning genres and languages, offering entertainment and music-packed segments."
+  },
+  {
+    "start": "19:26",
+    "stop": "19:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775589960000,
+    "stopTs": 1775591760000,
+    "title": "Saam Report",
+    "desc": "Saam Report brings quick updates on current events for easy understanding."
+  },
+  {
+    "start": "19:56",
+    "stop": "20:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775591760000,
+    "stopTs": 1775593560000,
+    "title": "TOP 50",
+    "desc": "Catch the highlights of the day in TOP 50, your shortcut to important news."
+  },
+  {
+    "start": "20:26",
+    "stop": "20:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775593560000,
+    "stopTs": 1775595360000,
+    "title": "Viral Zal Ji",
+    "desc": "Dive into trending stories with Viral Zal Ji, your go-to for viral news."
+  },
+  {
+    "start": "20:56",
+    "stop": "21:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775595360000,
+    "stopTs": 1775597160000,
+    "title": "100 Express",
+    "desc": "Join in for 100 Express: Get quick updates on essential events and news highlights."
+  },
+  {
+    "start": "21:26",
+    "stop": "21:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775597160000,
+    "stopTs": 1775598960000,
+    "title": "Aaj Dinank",
+    "desc": "The host sheds light the most recent news, updates and developments from across the nation and the world."
+  },
+  {
+    "start": "21:56",
+    "stop": "22:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775598960000,
+    "stopTs": 1775600760000,
+    "title": "Viral Fast",
+    "desc": "Tune into Viral Fast: Catch rapid updates on trending stories and viral content."
+  },
+  {
+    "start": "22:26",
+    "stop": "22:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775600760000,
+    "stopTs": 1775602560000,
+    "title": "Saam Report",
+    "desc": "Saam Report brings quick updates on current events for easy understanding."
+  },
+  {
+    "start": "22:56",
+    "stop": "23:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775602560000,
+    "stopTs": 1775604360000,
+    "title": "36 Jila 36 Reporter",
+    "desc": "Coverage of the latest news and updates regarding various social, political and economic issues."
+  },
+  {
+    "start": "23:26",
+    "stop": "23:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775604360000,
+    "stopTs": 1775606160000,
+    "title": "Viral Zal Ji",
+    "desc": "Dive into trending stories with Viral Zal Ji, your go-to for viral news."
+  },
+  {
+    "start": "23:56",
+    "stop": "00:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775606160000,
+    "stopTs": 1775607960000,
+    "title": "TOP 50",
+    "desc": "Catch the highlights of the day in TOP 50, your shortcut to important news."
+  },
+  {
+    "start": "00:26",
+    "stop": "00:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775607960000,
+    "stopTs": 1775609760000,
+    "title": "36 Jila 36 Reporter",
+    "desc": "Coverage of the latest news and updates regarding various social, political and economic issues."
+  },
+  {
     "start": "00:30",
     "stop": "01:00",
     "channel": "SaamTV.in",
@@ -228,7 +514,18 @@
     "startTs": 1775608200000,
     "stopTs": 1775610000000,
     "title": "Sakal Prime",
-    "desc": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
+    "desc": "The host presents the latest updates on various social, economic and political issues."
+  },
+  {
+    "start": "00:56",
+    "stop": "01:22",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775609760000,
+    "stopTs": 1775611320000,
+    "title": "Maha Top 50 News",
+    "desc": "News version of the top 50 list, counting down the biggest stories of the day with brief summaries and impactful headlines."
   },
   {
     "start": "01:00",
@@ -239,7 +536,29 @@
     "startTs": 1775610000000,
     "stopTs": 1775611800000,
     "title": "Sakal Prime",
-    "desc": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
+    "desc": "The host presents the latest updates on various social, economic and political issues."
+  },
+  {
+    "start": "01:22",
+    "stop": "01:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775611320000,
+    "stopTs": 1775611560000,
+    "title": "Dagdusheth Ganpati Arati",
+    "desc": "A devotional program that features devotees worshipping Lord Ganesha at the Dagdusheth Temple in Pune."
+  },
+  {
+    "start": "01:26",
+    "stop": "01:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775611560000,
+    "stopTs": 1775613360000,
+    "title": "Sakal News",
+    "desc": "A news bulletin keeping viewers updated with regional and national news."
   },
   {
     "start": "01:30",
@@ -250,7 +569,18 @@
     "startTs": 1775611800000,
     "stopTs": 1775613600000,
     "title": "Sakal Prime",
-    "desc": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
+    "desc": "The host presents the latest updates on various social, economic and political issues."
+  },
+  {
+    "start": "01:56",
+    "stop": "02:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775613360000,
+    "stopTs": 1775615160000,
+    "title": "Top 50 News",
+    "desc": "A rapid-fire countdown of the day&apos;s 50 biggest news stories from politics, sports, entertainment, and more, keeping viewers updated and engaged."
   },
   {
     "start": "02:00",
@@ -261,7 +591,18 @@
     "startTs": 1775613600000,
     "stopTs": 1775615400000,
     "title": "Sakal Prime",
-    "desc": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
+    "desc": "The host presents the latest updates on various social, economic and political issues."
+  },
+  {
+    "start": "02:26",
+    "stop": "02:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775615160000,
+    "stopTs": 1775616960000,
+    "title": "100 Express",
+    "desc": "Join in for 100 Express: Get quick updates on essential events and news highlights."
   },
   {
     "start": "02:30",
@@ -272,7 +613,18 @@
     "startTs": 1775615400000,
     "stopTs": 1775617200000,
     "title": "Sakal Prime",
-    "desc": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
+    "desc": "The host presents the latest updates on various social, economic and political issues."
+  },
+  {
+    "start": "02:56",
+    "stop": "03:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775616960000,
+    "stopTs": 1775618760000,
+    "title": "Top 50 News",
+    "desc": "A rapid-fire countdown of the day&apos;s 50 biggest news stories from politics, sports, entertainment, and more, keeping viewers updated and engaged."
   },
   {
     "start": "03:00",
@@ -283,7 +635,18 @@
     "startTs": 1775617200000,
     "stopTs": 1775619000000,
     "title": "Sakal Prime",
-    "desc": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
+    "desc": "The host presents the latest updates on various social, economic and political issues."
+  },
+  {
+    "start": "03:26",
+    "stop": "03:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775618760000,
+    "stopTs": 1775620560000,
+    "title": "Saam Update",
+    "desc": "A concise news recap segment that brings key happenings of the day in under five minutes with visuals and on-point narration."
   },
   {
     "start": "03:30",
@@ -294,7 +657,18 @@
     "startTs": 1775619000000,
     "stopTs": 1775620800000,
     "title": "Sakal Prime",
-    "desc": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
+    "desc": "The host presents the latest updates on various social, economic and political issues."
+  },
+  {
+    "start": "03:56",
+    "stop": "04:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775620560000,
+    "stopTs": 1775622360000,
+    "title": "Top 50 News",
+    "desc": "A rapid-fire countdown of the day&apos;s 50 biggest news stories from politics, sports, entertainment, and more, keeping viewers updated and engaged."
   },
   {
     "start": "04:00",
@@ -305,7 +679,18 @@
     "startTs": 1775620800000,
     "stopTs": 1775622600000,
     "title": "Sakal Prime",
-    "desc": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
+    "desc": "The host presents the latest updates on various social, economic and political issues."
+  },
+  {
+    "start": "04:26",
+    "stop": "04:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775622360000,
+    "stopTs": 1775624160000,
+    "title": "Saam Newstime",
+    "desc": "A news bulletin keeping viewers updated with regional and national news."
   },
   {
     "start": "04:30",
@@ -316,7 +701,18 @@
     "startTs": 1775622600000,
     "stopTs": 1775624400000,
     "title": "Sakal Prime",
-    "desc": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
+    "desc": "The host presents the latest updates on various social, economic and political issues."
+  },
+  {
+    "start": "04:56",
+    "stop": "05:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775624160000,
+    "stopTs": 1775625960000,
+    "title": "Top 50 News",
+    "desc": "A rapid-fire countdown of the day&apos;s 50 biggest news stories from politics, sports, entertainment, and more, keeping viewers updated and engaged."
   },
   {
     "start": "05:00",
@@ -327,7 +723,18 @@
     "startTs": 1775624400000,
     "stopTs": 1775626200000,
     "title": "Sakal Prime",
-    "desc": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
+    "desc": "The host presents the latest updates on various social, economic and political issues."
+  },
+  {
+    "start": "05:26",
+    "stop": "05:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775625960000,
+    "stopTs": 1775627760000,
+    "title": "Saam Update",
+    "desc": "A concise news recap segment that brings key happenings of the day in under five minutes with visuals and on-point narration."
   },
   {
     "start": "05:30",
@@ -338,7 +745,18 @@
     "startTs": 1775626200000,
     "stopTs": 1775628000000,
     "title": "Duparchya Batamya",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "05:56",
+    "stop": "06:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775627760000,
+    "stopTs": 1775629560000,
+    "title": "Saam Update",
+    "desc": "A concise news recap segment that brings key happenings of the day in under five minutes with visuals and on-point narration."
   },
   {
     "start": "06:00",
@@ -349,7 +767,18 @@
     "startTs": 1775628000000,
     "stopTs": 1775629800000,
     "title": "Duparchya Batamya",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "06:26",
+    "stop": "06:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775629560000,
+    "stopTs": 1775631360000,
+    "title": "Saam Update",
+    "desc": "A concise news recap segment that brings key happenings of the day in under five minutes with visuals and on-point narration."
   },
   {
     "start": "06:30",
@@ -360,7 +789,18 @@
     "startTs": 1775629800000,
     "stopTs": 1775631600000,
     "title": "Duparchya Batamya",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "06:56",
+    "stop": "07:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775631360000,
+    "stopTs": 1775633160000,
+    "title": "Saam News Fast",
+    "desc": "Lightning-fast news roundups delivering state, national, and international updates for audiences needing immediate awareness."
   },
   {
     "start": "07:00",
@@ -371,7 +811,18 @@
     "startTs": 1775631600000,
     "stopTs": 1775633400000,
     "title": "Duparchya Batamya",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "07:26",
+    "stop": "07:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775633160000,
+    "stopTs": 1775634960000,
+    "title": "Saam Update",
+    "desc": "A concise news recap segment that brings key happenings of the day in under five minutes with visuals and on-point narration."
   },
   {
     "start": "07:30",
@@ -382,7 +833,18 @@
     "startTs": 1775633400000,
     "stopTs": 1775635200000,
     "title": "Duparchya Batamya",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "07:56",
+    "stop": "08:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775634960000,
+    "stopTs": 1775636760000,
+    "title": "Top 50 News",
+    "desc": "A rapid-fire countdown of the day&apos;s 50 biggest news stories from politics, sports, entertainment, and more, keeping viewers updated and engaged."
   },
   {
     "start": "08:00",
@@ -393,7 +855,18 @@
     "startTs": 1775635200000,
     "stopTs": 1775637000000,
     "title": "Duparchya Batamya",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "08:26",
+    "stop": "08:45",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775636760000,
+    "stopTs": 1775637900000,
+    "title": "Saam Update",
+    "desc": "A concise news recap segment that brings key happenings of the day in under five minutes with visuals and on-point narration."
   },
   {
     "start": "08:30",
@@ -404,7 +877,29 @@
     "startTs": 1775637000000,
     "stopTs": 1775638800000,
     "title": "Duparchya Batamya",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "08:45",
+    "stop": "08:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775637900000,
+    "stopTs": 1775638560000,
+    "title": "2 Min Ayurved",
+    "desc": "Receive simple health and nutrition tips, along with Ayurvedic remedies for various ailments."
+  },
+  {
+    "start": "08:56",
+    "stop": "09:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775638560000,
+    "stopTs": 1775640360000,
+    "title": "Mh Call Madhav Guruji",
+    "desc": "Shri. Madhav Guruji offers insights on balancing emotions and responsibilities."
   },
   {
     "start": "09:00",
@@ -415,7 +910,18 @@
     "startTs": 1775638800000,
     "stopTs": 1775640600000,
     "title": "Duparchya Batamya",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "09:26",
+    "stop": "09:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775640360000,
+    "stopTs": 1775642160000,
+    "title": "Saam Newstime",
+    "desc": "A news bulletin keeping viewers updated with regional and national news."
   },
   {
     "start": "09:30",
@@ -426,7 +932,18 @@
     "startTs": 1775640600000,
     "stopTs": 1775642400000,
     "title": "Tea Time",
-    "desc": "The anchor delivers in-depth analysis of the latest news stories, key developments and current affairs, covering topics of national and global significance."
+    "desc": "The anchor delves into the latest news stories, key developments and current affairs."
+  },
+  {
+    "start": "09:56",
+    "stop": "10:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775642160000,
+    "stopTs": 1775643960000,
+    "title": "Saam News Fast",
+    "desc": "Lightning-fast news roundups delivering state, national, and international updates for audiences needing immediate awareness."
   },
   {
     "start": "10:00",
@@ -437,7 +954,18 @@
     "startTs": 1775642400000,
     "stopTs": 1775644200000,
     "title": "Tea Time",
-    "desc": "The anchor delivers in-depth analysis of the latest news stories, key developments and current affairs, covering topics of national and global significance."
+    "desc": "The anchor delves into the latest news stories, key developments and current affairs."
+  },
+  {
+    "start": "10:26",
+    "stop": "10:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775643960000,
+    "stopTs": 1775645760000,
+    "title": "Saam Newstime",
+    "desc": "A news bulletin keeping viewers updated with regional and national news."
   },
   {
     "start": "10:30",
@@ -448,7 +976,18 @@
     "startTs": 1775644200000,
     "stopTs": 1775646000000,
     "title": "Tea Time",
-    "desc": "The anchor delivers in-depth analysis of the latest news stories, key developments and current affairs, covering topics of national and global significance."
+    "desc": "The anchor delves into the latest news stories, key developments and current affairs."
+  },
+  {
+    "start": "10:56",
+    "stop": "11:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775645760000,
+    "stopTs": 1775647560000,
+    "title": "Saam Sanji Dr.Malavika Tambe",
+    "desc": "Ayurvedic practitioner Dr.Malavika offers insights for optimal well-being."
   },
   {
     "start": "11:00",
@@ -459,7 +998,18 @@
     "startTs": 1775646000000,
     "stopTs": 1775647800000,
     "title": "Tea Time",
-    "desc": "The anchor delivers in-depth analysis of the latest news stories, key developments and current affairs, covering topics of national and global significance."
+    "desc": "The anchor delves into the latest news stories, key developments and current affairs."
+  },
+  {
+    "start": "11:26",
+    "stop": "11:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775647560000,
+    "stopTs": 1775649360000,
+    "title": "Saam Newstime",
+    "desc": "A news bulletin keeping viewers updated with regional and national news."
   },
   {
     "start": "11:30",
@@ -470,7 +1020,18 @@
     "startTs": 1775647800000,
     "stopTs": 1775649600000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "11:56",
+    "stop": "12:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775649360000,
+    "stopTs": 1775651160000,
+    "title": "Agro 1 Fast",
+    "desc": "Focused updates on the agriculture sector with weather, market rates, and expert tips for farmers to improve yield and efficiency."
   },
   {
     "start": "12:00",
@@ -481,7 +1042,18 @@
     "startTs": 1775649600000,
     "stopTs": 1775651400000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "12:26",
+    "stop": "12:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775651160000,
+    "stopTs": 1775652960000,
+    "title": "Sarkarnama 360",
+    "desc": "The host presents latest socio-economic, political news, updates and developments across the nation."
   },
   {
     "start": "12:30",
@@ -492,7 +1064,18 @@
     "startTs": 1775651400000,
     "stopTs": 1775653200000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "12:56",
+    "stop": "13:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775652960000,
+    "stopTs": 1775654760000,
+    "title": "36 Jila 36 Reporter",
+    "desc": "Coverage of the latest news and updates regarding various social, political and economic issues."
   },
   {
     "start": "13:00",
@@ -503,7 +1086,18 @@
     "startTs": 1775653200000,
     "stopTs": 1775655000000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "13:26",
+    "stop": "13:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775654760000,
+    "stopTs": 1775656560000,
+    "title": "Saamrajya",
+    "desc": "Tune into Saamrajya: Stay informed on state affairs and governance with clear reporting."
   },
   {
     "start": "13:30",
@@ -514,7 +1108,18 @@
     "startTs": 1775655000000,
     "stopTs": 1775656800000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "13:56",
+    "stop": "14:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775656560000,
+    "stopTs": 1775658360000,
+    "title": "Top 50 News",
+    "desc": "A rapid-fire countdown of the day&apos;s 50 biggest news stories from politics, sports, entertainment, and more, keeping viewers updated and engaged."
   },
   {
     "start": "14:00",
@@ -525,7 +1130,18 @@
     "startTs": 1775656800000,
     "stopTs": 1775658600000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "14:26",
+    "stop": "14:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775658360000,
+    "stopTs": 1775660160000,
+    "title": "Satyameva Jayate",
+    "desc": "A news bulletin keeping viewers updated with regional and national news."
   },
   {
     "start": "14:30",
@@ -536,7 +1152,18 @@
     "startTs": 1775658600000,
     "stopTs": 1775660400000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "14:56",
+    "stop": "15:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775660160000,
+    "stopTs": 1775661960000,
+    "title": "Mega Prime Time",
+    "desc": "A news bulletin with an in-depth coverage of local, regional and global news stories."
   },
   {
     "start": "15:00",
@@ -547,7 +1174,18 @@
     "startTs": 1775660400000,
     "stopTs": 1775662200000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "15:26",
+    "stop": "15:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775661960000,
+    "stopTs": 1775663760000,
+    "title": "Saam Report",
+    "desc": "Saam Report brings quick updates on current events for easy understanding."
   },
   {
     "start": "15:30",
@@ -558,7 +1196,18 @@
     "startTs": 1775662200000,
     "stopTs": 1775664000000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "15:56",
+    "stop": "16:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775663760000,
+    "stopTs": 1775665560000,
+    "title": "100 Express",
+    "desc": "Join in for 100 Express: Get quick updates on essential events and news highlights."
   },
   {
     "start": "16:00",
@@ -569,7 +1218,18 @@
     "startTs": 1775664000000,
     "stopTs": 1775665800000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "16:26",
+    "stop": "16:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775665560000,
+    "stopTs": 1775667360000,
+    "title": "Aaj Dinank",
+    "desc": "The host sheds light the most recent news, updates and developments from across the nation and the world."
   },
   {
     "start": "16:30",
@@ -580,7 +1240,18 @@
     "startTs": 1775665800000,
     "stopTs": 1775667600000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "16:56",
+    "stop": "17:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775667360000,
+    "stopTs": 1775669160000,
+    "title": "Maha Top 50",
+    "desc": "A musical countdown of 50 trending songs spanning genres and languages, offering entertainment and music-packed segments."
   },
   {
     "start": "17:00",
@@ -591,7 +1262,18 @@
     "startTs": 1775667600000,
     "stopTs": 1775669400000,
     "title": "Prime Time",
-    "desc": "The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment."
+    "desc": "The host presents latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "17:26",
+    "stop": "17:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775669160000,
+    "stopTs": 1775670960000,
+    "title": "Sarakarnama Special",
+    "desc": "Lok Sabha election updates: contenders&apos; prospects and ongoing developments."
   },
   {
     "start": "17:30",
@@ -605,6 +1287,17 @@
     "desc": "Bringing the best in television."
   },
   {
+    "start": "17:56",
+    "stop": "18:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775670960000,
+    "stopTs": 1775672760000,
+    "title": "Saam Report",
+    "desc": "Saam Report brings quick updates on current events for easy understanding."
+  },
+  {
     "start": "18:00",
     "stop": "00:30",
     "channel": "SaamTV.in",
@@ -614,5 +1307,390 @@
     "stopTs": 1775694600000,
     "title": "Satyamev Jayate",
     "desc": "Bringing the best in television."
+  },
+  {
+    "start": "18:26",
+    "stop": "18:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775672760000,
+    "stopTs": 1775674560000,
+    "title": "Aaj Dinank",
+    "desc": "The host sheds light the most recent news, updates and developments from across the nation and the world."
+  },
+  {
+    "start": "18:56",
+    "stop": "19:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775674560000,
+    "stopTs": 1775676360000,
+    "title": "Maha Top 50",
+    "desc": "A musical countdown of 50 trending songs spanning genres and languages, offering entertainment and music-packed segments."
+  },
+  {
+    "start": "19:26",
+    "stop": "19:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775676360000,
+    "stopTs": 1775678160000,
+    "title": "Saam Report",
+    "desc": "Saam Report brings quick updates on current events for easy understanding."
+  },
+  {
+    "start": "19:56",
+    "stop": "20:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775678160000,
+    "stopTs": 1775679960000,
+    "title": "TOP 50",
+    "desc": "Catch the highlights of the day in TOP 50, your shortcut to important news."
+  },
+  {
+    "start": "20:26",
+    "stop": "20:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775679960000,
+    "stopTs": 1775681760000,
+    "title": "Viral Zal Ji",
+    "desc": "Dive into trending stories with Viral Zal Ji, your go-to for viral news."
+  },
+  {
+    "start": "20:56",
+    "stop": "21:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775681760000,
+    "stopTs": 1775683560000,
+    "title": "100 Express",
+    "desc": "Join in for 100 Express: Get quick updates on essential events and news highlights."
+  },
+  {
+    "start": "21:26",
+    "stop": "21:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775683560000,
+    "stopTs": 1775685360000,
+    "title": "Aaj Dinank",
+    "desc": "The host sheds light the most recent news, updates and developments from across the nation and the world."
+  },
+  {
+    "start": "21:56",
+    "stop": "22:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775685360000,
+    "stopTs": 1775687160000,
+    "title": "Viral Fast",
+    "desc": "Tune into Viral Fast: Catch rapid updates on trending stories and viral content."
+  },
+  {
+    "start": "22:26",
+    "stop": "22:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775687160000,
+    "stopTs": 1775688960000,
+    "title": "Saam Report",
+    "desc": "Saam Report brings quick updates on current events for easy understanding."
+  },
+  {
+    "start": "22:56",
+    "stop": "23:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775688960000,
+    "stopTs": 1775690760000,
+    "title": "36 Jila 36 Reporter",
+    "desc": "Coverage of the latest news and updates regarding various social, political and economic issues."
+  },
+  {
+    "start": "23:26",
+    "stop": "23:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775690760000,
+    "stopTs": 1775692560000,
+    "title": "Viral Zal Ji",
+    "desc": "Dive into trending stories with Viral Zal Ji, your go-to for viral news."
+  },
+  {
+    "start": "23:56",
+    "stop": "00:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775692560000,
+    "stopTs": 1775694360000,
+    "title": "TOP 50",
+    "desc": "Catch the highlights of the day in TOP 50, your shortcut to important news."
+  },
+  {
+    "start": "00:26",
+    "stop": "00:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775694360000,
+    "stopTs": 1775696160000,
+    "title": "36 Jila 36 Reporter",
+    "desc": "Coverage of the latest news and updates regarding various social, political and economic issues."
+  },
+  {
+    "start": "00:56",
+    "stop": "01:22",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775696160000,
+    "stopTs": 1775697720000,
+    "title": "Maha Top 50 News",
+    "desc": "News version of the top 50 list, counting down the biggest stories of the day with brief summaries and impactful headlines."
+  },
+  {
+    "start": "01:22",
+    "stop": "01:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775697720000,
+    "stopTs": 1775697960000,
+    "title": "Dagdusheth Ganpati Arati",
+    "desc": "A devotional program that features devotees worshipping Lord Ganesha at the Dagdusheth Temple in Pune."
+  },
+  {
+    "start": "01:26",
+    "stop": "01:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775697960000,
+    "stopTs": 1775699760000,
+    "title": "Sakal News",
+    "desc": "A news bulletin keeping viewers updated with regional and national news."
+  },
+  {
+    "start": "01:56",
+    "stop": "02:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775699760000,
+    "stopTs": 1775701560000,
+    "title": "Top 50 News",
+    "desc": "A rapid-fire countdown of the day&apos;s 50 biggest news stories from politics, sports, entertainment, and more, keeping viewers updated and engaged."
+  },
+  {
+    "start": "02:26",
+    "stop": "02:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775701560000,
+    "stopTs": 1775703360000,
+    "title": "100 Express",
+    "desc": "Join in for 100 Express: Get quick updates on essential events and news highlights."
+  },
+  {
+    "start": "02:56",
+    "stop": "03:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775703360000,
+    "stopTs": 1775705160000,
+    "title": "Top 50 News",
+    "desc": "A rapid-fire countdown of the day&apos;s 50 biggest news stories from politics, sports, entertainment, and more, keeping viewers updated and engaged."
+  },
+  {
+    "start": "03:26",
+    "stop": "03:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775705160000,
+    "stopTs": 1775706960000,
+    "title": "Saam Update",
+    "desc": "A concise news recap segment that brings key happenings of the day in under five minutes with visuals and on-point narration."
+  },
+  {
+    "start": "03:56",
+    "stop": "04:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775706960000,
+    "stopTs": 1775708760000,
+    "title": "Top 50 News",
+    "desc": "A rapid-fire countdown of the day&apos;s 50 biggest news stories from politics, sports, entertainment, and more, keeping viewers updated and engaged."
+  },
+  {
+    "start": "04:26",
+    "stop": "04:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775708760000,
+    "stopTs": 1775710560000,
+    "title": "Saam Newstime",
+    "desc": "A news bulletin keeping viewers updated with regional and national news."
+  },
+  {
+    "start": "04:56",
+    "stop": "05:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775710560000,
+    "stopTs": 1775712360000,
+    "title": "Top 50 News",
+    "desc": "A rapid-fire countdown of the day&apos;s 50 biggest news stories from politics, sports, entertainment, and more, keeping viewers updated and engaged."
+  },
+  {
+    "start": "05:26",
+    "stop": "05:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775712360000,
+    "stopTs": 1775714160000,
+    "title": "Saam Update",
+    "desc": "A concise news recap segment that brings key happenings of the day in under five minutes with visuals and on-point narration."
+  },
+  {
+    "start": "05:56",
+    "stop": "06:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775714160000,
+    "stopTs": 1775715960000,
+    "title": "Saam Update",
+    "desc": "A concise news recap segment that brings key happenings of the day in under five minutes with visuals and on-point narration."
+  },
+  {
+    "start": "06:26",
+    "stop": "06:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775715960000,
+    "stopTs": 1775717760000,
+    "title": "Saam Update",
+    "desc": "A concise news recap segment that brings key happenings of the day in under five minutes with visuals and on-point narration."
+  },
+  {
+    "start": "06:56",
+    "stop": "07:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775717760000,
+    "stopTs": 1775719560000,
+    "title": "Saral Vastu",
+    "desc": "A vastu-based show that offers home and office design tips rooted in ancient Indian architecture to bring peace and prosperity."
+  },
+  {
+    "start": "07:26",
+    "stop": "07:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775719560000,
+    "stopTs": 1775721360000,
+    "title": "Saam Update",
+    "desc": "A concise news recap segment that brings key happenings of the day in under five minutes with visuals and on-point narration."
+  },
+  {
+    "start": "07:56",
+    "stop": "08:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775721360000,
+    "stopTs": 1775723160000,
+    "title": "Top 50 News",
+    "desc": "A rapid-fire countdown of the day&apos;s 50 biggest news stories from politics, sports, entertainment, and more, keeping viewers updated and engaged."
+  },
+  {
+    "start": "08:26",
+    "stop": "08:45",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775723160000,
+    "stopTs": 1775724300000,
+    "title": "Saam Update",
+    "desc": "A concise news recap segment that brings key happenings of the day in under five minutes with visuals and on-point narration."
+  },
+  {
+    "start": "08:45",
+    "stop": "08:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775724300000,
+    "stopTs": 1775724960000,
+    "title": "2 Min Ayurved",
+    "desc": "Receive simple health and nutrition tips, along with Ayurvedic remedies for various ailments."
+  },
+  {
+    "start": "08:56",
+    "stop": "09:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775724960000,
+    "stopTs": 1775726760000,
+    "title": "Mh Call Bhawani Astro",
+    "desc": "An astrologer offers personalized predictions based on birth dates and sun signs."
+  },
+  {
+    "start": "09:26",
+    "stop": "09:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775726760000,
+    "stopTs": 1775728560000,
+    "title": "Saam Newstime",
+    "desc": "A news bulletin keeping viewers updated with regional and national news."
+  },
+  {
+    "start": "09:56",
+    "stop": "10:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775728560000,
+    "stopTs": 1775730360000,
+    "title": "Saam News Fast",
+    "desc": "Lightning-fast news roundups delivering state, national, and international updates for audiences needing immediate awareness."
+  },
+  {
+    "start": "10:26",
+    "stop": "10:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1775730360000,
+    "stopTs": 1775732160000,
+    "title": "Saam Newstime",
+    "desc": "A news bulletin keeping viewers updated with regional and national news."
   }
 ]

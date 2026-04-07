@@ -1,49 +1,5 @@
 [
   {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "JanTV.in",
-    "channelId": "JanTV.in",
-    "channelName": "Jan TV",
-    "startTs": 1775548800000,
-    "stopTs": 1775550600000,
-    "title": "JAN TV UP News",
-    "desc": "The host presents the latest information, advancements and developments on key issues in various fields from the state of Uttar Pradesh."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "JanTV.in",
-    "channelId": "JanTV.in",
-    "channelName": "Jan TV",
-    "startTs": 1775550600000,
-    "stopTs": 1775552400000,
-    "title": "Jan TV Rajasthan",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues of Rajasthan."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "JanTV.in",
-    "channelId": "JanTV.in",
-    "channelName": "Jan TV",
-    "startTs": 1775552400000,
-    "stopTs": 1775554200000,
-    "title": "Jan TV News",
-    "desc": "The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "JanTV.in",
-    "channelId": "JanTV.in",
-    "channelName": "Jan TV",
-    "startTs": 1775554200000,
-    "stopTs": 1775556000000,
-    "title": "Jan Express",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
     "start": "10:00",
     "stop": "10:30",
     "channel": "JanTV.in",
@@ -52,7 +8,7 @@
     "startTs": 1775556000000,
     "stopTs": 1775557800000,
     "title": "Jan TV National",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues from all around the globe."
+    "desc": "The host presents the latest updates and current affairs from all around the globe."
   },
   {
     "start": "10:30",
@@ -63,7 +19,7 @@
     "startTs": 1775557800000,
     "stopTs": 1775559600000,
     "title": "Uttarakhand News",
-    "desc": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
+    "desc": "The host provides a detailed report on the latest news and developments."
   },
   {
     "start": "11:00",
@@ -74,7 +30,7 @@
     "startTs": 1775559600000,
     "stopTs": 1775561400000,
     "title": "Jan TV National",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues from all around the globe."
+    "desc": "The host presents the latest updates and current affairs from all around the globe."
   },
   {
     "start": "11:30",
@@ -85,7 +41,7 @@
     "startTs": 1775561400000,
     "stopTs": 1775563200000,
     "title": "Jan TV Rajasthan",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues of Rajasthan."
+    "desc": "The host presents latest updates and current affairs pertaining to Rajasthan."
   },
   {
     "start": "12:00",
@@ -96,7 +52,7 @@
     "startTs": 1775563200000,
     "stopTs": 1775565000000,
     "title": "Jan TV Rajasthan",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues of Rajasthan."
+    "desc": "The host presents latest updates and current affairs pertaining to Rajasthan."
   },
   {
     "start": "12:30",
@@ -106,8 +62,8 @@
     "channelName": "Jan TV",
     "startTs": 1775565000000,
     "stopTs": 1775566800000,
-    "title": "Jan TV",
-    "desc": "The host presents the most recent political, social and economic news, updates and developments from around the country."
+    "title": "Khas Khabar",
+    "desc": "The host presents the most recent political, social and economic news from the country."
   },
   {
     "start": "13:00",
@@ -118,7 +74,7 @@
     "startTs": 1775566800000,
     "stopTs": 1775568600000,
     "title": "Badi Khabar",
-    "desc": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
+    "desc": "The host presents the latest updates on various social, political and economic issues."
   },
   {
     "start": "13:30",
@@ -129,7 +85,7 @@
     "startTs": 1775568600000,
     "stopTs": 1775570400000,
     "title": "JAN TV UP News",
-    "desc": "The host presents the latest information, advancements and developments on key issues in various fields from the state of Uttar Pradesh."
+    "desc": "The host presents the latest information on key issues in the state of Uttar Pradesh."
   },
   {
     "start": "14:00",
@@ -140,7 +96,7 @@
     "startTs": 1775570400000,
     "stopTs": 1775572200000,
     "title": "Jan TV Rajasthan",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues of Rajasthan."
+    "desc": "The host presents latest updates and current affairs pertaining to Rajasthan."
   },
   {
     "start": "14:30",
@@ -151,7 +107,7 @@
     "startTs": 1775572200000,
     "stopTs": 1775574000000,
     "title": "Jan TV Rajasthan",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues of Rajasthan."
+    "desc": "The host presents latest updates and current affairs pertaining to Rajasthan."
   },
   {
     "start": "15:00",
@@ -161,8 +117,8 @@
     "channelName": "Jan TV",
     "startTs": 1775574000000,
     "stopTs": 1775575800000,
-    "title": "Jan TV",
-    "desc": "The host presents the most recent political, social and economic news, updates and developments from around the country."
+    "title": "Khas Khabar",
+    "desc": "The host presents the most recent political, social and economic news from the country."
   },
   {
     "start": "15:30",
@@ -173,7 +129,7 @@
     "startTs": 1775575800000,
     "stopTs": 1775577600000,
     "title": "Jan TV National",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues from all around the globe."
+    "desc": "The host presents the latest updates and current affairs from all around the globe."
   },
   {
     "start": "16:00",
@@ -184,7 +140,7 @@
     "startTs": 1775577600000,
     "stopTs": 1775579400000,
     "title": "Uttarakhand News",
-    "desc": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
+    "desc": "The host provides a detailed report on the latest news and developments."
   },
   {
     "start": "16:30",
@@ -195,7 +151,7 @@
     "startTs": 1775579400000,
     "stopTs": 1775581200000,
     "title": "Jan TV Rajasthan",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues of Rajasthan."
+    "desc": "The host presents latest updates and current affairs pertaining to Rajasthan."
   },
   {
     "start": "17:00",
@@ -206,7 +162,7 @@
     "startTs": 1775581200000,
     "stopTs": 1775583000000,
     "title": "Jantv Express",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues from all across the globe."
+    "desc": "The host presents the latest updates and current affairs from all across the globe."
   },
   {
     "start": "17:30",
@@ -221,14 +177,14 @@
   },
   {
     "start": "18:00",
-    "stop": "18:29",
+    "stop": "18:30",
     "channel": "JanTV.in",
     "channelId": "JanTV.in",
     "channelName": "Jan TV",
     "startTs": 1775584800000,
-    "stopTs": 1775586599000,
+    "stopTs": 1775586600000,
     "title": "Jan TV National",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues from all around the globe."
+    "desc": "The host presents the latest updates and current affairs from all around the globe."
   },
   {
     "start": "18:30",
@@ -239,7 +195,7 @@
     "startTs": 1775586600000,
     "stopTs": 1775588400000,
     "title": "Jan TV Rajasthan",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues of Rajasthan."
+    "desc": "The host presents latest updates and current affairs pertaining to Rajasthan."
   },
   {
     "start": "19:00",
@@ -250,7 +206,7 @@
     "startTs": 1775588400000,
     "stopTs": 1775590200000,
     "title": "Jan TV Rajasthan",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues of Rajasthan."
+    "desc": "The host presents latest updates and current affairs pertaining to Rajasthan."
   },
   {
     "start": "19:30",
@@ -261,7 +217,7 @@
     "startTs": 1775590200000,
     "stopTs": 1775592000000,
     "title": "Jan TV National",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues from all around the globe."
+    "desc": "The host presents the latest updates and current affairs from all around the globe."
   },
   {
     "start": "20:00",
@@ -272,7 +228,7 @@
     "startTs": 1775592000000,
     "stopTs": 1775593800000,
     "title": "Jan TV National",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues from all around the globe."
+    "desc": "The host presents the latest updates and current affairs from all around the globe."
   },
   {
     "start": "20:30",
@@ -283,7 +239,7 @@
     "startTs": 1775593800000,
     "stopTs": 1775595600000,
     "title": "Jan TV Khas Khabar",
-    "desc": "The host presents some of the latest regional and national news updates pertaining to the current social, economic and political developments of the country."
+    "desc": "The host presents some of the latest regional and national news updates."
   },
   {
     "start": "21:00",
@@ -294,7 +250,7 @@
     "startTs": 1775595600000,
     "stopTs": 1775597400000,
     "title": "Badi Khabar",
-    "desc": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
+    "desc": "The host presents the latest updates on various social, political and economic issues."
   },
   {
     "start": "21:30",
@@ -305,7 +261,7 @@
     "startTs": 1775597400000,
     "stopTs": 1775599200000,
     "title": "Jan tv UP",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues of Uttar Pradesh."
+    "desc": "The host presents the latest updates, current affairs and developments of Uttar Pradesh."
   },
   {
     "start": "22:00",
@@ -316,7 +272,7 @@
     "startTs": 1775599200000,
     "stopTs": 1775601000000,
     "title": "Jan tv UP",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues of Uttar Pradesh."
+    "desc": "The host presents the latest updates, current affairs and developments of Uttar Pradesh."
   },
   {
     "start": "22:30",
@@ -327,7 +283,7 @@
     "startTs": 1775601000000,
     "stopTs": 1775602800000,
     "title": "Jan TV National",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues from all around the globe."
+    "desc": "The host presents the latest updates and current affairs from all around the globe."
   },
   {
     "start": "23:00",
@@ -338,7 +294,7 @@
     "startTs": 1775602800000,
     "stopTs": 1775604600000,
     "title": "Jan TV National",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues from all around the globe."
+    "desc": "The host presents the latest updates and current affairs from all around the globe."
   },
   {
     "start": "23:30",
@@ -349,7 +305,7 @@
     "startTs": 1775604600000,
     "stopTs": 1775606400000,
     "title": "Jan TV Rajasthan",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues of Rajasthan."
+    "desc": "The host presents latest updates and current affairs pertaining to Rajasthan."
   },
   {
     "start": "00:00",
@@ -360,7 +316,7 @@
     "startTs": 1775606400000,
     "stopTs": 1775608200000,
     "title": "Jan Express",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host informs about the issues of the day and provides updates on current events."
   },
   {
     "start": "00:30",
@@ -371,7 +327,7 @@
     "startTs": 1775608200000,
     "stopTs": 1775610000000,
     "title": "Yog Se Nirog",
-    "desc": "Health experts provide tips and suggestions regarding how yoga can help one lead a healthy life, focusing on physical flexibility, mental balance and overall well-being."
+    "desc": "Experts provide suggestions regarding how yoga can help one lead a healthy life."
   },
   {
     "start": "01:00",
@@ -382,7 +338,7 @@
     "startTs": 1775610000000,
     "stopTs": 1775611800000,
     "title": "Grahon ka Safar",
-    "desc": "A renowned astrologer makes future predictions based on numerology and the twelve zodiac signs, offering insights into love, career and personal growth through cosmic patterns."
+    "desc": "An astrologer makes future predictions based on numerology and the twelve zodiac signs."
   },
   {
     "start": "01:30",
@@ -393,7 +349,7 @@
     "startTs": 1775611800000,
     "stopTs": 1775613600000,
     "title": "Pravachan",
-    "desc": "An eminent religious leader provides a comprehensive and detailed insight into spiritual discourses and guides people on the right path."
+    "desc": "A religious leader gives a detailed insight into spiritual discourses."
   },
   {
     "start": "02:00",
@@ -404,7 +360,7 @@
     "startTs": 1775613600000,
     "stopTs": 1775615400000,
     "title": "Yog Se Nirog",
-    "desc": "Health experts provide tips and suggestions regarding how yoga can help one lead a healthy life, focusing on physical flexibility, mental balance and overall well-being."
+    "desc": "Experts provide suggestions regarding how yoga can help one lead a healthy life."
   },
   {
     "start": "02:30",
@@ -415,7 +371,7 @@
     "startTs": 1775615400000,
     "stopTs": 1775617200000,
     "title": "Jan Express",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host informs about the issues of the day and provides updates on current events."
   },
   {
     "start": "03:00",
@@ -426,7 +382,7 @@
     "startTs": 1775617200000,
     "stopTs": 1775619000000,
     "title": "Jan Express",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host informs about the issues of the day and provides updates on current events."
   },
   {
     "start": "03:30",
@@ -437,7 +393,7 @@
     "startTs": 1775619000000,
     "stopTs": 1775620800000,
     "title": "Jan TV News",
-    "desc": "The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country."
+    "desc": "The host collates and presents important news updates and current affairs."
   },
   {
     "start": "04:00",
@@ -448,7 +404,7 @@
     "startTs": 1775620800000,
     "stopTs": 1775622600000,
     "title": "Jan TV News",
-    "desc": "The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country."
+    "desc": "The host collates and presents important news updates and current affairs."
   },
   {
     "start": "04:30",
@@ -459,7 +415,7 @@
     "startTs": 1775622600000,
     "stopTs": 1775624400000,
     "title": "Jan TV News",
-    "desc": "The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country."
+    "desc": "The host collates and presents important news updates and current affairs."
   },
   {
     "start": "05:00",
@@ -470,7 +426,7 @@
     "startTs": 1775624400000,
     "stopTs": 1775626200000,
     "title": "Jan TV News",
-    "desc": "The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country."
+    "desc": "The host collates and presents important news updates and current affairs."
   },
   {
     "start": "05:30",
@@ -481,7 +437,7 @@
     "startTs": 1775626200000,
     "stopTs": 1775628000000,
     "title": "Uttarakhand News",
-    "desc": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
+    "desc": "The host provides a detailed report on the latest news and developments."
   },
   {
     "start": "06:00",
@@ -492,7 +448,7 @@
     "startTs": 1775628000000,
     "stopTs": 1775629800000,
     "title": "Jan TV News",
-    "desc": "The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country."
+    "desc": "The host collates and presents important news updates and current affairs."
   },
   {
     "start": "06:30",
@@ -503,7 +459,7 @@
     "startTs": 1775629800000,
     "stopTs": 1775631600000,
     "title": "Jan TV News",
-    "desc": "The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country."
+    "desc": "The host collates and presents important news updates and current affairs."
   },
   {
     "start": "07:00",
@@ -514,7 +470,7 @@
     "startTs": 1775631600000,
     "stopTs": 1775633400000,
     "title": "Jan TV News",
-    "desc": "The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country."
+    "desc": "The host collates and presents important news updates and current affairs."
   },
   {
     "start": "07:30",
@@ -524,8 +480,8 @@
     "channelName": "Jan TV",
     "startTs": 1775633400000,
     "stopTs": 1775635200000,
-    "title": "Jan TV",
-    "desc": "The host presents the most recent political, social and economic news, updates and developments from around the country."
+    "title": "Khas Khabar",
+    "desc": "The host presents the most recent political, social and economic news from the country."
   },
   {
     "start": "08:00",
@@ -536,7 +492,7 @@
     "startTs": 1775635200000,
     "stopTs": 1775637000000,
     "title": "JAN TV UP News",
-    "desc": "The host presents the latest information, advancements and developments on key issues in various fields from the state of Uttar Pradesh."
+    "desc": "The host presents the latest information on key issues in the state of Uttar Pradesh."
   },
   {
     "start": "08:30",
@@ -547,7 +503,7 @@
     "startTs": 1775637000000,
     "stopTs": 1775638800000,
     "title": "Jan TV Rajasthan",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues of Rajasthan."
+    "desc": "The host presents latest updates and current affairs pertaining to Rajasthan."
   },
   {
     "start": "09:00",
@@ -558,7 +514,7 @@
     "startTs": 1775638800000,
     "stopTs": 1775640600000,
     "title": "Jan TV News",
-    "desc": "The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country."
+    "desc": "The host collates and presents important news updates and current affairs."
   },
   {
     "start": "09:30",
@@ -569,7 +525,7 @@
     "startTs": 1775640600000,
     "stopTs": 1775642400000,
     "title": "Jan Express",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host informs about the issues of the day and provides updates on current events."
   },
   {
     "start": "10:00",
@@ -580,7 +536,7 @@
     "startTs": 1775642400000,
     "stopTs": 1775644200000,
     "title": "Jan TV National",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues from all around the globe."
+    "desc": "The host presents the latest updates and current affairs from all around the globe."
   },
   {
     "start": "10:30",
@@ -591,7 +547,7 @@
     "startTs": 1775644200000,
     "stopTs": 1775646000000,
     "title": "Uttarakhand News",
-    "desc": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
+    "desc": "The host provides a detailed report on the latest news and developments."
   },
   {
     "start": "11:00",
@@ -602,7 +558,7 @@
     "startTs": 1775646000000,
     "stopTs": 1775647800000,
     "title": "Jan TV National",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues from all around the globe."
+    "desc": "The host presents the latest updates and current affairs from all around the globe."
   },
   {
     "start": "11:30",
@@ -613,7 +569,7 @@
     "startTs": 1775647800000,
     "stopTs": 1775649600000,
     "title": "Jan TV Rajasthan",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues of Rajasthan."
+    "desc": "The host presents latest updates and current affairs pertaining to Rajasthan."
   },
   {
     "start": "12:00",
@@ -624,7 +580,7 @@
     "startTs": 1775649600000,
     "stopTs": 1775651400000,
     "title": "Jan TV Rajasthan",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues of Rajasthan."
+    "desc": "The host presents latest updates and current affairs pertaining to Rajasthan."
   },
   {
     "start": "12:30",
@@ -634,8 +590,8 @@
     "channelName": "Jan TV",
     "startTs": 1775651400000,
     "stopTs": 1775653200000,
-    "title": "Jan TV",
-    "desc": "The host presents the most recent political, social and economic news, updates and developments from around the country."
+    "title": "Khas Khabar",
+    "desc": "The host presents the most recent political, social and economic news from the country."
   },
   {
     "start": "13:00",
@@ -646,7 +602,7 @@
     "startTs": 1775653200000,
     "stopTs": 1775655000000,
     "title": "Badi Khabar",
-    "desc": "The host presents the latest updates on various social, political and economic issues and shares information on current events."
+    "desc": "The host presents the latest updates on various social, political and economic issues."
   },
   {
     "start": "13:30",
@@ -657,7 +613,7 @@
     "startTs": 1775655000000,
     "stopTs": 1775656800000,
     "title": "JAN TV UP News",
-    "desc": "The host presents the latest information, advancements and developments on key issues in various fields from the state of Uttar Pradesh."
+    "desc": "The host presents the latest information on key issues in the state of Uttar Pradesh."
   },
   {
     "start": "14:00",
@@ -668,7 +624,7 @@
     "startTs": 1775656800000,
     "stopTs": 1775658600000,
     "title": "Jan TV Rajasthan",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues of Rajasthan."
+    "desc": "The host presents latest updates and current affairs pertaining to Rajasthan."
   },
   {
     "start": "14:30",
@@ -679,7 +635,7 @@
     "startTs": 1775658600000,
     "stopTs": 1775660400000,
     "title": "Jan TV Rajasthan",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues of Rajasthan."
+    "desc": "The host presents latest updates and current affairs pertaining to Rajasthan."
   },
   {
     "start": "15:00",
@@ -689,8 +645,8 @@
     "channelName": "Jan TV",
     "startTs": 1775660400000,
     "stopTs": 1775662200000,
-    "title": "Jan TV",
-    "desc": "The host presents the most recent political, social and economic news, updates and developments from around the country."
+    "title": "Khas Khabar",
+    "desc": "The host presents the most recent political, social and economic news from the country."
   },
   {
     "start": "15:30",
@@ -701,7 +657,7 @@
     "startTs": 1775662200000,
     "stopTs": 1775664000000,
     "title": "Jan TV National",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues from all around the globe."
+    "desc": "The host presents the latest updates and current affairs from all around the globe."
   },
   {
     "start": "16:00",
@@ -712,7 +668,7 @@
     "startTs": 1775664000000,
     "stopTs": 1775665800000,
     "title": "Uttarakhand News",
-    "desc": "The host provides a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
+    "desc": "The host provides a detailed report on the latest news and developments."
   },
   {
     "start": "16:30",
@@ -723,7 +679,7 @@
     "startTs": 1775665800000,
     "stopTs": 1775667600000,
     "title": "Jan TV Rajasthan",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues of Rajasthan."
+    "desc": "The host presents latest updates and current affairs pertaining to Rajasthan."
   },
   {
     "start": "17:00",
@@ -734,7 +690,7 @@
     "startTs": 1775667600000,
     "stopTs": 1775669400000,
     "title": "Jantv Express",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues from all across the globe."
+    "desc": "The host presents the latest updates and current affairs from all across the globe."
   },
   {
     "start": "17:30",
@@ -749,13 +705,376 @@
   },
   {
     "start": "18:00",
-    "stop": "18:29",
+    "stop": "18:30",
     "channel": "JanTV.in",
     "channelId": "JanTV.in",
     "channelName": "Jan TV",
     "startTs": 1775671200000,
-    "stopTs": 1775672999000,
+    "stopTs": 1775673000000,
     "title": "Jan TV National",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues from all around the globe."
+    "desc": "The host presents the latest updates and current affairs from all around the globe."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775673000000,
+    "stopTs": 1775674800000,
+    "title": "Jan TV Rajasthan",
+    "desc": "A regional news program focused on Rajasthan, covering local politics, events, culture, and social issues that matter to people in the state."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775674800000,
+    "stopTs": 1775676600000,
+    "title": "Jan TV Rajasthan",
+    "desc": "A regional news program focused on Rajasthan, covering local politics, events, culture, and social issues that matter to people in the state."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775676600000,
+    "stopTs": 1775678400000,
+    "title": "Jan TV National",
+    "desc": "A news bulletin covering national stories, politics, economy, and social issues with analysis, keeping viewers informed of major developments across India."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775678400000,
+    "stopTs": 1775680200000,
+    "title": "Jan TV National",
+    "desc": "A news bulletin covering national stories, politics, economy, and social issues with analysis, keeping viewers informed of major developments across India."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775680200000,
+    "stopTs": 1775682000000,
+    "title": "Jan TV Khaas Kabar",
+    "desc": "A special news segment presenting exclusive stories, in-depth analysis, and reports on issues of public importance and interest."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775682000000,
+    "stopTs": 1775683800000,
+    "title": "Badi Khabar",
+    "desc": "A prime-time news bulletin highlighting the biggest stories of the day, with analysis, reports, and updates on politics, society, and current affairs."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775683800000,
+    "stopTs": 1775685600000,
+    "title": "Jan tv UP News",
+    "desc": "Jan tv UP News delivers the latest news, events, and developments from Uttar Pradesh."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775685600000,
+    "stopTs": 1775687400000,
+    "title": "Jan tv UP News",
+    "desc": "Jan tv UP News delivers the latest news, events, and developments from Uttar Pradesh."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775687400000,
+    "stopTs": 1775689200000,
+    "title": "Jan TV National",
+    "desc": "A news bulletin covering national stories, politics, economy, and social issues with analysis, keeping viewers informed of major developments across India."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775689200000,
+    "stopTs": 1775691000000,
+    "title": "Jan TV National",
+    "desc": "A news bulletin covering national stories, politics, economy, and social issues with analysis, keeping viewers informed of major developments across India."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775691000000,
+    "stopTs": 1775692800000,
+    "title": "Jan TV Rajasthan",
+    "desc": "A regional news program focused on Rajasthan, covering local politics, events, culture, and social issues that matter to people in the state."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775692800000,
+    "stopTs": 1775694600000,
+    "title": "Jan Express",
+    "desc": "A fast-paced news bulletin delivering top stories with quick updates, covering local, national, and international developments in a concise format."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775694600000,
+    "stopTs": 1775696400000,
+    "title": "Yog Se Nirog",
+    "desc": "A health and wellness program demonstrating yoga practices, breathing techniques, and lifestyle tips to help viewers stay healthy, fit, and stress-free."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775696400000,
+    "stopTs": 1775698200000,
+    "title": "Graho ka Safar",
+    "desc": "An astrology-based program providing predictions, insights, and remedies based on planetary positions, guiding viewers on career, relationships, and health."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775698200000,
+    "stopTs": 1775700000000,
+    "title": "Pravachan",
+    "desc": "A spiritual program featuring discourses by saints and gurus, offering teachings, philosophy, and moral values to inspire faith and inner growth."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775700000000,
+    "stopTs": 1775701800000,
+    "title": "Yog Se Nirog",
+    "desc": "A health and wellness program demonstrating yoga practices, breathing techniques, and lifestyle tips to help viewers stay healthy, fit, and stress-free."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775701800000,
+    "stopTs": 1775703600000,
+    "title": "Jan Express",
+    "desc": "A fast-paced news bulletin delivering top stories with quick updates, covering local, national, and international developments in a concise format."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775703600000,
+    "stopTs": 1775705400000,
+    "title": "Jan Express",
+    "desc": "A fast-paced news bulletin delivering top stories with quick updates, covering local, national, and international developments in a concise format."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775705400000,
+    "stopTs": 1775707200000,
+    "title": "Jan tv News",
+    "desc": "A regular news program presenting updates on politics, society, economy, and culture with balanced reporting and analysis."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775707200000,
+    "stopTs": 1775709000000,
+    "title": "Jan tv News",
+    "desc": "A regular news program presenting updates on politics, society, economy, and culture with balanced reporting and analysis."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775709000000,
+    "stopTs": 1775710800000,
+    "title": "Jan tv News",
+    "desc": "A regular news program presenting updates on politics, society, economy, and culture with balanced reporting and analysis."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775710800000,
+    "stopTs": 1775712600000,
+    "title": "Jan tv News",
+    "desc": "A regular news program presenting updates on politics, society, economy, and culture with balanced reporting and analysis."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775712600000,
+    "stopTs": 1775714400000,
+    "title": "Uttarakhand News",
+    "desc": "Uttarakhand News reports on current affairs, environment, and culture in the state of Uttarakhand."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775714400000,
+    "stopTs": 1775716200000,
+    "title": "Jan tv News",
+    "desc": "A regular news program presenting updates on politics, society, economy, and culture with balanced reporting and analysis."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775716200000,
+    "stopTs": 1775718000000,
+    "title": "Jan tv News",
+    "desc": "A regular news program presenting updates on politics, society, economy, and culture with balanced reporting and analysis."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775718000000,
+    "stopTs": 1775719800000,
+    "title": "Jan tv News",
+    "desc": "A regular news program presenting updates on politics, society, economy, and culture with balanced reporting and analysis."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775719800000,
+    "stopTs": 1775721600000,
+    "title": "Khas Khabar",
+    "desc": "A special news bulletin presenting exclusive coverage, detailed analysis, and in-depth stories on important current events and issues."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775721600000,
+    "stopTs": 1775723400000,
+    "title": "Badi Khabar",
+    "desc": "A prime-time news bulletin highlighting the biggest stories of the day, with analysis, reports, and updates on politics, society, and current affairs."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775723400000,
+    "stopTs": 1775725200000,
+    "title": "Jan TV Rajasthan",
+    "desc": "A regional news program focused on Rajasthan, covering local politics, events, culture, and social issues that matter to people in the state."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775725200000,
+    "stopTs": 1775727000000,
+    "title": "Jan tv News",
+    "desc": "A regular news program presenting updates on politics, society, economy, and culture with balanced reporting and analysis."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775727000000,
+    "stopTs": 1775728800000,
+    "title": "Jan Express",
+    "desc": "A fast-paced news bulletin delivering top stories with quick updates, covering local, national, and international developments in a concise format."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775728800000,
+    "stopTs": 1775730600000,
+    "title": "Jan TV National",
+    "desc": "A news bulletin covering national stories, politics, economy, and social issues with analysis, keeping viewers informed of major developments across India."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "JanTV.in",
+    "channelId": "JanTV.in",
+    "channelName": "JAN TV",
+    "startTs": 1775730600000,
+    "stopTs": 1775732400000,
+    "title": "Uttarakhand News",
+    "desc": "Uttarakhand News reports on current affairs, environment, and culture in the state of Uttarakhand."
   }
 ]

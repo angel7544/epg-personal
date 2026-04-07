@@ -1,27 +1,5 @@
 [
   {
-    "start": "07:30",
-    "stop": "08:30",
-    "channel": "UpdateIndia.in",
-    "channelId": "UpdateIndia.in",
-    "channelName": "Update India",
-    "startTs": 1775547000000,
-    "stopTs": 1775550600000,
-    "title": "Desh Duniya",
-    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:30",
-    "channel": "UpdateIndia.in",
-    "channelId": "UpdateIndia.in",
-    "channelName": "Update India",
-    "startTs": 1775550600000,
-    "stopTs": 1775554200000,
-    "title": "Update Entertainment",
-    "desc": "The host shares the latest updates and developments from the world of entertainment and shares top stories about celebrities."
-  },
-  {
     "start": "09:30",
     "stop": "10:30",
     "channel": "UpdateIndia.in",
@@ -30,7 +8,7 @@
     "startTs": 1775554200000,
     "stopTs": 1775557800000,
     "title": "Top 100",
-    "desc": "The host presents a comprehensive and detailed coverage of the top 100 latest news and developments from across the region."
+    "desc": "The host presents a detailed report of the top 100 latest news and developments."
   },
   {
     "start": "10:30",
@@ -41,7 +19,7 @@
     "startTs": 1775557800000,
     "stopTs": 1775561400000,
     "title": "Reporter Live",
-    "desc": "The host sheds light on some of the most recent incidents, along with the day&apos;s top stories and events, directly from the field, live."
+    "desc": "The host presents the day&apos;s top stories and events directly from the field, live."
   },
   {
     "start": "11:30",
@@ -52,7 +30,7 @@
     "startTs": 1775561400000,
     "stopTs": 1775565000000,
     "title": "Badi Khabar",
-    "desc": "The host presents a detailed analysis of some of the most important and major news, updates and developments of the day."
+    "desc": "The host presents a detailed analysis of the top stories of the day."
   },
   {
     "start": "12:30",
@@ -63,7 +41,7 @@
     "startTs": 1775565000000,
     "stopTs": 1775568600000,
     "title": "Update India",
-    "desc": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across India."
+    "desc": "The host sheds light on the latest news updates from across India."
   },
   {
     "start": "13:30",
@@ -74,7 +52,7 @@
     "startTs": 1775568600000,
     "stopTs": 1775572200000,
     "title": "Khabar 7 Baje",
-    "desc": "The host provides a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
+    "desc": "The host provides a detailed coverage of the latest news and developments."
   },
   {
     "start": "14:30",
@@ -85,7 +63,7 @@
     "startTs": 1775572200000,
     "stopTs": 1775575800000,
     "title": "Prime Time",
-    "desc": "The host presents the latest developments and events in crucial political, social, economic and sports matters affecting the nation and the world."
+    "desc": "The host presents the latest developments and events on crucial matters."
   },
   {
     "start": "15:30",
@@ -96,7 +74,7 @@
     "startTs": 1775575800000,
     "stopTs": 1775579400000,
     "title": "India@9PM",
-    "desc": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation."
+    "desc": "The host provides a detailed report on matters concerning the nation."
   },
   {
     "start": "16:30",
@@ -107,18 +85,18 @@
     "startTs": 1775579400000,
     "stopTs": 1775583000000,
     "title": "Khabar 10 Baje",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "17:30",
-    "stop": "18:29",
+    "stop": "18:30",
     "channel": "UpdateIndia.in",
     "channelId": "UpdateIndia.in",
     "channelName": "Update India",
     "startTs": 1775583000000,
-    "stopTs": 1775586599000,
+    "stopTs": 1775586600000,
     "title": "News@11",
-    "desc": "The host presents updates on some of the latest news stories, developments and current affairs from various sectors of society."
+    "desc": "The host presents updates on some of the latest news stories and developments."
   },
   {
     "start": "18:30",
@@ -129,7 +107,7 @@
     "startTs": 1775586600000,
     "stopTs": 1775590200000,
     "title": "Superfast 100",
-    "desc": "The host presents the top 100 stories, significant updates and huge developments from the national and international front."
+    "desc": "The host presents the top 100 stories, updates and huge developments from the world."
   },
   {
     "start": "19:30",
@@ -139,8 +117,8 @@
     "channelName": "Update India",
     "startTs": 1775590200000,
     "stopTs": 1775593800000,
-    "title": "Update India",
-    "desc": "The host presents the most recent political, social and economic news, updates and developments from around the country."
+    "title": "Khas Khabar",
+    "desc": "The host presents the most recent political, social and economic news from the country."
   },
   {
     "start": "20:30",
@@ -151,7 +129,7 @@
     "startTs": 1775593800000,
     "stopTs": 1775597400000,
     "title": "Desh Duniya",
-    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events."
+    "desc": "The host presents important issues and provides updates on current events."
   },
   {
     "start": "21:30",
@@ -162,7 +140,7 @@
     "startTs": 1775597400000,
     "stopTs": 1775601000000,
     "title": "Badi Khabar",
-    "desc": "The host presents a detailed analysis of some of the most important and major news, updates and developments of the day."
+    "desc": "The host presents a detailed analysis of the top stories of the day."
   },
   {
     "start": "22:30",
@@ -173,7 +151,7 @@
     "startTs": 1775601000000,
     "stopTs": 1775604600000,
     "title": "Update India",
-    "desc": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across India."
+    "desc": "The host sheds light on the latest news updates from across India."
   },
   {
     "start": "23:30",
@@ -184,7 +162,7 @@
     "startTs": 1775604600000,
     "stopTs": 1775608200000,
     "title": "Bhakti Geet",
-    "desc": "A comprehensive compilation of hymns and devotional songs sung and composed by various talented musicians is played consecutively."
+    "desc": "A comprehensive compilation of hymns and devotional songs is played consecutively."
   },
   {
     "start": "00:30",
@@ -195,7 +173,7 @@
     "startTs": 1775608200000,
     "stopTs": 1775611800000,
     "title": "Jeewan Bhakti",
-    "desc": "A religious and spiritual leader delivers a preachment about devoting oneself to God while also encouraging the followers to lead a more virtuous life."
+    "desc": "A religious and spiritual leader delivers a preachment about devoting oneself to God."
   },
   {
     "start": "01:30",
@@ -206,7 +184,7 @@
     "startTs": 1775611800000,
     "stopTs": 1775615400000,
     "title": "Khabar 7 Baje",
-    "desc": "The host provides a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
+    "desc": "The host provides a detailed coverage of the latest news and developments."
   },
   {
     "start": "02:30",
@@ -217,7 +195,7 @@
     "startTs": 1775615400000,
     "stopTs": 1775619000000,
     "title": "Good Morning India",
-    "desc": "The host provides insights into the latest national and international news, current affairs and developments on a wide range of topics."
+    "desc": "The host presents the latest national and global news on a wide range of topics."
   },
   {
     "start": "03:30",
@@ -228,7 +206,7 @@
     "startTs": 1775619000000,
     "stopTs": 1775622600000,
     "title": "Superfast 100",
-    "desc": "The host presents the top 100 stories, significant updates and huge developments from the national and international front."
+    "desc": "The host presents the top 100 stories, updates and huge developments from the world."
   },
   {
     "start": "04:30",
@@ -239,7 +217,7 @@
     "startTs": 1775622600000,
     "stopTs": 1775626200000,
     "title": "Khabar 10 Baje",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "05:30",
@@ -250,7 +228,7 @@
     "startTs": 1775626200000,
     "stopTs": 1775629800000,
     "title": "Siyasat Ki Baat",
-    "desc": "The host presents a comprehensive coverage of the latest news, along with facilitating discussions with experts who offer their opinions on matters of national importance."
+    "desc": "The host conducts discussions with experts, who analyse the latest news."
   },
   {
     "start": "06:30",
@@ -260,8 +238,8 @@
     "channelName": "Update India",
     "startTs": 1775629800000,
     "stopTs": 1775633400000,
-    "title": "Update India",
-    "desc": "The host presents the most recent political, social and economic news, updates and developments from around the country."
+    "title": "Khas Khabar",
+    "desc": "The host presents the most recent political, social and economic news from the country."
   },
   {
     "start": "07:30",
@@ -272,7 +250,7 @@
     "startTs": 1775633400000,
     "stopTs": 1775637000000,
     "title": "Desh Duniya",
-    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events."
+    "desc": "The host presents important issues and provides updates on current events."
   },
   {
     "start": "08:30",
@@ -283,7 +261,7 @@
     "startTs": 1775637000000,
     "stopTs": 1775640600000,
     "title": "Update Entertainment",
-    "desc": "The host shares the latest updates and developments from the world of entertainment and shares top stories about celebrities."
+    "desc": "The host shares the latest updates and developments from the world of entertainment."
   },
   {
     "start": "09:30",
@@ -294,7 +272,7 @@
     "startTs": 1775640600000,
     "stopTs": 1775644200000,
     "title": "Top 100",
-    "desc": "The host presents a comprehensive and detailed coverage of the top 100 latest news and developments from across the region."
+    "desc": "The host presents a detailed report of the top 100 latest news and developments."
   },
   {
     "start": "10:30",
@@ -305,7 +283,7 @@
     "startTs": 1775644200000,
     "stopTs": 1775647800000,
     "title": "Reporter Live",
-    "desc": "The host sheds light on some of the most recent incidents, along with the day&apos;s top stories and events, directly from the field, live."
+    "desc": "The host presents the day&apos;s top stories and events directly from the field, live."
   },
   {
     "start": "11:30",
@@ -316,7 +294,7 @@
     "startTs": 1775647800000,
     "stopTs": 1775651400000,
     "title": "Badi Khabar",
-    "desc": "The host presents a detailed analysis of some of the most important and major news, updates and developments of the day."
+    "desc": "The host presents a detailed analysis of the top stories of the day."
   },
   {
     "start": "12:30",
@@ -327,7 +305,7 @@
     "startTs": 1775651400000,
     "stopTs": 1775655000000,
     "title": "Update India",
-    "desc": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across India."
+    "desc": "The host sheds light on the latest news updates from across India."
   },
   {
     "start": "13:30",
@@ -338,7 +316,7 @@
     "startTs": 1775655000000,
     "stopTs": 1775658600000,
     "title": "Khabar 7 Baje",
-    "desc": "The host provides a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
+    "desc": "The host provides a detailed coverage of the latest news and developments."
   },
   {
     "start": "14:30",
@@ -349,7 +327,7 @@
     "startTs": 1775658600000,
     "stopTs": 1775662200000,
     "title": "Prime Time",
-    "desc": "The host presents the latest developments and events in crucial political, social, economic and sports matters affecting the nation and the world."
+    "desc": "The host presents the latest developments and events on crucial matters."
   },
   {
     "start": "15:30",
@@ -360,7 +338,7 @@
     "startTs": 1775662200000,
     "stopTs": 1775665800000,
     "title": "India@9PM",
-    "desc": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation."
+    "desc": "The host provides a detailed report on matters concerning the nation."
   },
   {
     "start": "16:30",
@@ -371,17 +349,17 @@
     "startTs": 1775665800000,
     "stopTs": 1775669400000,
     "title": "Khabar 10 Baje",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "17:30",
-    "stop": "18:29",
+    "stop": "18:30",
     "channel": "UpdateIndia.in",
     "channelId": "UpdateIndia.in",
     "channelName": "Update India",
     "startTs": 1775669400000,
-    "stopTs": 1775672999000,
+    "stopTs": 1775673000000,
     "title": "News@11",
-    "desc": "The host presents updates on some of the latest news stories, developments and current affairs from various sectors of society."
+    "desc": "The host presents updates on some of the latest news stories and developments."
   }
 ]

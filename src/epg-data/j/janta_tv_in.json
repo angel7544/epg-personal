@@ -1,16 +1,5 @@
 [
   {
-    "start": "07:30",
-    "stop": "10:00",
-    "channel": "JantaTV.in",
-    "channelId": "JantaTV.in",
-    "channelName": "Janta TV",
-    "startTs": 1775547000000,
-    "stopTs": 1775556000000,
-    "title": "To Be Announced",
-    "desc": "Bringing the best in television."
-  },
-  {
     "start": "10:00",
     "stop": "10:30",
     "channel": "JantaTV.in",
@@ -30,7 +19,7 @@
     "startTs": 1775557800000,
     "stopTs": 1775559600000,
     "title": "4 Ki Chopaal",
-    "desc": "The host focuses on the important political and social issues of the city as well as highlights the concerns of the locals."
+    "desc": "The host speaks about political and social issues concerning the city and its residents."
   },
   {
     "start": "11:00",
@@ -66,6 +55,17 @@
     "desc": "Bringing the best in television."
   },
   {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775565000000,
+    "stopTs": 1775566800000,
+    "title": "Siyasi Akhada",
+    "desc": "The host invites various prominent personalities from different walks of life in order to have a detailed discussion on issues concerning society."
+  },
+  {
     "start": "13:00",
     "stop": "13:30",
     "channel": "JantaTV.in",
@@ -74,7 +74,7 @@
     "startTs": 1775566800000,
     "stopTs": 1775568600000,
     "title": "Bol Janta Bol",
-    "desc": "The host interviews citizens through ground reporting and tries to understand their problems related to governance, social and civic issues."
+    "desc": "The host interviews citizens through ground reporting and tries to understand their problems."
   },
   {
     "start": "13:30",
@@ -88,6 +88,17 @@
     "desc": "Bringing the best in television."
   },
   {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775570400000,
+    "stopTs": 1775572200000,
+    "title": "Up Bull",
+    "desc": "The host collates and presents the latest political, economic, social and sports updates and stories from all across Uttar Pradesh."
+  },
+  {
     "start": "14:30",
     "stop": "15:00",
     "channel": "JantaTV.in",
@@ -96,7 +107,7 @@
     "startTs": 1775572200000,
     "stopTs": 1775574000000,
     "title": "Forensic Files",
-    "desc": "The filmmaker showcases how forensic scientists and cutting-edge technology are employed to unravel the mysteries behind crimes, accidents and perplexing disease outbreaks."
+    "desc": "The filmmaker shows how forensic experts use technology to solve crimes and accidents."
   },
   {
     "start": "15:00",
@@ -118,7 +129,7 @@
     "startTs": 1775575800000,
     "stopTs": 1775577600000,
     "title": "Rubaru / Aamne-Saamne",
-    "desc": "The host invites many personalities and discusses various topics; the host discusses various aspects of life with prominent people."
+    "desc": "The host invites guests to discuss various topics; the host interacts with notable people."
   },
   {
     "start": "16:00",
@@ -140,7 +151,7 @@
     "startTs": 1775579400000,
     "stopTs": 1775581200000,
     "title": "Khabar Din Bhar",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information on various social, economic and political issues."
   },
   {
     "start": "17:00",
@@ -151,7 +162,7 @@
     "startTs": 1775581200000,
     "stopTs": 1775583000000,
     "title": "Bol Haryana Bol",
-    "desc": "The host presents a report of the latest political, social, economic and cultural news stories from around the state of Haryana."
+    "desc": "The host presents a report of the latest news stories from around Haryana."
   },
   {
     "start": "17:30",
@@ -162,18 +173,18 @@
     "startTs": 1775583000000,
     "stopTs": 1775584800000,
     "title": "Khabar Din Bhar",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information on various social, economic and political issues."
   },
   {
     "start": "18:00",
-    "stop": "18:29",
+    "stop": "18:30",
     "channel": "JantaTV.in",
     "channelId": "JantaTV.in",
     "channelName": "Janta TV",
     "startTs": 1775584800000,
-    "stopTs": 1775586599000,
+    "stopTs": 1775586600000,
     "title": "Forensic Files",
-    "desc": "The filmmaker showcases how forensic scientists and cutting-edge technology are employed to unravel the mysteries behind crimes, accidents and perplexing disease outbreaks."
+    "desc": "The filmmaker shows how forensic experts use technology to solve crimes and accidents."
   },
   {
     "start": "18:30",
@@ -184,7 +195,7 @@
     "startTs": 1775586600000,
     "stopTs": 1775588400000,
     "title": "Khabar Din Bhar",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information on various social, economic and political issues."
   },
   {
     "start": "19:00",
@@ -195,7 +206,7 @@
     "startTs": 1775588400000,
     "stopTs": 1775590200000,
     "title": "Behas Hamari Faisla Apka",
-    "desc": "Prominent leaders share their valuable insights and debate on various issues and incidents happening in and around the country."
+    "desc": "Prominent leaders share their insights and debate on various issues and incidents."
   },
   {
     "start": "19:30",
@@ -206,7 +217,7 @@
     "startTs": 1775590200000,
     "stopTs": 1775592000000,
     "title": "Behas Hamari Faisla Apka",
-    "desc": "Prominent leaders share their valuable insights and debate on various issues and incidents happening in and around the country."
+    "desc": "Prominent leaders share their insights and debate on various issues and incidents."
   },
   {
     "start": "20:00",
@@ -217,7 +228,7 @@
     "startTs": 1775592000000,
     "stopTs": 1775593800000,
     "title": "Prime Time",
-    "desc": "The host sheds light on the latest news stories and significant updates from various fields impacting people around the country."
+    "desc": "The host sheds light on the latest news stories impacting people around the country."
   },
   {
     "start": "20:30",
@@ -228,7 +239,7 @@
     "startTs": 1775593800000,
     "stopTs": 1775595600000,
     "title": "Khabar Din Bhar",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information on various social, economic and political issues."
   },
   {
     "start": "21:00",
@@ -239,7 +250,7 @@
     "startTs": 1775595600000,
     "stopTs": 1775597400000,
     "title": "Prime Time",
-    "desc": "The host sheds light on the latest news stories and significant updates from various fields impacting people around the country."
+    "desc": "The host sheds light on the latest news stories impacting people around the country."
   },
   {
     "start": "21:30",
@@ -250,7 +261,7 @@
     "startTs": 1775597400000,
     "stopTs": 1775599200000,
     "title": "Khabar Din Bhar",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information on various social, economic and political issues."
   },
   {
     "start": "22:00",
@@ -261,7 +272,7 @@
     "startTs": 1775599200000,
     "stopTs": 1775601000000,
     "title": "Prime Time",
-    "desc": "The host sheds light on the latest news stories and significant updates from various fields impacting people around the country."
+    "desc": "The host sheds light on the latest news stories impacting people around the country."
   },
   {
     "start": "22:30",
@@ -272,7 +283,7 @@
     "startTs": 1775601000000,
     "stopTs": 1775602800000,
     "title": "Khabar Din Bhar",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information on various social, economic and political issues."
   },
   {
     "start": "23:00",
@@ -283,7 +294,7 @@
     "startTs": 1775602800000,
     "stopTs": 1775604600000,
     "title": "Behas Hamari Faisla Apka",
-    "desc": "Prominent leaders share their valuable insights and debate on various issues and incidents happening in and around the country."
+    "desc": "Prominent leaders share their insights and debate on various issues and incidents."
   },
   {
     "start": "23:30",
@@ -294,7 +305,7 @@
     "startTs": 1775604600000,
     "stopTs": 1775606400000,
     "title": "Behas Hamari Faisla Apka",
-    "desc": "Prominent leaders share their valuable insights and debate on various issues and incidents happening in and around the country."
+    "desc": "Prominent leaders share their insights and debate on various issues and incidents."
   },
   {
     "start": "00:00",
@@ -305,7 +316,7 @@
     "startTs": 1775606400000,
     "stopTs": 1775608200000,
     "title": "Khabar Din Bhar",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information on various social, economic and political issues."
   },
   {
     "start": "00:30",
@@ -316,7 +327,7 @@
     "startTs": 1775608200000,
     "stopTs": 1775610000000,
     "title": "Prime Time",
-    "desc": "The host sheds light on the latest news stories and significant updates from various fields impacting people around the country."
+    "desc": "The host sheds light on the latest news stories impacting people around the country."
   },
   {
     "start": "01:00",
@@ -327,7 +338,7 @@
     "startTs": 1775610000000,
     "stopTs": 1775611800000,
     "title": "MLA",
-    "desc": "The host speaks about some of the most prominent members of the Legislative Assembly and the work done by them in their respective contingencies."
+    "desc": "The host speaks about some of the most prominent members of the Legislative Assembly."
   },
   {
     "start": "01:30",
@@ -338,7 +349,7 @@
     "startTs": 1775611800000,
     "stopTs": 1775613600000,
     "title": "Good Morning Haryana",
-    "desc": "The host presents the latest political, economic, social and sports updates and stories from all across the state of Haryana."
+    "desc": "The host presents the latest updates and stories from all across the state of Haryana."
   },
   {
     "start": "02:00",
@@ -371,7 +382,7 @@
     "startTs": 1775617200000,
     "stopTs": 1775619000000,
     "title": "Bol Janta Bol",
-    "desc": "The host interviews citizens through ground reporting and tries to understand their problems related to governance, social and civic issues."
+    "desc": "The host interviews citizens through ground reporting and tries to understand their problems."
   },
   {
     "start": "03:30",
@@ -382,7 +393,7 @@
     "startTs": 1775619000000,
     "stopTs": 1775620800000,
     "title": "Behas Hamari Faisla Apka",
-    "desc": "Prominent leaders share their valuable insights and debate on various issues and incidents happening in and around the country."
+    "desc": "Prominent leaders share their insights and debate on various issues and incidents."
   },
   {
     "start": "04:00",
@@ -393,7 +404,7 @@
     "startTs": 1775620800000,
     "stopTs": 1775622600000,
     "title": "Behas Hamari Faisla Apka",
-    "desc": "Prominent leaders share their valuable insights and debate on various issues and incidents happening in and around the country."
+    "desc": "Prominent leaders share their insights and debate on various issues and incidents."
   },
   {
     "start": "04:30",
@@ -426,7 +437,7 @@
     "startTs": 1775626200000,
     "stopTs": 1775628000000,
     "title": "Bulletin / Bol Janta Bol",
-    "desc": "The host discusses significant problems and issues with the public, to understand their concerns, and also shares the latest news and recent updates on various crucial matters of the country."
+    "desc": "The host discusses significant issues with the public to understand their concerns."
   },
   {
     "start": "06:00",
@@ -448,7 +459,7 @@
     "startTs": 1775629800000,
     "stopTs": 1775631600000,
     "title": "Manthan",
-    "desc": "A group of young professionals host insightful discussions with distinguished scholars and experts, providing their perspective on pressing social, political and cultural issues."
+    "desc": "A group of young professionals host insightful discussions with scholars and experts."
   },
   {
     "start": "07:00",
@@ -473,6 +484,50 @@
     "desc": "Bringing the best in television."
   },
   {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775635200000,
+    "stopTs": 1775637000000,
+    "title": "Up Bull",
+    "desc": "The host collates and presents the latest political, economic, social and sports updates and stories from all across Uttar Pradesh."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775637000000,
+    "stopTs": 1775638800000,
+    "title": "Apna Himachal Bull",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Himachal Pradesh."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775638800000,
+    "stopTs": 1775640600000,
+    "title": "Haryana Top 50 + Superfast",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Haryana."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775640600000,
+    "stopTs": 1775642400000,
+    "title": "3 Baje 3 Badi Khabrein",
+    "desc": "The host provides information on the latest top 3 news updates on politics, business, entertainment, science, sports and current events."
+  },
+  {
     "start": "10:00",
     "stop": "10:30",
     "channel": "JantaTV.in",
@@ -492,7 +547,7 @@
     "startTs": 1775644200000,
     "stopTs": 1775646000000,
     "title": "4 Ki Chopaal",
-    "desc": "The host focuses on the important political and social issues of the city as well as highlights the concerns of the locals."
+    "desc": "The host speaks about political and social issues concerning the city and its residents."
   },
   {
     "start": "11:00",
@@ -528,6 +583,17 @@
     "desc": "Bringing the best in television."
   },
   {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775651400000,
+    "stopTs": 1775653200000,
+    "title": "Siyasi Akhada",
+    "desc": "The host invites various prominent personalities from different walks of life in order to have a detailed discussion on issues concerning society."
+  },
+  {
     "start": "13:00",
     "stop": "13:30",
     "channel": "JantaTV.in",
@@ -536,7 +602,7 @@
     "startTs": 1775653200000,
     "stopTs": 1775655000000,
     "title": "Bol Janta Bol",
-    "desc": "The host interviews citizens through ground reporting and tries to understand their problems related to governance, social and civic issues."
+    "desc": "The host interviews citizens through ground reporting and tries to understand their problems."
   },
   {
     "start": "13:30",
@@ -550,6 +616,17 @@
     "desc": "Bringing the best in television."
   },
   {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775656800000,
+    "stopTs": 1775658600000,
+    "title": "Up Bull",
+    "desc": "The host collates and presents the latest political, economic, social and sports updates and stories from all across Uttar Pradesh."
+  },
+  {
     "start": "14:30",
     "stop": "15:00",
     "channel": "JantaTV.in",
@@ -558,7 +635,7 @@
     "startTs": 1775658600000,
     "stopTs": 1775660400000,
     "title": "Forensic Files",
-    "desc": "The filmmaker showcases how forensic scientists and cutting-edge technology are employed to unravel the mysteries behind crimes, accidents and perplexing disease outbreaks."
+    "desc": "The filmmaker shows how forensic experts use technology to solve crimes and accidents."
   },
   {
     "start": "15:00",
@@ -580,7 +657,7 @@
     "startTs": 1775662200000,
     "stopTs": 1775664000000,
     "title": "Rubaru / Aamne-Saamne",
-    "desc": "The host invites many personalities and discusses various topics; the host discusses various aspects of life with prominent people."
+    "desc": "The host invites guests to discuss various topics; the host interacts with notable people."
   },
   {
     "start": "16:00",
@@ -602,7 +679,7 @@
     "startTs": 1775665800000,
     "stopTs": 1775667600000,
     "title": "Khabar Din Bhar",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information on various social, economic and political issues."
   },
   {
     "start": "17:00",
@@ -613,7 +690,7 @@
     "startTs": 1775667600000,
     "stopTs": 1775669400000,
     "title": "Bol Haryana Bol",
-    "desc": "The host presents a report of the latest political, social, economic and cultural news stories from around the state of Haryana."
+    "desc": "The host presents a report of the latest news stories from around Haryana."
   },
   {
     "start": "17:30",
@@ -624,17 +701,380 @@
     "startTs": 1775669400000,
     "stopTs": 1775671200000,
     "title": "Khabar Din Bhar",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information on various social, economic and political issues."
   },
   {
     "start": "18:00",
-    "stop": "18:29",
+    "stop": "18:30",
     "channel": "JantaTV.in",
     "channelId": "JantaTV.in",
     "channelName": "Janta TV",
     "startTs": 1775671200000,
-    "stopTs": 1775672999000,
+    "stopTs": 1775673000000,
     "title": "Forensic Files",
-    "desc": "The filmmaker showcases how forensic scientists and cutting-edge technology are employed to unravel the mysteries behind crimes, accidents and perplexing disease outbreaks."
+    "desc": "The filmmaker shows how forensic experts use technology to solve crimes and accidents."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775673000000,
+    "stopTs": 1775674800000,
+    "title": "Haryana Prime Time Bulletin",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Haryana."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775674800000,
+    "stopTs": 1775676600000,
+    "title": "Superfast News",
+    "desc": "The host presents a detailed report of the top stories of the day pertaining to society, politics, economy and sports, live."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775676600000,
+    "stopTs": 1775678400000,
+    "title": "Vishesh",
+    "desc": "The host presents the latest news, recent updates and developments from the fields of sports, entertainment and politics."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775678400000,
+    "stopTs": 1775680200000,
+    "title": "Superfast News",
+    "desc": "The host presents a detailed report of the top stories of the day pertaining to society, politics, economy and sports, live."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775680200000,
+    "stopTs": 1775682000000,
+    "title": "Vishesh",
+    "desc": "The host presents the latest news, recent updates and developments from the fields of sports, entertainment and politics."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775682000000,
+    "stopTs": 1775683800000,
+    "title": "Superfast News",
+    "desc": "The host presents a detailed report of the top stories of the day pertaining to society, politics, economy and sports, live."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775683800000,
+    "stopTs": 1775685600000,
+    "title": "Vishesh",
+    "desc": "The host presents the latest news, recent updates and developments from the fields of sports, entertainment and politics."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775685600000,
+    "stopTs": 1775687400000,
+    "title": "Haryana Top 50 + Superfast",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Haryana."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775687400000,
+    "stopTs": 1775689200000,
+    "title": "Janta Reporter",
+    "desc": "The host presents a round-up of the most recent and significant political and economic news stories and updates from around the world."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775689200000,
+    "stopTs": 1775691000000,
+    "title": "Vishesh",
+    "desc": "The host presents the latest news, recent updates and developments from the fields of sports, entertainment and politics."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775691000000,
+    "stopTs": 1775692800000,
+    "title": "Haryana Prime Time Bulletin",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Haryana."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775692800000,
+    "stopTs": 1775694600000,
+    "title": "Himachal Prime",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Himachal Pradesh."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775694600000,
+    "stopTs": 1775696400000,
+    "title": "Haryana Prime Time Bulletin",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Haryana."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775696400000,
+    "stopTs": 1775698200000,
+    "title": "Superfast News",
+    "desc": "The host presents a detailed report of the top stories of the day pertaining to society, politics, economy and sports, live."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775698200000,
+    "stopTs": 1775700000000,
+    "title": "Haryana Suprabhat Bulletin",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Haryana."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775700000000,
+    "stopTs": 1775701800000,
+    "title": "Superfast News",
+    "desc": "The host presents a detailed report of the top stories of the day pertaining to society, politics, economy and sports, live."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775701800000,
+    "stopTs": 1775703600000,
+    "title": "Haryana Morning Bulletin",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Haryana."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775703600000,
+    "stopTs": 1775705400000,
+    "title": "Haryana Top 50 + Janta Reporter",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Haryana."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775705400000,
+    "stopTs": 1775707200000,
+    "title": "Pahad Prabhat (Himachal Bull",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Himachal Pradesh."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775707200000,
+    "stopTs": 1775709000000,
+    "title": "Superfast News",
+    "desc": "The host presents a detailed report of the top stories of the day pertaining to society, politics, economy and sports, live."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775709000000,
+    "stopTs": 1775710800000,
+    "title": "Haryana Bulletin",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Haryana."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775710800000,
+    "stopTs": 1775712600000,
+    "title": "Up Bulletin",
+    "desc": "The host collates and presents the latest political, economic, social and sports updates and stories from all across Uttar Pradesh."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775712600000,
+    "stopTs": 1775714400000,
+    "title": "Haryana Special",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Haryana."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775714400000,
+    "stopTs": 1775716200000,
+    "title": "Haryana Top 50 + Superfast",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Haryana."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775716200000,
+    "stopTs": 1775718000000,
+    "title": "Haryana Bull",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Haryana."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775718000000,
+    "stopTs": 1775719800000,
+    "title": "Haryana Top 50 + Superfast",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Haryana."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775719800000,
+    "stopTs": 1775721600000,
+    "title": "Haryana Bull",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Haryana."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775721600000,
+    "stopTs": 1775723400000,
+    "title": "Up Bull",
+    "desc": "The host collates and presents the latest political, economic, social and sports updates and stories from all across Uttar Pradesh."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775723400000,
+    "stopTs": 1775725200000,
+    "title": "Apna Himachal Bull",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Himachal Pradesh."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775725200000,
+    "stopTs": 1775727000000,
+    "title": "Haryana Top 50 + Superfast",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Haryana."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775727000000,
+    "stopTs": 1775728800000,
+    "title": "3 Baje 3 Badi Khabrein",
+    "desc": "The host provides information on the latest top 3 news updates on politics, business, entertainment, science, sports and current events."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775728800000,
+    "stopTs": 1775730600000,
+    "title": "Haryana Top 50 + Superfast",
+    "desc": "A journalist reports the latest news stories, current events and socio-economic developments emerging from Haryana."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "JantaTV.in",
+    "channelId": "JantaTV.in",
+    "channelName": "Janta TV",
+    "startTs": 1775730600000,
+    "stopTs": 1775732400000,
+    "title": "Vishesh",
+    "desc": "The host presents the latest news, recent updates and developments from the fields of sports, entertainment and politics."
   }
 ]

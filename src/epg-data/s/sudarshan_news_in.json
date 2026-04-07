@@ -1,38 +1,5 @@
 [
   {
-    "start": "08:28",
-    "stop": "08:58",
-    "channel": "SudarshanNews.in",
-    "channelId": "SudarshanNews.in",
-    "channelName": "Sudarshan News",
-    "startTs": 1775550480000,
-    "stopTs": 1775552280000,
-    "title": "News Bulletin",
-    "desc": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe."
-  },
-  {
-    "start": "08:58",
-    "stop": "09:28",
-    "channel": "SudarshanNews.in",
-    "channelId": "SudarshanNews.in",
-    "channelName": "Sudarshan News",
-    "startTs": 1775552280000,
-    "stopTs": 1775554080000,
-    "title": "Superfast 100",
-    "desc": "The host presents the top 100 stories, significant updates and huge developments from the national and international front."
-  },
-  {
-    "start": "09:28",
-    "stop": "10:00",
-    "channel": "SudarshanNews.in",
-    "channelId": "SudarshanNews.in",
-    "channelName": "Sudarshan News",
-    "startTs": 1775554080000,
-    "stopTs": 1775556000000,
-    "title": "Paksh Vipaksh",
-    "desc": "Individuals share their perspectives on the elections and their views on the role of the country&apos;s leaders in boosting development."
-  },
-  {
     "start": "10:00",
     "stop": "10:30",
     "channel": "SudarshanNews.in",
@@ -52,7 +19,7 @@
     "startTs": 1775557800000,
     "stopTs": 1775559600000,
     "title": "Apna Uttrakhand",
-    "desc": "The host presents the latest updates, developments and current events on various important issues in the state of Uttarakhand."
+    "desc": "The host presents the latest updates on various important issues in Uttarakhand."
   },
   {
     "start": "11:00",
@@ -63,7 +30,40 @@
     "startTs": 1775559600000,
     "stopTs": 1775560860000,
     "title": "World Watch World War",
-    "desc": "The host presents a comprehensive and detailed coverage, elucidating on the latest defence and geopolitical news from across the globe."
+    "desc": "The host sheds light on the latest defence and geopolitical news from across the globe."
+  },
+  {
+    "start": "11:05",
+    "stop": "11:07",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775559900000,
+    "stopTs": 1775560020000,
+    "title": "Evening News",
+    "desc": "The host delivers national and international news on the Evening News show."
+  },
+  {
+    "start": "11:07",
+    "stop": "11:11",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775560020000,
+    "stopTs": 1775560260000,
+    "title": "Satta Ka Mahasangram",
+    "desc": "A lively debate show where guests discuss pressing issues with the host."
+  },
+  {
+    "start": "11:11",
+    "stop": "12:28",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775560260000,
+    "stopTs": 1775564880000,
+    "title": "Super Fast 100",
+    "desc": "The host shares the day&apos;s top 100 news stories in Super Fast 100."
   },
   {
     "start": "11:21",
@@ -74,7 +74,7 @@
     "startTs": 1775560860000,
     "stopTs": 1775561280000,
     "title": "5 Min 25 Khabar",
-    "desc": "The host presents a comprehensive and detailed coverage of the top twenty five latest news and developments in five minutes."
+    "desc": "The host presents the top 25 latest news and developments in five minutes."
   },
   {
     "start": "11:28",
@@ -85,7 +85,7 @@
     "startTs": 1775561280000,
     "stopTs": 1775563800000,
     "title": "Satta Ka Mahasangram",
-    "desc": "The host provides a comprehensive and detailed report, elucidating on the latest election news and developments from across the region."
+    "desc": "The host provides a detailed insight into the latest election news."
   },
   {
     "start": "12:10",
@@ -96,7 +96,7 @@
     "startTs": 1775563800000,
     "stopTs": 1775564880000,
     "title": "Superfast 100",
-    "desc": "The host presents the top 100 stories, significant updates and huge developments from the national and international front."
+    "desc": "The host presents the top 100 stories, updates and huge developments from the world."
   },
   {
     "start": "12:28",
@@ -107,7 +107,7 @@
     "startTs": 1775564880000,
     "stopTs": 1775567400000,
     "title": "Rankshetra",
-    "desc": "The presenter discusses ongoing national issues of communal, political and economical natures to share relevant updates on their progress and impacts."
+    "desc": "The presenter shares updates on the progress and impacts of current national affairs."
   },
   {
     "start": "13:10",
@@ -118,7 +118,7 @@
     "startTs": 1775567400000,
     "stopTs": 1775568480000,
     "title": "Superfast 100",
-    "desc": "The host presents the top 100 stories, significant updates and huge developments from the national and international front."
+    "desc": "The host presents the top 100 stories, updates and huge developments from the world."
   },
   {
     "start": "13:28",
@@ -129,7 +129,7 @@
     "startTs": 1775568480000,
     "stopTs": 1775571000000,
     "title": "Jawab To Chahia",
-    "desc": "The host invites various experts from different fields to analyse their expert opinions about important matters of the country."
+    "desc": "The host invites experts from different fields to discuss urgent matters of the country."
   },
   {
     "start": "14:10",
@@ -140,7 +140,7 @@
     "startTs": 1775571000000,
     "stopTs": 1775571960000,
     "title": "Superfast 100",
-    "desc": "The host presents the top 100 stories, significant updates and huge developments from the national and international front."
+    "desc": "The host presents the top 100 stories, updates and huge developments from the world."
   },
   {
     "start": "14:26",
@@ -151,7 +151,7 @@
     "startTs": 1775571960000,
     "stopTs": 1775575680000,
     "title": "Jaago",
-    "desc": "The host presents a report of the latest news stories about political, social, economic and cultural topics from around the region."
+    "desc": "The host presents a report of the latest news stories from the region."
   },
   {
     "start": "15:28",
@@ -162,7 +162,7 @@
     "startTs": 1775575680000,
     "stopTs": 1775577480000,
     "title": "Janmat",
-    "desc": "The host interacts with the locals who share their perspectives on various matters pertaining to the nation and the world."
+    "desc": "The host covers ongoing issues related to various topics impacting citizens."
   },
   {
     "start": "15:58",
@@ -173,7 +173,7 @@
     "startTs": 1775577480000,
     "stopTs": 1775579160000,
     "title": "Janmat",
-    "desc": "The host interacts with the locals who share their perspectives on various matters pertaining to the nation and the world."
+    "desc": "The host covers ongoing issues related to various topics impacting citizens."
   },
   {
     "start": "16:26",
@@ -184,7 +184,7 @@
     "startTs": 1775579160000,
     "stopTs": 1775579520000,
     "title": "5 Min 25 Khabar",
-    "desc": "The host presents a comprehensive and detailed coverage of the top twenty five latest news and developments in five minutes."
+    "desc": "The host presents the top 25 latest news and developments in five minutes."
   },
   {
     "start": "16:32",
@@ -195,7 +195,7 @@
     "startTs": 1775579520000,
     "stopTs": 1775581200000,
     "title": "10 Ki Baat",
-    "desc": "The host provides the latest information, advancements and developments regarding various political, economic and social issues."
+    "desc": "The host provides the latest updates on various political, economic and social issues."
   },
   {
     "start": "17:00",
@@ -206,7 +206,7 @@
     "startTs": 1775581200000,
     "stopTs": 1775582280000,
     "title": "Sai Arti",
-    "desc": "Hindu priests and the devotees recite hymns and religious chants in praise of Sai Baba of Shirdi and seek his blessings."
+    "desc": "Hindu priests and the devotees chant religious hymns in praise of Sai Baba of Shirdi."
   },
   {
     "start": "17:18",
@@ -217,7 +217,7 @@
     "startTs": 1775582280000,
     "stopTs": 1775583000000,
     "title": "5 Min 25 Khabar",
-    "desc": "The host presents a comprehensive and detailed coverage of the top twenty five latest news and developments in five minutes."
+    "desc": "The host presents the top 25 latest news and developments in five minutes."
   },
   {
     "start": "17:30",
@@ -228,7 +228,7 @@
     "startTs": 1775583000000,
     "stopTs": 1775586600000,
     "title": "Jaago",
-    "desc": "The host presents a report of the latest news stories about political, social, economic and cultural topics from around the region."
+    "desc": "The host presents a report of the latest news stories from the region."
   },
   {
     "start": "18:30",
@@ -239,7 +239,18 @@
     "startTs": 1775586600000,
     "stopTs": 1775608200000,
     "title": "Janmat",
-    "desc": "The host interacts with the locals who share their perspectives on various matters pertaining to the nation and the world."
+    "desc": "The host covers ongoing issues related to various topics impacting citizens."
+  },
+  {
+    "start": "21:30",
+    "stop": "00:30",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775597400000,
+    "stopTs": 1775608200000,
+    "title": "Jaago",
+    "desc": "Join the host of Jaago as they discuss today&apos;s biggest news stories!"
   },
   {
     "start": "00:30",
@@ -250,7 +261,7 @@
     "startTs": 1775608200000,
     "stopTs": 1775611800000,
     "title": "Jaago",
-    "desc": "The host presents a report of the latest news stories about political, social, economic and cultural topics from around the region."
+    "desc": "The host presents a report of the latest news stories from the region."
   },
   {
     "start": "01:30",
@@ -261,7 +272,7 @@
     "startTs": 1775611800000,
     "stopTs": 1775613600000,
     "title": "Apna Uttrakhand",
-    "desc": "The host presents the latest updates, developments and current events on various important issues in the state of Uttarakhand."
+    "desc": "The host presents the latest updates on various important issues in Uttarakhand."
   },
   {
     "start": "02:00",
@@ -272,7 +283,7 @@
     "startTs": 1775613600000,
     "stopTs": 1775615280000,
     "title": "Superfast 100",
-    "desc": "The host presents the top 100 stories, significant updates and huge developments from the national and international front."
+    "desc": "The host presents the top 100 stories, updates and huge developments from the world."
   },
   {
     "start": "02:28",
@@ -283,7 +294,7 @@
     "startTs": 1775615280000,
     "stopTs": 1775616720000,
     "title": "Suprabhat Hindustan",
-    "desc": "The host delivers a range of uplifting messages and virtuous anecdotes to the audience and shares astrological forecasts for the day."
+    "desc": "The host shares motivational thoughts and ethical tales to engage the audience."
   },
   {
     "start": "02:52",
@@ -294,7 +305,7 @@
     "startTs": 1775616720000,
     "stopTs": 1775617200000,
     "title": "5 Min 25 Khabar",
-    "desc": "The host presents a comprehensive and detailed coverage of the top twenty five latest news and developments in five minutes."
+    "desc": "The host presents the top 25 latest news and developments in five minutes."
   },
   {
     "start": "03:00",
@@ -305,7 +316,7 @@
     "startTs": 1775617200000,
     "stopTs": 1775620800000,
     "title": "Jaago",
-    "desc": "The host presents a report of the latest news stories about political, social, economic and cultural topics from around the region."
+    "desc": "The host presents a report of the latest news stories from the region."
   },
   {
     "start": "04:00",
@@ -316,7 +327,7 @@
     "startTs": 1775620800000,
     "stopTs": 1775622600000,
     "title": "Superfast 100",
-    "desc": "The host presents the top 100 stories, significant updates and huge developments from the national and international front."
+    "desc": "The host presents the top 100 stories, updates and huge developments from the world."
   },
   {
     "start": "04:30",
@@ -327,7 +338,7 @@
     "startTs": 1775622600000,
     "stopTs": 1775622900000,
     "title": "5 Min 25 Khabar",
-    "desc": "The host presents a comprehensive and detailed coverage of the top twenty five latest news and developments in five minutes."
+    "desc": "The host presents the top 25 latest news and developments in five minutes."
   },
   {
     "start": "04:35",
@@ -338,7 +349,7 @@
     "startTs": 1775622900000,
     "stopTs": 1775624400000,
     "title": "News Bulletin",
-    "desc": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe."
+    "desc": "The host presents the latest news stories pertaining to various issues around the globe."
   },
   {
     "start": "05:00",
@@ -360,7 +371,7 @@
     "startTs": 1775625960000,
     "stopTs": 1775626440000,
     "title": "5 Min 25 Khabar",
-    "desc": "The host presents a comprehensive and detailed coverage of the top twenty five latest news and developments in five minutes."
+    "desc": "The host presents the top 25 latest news and developments in five minutes."
   },
   {
     "start": "05:34",
@@ -371,7 +382,7 @@
     "startTs": 1775626440000,
     "stopTs": 1775627580000,
     "title": "Bulletin",
-    "desc": "The host presents latest news highlights and updates from India and around the world in the political, economic and social sectors."
+    "desc": "The host presents latest news highlights and updates from India and around the world."
   },
   {
     "start": "05:53",
@@ -382,7 +393,7 @@
     "startTs": 1775627580000,
     "stopTs": 1775627880000,
     "title": "Flood News",
-    "desc": "The host provides a comprehensive account of the destruction caused by the floods and its impact on people&apos;s daily lives."
+    "desc": "The host provides a comprehensive account of the destruction caused by the floods."
   },
   {
     "start": "05:58",
@@ -393,7 +404,7 @@
     "startTs": 1775627880000,
     "stopTs": 1775629620000,
     "title": "Superfast 100",
-    "desc": "The host presents the top 100 stories, significant updates and huge developments from the national and international front."
+    "desc": "The host presents the top 100 stories, updates and huge developments from the world."
   },
   {
     "start": "06:27",
@@ -404,7 +415,7 @@
     "startTs": 1775629620000,
     "stopTs": 1775631420000,
     "title": "Reporter Live",
-    "desc": "The host sheds light on some of the most recent incidents, along with the day&apos;s top stories and events, directly from the field, live."
+    "desc": "The host presents the day&apos;s top stories and events directly from the field, live."
   },
   {
     "start": "06:57",
@@ -415,7 +426,7 @@
     "startTs": 1775631420000,
     "stopTs": 1775633400000,
     "title": "Khabar Dopahar",
-    "desc": "The host presents detailed information on the latest news stories, updates on current events and various other important matters."
+    "desc": "An afternoon segment provides an overview of the day&apos;s newsworthy events and stories."
   },
   {
     "start": "07:30",
@@ -426,7 +437,7 @@
     "startTs": 1775633400000,
     "stopTs": 1775635080000,
     "title": "Apna Uttrakhand",
-    "desc": "The host presents the latest updates, developments and current events on various important issues in the state of Uttarakhand."
+    "desc": "The host presents the latest updates on various important issues in Uttarakhand."
   },
   {
     "start": "07:58",
@@ -437,7 +448,7 @@
     "startTs": 1775635080000,
     "stopTs": 1775636880000,
     "title": "News Bulletin",
-    "desc": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe."
+    "desc": "The host presents the latest news stories pertaining to various issues around the globe."
   },
   {
     "start": "08:28",
@@ -448,7 +459,7 @@
     "startTs": 1775636880000,
     "stopTs": 1775638680000,
     "title": "News Bulletin",
-    "desc": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe."
+    "desc": "The host presents the latest news stories pertaining to various issues around the globe."
   },
   {
     "start": "08:58",
@@ -459,7 +470,7 @@
     "startTs": 1775638680000,
     "stopTs": 1775640480000,
     "title": "Superfast 100",
-    "desc": "The host presents the top 100 stories, significant updates and huge developments from the national and international front."
+    "desc": "The host presents the top 100 stories, updates and huge developments from the world."
   },
   {
     "start": "09:28",
@@ -470,7 +481,7 @@
     "startTs": 1775640480000,
     "stopTs": 1775642400000,
     "title": "Paksh Vipaksh",
-    "desc": "Individuals share their perspectives on the elections and their views on the role of the country&apos;s leaders in boosting development."
+    "desc": "Individuals share their views on elections and the role of leaders in development."
   },
   {
     "start": "10:00",
@@ -492,7 +503,7 @@
     "startTs": 1775644200000,
     "stopTs": 1775646000000,
     "title": "Apna Uttrakhand",
-    "desc": "The host presents the latest updates, developments and current events on various important issues in the state of Uttarakhand."
+    "desc": "The host presents the latest updates on various important issues in Uttarakhand."
   },
   {
     "start": "11:00",
@@ -503,7 +514,40 @@
     "startTs": 1775646000000,
     "stopTs": 1775647260000,
     "title": "World Watch World War",
-    "desc": "The host presents a comprehensive and detailed coverage, elucidating on the latest defence and geopolitical news from across the globe."
+    "desc": "The host sheds light on the latest defence and geopolitical news from across the globe."
+  },
+  {
+    "start": "11:05",
+    "stop": "11:07",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775646300000,
+    "stopTs": 1775646420000,
+    "title": "Evening News",
+    "desc": "The host delivers national and international news on the Evening News show."
+  },
+  {
+    "start": "11:07",
+    "stop": "11:11",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775646420000,
+    "stopTs": 1775646660000,
+    "title": "Satta Ka Mahasangram",
+    "desc": "A lively debate show where guests discuss pressing issues with the host."
+  },
+  {
+    "start": "11:11",
+    "stop": "12:28",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775646660000,
+    "stopTs": 1775651280000,
+    "title": "Super Fast 100",
+    "desc": "The host shares the day&apos;s top 100 news stories in Super Fast 100."
   },
   {
     "start": "11:21",
@@ -514,7 +558,7 @@
     "startTs": 1775647260000,
     "stopTs": 1775647680000,
     "title": "5 Min 25 Khabar",
-    "desc": "The host presents a comprehensive and detailed coverage of the top twenty five latest news and developments in five minutes."
+    "desc": "The host presents the top 25 latest news and developments in five minutes."
   },
   {
     "start": "11:28",
@@ -525,7 +569,7 @@
     "startTs": 1775647680000,
     "stopTs": 1775650200000,
     "title": "Satta Ka Mahasangram",
-    "desc": "The host provides a comprehensive and detailed report, elucidating on the latest election news and developments from across the region."
+    "desc": "The host provides a detailed insight into the latest election news."
   },
   {
     "start": "12:10",
@@ -536,7 +580,7 @@
     "startTs": 1775650200000,
     "stopTs": 1775651280000,
     "title": "Superfast 100",
-    "desc": "The host presents the top 100 stories, significant updates and huge developments from the national and international front."
+    "desc": "The host presents the top 100 stories, updates and huge developments from the world."
   },
   {
     "start": "12:28",
@@ -547,7 +591,7 @@
     "startTs": 1775651280000,
     "stopTs": 1775653800000,
     "title": "Rankshetra",
-    "desc": "The presenter discusses ongoing national issues of communal, political and economical natures to share relevant updates on their progress and impacts."
+    "desc": "The presenter shares updates on the progress and impacts of current national affairs."
   },
   {
     "start": "13:10",
@@ -558,7 +602,7 @@
     "startTs": 1775653800000,
     "stopTs": 1775654880000,
     "title": "Superfast 100",
-    "desc": "The host presents the top 100 stories, significant updates and huge developments from the national and international front."
+    "desc": "The host presents the top 100 stories, updates and huge developments from the world."
   },
   {
     "start": "13:28",
@@ -569,7 +613,7 @@
     "startTs": 1775654880000,
     "stopTs": 1775657400000,
     "title": "Jawab To Chahia",
-    "desc": "The host invites various experts from different fields to analyse their expert opinions about important matters of the country."
+    "desc": "The host invites experts from different fields to discuss urgent matters of the country."
   },
   {
     "start": "14:10",
@@ -580,7 +624,7 @@
     "startTs": 1775657400000,
     "stopTs": 1775658360000,
     "title": "Superfast 100",
-    "desc": "The host presents the top 100 stories, significant updates and huge developments from the national and international front."
+    "desc": "The host presents the top 100 stories, updates and huge developments from the world."
   },
   {
     "start": "14:26",
@@ -591,7 +635,7 @@
     "startTs": 1775658360000,
     "stopTs": 1775662080000,
     "title": "Jaago",
-    "desc": "The host presents a report of the latest news stories about political, social, economic and cultural topics from around the region."
+    "desc": "The host presents a report of the latest news stories from the region."
   },
   {
     "start": "15:28",
@@ -602,7 +646,7 @@
     "startTs": 1775662080000,
     "stopTs": 1775663880000,
     "title": "Janmat",
-    "desc": "The host interacts with the locals who share their perspectives on various matters pertaining to the nation and the world."
+    "desc": "The host covers ongoing issues related to various topics impacting citizens."
   },
   {
     "start": "15:58",
@@ -613,7 +657,7 @@
     "startTs": 1775663880000,
     "stopTs": 1775665560000,
     "title": "Janmat",
-    "desc": "The host interacts with the locals who share their perspectives on various matters pertaining to the nation and the world."
+    "desc": "The host covers ongoing issues related to various topics impacting citizens."
   },
   {
     "start": "16:26",
@@ -624,7 +668,7 @@
     "startTs": 1775665560000,
     "stopTs": 1775665920000,
     "title": "5 Min 25 Khabar",
-    "desc": "The host presents a comprehensive and detailed coverage of the top twenty five latest news and developments in five minutes."
+    "desc": "The host presents the top 25 latest news and developments in five minutes."
   },
   {
     "start": "16:32",
@@ -635,7 +679,7 @@
     "startTs": 1775665920000,
     "stopTs": 1775667600000,
     "title": "10 Ki Baat",
-    "desc": "The host provides the latest information, advancements and developments regarding various political, economic and social issues."
+    "desc": "The host provides the latest updates on various political, economic and social issues."
   },
   {
     "start": "17:00",
@@ -646,7 +690,7 @@
     "startTs": 1775667600000,
     "stopTs": 1775668680000,
     "title": "Sai Arti",
-    "desc": "Hindu priests and the devotees recite hymns and religious chants in praise of Sai Baba of Shirdi and seek his blessings."
+    "desc": "Hindu priests and the devotees chant religious hymns in praise of Sai Baba of Shirdi."
   },
   {
     "start": "17:18",
@@ -657,7 +701,7 @@
     "startTs": 1775668680000,
     "stopTs": 1775669400000,
     "title": "5 Min 25 Khabar",
-    "desc": "The host presents a comprehensive and detailed coverage of the top twenty five latest news and developments in five minutes."
+    "desc": "The host presents the top 25 latest news and developments in five minutes."
   },
   {
     "start": "17:30",
@@ -668,6 +712,281 @@
     "startTs": 1775669400000,
     "stopTs": 1775673000000,
     "title": "Jaago",
-    "desc": "The host presents a report of the latest news stories about political, social, economic and cultural topics from around the region."
+    "desc": "The host presents a report of the latest news stories from the region."
+  },
+  {
+    "start": "18:30",
+    "stop": "21:30",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775673000000,
+    "stopTs": 1775683800000,
+    "title": "Jaago",
+    "desc": "Join the host of Jaago as they discuss today&apos;s biggest news stories!"
+  },
+  {
+    "start": "21:30",
+    "stop": "00:30",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775683800000,
+    "stopTs": 1775694600000,
+    "title": "Jaago",
+    "desc": "Join the host of Jaago as they discuss today&apos;s biggest news stories!"
+  },
+  {
+    "start": "00:30",
+    "stop": "01:30",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775694600000,
+    "stopTs": 1775698200000,
+    "title": "Jaago",
+    "desc": "Join the host of Jaago as they discuss today&apos;s biggest news stories!"
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775698200000,
+    "stopTs": 1775700000000,
+    "title": "Apna Uttrakhand",
+    "desc": "Catch Sudarshan News Live anytime for Uttarakhand stories on &apos;Apna Uttarakhand&apos;!"
+  },
+  {
+    "start": "02:00",
+    "stop": "02:28",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775700000000,
+    "stopTs": 1775701680000,
+    "title": "Super Fast 100",
+    "desc": "The host shares the day&apos;s top 100 news stories in Super Fast 100."
+  },
+  {
+    "start": "02:28",
+    "stop": "02:52",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775701680000,
+    "stopTs": 1775703120000,
+    "title": "Suprabhat Hindustan",
+    "desc": "The Host covers the latest news and updates on social issues and politics."
+  },
+  {
+    "start": "02:52",
+    "stop": "03:00",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775703120000,
+    "stopTs": 1775703600000,
+    "title": "5 Min 25 Khabar",
+    "desc": "Catch the latest news and developments in this fast-paced news module."
+  },
+  {
+    "start": "03:00",
+    "stop": "04:00",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775703600000,
+    "stopTs": 1775707200000,
+    "title": "Jaago",
+    "desc": "Join the host of Jaago as they discuss today&apos;s biggest news stories!"
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775707200000,
+    "stopTs": 1775709000000,
+    "title": "Super Fast 100",
+    "desc": "The host shares the day&apos;s top 100 news stories in Super Fast 100."
+  },
+  {
+    "start": "04:30",
+    "stop": "04:35",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775709000000,
+    "stopTs": 1775709300000,
+    "title": "5 Min 25 Khabar",
+    "desc": "Catch the latest news and developments in this fast-paced news module."
+  },
+  {
+    "start": "04:35",
+    "stop": "05:00",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775709300000,
+    "stopTs": 1775710800000,
+    "title": "News Bulletin",
+    "desc": "Latest News and developments of the day."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:26",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775710800000,
+    "stopTs": 1775712360000,
+    "title": "Promotional Content",
+    "desc": "A fun show featuring ads and promotions, hosted with flair and enthusiasm!"
+  },
+  {
+    "start": "05:26",
+    "stop": "05:34",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775712360000,
+    "stopTs": 1775712840000,
+    "title": "5 Min 25 Khabar",
+    "desc": "Catch the latest news and developments in this fast-paced news module."
+  },
+  {
+    "start": "05:34",
+    "stop": "05:53",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775712840000,
+    "stopTs": 1775713980000,
+    "title": "Bulletin",
+    "desc": "Latest News and developments of the day, with focus on the big stories."
+  },
+  {
+    "start": "05:53",
+    "stop": "05:58",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775713980000,
+    "stopTs": 1775714280000,
+    "title": "Flood News",
+    "desc": "The host shares the latest socio-political news from rural Maharashtra. Stay informed!"
+  },
+  {
+    "start": "05:58",
+    "stop": "06:27",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775714280000,
+    "stopTs": 1775716020000,
+    "title": "Super Fast 100",
+    "desc": "The host shares the day&apos;s top 100 news stories in Super Fast 100."
+  },
+  {
+    "start": "06:27",
+    "stop": "06:57",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775716020000,
+    "stopTs": 1775717820000,
+    "title": "Reporter Live",
+    "desc": "Our reporters bring you the latest news and developments from around the country."
+  },
+  {
+    "start": "06:57",
+    "stop": "07:30",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775717820000,
+    "stopTs": 1775719800000,
+    "title": "Khabar Dopahar",
+    "desc": "&apos;Khabar Dopahar&apos; delivers detailed news and info, hosted with a casual vibe."
+  },
+  {
+    "start": "07:30",
+    "stop": "07:58",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775719800000,
+    "stopTs": 1775721480000,
+    "title": "Apna Uttrakhand",
+    "desc": "Catch Sudarshan News Live anytime for Uttarakhand stories on &apos;Apna Uttarakhand&apos;!"
+  },
+  {
+    "start": "07:58",
+    "stop": "08:28",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775721480000,
+    "stopTs": 1775723280000,
+    "title": "News Bulletin",
+    "desc": "Latest News and developments of the day."
+  },
+  {
+    "start": "08:28",
+    "stop": "08:58",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775723280000,
+    "stopTs": 1775725080000,
+    "title": "News Bulletin",
+    "desc": "Latest News and developments of the day."
+  },
+  {
+    "start": "08:58",
+    "stop": "09:28",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775725080000,
+    "stopTs": 1775726880000,
+    "title": "Super Fast 100",
+    "desc": "The host shares the day&apos;s top 100 news stories in Super Fast 100."
+  },
+  {
+    "start": "09:28",
+    "stop": "10:00",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775726880000,
+    "stopTs": 1775728800000,
+    "title": "Paksh-Vipaksh",
+    "desc": "Join the lively debate show &apos;Paksh-Vipakshr,&apos; where opinions clash and ideas thrive!"
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775728800000,
+    "stopTs": 1775730600000,
+    "title": "Promotional Content",
+    "desc": "A fun show featuring ads and promotions, hosted with flair and enthusiasm!"
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1775730600000,
+    "stopTs": 1775732400000,
+    "title": "Apna Uttrakhand",
+    "desc": "Catch Sudarshan News Live anytime for Uttarakhand stories on &apos;Apna Uttarakhand&apos;!"
   }
 ]

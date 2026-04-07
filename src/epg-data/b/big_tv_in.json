@@ -1,16 +1,5 @@
 [
   {
-    "start": "08:30",
-    "stop": "09:30",
-    "channel": "BIGTV.in",
-    "channelId": "BIGTV.in",
-    "channelName": "Big Tv",
-    "startTs": 1775550600000,
-    "stopTs": 1775554200000,
-    "title": "Big News @2 Pm",
-    "desc": "Get midday updates at 2 PM featuring live reports, breaking news, and developing stories from across sectors including health, politics, and the economy."
-  },
-  {
     "start": "09:30",
     "stop": "10:30",
     "channel": "BIGTV.in",
@@ -18,8 +7,8 @@
     "channelName": "Big Tv",
     "startTs": 1775554200000,
     "stopTs": 1775557800000,
-    "title": "Big News @3PM",
-    "desc": "The anchor presents the latest news updates from the world of politics, economics, entertainment and sports."
+    "title": "Big News @ 3 Pm",
+    "desc": "The host provides the latest updates and stories from around the country."
   },
   {
     "start": "10:30",
@@ -29,19 +18,19 @@
     "channelName": "Big Tv",
     "startTs": 1775557800000,
     "stopTs": 1775561400000,
-    "title": "Big News @4PM",
-    "desc": "The anchor presents the latest news updates from the world of politics, economics, entertainment and sports."
+    "title": "Big News @ 4 Pm",
+    "desc": "The host presents the top news headlines surrounding various issues in the country."
   },
   {
     "start": "11:30",
-    "stop": "12:00",
+    "stop": "12:30",
     "channel": "BIGTV.in",
     "channelId": "BIGTV.in",
     "channelName": "Big Tv",
     "startTs": 1775561400000,
-    "stopTs": 1775563200000,
-    "title": "Big News @5Pm",
-    "desc": "The 5 PM news brings live updates, breaking stories, and evening headlines, giving viewers a quick overview of national and international affairs."
+    "stopTs": 1775565000000,
+    "title": "Big News @ 5 Pm",
+    "desc": "The host presents the latest news and developments from around the country."
   },
   {
     "start": "12:00",
@@ -56,36 +45,58 @@
   },
   {
     "start": "12:30",
-    "stop": "13:30",
+    "stop": "13:00",
     "channel": "BIGTV.in",
     "channelId": "BIGTV.in",
     "channelName": "Big Tv",
     "startTs": 1775565000000,
+    "stopTs": 1775566800000,
+    "title": "Big News @ 6 Pm",
+    "desc": "The host provides the latest updates and stories from around the country."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "BIGTV.in",
+    "channelId": "BIGTV.in",
+    "channelName": "Big Tv",
+    "startTs": 1775566800000,
     "stopTs": 1775568600000,
-    "title": "Big News @6Pm",
-    "desc": "Tune in for the day&apos;s most significant stories, delivering impactful news and in-depth analysis on crucial events shaping the nation at prime time."
+    "title": "Nene MLA",
+    "desc": "The host interacts with the candidates contesting for the post of MLA."
   },
   {
     "start": "13:30",
-    "stop": "14:30",
+    "stop": "14:00",
     "channel": "BIGTV.in",
     "channelId": "BIGTV.in",
     "channelName": "Big Tv",
     "startTs": 1775568600000,
+    "stopTs": 1775570400000,
+    "title": "Big News @ 7 Pm",
+    "desc": "The host presents the latest news updates from around the state and the nation."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "BIGTV.in",
+    "channelId": "BIGTV.in",
+    "channelName": "Big Tv",
+    "startTs": 1775570400000,
     "stopTs": 1775572200000,
-    "title": "Big 7@7Pm",
-    "desc": "A focused 7 PM segment featuring the day&apos;s top 7 stories, highlighting major national developments, political events, and trending news in a compact format."
+    "title": "Telangana Yudham",
+    "desc": "The host sheds light on various socio-political issues concerning the state of Telangana."
   },
   {
     "start": "14:30",
-    "stop": "15:00",
+    "stop": "15:30",
     "channel": "BIGTV.in",
     "channelId": "BIGTV.in",
     "channelName": "Big Tv",
     "startTs": 1775572200000,
-    "stopTs": 1775574000000,
-    "title": "100 News",
-    "desc": "Catch up with the day&apos;s biggest stories in this headline-driven segment delivering essential news updates, major developments, and key highlights from across all sectors."
+    "stopTs": 1775575800000,
+    "title": "Prime Time With PV",
+    "desc": "Host PV Srinivas invites guests to debate on matters of local and national significance."
   },
   {
     "start": "15:00",
@@ -106,8 +117,8 @@
     "channelName": "Big Tv",
     "startTs": 1775575800000,
     "stopTs": 1775577600000,
-    "title": "Big News @9 Pm",
-    "desc": "A nightly news roundup at 9 PM offering analysis of major issues, top headlines, political debates, and live updates from key events across the day."
+    "title": "Big News @ 9 Pm",
+    "desc": "The host presents the latest news updates from around the state and the nation."
   },
   {
     "start": "16:00",
@@ -117,8 +128,8 @@
     "channelName": "Big Tv",
     "startTs": 1775577600000,
     "stopTs": 1775579400000,
-    "title": "Veekshanam",
-    "desc": "Join in-depth discussions and analyses of current affairs, featuring experts who provide insights on critical national and international issues affecting society."
+    "title": "Khatarnak Vartalu",
+    "desc": "The host visits various places and seeks public opinion on the problems faced by them."
   },
   {
     "start": "16:30",
@@ -128,8 +139,8 @@
     "channelName": "Big Tv",
     "startTs": 1775579400000,
     "stopTs": 1775581200000,
-    "title": "Big News @10 Pm",
-    "desc": "A comprehensive 10 PM newscast wrapping up the biggest stories, political headlines, breaking developments, and expert commentary on key events of the day."
+    "title": "Big News @ 10 Pm",
+    "desc": "The host presents the latest news updates from around the state and the nation."
   },
   {
     "start": "17:00",
@@ -139,8 +150,8 @@
     "channelName": "Big Tv",
     "startTs": 1775581200000,
     "stopTs": 1775583000000,
-    "title": "Big Cinema",
-    "desc": "Experience the magic of cinema with blockbuster movies, unforgettable performances, and captivating stories. Enjoy the best of entertainment-tune in now!"
+    "title": "Telangana Yudham",
+    "desc": "The host sheds light on various socio-political issues concerning the state of Telangana."
   },
   {
     "start": "17:30",
@@ -151,7 +162,7 @@
     "startTs": 1775583000000,
     "stopTs": 1775584800000,
     "title": "Big Night",
-    "desc": "The host presents a roundup of all the important social, political and economic news updates and developments from the country and around the world."
+    "desc": "The host shares the latest news from the country&apos;s political and socio-economic landscape."
   },
   {
     "start": "18:00",
@@ -161,8 +172,8 @@
     "channelName": "Big Tv",
     "startTs": 1775584800000,
     "stopTs": 1775586600000,
-    "title": "100 News",
-    "desc": "Catch up with the day&apos;s biggest stories in this headline-driven segment delivering essential news updates, major developments, and key highlights from across all sectors."
+    "title": "Nene MLA",
+    "desc": "The host interacts with the candidates contesting for the post of MLA."
   },
   {
     "start": "18:30",
@@ -172,8 +183,8 @@
     "channelName": "Big Tv",
     "startTs": 1775586600000,
     "stopTs": 1775590200000,
-    "title": "Kissik",
-    "desc": "The show features celebrity interviews and candid conversations with hosts like Jabardasth Varsha, covering personal stories and professional experiences."
+    "title": "Prime Time With PV",
+    "desc": "Host PV Srinivas invites guests to debate on matters of local and national significance."
   },
   {
     "start": "19:30",
@@ -184,7 +195,7 @@
     "startTs": 1775590200000,
     "stopTs": 1775592000000,
     "title": "Big Night",
-    "desc": "The host presents a roundup of all the important social, political and economic news updates and developments from the country and around the world."
+    "desc": "The host shares the latest news from the country&apos;s political and socio-economic landscape."
   },
   {
     "start": "20:00",
@@ -194,8 +205,8 @@
     "channelName": "Big Tv",
     "startTs": 1775592000000,
     "stopTs": 1775593800000,
-    "title": "100 News",
-    "desc": "Catch up with the day&apos;s biggest stories in this headline-driven segment delivering essential news updates, major developments, and key highlights from across all sectors."
+    "title": "Khatarnak Vartalu",
+    "desc": "The host visits various places and seeks public opinion on the problems faced by them."
   },
   {
     "start": "20:30",
@@ -206,7 +217,7 @@
     "startTs": 1775593800000,
     "stopTs": 1775595600000,
     "title": "Big Night",
-    "desc": "The host presents a roundup of all the important social, political and economic news updates and developments from the country and around the world."
+    "desc": "The host shares the latest news from the country&apos;s political and socio-economic landscape."
   },
   {
     "start": "21:00",
@@ -216,8 +227,8 @@
     "channelName": "Big Tv",
     "startTs": 1775595600000,
     "stopTs": 1775597400000,
-    "title": "Veekshanam",
-    "desc": "Join in-depth discussions and analyses of current affairs, featuring experts who provide insights on critical national and international issues affecting society."
+    "title": "Telangana Yudham",
+    "desc": "The host sheds light on various socio-political issues concerning the state of Telangana."
   },
   {
     "start": "21:30",
@@ -227,8 +238,8 @@
     "channelName": "Big Tv",
     "startTs": 1775597400000,
     "stopTs": 1775599200000,
-    "title": "100 News",
-    "desc": "Catch up with the day&apos;s biggest stories in this headline-driven segment delivering essential news updates, major developments, and key highlights from across all sectors."
+    "title": "Big Night",
+    "desc": "The host shares the latest news from the country&apos;s political and socio-economic landscape."
   },
   {
     "start": "22:00",
@@ -238,8 +249,8 @@
     "channelName": "Big Tv",
     "startTs": 1775599200000,
     "stopTs": 1775601000000,
-    "title": "Akasa Ramanna",
-    "desc": "Teja, Raana, and Jai&apos;s lives collide in a gripping tale of fate, money, and survival. A car accident changes everything. Don&apos;t miss this thrilling drama-watch now!"
+    "title": "Nene MLA",
+    "desc": "The host interacts with the candidates contesting for the post of MLA."
   },
   {
     "start": "22:30",
@@ -250,7 +261,7 @@
     "startTs": 1775601000000,
     "stopTs": 1775602800000,
     "title": "Big Night",
-    "desc": "The host presents a roundup of all the important social, political and economic news updates and developments from the country and around the world."
+    "desc": "The host shares the latest news from the country&apos;s political and socio-economic landscape."
   },
   {
     "start": "23:00",
@@ -260,19 +271,19 @@
     "channelName": "Big Tv",
     "startTs": 1775602800000,
     "stopTs": 1775604600000,
-    "title": "Veekshanam",
-    "desc": "Join in-depth discussions and analyses of current affairs, featuring experts who provide insights on critical national and international issues affecting society."
+    "title": "Khatarnak Vartalu",
+    "desc": "The host visits various places and seeks public opinion on the problems faced by them."
   },
   {
     "start": "23:30",
-    "stop": "00:00",
+    "stop": "00:30",
     "channel": "BIGTV.in",
     "channelId": "BIGTV.in",
     "channelName": "Big Tv",
     "startTs": 1775604600000,
-    "stopTs": 1775606400000,
-    "title": "100 News",
-    "desc": "Catch up with the day&apos;s biggest stories in this headline-driven segment delivering essential news updates, major developments, and key highlights from across all sectors."
+    "stopTs": 1775608200000,
+    "title": "Prime Time With PV",
+    "desc": "Host PV Srinivas invites guests to debate on matters of local and national significance."
   },
   {
     "start": "00:00",
@@ -293,8 +304,8 @@
     "channelName": "Big Tv",
     "startTs": 1775608200000,
     "stopTs": 1775610000000,
-    "title": "Big News @ 6Am",
-    "desc": "Early morning news show delivering fresh headlines, overnight stories, and updates to kickstart your day with the latest national and international developments at 6 AM."
+    "title": "Big News @ 6 Am",
+    "desc": "The host presents the latest news on various topics of local and national interest."
   },
   {
     "start": "01:00",
@@ -304,8 +315,8 @@
     "channelName": "Big Tv",
     "startTs": 1775610000000,
     "stopTs": 1775611800000,
-    "title": "Morning Mantra",
-    "desc": "Start your day with positivity, wisdom, and spiritual insights to uplift your mind and soul. Embrace the morning with inspiration-tune in now!"
+    "title": "Devotional Village",
+    "desc": "A spiritual leader shares words of wisdom and discusses ways to live a righteous life."
   },
   {
     "start": "01:30",
@@ -315,8 +326,8 @@
     "channelName": "Big Tv",
     "startTs": 1775611800000,
     "stopTs": 1775613600000,
-    "title": "Super Fast 70",
-    "desc": "A host delivers the latest statewide and national updates, covering politics, society, economics, and sports, delivering concise summaries of current events for viewers."
+    "title": "Big Express",
+    "desc": "The host presents the latest news updates from around the state and the nation."
   },
   {
     "start": "02:00",
@@ -326,8 +337,8 @@
     "channelName": "Big Tv",
     "startTs": 1775613600000,
     "stopTs": 1775615400000,
-    "title": "Akasa Ramanna",
-    "desc": "Teja, Raana, and Jai&apos;s lives collide in a gripping tale of fate, money, and survival. A car accident changes everything. Don&apos;t miss this thrilling drama-watch now!"
+    "title": "Big Morning",
+    "desc": "The host presents an in-depth analysis of the recent happenings from around the country."
   },
   {
     "start": "02:30",
@@ -337,8 +348,8 @@
     "channelName": "Big Tv",
     "startTs": 1775615400000,
     "stopTs": 1775617200000,
-    "title": "Big News @8Am",
-    "desc": "Another 8 AM segment bringing the most important news of the morning, ensuring viewers catch all critical updates at the start of the day."
+    "title": "Big News @ 8 Am",
+    "desc": "The host presents the latest news updates from around the state and the nation."
   },
   {
     "start": "03:00",
@@ -348,30 +359,52 @@
     "channelName": "Big Tv",
     "startTs": 1775617200000,
     "stopTs": 1775619000000,
-    "title": "Veekshanam",
-    "desc": "Join in-depth discussions and analyses of current affairs, featuring experts who provide insights on critical national and international issues affecting society."
+    "title": "Telangana Yudham",
+    "desc": "The host sheds light on various socio-political issues concerning the state of Telangana."
   },
   {
     "start": "03:30",
-    "stop": "04:30",
+    "stop": "04:00",
     "channel": "BIGTV.in",
     "channelId": "BIGTV.in",
     "channelName": "Big Tv",
     "startTs": 1775619000000,
+    "stopTs": 1775620800000,
+    "title": "Big News @ 9 Am",
+    "desc": "The host presents the latest news on a range of issues of local and national interest."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "BIGTV.in",
+    "channelId": "BIGTV.in",
+    "channelName": "Big Tv",
+    "startTs": 1775620800000,
     "stopTs": 1775622600000,
-    "title": "Big News @ 9Am",
-    "desc": "A 9 AM bulletin featuring important news from politics, health, and business, offering crisp summaries and key interviews to set the tone for the day."
+    "title": "Khatarnak Vartalu",
+    "desc": "The host visits various places and seeks public opinion on the problems faced by them."
   },
   {
     "start": "04:30",
-    "stop": "05:30",
+    "stop": "05:00",
     "channel": "BIGTV.in",
     "channelId": "BIGTV.in",
     "channelName": "Big Tv",
     "startTs": 1775622600000,
+    "stopTs": 1775624400000,
+    "title": "Big News @ 10 Am",
+    "desc": "The host presents the top news headlines and developments in the country."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "BIGTV.in",
+    "channelId": "BIGTV.in",
+    "channelName": "Big Tv",
+    "startTs": 1775624400000,
     "stopTs": 1775626200000,
-    "title": "Big News @ 10 AM",
-    "desc": "The host presents the latest socio-economic and political news and also provides comprehensive updates on the most significant developments which is making headlines."
+    "title": "Nene MLA",
+    "desc": "The host interacts with the candidates contesting for the post of MLA."
   },
   {
     "start": "05:30",
@@ -381,30 +414,52 @@
     "channelName": "Big Tv",
     "startTs": 1775626200000,
     "stopTs": 1775629800000,
-    "title": "Big News @ 11Am",
-    "desc": "A mid-morning news bulletin featuring the latest updates, breaking headlines, and relevant national and global developments shaping the day&apos;s top stories at 11 AM."
+    "title": "Big News @ 11 Am",
+    "desc": "The host presents news about political, social, economic and other national events."
   },
   {
     "start": "06:30",
-    "stop": "07:30",
+    "stop": "07:00",
     "channel": "BIGTV.in",
     "channelId": "BIGTV.in",
     "channelName": "Big Tv",
     "startTs": 1775629800000,
+    "stopTs": 1775631600000,
+    "title": "Big News @ 12 Pm",
+    "desc": "The host presents the latest news updates from around the state and the nation."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "BIGTV.in",
+    "channelId": "BIGTV.in",
+    "channelName": "Big Tv",
+    "startTs": 1775631600000,
     "stopTs": 1775633400000,
-    "title": "Big News @12 PM",
-    "desc": "The host presents the latest socio-economic and political news and also provides comprehensive updates on the most significant developments which is making headlines."
+    "title": "Big TV News / Chota News",
+    "desc": "The host provides insights into the latest news; the host presents the major headlines."
   },
   {
     "start": "07:30",
-    "stop": "08:30",
+    "stop": "08:00",
     "channel": "BIGTV.in",
     "channelId": "BIGTV.in",
     "channelName": "Big Tv",
     "startTs": 1775633400000,
+    "stopTs": 1775635200000,
+    "title": "Big News @ 1 Pm",
+    "desc": "The host presents the top news stories surrounding various issues in the country."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "BIGTV.in",
+    "channelId": "BIGTV.in",
+    "channelName": "Big Tv",
+    "startTs": 1775635200000,
     "stopTs": 1775637000000,
-    "title": "Big News @1 PM",
-    "desc": "The host presents the latest socio-economic and political news and also provides comprehensive updates on the most significant developments which is making headlines."
+    "title": "Nene MLA",
+    "desc": "The host interacts with the candidates contesting for the post of MLA."
   },
   {
     "start": "08:30",
@@ -414,8 +469,8 @@
     "channelName": "Big Tv",
     "startTs": 1775637000000,
     "stopTs": 1775640600000,
-    "title": "Big News @2 Pm",
-    "desc": "Get midday updates at 2 PM featuring live reports, breaking news, and developing stories from across sectors including health, politics, and the economy."
+    "title": "Big News @ 2 Pm",
+    "desc": "The host presents the latest news updates from around the state and the nation."
   },
   {
     "start": "09:30",
@@ -425,8 +480,8 @@
     "channelName": "Big Tv",
     "startTs": 1775640600000,
     "stopTs": 1775644200000,
-    "title": "Big News @3PM",
-    "desc": "The anchor presents the latest news updates from the world of politics, economics, entertainment and sports."
+    "title": "Big News @ 3 Pm",
+    "desc": "The host provides the latest updates and stories from around the country."
   },
   {
     "start": "10:30",
@@ -436,19 +491,19 @@
     "channelName": "Big Tv",
     "startTs": 1775644200000,
     "stopTs": 1775647800000,
-    "title": "Big News @4PM",
-    "desc": "The anchor presents the latest news updates from the world of politics, economics, entertainment and sports."
+    "title": "Big News @ 4 Pm",
+    "desc": "The host presents the top news headlines surrounding various issues in the country."
   },
   {
     "start": "11:30",
-    "stop": "12:00",
+    "stop": "12:30",
     "channel": "BIGTV.in",
     "channelId": "BIGTV.in",
     "channelName": "Big Tv",
     "startTs": 1775647800000,
-    "stopTs": 1775649600000,
-    "title": "Big News @5Pm",
-    "desc": "The 5 PM news brings live updates, breaking stories, and evening headlines, giving viewers a quick overview of national and international affairs."
+    "stopTs": 1775651400000,
+    "title": "Big News @ 5 Pm",
+    "desc": "The host presents the latest news and developments from around the country."
   },
   {
     "start": "12:00",
@@ -463,36 +518,58 @@
   },
   {
     "start": "12:30",
-    "stop": "13:30",
+    "stop": "13:00",
     "channel": "BIGTV.in",
     "channelId": "BIGTV.in",
     "channelName": "Big Tv",
     "startTs": 1775651400000,
+    "stopTs": 1775653200000,
+    "title": "Big News @ 6 Pm",
+    "desc": "The host provides the latest updates and stories from around the country."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "BIGTV.in",
+    "channelId": "BIGTV.in",
+    "channelName": "Big Tv",
+    "startTs": 1775653200000,
     "stopTs": 1775655000000,
-    "title": "Big News @6Pm",
-    "desc": "Tune in for the day&apos;s most significant stories, delivering impactful news and in-depth analysis on crucial events shaping the nation at prime time."
+    "title": "Nene MLA",
+    "desc": "The host interacts with the candidates contesting for the post of MLA."
   },
   {
     "start": "13:30",
-    "stop": "14:30",
+    "stop": "14:00",
     "channel": "BIGTV.in",
     "channelId": "BIGTV.in",
     "channelName": "Big Tv",
     "startTs": 1775655000000,
+    "stopTs": 1775656800000,
+    "title": "Big News @ 7 Pm",
+    "desc": "The host presents the latest news updates from around the state and the nation."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "BIGTV.in",
+    "channelId": "BIGTV.in",
+    "channelName": "Big Tv",
+    "startTs": 1775656800000,
     "stopTs": 1775658600000,
-    "title": "Big 7@7Pm",
-    "desc": "A focused 7 PM segment featuring the day&apos;s top 7 stories, highlighting major national developments, political events, and trending news in a compact format."
+    "title": "Telangana Yudham",
+    "desc": "The host sheds light on various socio-political issues concerning the state of Telangana."
   },
   {
     "start": "14:30",
-    "stop": "15:00",
+    "stop": "15:30",
     "channel": "BIGTV.in",
     "channelId": "BIGTV.in",
     "channelName": "Big Tv",
     "startTs": 1775658600000,
-    "stopTs": 1775660400000,
-    "title": "100 News",
-    "desc": "Catch up with the day&apos;s biggest stories in this headline-driven segment delivering essential news updates, major developments, and key highlights from across all sectors."
+    "stopTs": 1775662200000,
+    "title": "Prime Time With PV",
+    "desc": "Host PV Srinivas invites guests to debate on matters of local and national significance."
   },
   {
     "start": "15:00",
@@ -513,8 +590,8 @@
     "channelName": "Big Tv",
     "startTs": 1775662200000,
     "stopTs": 1775664000000,
-    "title": "Big News @9 Pm",
-    "desc": "A nightly news roundup at 9 PM offering analysis of major issues, top headlines, political debates, and live updates from key events across the day."
+    "title": "Big News @ 9 Pm",
+    "desc": "The host presents the latest news updates from around the state and the nation."
   },
   {
     "start": "16:00",
@@ -524,8 +601,8 @@
     "channelName": "Big Tv",
     "startTs": 1775664000000,
     "stopTs": 1775665800000,
-    "title": "Veekshanam",
-    "desc": "Join in-depth discussions and analyses of current affairs, featuring experts who provide insights on critical national and international issues affecting society."
+    "title": "Khatarnak Vartalu",
+    "desc": "The host visits various places and seeks public opinion on the problems faced by them."
   },
   {
     "start": "16:30",
@@ -535,8 +612,8 @@
     "channelName": "Big Tv",
     "startTs": 1775665800000,
     "stopTs": 1775667600000,
-    "title": "Big News @10 Pm",
-    "desc": "A comprehensive 10 PM newscast wrapping up the biggest stories, political headlines, breaking developments, and expert commentary on key events of the day."
+    "title": "Big News @ 10 Pm",
+    "desc": "The host presents the latest news updates from around the state and the nation."
   },
   {
     "start": "17:00",
@@ -546,8 +623,8 @@
     "channelName": "Big Tv",
     "startTs": 1775667600000,
     "stopTs": 1775669400000,
-    "title": "Big Cinema",
-    "desc": "Experience the magic of cinema with blockbuster movies, unforgettable performances, and captivating stories. Enjoy the best of entertainment-tune in now!"
+    "title": "Telangana Yudham",
+    "desc": "The host sheds light on various socio-political issues concerning the state of Telangana."
   },
   {
     "start": "17:30",
@@ -558,7 +635,7 @@
     "startTs": 1775669400000,
     "stopTs": 1775671200000,
     "title": "Big Night",
-    "desc": "The host presents a roundup of all the important social, political and economic news updates and developments from the country and around the world."
+    "desc": "The host shares the latest news from the country&apos;s political and socio-economic landscape."
   },
   {
     "start": "18:00",
@@ -568,8 +645,8 @@
     "channelName": "Big Tv",
     "startTs": 1775671200000,
     "stopTs": 1775673000000,
-    "title": "100 News",
-    "desc": "Catch up with the day&apos;s biggest stories in this headline-driven segment delivering essential news updates, major developments, and key highlights from across all sectors."
+    "title": "Nene MLA",
+    "desc": "The host interacts with the candidates contesting for the post of MLA."
   },
   {
     "start": "18:30",
@@ -823,5 +900,27 @@
     "stopTs": 1775727000000,
     "title": "Big News @2 Pm",
     "desc": "Get midday updates at 2 PM featuring live reports, breaking news, and developing stories from across sectors including health, politics, and the economy."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:30",
+    "channel": "BIGTV.in",
+    "channelId": "BIGTV.in",
+    "channelName": "Big Tv",
+    "startTs": 1775727000000,
+    "stopTs": 1775730600000,
+    "title": "Big News @3PM",
+    "desc": "The anchor presents the latest news updates from the world of politics, economics, entertainment and sports."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:30",
+    "channel": "BIGTV.in",
+    "channelId": "BIGTV.in",
+    "channelName": "Big Tv",
+    "startTs": 1775730600000,
+    "stopTs": 1775734200000,
+    "title": "Big News @4PM",
+    "desc": "The anchor presents the latest news updates from the world of politics, economics, entertainment and sports."
   }
 ]

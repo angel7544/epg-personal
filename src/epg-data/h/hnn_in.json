@@ -1,38 +1,5 @@
 [
   {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1775552400000,
-    "stopTs": 1775554200000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1775554200000,
-    "stopTs": 1775556000000,
-    "title": "Headline Abhi Tak",
-    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1775556000000,
-    "stopTs": 1775557800000,
-    "title": "Himachal Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Himachal Pradesh."
-  },
-  {
     "start": "10:30",
     "stop": "11:00",
     "channel": "HNN24x7.in",
@@ -1054,5 +1021,38 @@
     "stopTs": 1775727000000,
     "title": "Aapka Sahar Aapki Khabar",
     "desc": "The host presents some of the latest news, updates and developments pertaining to various social and political affairs of the nation."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1775727000000,
+    "stopTs": 1775728800000,
+    "title": "Daily Special",
+    "desc": "Daily Special presents a unique episode each day, offering exclusive content ranging from spiritual teachings to life lessons, keeping the audience engaged and informed."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1775728800000,
+    "stopTs": 1775730600000,
+    "title": "Slot",
+    "desc": "Slot offers specific segments that dive deep into various topics or themes, ensuring focused and detailed coverage on important matters."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1775730600000,
+    "stopTs": 1775732400000,
+    "title": "News",
+    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
   }
 ]

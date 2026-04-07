@@ -1,32 +1,21 @@
 [
   {
-    "start": "07:30",
-    "stop": "09:00",
-    "channel": "NewsLive.in",
-    "channelId": "NewsLive.in",
-    "channelName": "News Live",
-    "startTs": 1775547000000,
-    "stopTs": 1775552400000,
-    "title": "Assamese Feature Film",
-    "desc": "A curated collection of all the latest and most popular Assamese feature films is played back-to-back to enthrall the audience."
-  },
-  {
     "start": "09:00",
     "stop": "10:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775552400000,
     "stopTs": 1775557800000,
     "title": "Afternoon Prime",
-    "desc": "The host presents latest updates, top stories and other developments pertaining to the social, political and economic issues of the day."
+    "desc": "The host presents latest updates, top stories pertaining to the current affairs of the day."
   },
   {
     "start": "10:30",
     "stop": "11:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775557800000,
     "stopTs": 1775561400000,
     "title": "Talk Show",
@@ -37,205 +26,315 @@
     "stop": "12:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775561400000,
     "stopTs": 1775565000000,
     "title": "Guwahati Live",
-    "desc": "This host sheds light on the different facets of the developing city of Guwahati, including the law and order, academics, sports and entertainment, live."
+    "desc": "The host presents the latest news and facets of the developing city of Guwahati, live."
   },
   {
     "start": "12:30",
     "stop": "14:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775565000000,
     "stopTs": 1775572200000,
     "title": "Prime Time News",
-    "desc": "The host sheds light on the biggest developments that have taken place internationally and locally and also features interviews of experts and famous personalities."
+    "desc": "The host sheds light on in-depth news coverage locally and internationally."
+  },
+  {
+    "start": "13:00",
+    "stop": "14:30",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1775566800000,
+    "stopTs": 1775572200000,
+    "title": "Assamese Prime Time",
+    "desc": "Comprehensive evening news covering top stories from Assam and beyond."
   },
   {
     "start": "14:30",
     "stop": "15:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775572200000,
     "stopTs": 1775575800000,
     "title": "Prasangik",
-    "desc": "The host features famous personalities to share their thoughts on crucial national issues, offering insightful discussions and expert opinions on current affairs."
+    "desc": "The host features famous personalities to share their thoughts on crucial national issues."
   },
   {
     "start": "15:30",
     "stop": "16:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775575800000,
     "stopTs": 1775579400000,
     "title": "Super Prime time",
-    "desc": "The host provides a comprehensive and detailed coverage into the latest news and developments, domestically and internationally."
+    "desc": "The host presents a detailed report on the latest news and developments."
   },
   {
     "start": "16:30",
     "stop": "17:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775579400000,
     "stopTs": 1775583000000,
     "title": "Prime @ 10",
-    "desc": "The host provides a report on the latest news regarding politics, socio-economic issues, developments and current affairs in the nation and around the world."
+    "desc": "The host provides the latest news on various matters in the nation and around the world."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1775581200000,
+    "stopTs": 1775583000000,
+    "title": "Noixo Guwahati",
+    "desc": "Round-up of the day&apos;s main stories."
   },
   {
     "start": "17:30",
     "stop": "18:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775583000000,
     "stopTs": 1775586600000,
     "title": "Musical Show",
-    "desc": "Renowned musical artists deliver an enchanting performance of various famous and popular songs, captivating the audience."
+    "desc": "Renowned musical artists perform various famous and popular songs to enthrall the audience."
   },
   {
     "start": "18:30",
     "stop": "19:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775586600000,
     "stopTs": 1775590200000,
     "title": "Prasangik",
-    "desc": "The host features famous personalities to share their thoughts on crucial national issues, offering insightful discussions and expert opinions on current affairs."
+    "desc": "The host features famous personalities to share their thoughts on crucial national issues."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1775588400000,
+    "stopTs": 1775590200000,
+    "title": "Teleshopping",
+    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping from home."
   },
   {
     "start": "19:30",
     "stop": "21:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775590200000,
     "stopTs": 1775597400000,
     "title": "Prime Time News",
-    "desc": "The host sheds light on the biggest developments that have taken place internationally and locally and also features interviews of experts and famous personalities."
+    "desc": "The host sheds light on in-depth news coverage locally and internationally."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1775592000000,
+    "stopTs": 1775593800000,
+    "title": "Repeat Show",
+    "desc": "Rebroadcast of previously aired shows and episodes for viewers who missed them"
+  },
+  {
+    "start": "20:30",
+    "stop": "21:30",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1775593800000,
+    "stopTs": 1775597400000,
+    "title": "Repeat Show",
+    "desc": "Rebroadcast of previously aired shows and episodes for viewers who missed them"
   },
   {
     "start": "21:30",
     "stop": "00:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775597400000,
     "stopTs": 1775608200000,
     "title": "Talk Show",
     "desc": "Bringing the best in television."
   },
   {
+    "start": "22:30",
+    "stop": "23:30",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1775601000000,
+    "stopTs": 1775604600000,
+    "title": "Repeat Show",
+    "desc": "Rebroadcast of previously aired shows and episodes for viewers who missed them"
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1775604600000,
+    "stopTs": 1775606400000,
+    "title": "Repeat Show",
+    "desc": "Rebroadcast of previously aired shows and episodes for viewers who missed them"
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1775606400000,
+    "stopTs": 1775608200000,
+    "title": "Teleshopping",
+    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping from home."
+  },
+  {
     "start": "00:30",
     "stop": "01:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775608200000,
     "stopTs": 1775611800000,
     "title": "Talk Show",
     "desc": "Bringing the best in television."
   },
   {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1775610000000,
+    "stopTs": 1775611800000,
+    "title": "Teleshop",
+    "desc": "A show for those who love to shop from the comfort of their homes."
+  },
+  {
     "start": "01:30",
     "stop": "02:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775611800000,
     "stopTs": 1775615400000,
     "title": "Breakfast Live",
-    "desc": "The host interviews prominent celebrities from various fields to shed light on their personal lives, profession and future projects, live."
+    "desc": "The host interviews prominent celebrities on their personal and professional lives, live."
   },
   {
     "start": "02:30",
     "stop": "03:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775615400000,
     "stopTs": 1775619000000,
     "title": "Live At 8",
-    "desc": "The host provides the latest information, advancements and developments on various political, economic and social issues, live."
+    "desc": "The host provides the latest information and updates on various issues, live."
   },
   {
     "start": "03:30",
     "stop": "04:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775619000000,
     "stopTs": 1775622600000,
     "title": "Good Morning Assam",
-    "desc": "The host presents the latest social, economic and political news from Assam and provides information on relevant current events."
+    "desc": "The host presents the latest social, economic and political news from Assam."
   },
   {
     "start": "04:30",
     "stop": "05:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775622600000,
     "stopTs": 1775626200000,
     "title": "Musical Show",
-    "desc": "Renowned musical artists deliver an enchanting performance of various famous and popular songs, captivating the audience."
+    "desc": "Renowned musical artists perform various famous and popular songs to enthrall the audience."
   },
   {
     "start": "05:30",
     "stop": "06:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775626200000,
     "stopTs": 1775629800000,
     "title": "Morning Prime Time",
-    "desc": "The host presents a summary of the latest social, economic and political news updates and developments from the nation and around the world."
+    "desc": "The host presents the latest social, economic and political news updates and developments."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1775628000000,
+    "stopTs": 1775629800000,
+    "title": "Assamese News",
+    "desc": "The host delivers regional, national, and international news with current updates."
   },
   {
     "start": "06:30",
     "stop": "07:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775629800000,
     "stopTs": 1775633400000,
     "title": "Mid Day Live",
-    "desc": "The host presents the latest news updates and developments pertaining to social, political and economic issues around the nation, live."
+    "desc": "The host presents the latest news updates on political and socio-economic issues, live."
   },
   {
     "start": "07:30",
     "stop": "09:00",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775633400000,
     "stopTs": 1775638800000,
     "title": "Assamese Feature Film",
-    "desc": "A curated collection of all the latest and most popular Assamese feature films is played back-to-back to enthrall the audience."
+    "desc": "A curated collection of the latest Assamese feature films is played back-to-back."
   },
   {
     "start": "09:00",
     "stop": "10:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775638800000,
     "stopTs": 1775644200000,
     "title": "Afternoon Prime",
-    "desc": "The host presents latest updates, top stories and other developments pertaining to the social, political and economic issues of the day."
+    "desc": "The host presents latest updates, top stories pertaining to the current affairs of the day."
   },
   {
     "start": "10:30",
     "stop": "11:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775644200000,
     "stopTs": 1775647800000,
     "title": "Talk Show",
@@ -246,65 +345,87 @@
     "stop": "12:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775647800000,
     "stopTs": 1775651400000,
     "title": "Guwahati Live",
-    "desc": "This host sheds light on the different facets of the developing city of Guwahati, including the law and order, academics, sports and entertainment, live."
+    "desc": "The host presents the latest news and facets of the developing city of Guwahati, live."
   },
   {
     "start": "12:30",
     "stop": "14:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775651400000,
     "stopTs": 1775658600000,
     "title": "Prime Time News",
-    "desc": "The host sheds light on the biggest developments that have taken place internationally and locally and also features interviews of experts and famous personalities."
+    "desc": "The host sheds light on in-depth news coverage locally and internationally."
+  },
+  {
+    "start": "13:00",
+    "stop": "14:30",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1775653200000,
+    "stopTs": 1775658600000,
+    "title": "Assamese Prime Time",
+    "desc": "Comprehensive evening news covering top stories from Assam and beyond."
   },
   {
     "start": "14:30",
     "stop": "15:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775658600000,
     "stopTs": 1775662200000,
     "title": "Prekhapat",
-    "desc": "The host engages in intellectual debates with experts that provides a logical insight into glaring issues that torment the country and its communities."
+    "desc": "The host engages in intellectual debates on glaring issues that torment the society."
   },
   {
     "start": "15:30",
     "stop": "16:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775662200000,
     "stopTs": 1775665800000,
     "title": "Super Prime time",
-    "desc": "The host provides a comprehensive and detailed coverage into the latest news and developments, domestically and internationally."
+    "desc": "The host presents a detailed report on the latest news and developments."
   },
   {
     "start": "16:30",
     "stop": "17:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775665800000,
     "stopTs": 1775669400000,
     "title": "Prime @ 10",
-    "desc": "The host provides a report on the latest news regarding politics, socio-economic issues, developments and current affairs in the nation and around the world."
+    "desc": "The host provides the latest news on various matters in the nation and around the world."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1775667600000,
+    "stopTs": 1775669400000,
+    "title": "Noixo Guwahati",
+    "desc": "Round-up of the day&apos;s main stories."
   },
   {
     "start": "17:30",
     "stop": "18:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
-    "channelName": "News Live",
+    "channelName": "NEWS LIVE",
     "startTs": 1775669400000,
     "stopTs": 1775673000000,
     "title": "Musical Show",
-    "desc": "Renowned musical artists deliver an enchanting performance of various famous and popular songs, captivating the audience."
+    "desc": "Renowned musical artists perform various famous and popular songs to enthrall the audience."
   }
 ]
