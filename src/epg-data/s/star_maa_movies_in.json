@@ -1,82 +1,5 @@
 [
   {
-    "start": "09:30",
-    "stop": "12:30",
-    "channel": "StarMaaMovies.in",
-    "channelId": "StarMaaMovies.in",
-    "channelName": "Star Maa Movies HD",
-    "startTs": 1775554200000,
-    "stopTs": 1775565000000,
-    "title": "24",
-    "desc": "A scientist invents a time-travelling gadget that draws him into a bitter battle."
-  },
-  {
-    "start": "12:30",
-    "stop": "15:30",
-    "channel": "StarMaaMovies.in",
-    "channelId": "StarMaaMovies.in",
-    "channelName": "Star Maa Movies HD",
-    "startTs": 1775565000000,
-    "stopTs": 1775575800000,
-    "title": "Bahubali 2: The Conclusion",
-    "desc": "Mahendra Baahubali raises an army to defeat Bhallaladeva, for killing his father."
-  },
-  {
-    "start": "15:30",
-    "stop": "18:30",
-    "channel": "StarMaaMovies.in",
-    "channelId": "StarMaaMovies.in",
-    "channelName": "Star Maa Movies HD",
-    "startTs": 1775575800000,
-    "stopTs": 1775586600000,
-    "title": "Baahubali: The Beginning",
-    "desc": "While rescuing an enslaved princess, a young man discovers his true identity."
-  },
-  {
-    "start": "18:30",
-    "stop": "21:30",
-    "channel": "StarMaaMovies.in",
-    "channelId": "StarMaaMovies.in",
-    "channelName": "Star Maa Movies HD",
-    "startTs": 1775586600000,
-    "stopTs": 1775597400000,
-    "title": "Prema Khaidi",
-    "desc": "Chandram and Neelima, a young couple, face troubles since her father, Bapineedu, does not approve of her choice as he belongs to a poor family."
-  },
-  {
-    "start": "21:30",
-    "stop": "00:30",
-    "channel": "StarMaaMovies.in",
-    "channelId": "StarMaaMovies.in",
-    "channelName": "Star Maa Movies HD",
-    "startTs": 1775597400000,
-    "stopTs": 1775608200000,
-    "title": "Chandralekha",
-    "desc": "An unemployed man saves a rich woman and takes her to the hospital where her relatives mistake him as her husband. He plays along as he needs money to repay a loan."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "StarMaaMovies.in",
-    "channelId": "StarMaaMovies.in",
-    "channelName": "Star Maa Movies HD",
-    "startTs": 1775608200000,
-    "stopTs": 1775610000000,
-    "title": "Dhurandar",
-    "desc": "The presenter discusses the film &apos;Dhurandhar: The Revenge&apos; in terms of its OTT and television release and also talks about its teaser."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "StarMaaMovies.in",
-    "channelId": "StarMaaMovies.in",
-    "channelName": "Star Maa Movies HD",
-    "startTs": 1775610000000,
-    "stopTs": 1775611800000,
-    "title": "Masthi Maja",
-    "desc": "A comprehensive compilation of some of the funniest comedy scenes from popular Telugu movies is played back to back."
-  },
-  {
     "start": "01:30",
     "stop": "03:30",
     "channel": "StarMaaMovies.in",
@@ -85,7 +8,7 @@
     "startTs": 1775611800000,
     "stopTs": 1775619000000,
     "title": "Software Sudheer",
-    "desc": "Chandu, a young software engineer, falls for Swathi, a beautiful woman. However, they face many challenges in their relationship and must overcome them all."
+    "desc": "Chandu, a software engineer, faces challenges in his relationship with the beautiful Swathi."
   },
   {
     "start": "03:30",
@@ -95,8 +18,8 @@
     "channelName": "Star Maa Movies HD",
     "startTs": 1775619000000,
     "stopTs": 1775629800000,
-    "title": "Badrinath",
-    "desc": "Badri is the protector of Badrinath temple. However, when a woman falls in love with him, his guru decides against making Badri his successor."
+    "title": "Bunny",
+    "desc": "Millionaire&apos;s daughter plans to wed, but conflict arises over property."
   },
   {
     "start": "06:30",
@@ -107,7 +30,7 @@
     "startTs": 1775629800000,
     "stopTs": 1775640600000,
     "title": "Julayi",
-    "desc": "When Ravi unknowingly thwarts Bittu&apos;s bank heist, he becomes the target of Bittu&apos;s wrath. Susbequently, Ravi is forced to fight to protect his loved ones from the ruthless criminal."
+    "desc": "Ravi happens to cross paths with Bittu, a gangster, and helps the police bust his plan to rob a bank."
   },
   {
     "start": "09:30",
@@ -118,7 +41,7 @@
     "startTs": 1775640600000,
     "stopTs": 1775651400000,
     "title": "Yevadu",
-    "desc": "Satya gets a different face after he is almost killed, but a new face multiplies his problems. His ordeal begins when he leaves the hospital and has to deal with his lover&apos;s murderer."
+    "desc": "Satya, surviving with a face transplant, faces challenges avenging his lover&apos;s death with his new identity."
   },
   {
     "start": "12:30",
@@ -129,7 +52,7 @@
     "startTs": 1775651400000,
     "stopTs": 1775662200000,
     "title": "S/O Satyamurthy",
-    "desc": "Anand faces several challenges as he attempts to save his father&apos;s wealth while trying to handle the responsibility of earning a livelihood for his family."
+    "desc": "Anand, the son of a rich businessman, struggles to save his father&apos;s wealth."
   },
   {
     "start": "15:30",
@@ -140,6 +63,171 @@
     "startTs": 1775662200000,
     "stopTs": 1775673000000,
     "title": "Parugu",
-    "desc": "A rich and powerful Neelakanta&apos;s perception about love marriage changes when both his daughters, Subbalakshmi and Meenakshi, fall in love."
+    "desc": "A girl elopes on her wedding day, sister falls in love with the helper of the elopement."
+  },
+  {
+    "start": "18:30",
+    "stop": "21:30",
+    "channel": "StarMaaMovies.in",
+    "channelId": "StarMaaMovies.in",
+    "channelName": "Star Maa Movies HD",
+    "startTs": 1775673000000,
+    "stopTs": 1775683800000,
+    "title": "Solo",
+    "desc": "Goutam desires to marry Vaishnavi. Her dad insists on marriage in a joint family"
+  },
+  {
+    "start": "21:30",
+    "stop": "00:30",
+    "channel": "StarMaaMovies.in",
+    "channelId": "StarMaaMovies.in",
+    "channelName": "Star Maa Movies HD",
+    "startTs": 1775683800000,
+    "stopTs": 1775694600000,
+    "title": "Aaha",
+    "desc": "Sriram defames himself to protect his elder brother Raghu&apos;s secret."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "StarMaaMovies.in",
+    "channelId": "StarMaaMovies.in",
+    "channelName": "Star Maa Movies HD",
+    "startTs": 1775694600000,
+    "stopTs": 1775696400000,
+    "title": "Slot - Dhurandar",
+    "desc": "A mysterious traveler slips into Karachi&apos;s underworld, rises with precision, and secretly tears apart the ISI Underworld nexus from within, balancing danger with true justice."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "StarMaaMovies.in",
+    "channelId": "StarMaaMovies.in",
+    "channelName": "Star Maa Movies HD",
+    "startTs": 1775696400000,
+    "stopTs": 1775698200000,
+    "title": "Calvary Darshanam",
+    "desc": "A Christian evangelist delivers religious discourses in a prayer meeting and offers special prayers for the needy"
+  },
+  {
+    "start": "01:30",
+    "stop": "03:30",
+    "channel": "StarMaaMovies.in",
+    "channelId": "StarMaaMovies.in",
+    "channelName": "Star Maa Movies HD",
+    "startTs": 1775698200000,
+    "stopTs": 1775705400000,
+    "title": "Crazy Uncles",
+    "desc": "Three middle aged, rich uncles who are unsatified with wives decides to enjoy their life without them and ends up getting in a big trap."
+  },
+  {
+    "start": "03:30",
+    "stop": "06:30",
+    "channel": "StarMaaMovies.in",
+    "channelId": "StarMaaMovies.in",
+    "channelName": "Star Maa Movies HD",
+    "startTs": 1775705400000,
+    "stopTs": 1775716200000,
+    "title": "Bichagadu 2",
+    "desc": "Poor man searches for kidnapped sister, undergoes illegal brain transplant."
+  },
+  {
+    "start": "06:30",
+    "stop": "10:00",
+    "channel": "StarMaaMovies.in",
+    "channelId": "StarMaaMovies.in",
+    "channelName": "Star Maa Movies HD",
+    "startTs": 1775716200000,
+    "stopTs": 1775728800000,
+    "title": "Raja Raani",
+    "desc": "John and Regina are wed against their will, struggling with past loves. As they navigate their rocky marriage, they learn to let go and find true connection."
+  },
+  {
+    "start": "10:00",
+    "stop": "12:30",
+    "channel": "StarMaaMovies.in",
+    "channelId": "StarMaaMovies.in",
+    "channelName": "Star Maa Movies HD",
+    "startTs": 1775728800000,
+    "stopTs": 1775737800000,
+    "title": "Rx 100",
+    "desc": "An intense love story unfolds between two passionate souls, where obsession and betrayal spark tragedy and heartbreak."
+  },
+  {
+    "start": "12:30",
+    "stop": "15:30",
+    "channel": "StarMaaMovies.in",
+    "channelId": "StarMaaMovies.in",
+    "channelName": "Star Maa Movies HD",
+    "startTs": 1775737800000,
+    "stopTs": 1775748600000,
+    "title": "Sarkaru Vaari Paata",
+    "desc": "Mahi loans a huge sum to his fraudulent lover in Miami and must recover it from her politician father in Vizag. His visit unexpectedly exposes a massive banking scam."
+  },
+  {
+    "start": "15:30",
+    "stop": "18:30",
+    "channel": "StarMaaMovies.in",
+    "channelId": "StarMaaMovies.in",
+    "channelName": "Star Maa Movies HD",
+    "startTs": 1775748600000,
+    "stopTs": 1775759400000,
+    "title": "Adhurs",
+    "desc": "A clever young man with a dual role creates comic confusion while battling crime, mixing action, romance and laughter."
+  },
+  {
+    "start": "18:30",
+    "stop": "21:30",
+    "channel": "StarMaaMovies.in",
+    "channelId": "StarMaaMovies.in",
+    "channelName": "Star Maa Movies HD",
+    "startTs": 1775759400000,
+    "stopTs": 1775770200000,
+    "title": "Chandrakala",
+    "desc": "A mysterious murder inside a palace uncovers a tragic past. As secrets unfold, a tale of unspoken love and haunting memories rises from the darkness."
+  },
+  {
+    "start": "21:30",
+    "stop": "00:30",
+    "channel": "StarMaaMovies.in",
+    "channelId": "StarMaaMovies.in",
+    "channelName": "Star Maa Movies HD",
+    "startTs": 1775770200000,
+    "stopTs": 1775781000000,
+    "title": "Welcome Obama",
+    "desc": "Yashoda as surrogate faces risk as accident jeopardizes child&apos;s life."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "StarMaaMovies.in",
+    "channelId": "StarMaaMovies.in",
+    "channelName": "Star Maa Movies HD",
+    "startTs": 1775781000000,
+    "stopTs": 1775782800000,
+    "title": "Slot - Dhurandar",
+    "desc": "A mysterious traveler slips into Karachi&apos;s underworld, rises with precision, and secretly tears apart the ISI Underworld nexus from within, balancing danger with true justice."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "StarMaaMovies.in",
+    "channelId": "StarMaaMovies.in",
+    "channelName": "Star Maa Movies HD",
+    "startTs": 1775782800000,
+    "stopTs": 1775784600000,
+    "title": "Masthi Maja",
+    "desc": "A fun compilation of back-to-back hilarious Telugu movie scenes, bringing nonstop laughter with the funniest moments, comic sequences, and iconic reactions."
+  },
+  {
+    "start": "01:30",
+    "stop": "03:30",
+    "channel": "StarMaaMovies.in",
+    "channelId": "StarMaaMovies.in",
+    "channelName": "Star Maa Movies HD",
+    "startTs": 1775784600000,
+    "stopTs": 1775791800000,
+    "title": "Ammoru Thalli",
+    "desc": "Engels&apos; life changes after goddess Mookuthi Amman grants their wish."
   }
 ]
