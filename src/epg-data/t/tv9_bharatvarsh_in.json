@@ -1,324 +1,5 @@
 [
   {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775698200000,
-    "stopTs": 1775700000000,
-    "title": "News 100",
-    "desc": "The host presents the top 100 news updates pertaining to the political, social, economic and sports fronts from around the country and the world."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775700000000,
-    "stopTs": 1775701800000,
-    "title": "Agenda Full & final",
-    "desc": "The host presents a detailed report on the latest news from across the country and interacts with experts who put forth their opinions."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775701800000,
-    "stopTs": 1775703600000,
-    "title": "30-60-90 Superfast",
-    "desc": "Catch the 30-60-90 Superfast News, where our lively anchor delivers quick updates from every sector to keep you informed and on-the-go! Perfect for your busy life!"
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775703600000,
-    "stopTs": 1775705400000,
-    "title": "Local To Global Superfast",
-    "desc": "A news anchor shares a special report highlighting today&apos;s important news, bringing viewers the latest updates and insights in an engaging and casual way."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775705400000,
-    "stopTs": 1775707200000,
-    "title": "News 100",
-    "desc": "A host shares 100 top news updates from India and worldwide, covering politics, society, economy, and sports, delivering a concise daily briefing."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775707200000,
-    "stopTs": 1775709000000,
-    "title": "Bharatvarsh Ka No 1 Bulletin",
-    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775709000000,
-    "stopTs": 1775712600000,
-    "title": "10 AM Special Debate",
-    "desc": "The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775712600000,
-    "stopTs": 1775716200000,
-    "title": "11 AM Special Debate",
-    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economy, politics, sports and entertainment."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775716200000,
-    "stopTs": 1775718000000,
-    "title": "12 PM Special",
-    "desc": "Tune in to the 12 PM Special where the news anchor shares intriguing updates and highlights from around the world"
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775718000000,
-    "stopTs": 1775719800000,
-    "title": "12 PM Special",
-    "desc": "Tune in to the 12 PM Special where the news anchor shares intriguing updates and highlights from around the world"
-  },
-  {
-    "start": "07:30",
-    "stop": "08:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775719800000,
-    "stopTs": 1775723400000,
-    "title": "Bharatvarsh Ka No 1 Bulletin",
-    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775723400000,
-    "stopTs": 1775727000000,
-    "title": "Loud & Clear",
-    "desc": "A news anchor shares a special report highlighting today&apos;s important news, bringing viewers the latest updates and insights in an engaging and casual way."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775727000000,
-    "stopTs": 1775728800000,
-    "title": "3 PM Special",
-    "desc": "The host presents the latest news stories, important developments and major updates that impact people in different parts of the country."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775728800000,
-    "stopTs": 1775730600000,
-    "title": "3 30 PM Special",
-    "desc": "Get the latest updates on national and international news, entertainment, and sports-all in one place, keeping you informed and engaged."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775730600000,
-    "stopTs": 1775734200000,
-    "title": "Full & Final",
-    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775734200000,
-    "stopTs": 1775736000000,
-    "title": "Bharatvarsh Ka No 1 Bulletin",
-    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775736000000,
-    "stopTs": 1775737800000,
-    "title": "Bharatvarsh Ka No 1 Bulletin",
-    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775737800000,
-    "stopTs": 1775741400000,
-    "title": "Adi -Debate Show",
-    "desc": "Debate Show - On The Current Issue"
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775741400000,
-    "stopTs": 1775743200000,
-    "title": "Satta",
-    "desc": "A news anchor shares a special report highlighting today&apos;s important news, bringing viewers the latest updates and insights in an engaging and casual way."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775743200000,
-    "stopTs": 1775745000000,
-    "title": "News Top 9",
-    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economy, politics, sports and entertainment."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775745000000,
-    "stopTs": 1775748600000,
-    "title": "Super Prime Time",
-    "desc": "The host shares top news from India and around the world. Stay updated with important stories, events, and headlines that matter to you every day."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775748600000,
-    "stopTs": 1775752200000,
-    "title": "Fikr Aap Ki",
-    "desc": "The host presents the latest news stories, important developments and major updates that impact people in different parts of the country."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775752200000,
-    "stopTs": 1775755800000,
-    "title": "Parvah Desh Ki",
-    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economy, politics, sports and entertainment."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775755800000,
-    "stopTs": 1775757600000,
-    "title": "Super Prime Time",
-    "desc": "The host shares top news from India and around the world. Stay updated with important stories, events, and headlines that matter to you every day."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775757600000,
-    "stopTs": 1775759400000,
-    "title": "Super Prime Time",
-    "desc": "The host shares top news from India and around the world. Stay updated with important stories, events, and headlines that matter to you every day."
-  },
-  {
-    "start": "18:30",
-    "stop": "00:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775759400000,
-    "stopTs": 1775781000000,
-    "title": "News",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775781000000,
-    "stopTs": 1775782800000,
-    "title": "6 AM SPECIAL",
-    "desc": "The host provides a detailed report featuring the latest updates and key developments surrounding matters of national and international significance."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775782800000,
-    "stopTs": 1775784600000,
-    "title": "06:30 AM SPECIAL",
-    "desc": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775784600000,
-    "stopTs": 1775786400000,
-    "title": "News 100",
-    "desc": "The host presents the top 100 news updates pertaining to the political, social, economic and sports fronts from around the country and the world."
-  },
-  {
     "start": "02:00",
     "stop": "02:30",
     "channel": "TV9Bharatvarsh.in",
@@ -338,18 +19,7 @@
     "startTs": 1775788200000,
     "stopTs": 1775790000000,
     "title": "30-60-90 Superfast",
-    "desc": "The host collates and presents the latest socio-economic news and political updates and developments in quick succession."
-  },
-  {
-    "start": "02:40",
-    "stop": "02:40",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1775788800000,
-    "stopTs": 1775875200000,
-    "title": "TV9 Bharatvarsh",
-    "desc": ""
+    "desc": "Catch the 30-60-90 Superfast News, where our lively anchor delivers quick updates from every sector to keep you informed and on-the-go! Perfect for your busy life!"
   },
   {
     "start": "03:00",
@@ -359,8 +29,8 @@
     "channelName": "TV9 Bharatvarsh",
     "startTs": 1775790000000,
     "stopTs": 1775791800000,
-    "title": "Local to Global Superfast",
-    "desc": "Bringing the best in television."
+    "title": "Local To Global Superfast",
+    "desc": "A news anchor shares a special report highlighting today&apos;s important news, bringing viewers the latest updates and insights in an engaging and casual way."
   },
   {
     "start": "03:30",
@@ -371,7 +41,7 @@
     "startTs": 1775791800000,
     "stopTs": 1775793600000,
     "title": "News 100",
-    "desc": "The host presents the top 100 news updates pertaining to the political, social, economic and sports fronts from around the country and the world."
+    "desc": "A host shares 100 top news updates from India and worldwide, covering politics, society, economy, and sports, delivering a concise daily briefing."
   },
   {
     "start": "04:00",
@@ -381,8 +51,8 @@
     "channelName": "TV9 Bharatvarsh",
     "startTs": 1775793600000,
     "stopTs": 1775795400000,
-    "title": "Bharatvarsh ka No 1 bulletin",
-    "desc": "The host presents the latest news updates and stories pertaining to global events of social, political and economic significance."
+    "title": "Bharatvarsh Ka No 1 Bulletin",
+    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
   },
   {
     "start": "04:30",
@@ -392,8 +62,8 @@
     "channelName": "TV9 Bharatvarsh",
     "startTs": 1775795400000,
     "stopTs": 1775799000000,
-    "title": "10 am Spl Debate",
-    "desc": "The host invites a panel of experts and engages in insightful debates on a range of important topics related to the latest developments and issues that concern society."
+    "title": "10 AM Special Debate",
+    "desc": "The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues."
   },
   {
     "start": "05:30",
@@ -403,8 +73,8 @@
     "channelName": "TV9 Bharatvarsh",
     "startTs": 1775799000000,
     "stopTs": 1775802600000,
-    "title": "11 am Spl Debate",
-    "desc": "The host facilitates debates with various experts on the panel, who provide different perspectives on issues of national importance."
+    "title": "11 AM Special Debate",
+    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economy, politics, sports and entertainment."
   },
   {
     "start": "06:30",
@@ -414,8 +84,8 @@
     "channelName": "TV9 Bharatvarsh",
     "startTs": 1775802600000,
     "stopTs": 1775804400000,
-    "title": "12 PM Spl",
-    "desc": "The host provide a comprehensive insight into the latest news, current affairs and developments on a range of issues of public interest."
+    "title": "12 PM Special",
+    "desc": "Tune in to the 12 PM Special where the news anchor shares intriguing updates and highlights from around the world"
   },
   {
     "start": "07:00",
@@ -425,8 +95,8 @@
     "channelName": "TV9 Bharatvarsh",
     "startTs": 1775804400000,
     "stopTs": 1775806200000,
-    "title": "12 PM Spl",
-    "desc": "The host provide a comprehensive insight into the latest news, current affairs and developments on a range of issues of public interest."
+    "title": "12 PM Special",
+    "desc": "Tune in to the 12 PM Special where the news anchor shares intriguing updates and highlights from around the world"
   },
   {
     "start": "07:30",
@@ -436,8 +106,8 @@
     "channelName": "TV9 Bharatvarsh",
     "startTs": 1775806200000,
     "stopTs": 1775809800000,
-    "title": "Bharatvarsh ka No 1 bulletin",
-    "desc": "The host presents the latest news updates and stories pertaining to global events of social, political and economic significance."
+    "title": "Bharatvarsh Ka No 1 Bulletin",
+    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
   },
   {
     "start": "08:30",
@@ -448,7 +118,7 @@
     "startTs": 1775809800000,
     "stopTs": 1775813400000,
     "title": "Loud & Clear",
-    "desc": "The host presents the latest news and updates on political and socio-economic developments and issues from all over the country and around the world."
+    "desc": "A news anchor shares a special report highlighting today&apos;s important news, bringing viewers the latest updates and insights in an engaging and casual way."
   },
   {
     "start": "09:30",
@@ -458,8 +128,8 @@
     "channelName": "TV9 Bharatvarsh",
     "startTs": 1775813400000,
     "stopTs": 1775815200000,
-    "title": "3 Pm Spl",
-    "desc": "The host presents the latest news headlines and updates pertaining to various political and socio-economic issues around the country."
+    "title": "3 PM Special",
+    "desc": "The host presents the latest news stories, important developments and major updates that impact people in different parts of the country."
   },
   {
     "start": "10:00",
@@ -469,8 +139,8 @@
     "channelName": "TV9 Bharatvarsh",
     "startTs": 1775815200000,
     "stopTs": 1775817000000,
-    "title": "3:30 pm Spl",
-    "desc": "The host presents the latest updates and key developments pertaining to various political and socio-economic issues across the nation."
+    "title": "3 30 PM Special",
+    "desc": "Get the latest updates on national and international news, entertainment, and sports-all in one place, keeping you informed and engaged."
   },
   {
     "start": "10:30",
@@ -481,18 +151,29 @@
     "startTs": 1775817000000,
     "stopTs": 1775820600000,
     "title": "Full & Final",
-    "desc": "The host presents the latest updates and headlines on the social, economic, and political issues and shares information on current affairs."
+    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
   },
   {
     "start": "11:30",
-    "stop": "12:30",
+    "stop": "12:00",
     "channel": "TV9Bharatvarsh.in",
     "channelId": "TV9Bharatvarsh.in",
     "channelName": "TV9 Bharatvarsh",
     "startTs": 1775820600000,
+    "stopTs": 1775822400000,
+    "title": "Bharatvarsh Ka No 1 Bulletin",
+    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775822400000,
     "stopTs": 1775824200000,
-    "title": "News Counter",
-    "desc": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
+    "title": "Bharatvarsh Ka No 1 Bulletin",
+    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
   },
   {
     "start": "12:30",
@@ -503,7 +184,7 @@
     "startTs": 1775824200000,
     "stopTs": 1775827800000,
     "title": "Adi -Debate Show",
-    "desc": "The host facilitates discussions and debates with experts, who present their viewpoint on matters of national importance."
+    "desc": "Debate Show - On The Current Issue"
   },
   {
     "start": "13:30",
@@ -514,7 +195,7 @@
     "startTs": 1775827800000,
     "stopTs": 1775829600000,
     "title": "Satta",
-    "desc": "The host presents a detailed overview of the latest news updates and developments pertaining to various issues and engages in an insightful discussion with experts."
+    "desc": "A news anchor shares a special report highlighting today&apos;s important news, bringing viewers the latest updates and insights in an engaging and casual way."
   },
   {
     "start": "14:00",
@@ -525,7 +206,7 @@
     "startTs": 1775829600000,
     "stopTs": 1775831400000,
     "title": "News Top 9",
-    "desc": "The host highlights the nine most significant news stories of the day, offering concise, accurate and insightful coverage of national as well as global events."
+    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economy, politics, sports and entertainment."
   },
   {
     "start": "14:30",
@@ -536,7 +217,7 @@
     "startTs": 1775831400000,
     "stopTs": 1775835000000,
     "title": "Super Prime Time",
-    "desc": "The host provides the latest information, advancements and developments on key political, economic and social issues from around the world."
+    "desc": "The host shares top news from India and around the world. Stay updated with important stories, events, and headlines that matter to you every day."
   },
   {
     "start": "15:30",
@@ -546,8 +227,8 @@
     "channelName": "TV9 Bharatvarsh",
     "startTs": 1775835000000,
     "stopTs": 1775838600000,
-    "title": "Fikr Aap ki",
-    "desc": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
+    "title": "Fikr Aap Ki",
+    "desc": "The host presents the latest news stories, important developments and major updates that impact people in different parts of the country."
   },
   {
     "start": "16:30",
@@ -557,8 +238,8 @@
     "channelName": "TV9 Bharatvarsh",
     "startTs": 1775838600000,
     "stopTs": 1775842200000,
-    "title": "Parvah desh Ki",
-    "desc": "The host delivers in-depth reports on current and historical governance and socio-political issues that have shaped the world."
+    "title": "Parvah Desh Ki",
+    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economy, politics, sports and entertainment."
   },
   {
     "start": "17:30",
@@ -568,8 +249,8 @@
     "channelName": "TV9 Bharatvarsh",
     "startTs": 1775842200000,
     "stopTs": 1775844000000,
-    "title": "Super Prime time",
-    "desc": "The host provides a comprehensive and detailed coverage into the latest news and developments, domestically and internationally."
+    "title": "Super Prime Time",
+    "desc": "The host shares top news from India and around the world. Stay updated with important stories, events, and headlines that matter to you every day."
   },
   {
     "start": "18:00",
@@ -579,7 +260,381 @@
     "channelName": "TV9 Bharatvarsh",
     "startTs": 1775844000000,
     "stopTs": 1775845800000,
-    "title": "Super Prime time",
-    "desc": "The host provides a comprehensive and detailed coverage into the latest news and developments, domestically and internationally."
+    "title": "Super Prime Time",
+    "desc": "The host shares top news from India and around the world. Stay updated with important stories, events, and headlines that matter to you every day."
+  },
+  {
+    "start": "18:30",
+    "stop": "00:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775845800000,
+    "stopTs": 1775867400000,
+    "title": "News",
+    "desc": "The host presents the latest political, social, sports and economic news updates and speaks about the recent developments from around the world."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775867400000,
+    "stopTs": 1775869200000,
+    "title": "6 AM Special",
+    "desc": "Catch our special programming every morning at 6 AM! Tune in for fresh content and start your day with something exciting."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775869200000,
+    "stopTs": 1775871000000,
+    "title": "06:30 AM Special",
+    "desc": "Catch our special programming every morning at 6 AM! Tune in for fresh content and start your day with something exciting."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775871000000,
+    "stopTs": 1775872800000,
+    "title": "News 100",
+    "desc": "A host shares 100 top news updates from India and worldwide, covering politics, society, economy, and sports, delivering a concise daily briefing."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775872800000,
+    "stopTs": 1775874600000,
+    "title": "Agenda Full & Final",
+    "desc": "TV9 Bharatvarsh&apos;s Agenda FandF presents current affairs and trending topics in a casual, engaging format, blending news with lively discussions and viewer-friendly insights."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775874600000,
+    "stopTs": 1775876400000,
+    "title": "30-60-90 Superfast",
+    "desc": "Catch the 30-60-90 Superfast News, where our lively anchor delivers quick updates from every sector to keep you informed and on-the-go! Perfect for your busy life!"
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775876400000,
+    "stopTs": 1775878200000,
+    "title": "Local To Global Superfast",
+    "desc": "A news anchor shares a special report highlighting today&apos;s important news, bringing viewers the latest updates and insights in an engaging and casual way."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775878200000,
+    "stopTs": 1775880000000,
+    "title": "News 100",
+    "desc": "A host shares 100 top news updates from India and worldwide, covering politics, society, economy, and sports, delivering a concise daily briefing."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775880000000,
+    "stopTs": 1775881800000,
+    "title": "Bharatvarsh Ka No 1 Bulletin",
+    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775881800000,
+    "stopTs": 1775885400000,
+    "title": "10 AM Special Debate",
+    "desc": "The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775885400000,
+    "stopTs": 1775889000000,
+    "title": "11 AM Special Debate",
+    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economy, politics, sports and entertainment."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775889000000,
+    "stopTs": 1775890800000,
+    "title": "12 PM Special",
+    "desc": "Tune in to the 12 PM Special where the news anchor shares intriguing updates and highlights from around the world"
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775890800000,
+    "stopTs": 1775892600000,
+    "title": "12 PM Special",
+    "desc": "Tune in to the 12 PM Special where the news anchor shares intriguing updates and highlights from around the world"
+  },
+  {
+    "start": "07:30",
+    "stop": "08:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775892600000,
+    "stopTs": 1775896200000,
+    "title": "Bharatvarsh Ka No 1 Bulletin",
+    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775896200000,
+    "stopTs": 1775899800000,
+    "title": "2 PM Special",
+    "desc": "Join our charismatic host as they deliver the latest news in a fun and engaging way, keeping you informed and entertained with every bulletin!"
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775899800000,
+    "stopTs": 1775901600000,
+    "title": "3 PM Special",
+    "desc": "The host presents the latest news stories, important developments and major updates that impact people in different parts of the country."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775901600000,
+    "stopTs": 1775903400000,
+    "title": "3 30 PM Special",
+    "desc": "Get the latest updates on national and international news, entertainment, and sports-all in one place, keeping you informed and engaged."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775903400000,
+    "stopTs": 1775907000000,
+    "title": "Full & Final",
+    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775907000000,
+    "stopTs": 1775908800000,
+    "title": "Newsmaker",
+    "desc": "The host highlights individuals making headlines with their unique ideas, innovations, or influence, showcasing their impact on media and society."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775908800000,
+    "stopTs": 1775910600000,
+    "title": "Bharatvarsh Ka No 1 Bulletin",
+    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775910600000,
+    "stopTs": 1775914200000,
+    "title": "Adi -Debate Show",
+    "desc": "Debate Show - On The Current Issue"
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775914200000,
+    "stopTs": 1775916000000,
+    "title": "Satta",
+    "desc": "A news anchor shares a special report highlighting today&apos;s important news, bringing viewers the latest updates and insights in an engaging and casual way."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775916000000,
+    "stopTs": 1775917800000,
+    "title": "News Top 9",
+    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economy, politics, sports and entertainment."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775917800000,
+    "stopTs": 1775921400000,
+    "title": "Super Prime Time",
+    "desc": "The host shares top news from India and around the world. Stay updated with important stories, events, and headlines that matter to you every day."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775921400000,
+    "stopTs": 1775925000000,
+    "title": "Drishyam",
+    "desc": "Discover amazing stories from history, mythology, and nature. This show investigates mysteries and facts to reveal hidden truths and give you a new way to see the world."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775925000000,
+    "stopTs": 1775928600000,
+    "title": "Telly Series",
+    "desc": "Report Like A Web Series On The Burning National Issues That Are Capable Of Seeking Major Amount Of Attention From The Masses"
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775928600000,
+    "stopTs": 1775930400000,
+    "title": "Super Prime Time",
+    "desc": "The host shares top news from India and around the world. Stay updated with important stories, events, and headlines that matter to you every day."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775930400000,
+    "stopTs": 1775932200000,
+    "title": "Super Prime Time",
+    "desc": "The host shares top news from India and around the world. Stay updated with important stories, events, and headlines that matter to you every day."
+  },
+  {
+    "start": "18:30",
+    "stop": "00:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775932200000,
+    "stopTs": 1775953800000,
+    "title": "News",
+    "desc": "The host presents the latest political, social, sports and economic news updates and speaks about the recent developments from around the world."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775953800000,
+    "stopTs": 1775955600000,
+    "title": "6 AM Special",
+    "desc": "Catch our special programming every morning at 6 AM! Tune in for fresh content and start your day with something exciting."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775955600000,
+    "stopTs": 1775957400000,
+    "title": "06:30 AM Special",
+    "desc": "Catch our special programming every morning at 6 AM! Tune in for fresh content and start your day with something exciting."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775957400000,
+    "stopTs": 1775959200000,
+    "title": "News 100",
+    "desc": "A host shares 100 top news updates from India and worldwide, covering politics, society, economy, and sports, delivering a concise daily briefing."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775959200000,
+    "stopTs": 1775961000000,
+    "title": "Agenda Full & Final",
+    "desc": "TV9 Bharatvarsh&apos;s Agenda FandF presents current affairs and trending topics in a casual, engaging format, blending news with lively discussions and viewer-friendly insights."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1775961000000,
+    "stopTs": 1775962800000,
+    "title": "30-60-90 Superfast",
+    "desc": "Catch the 30-60-90 Superfast News, where our lively anchor delivers quick updates from every sector to keep you informed and on-the-go! Perfect for your busy life!"
   }
 ]
