@@ -1,12 +1,23 @@
 [
   {
+    "start": "01:00",
+    "stop": "02:00",
+    "channel": "ALJAZEERA.in",
+    "channelId": "ALJAZEERA.in",
+    "channelName": "ALJAZEERA",
+    "startTs": 1775869200000,
+    "stopTs": 1775872800000,
+    "title": "Global Warning",
+    "desc": "Bringing the best in television."
+  },
+  {
     "start": "02:00",
     "stop": "02:30",
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775786400000,
-    "stopTs": 1775788200000,
+    "startTs": 1775872800000,
+    "stopTs": 1775874600000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -16,10 +27,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775788200000,
-    "stopTs": 1775790000000,
-    "title": "The Bottom Line",
-    "desc": "U.S. political scientist John Mearsheimer argues that the U.S. may want a quick exit from the Iran War, but the fallout will be far-reaching."
+    "startTs": 1775874600000,
+    "stopTs": 1775876400000,
+    "title": "The Global Population Bust",
+    "desc": "As birthrates crash worldwide, the hidden forces reshaping family, fertility, and the future of humanity are explored."
   },
   {
     "start": "03:00",
@@ -27,8 +38,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775790000000,
-    "stopTs": 1775791800000,
+    "startTs": 1775876400000,
+    "stopTs": 1775878200000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -38,10 +49,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775791800000,
-    "stopTs": 1775793600000,
-    "title": "People and Power",
-    "desc": "Investigative documentary series examining the use and abuse of power."
+    "startTs": 1775878200000,
+    "stopTs": 1775880000000,
+    "title": "101 East",
+    "desc": "101 East investigates if the small Micronesian nation of Palau could hold the key to saving the world&apos;s coral reefs from climate-induced destruction."
   },
   {
     "start": "04:00",
@@ -49,8 +60,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775793600000,
-    "stopTs": 1775795400000,
+    "startTs": 1775880000000,
+    "stopTs": 1775881800000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -60,10 +71,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775795400000,
-    "stopTs": 1775797200000,
-    "title": "The Stream",
-    "desc": "The host, along with experts, discusses various stories that are making rounds on social media platforms and listens to netizens as they share key stories using photos, tweets and videos."
+    "startTs": 1775881800000,
+    "stopTs": 1775883600000,
+    "title": "UpFront",
+    "desc": "Frank, blunt and inquisitive, Upfront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers."
   },
   {
     "start": "05:00",
@@ -71,8 +82,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775797200000,
-    "stopTs": 1775799000000,
+    "startTs": 1775883600000,
+    "stopTs": 1775885400000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -82,10 +93,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775799000000,
-    "stopTs": 1775800800000,
+    "startTs": 1775885400000,
+    "stopTs": 1775887200000,
     "title": "Inside Story",
-    "desc": "Beyond the headlines to the heart of the news of the day. Get the Inside Story from some of the best minds in the Middle East and beyond."
+    "desc": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond."
   },
   {
     "start": "06:00",
@@ -93,8 +104,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775800800000,
-    "stopTs": 1775802600000,
+    "startTs": 1775887200000,
+    "stopTs": 1775889000000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -104,10 +115,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775802600000,
-    "stopTs": 1775804400000,
-    "title": "Reframe",
-    "desc": "In this first episode of Reframe, Fatima Bhutto speaks to Omar Barghouti, co-founder of the Divestment &amp; Sanctions Movement (BDS)."
+    "startTs": 1775889000000,
+    "stopTs": 1775890800000,
+    "title": "Witness",
+    "desc": "Inspirational and provocative stories providing a fresh and informative insight into the world&apos;s key events as they impact on the lives of ordinary people."
   },
   {
     "start": "07:00",
@@ -115,8 +126,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775804400000,
-    "stopTs": 1775806200000,
+    "startTs": 1775890800000,
+    "stopTs": 1775892600000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -126,10 +137,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775806200000,
-    "stopTs": 1775808000000,
-    "title": "The Global Population Bust",
-    "desc": "As birthrates crash worldwide, the hidden forces reshaping family, fertility, and the future of humanity are explored."
+    "startTs": 1775892600000,
+    "stopTs": 1775894400000,
+    "title": "People and Power",
+    "desc": "Investigative documentary series examining the use and abuse of power."
   },
   {
     "start": "08:00",
@@ -137,8 +148,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775808000000,
-    "stopTs": 1775809800000,
+    "startTs": 1775894400000,
+    "stopTs": 1775896200000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -148,10 +159,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775809800000,
-    "stopTs": 1775811600000,
-    "title": "David Kaye; Talk to Al Jazeera",
-    "desc": "UN&apos;s point man on social media discusses how to eliminate dangerous speech without jeopardising freedom of expression."
+    "startTs": 1775896200000,
+    "stopTs": 1775898000000,
+    "title": "The Stream",
+    "desc": "The host, along with experts, discusses various stories that are making rounds on social media platforms and listens to netizens as they share key stories using photos, tweets and videos."
   },
   {
     "start": "09:00",
@@ -159,8 +170,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775811600000,
-    "stopTs": 1775813400000,
+    "startTs": 1775898000000,
+    "stopTs": 1775899800000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -170,10 +181,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775813400000,
-    "stopTs": 1775815200000,
-    "title": "101 East",
-    "desc": "101 East investigates if the small Micronesian nation of Palau could hold the key to saving the world&apos;s coral reefs from climate-induced destruction."
+    "startTs": 1775899800000,
+    "stopTs": 1775901600000,
+    "title": "Counting the Cost",
+    "desc": "The show features the economical stories that shape our world and has an effect on the lives of the common human beings."
   },
   {
     "start": "10:00",
@@ -181,8 +192,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775815200000,
-    "stopTs": 1775818800000,
+    "startTs": 1775901600000,
+    "stopTs": 1775905200000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   },
@@ -192,8 +203,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775818800000,
-    "stopTs": 1775820600000,
+    "startTs": 1775905200000,
+    "stopTs": 1775907000000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -203,10 +214,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775820600000,
-    "stopTs": 1775822400000,
+    "startTs": 1775907000000,
+    "stopTs": 1775908800000,
     "title": "Inside Story",
-    "desc": "Beyond the headlines to the heart of the news of the day. Get the Inside Story from some of the best minds in the Middle East and beyond."
+    "desc": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond."
   },
   {
     "start": "12:00",
@@ -214,10 +225,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775822400000,
-    "stopTs": 1775826000000,
-    "title": "Global Warning",
-    "desc": "Bringing the best in television."
+    "startTs": 1775908800000,
+    "stopTs": 1775912400000,
+    "title": "Al Jazeera World",
+    "desc": "A series of one-hour documentaries showcasing films from across the Al Jazeera Network."
   },
   {
     "start": "13:00",
@@ -225,8 +236,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775826000000,
-    "stopTs": 1775829600000,
+    "startTs": 1775912400000,
+    "stopTs": 1775916000000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   },
@@ -236,8 +247,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775829600000,
-    "stopTs": 1775831400000,
+    "startTs": 1775916000000,
+    "stopTs": 1775917800000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -247,10 +258,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775831400000,
-    "stopTs": 1775833200000,
-    "title": "The Stream",
-    "desc": "The host, along with experts, discusses various stories that are making rounds on social media platforms and listens to netizens as they share key stories using photos, tweets and videos."
+    "startTs": 1775917800000,
+    "stopTs": 1775919600000,
+    "title": "UpFront",
+    "desc": "Frank, blunt and inquisitive, Upfront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers."
   },
   {
     "start": "15:00",
@@ -258,8 +269,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1775833200000,
-    "stopTs": 1775836800000,
+    "startTs": 1775919600000,
+    "stopTs": 1775923200000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   }

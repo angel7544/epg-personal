@@ -1,12 +1,23 @@
 [
   {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "TV5News.in",
+    "channelId": "TV5News.in",
+    "channelName": "TV 5 News",
+    "startTs": 1775871000000,
+    "stopTs": 1775872800000,
+    "title": "7 AM News",
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
     "start": "02:00",
     "stop": "03:00",
     "channel": "TV5News.in",
     "channelId": "TV5News.in",
     "channelName": "TV 5 News",
-    "startTs": 1775786400000,
-    "stopTs": 1775790000000,
+    "startTs": 1775872800000,
+    "stopTs": 1775876400000,
     "title": "News Scan",
     "desc": "The host sheds light on the latest news updates and developments, pertaining to society, economics, politics and health from across the country."
   },
@@ -16,10 +27,10 @@
     "channel": "TV5News.in",
     "channelId": "TV5News.in",
     "channelName": "TV 5 News",
-    "startTs": 1775790000000,
-    "stopTs": 1775791800000,
-    "title": "Business Breakfast",
-    "desc": "The host updates the viewers with the performance of the stock market indices and other business related matters across the country."
+    "startTs": 1775876400000,
+    "stopTs": 1775878200000,
+    "title": "Business Weekend",
+    "desc": "The host sheds light on the week&apos;s updates, top news stories and key developments pertaining to the field of business and finance."
   },
   {
     "start": "03:30",
@@ -27,8 +38,8 @@
     "channel": "TV5News.in",
     "channelId": "TV5News.in",
     "channelName": "TV 5 News",
-    "startTs": 1775791800000,
-    "stopTs": 1775793600000,
+    "startTs": 1775878200000,
+    "stopTs": 1775880000000,
     "title": "9 AM News",
     "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
@@ -38,8 +49,8 @@
     "channel": "TV5News.in",
     "channelId": "TV5News.in",
     "channelName": "TV 5 News",
-    "startTs": 1775793600000,
-    "stopTs": 1775795400000,
+    "startTs": 1775880000000,
+    "stopTs": 1775881800000,
     "title": "Favourite 5",
     "desc": "A comprehensive compilation featuring various popular songs, scenes, dialogues and dances from renowned movies is played."
   },
@@ -49,8 +60,8 @@
     "channel": "TV5News.in",
     "channelId": "TV5News.in",
     "channelName": "TV 5 News",
-    "startTs": 1775795400000,
-    "stopTs": 1775797200000,
+    "startTs": 1775881800000,
+    "stopTs": 1775883600000,
     "title": "10 AM News",
     "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
@@ -60,8 +71,8 @@
     "channel": "TV5News.in",
     "channelId": "TV5News.in",
     "channelName": "TV 5 News",
-    "startTs": 1775797200000,
-    "stopTs": 1775799000000,
+    "startTs": 1775883600000,
+    "stopTs": 1775885400000,
     "title": "Special Focus",
     "desc": "The host provides a detailed analysis of significant events, offering clear insights and breaking down complex topics to reveal their deeper meanings and impact on society."
   },
@@ -71,8 +82,8 @@
     "channel": "TV5News.in",
     "channelId": "TV5News.in",
     "channelName": "TV 5 News",
-    "startTs": 1775799000000,
-    "stopTs": 1775802600000,
+    "startTs": 1775885400000,
+    "stopTs": 1775889000000,
     "title": "11 AM News / Big Breaking",
     "desc": "The host presents an insight into the latest news and updates relating to political, social and economic issues from around the world."
   },
@@ -82,8 +93,8 @@
     "channel": "TV5News.in",
     "channelId": "TV5News.in",
     "channelName": "TV 5 News",
-    "startTs": 1775802600000,
-    "stopTs": 1775806200000,
+    "startTs": 1775889000000,
+    "stopTs": 1775892600000,
     "title": "12 Noon News",
     "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
@@ -93,32 +104,21 @@
     "channel": "TV5News.in",
     "channelId": "TV5News.in",
     "channelName": "TV 5 News",
-    "startTs": 1775806200000,
-    "stopTs": 1775809800000,
+    "startTs": 1775892600000,
+    "stopTs": 1775896200000,
     "title": "1 PM News",
     "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "start": "08:30",
-    "stop": "09:00",
-    "channel": "TV5News.in",
-    "channelId": "TV5News.in",
-    "channelName": "TV 5 News",
-    "startTs": 1775809800000,
-    "stopTs": 1775811600000,
-    "title": "2 PM News",
-    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
-  },
-  {
-    "start": "09:00",
     "stop": "09:30",
     "channel": "TV5News.in",
     "channelId": "TV5News.in",
     "channelName": "TV 5 News",
-    "startTs": 1775811600000,
-    "stopTs": 1775813400000,
-    "title": "Big Screen",
-    "desc": "The host presents the latest updates and developments pertaining to upcoming movies, celebrity interviews and gossip from across the world."
+    "startTs": 1775896200000,
+    "stopTs": 1775899800000,
+    "title": "2 PM News",
+    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
   },
   {
     "start": "09:30",
@@ -126,8 +126,8 @@
     "channel": "TV5News.in",
     "channelId": "TV5News.in",
     "channelName": "TV 5 News",
-    "startTs": 1775813400000,
-    "stopTs": 1775815200000,
+    "startTs": 1775899800000,
+    "stopTs": 1775901600000,
     "title": "3 PM News",
     "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
@@ -137,10 +137,10 @@
     "channel": "TV5News.in",
     "channelId": "TV5News.in",
     "channelName": "TV 5 News",
-    "startTs": 1775815200000,
-    "stopTs": 1775817000000,
-    "title": "Health File",
-    "desc": "The host interacts with healthcare professionals to seek insights into various medical conditions, while answering queries from the viewers."
+    "startTs": 1775901600000,
+    "stopTs": 1775903400000,
+    "title": "Commercial Slot",
+    "desc": "The host showcases the features of a wide range of products manufactured by reputed brands that can be purchased from the comfort of one&apos;s home."
   },
   {
     "start": "10:30",
@@ -148,8 +148,8 @@
     "channel": "TV5News.in",
     "channelId": "TV5News.in",
     "channelName": "TV 5 News",
-    "startTs": 1775817000000,
-    "stopTs": 1775820600000,
+    "startTs": 1775903400000,
+    "stopTs": 1775907000000,
     "title": "Telugu States",
     "desc": "The host provides in-depth analysis of political, social and economic developments, offering valuable insights into key issues shaping the region."
   },
@@ -159,32 +159,21 @@
     "channel": "TV5News.in",
     "channelId": "TV5News.in",
     "channelName": "TV 5 News",
-    "startTs": 1775820600000,
-    "stopTs": 1775824200000,
+    "startTs": 1775907000000,
+    "stopTs": 1775910600000,
     "title": "5 PM News",
     "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "start": "12:30",
-    "stop": "13:00",
-    "channel": "TV5News.in",
-    "channelId": "TV5News.in",
-    "channelName": "TV 5 News",
-    "startTs": 1775824200000,
-    "stopTs": 1775826000000,
-    "title": "6 PM News",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "start": "13:00",
     "stop": "13:30",
     "channel": "TV5News.in",
     "channelId": "TV5News.in",
     "channelName": "TV 5 News",
-    "startTs": 1775826000000,
-    "stopTs": 1775827800000,
-    "title": "Filmy Updates",
-    "desc": "The host presents the latest news stories and updates on significant events involving personalities from the regional film industry."
+    "startTs": 1775910600000,
+    "stopTs": 1775914200000,
+    "title": "6 PM News",
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "start": "13:30",
@@ -192,8 +181,8 @@
     "channel": "TV5News.in",
     "channelId": "TV5News.in",
     "channelName": "TV 5 News",
-    "startTs": 1775827800000,
-    "stopTs": 1775833200000,
+    "startTs": 1775914200000,
+    "stopTs": 1775919600000,
     "title": "Top Story",
     "desc": "The host brings critical national and international developments into focus through crisp updates, balanced reporting and expert inputs."
   },
@@ -203,8 +192,8 @@
     "channel": "TV5News.in",
     "channelId": "TV5News.in",
     "channelName": "TV 5 News",
-    "startTs": 1775833200000,
-    "stopTs": 1775835000000,
+    "startTs": 1775919600000,
+    "stopTs": 1775921400000,
     "title": "Mass Mallanna",
     "desc": "The host presents a hilarious commentary on various issues pertaining to political, social, and economic matters across the country."
   },
@@ -214,8 +203,8 @@
     "channel": "TV5News.in",
     "channelId": "TV5News.in",
     "channelName": "TV 5 News",
-    "startTs": 1775835000000,
-    "stopTs": 1775840400000,
+    "startTs": 1775921400000,
+    "stopTs": 1775926800000,
     "title": "Big News",
     "desc": "The host presents a comprehensive analysis of numerous top stories and significant updates from the national and international front."
   }
