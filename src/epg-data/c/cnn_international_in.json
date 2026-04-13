@@ -1,14 +1,14 @@
 [
   {
-    "start": "00:00",
+    "start": "01:00",
     "stop": "04:00",
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1775952000000,
-    "stopTs": 1775966400000,
-    "title": "Smerconish",
-    "desc": "American radio host Michael Smerconish discusses the latest news stories, interviews people about the same and shares his opinions."
+    "startTs": 1776042000000,
+    "stopTs": 1776052800000,
+    "title": "Fareed Zakaria GPS",
+    "desc": "Host Fareed Zakaria analyses international issues and foreign affairs and discusses these matters with esteemed individuals to gain their insights."
   },
   {
     "start": "04:00",
@@ -16,8 +16,8 @@
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1775966400000,
-    "stopTs": 1775970000000,
+    "startTs": 1776052800000,
+    "stopTs": 1776056400000,
     "title": "CNN Newsroom",
     "desc": "The host presents the latest news stories, updates and developments on major issues and events in the US and around the world."
   },
@@ -27,8 +27,8 @@
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1775970000000,
-    "stopTs": 1775973600000,
+    "startTs": 1776056400000,
+    "stopTs": 1776060000000,
     "title": "CNN Newsroom",
     "desc": "The host presents the latest news stories, updates and developments on major issues and events in the US and around the world."
   },
@@ -38,8 +38,8 @@
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1775973600000,
-    "stopTs": 1775977200000,
+    "startTs": 1776060000000,
+    "stopTs": 1776063600000,
     "title": "CNN Newsroom",
     "desc": "The host presents the latest news stories, updates and developments on major issues and events in the US and around the world."
   },
@@ -49,8 +49,8 @@
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1775977200000,
-    "stopTs": 1775980800000,
+    "startTs": 1776063600000,
+    "stopTs": 1776067200000,
     "title": "CNN Newsroom",
     "desc": "The host presents the latest news stories, updates and developments on major issues and events in the US and around the world."
   },
@@ -60,54 +60,76 @@
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1775980800000,
-    "stopTs": 1775984400000,
-    "title": "CNN Newsroom",
-    "desc": "The host presents the latest news stories, updates and developments on major issues and events in the US and around the world."
+    "startTs": 1776067200000,
+    "stopTs": 1776070800000,
+    "title": "The Amanpour Hour",
+    "desc": "Host Christiane Amanpour presents important national and international news stories and provides her insights on the matter."
   },
   {
     "start": "09:00",
+    "stop": "10:00",
+    "channel": "CNNINTERNATIONAL.in",
+    "channelId": "CNNINTERNATIONAL.in",
+    "channelName": "CNN INTERNATIONAL",
+    "startTs": 1776070800000,
+    "stopTs": 1776074400000,
+    "title": "Early Start",
+    "desc": "Take a look at latest news updates pertaining to the political, social, economic and sports fronts from around the world with Rahel Solomon."
+  },
+  {
+    "start": "10:00",
     "stop": "11:00",
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1775984400000,
-    "stopTs": 1775991600000,
-    "title": "CNN Newsroom",
-    "desc": "The host presents the latest news stories, updates and developments on major issues and events in the US and around the world."
+    "startTs": 1776074400000,
+    "stopTs": 1776078000000,
+    "title": "CNN This Morning",
+    "desc": "The hosts present some of the most important news stories, reports and happenings of national and international significance."
   },
   {
     "start": "11:00",
-    "stop": "12:00",
+    "stop": "12:30",
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1775991600000,
-    "stopTs": 1775995200000,
-    "title": "CNN This Morning Weekend",
-    "desc": "The hosts present the latest national and international news updates and developments from various spheres including business and politics."
+    "startTs": 1776078000000,
+    "stopTs": 1776083400000,
+    "title": "CNN News Central",
+    "desc": "The host presents news updates and the latest information on some of the trending and significant stories of global significance."
   },
   {
-    "start": "12:00",
+    "start": "12:30",
     "stop": "13:00",
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1775995200000,
-    "stopTs": 1775998800000,
-    "title": "Inside Politics With Manu Raju",
-    "desc": "Host Manu Raju holds in-depth conversations with experts and analysts to discuss important news stories from the political front."
+    "startTs": 1776083400000,
+    "stopTs": 1776085200000,
+    "title": "World Sport",
+    "desc": "A look into global athletic achievements, offering detailed updates and expert views on competitions, rankings and standout moments across different sporting arenas."
   },
   {
     "start": "13:00",
+    "stop": "13:45",
+    "channel": "CNNINTERNATIONAL.in",
+    "channelId": "CNNINTERNATIONAL.in",
+    "channelName": "CNN INTERNATIONAL",
+    "startTs": 1776085200000,
+    "stopTs": 1776087900000,
+    "title": "Connect the World",
+    "desc": "The host sheds light on important news stories and events happening all around the world that have an impact on an international level."
+  },
+  {
+    "start": "13:45",
     "stop": "14:00",
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1775998800000,
-    "stopTs": 1776002400000,
-    "title": "State of the Union With Jake Tapper and Dana Bash",
-    "desc": "Jake Tapper and Dana Bash discuss urgent domestic matters and international diplomacy with prominent newsmakers, analysts and experts."
+    "startTs": 1776087900000,
+    "stopTs": 1776088800000,
+    "title": "World Sport",
+    "desc": "A look into global athletic achievements, offering detailed updates and expert views on competitions, rankings and standout moments across different sporting arenas."
   },
   {
     "start": "14:00",
@@ -115,10 +137,10 @@
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1776002400000,
-    "stopTs": 1776006000000,
-    "title": "Fareed Zakaria GPS",
-    "desc": "Host Fareed Zakaria analyses international issues and foreign affairs and discusses these matters with esteemed individuals to gain their insights."
+    "startTs": 1776088800000,
+    "stopTs": 1776092400000,
+    "title": "Connect the World",
+    "desc": "The host sheds light on important news stories and events happening all around the world that have an impact on an international level."
   },
   {
     "start": "15:00",
@@ -126,9 +148,9 @@
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1776006000000,
-    "stopTs": 1776009600000,
-    "title": "Inside Politics With Manu Raju",
-    "desc": "Host Manu Raju holds in-depth conversations with experts and analysts to discuss important news stories from the political front."
+    "startTs": 1776092400000,
+    "stopTs": 1776096000000,
+    "title": "One World",
+    "desc": "The host delivers the latest headlines from across the globe and discusses a myriad of topics with contributors and experts."
   }
 ]
