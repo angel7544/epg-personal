@@ -2,332 +2,57 @@
   {
     "start": "00:30",
     "stop": "03:30",
-    "channel": "STARMOVIESHD.in",
-    "channelId": "STARMOVIESHD.in",
-    "channelName": "STAR MOVIES HD",
-    "startTs": 1776040200000,
-    "stopTs": 1776051000000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "01:33",
-    "stop": "03:10",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776043980000,
-    "stopTs": 1776049800000,
-    "title": "Frozen",
-    "desc": "The Kingdom of Arendelle is trapped in an eternal winter, Anna sets off to find her sister, Elsa to put an end to icy spell and save Arendelle."
-  },
-  {
-    "start": "01:38",
-    "stop": "03:13",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776044280000,
-    "stopTs": 1776049980000,
-    "title": "Frozen",
-    "desc": "When Elsa&apos;s icy powers plunge Arendelle into eternal winter, her sister Anna teams up with friends on a brave journey to thaw the kingdom and discover the true power of love."
-  },
-  {
-    "start": "03:10",
-    "stop": "05:12",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776049800000,
-    "stopTs": 1776057120000,
-    "title": "X-Men: Days of Future Past",
-    "desc": "The X-Men send Wolverine to the past in an effort to change history and prevent an event that results in destruction of both humans and mutants."
-  },
-  {
-    "start": "03:13",
-    "stop": "05:14",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776049980000,
-    "stopTs": 1776057240000,
-    "title": "X-Men: Days of Future Past",
-    "desc": "The X-Men send Wolverine to the past in an effort to change history and prevent an event that results in destruction of both humans and mutants."
-  },
-  {
-    "start": "03:30",
-    "stop": "06:30",
-    "channel": "STARMOVIESHD.in",
-    "channelId": "STARMOVIESHD.in",
-    "channelName": "STAR MOVIES HD",
-    "startTs": 1776051000000,
-    "stopTs": 1776061800000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "05:12",
-    "stop": "06:54",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776057120000,
-    "stopTs": 1776063240000,
-    "title": "Train To Busan",
-    "desc": "Passengers fight viral outbreak to reach zombie free city of Busan."
-  },
-  {
-    "start": "05:14",
-    "stop": "06:54",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776057240000,
-    "stopTs": 1776063240000,
-    "title": "Train To Busan",
-    "desc": "Passengers combat zombie outbreak on train journey from Seoul to Busan."
-  },
-  {
-    "start": "06:30",
-    "stop": "09:30",
-    "channel": "STARMOVIESHD.in",
-    "channelId": "STARMOVIESHD.in",
-    "channelName": "STAR MOVIES HD",
-    "startTs": 1776061800000,
-    "stopTs": 1776072600000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "06:54",
-    "stop": "09:08",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776063240000,
-    "stopTs": 1776071280000,
-    "title": "Kingsman: The Golden Circle",
-    "desc": "The surviving agents of Kingsman, with Americans, take down the drug cartel."
-  },
-  {
-    "start": "09:08",
-    "stop": "11:31",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776071280000,
-    "stopTs": 1776079860000,
-    "title": "Captain America: Civil War",
-    "desc": "The meddling of Avengers leads to a rift between Captain America and Iron Man."
-  },
-  {
-    "start": "09:11",
-    "stop": "11:34",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776071460000,
-    "stopTs": 1776080040000,
-    "title": "Captain America: Civil War",
-    "desc": "Political interference splits Captain America and Iron Man."
-  },
-  {
-    "start": "09:30",
-    "stop": "12:30",
-    "channel": "STARMOVIESHD.in",
-    "channelId": "STARMOVIESHD.in",
-    "channelName": "STAR MOVIES HD",
-    "startTs": 1776072600000,
-    "stopTs": 1776083400000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "11:31",
-    "stop": "13:21",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776079860000,
-    "stopTs": 1776086460000,
-    "title": "Predator (1987)",
-    "desc": "Commando team hunted by extraterrestrial warrior in jungle mission."
-  },
-  {
-    "start": "11:34",
-    "stop": "13:23",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776080040000,
-    "stopTs": 1776086580000,
-    "title": "Predator (1987)",
-    "desc": "Commandos hunted by alien in jungle."
-  },
-  {
-    "start": "12:30",
-    "stop": "15:30",
-    "channel": "STARMOVIESHD.in",
-    "channelId": "STARMOVIESHD.in",
-    "channelName": "STAR MOVIES HD",
-    "startTs": 1776083400000,
-    "stopTs": 1776094200000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "13:21",
-    "stop": "15:15",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776086460000,
-    "stopTs": 1776093300000,
-    "title": "The Lion King",
-    "desc": "Simba flees after his father&apos;s murder, returns to reclaim his kingdom."
-  },
-  {
-    "start": "13:23",
-    "stop": "15:15",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776086580000,
-    "stopTs": 1776093300000,
-    "title": "The Lion King",
-    "desc": "Young lion returns to end uncle&apos;s tyranny and exiled after father&apos;s death."
-  },
-  {
-    "start": "15:15",
-    "stop": "17:06",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776093300000,
-    "stopTs": 1776099960000,
-    "title": "The Incredible Hulk",
-    "desc": "Bruce Banner hunts for a cure to the gamma radiation that poisoned his cells and unleashes the unbridled force of rage within him - The Hulk."
-  },
-  {
-    "start": "15:30",
-    "stop": "18:30",
-    "channel": "STARMOVIESHD.in",
-    "channelId": "STARMOVIESHD.in",
-    "channelName": "STAR MOVIES HD",
-    "startTs": 1776094200000,
-    "stopTs": 1776105000000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "17:05",
-    "stop": "18:43",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776099900000,
-    "stopTs": 1776105780000,
-    "title": "Hitman: Agent 47",
-    "desc": "An assassin teams up with a woman to help her find her father and uncover the mysteries of her ancestry."
-  },
-  {
-    "start": "17:06",
-    "stop": "18:41",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776099960000,
-    "stopTs": 1776105660000,
-    "title": "Hitman: Agent 47",
-    "desc": "An assassin teams up with a woman to help her find her father."
-  },
-  {
-    "start": "18:41",
-    "stop": "19:59",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776105660000,
-    "stopTs": 1776110340000,
-    "title": "Ip Man: The Awakening",
-    "desc": "Ip Man foils a kidnapping, sparking revenge that threatens his friends&apos; safety."
-  },
-  {
-    "start": "18:43",
-    "stop": "20:01",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776105780000,
-    "stopTs": 1776110460000,
-    "title": "Ip Man: The Awakening",
-    "desc": "Ip Man foils a kidnapping, sparking revenge that threatens his friends&apos; safety."
-  },
-  {
-    "start": "19:59",
-    "stop": "20:08",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776110340000,
-    "stopTs": 1776110880000,
-    "title": "Filler",
-    "desc": "Check out the latest promos, catchy music, and fun fillers from your favorite movies and shows. Stay updated on everything entertaining and enjoy a sneak peek into the action!"
-  },
-  {
-    "start": "20:01",
-    "stop": "20:07",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776110460000,
-    "stopTs": 1776110820000,
-    "title": "Filler",
-    "desc": "Catch non-stop promos, music, and fun fillers from your favorite movies and shows. It&apos;s the perfect way to enjoy all the excitement without missing a beat!"
-  },
-  {
-    "start": "20:07",
-    "stop": "21:30",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776110820000,
-    "stopTs": 1776115800000,
-    "title": "Cosmoball",
-    "desc": "Galactic war near Earth destroys moon, shifts planet&apos;s poles."
-  },
-  {
-    "start": "20:08",
-    "stop": "21:30",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776110880000,
-    "stopTs": 1776115800000,
-    "title": "Cosmoball",
-    "desc": "Galactic war near Earth destroys moon, shifts planet&apos;s poles."
-  },
-  {
-    "start": "21:30",
-    "stop": "00:30",
-    "channel": "StarMovies.in",
-    "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
-    "startTs": 1776115800000,
-    "stopTs": 1776126600000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
-  },
-  {
-    "start": "00:30",
-    "stop": "03:30",
     "channel": "StarMovies.in",
     "channelId": "StarMovies.in",
     "channelName": "STAR MOVIES",
     "startTs": 1776126600000,
     "stopTs": 1776137400000,
     "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "01:19",
+    "stop": "02:48",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "Star Movies",
+    "startTs": 1776129540000,
+    "stopTs": 1776134880000,
+    "title": "Tasmanian Devils",
+    "desc": "A bunch of adventurous base jumpers ends up voyaging to a prohibited zone of the Tasmanian wilderness. Subsequently, ancient and huge Tasmanian devils get awakened and start targeting the friends."
+  },
+  {
+    "start": "01:20",
+    "stop": "02:50",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "Star Movies",
+    "startTs": 1776129600000,
+    "stopTs": 1776135000000,
+    "title": "Tasmanian Devils",
+    "desc": "A bunch of adventurous base jumpers ends up voyaging to a prohibited zone of the Tasmanian wilderness. Subsequently, ancient and huge Tasmanian devils get awakened and start targeting the friends."
+  },
+  {
+    "start": "02:48",
+    "stop": "04:21",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776134880000,
+    "stopTs": 1776140460000,
+    "title": "Tangled",
+    "desc": "Rapunzel takes the help of a runaway thief to explore the world and discover who she really is."
+  },
+  {
+    "start": "02:50",
+    "stop": "04:23",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776135000000,
+    "stopTs": 1776140580000,
+    "title": "Tangled",
+    "desc": "Rapunzel takes the help of a thief to explore the world."
   },
   {
     "start": "03:30",
@@ -338,7 +63,51 @@
     "startTs": 1776137400000,
     "stopTs": 1776148200000,
     "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "04:21",
+    "stop": "05:57",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776140460000,
+    "stopTs": 1776146220000,
+    "title": "Deadpool",
+    "desc": "Ajax, a twisted scientist, experiments on Wade Wilson, a mercenary, to cure him of cancer and give him healing powers."
+  },
+  {
+    "start": "04:23",
+    "stop": "06:00",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776140580000,
+    "stopTs": 1776146400000,
+    "title": "Deadpool",
+    "desc": "Ajax a scientist, experiments on Wade Wilson, a mercenary to cure him of cancer."
+  },
+  {
+    "start": "05:57",
+    "stop": "07:57",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776146220000,
+    "stopTs": 1776153420000,
+    "title": "Pirates Of The Caribbean: Salazar&apos;s Revenge",
+    "desc": "Captain Jack Sparrow faces deadly ghost sailors led by Captain Salazar. To survive, he must find the Trident of Poseidon and confront his haunted pirate past."
+  },
+  {
+    "start": "06:00",
+    "stop": "08:01",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776146400000,
+    "stopTs": 1776153660000,
+    "title": "Pirates Of The Caribbean: Salazar&apos;s Revenge",
+    "desc": "A swashbuckling pirate returns with a haunted crew and epic battles, racing to retrieve a legendary artifact to break an ancient curse."
   },
   {
     "start": "06:30",
@@ -349,7 +118,40 @@
     "startTs": 1776148200000,
     "stopTs": 1776159000000,
     "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "07:57",
+    "stop": "09:29",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776153420000,
+    "stopTs": 1776158940000,
+    "title": "Alien Vs. Predator",
+    "desc": "A team of archaeologists investigate a spot and discover an alien species. Their life is endangered when they are hunted by aliens and predators."
+  },
+  {
+    "start": "08:01",
+    "stop": "09:34",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776153660000,
+    "stopTs": 1776159240000,
+    "title": "Alien Vs. Predator",
+    "desc": "A team of archaeologists investigate a spot and discover an alien species. Their life is endangered when they are hunted by aliens and predators."
+  },
+  {
+    "start": "09:29",
+    "stop": "11:19",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776158940000,
+    "stopTs": 1776165540000,
+    "title": "Thor : The Dark World",
+    "desc": "Thor sets out on a journey to defeat Malekith, the leader of the Dark Elves when he returns to Asgard to retrieve a dangerous weapon and fulfill his desire of destroying the Nine Realms."
   },
   {
     "start": "09:30",
@@ -360,7 +162,40 @@
     "startTs": 1776159000000,
     "stopTs": 1776169800000,
     "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "09:34",
+    "stop": "11:22",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776159240000,
+    "stopTs": 1776165720000,
+    "title": "Thor: The Dark World",
+    "desc": "Thor battles to protect the 9 Realms from an enemy that predates the universe."
+  },
+  {
+    "start": "11:19",
+    "stop": "12:50",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776165540000,
+    "stopTs": 1776171000000,
+    "title": "Taken 2",
+    "desc": "Retired CIA agent Bryan Mills employs his unique tactics to get his family to safety and systematically takes out the kidnappers."
+  },
+  {
+    "start": "11:22",
+    "stop": "12:52",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776165720000,
+    "stopTs": 1776171120000,
+    "title": "Taken 2",
+    "desc": "Retired CIA agent Bryan Mills employs his unique tactics to get his family to safety and systematically takes out the kidnappers."
   },
   {
     "start": "12:30",
@@ -371,7 +206,40 @@
     "startTs": 1776169800000,
     "stopTs": 1776180600000,
     "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "12:50",
+    "stop": "15:15",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776171000000,
+    "stopTs": 1776179700000,
+    "title": "Maze Runner: The Death Cure",
+    "desc": "Thomas and friends seek cure in Last City."
+  },
+  {
+    "start": "12:52",
+    "stop": "15:15",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776171120000,
+    "stopTs": 1776179700000,
+    "title": "Maze Runner: The Death Cure",
+    "desc": "Thomas and friends seek cure in Last City."
+  },
+  {
+    "start": "15:15",
+    "stop": "18:26",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776179700000,
+    "stopTs": 1776191160000,
+    "title": "Avatar: The Way Of Water",
+    "desc": "Jake protects Pandora with Neytiri and Na&apos;vi army."
   },
   {
     "start": "15:30",
@@ -382,29 +250,95 @@
     "startTs": 1776180600000,
     "stopTs": 1776191400000,
     "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "desc": "Bringing the best in television."
   },
   {
-    "start": "18:30",
-    "stop": "21:30",
+    "start": "18:26",
+    "stop": "20:18",
     "channel": "StarMovies.in",
     "channelId": "StarMovies.in",
     "channelName": "STAR MOVIES",
-    "startTs": 1776191400000,
-    "stopTs": 1776202200000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "startTs": 1776191160000,
+    "stopTs": 1776197880000,
+    "title": "Ant-Man And The Wasp",
+    "desc": "Scott Lang, along with the wasp, help Dr Hank Pym in entering the quantum realm."
+  },
+  {
+    "start": "18:27",
+    "stop": "20:19",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776191220000,
+    "stopTs": 1776197940000,
+    "title": "Ant-Man And The Wasp",
+    "desc": "Scott Lang and the Wasp aid Dr. Hank Pym while facing new enemies."
+  },
+  {
+    "start": "20:18",
+    "stop": "21:56",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776197880000,
+    "stopTs": 1776203760000,
+    "title": "Sword Master",
+    "desc": "A Chinese martial arts saga about a swordsman seeking redemption, filled with graceful action sequences and poetic storytelling."
+  },
+  {
+    "start": "20:19",
+    "stop": "21:58",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776197940000,
+    "stopTs": 1776203880000,
+    "title": "Sword Master",
+    "desc": "A weary swordsman seeks peace but is drawn back into duels by past rivals. In a world of honor and bloodshed, he must confront his destiny and sharpen his soul."
   },
   {
     "start": "21:30",
     "stop": "00:30",
     "channel": "StarMovies.in",
     "channelId": "StarMovies.in",
-    "channelName": "STAR MOVIES",
+    "channelName": "Star Movies",
     "startTs": 1776202200000,
     "stopTs": 1776213000000,
     "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "21:56",
+    "stop": "22:03",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776203760000,
+    "stopTs": 1776204180000,
+    "title": "Filler",
+    "desc": "Check out the latest promos, catchy music, and fun fillers from your favorite movies and shows. Stay updated on everything entertaining and enjoy a sneak peek into the action!"
+  },
+  {
+    "start": "21:58",
+    "stop": "22:03",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776203880000,
+    "stopTs": 1776204180000,
+    "title": "Filler",
+    "desc": "Catch non-stop promos, music, and fun fillers from your favorite movies and shows. It&apos;s the perfect way to enjoy all the excitement without missing a beat!"
+  },
+  {
+    "start": "22:03",
+    "stop": "00:30",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776204180000,
+    "stopTs": 1776213000000,
+    "title": "Samson",
+    "desc": "When his youthful ambition leads to a tragic marriage, the all-powerful Samson embarks on a quest for vengeance that brings him into direct conflict with the Philistine army."
   },
   {
     "start": "00:30",
@@ -414,6 +348,94 @@
     "channelName": "STAR MOVIES",
     "startTs": 1776213000000,
     "stopTs": 1776223800000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "03:30",
+    "stop": "06:30",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776223800000,
+    "stopTs": 1776234600000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "06:30",
+    "stop": "09:30",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776234600000,
+    "stopTs": 1776245400000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "09:30",
+    "stop": "12:30",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776245400000,
+    "stopTs": 1776256200000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "12:30",
+    "stop": "15:30",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776256200000,
+    "stopTs": 1776267000000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "15:30",
+    "stop": "18:30",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776267000000,
+    "stopTs": 1776277800000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "18:30",
+    "stop": "21:30",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776277800000,
+    "stopTs": 1776288600000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "21:30",
+    "stop": "00:30",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776288600000,
+    "stopTs": 1776299400000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "00:30",
+    "stop": "03:30",
+    "channel": "StarMovies.in",
+    "channelId": "StarMovies.in",
+    "channelName": "STAR MOVIES",
+    "startTs": 1776299400000,
+    "stopTs": 1776310200000,
     "title": "Movie",
     "desc": "The movie name is yet to be announced by the channel."
   }

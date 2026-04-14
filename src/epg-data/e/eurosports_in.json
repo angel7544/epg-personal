@@ -1,14 +1,36 @@
 [
   {
+    "start": "01:30",
+    "stop": "02:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1776130200000,
+    "stopTs": 1776133800000,
+    "title": "Best of Six Sides of Steel; TNA Epics",
+    "desc": "This is Sport - Wrestling Category."
+  },
+  {
+    "start": "02:30",
+    "stop": "04:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1776133800000,
+    "stopTs": 1776141000000,
+    "title": "TNA Impact",
+    "desc": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win."
+  },
+  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1776054600000,
-    "stopTs": 1776058200000,
-    "title": "The Hardys, Team 3D and AMW; TNA Wrestling: Legends",
-    "desc": "The host and a panel of sports experts analyse and discuss the performance of wrestling legends, The Hardys, Team 3D and AMW during their various fights in the TNA."
+    "startTs": 1776141000000,
+    "stopTs": 1776144600000,
+    "title": "Best of Steel Cage Matches; TNA Wrestling: Legends",
+    "desc": "This is Sport - Wrestling Category."
   },
   {
     "start": "05:30",
@@ -16,31 +38,31 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1776058200000,
-    "stopTs": 1776065400000,
-    "title": "Inter Miami CF at Orlando City SC; MLS Soccer",
+    "startTs": 1776144600000,
+    "stopTs": 1776151800000,
+    "title": "Toronto FC vs. FC Cincinnati; Major League Soccer",
     "desc": "Professional football players compete against each other in the MLS Soccer."
   },
   {
     "start": "07:30",
-    "stop": "10:45",
+    "stop": "10:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1776065400000,
-    "stopTs": 1776077100000,
-    "title": "Pittsburgh; Professional Fighters League",
-    "desc": "Professional fighters from around the world compete against each other in a prestigious tournament in a bid to win the coveted title."
+    "startTs": 1776151800000,
+    "stopTs": 1776162600000,
+    "title": "TNA No Surrender",
+    "desc": "A pro-wrestling event featuring ten matches including championship fights that took place at Sam&apos;s Town Live in Sunrise Manor, Nevada."
   },
   {
-    "start": "10:45",
+    "start": "10:30",
     "stop": "12:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1776077100000,
-    "stopTs": 1776083400000,
-    "title": "Rajasthan Titans vs. Chennai Super Champs; World Pickleball League",
+    "startTs": 1776162600000,
+    "stopTs": 1776169800000,
+    "title": "Bengaluru Jawans vs. Dilli Dillwale; World Pickleball League",
     "desc": "Players from different parts of the world participate in the World Pickleball League and showcase their unique skills in order to emerge victorious."
   },
   {
@@ -49,31 +71,20 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1776083400000,
-    "stopTs": 1776090600000,
-    "title": "TNA Impact",
-    "desc": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win."
+    "startTs": 1776169800000,
+    "stopTs": 1776177000000,
+    "title": "AEW Collision",
+    "desc": "Popular pro-wrestlers from the AEW Roster compete against each other in fights every Saturday to win the championship title."
   },
   {
     "start": "14:30",
-    "stop": "15:30",
+    "stop": "16:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1776090600000,
-    "stopTs": 1776094200000,
-    "title": "RD 29; Dutch League Highlights",
-    "desc": "Highlights from the matches played in round 29 of the Dutch Eredivisie League, where professional football clubs compete against each other for victory."
-  },
-  {
-    "start": "15:30",
-    "stop": "18:30",
-    "channel": "EUROSPORTSHD.in",
-    "channelId": "EUROSPORTSHD.in",
-    "channelName": "EUROSPORTS HD",
-    "startTs": 1776094200000,
-    "stopTs": 1776105000000,
-    "title": "AEW Dynasty",
-    "desc": "This is Sport - Wrestling Category."
+    "startTs": 1776177000000,
+    "stopTs": 1776184200000,
+    "title": "Orlando City SC vs. Columbus Crew; MLS Soccer",
+    "desc": "En provenance du ScottsMiracle-Gro Field à Columbus, en Ohio."
   }
 ]
