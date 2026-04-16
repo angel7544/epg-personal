@@ -1,421 +1,69 @@
 [
   {
-    "start": "01:00",
-    "stop": "04:13",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema",
-    "startTs": 1776214800000,
-    "stopTs": 1776226380000,
-    "title": "The Faith Show",
-    "desc": "Histories that teach us about sharing love and overcoming obstacles with the Word of Jesus Christ."
-  },
-  {
-    "start": "01:21",
-    "stop": "03:55",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema",
-    "startTs": 1776216060000,
-    "stopTs": 1776225300000,
-    "title": "Mirugaa",
-    "desc": "A serial killer and a man-eating tiger terrorise the innocent in Kotagiri, Tamil Nadu."
-  },
-  {
-    "start": "01:30",
-    "stop": "04:19",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
-    "startTs": 1776216600000,
-    "stopTs": 1776226740000,
-    "title": "Aacharya",
-    "desc": "Starring: Chiranjeevi,Ram Charan. Centered on a Naxalite-turned-reformer, this action film portrays his battle against misused temple funds by the Endowments Department."
-  },
-  {
-    "start": "01:36",
-    "stop": "03:54",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
-    "startTs": 1776216960000,
-    "stopTs": 1776225240000,
-    "title": "Mirugaa",
-    "desc": "Starring: Srikanth,Raai Laxmi. A killer stalks a wealthy woman in the woods. Just then, chaos erupts-a tiger hunt begins, and suddenly, survival isn&apos;t so one-sided anymore."
-  },
-  {
-    "start": "02:06",
-    "stop": "04:13",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "ZEE CINEMA",
-    "startTs": 1776218760000,
-    "stopTs": 1776226380000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "03:54",
-    "stop": "06:17",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
-    "startTs": 1776225240000,
-    "stopTs": 1776233820000,
-    "title": "Mission Raniganj",
-    "desc": "Starring: Akshay Kumar,Parineeti Chopra. Mining engineer Jaswant Singh Gill leads a challenging rescue mission to save 65 miners trapped in a flooded coal mine."
-  },
-  {
-    "start": "03:55",
-    "stop": "06:11",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema",
-    "startTs": 1776225300000,
-    "stopTs": 1776233460000,
-    "title": "Mission Raniganj",
-    "desc": "An engineer leads a challenging rescue mission to save 65 miners trapped in a flooded coal mine."
-  },
-  {
-    "start": "04:13",
-    "stop": "06:54",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema",
-    "startTs": 1776226380000,
-    "stopTs": 1776236040000,
-    "title": "Mission Raniganj",
-    "desc": "An engineer leads a challenging rescue mission to save 65 miners trapped in a flooded coal mine."
-  },
-  {
-    "start": "04:19",
-    "stop": "06:23",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
-    "startTs": 1776226740000,
-    "stopTs": 1776234180000,
-    "title": "Mission Raniganj",
-    "desc": "Starring: Akshay Kumar,Parineeti Chopra. Mining engineer Jaswant Singh Gill leads a challenging rescue mission to save 65 miners trapped in a flooded coal mine."
-  },
-  {
-    "start": "06:11",
-    "stop": "09:34",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema",
-    "startTs": 1776233460000,
-    "stopTs": 1776245640000,
-    "title": "Koi ... Mil Gaya",
-    "desc": "A young man, with special needs, inherits extraordinary powers from an alien entity."
-  },
-  {
-    "start": "06:17",
-    "stop": "09:21",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
-    "startTs": 1776233820000,
-    "stopTs": 1776244860000,
-    "title": "Koi Mil Gaya",
-    "desc": "Starring: Hrithik Roshan,Priety Zinta. Rohit, a specially-abled boy, befriends an alien. Police pursue the extraterrestrial, testing Rohit&apos;s resolve to protect his newfound friend."
-  },
-  {
-    "start": "06:23",
-    "stop": "09:34",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
-    "startTs": 1776234180000,
-    "stopTs": 1776245640000,
-    "title": "Koi Mil Gaya",
-    "desc": "Starring: Hrithik Roshan,Priety Zinta. Rohit, a specially-abled boy, befriends an alien. Police pursue the extraterrestrial, testing Rohit&apos;s resolve to protect his newfound friend."
-  },
-  {
-    "start": "06:54",
-    "stop": "10:18",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema",
-    "startTs": 1776236040000,
-    "stopTs": 1776248280000,
-    "title": "Vivah: A Journey From Engagement to Marriage",
-    "desc": "After Poonam has a tragic accident, she and her fiancé must show their faith and love."
-  },
-  {
-    "start": "09:21",
-    "stop": "12:09",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
-    "startTs": 1776244860000,
-    "stopTs": 1776254940000,
-    "title": "Bengal Tiger",
-    "desc": "Starring: Ravi Teja,Tamannaah Bhatia. Simple man Akash loves politician Gajapathi&apos;s daughter, Meera. When Gajapathi discovers Akash&apos;s father&apos;s identity, suspicions arise about past vendettas."
-  },
-  {
-    "start": "09:34",
-    "stop": "11:50",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema",
-    "startTs": 1776245640000,
-    "stopTs": 1776253800000,
-    "title": "Bengal Tiger",
-    "desc": "A simple man falls in love with the daughter of a politician who hides a dark secret."
-  },
-  {
-    "start": "10:18",
-    "stop": "12:20",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema",
-    "startTs": 1776248280000,
-    "stopTs": 1776255600000,
-    "title": "Chatrapathi",
-    "desc": "Separated during a conflict, a refugee is on a quest to reunite with his adopted family."
-  },
-  {
-    "start": "11:40",
-    "stop": "14:24",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
-    "startTs": 1776253200000,
-    "stopTs": 1776263040000,
-    "title": "Bhaje Vaayu Vegam",
-    "desc": "Starring: Tanikella Bharani,Krishna Chaitanya. A budding cricketer bets big to fund his father&apos;s surgery but is betrayed by a bookie. Seeking revenge, he lands on a crime website, facing unexpected dangers that test his resolve."
-  },
-  {
-    "start": "11:50",
-    "stop": "14:30",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema",
-    "startTs": 1776253800000,
-    "stopTs": 1776263400000,
-    "title": "Bhaje Vaayu Vegam",
-    "desc": "A budding cricketer bets big to fund his father&apos;s surgery but is betrayed by a bookie."
-  },
-  {
-    "start": "12:09",
-    "stop": "14:31",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
-    "startTs": 1776254940000,
-    "stopTs": 1776263460000,
-    "title": "Bhaje Vaayu Vegam",
-    "desc": "Starring: Tanikella Bharani,Krishna Chaitanya. A budding cricketer bets big to fund his father&apos;s surgery but is betrayed by a bookie. Seeking revenge, he lands on a crime website, facing unexpected dangers that test his resolve."
-  },
-  {
-    "start": "12:20",
-    "stop": "15:00",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema",
-    "startTs": 1776255600000,
-    "stopTs": 1776265200000,
-    "title": "Bhaje Vaayu Vegam",
-    "desc": "A budding cricketer bets big to fund his father&apos;s surgery but is betrayed by a bookie."
-  },
-  {
-    "start": "14:24",
-    "stop": "17:37",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
-    "startTs": 1776263040000,
-    "stopTs": 1776274620000,
-    "title": "Kaatera",
-    "desc": "Starring: Darshan Thoogudeepa,Jagapathi Babu. Kaatera, a blacksmith from Bheemanahalli, risks his life to confront feudal landlords and ensure a reform act that gives farmers long-awaited freedom, justice, hope, and change."
-  },
-  {
-    "start": "14:30",
-    "stop": "17:49",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema",
-    "startTs": 1776263400000,
-    "stopTs": 1776275340000,
-    "title": "Kaatera",
-    "desc": "Kaatera faces threats so that a reforms act gets implemented for the farmers&apos; betterment."
-  },
-  {
-    "start": "14:31",
-    "stop": "17:30",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
-    "startTs": 1776263460000,
-    "stopTs": 1776274200000,
-    "title": "Kaatera",
-    "desc": "Starring: Darshan Thoogudeepa,Jagapathi Babu. Kaatera, a blacksmith from Bheemanahalli, risks his life to confront feudal landlords and ensure a reform act that gives farmers long-awaited freedom, justice, hope, and change."
-  },
-  {
-    "start": "15:00",
-    "stop": "17:52",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema",
-    "startTs": 1776265200000,
-    "stopTs": 1776275520000,
-    "title": "Saamy 2",
-    "desc": "Union Minister Viswanathan&apos;s daughter falls in love with Ramasamy after he saves her."
-  },
-  {
-    "start": "17:30",
-    "stop": "19:20",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
-    "startTs": 1776274200000,
-    "stopTs": 1776280800000,
-    "title": "Sirivennela",
-    "desc": "Starring: Balagam Sanjay Krishna,Prabhakar. A paranormal expert meets a child&apos;s vengeful ghost, uncovering a heartbreaking story. The haunting grows darker as she searches for answers and a way to calm the spirit."
-  },
-  {
-    "start": "17:37",
-    "stop": "19:36",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
-    "startTs": 1776274620000,
-    "stopTs": 1776281760000,
-    "title": "Sirivennela",
-    "desc": "Starring: Balagam Sanjay Krishna,Prabhakar. A paranormal expert meets a child&apos;s vengeful ghost, uncovering a heartbreaking story. The haunting grows darker as she searches for answers and a way to calm the spirit."
-  },
-  {
-    "start": "17:49",
-    "stop": "20:30",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema",
-    "startTs": 1776275340000,
-    "stopTs": 1776285000000,
-    "title": "Sirivennela",
-    "desc": "A paranormal investigator encounters a young poltergeist with a tragic past."
-  },
-  {
-    "start": "17:52",
-    "stop": "20:30",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema",
-    "startTs": 1776275520000,
-    "stopTs": 1776285000000,
-    "title": "Sirivennela",
-    "desc": "A paranormal investigator encounters a young poltergeist with a tragic past."
-  },
-  {
-    "start": "19:20",
-    "stop": "21:17",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
-    "startTs": 1776280800000,
-    "stopTs": 1776287820000,
-    "title": "Birju Pandit",
-    "desc": "Starring: Kalyaan Dhev,Rachita Ram. A singer finds himself in trouble when a pretty woman starts pursuing him, claiming to be his girlfriend."
-  },
-  {
-    "start": "19:36",
-    "stop": "21:47",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
-    "startTs": 1776281760000,
-    "stopTs": 1776289620000,
-    "title": "Vaishnavi",
-    "desc": "Starring: Anushka Shetty,Samrat. Vaishnavi&apos;s death leaves her daughter heartbroken. Rajesh, her husband, is stunned to find a woman who resembles Vaishnavi, raising questions that blur the line between fate and reality."
-  },
-  {
-    "start": "20:30",
-    "stop": "01:23",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema",
-    "startTs": 1776285000000,
-    "stopTs": 1776302580000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "21:17",
-    "stop": "23:40",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
-    "startTs": 1776287820000,
-    "stopTs": 1776296400000,
-    "title": "The Real Tiger",
-    "desc": "Starring: Mahesh Babu,Samantha Ruth Prabhu. After years, politician Shankar wakes up from a coma. His son, a cop, recreates everything as would be expected by his father in order to save him from any shock. He also hunts for his father&apos;s foes."
-  },
-  {
-    "start": "21:47",
-    "stop": "22:34",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
-    "startTs": 1776289620000,
-    "stopTs": 1776292440000,
-    "title": "Ek Joshila",
-    "desc": "Ek Joshila"
-  },
-  {
     "start": "22:34",
     "stop": "03:22",
     "channel": "ZeeCinema.in",
     "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
+    "channelName": "Zee Cinema",
     "startTs": 1776292440000,
     "stopTs": 1776309720000,
     "title": "The Real Tiger",
-    "desc": "Starring: Mahesh Babu,Samantha Ruth Prabhu. After years, politician Shankar wakes up from a coma. His son, a cop, recreates everything as would be expected by his father in order to save him from any shock. He also hunts for his father&apos;s foes."
-  },
-  {
-    "start": "22:38",
-    "stop": "01:32",
-    "channel": "ZeeCinema.in",
-    "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema",
-    "startTs": 1776292680000,
-    "stopTs": 1776303120000,
-    "title": "The Real Tiger",
-    "desc": "A cop strives to apprehend a dangerous don who is involved in illicit activities."
+    "desc": "A policeman sets out to hunt down the men who tried to kill his father."
   },
   {
     "start": "23:40",
     "stop": "03:44",
     "channel": "ZeeCinema.in",
     "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
+    "channelName": "Zee Cinema",
     "startTs": 1776296400000,
     "stopTs": 1776311040000,
     "title": "Rogue",
-    "desc": "Starring: Ishan,Mannara Chopra. A young man, shuffling between two jobs, falls for the commissioner&apos;s sister, Anjali, who betrays him. After finishing his time behind bars, he meets another girl named, Anjali, which he despises."
+    "desc": "A heartbroken man swears off women forever, but fate intervenes when he has to save a woman."
   },
   {
     "start": "01:23",
     "stop": "03:22",
     "channel": "ZeeCinema.in",
     "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema",
+    "channelName": "ZEE CINEMA",
     "startTs": 1776302580000,
     "stopTs": 1776309720000,
     "title": "Movie",
     "desc": "Bringing the best in television."
   },
   {
-    "start": "01:32",
-    "stop": "03:44",
+    "start": "01:30",
+    "stop": "03:29",
     "channel": "ZeeCinema.in",
     "channelId": "ZeeCinema.in",
     "channelName": "Zee Cinema",
+    "startTs": 1776303000000,
+    "stopTs": 1776310140000,
+    "title": "Rudrangi",
+    "desc": "Starring: Jagapati Babu,Mamta Mohandas. Tyrant Bheem Rao wants Rudrangi, and he&apos;ll crush anyone in his path. As her village suffers, Rudrangi&apos;s quiet strength becomes the spark for resistance."
+  },
+  {
+    "start": "01:32",
+    "stop": "03:44",
+    "channel": "ZEECINEMAHD.in",
+    "channelId": "ZEECINEMAHD.in",
+    "channelName": "ZEE CINEMA HD",
     "startTs": 1776303120000,
     "stopTs": 1776311040000,
     "title": "Rogue",
-    "desc": "A heartbroken man swears off women forever, but fate intervenes when he has to save a woman."
+    "desc": "After his lover betrays him, a heartbroken man swears off women forever, but fate intervenes when he has to save a woman from a chasing of gangster."
+  },
+  {
+    "start": "01:50",
+    "stop": "03:50",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776304200000,
+    "stopTs": 1776311400000,
+    "title": "Rogue",
+    "desc": "Starring: Ishan,Mannara Chopra. A young man, shuffling between two jobs, falls for the commissioner&apos;s sister, Anjali, who betrays him. After finishing his time behind bars, he meets another girl named, Anjali, which he despises."
   },
   {
     "start": "03:22",
@@ -429,6 +77,17 @@
     "desc": "Akhanda leaves no stone unturned to defeat the nefarious Varadarajulu."
   },
   {
+    "start": "03:29",
+    "stop": "06:30",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776310140000,
+    "stopTs": 1776321000000,
+    "title": "Khatta Meetha",
+    "desc": "Starring: Akshay Kumar,Johny Lever. A small-time contractor faces relentless corruption, political pressure, & personal humiliation while trying to complete honest road projects. His fight exposes the absurdities of a system"
+  },
+  {
     "start": "03:44",
     "stop": "06:17",
     "channel": "ZeeCinema.in",
@@ -438,6 +97,17 @@
     "stopTs": 1776320220000,
     "title": "Vanvaas",
     "desc": "An elderly father, grappling with dementia, embarks on a life-changing journey."
+  },
+  {
+    "start": "03:50",
+    "stop": "06:40",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776311400000,
+    "stopTs": 1776321600000,
+    "title": "Vanvaas",
+    "desc": "Starring: Nana Patekar,Utkarsh Sharma. Left behind by his sons, a dementia-stricken father begins a journey with an unlikely companion-a clever thief determined to help him reunite with his long-forgotten family."
   },
   {
     "start": "06:17",
@@ -451,6 +121,17 @@
     "desc": "An army officer carries out his duty towards his country despite being on a holiday."
   },
   {
+    "start": "06:30",
+    "stop": "09:26",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776321000000,
+    "stopTs": 1776331560000,
+    "title": "Holiday: A Soldier Is Never Off Duty",
+    "desc": "Starring: Akshay Kumar,Sonakshi Sinha. Virat uncovers a terrorist plan to bomb Mumbai. He leads his team into action, risking everything to prevent catastrophe and defend the city."
+  },
+  {
     "start": "06:35",
     "stop": "09:18",
     "channel": "ZeeCinema.in",
@@ -460,6 +141,17 @@
     "stopTs": 1776331080000,
     "title": "Geeta Govinda",
     "desc": "A young lecturer tries to woo an independent and level-headed woman."
+  },
+  {
+    "start": "06:40",
+    "stop": "09:38",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776321600000,
+    "stopTs": 1776332280000,
+    "title": "Holiday: A Soldier Is Never Off Duty",
+    "desc": "Starring: Akshay Kumar,Sonakshi Sinha. Virat uncovers a terrorist plan to bomb Mumbai. He leads his team into action, risking everything to prevent catastrophe and defend the city."
   },
   {
     "start": "09:18",
@@ -473,6 +165,28 @@
     "desc": "A corrupt politician strains the bond between a police officer and his step-brother."
   },
   {
+    "start": "09:26",
+    "stop": "11:57",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776331560000,
+    "stopTs": 1776340620000,
+    "title": "Dabangg",
+    "desc": "Starring: Salman Khan,Sonakshi Sinha. Chulbul Pandey faces off against Baccha Singh, a local goon and aspiring politician. The conflict escalates when Chulbul kills Baccha Singh&apos;s younger brother, intensifying their personal vendetta."
+  },
+  {
+    "start": "09:38",
+    "stop": "12:03",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776332280000,
+    "stopTs": 1776340980000,
+    "title": "Dabangg",
+    "desc": "Starring: Salman Khan,Sonakshi Sinha. Chulbul Pandey faces off against Baccha Singh, a local goon and aspiring politician. The conflict escalates when Chulbul kills Baccha Singh&apos;s younger brother, intensifying their personal vendetta."
+  },
+  {
     "start": "11:55",
     "stop": "14:25",
     "channel": "ZeeCinema.in",
@@ -484,6 +198,28 @@
     "desc": "An inept junior lawyer shows his true colours when bodies start piling up during a case."
   },
   {
+    "start": "11:57",
+    "stop": "14:28",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776340620000,
+    "stopTs": 1776349680000,
+    "title": "Ravanasura",
+    "desc": "Starring: Ravi Teja,Jayaram. Ravindra agrees to defend a murder case, but when more deaths follow, his awkward charm gives way to something far more sinister-and surprising."
+  },
+  {
+    "start": "12:03",
+    "stop": "14:30",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776340980000,
+    "stopTs": 1776349800000,
+    "title": "Ravanasura",
+    "desc": "Starring: Ravi Teja,Jayaram. Ravindra agrees to defend a murder case, but when more deaths follow, his awkward charm gives way to something far more sinister-and surprising."
+  },
+  {
     "start": "14:25",
     "stop": "17:30",
     "channel": "ZeeCinema.in",
@@ -491,8 +227,52 @@
     "channelName": "Zee Cinema",
     "startTs": 1776349500000,
     "stopTs": 1776360600000,
-    "title": "Surya: The Soldier",
-    "desc": "A young man leaves the love of his life behind when he receives a letter from the army."
+    "title": "Surya The Soldier",
+    "desc": "When a soldier lands in trouble due to his anger issues, he begins seeing a psychologist."
+  },
+  {
+    "start": "14:28",
+    "stop": "17:29",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776349680000,
+    "stopTs": 1776360540000,
+    "title": "Surya The Soldier",
+    "desc": "Starring: Allu Arjun,Arjun Sarja. Surya&apos;s temper costs him his dream army post. Now, only a psychologist&apos;s approval stands between him and redemption. Can discipline and healing lead him back to the battlefield?"
+  },
+  {
+    "start": "14:30",
+    "stop": "17:21",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776349800000,
+    "stopTs": 1776360060000,
+    "title": "Surya The Soldier",
+    "desc": "Starring: Allu Arjun,Arjun Sarja. Surya&apos;s temper costs him his dream army post. Now, only a psychologist&apos;s approval stands between him and redemption. Can discipline and healing lead him back to the battlefield?"
+  },
+  {
+    "start": "17:21",
+    "stop": "19:40",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776360060000,
+    "stopTs": 1776368400000,
+    "title": "Kanguva",
+    "desc": "Starring: Suriya,Bobby Deol. Bounty hunter Francis learns he&apos;s the reincarnation of warrior Kanguva. As memories awaken, he must face revenge, redemption, and protect someone precious from his old enemies."
+  },
+  {
+    "start": "17:29",
+    "stop": "19:22",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776360540000,
+    "stopTs": 1776367320000,
+    "title": "Mane Number 13",
+    "desc": "Starring: Ramana ; Sathvika Appaiah ; Varsha Bollamma Nancy ; Chethan Gandharva Ram ; Aishwarya Gowdaa Preethi.. They move into a new house were they start facing horrific incidents at night. It terrifies them to death."
   },
   {
     "start": "17:30",
@@ -506,47 +286,267 @@
     "desc": "Ancient warrior&apos;s fight links to modern bounty hunter&apos;s quest across time."
   },
   {
-    "start": "20:30",
-    "stop": "22:41",
+    "start": "19:22",
+    "stop": "20:56",
     "channel": "ZeeCinema.in",
     "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
-    "startTs": 1776371400000,
-    "stopTs": 1776379260000,
+    "channelName": "Zee Cinema",
+    "startTs": 1776367320000,
+    "stopTs": 1776372960000,
     "title": "Raakshasi",
     "desc": "Starring: Gitanjali,Shamna Kasim. To save a dying woman a man starts experiencing paranormal activities. Realizing that the spirit of the dead woman has returned, he sets out to unravel the mystery to give her closure."
+  },
+  {
+    "start": "19:40",
+    "stop": "21:14",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776368400000,
+    "stopTs": 1776374040000,
+    "title": "Raakshasi",
+    "desc": "Starring: Gitanjali,Shamna Kasim. To save a dying woman a man starts experiencing paranormal activities. Realizing that the spirit of the dead woman has returned, he sets out to unravel the mystery to give her closure."
+  },
+  {
+    "start": "20:30",
+    "stop": "01:54",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776371400000,
+    "stopTs": 1776390840000,
+    "title": "Movie",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "20:56",
+    "stop": "22:42",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776372960000,
+    "stopTs": 1776379320000,
+    "title": "Mahaveer No. 1",
+    "desc": "Starring: Ram Pothineni,Kriti Kharbanda. Sly Adikesavalu controls Ongole market selfishly. White, in love with his daughter, defies his tyranny."
+  },
+  {
+    "start": "21:14",
+    "stop": "23:43",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776374040000,
+    "stopTs": 1776382980000,
+    "title": "Daringbaaz",
+    "desc": "Starring: Pawan Kalyan,Samantha. A billionaire&apos;s grandson, Gautham Nanda, desperately wants to reunite his mother & his grandfather."
   },
   {
     "start": "22:41",
     "stop": "01:29",
     "channel": "ZeeCinema.in",
     "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
+    "channelName": "Zee Cinema",
     "startTs": 1776379260000,
     "stopTs": 1776389340000,
+    "title": "Daring Baaz",
+    "desc": "Goutham resolves to reunite his grandfather with Sunanda, his estranged aunt."
+  },
+  {
+    "start": "22:42",
+    "stop": "01:00",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776379320000,
+    "stopTs": 1776387600000,
     "title": "Daringbaaz",
     "desc": "Starring: Pawan Kalyan,Samantha. A billionaire&apos;s grandson, Gautham Nanda, desperately wants to reunite his mother & his grandfather."
+  },
+  {
+    "start": "23:43",
+    "stop": "04:11",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776382980000,
+    "stopTs": 1776399060000,
+    "title": "Coolie No. 1 (2020)",
+    "desc": "Starring: Varun Dhawan,Paresh Rawal. When a matchmaker is insulted by Rozario, a rich businessman, he vows to exact revenge. As a result, he makes a porter pretend to be a rich man and marries him off to Rozario&apos;s daughter."
+  },
+  {
+    "start": "01:00",
+    "stop": "03:48",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776387600000,
+    "stopTs": 1776397680000,
+    "title": "Movie",
+    "desc": "Movie"
   },
   {
     "start": "01:29",
     "stop": "04:11",
     "channel": "ZeeCinema.in",
     "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
+    "channelName": "Zee Cinema",
     "startTs": 1776389340000,
     "stopTs": 1776399060000,
-    "title": "Coolie No. 1 (2020)",
-    "desc": "Starring: Varun Dhawan,Paresh Rawal. When a matchmaker is insulted by Rozario, a rich businessman, he vows to exact revenge. As a result, he makes a porter pretend to be a rich man and marries him off to Rozario&apos;s daughter."
+    "title": "Coolie No. 1",
+    "desc": "A young man agrees to pose as a tycoon in order to marry the daughter of an arrogant rich man."
   },
   {
     "start": "01:54",
     "stop": "03:48",
     "channel": "ZeeCinema.in",
     "channelId": "ZeeCinema.in",
-    "channelName": "Zee Cinema HD",
+    "channelName": "Zee Cinema",
     "startTs": 1776390840000,
     "stopTs": 1776397680000,
     "title": "Movie",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "03:48",
+    "stop": "06:35",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776397680000,
+    "stopTs": 1776407700000,
+    "title": "Extra Ordinary Man",
+    "desc": "After stumbling upon a golden opportunity, a struggling artist&apos;s life takes a dire turn."
+  },
+  {
+    "start": "04:11",
+    "stop": "06:56",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776399060000,
+    "stopTs": 1776408960000,
+    "title": "Extra Ordinary Man",
+    "desc": "After stumbling upon a golden opportunity, a struggling artist&apos;s life takes a dire turn."
+  },
+  {
+    "start": "06:35",
+    "stop": "10:04",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776407700000,
+    "stopTs": 1776420240000,
+    "title": "Gadar 2",
+    "desc": "Upon learning about his father&apos;s disappearance, a man sets out to rescue him in Pakistan."
+  },
+  {
+    "start": "06:56",
+    "stop": "10:24",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776408960000,
+    "stopTs": 1776421440000,
+    "title": "Gadar 2",
+    "desc": "Upon learning about his father&apos;s disappearance, a man sets out to rescue him in Pakistan."
+  },
+  {
+    "start": "10:04",
+    "stop": "12:20",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776420240000,
+    "stopTs": 1776428400000,
+    "title": "Bengal Tiger",
+    "desc": "A simple man falls in love with the daughter of a politician who hides a dark secret."
+  },
+  {
+    "start": "10:24",
+    "stop": "12:57",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776421440000,
+    "stopTs": 1776430620000,
+    "title": "Marakastra",
+    "desc": "An occultist lends his support to bolster MLA Muddurama&apos;s quest for political power."
+  },
+  {
+    "start": "12:20",
+    "stop": "15:00",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776428400000,
+    "stopTs": 1776438000000,
+    "title": "Chakra Ka Rakshak",
+    "desc": "A police officer and soldier team up to end the cybercriminals that pose a threat."
+  },
+  {
+    "start": "12:57",
+    "stop": "15:00",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776430620000,
+    "stopTs": 1776438000000,
+    "title": "Chatrapathi",
+    "desc": "Separated during a conflict, a refugee is on a quest to reunite with his adopted family."
+  },
+  {
+    "start": "15:00",
+    "stop": "17:49",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776438000000,
+    "stopTs": 1776448140000,
+    "title": "Raid 2",
+    "desc": "An honest Income Tax officer, Amay Patnaik, confronts the corrupt nexus in Bhoj."
+  },
+  {
+    "start": "17:49",
+    "stop": "20:30",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776448140000,
+    "stopTs": 1776457800000,
+    "title": "90ML",
+    "desc": "The life of a man with fetal alcohol syndrome takes a turn when he falls in love."
+  },
+  {
+    "start": "20:30",
+    "stop": "01:21",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776457800000,
+    "stopTs": 1776475260000,
+    "title": "Movie",
     "desc": "Movie"
+  },
+  {
+    "start": "01:21",
+    "stop": "02:41",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776475260000,
+    "stopTs": 1776480060000,
+    "title": "Movie",
+    "desc": "Movie"
+  },
+  {
+    "start": "02:41",
+    "stop": "06:17",
+    "channel": "ZeeCinema.in",
+    "channelId": "ZeeCinema.in",
+    "channelName": "Zee Cinema",
+    "startTs": 1776480060000,
+    "stopTs": 1776493020000,
+    "title": "Krrish",
+    "desc": "Starring: Hrithik Roshan,Priyanka Chopra. A young man with extraordinary powers, Krrish, pursues love in Singapore with Priya. Upon uncovering his father&apos;s fate, he must embrace his abilities."
   }
 ]
