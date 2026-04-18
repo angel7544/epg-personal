@@ -1,522 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776394800000,
-    "stopTs": 1776396600000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776396600000,
-    "stopTs": 1776398400000,
-    "title": "Morning Show",
-    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776398400000,
-    "stopTs": 1776400200000,
-    "title": "Himachal Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Himachal Pradesh."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776400200000,
-    "stopTs": 1776402000000,
-    "title": "Haryana Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Haryana."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776402000000,
-    "stopTs": 1776403800000,
-    "title": "Special Programme",
-    "desc": "Special Programme highlights special events, discussions, and exclusive shows designed to engage and inform the audience on topics of significant interest."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776403800000,
-    "stopTs": 1776405600000,
-    "title": "Haryana Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Haryana."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776405600000,
-    "stopTs": 1776407400000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776407400000,
-    "stopTs": 1776409200000,
-    "title": "Haryana Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Haryana."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776409200000,
-    "stopTs": 1776411000000,
-    "title": "Uttarakhand Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from UttaraKhand."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776411000000,
-    "stopTs": 1776412800000,
-    "title": "News Bulletin",
-    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776412800000,
-    "stopTs": 1776414600000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776414600000,
-    "stopTs": 1776416400000,
-    "title": "Badi Khabar",
-    "desc": "The host sheds light on the latest socio-economic and political news, updates and developments which are making headlines from various parts of the world."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776416400000,
-    "stopTs": 1776418200000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776418200000,
-    "stopTs": 1776420000000,
-    "title": "Headline Abhi Tak",
-    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776420000000,
-    "stopTs": 1776421800000,
-    "title": "Himachal Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Himachal Pradesh."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776421800000,
-    "stopTs": 1776423600000,
-    "title": "Haryana Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Haryana."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776423600000,
-    "stopTs": 1776425400000,
-    "title": "Himachal Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Himachal Pradesh."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776425400000,
-    "stopTs": 1776427200000,
-    "title": "News Time",
-    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776427200000,
-    "stopTs": 1776429000000,
-    "title": "Uttarakhand Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from UttaraKhand."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776429000000,
-    "stopTs": 1776430800000,
-    "title": "Mata Ki Arti",
-    "desc": "Priests perform a Hindu religious ritual amidst chants and hymns at the sacred shrines as the devotees offer prayers to the goddess."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776430800000,
-    "stopTs": 1776432600000,
-    "title": "Mata Ki Arti",
-    "desc": "Priests perform a Hindu religious ritual amidst chants and hymns at the sacred shrines as the devotees offer prayers to the goddess."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776432600000,
-    "stopTs": 1776434400000,
-    "title": "Badi Khabar",
-    "desc": "The host sheds light on the latest socio-economic and political news, updates and developments which are making headlines from various parts of the world."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776434400000,
-    "stopTs": 1776436200000,
-    "title": "Himachal Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Himachal Pradesh."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776436200000,
-    "stopTs": 1776438000000,
-    "title": "Haryana Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Haryana."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776438000000,
-    "stopTs": 1776439800000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776439800000,
-    "stopTs": 1776441600000,
-    "title": "Prime Time",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776441600000,
-    "stopTs": 1776443400000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776443400000,
-    "stopTs": 1776445200000,
-    "title": "Din Bhar Vishesh",
-    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776445200000,
-    "stopTs": 1776447000000,
-    "title": "Uttarakhand Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from UttaraKhand."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776447000000,
-    "stopTs": 1776448800000,
-    "title": "Prime Time",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776448800000,
-    "stopTs": 1776450600000,
-    "title": "Himachal Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Himachal Pradesh."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776450600000,
-    "stopTs": 1776452400000,
-    "title": "Haryana Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Haryana."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776452400000,
-    "stopTs": 1776454200000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776454200000,
-    "stopTs": 1776456000000,
-    "title": "Din Bhar Vishesh",
-    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776456000000,
-    "stopTs": 1776457800000,
-    "title": "Haryana Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Haryana."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776457800000,
-    "stopTs": 1776459600000,
-    "title": "Badi Khabar",
-    "desc": "The host sheds light on the latest socio-economic and political news, updates and developments which are making headlines from various parts of the world."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776459600000,
-    "stopTs": 1776461400000,
-    "title": "Himachal Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Himachal Pradesh."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776461400000,
-    "stopTs": 1776463200000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776463200000,
-    "stopTs": 1776465000000,
-    "title": "Din Bhar Vishesh",
-    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776465000000,
-    "stopTs": 1776466800000,
-    "title": "Haryana Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Haryana."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776466800000,
-    "stopTs": 1776468600000,
-    "title": "Prime Time",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776468600000,
-    "stopTs": 1776470400000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776470400000,
-    "stopTs": 1776472200000,
-    "title": "Din Bhar Vishesh",
-    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776472200000,
-    "stopTs": 1776474000000,
-    "title": "Arti Sheetla Mata",
-    "desc": "Priests perform a Hindu religious ritual amidst chants and hymns at the sacred shrine of Sheetla Mata as the devotees offer prayers to the goddess."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776474000000,
-    "stopTs": 1776475800000,
-    "title": "Arti Mansa Mata",
-    "desc": "Priests perform a Hindu religious ritual amidst chants and hymns at the sacred shrine of Mansa Mata as the devotees offer prayers to the goddess."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776475800000,
-    "stopTs": 1776477600000,
-    "title": "Morning Show",
-    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776477600000,
-    "stopTs": 1776479400000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
-  },
-  {
     "start": "02:30",
     "stop": "03:00",
     "channel": "HNN24x7.in",
@@ -524,8 +7,8 @@
     "channelName": "HNN",
     "startTs": 1776479400000,
     "stopTs": 1776481200000,
-    "title": "Morning Show",
-    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
+    "title": "Good Morning Hindustan",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
   },
   {
     "start": "03:00",
@@ -535,8 +18,8 @@
     "channelName": "HNN",
     "startTs": 1776481200000,
     "stopTs": 1776483000000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
+    "title": "Special Report",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
   },
   {
     "start": "03:30",
@@ -546,8 +29,8 @@
     "channelName": "HNN",
     "startTs": 1776483000000,
     "stopTs": 1776484800000,
-    "title": "Morning Show",
-    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
+    "title": "Nehla Pe Dehla",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
   },
   {
     "start": "04:00",
@@ -557,8 +40,8 @@
     "channelName": "HNN",
     "startTs": 1776484800000,
     "stopTs": 1776486600000,
-    "title": "Himachal Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Himachal Pradesh."
+    "title": "Desh Pradesh",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
   },
   {
     "start": "04:30",
@@ -568,8 +51,8 @@
     "channelName": "HNN",
     "startTs": 1776486600000,
     "stopTs": 1776488400000,
-    "title": "Haryana Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Haryana."
+    "title": "UK Bull",
+    "desc": "An international bulletin covering UK politics, economy, and global developments, offering sharp insights and perspectives relevant to Indian viewers and global audiences."
   },
   {
     "start": "05:00",
@@ -579,8 +62,8 @@
     "channelName": "HNN",
     "startTs": 1776488400000,
     "stopTs": 1776490200000,
-    "title": "Special Programme",
-    "desc": "Special Programme highlights special events, discussions, and exclusive shows designed to engage and inform the audience on topics of significant interest."
+    "title": "Desh Pradesh",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
   },
   {
     "start": "05:30",
@@ -590,8 +73,8 @@
     "channelName": "HNN",
     "startTs": 1776490200000,
     "stopTs": 1776492000000,
-    "title": "Haryana Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Haryana."
+    "title": "UP Bull",
+    "desc": "A state-focused news report highlighting Uttar Pradesh&apos;s major stories in politics, governance, and society, with credible analysis and updates shaping regional discourse."
   },
   {
     "start": "06:00",
@@ -601,8 +84,8 @@
     "channelName": "HNN",
     "startTs": 1776492000000,
     "stopTs": 1776493800000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
+    "title": "News Special",
+    "desc": "A comprehensive feature bringing exclusive stories, investigative reports, and expert opinions, offering deeper understanding of current events shaping national narratives."
   },
   {
     "start": "06:30",
@@ -612,8 +95,8 @@
     "channelName": "HNN",
     "startTs": 1776493800000,
     "stopTs": 1776495600000,
-    "title": "Haryana Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Haryana."
+    "title": "National-Bull",
+    "desc": "A national news segment covering politics, markets, and governance, offering factual reports and grounded insights into India&apos;s fast-changing socio-political landscape."
   },
   {
     "start": "07:00",
@@ -623,8 +106,8 @@
     "channelName": "HNN",
     "startTs": 1776495600000,
     "stopTs": 1776497400000,
-    "title": "Uttarakhand Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from UttaraKhand."
+    "title": "Desh Pradesh",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
   },
   {
     "start": "07:30",
@@ -634,8 +117,8 @@
     "channelName": "HNN",
     "startTs": 1776497400000,
     "stopTs": 1776499200000,
-    "title": "News Bulletin",
-    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
+    "title": "UP Bull",
+    "desc": "A state-focused news report highlighting Uttar Pradesh&apos;s major stories in politics, governance, and society, with credible analysis and updates shaping regional discourse."
   },
   {
     "start": "08:00",
@@ -645,8 +128,8 @@
     "channelName": "HNN",
     "startTs": 1776499200000,
     "stopTs": 1776501000000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
+    "title": "Special Report",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
   },
   {
     "start": "08:30",
@@ -656,8 +139,8 @@
     "channelName": "HNN",
     "startTs": 1776501000000,
     "stopTs": 1776502800000,
-    "title": "Badi Khabar",
-    "desc": "The host sheds light on the latest socio-economic and political news, updates and developments which are making headlines from various parts of the world."
+    "title": "UK Bull",
+    "desc": "An international bulletin covering UK politics, economy, and global developments, offering sharp insights and perspectives relevant to Indian viewers and global audiences."
   },
   {
     "start": "09:00",
@@ -667,8 +150,8 @@
     "channelName": "HNN",
     "startTs": 1776502800000,
     "stopTs": 1776504600000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
+    "title": "Desh Pradesh",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
   },
   {
     "start": "09:30",
@@ -678,8 +161,8 @@
     "channelName": "HNN",
     "startTs": 1776504600000,
     "stopTs": 1776506400000,
-    "title": "Headline Abhi Tak",
-    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
+    "title": "3 Badi Khabar",
+    "desc": "A fast-paced news show covering three major national stories that shape politics, society, and public discourse, delivering concise insights and factual analysis for viewers daily."
   },
   {
     "start": "10:00",
@@ -689,8 +172,8 @@
     "channelName": "HNN",
     "startTs": 1776506400000,
     "stopTs": 1776508200000,
-    "title": "Himachal Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Himachal Pradesh."
+    "title": "News Special",
+    "desc": "A comprehensive feature bringing exclusive stories, investigative reports, and expert opinions, offering deeper understanding of current events shaping national narratives."
   },
   {
     "start": "10:30",
@@ -700,8 +183,8 @@
     "channelName": "HNN",
     "startTs": 1776508200000,
     "stopTs": 1776510000000,
-    "title": "Haryana Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Haryana."
+    "title": "News Special",
+    "desc": "A comprehensive feature bringing exclusive stories, investigative reports, and expert opinions, offering deeper understanding of current events shaping national narratives."
   },
   {
     "start": "11:00",
@@ -711,8 +194,8 @@
     "channelName": "HNN",
     "startTs": 1776510000000,
     "stopTs": 1776511800000,
-    "title": "Himachal Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Himachal Pradesh."
+    "title": "Desh Pradesh",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
   },
   {
     "start": "11:30",
@@ -722,8 +205,8 @@
     "channelName": "HNN",
     "startTs": 1776511800000,
     "stopTs": 1776513600000,
-    "title": "News Time",
-    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
+    "title": "UP Bull",
+    "desc": "A state-focused news report highlighting Uttar Pradesh&apos;s major stories in politics, governance, and society, with credible analysis and updates shaping regional discourse."
   },
   {
     "start": "12:00",
@@ -733,8 +216,8 @@
     "channelName": "HNN",
     "startTs": 1776513600000,
     "stopTs": 1776515400000,
-    "title": "Uttarakhand Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from UttaraKhand."
+    "title": "News Special",
+    "desc": "A comprehensive feature bringing exclusive stories, investigative reports, and expert opinions, offering deeper understanding of current events shaping national narratives."
   },
   {
     "start": "12:30",
@@ -744,8 +227,8 @@
     "channelName": "HNN",
     "startTs": 1776515400000,
     "stopTs": 1776517200000,
-    "title": "Mata Ki Arti",
-    "desc": "Priests perform a Hindu religious ritual amidst chants and hymns at the sacred shrines as the devotees offer prayers to the goddess."
+    "title": "Kab Badlegi Tasveer",
+    "desc": "A political talk show investigating when and how change will come in governance and society, featuring candid debates, public perspectives, and impactful ground reports."
   },
   {
     "start": "13:00",
@@ -755,8 +238,8 @@
     "channelName": "HNN",
     "startTs": 1776517200000,
     "stopTs": 1776519000000,
-    "title": "Mata Ki Arti",
-    "desc": "Priests perform a Hindu religious ritual amidst chants and hymns at the sacred shrines as the devotees offer prayers to the goddess."
+    "title": "Desh Pradesh",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
   },
   {
     "start": "13:30",
@@ -766,8 +249,8 @@
     "channelName": "HNN",
     "startTs": 1776519000000,
     "stopTs": 1776520800000,
-    "title": "Badi Khabar",
-    "desc": "The host sheds light on the latest socio-economic and political news, updates and developments which are making headlines from various parts of the world."
+    "title": "UP Bull",
+    "desc": "A state-focused news report highlighting Uttar Pradesh&apos;s major stories in politics, governance, and society, with credible analysis and updates shaping regional discourse."
   },
   {
     "start": "14:00",
@@ -777,52 +260,30 @@
     "channelName": "HNN",
     "startTs": 1776520800000,
     "stopTs": 1776522600000,
-    "title": "Himachal Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Himachal Pradesh."
+    "title": "Desh Pradesh",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
   },
   {
     "start": "14:30",
-    "stop": "15:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776522600000,
-    "stopTs": 1776524400000,
-    "title": "Haryana Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Haryana."
-  },
-  {
-    "start": "15:00",
     "stop": "15:30",
     "channel": "HNN24x7.in",
     "channelId": "HNN24x7.in",
     "channelName": "HNN",
-    "startTs": 1776524400000,
+    "startTs": 1776522600000,
     "stopTs": 1776526200000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
+    "title": "Debate",
+    "desc": "A spirited panel discussion analyzing top national issues, featuring sharp insights, diverse perspectives, and engaging exchanges that fuel informed public conversations."
   },
   {
     "start": "15:30",
-    "stop": "16:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776526200000,
-    "stopTs": 1776528000000,
-    "title": "Prime Time",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
-  },
-  {
-    "start": "16:00",
     "stop": "16:30",
     "channel": "HNN24x7.in",
     "channelId": "HNN24x7.in",
     "channelName": "HNN",
-    "startTs": 1776528000000,
+    "startTs": 1776526200000,
     "stopTs": 1776529800000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
+    "title": "Prime Time - Prahar",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
   },
   {
     "start": "16:30",
@@ -832,8 +293,8 @@
     "channelName": "HNN",
     "startTs": 1776529800000,
     "stopTs": 1776531600000,
-    "title": "Din Bhar Vishesh",
-    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
+    "title": "UK Bull",
+    "desc": "An international bulletin covering UK politics, economy, and global developments, offering sharp insights and perspectives relevant to Indian viewers and global audiences."
   },
   {
     "start": "17:00",
@@ -843,30 +304,19 @@
     "channelName": "HNN",
     "startTs": 1776531600000,
     "stopTs": 1776533400000,
-    "title": "Uttarakhand Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from UttaraKhand."
+    "title": "Special",
+    "desc": "A dedicated feature exploring current national issues, human stories, and exclusive reports, blending factual journalism with impactful storytelling and civic perspective."
   },
   {
     "start": "17:30",
-    "stop": "18:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776533400000,
-    "stopTs": 1776535200000,
-    "title": "Prime Time",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
-  },
-  {
-    "start": "18:00",
     "stop": "18:30",
     "channel": "HNN24x7.in",
     "channelId": "HNN24x7.in",
     "channelName": "HNN",
-    "startTs": 1776535200000,
+    "startTs": 1776533400000,
     "stopTs": 1776537000000,
-    "title": "Himachal Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Himachal Pradesh."
+    "title": "Debate",
+    "desc": "A spirited panel discussion analyzing top national issues, featuring sharp insights, diverse perspectives, and engaging exchanges that fuel informed public conversations."
   },
   {
     "start": "18:30",
@@ -876,8 +326,8 @@
     "channelName": "HNN",
     "startTs": 1776537000000,
     "stopTs": 1776538800000,
-    "title": "Haryana Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Haryana."
+    "title": "Kab Badlegi Tasveer",
+    "desc": "A political talk show investigating when and how change will come in governance and society, featuring candid debates, public perspectives, and impactful ground reports."
   },
   {
     "start": "19:00",
@@ -887,8 +337,8 @@
     "channelName": "HNN",
     "startTs": 1776538800000,
     "stopTs": 1776540600000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
+    "title": "UP Bull",
+    "desc": "A state-focused news report highlighting Uttar Pradesh&apos;s major stories in politics, governance, and society, with credible analysis and updates shaping regional discourse."
   },
   {
     "start": "19:30",
@@ -898,8 +348,8 @@
     "channelName": "HNN",
     "startTs": 1776540600000,
     "stopTs": 1776542400000,
-    "title": "Din Bhar Vishesh",
-    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
+    "title": "UK Bull",
+    "desc": "An international bulletin covering UK politics, economy, and global developments, offering sharp insights and perspectives relevant to Indian viewers and global audiences."
   },
   {
     "start": "20:00",
@@ -909,30 +359,19 @@
     "channelName": "HNN",
     "startTs": 1776542400000,
     "stopTs": 1776544200000,
-    "title": "Haryana Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Haryana."
+    "title": "Special",
+    "desc": "A dedicated feature exploring current national issues, human stories, and exclusive reports, blending factual journalism with impactful storytelling and civic perspective."
   },
   {
     "start": "20:30",
-    "stop": "21:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776544200000,
-    "stopTs": 1776546000000,
-    "title": "Badi Khabar",
-    "desc": "The host sheds light on the latest socio-economic and political news, updates and developments which are making headlines from various parts of the world."
-  },
-  {
-    "start": "21:00",
     "stop": "21:30",
     "channel": "HNN24x7.in",
     "channelId": "HNN24x7.in",
     "channelName": "HNN",
-    "startTs": 1776546000000,
+    "startTs": 1776544200000,
     "stopTs": 1776547800000,
-    "title": "Himachal Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Himachal Pradesh."
+    "title": "Debate",
+    "desc": "A spirited panel discussion analyzing top national issues, featuring sharp insights, diverse perspectives, and engaging exchanges that fuel informed public conversations."
   },
   {
     "start": "21:30",
@@ -942,8 +381,8 @@
     "channelName": "HNN",
     "startTs": 1776547800000,
     "stopTs": 1776549600000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
+    "title": "UP Bull",
+    "desc": "A state-focused news report highlighting Uttar Pradesh&apos;s major stories in politics, governance, and society, with credible analysis and updates shaping regional discourse."
   },
   {
     "start": "22:00",
@@ -953,8 +392,8 @@
     "channelName": "HNN",
     "startTs": 1776549600000,
     "stopTs": 1776551400000,
-    "title": "Din Bhar Vishesh",
-    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
+    "title": "UK Bull",
+    "desc": "An international bulletin covering UK politics, economy, and global developments, offering sharp insights and perspectives relevant to Indian viewers and global audiences."
   },
   {
     "start": "22:30",
@@ -964,8 +403,8 @@
     "channelName": "HNN",
     "startTs": 1776551400000,
     "stopTs": 1776553200000,
-    "title": "Haryana Abhi Tak",
-    "desc": "The host sheds light on some of the latest and the most important news, updates and developments from the state of Haryana."
+    "title": "Special",
+    "desc": "A dedicated feature exploring current national issues, human stories, and exclusive reports, blending factual journalism with impactful storytelling and civic perspective."
   },
   {
     "start": "23:00",
@@ -975,30 +414,19 @@
     "channelName": "HNN",
     "startTs": 1776553200000,
     "stopTs": 1776555000000,
-    "title": "Prime Time",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
+    "title": "Folk Fankar",
+    "desc": "A cultural program celebrating folk artists and traditional musicians, showcasing India&apos;s regional heritage and storytelling through soulful performances and melodies."
   },
   {
     "start": "23:30",
-    "stop": "00:00",
-    "channel": "HNN24x7.in",
-    "channelId": "HNN24x7.in",
-    "channelName": "HNN",
-    "startTs": 1776555000000,
-    "stopTs": 1776556800000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
-  },
-  {
-    "start": "00:00",
     "stop": "00:30",
     "channel": "HNN24x7.in",
     "channelId": "HNN24x7.in",
     "channelName": "HNN",
-    "startTs": 1776556800000,
+    "startTs": 1776555000000,
     "stopTs": 1776558600000,
-    "title": "Din Bhar Vishesh",
-    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
+    "title": "Debate",
+    "desc": "A spirited panel discussion analyzing top national issues, featuring sharp insights, diverse perspectives, and engaging exchanges that fuel informed public conversations."
   },
   {
     "start": "00:30",
@@ -1008,8 +436,8 @@
     "channelName": "HNN",
     "startTs": 1776558600000,
     "stopTs": 1776560400000,
-    "title": "Arti Sheetla Mata",
-    "desc": "Priests perform a Hindu religious ritual amidst chants and hymns at the sacred shrine of Sheetla Mata as the devotees offer prayers to the goddess."
+    "title": "Kab Badlegi Tasveer",
+    "desc": "A political talk show investigating when and how change will come in governance and society, featuring candid debates, public perspectives, and impactful ground reports."
   },
   {
     "start": "01:00",
@@ -1019,8 +447,8 @@
     "channelName": "HNN",
     "startTs": 1776560400000,
     "stopTs": 1776562200000,
-    "title": "Arti Mansa Mata",
-    "desc": "Priests perform a Hindu religious ritual amidst chants and hymns at the sacred shrine of Mansa Mata as the devotees offer prayers to the goddess."
+    "title": "Khas Mulakat",
+    "desc": "An exclusive interview segment featuring political leaders, social figures, and celebrities, offering intimate insights, powerful stories, and thought-provoking discussions."
   },
   {
     "start": "01:30",
@@ -1030,8 +458,8 @@
     "channelName": "HNN",
     "startTs": 1776562200000,
     "stopTs": 1776564000000,
-    "title": "Morning Show",
-    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
+    "title": "UP Bull",
+    "desc": "A state-focused news report highlighting Uttar Pradesh&apos;s major stories in politics, governance, and society, with credible analysis and updates shaping regional discourse."
   },
   {
     "start": "02:00",
@@ -1041,8 +469,8 @@
     "channelName": "HNN",
     "startTs": 1776564000000,
     "stopTs": 1776565800000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
+    "title": "UK Bull",
+    "desc": "An international bulletin covering UK politics, economy, and global developments, offering sharp insights and perspectives relevant to Indian viewers and global audiences."
   },
   {
     "start": "02:30",
@@ -1052,8 +480,8 @@
     "channelName": "HNN",
     "startTs": 1776565800000,
     "stopTs": 1776567600000,
-    "title": "Morning Show",
-    "desc": "The host presents a comprehensive report of social, economic and political updates from across the country."
+    "title": "Good Morning Hindustan",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
   },
   {
     "start": "03:00",
@@ -1063,7 +491,469 @@
     "channelName": "HNN",
     "startTs": 1776567600000,
     "stopTs": 1776569400000,
-    "title": "Prime Reporter",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country."
+    "title": "Special Report",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776569400000,
+    "stopTs": 1776571200000,
+    "title": "Nehla Pe Dehla",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776571200000,
+    "stopTs": 1776573000000,
+    "title": "Desh Pradesh",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776573000000,
+    "stopTs": 1776574800000,
+    "title": "UK Bull",
+    "desc": "An international bulletin covering UK politics, economy, and global developments, offering sharp insights and perspectives relevant to Indian viewers and global audiences."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776574800000,
+    "stopTs": 1776576600000,
+    "title": "Desh Pradesh",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776576600000,
+    "stopTs": 1776578400000,
+    "title": "UP Bull",
+    "desc": "A state-focused news report highlighting Uttar Pradesh&apos;s major stories in politics, governance, and society, with credible analysis and updates shaping regional discourse."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776578400000,
+    "stopTs": 1776580200000,
+    "title": "News Special",
+    "desc": "A comprehensive feature bringing exclusive stories, investigative reports, and expert opinions, offering deeper understanding of current events shaping national narratives."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776580200000,
+    "stopTs": 1776582000000,
+    "title": "National-Bull",
+    "desc": "A national news segment covering politics, markets, and governance, offering factual reports and grounded insights into India&apos;s fast-changing socio-political landscape."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776582000000,
+    "stopTs": 1776583800000,
+    "title": "Desh Pradesh",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776583800000,
+    "stopTs": 1776585600000,
+    "title": "UP Bull",
+    "desc": "A state-focused news report highlighting Uttar Pradesh&apos;s major stories in politics, governance, and society, with credible analysis and updates shaping regional discourse."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776585600000,
+    "stopTs": 1776587400000,
+    "title": "Special Report",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776587400000,
+    "stopTs": 1776589200000,
+    "title": "UK Bull",
+    "desc": "An international bulletin covering UK politics, economy, and global developments, offering sharp insights and perspectives relevant to Indian viewers and global audiences."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776589200000,
+    "stopTs": 1776591000000,
+    "title": "Desh Pradesh",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776591000000,
+    "stopTs": 1776592800000,
+    "title": "3 Badi Khabar",
+    "desc": "A fast-paced news show covering three major national stories that shape politics, society, and public discourse, delivering concise insights and factual analysis for viewers daily."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776592800000,
+    "stopTs": 1776594600000,
+    "title": "News Special",
+    "desc": "A comprehensive feature bringing exclusive stories, investigative reports, and expert opinions, offering deeper understanding of current events shaping national narratives."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776594600000,
+    "stopTs": 1776596400000,
+    "title": "News Special",
+    "desc": "A comprehensive feature bringing exclusive stories, investigative reports, and expert opinions, offering deeper understanding of current events shaping national narratives."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776596400000,
+    "stopTs": 1776598200000,
+    "title": "Desh Pradesh",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776598200000,
+    "stopTs": 1776600000000,
+    "title": "UP Bull",
+    "desc": "A state-focused news report highlighting Uttar Pradesh&apos;s major stories in politics, governance, and society, with credible analysis and updates shaping regional discourse."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776600000000,
+    "stopTs": 1776601800000,
+    "title": "News Special",
+    "desc": "A comprehensive feature bringing exclusive stories, investigative reports, and expert opinions, offering deeper understanding of current events shaping national narratives."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776601800000,
+    "stopTs": 1776603600000,
+    "title": "Special",
+    "desc": "A dedicated feature exploring current national issues, human stories, and exclusive reports, blending factual journalism with impactful storytelling and civic perspective."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776603600000,
+    "stopTs": 1776605400000,
+    "title": "Desh Pradesh",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776605400000,
+    "stopTs": 1776607200000,
+    "title": "UP Bull",
+    "desc": "A state-focused news report highlighting Uttar Pradesh&apos;s major stories in politics, governance, and society, with credible analysis and updates shaping regional discourse."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776607200000,
+    "stopTs": 1776609000000,
+    "title": "Desh Pradesh",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776609000000,
+    "stopTs": 1776612600000,
+    "title": "Special",
+    "desc": "A dedicated feature exploring current national issues, human stories, and exclusive reports, blending factual journalism with impactful storytelling and civic perspective."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776612600000,
+    "stopTs": 1776616200000,
+    "title": "Folk Fankar",
+    "desc": "A cultural program celebrating folk artists and traditional musicians, showcasing India&apos;s regional heritage and storytelling through soulful performances and melodies."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776616200000,
+    "stopTs": 1776618000000,
+    "title": "UK Bull",
+    "desc": "An international bulletin covering UK politics, economy, and global developments, offering sharp insights and perspectives relevant to Indian viewers and global audiences."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776618000000,
+    "stopTs": 1776619800000,
+    "title": "Special",
+    "desc": "A dedicated feature exploring current national issues, human stories, and exclusive reports, blending factual journalism with impactful storytelling and civic perspective."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776619800000,
+    "stopTs": 1776623400000,
+    "title": "Special",
+    "desc": "A dedicated feature exploring current national issues, human stories, and exclusive reports, blending factual journalism with impactful storytelling and civic perspective."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776623400000,
+    "stopTs": 1776625200000,
+    "title": "Folk Fankar",
+    "desc": "A cultural program celebrating folk artists and traditional musicians, showcasing India&apos;s regional heritage and storytelling through soulful performances and melodies."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776625200000,
+    "stopTs": 1776627000000,
+    "title": "UP Bull",
+    "desc": "A state-focused news report highlighting Uttar Pradesh&apos;s major stories in politics, governance, and society, with credible analysis and updates shaping regional discourse."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776627000000,
+    "stopTs": 1776628800000,
+    "title": "UK Bull",
+    "desc": "An international bulletin covering UK politics, economy, and global developments, offering sharp insights and perspectives relevant to Indian viewers and global audiences."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776628800000,
+    "stopTs": 1776630600000,
+    "title": "Special",
+    "desc": "A dedicated feature exploring current national issues, human stories, and exclusive reports, blending factual journalism with impactful storytelling and civic perspective."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776630600000,
+    "stopTs": 1776634200000,
+    "title": "Special",
+    "desc": "A dedicated feature exploring current national issues, human stories, and exclusive reports, blending factual journalism with impactful storytelling and civic perspective."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776634200000,
+    "stopTs": 1776636000000,
+    "title": "UP Bull",
+    "desc": "A state-focused news report highlighting Uttar Pradesh&apos;s major stories in politics, governance, and society, with credible analysis and updates shaping regional discourse."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776636000000,
+    "stopTs": 1776637800000,
+    "title": "UK Bull",
+    "desc": "An international bulletin covering UK politics, economy, and global developments, offering sharp insights and perspectives relevant to Indian viewers and global audiences."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776637800000,
+    "stopTs": 1776639600000,
+    "title": "Special",
+    "desc": "A dedicated feature exploring current national issues, human stories, and exclusive reports, blending factual journalism with impactful storytelling and civic perspective."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776639600000,
+    "stopTs": 1776641400000,
+    "title": "Folk Fankar",
+    "desc": "A cultural program celebrating folk artists and traditional musicians, showcasing India&apos;s regional heritage and storytelling through soulful performances and melodies."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776641400000,
+    "stopTs": 1776645000000,
+    "title": "Special",
+    "desc": "A dedicated feature exploring current national issues, human stories, and exclusive reports, blending factual journalism with impactful storytelling and civic perspective."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776645000000,
+    "stopTs": 1776646800000,
+    "title": "Folk Fankar",
+    "desc": "A cultural program celebrating folk artists and traditional musicians, showcasing India&apos;s regional heritage and storytelling through soulful performances and melodies."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776646800000,
+    "stopTs": 1776648600000,
+    "title": "Khas Mulakat",
+    "desc": "An exclusive interview segment featuring political leaders, social figures, and celebrities, offering intimate insights, powerful stories, and thought-provoking discussions."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776648600000,
+    "stopTs": 1776650400000,
+    "title": "UP Bull",
+    "desc": "A state-focused news report highlighting Uttar Pradesh&apos;s major stories in politics, governance, and society, with credible analysis and updates shaping regional discourse."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776650400000,
+    "stopTs": 1776652200000,
+    "title": "UK Bull",
+    "desc": "An international bulletin covering UK politics, economy, and global developments, offering sharp insights and perspectives relevant to Indian viewers and global audiences."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "HNN24x7.in",
+    "channelId": "HNN24x7.in",
+    "channelName": "HNN",
+    "startTs": 1776652200000,
+    "stopTs": 1776654000000,
+    "title": "Good Morning Hindustan",
+    "desc": "The host shares the latest political and socio-economic headlines, plus many updates from India and around the world, making complex news easy to understand for everyone."
   }
 ]
