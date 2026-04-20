@@ -1,533 +1,5 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776564000000,
-    "stopTs": 1776565800000,
-    "title": "Old is Gold",
-    "desc": "A comprehensive compilation of evergreen classic songs is played to entertain listeners."
-  },
-  {
-    "start": "02:30",
-    "stop": "02:57",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776565800000,
-    "stopTs": 1776567420000,
-    "title": "Pranavam",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "02:57",
-    "stop": "03:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776567420000,
-    "stopTs": 1776567600000,
-    "title": "Tintu Mon",
-    "desc": "Tintu Mon plays pranks on everyone and dumbfounds them with his silly questions."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776567600000,
-    "stopTs": 1776569400000,
-    "title": "Memories",
-    "desc": "A police officer must probe into a murder case where the culprit follows a pattern."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776569400000,
-    "stopTs": 1776571200000,
-    "title": "Leisure Moments",
-    "desc": "Bringing the best in television. S01 E01."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776571200000,
-    "stopTs": 1776573000000,
-    "title": "Misty Rain",
-    "desc": "Singers and bands perform a collection of popular songs and their own compositions."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776573000000,
-    "stopTs": 1776574800000,
-    "title": "News Malayalam",
-    "desc": "The host presents the latest news updates and developments from around the world."
-  },
-  {
-    "start": "05:00",
-    "stop": "07:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776574800000,
-    "stopTs": 1776583800000,
-    "title": "Ivide Kattinu Sugandam",
-    "desc": "Ivide Kattinu Sugandam"
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776583800000,
-    "stopTs": 1776585600000,
-    "title": "Jeevan News",
-    "desc": "The most recent news updates from Kerala and around the world are telecast."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776585600000,
-    "stopTs": 1776587400000,
-    "title": "Aazhchavattom",
-    "desc": "The host presents a round-up of all the important news stories from the past week."
-  },
-  {
-    "start": "08:30",
-    "stop": "08:32",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776587400000,
-    "stopTs": 1776587520000,
-    "title": "Jeevan Headlines",
-    "desc": "The host presents the latest national and international news headlines."
-  },
-  {
-    "start": "08:32",
-    "stop": "09:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776587520000,
-    "stopTs": 1776589200000,
-    "title": "Puthan Pattu",
-    "desc": "A comprehensive compilation of new and popular songs from the latest movies."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776589200000,
-    "stopTs": 1776591000000,
-    "title": "Raagalayam",
-    "desc": "Various popular Carnatic musicians talk about their relationship with music."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:35",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776591000000,
-    "stopTs": 1776594900000,
-    "title": "Lottery Live",
-    "desc": "The host offers fabulous prizes in an exciting game of chance, live."
-  },
-  {
-    "start": "10:35",
-    "stop": "11:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776594900000,
-    "stopTs": 1776596400000,
-    "title": "Nadan Pattu",
-    "desc": "A compilation of some of the best and most popular folk songs from Kerala is presented."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776596400000,
-    "stopTs": 1776598200000,
-    "title": "Music Mix",
-    "desc": ". S01 E01."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776598200000,
-    "stopTs": 1776600000000,
-    "title": "Jeevan News",
-    "desc": "The most recent news updates from Kerala and around the world are telecast."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776600000000,
-    "stopTs": 1776601800000,
-    "title": "Old Is Gold",
-    "desc": ". S01 E01."
-  },
-  {
-    "start": "12:30",
-    "stop": "12:32",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776601800000,
-    "stopTs": 1776601920000,
-    "title": "Jeevan Headlines",
-    "desc": "The host presents the latest national and international news headlines."
-  },
-  {
-    "start": "12:32",
-    "stop": "13:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776601920000,
-    "stopTs": 1776603600000,
-    "title": "Remedy",
-    "desc": "Doctors highlight different health issues and discuss possible remedies."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776603600000,
-    "stopTs": 1776605400000,
-    "title": "News: Evening Edition",
-    "desc": "The host provides top stories, in-depth analysis and interviews on current events."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776605400000,
-    "stopTs": 1776607200000,
-    "title": "Naam Munnottu",
-    "desc": "The chief minister of Kerala seeks the opinion of the masses on a variety of topics."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776607200000,
-    "stopTs": 1776609000000,
-    "title": "Capital Times",
-    "desc": "The host provides a detailed report on matters concerning the state and the nation."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776609000000,
-    "stopTs": 1776610800000,
-    "title": "Pranavam",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776610800000,
-    "stopTs": 1776612600000,
-    "title": "My Favourites",
-    "desc": "."
-  },
-  {
-    "start": "15:30",
-    "stop": "15:32",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776612600000,
-    "stopTs": 1776612720000,
-    "title": "Jeevan Headlines",
-    "desc": "The host presents the latest national and international news headlines."
-  },
-  {
-    "start": "15:32",
-    "stop": "15:55",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776612720000,
-    "stopTs": 1776614100000,
-    "title": "Arabian Illusions",
-    "desc": ". S01 E01."
-  },
-  {
-    "start": "15:55",
-    "stop": "16:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776614100000,
-    "stopTs": 1776614400000,
-    "title": "Tintu Mon",
-    "desc": "Tintu Mon plays pranks on everyone and dumbfounds them with his silly questions."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776614400000,
-    "stopTs": 1776616200000,
-    "title": "Shubharathri",
-    "desc": "The host interacts with prominent personalities from various fields."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776616200000,
-    "stopTs": 1776618000000,
-    "title": "News Night Edition",
-    "desc": "The host presents the latest news stories on significant issues from across the world."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:25",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776618000000,
-    "stopTs": 1776619500000,
-    "title": "Saphalamee Yathra",
-    "desc": "."
-  },
-  {
-    "start": "17:25",
-    "stop": "17:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776619500000,
-    "stopTs": 1776619800000,
-    "title": "Gafoor Ka Dosth",
-    "desc": "Film star Mamukkoya, portrayed as an animated character, deals with various social issues."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776619800000,
-    "stopTs": 1776621600000,
-    "title": "News Night Edition",
-    "desc": "The host presents the latest news stories on significant issues from across the world."
-  },
-  {
-    "start": "18:00",
-    "stop": "19:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776621600000,
-    "stopTs": 1776627000000,
-    "title": "Kamukara Award Nite",
-    "desc": "."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776623400000,
-    "stopTs": 1776627000000,
-    "title": "News",
-    "desc": "The host presents the latest updates pertaining to politics, economic and social news."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776627000000,
-    "stopTs": 1776628800000,
-    "title": "Misty Rain",
-    "desc": "Singers and bands perform a collection of popular songs and their own compositions."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776628800000,
-    "stopTs": 1776630600000,
-    "title": "Chiri Cheppu",
-    "desc": "Artists perform comedic acts to entertain the audience with laughter."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776630600000,
-    "stopTs": 1776632400000,
-    "title": "Kaazhchappathippu",
-    "desc": "The host interacts with people who have experienced harsh realities of life."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776632400000,
-    "stopTs": 1776634200000,
-    "title": "Memories",
-    "desc": "Eminent personalities from different fields share their unforgettable memories."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776634200000,
-    "stopTs": 1776636000000,
-    "title": "News Malayalam",
-    "desc": "The host presents the latest news updates and developments from around the world."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776636000000,
-    "stopTs": 1776637800000,
-    "title": "Positive News",
-    "desc": "The host shares various positive news updates that aim to spread positivity."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776637800000,
-    "stopTs": 1776639600000,
-    "title": "Ragalayam",
-    "desc": "The host presents a compilation of yesteryear Malayalam movie songs."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776639600000,
-    "stopTs": 1776641400000,
-    "title": "Malayala Cinema At 90",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776641400000,
-    "stopTs": 1776643200000,
-    "title": "Prabhatha Geethangal",
-    "desc": "A compilation of some of the most popular songs sung by various renowned singers."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776643200000,
-    "stopTs": 1776645000000,
-    "title": "Prabhatha Geethangal",
-    "desc": "A compilation of some of the most popular songs sung by various renowned singers."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776645000000,
-    "stopTs": 1776648600000,
-    "title": "Holy Mass",
-    "desc": "A religious leader conducts a service to offer their prayers to the Almighty."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776648600000,
-    "stopTs": 1776650400000,
-    "title": "Pranavam",
-    "desc": "An astrologer talks about the study of celestial objects and how it affects zodiac signs."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776650400000,
-    "stopTs": 1776652200000,
-    "title": "Old Is Gold",
-    "desc": "A compilation of soothing melodies from vintage movies is played in succession."
-  },
-  {
     "start": "02:30",
     "stop": "02:57",
     "channel": "JeevanTV.in",
@@ -535,8 +7,8 @@
     "channelName": "Jeevan TV",
     "startTs": 1776652200000,
     "stopTs": 1776653820000,
-    "title": "Ragalayam",
-    "desc": "The host presents a compilation of yesteryear Malayalam movie songs."
+    "title": "Pranavam",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "02:57",
@@ -558,7 +30,7 @@
     "startTs": 1776654000000,
     "stopTs": 1776655800000,
     "title": "Memories",
-    "desc": "Eminent personalities from different fields share their unforgettable memories."
+    "desc": "A police officer must probe into a murder case where the culprit follows a pattern."
   },
   {
     "start": "03:30",
@@ -568,8 +40,8 @@
     "channelName": "Jeevan TV",
     "startTs": 1776655800000,
     "stopTs": 1776657600000,
-    "title": "Comedy Couples",
-    "desc": "Talented comedians pair up to play the roles of a couple and enact various skits."
+    "title": "Leisure Moments",
+    "desc": "Bringing the best in television. S01 E02."
   },
   {
     "start": "04:00",
@@ -579,8 +51,8 @@
     "channelName": "Jeevan TV",
     "startTs": 1776657600000,
     "stopTs": 1776659400000,
-    "title": "Hit Songs",
-    "desc": "A compilation of popular songs performed by various eminent musicians."
+    "title": "Misty Rain",
+    "desc": "Singers and bands perform a collection of popular songs and their own compositions."
   },
   {
     "start": "04:30",
@@ -590,8 +62,8 @@
     "channelName": "Jeevan TV",
     "startTs": 1776659400000,
     "stopTs": 1776661200000,
-    "title": "News",
-    "desc": "The host presents the latest updates pertaining to politics, economic and social news."
+    "title": "News Malayalam",
+    "desc": "The host presents the latest news updates and developments from around the world."
   },
   {
     "start": "05:00",
@@ -623,8 +95,8 @@
     "channelName": "Jeevan TV",
     "startTs": 1776664800000,
     "stopTs": 1776666600000,
-    "title": "Misty Rain",
-    "desc": "Singers and bands perform a collection of popular songs and their own compositions."
+    "title": "Music Mix",
+    "desc": "."
   },
   {
     "start": "06:30",
@@ -634,8 +106,8 @@
     "channelName": "Jeevan TV",
     "startTs": 1776666600000,
     "stopTs": 1776668400000,
-    "title": "Jeevan News",
-    "desc": "The most recent news updates from Kerala and around the world are telecast."
+    "title": "Live-Jeevan News Live-Jeevan News Live",
+    "desc": "."
   },
   {
     "start": "07:00",
@@ -683,47 +155,36 @@
   },
   {
     "start": "08:32",
-    "stop": "09:00",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776673920000,
-    "stopTs": 1776675600000,
-    "title": "Amara Sangeetham",
-    "desc": "Popular singers and musicians perform a compilation of melodious evergreen songs."
-  },
-  {
-    "start": "09:00",
     "stop": "09:30",
     "channel": "JeevanTV.in",
     "channelId": "JeevanTV.in",
     "channelName": "Jeevan TV",
-    "startTs": 1776675600000,
+    "startTs": 1776673920000,
     "stopTs": 1776677400000,
-    "title": "Aazhchavattom",
-    "desc": "The host presents a round-up of all the important news stories from the past week."
+    "title": "Devaragam",
+    "desc": "A comprehensive compilation of melodious devotional songs in praise of the Almighty is played."
   },
   {
     "start": "09:30",
-    "stop": "10:30",
+    "stop": "10:35",
     "channel": "JeevanTV.in",
     "channelId": "JeevanTV.in",
     "channelName": "Jeevan TV",
     "startTs": 1776677400000,
-    "stopTs": 1776681000000,
+    "stopTs": 1776681300000,
     "title": "Lottery Live",
     "desc": "The host offers fabulous prizes in an exciting game of chance, live."
   },
   {
-    "start": "10:30",
+    "start": "10:35",
     "stop": "11:00",
     "channel": "JeevanTV.in",
     "channelId": "JeevanTV.in",
     "channelName": "Jeevan TV",
-    "startTs": 1776681000000,
+    "startTs": 1776681300000,
     "stopTs": 1776682800000,
-    "title": "Jeevan News",
-    "desc": "The most recent news updates from Kerala and around the world are telecast."
+    "title": "Memories",
+    "desc": "A police officer must probe into a murder case where the culprit follows a pattern."
   },
   {
     "start": "11:00",
@@ -733,30 +194,19 @@
     "channelName": "Jeevan TV",
     "startTs": 1776682800000,
     "stopTs": 1776684600000,
-    "title": "Cinema Week",
-    "desc": "The host presents the latest news updates and developments from the film industry."
+    "title": "Film Online",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "11:30",
-    "stop": "11:32",
-    "channel": "JeevanTV.in",
-    "channelId": "JeevanTV.in",
-    "channelName": "Jeevan TV",
-    "startTs": 1776684600000,
-    "stopTs": 1776684720000,
-    "title": "Jeevan Headlines",
-    "desc": "The host presents the latest national and international news headlines."
-  },
-  {
-    "start": "11:32",
     "stop": "12:00",
     "channel": "JeevanTV.in",
     "channelId": "JeevanTV.in",
     "channelName": "Jeevan TV",
-    "startTs": 1776684720000,
+    "startTs": 1776684600000,
     "stopTs": 1776686400000,
-    "title": "Nalathe Vartha",
-    "desc": "The host discusses the state&apos;s political developments with prominent personalities."
+    "title": "Jeevan News",
+    "desc": "The most recent news updates from Kerala and around the world are telecast."
   },
   {
     "start": "12:00",
@@ -766,8 +216,8 @@
     "channelName": "Jeevan TV",
     "startTs": 1776686400000,
     "stopTs": 1776688200000,
-    "title": "Malayala Cinema At 90",
-    "desc": "Bringing the best in television."
+    "title": "Old Is Gold",
+    "desc": ". S01 E02."
   },
   {
     "start": "12:30",
@@ -788,8 +238,8 @@
     "channelName": "Jeevan TV",
     "startTs": 1776688320000,
     "stopTs": 1776690000000,
-    "title": "Ente Ishta Ganangal",
-    "desc": "The host speaks to movie celebrities as they share notable experiences from their careers."
+    "title": "My Favourites",
+    "desc": "."
   },
   {
     "start": "13:00",
@@ -799,8 +249,8 @@
     "channelName": "Jeevan TV",
     "startTs": 1776690000000,
     "stopTs": 1776691800000,
-    "title": "News",
-    "desc": "The host presents the latest updates pertaining to politics, economic and social news."
+    "title": "News: Evening Edition",
+    "desc": "The host provides top stories, in-depth analysis and interviews on current events."
   },
   {
     "start": "13:30",
@@ -811,7 +261,7 @@
     "startTs": 1776691800000,
     "stopTs": 1776693600000,
     "title": "Pranavam",
-    "desc": "An astrologer talks about the study of celestial objects and how it affects zodiac signs."
+    "desc": "Bringing the best in television."
   },
   {
     "start": "14:00",
@@ -821,8 +271,8 @@
     "channelName": "Jeevan TV",
     "startTs": 1776693600000,
     "stopTs": 1776695400000,
-    "title": "Sundarikutty",
-    "desc": "Children showcase their fashion skills to impress the judges and win the pageant contest."
+    "title": "Quiz Press",
+    "desc": "Participants compete to win in a quiz competition wherein their knowledge is tested. S01 E08."
   },
   {
     "start": "14:30",
@@ -832,8 +282,8 @@
     "channelName": "Jeevan TV",
     "startTs": 1776695400000,
     "stopTs": 1776697200000,
-    "title": "Loud Speaker",
-    "desc": "The hosts provide the latest updates and gossip from the lives of celebrities."
+    "title": "Gulf News Week",
+    "desc": "The host presents the latest news from the Middle East along with in-depth analyses."
   },
   {
     "start": "15:00",
@@ -865,8 +315,8 @@
     "channelName": "Jeevan TV",
     "startTs": 1776699120000,
     "stopTs": 1776700500000,
-    "title": "Prime Minister Speaking",
-    "desc": "The prime minister of India addresses a gathering and voices his thoughts on key issues."
+    "title": "Arabian Illusions",
+    "desc": ". S01 E02."
   },
   {
     "start": "15:55",
@@ -898,8 +348,8 @@
     "channelName": "Jeevan TV",
     "startTs": 1776702600000,
     "stopTs": 1776704400000,
-    "title": "News",
-    "desc": "The host presents the latest updates pertaining to politics, economic and social news."
+    "title": "News Night Edition",
+    "desc": "The host presents the latest news stories on significant issues from across the world."
   },
   {
     "start": "17:00",
@@ -931,29 +381,579 @@
     "channelName": "Jeevan TV",
     "startTs": 1776706200000,
     "stopTs": 1776708000000,
-    "title": "News",
-    "desc": "The host presents the latest updates pertaining to politics, economic and social news."
+    "title": "News Night Edition",
+    "desc": "The host presents the latest news stories on significant issues from across the world."
   },
   {
     "start": "18:00",
-    "stop": "18:28",
+    "stop": "19:30",
     "channel": "JeevanTV.in",
     "channelId": "JeevanTV.in",
     "channelName": "Jeevan TV",
     "startTs": 1776708000000,
-    "stopTs": 1776709680000,
-    "title": "News",
-    "desc": "The host presents the latest updates pertaining to politics, economic and social news."
+    "stopTs": 1776713400000,
+    "title": "Sangeeth 2024",
+    "desc": "."
   },
   {
-    "start": "18:28",
-    "stop": "18:30",
+    "start": "19:30",
+    "stop": "20:00",
     "channel": "JeevanTV.in",
     "channelId": "JeevanTV.in",
     "channelName": "Jeevan TV",
-    "startTs": 1776709680000,
-    "stopTs": 1776709800000,
+    "startTs": 1776713400000,
+    "stopTs": 1776715200000,
+    "title": "PM Speaking",
+    "desc": "The prime minister of India addresses a gathering and voices his thoughts on key issues."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776715200000,
+    "stopTs": 1776717000000,
+    "title": "Kaazhchappathippu",
+    "desc": "The host interacts with people who have experienced harsh realities of life."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776717000000,
+    "stopTs": 1776718800000,
+    "title": "Positive News",
+    "desc": "The host shares various positive news updates that aim to spread positivity."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776718800000,
+    "stopTs": 1776720600000,
+    "title": "Ragalayam",
+    "desc": "The host presents a compilation of yesteryear Malayalam movie songs."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776720600000,
+    "stopTs": 1776722400000,
+    "title": "News Malayalam",
+    "desc": "The host presents the latest news updates and developments from around the world."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776722400000,
+    "stopTs": 1776724200000,
+    "title": "Memories",
+    "desc": "A police officer must probe into a murder case where the culprit follows a pattern."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776724200000,
+    "stopTs": 1776726000000,
+    "title": "Old is Gold",
+    "desc": "A comprehensive compilation of evergreen classic songs is played to entertain listeners."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776726000000,
+    "stopTs": 1776727800000,
+    "title": "Misty Rain",
+    "desc": "Singers and bands perform a collection of popular songs and their own compositions."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776727800000,
+    "stopTs": 1776729600000,
+    "title": "Prabhatha Geethangal",
+    "desc": "A compilation of some of the most popular songs sung by various renowned singers. S01 E10."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776729600000,
+    "stopTs": 1776731400000,
+    "title": "Prabhatha Geethangal",
+    "desc": "A compilation of some of the most popular songs sung by various renowned singers. S01 E03."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776731400000,
+    "stopTs": 1776733200000,
+    "title": "PM Speaking",
+    "desc": "The prime minister of India addresses a gathering and voices his thoughts on key issues."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776733200000,
+    "stopTs": 1776735000000,
+    "title": "Kaazhchappathippu",
+    "desc": "The host interacts with people who have experienced harsh realities of life."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776735000000,
+    "stopTs": 1776736800000,
+    "title": "Muthuswamy Smrithi Sandhya",
+    "desc": ". S01 E03."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776736800000,
+    "stopTs": 1776738600000,
+    "title": "Old is Gold",
+    "desc": "A comprehensive compilation of evergreen classic songs is played to entertain listeners."
+  },
+  {
+    "start": "02:30",
+    "stop": "02:57",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776738600000,
+    "stopTs": 1776740220000,
+    "title": "Pranavam",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "02:57",
+    "stop": "03:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776740220000,
+    "stopTs": 1776740400000,
+    "title": "Tintu Mon",
+    "desc": "Tintu Mon plays pranks on everyone and dumbfounds them with his silly questions."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776740400000,
+    "stopTs": 1776742200000,
+    "title": "Memories",
+    "desc": "A police officer must probe into a murder case where the culprit follows a pattern."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776742200000,
+    "stopTs": 1776744000000,
+    "title": "Leisure Moments",
+    "desc": "Bringing the best in television. S01 E03."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776744000000,
+    "stopTs": 1776745800000,
+    "title": "Ragalayam",
+    "desc": "The host presents a compilation of yesteryear Malayalam movie songs."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776745800000,
+    "stopTs": 1776747600000,
+    "title": "News Malayalam",
+    "desc": "The host presents the latest news updates and developments from around the world."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776747600000,
+    "stopTs": 1776749400000,
+    "title": "Kaazhchappathippu",
+    "desc": "The host interacts with people who have experienced harsh realities of life."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776749400000,
+    "stopTs": 1776751200000,
+    "title": "News Malayalam",
+    "desc": "The host presents the latest news updates and developments from around the world."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776751200000,
+    "stopTs": 1776753000000,
+    "title": "Film Online",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776753000000,
+    "stopTs": 1776754800000,
+    "title": "Live-Jeevan News Live-Jeevan News Live",
+    "desc": "."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776754800000,
+    "stopTs": 1776756600000,
+    "title": "Music Mix",
+    "desc": ". S01 E01."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776756600000,
+    "stopTs": 1776758400000,
+    "title": "Jeevan News",
+    "desc": "The most recent news updates from Kerala and around the world are telecast."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776758400000,
+    "stopTs": 1776760200000,
+    "title": "Aazhchavattom",
+    "desc": "The host presents a round-up of all the important news stories from the past week."
+  },
+  {
+    "start": "08:30",
+    "stop": "08:32",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776760200000,
+    "stopTs": 1776760320000,
     "title": "Jeevan Headlines",
     "desc": "The host presents the latest national and international news headlines."
+  },
+  {
+    "start": "08:32",
+    "stop": "09:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776760320000,
+    "stopTs": 1776762000000,
+    "title": "Puthan Pattu",
+    "desc": "A comprehensive compilation of new and popular songs from the latest movies."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776762000000,
+    "stopTs": 1776763800000,
+    "title": "Kathakali",
+    "desc": "Amudhavel must fight to clear his name from the murder of Thamba, a local gangster."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:35",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776763800000,
+    "stopTs": 1776767700000,
+    "title": "Lottery Live",
+    "desc": "The host offers fabulous prizes in an exciting game of chance, live."
+  },
+  {
+    "start": "10:35",
+    "stop": "11:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776767700000,
+    "stopTs": 1776769200000,
+    "title": "Quiz Press",
+    "desc": "Participants compete to win in a quiz competition wherein their knowledge is tested. S01 E08."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776769200000,
+    "stopTs": 1776771000000,
+    "title": "Nadan Pattu",
+    "desc": "A compilation of some of the best and most popular folk songs from Kerala is presented."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776771000000,
+    "stopTs": 1776772800000,
+    "title": "Jeevan News",
+    "desc": "The most recent news updates from Kerala and around the world are telecast."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776772800000,
+    "stopTs": 1776774600000,
+    "title": "Old Is Gold",
+    "desc": ". S01 E03."
+  },
+  {
+    "start": "12:30",
+    "stop": "12:32",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776774600000,
+    "stopTs": 1776774720000,
+    "title": "Jeevan Headlines",
+    "desc": "The host presents the latest national and international news headlines."
+  },
+  {
+    "start": "12:32",
+    "stop": "13:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776774720000,
+    "stopTs": 1776776400000,
+    "title": "Cinema Week",
+    "desc": "The host presents the latest news updates and developments from the film industry."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776776400000,
+    "stopTs": 1776778200000,
+    "title": "News: Evening Edition",
+    "desc": "The host provides top stories, in-depth analysis and interviews on current events."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776778200000,
+    "stopTs": 1776780000000,
+    "title": "Pranavam",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776780000000,
+    "stopTs": 1776781800000,
+    "title": "Nangyarkooth",
+    "desc": "."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776781800000,
+    "stopTs": 1776783600000,
+    "title": "Capital Times",
+    "desc": "The host provides a detailed report on matters concerning the state and the nation."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776783600000,
+    "stopTs": 1776785400000,
+    "title": "Onnaam Raagam",
+    "desc": "."
+  },
+  {
+    "start": "15:30",
+    "stop": "15:32",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776785400000,
+    "stopTs": 1776785520000,
+    "title": "Jeevan Headlines",
+    "desc": "The host presents the latest national and international news headlines."
+  },
+  {
+    "start": "15:32",
+    "stop": "15:55",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776785520000,
+    "stopTs": 1776786900000,
+    "title": "Arabian Illusions",
+    "desc": ". S01 E03."
+  },
+  {
+    "start": "15:55",
+    "stop": "16:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776786900000,
+    "stopTs": 1776787200000,
+    "title": "Tintu Mon",
+    "desc": "Tintu Mon plays pranks on everyone and dumbfounds them with his silly questions."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776787200000,
+    "stopTs": 1776789000000,
+    "title": "Shubharathri",
+    "desc": "The host interacts with prominent personalities from various fields."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776789000000,
+    "stopTs": 1776790800000,
+    "title": "News Night Edition",
+    "desc": "The host presents the latest news stories on significant issues from across the world."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:25",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776790800000,
+    "stopTs": 1776792300000,
+    "title": "PM Speaking",
+    "desc": "The prime minister of India addresses a gathering and voices his thoughts on key issues."
+  },
+  {
+    "start": "17:25",
+    "stop": "17:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776792300000,
+    "stopTs": 1776792600000,
+    "title": "Gafoor Ka Dosth",
+    "desc": "Film star Mamukkoya, portrayed as an animated character, deals with various social issues."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776792600000,
+    "stopTs": 1776794400000,
+    "title": "News Night Edition",
+    "desc": "The host presents the latest news stories on significant issues from across the world."
+  },
+  {
+    "start": "18:00",
+    "stop": "19:30",
+    "channel": "JeevanTV.in",
+    "channelId": "JeevanTV.in",
+    "channelName": "Jeevan TV",
+    "startTs": 1776794400000,
+    "stopTs": 1776799800000,
+    "title": "Ilam Manjin Kulirumaayi Bharathan Smrithi Sandhya",
+    "desc": "."
   }
 ]

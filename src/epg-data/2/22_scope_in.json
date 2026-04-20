@@ -1,544 +1,5 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776564000000,
-    "stopTs": 1776565800000,
-    "title": "Rashifal",
-    "desc": "An astrologer provides insightful predictions for 12 zodiac signs."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776565800000,
-    "stopTs": 1776567600000,
-    "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776567600000,
-    "stopTs": 1776569400000,
-    "title": "Special PKJ",
-    "desc": "The host provides a detailed report on matters concerning the nation and the world."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776569400000,
-    "stopTs": 1776571200000,
-    "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776571200000,
-    "stopTs": 1776573000000,
-    "title": "Shree Darshan",
-    "desc": "Devotees pay their obligations to the deities of the temple amidst the ceremonial worship."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776573000000,
-    "stopTs": 1776574800000,
-    "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776574800000,
-    "stopTs": 1776576600000,
-    "title": "Fatafat 50",
-    "desc": "The host presents the day&apos;s top 50 news headlines back to back."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776576600000,
-    "stopTs": 1776578400000,
-    "title": "NN81 Special",
-    "desc": "The host presents the latest news and developments surrounding various issues in the country."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776578400000,
-    "stopTs": 1776580200000,
-    "title": "Khabre Raftar Se",
-    "desc": "The host presents a round-up of the latest news from around the world and the country."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776580200000,
-    "stopTs": 1776582000000,
-    "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776582000000,
-    "stopTs": 1776583800000,
-    "title": "10 International - National - Regional",
-    "desc": "The host presents the top 10 news updates from across the region, nation and the world."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776583800000,
-    "stopTs": 1776585600000,
-    "title": "Desh Ki Awaaz",
-    "desc": "The host presents a detailed report on the latest news and developments."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776585600000,
-    "stopTs": 1776587400000,
-    "title": "Khabre Raftar Se",
-    "desc": "The host presents a round-up of the latest news from around the world and the country."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776587400000,
-    "stopTs": 1776589200000,
-    "title": "News Bulletin",
-    "desc": "The host presents the latest news stories pertaining to various issues around the globe."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776589200000,
-    "stopTs": 1776591000000,
-    "title": "Fatafat 50",
-    "desc": "The host presents the day&apos;s top 50 news headlines back to back."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776591000000,
-    "stopTs": 1776592800000,
-    "title": "NN81 Special",
-    "desc": "The host presents the latest news and developments surrounding various issues in the country."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776592800000,
-    "stopTs": 1776594600000,
-    "title": "Operation Panja",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776594600000,
-    "stopTs": 1776596400000,
-    "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776596400000,
-    "stopTs": 1776598200000,
-    "title": "Comedy Program",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776598200000,
-    "stopTs": 1776600000000,
-    "title": "Special PKJ",
-    "desc": "The host provides a detailed report on matters concerning the nation and the world."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776600000000,
-    "stopTs": 1776601800000,
-    "title": "Khabre Raftar Se",
-    "desc": "The host presents a round-up of the latest news from around the world and the country."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776601800000,
-    "stopTs": 1776603600000,
-    "title": "Jharkhand Ki Khabre",
-    "desc": "The host presents the latest social, economic and political news from Jharkhand."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776603600000,
-    "stopTs": 1776605400000,
-    "title": "Prime News",
-    "desc": "Top news stories from business, politics, and social issues of local and international significance."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776605400000,
-    "stopTs": 1776607200000,
-    "title": "Health Khazana",
-    "desc": "Health experts discuss various measures to maintain general health and overall wellbeing."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776607200000,
-    "stopTs": 1776609000000,
-    "title": "Pradeshik Samachar Pradeshik Bhasha Me",
-    "desc": "The host sheds light on the latest news updates from across the region."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776609000000,
-    "stopTs": 1776610800000,
-    "title": "News Bulletin",
-    "desc": "The host presents the latest news stories pertaining to various issues around the globe."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776610800000,
-    "stopTs": 1776612600000,
-    "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776612600000,
-    "stopTs": 1776614400000,
-    "title": "Fatafat 50",
-    "desc": "The host presents the day&apos;s top 50 news headlines back to back."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776614400000,
-    "stopTs": 1776616200000,
-    "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776616200000,
-    "stopTs": 1776618000000,
-    "title": "Janana Jaruri Hai",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776618000000,
-    "stopTs": 1776619800000,
-    "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776619800000,
-    "stopTs": 1776621600000,
-    "title": "Khabre Raftar Se",
-    "desc": "The host presents a round-up of the latest news from around the world and the country."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776621600000,
-    "stopTs": 1776623400000,
-    "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776623400000,
-    "stopTs": 1776625200000,
-    "title": "Special PKJ",
-    "desc": "The host provides a detailed report on matters concerning the nation and the world."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776625200000,
-    "stopTs": 1776627000000,
-    "title": "Desh Ki Awaaz",
-    "desc": "The host presents a detailed report on the latest news and developments."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776627000000,
-    "stopTs": 1776628800000,
-    "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776628800000,
-    "stopTs": 1776630600000,
-    "title": "News Bulletin",
-    "desc": "The host presents the latest news stories pertaining to various issues around the globe."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776630600000,
-    "stopTs": 1776632400000,
-    "title": "Pradeshik Samachar Pradeshik Bhasha Me",
-    "desc": "The host sheds light on the latest news updates from across the region."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776632400000,
-    "stopTs": 1776634200000,
-    "title": "NN81 Special",
-    "desc": "The host presents the latest news and developments surrounding various issues in the country."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776634200000,
-    "stopTs": 1776636000000,
-    "title": "Bollywood Hungama",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776636000000,
-    "stopTs": 1776637800000,
-    "title": "News Bulletin",
-    "desc": "The host presents the latest news stories pertaining to various issues around the globe."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776637800000,
-    "stopTs": 1776639600000,
-    "title": "Janana Jaruri Hai",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776639600000,
-    "stopTs": 1776641400000,
-    "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776641400000,
-    "stopTs": 1776643200000,
-    "title": "Shree Darshan",
-    "desc": "Devotees pay their obligations to the deities of the temple amidst the ceremonial worship."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776643200000,
-    "stopTs": 1776645000000,
-    "title": "Fatafat 50",
-    "desc": "The host presents the day&apos;s top 50 news headlines back to back."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776645000000,
-    "stopTs": 1776646800000,
-    "title": "Prabhu Vandana",
-    "desc": "A comprehensive compilation of religious hymns, prayers and songs are played back-to-back."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776646800000,
-    "stopTs": 1776648600000,
-    "title": "Rashifal",
-    "desc": "An astrologer provides insightful predictions for 12 zodiac signs."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776648600000,
-    "stopTs": 1776650400000,
-    "title": "Shree Darshan",
-    "desc": "Devotees pay their obligations to the deities of the temple amidst the ceremonial worship."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "22Scope.in",
-    "channelId": "22Scope.in",
-    "channelName": "22 Scope",
-    "startTs": 1776650400000,
-    "stopTs": 1776652200000,
-    "title": "Rashifal",
-    "desc": "An astrologer provides insightful predictions for 12 zodiac signs."
-  },
-  {
     "start": "02:30",
     "stop": "03:00",
     "channel": "22Scope.in",
@@ -546,8 +7,8 @@
     "channelName": "22 Scope",
     "startTs": 1776652200000,
     "stopTs": 1776654000000,
-    "title": "Good Morning Nation",
-    "desc": "The host presents the latest news stories and major updates on crucial matters of the nation."
+    "title": "Bulletin",
+    "desc": "The host sheds light on the top news stories and latest updates in the country."
   },
   {
     "start": "03:00",
@@ -557,8 +18,8 @@
     "channelName": "22 Scope",
     "startTs": 1776654000000,
     "stopTs": 1776655800000,
-    "title": "Rashifal",
-    "desc": "An astrologer provides insightful predictions for 12 zodiac signs."
+    "title": "Special PKJ",
+    "desc": "The host provides a detailed report on matters concerning the nation and the world."
   },
   {
     "start": "03:30",
@@ -601,8 +62,8 @@
     "channelName": "22 Scope",
     "startTs": 1776661200000,
     "stopTs": 1776663000000,
-    "title": "Viral Adda",
-    "desc": "The host presents the latest viral news stories taking place all over the country."
+    "title": "Fatafat 50",
+    "desc": "The host presents the day&apos;s top 50 news headlines back to back."
   },
   {
     "start": "05:30",
@@ -623,8 +84,8 @@
     "channelName": "22 Scope",
     "startTs": 1776664800000,
     "stopTs": 1776666600000,
-    "title": "Bollywood Hungama",
-    "desc": "Bringing the best in television."
+    "title": "Khabre Raftar Se",
+    "desc": "The host presents a round-up of the latest news from around the world and the country."
   },
   {
     "start": "06:30",
@@ -634,8 +95,8 @@
     "channelName": "22 Scope",
     "startTs": 1776666600000,
     "stopTs": 1776668400000,
-    "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
+    "title": "News Bulletin",
+    "desc": "The host presents the latest news stories pertaining to various issues around the globe."
   },
   {
     "start": "07:00",
@@ -645,8 +106,8 @@
     "channelName": "22 Scope",
     "startTs": 1776668400000,
     "stopTs": 1776670200000,
-    "title": "Special PKJ",
-    "desc": "The host provides a detailed report on matters concerning the nation and the world."
+    "title": "10 International - National - Regional",
+    "desc": "The host presents the top 10 news updates from across the region, nation and the world."
   },
   {
     "start": "07:30",
@@ -656,8 +117,8 @@
     "channelName": "22 Scope",
     "startTs": 1776670200000,
     "stopTs": 1776672000000,
-    "title": "Aadhi Aabadi",
-    "desc": "Bringing the best in television."
+    "title": "Desh Ki Awaaz",
+    "desc": "The host presents a detailed report on the latest news and developments."
   },
   {
     "start": "08:00",
@@ -700,8 +161,8 @@
     "channelName": "22 Scope",
     "startTs": 1776677400000,
     "stopTs": 1776679200000,
-    "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
+    "title": "NN81 Special",
+    "desc": "The host presents the latest news and developments surrounding various issues in the country."
   },
   {
     "start": "10:00",
@@ -733,8 +194,8 @@
     "channelName": "22 Scope",
     "startTs": 1776682800000,
     "stopTs": 1776684600000,
-    "title": "Jharkhand Ki Khabre",
-    "desc": "The host presents the latest social, economic and political news from Jharkhand."
+    "title": "Comedy Program",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "11:30",
@@ -744,8 +205,8 @@
     "channelName": "22 Scope",
     "startTs": 1776684600000,
     "stopTs": 1776686400000,
-    "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
+    "title": "Special PKJ",
+    "desc": "The host provides a detailed report on matters concerning the nation and the world."
   },
   {
     "start": "12:00",
@@ -755,8 +216,8 @@
     "channelName": "22 Scope",
     "startTs": 1776686400000,
     "stopTs": 1776688200000,
-    "title": "Khabre Raftar Se",
-    "desc": "The host presents a round-up of the latest news from around the world and the country."
+    "title": "Superfast News",
+    "desc": "The host presents the latest updates on various social, political and economic issues."
   },
   {
     "start": "12:30",
@@ -766,8 +227,8 @@
     "channelName": "22 Scope",
     "startTs": 1776688200000,
     "stopTs": 1776690000000,
-    "title": "News Bulletin",
-    "desc": "The host presents the latest news stories pertaining to various issues around the globe."
+    "title": "Jharkhand Ki Khabre",
+    "desc": "The host presents the latest social, economic and political news from Jharkhand."
   },
   {
     "start": "13:00",
@@ -788,8 +249,8 @@
     "channelName": "22 Scope",
     "startTs": 1776691800000,
     "stopTs": 1776693600000,
-    "title": "Health Khazana",
-    "desc": "Health experts discuss various measures to maintain general health and overall wellbeing."
+    "title": "Khabre Raftar Se",
+    "desc": "The host presents a round-up of the latest news from around the world and the country."
   },
   {
     "start": "14:00",
@@ -799,8 +260,8 @@
     "channelName": "22 Scope",
     "startTs": 1776693600000,
     "stopTs": 1776695400000,
-    "title": "Pradeshik Samachar Pradeshik Bhasha Me",
-    "desc": "The host sheds light on the latest news updates from across the region."
+    "title": "Special PKJ",
+    "desc": "The host provides a detailed report on matters concerning the nation and the world."
   },
   {
     "start": "14:30",
@@ -821,8 +282,8 @@
     "channelName": "22 Scope",
     "startTs": 1776697200000,
     "stopTs": 1776699000000,
-    "title": "Viral Adda",
-    "desc": "The host presents the latest viral news stories taking place all over the country."
+    "title": "Bulletin",
+    "desc": "The host sheds light on the top news stories and latest updates in the country."
   },
   {
     "start": "15:30",
@@ -865,8 +326,8 @@
     "channelName": "22 Scope",
     "startTs": 1776704400000,
     "stopTs": 1776706200000,
-    "title": "Bulletin",
-    "desc": "The host sheds light on the top news stories and latest updates in the country."
+    "title": "Desh Ki Awaaz",
+    "desc": "The host presents a detailed report on the latest news and developments."
   },
   {
     "start": "17:30",
@@ -876,8 +337,8 @@
     "channelName": "22 Scope",
     "startTs": 1776706200000,
     "stopTs": 1776708000000,
-    "title": "Khabre Raftar Se",
-    "desc": "The host presents a round-up of the latest news from around the world and the country."
+    "title": "Superfast News",
+    "desc": "The host presents the latest updates on various social, political and economic issues."
   },
   {
     "start": "18:00",
@@ -887,6 +348,534 @@
     "channelName": "22 Scope",
     "startTs": 1776708000000,
     "stopTs": 1776709800000,
+    "title": "Bulletin",
+    "desc": "The host sheds light on the top news stories and latest updates in the country."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776709800000,
+    "stopTs": 1776711600000,
+    "title": "Bulletin",
+    "desc": "The host sheds light on the top news stories and latest updates in the country."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776711600000,
+    "stopTs": 1776713400000,
+    "title": "Fatafat 50",
+    "desc": "The host presents the day&apos;s top 50 news headlines back to back."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776713400000,
+    "stopTs": 1776715200000,
+    "title": "Bulletin",
+    "desc": "The host sheds light on the top news stories and latest updates in the country."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776715200000,
+    "stopTs": 1776717000000,
+    "title": "Aadhi Aabadi",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776717000000,
+    "stopTs": 1776718800000,
+    "title": "Pradeshik Samachar Pradeshik Bhasha Me",
+    "desc": "The host sheds light on the latest news updates from across the region."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776718800000,
+    "stopTs": 1776720600000,
+    "title": "NN81 Special",
+    "desc": "The host presents the latest news and developments surrounding various issues in the country."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776720600000,
+    "stopTs": 1776722400000,
+    "title": "Bollywood Hungama",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776722400000,
+    "stopTs": 1776724200000,
+    "title": "Fatafat 50",
+    "desc": "The host presents the day&apos;s top 50 news headlines back to back."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776724200000,
+    "stopTs": 1776726000000,
+    "title": "Janana Jaruri Hai",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776726000000,
+    "stopTs": 1776727800000,
+    "title": "Bulletin",
+    "desc": "The host sheds light on the top news stories and latest updates in the country."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776727800000,
+    "stopTs": 1776729600000,
+    "title": "Shree Darshan",
+    "desc": "Devotees pay their obligations to the deities of the temple amidst the ceremonial worship."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776729600000,
+    "stopTs": 1776731400000,
+    "title": "NN81 Special",
+    "desc": "The host presents the latest news and developments surrounding various issues in the country."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776731400000,
+    "stopTs": 1776733200000,
+    "title": "Prabhu Vandana",
+    "desc": "A comprehensive compilation of religious hymns, prayers and songs are played back-to-back."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776733200000,
+    "stopTs": 1776735000000,
+    "title": "Naaptol",
+    "desc": "The host showcases products that customers can purchase from the comfort of their homes."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776735000000,
+    "stopTs": 1776736800000,
+    "title": "Rashi Fal",
+    "desc": "An astrologer explores horoscopes, planetary shifts and their impact on life."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776736800000,
+    "stopTs": 1776738600000,
+    "title": "News Bulletin",
+    "desc": "The host presents the latest news stories pertaining to various issues around the globe."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776738600000,
+    "stopTs": 1776740400000,
+    "title": "Good Morning Nation",
+    "desc": "The host presents the latest news stories and major updates on crucial matters of the nation."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776740400000,
+    "stopTs": 1776742200000,
+    "title": "Special PKJ",
+    "desc": "The host provides a detailed report on matters concerning the nation and the world."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776742200000,
+    "stopTs": 1776744000000,
+    "title": "Bulletin",
+    "desc": "The host sheds light on the top news stories and latest updates in the country."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776744000000,
+    "stopTs": 1776745800000,
+    "title": "Superfast News",
+    "desc": "The host presents the latest updates on various social, political and economic issues."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776745800000,
+    "stopTs": 1776747600000,
+    "title": "News Bulletin",
+    "desc": "The host presents the latest news stories pertaining to various issues around the globe."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776747600000,
+    "stopTs": 1776749400000,
+    "title": "Viral Adda",
+    "desc": "The host presents the latest viral news stories taking place all over the country."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776749400000,
+    "stopTs": 1776751200000,
+    "title": "Janana Jaruri Hai",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776751200000,
+    "stopTs": 1776753000000,
+    "title": "Khabre Raftar Se",
+    "desc": "The host presents a round-up of the latest news from around the world and the country."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776753000000,
+    "stopTs": 1776754800000,
+    "title": "News Bulletin",
+    "desc": "The host presents the latest news stories pertaining to various issues around the globe."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776754800000,
+    "stopTs": 1776756600000,
+    "title": "Special PKJ",
+    "desc": "The host provides a detailed report on matters concerning the nation and the world."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776756600000,
+    "stopTs": 1776758400000,
+    "title": "Desh Ki Awaaz",
+    "desc": "The host presents a detailed report on the latest news and developments."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776758400000,
+    "stopTs": 1776760200000,
+    "title": "Superfast News",
+    "desc": "The host presents the latest updates on various social, political and economic issues."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776760200000,
+    "stopTs": 1776762000000,
+    "title": "Bulletin",
+    "desc": "The host sheds light on the top news stories and latest updates in the country."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776762000000,
+    "stopTs": 1776763800000,
+    "title": "Viral Adda",
+    "desc": "The host presents the latest viral news stories taking place all over the country."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776763800000,
+    "stopTs": 1776765600000,
+    "title": "Bulletin",
+    "desc": "The host sheds light on the top news stories and latest updates in the country."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776765600000,
+    "stopTs": 1776767400000,
+    "title": "Operation Panja",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776767400000,
+    "stopTs": 1776769200000,
+    "title": "Bulletin",
+    "desc": "The host sheds light on the top news stories and latest updates in the country."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776769200000,
+    "stopTs": 1776771000000,
+    "title": "Comedy Program",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776771000000,
+    "stopTs": 1776772800000,
+    "title": "Special PKJ",
+    "desc": "The host provides a detailed report on matters concerning the nation and the world."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776772800000,
+    "stopTs": 1776774600000,
+    "title": "Superfast News",
+    "desc": "The host presents the latest updates on various social, political and economic issues."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776774600000,
+    "stopTs": 1776776400000,
+    "title": "News Bulletin",
+    "desc": "The host presents the latest news stories pertaining to various issues around the globe."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776776400000,
+    "stopTs": 1776778200000,
+    "title": "Bulletin",
+    "desc": "The host sheds light on the top news stories and latest updates in the country."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776778200000,
+    "stopTs": 1776780000000,
+    "title": "Khabre Raftar Se",
+    "desc": "The host presents a round-up of the latest news from around the world and the country."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776780000000,
+    "stopTs": 1776781800000,
+    "title": "Pradeshik Samachar Pradeshik Bhasha Me",
+    "desc": "The host sheds light on the latest news updates from across the region."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776781800000,
+    "stopTs": 1776783600000,
+    "title": "Janana Jaruri Hai",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776783600000,
+    "stopTs": 1776785400000,
+    "title": "Viral Adda",
+    "desc": "The host presents the latest viral news stories taking place all over the country."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776785400000,
+    "stopTs": 1776787200000,
+    "title": "NN81 Special",
+    "desc": "The host presents the latest news and developments surrounding various issues in the country."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776787200000,
+    "stopTs": 1776789000000,
+    "title": "Operation Panja",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776789000000,
+    "stopTs": 1776790800000,
+    "title": "Rahisyo Ki Duniya",
+    "desc": "The host sheds light on the top secrets of the world and discusses the myths behind it."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776790800000,
+    "stopTs": 1776792600000,
+    "title": "Bulletin",
+    "desc": "The host sheds light on the top news stories and latest updates in the country."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776792600000,
+    "stopTs": 1776794400000,
+    "title": "Khabre Raftar Se",
+    "desc": "The host presents a round-up of the latest news from around the world and the country."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "22Scope.in",
+    "channelId": "22Scope.in",
+    "channelName": "22 Scope",
+    "startTs": 1776794400000,
+    "stopTs": 1776796200000,
     "title": "Prime News",
     "desc": "Top news stories from business, politics, and social issues of local and international significance."
   }

@@ -1,25 +1,36 @@
 [
   {
-    "start": "02:00",
+    "start": "02:30",
     "stop": "03:00",
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776564000000,
-    "stopTs": 1776567600000,
-    "title": "Newshour",
-    "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
+    "startTs": 1776652200000,
+    "stopTs": 1776654000000,
+    "title": "UpFront",
+    "desc": "Mehdi Hasan skilfully cuts through headlines to get to the heart of the matter, when he interviews his guests."
   },
   {
     "start": "03:00",
+    "stop": "03:30",
+    "channel": "ALJAZEERA.in",
+    "channelId": "ALJAZEERA.in",
+    "channelName": "ALJAZEERA",
+    "startTs": 1776654000000,
+    "stopTs": 1776655800000,
+    "title": "News",
+    "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
+  },
+  {
+    "start": "03:30",
     "stop": "04:00",
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776567600000,
-    "stopTs": 1776571200000,
-    "title": "News",
-    "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
+    "startTs": 1776655800000,
+    "stopTs": 1776657600000,
+    "title": "The Bottom Line",
+    "desc": "Discussions on US politics and policies."
   },
   {
     "start": "04:00",
@@ -27,8 +38,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776571200000,
-    "stopTs": 1776573000000,
+    "startTs": 1776657600000,
+    "stopTs": 1776659400000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -38,10 +49,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776573000000,
-    "stopTs": 1776574800000,
-    "title": "The Listening Post",
-    "desc": "What is being reported by world media and how? Richard Gizbert guides you through the global news maze."
+    "startTs": 1776659400000,
+    "stopTs": 1776661200000,
+    "title": "Talk to Al Jazeera",
+    "desc": "One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times."
   },
   {
     "start": "05:00",
@@ -49,8 +60,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776574800000,
-    "stopTs": 1776576600000,
+    "startTs": 1776661200000,
+    "stopTs": 1776663000000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -60,8 +71,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776576600000,
-    "stopTs": 1776578400000,
+    "startTs": 1776663000000,
+    "stopTs": 1776664800000,
     "title": "Inside Story",
     "desc": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond."
   },
@@ -71,21 +82,32 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776578400000,
-    "stopTs": 1776582000000,
+    "startTs": 1776664800000,
+    "stopTs": 1776668400000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   },
   {
     "start": "07:00",
+    "stop": "07:30",
+    "channel": "ALJAZEERA.in",
+    "channelId": "ALJAZEERA.in",
+    "channelName": "ALJAZEERA",
+    "startTs": 1776668400000,
+    "stopTs": 1776670200000,
+    "title": "News",
+    "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
+  },
+  {
+    "start": "07:30",
     "stop": "08:00",
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776582000000,
-    "stopTs": 1776585600000,
-    "title": "Newshour",
-    "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
+    "startTs": 1776670200000,
+    "stopTs": 1776672000000,
+    "title": "Counting the Cost",
+    "desc": "Presenting a weekly report on worldwide developments in business, finance, and economics, all while analysing their potential impact on the public."
   },
   {
     "start": "08:00",
@@ -93,8 +115,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776585600000,
-    "stopTs": 1776587400000,
+    "startTs": 1776672000000,
+    "stopTs": 1776673800000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -104,32 +126,21 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776587400000,
-    "stopTs": 1776589200000,
-    "title": "UpFront",
-    "desc": "Mehdi Hasan skilfully cuts through headlines to get to the heart of the matter, when he interviews his guests."
+    "startTs": 1776673800000,
+    "stopTs": 1776675600000,
+    "title": "The Listening Post",
+    "desc": "What is being reported by world media and how? Richard Gizbert guides you through the global news maze."
   },
   {
     "start": "09:00",
-    "stop": "09:30",
-    "channel": "ALJAZEERA.in",
-    "channelId": "ALJAZEERA.in",
-    "channelName": "ALJAZEERA",
-    "startTs": 1776589200000,
-    "stopTs": 1776591000000,
-    "title": "News",
-    "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
-  },
-  {
-    "start": "09:30",
     "stop": "10:00",
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776591000000,
-    "stopTs": 1776592800000,
-    "title": "The Bottom Line",
-    "desc": "Discussions on US politics and policies."
+    "startTs": 1776675600000,
+    "stopTs": 1776679200000,
+    "title": "Newshour",
+    "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   },
   {
     "start": "10:00",
@@ -137,8 +148,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776592800000,
-    "stopTs": 1776596400000,
+    "startTs": 1776679200000,
+    "stopTs": 1776682800000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   },
@@ -148,8 +159,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776596400000,
-    "stopTs": 1776598200000,
+    "startTs": 1776682800000,
+    "stopTs": 1776684600000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -159,8 +170,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776598200000,
-    "stopTs": 1776600000000,
+    "startTs": 1776684600000,
+    "stopTs": 1776686400000,
     "title": "Inside Story",
     "desc": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond."
   },
@@ -170,8 +181,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776600000000,
-    "stopTs": 1776603600000,
+    "startTs": 1776686400000,
+    "stopTs": 1776690000000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   },
@@ -181,8 +192,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776603600000,
-    "stopTs": 1776607200000,
+    "startTs": 1776690000000,
+    "stopTs": 1776693600000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   },
@@ -192,8 +203,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776607200000,
-    "stopTs": 1776609000000,
+    "startTs": 1776693600000,
+    "stopTs": 1776695400000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -203,10 +214,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776609000000,
-    "stopTs": 1776610800000,
-    "title": "The Listening Post",
-    "desc": "What is being reported by world media and how? Richard Gizbert guides you through the global news maze."
+    "startTs": 1776695400000,
+    "stopTs": 1776697200000,
+    "title": "Talk to Al Jazeera",
+    "desc": "One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times."
   },
   {
     "start": "15:00",
@@ -214,8 +225,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1776610800000,
-    "stopTs": 1776614400000,
+    "startTs": 1776697200000,
+    "stopTs": 1776700800000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   }
