@@ -1,14 +1,25 @@
 [
   {
+    "start": "01:30",
+    "stop": "02:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1776735000000,
+    "stopTs": 1776738600000,
+    "title": "The Hogan Controversy; TNA Epics",
+    "desc": "This is Sport - Wrestling Category."
+  },
+  {
     "start": "02:30",
     "stop": "04:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1776652200000,
-    "stopTs": 1776659400000,
-    "title": "AEW Collision",
-    "desc": "Popular pro-wrestlers from the AEW Roster compete against each other in fights every Saturday to win the championship title."
+    "startTs": 1776738600000,
+    "stopTs": 1776745800000,
+    "title": "TNA Impact",
+    "desc": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win."
   },
   {
     "start": "04:30",
@@ -16,9 +27,9 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1776659400000,
-    "stopTs": 1776663000000,
-    "title": "Greatest Ladder Matches; TNA Wrestling: Legends",
+    "startTs": 1776745800000,
+    "stopTs": 1776749400000,
+    "title": "Best of Tag Team Matches; TNA Wrestling: Legends",
     "desc": "This is Sport - Wrestling Category."
   },
   {
@@ -27,10 +38,10 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1776663000000,
-    "stopTs": 1776670200000,
-    "title": "Ajax vs. FC Twente; Eredivisie Soccer",
-    "desc": "Professional football teams compete against each other in order to emerge victorious in the Eredivisie, a premier football tournament in the Netherlands."
+    "startTs": 1776749400000,
+    "stopTs": 1776756600000,
+    "title": "Sparta Rotterdam vs. PSV; Eredivisie Soccer",
+    "desc": "From Sparta Stadium in Rotterdam, South Holland, Netherlands."
   },
   {
     "start": "07:30",
@@ -38,10 +49,10 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1776670200000,
-    "stopTs": 1776681000000,
-    "title": "TNA Unbreakable",
-    "desc": "Top international wrestlers compete against each other in TNA Unbreakable, a professional wrestling event, to emerge victorious and win the title."
+    "startTs": 1776756600000,
+    "stopTs": 1776767400000,
+    "title": "TNA Wrestling: Emergence",
+    "desc": "A thrilling wrestling event where top wrestlers compete in high-stakes matches, showcasing their skills and fierce rivalries in a battle for dominance in the ring."
   },
   {
     "start": "10:30",
@@ -49,8 +60,8 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1776681000000,
-    "stopTs": 1776684600000,
+    "startTs": 1776767400000,
+    "stopTs": 1776771000000,
     "title": "72 The League",
     "desc": "This is Sport - Golf Category."
   },
@@ -60,31 +71,31 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1776684600000,
-    "stopTs": 1776691800000,
-    "title": "TNA Impact",
-    "desc": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win."
+    "startTs": 1776771000000,
+    "stopTs": 1776778200000,
+    "title": "AEW Collision",
+    "desc": "Popular pro-wrestlers from the AEW Roster compete against each other in fights every Saturday to win the championship title."
   },
   {
     "start": "13:30",
-    "stop": "14:30",
+    "stop": "15:00",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1776691800000,
-    "stopTs": 1776695400000,
-    "title": "Men&apos;s Singles Final: Lin Chun-yi vs. Jonatan Christie; BWF World Tour Badminton",
+    "startTs": 1776778200000,
+    "stopTs": 1776783600000,
+    "title": "Women&apos;s Singles Semi-Final: Wang Zhi Yi vs. Chen Yu Fei; BWF World Tour Badminton",
     "desc": "This is Sport - Sport Category."
   },
   {
-    "start": "14:30",
+    "start": "15:00",
     "stop": "18:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1776695400000,
-    "stopTs": 1776709800000,
-    "title": "AEW Dynasty",
+    "startTs": 1776783600000,
+    "stopTs": 1776796200000,
+    "title": "TNA Rebellion",
     "desc": "This is Sport - Wrestling Category."
   }
 ]

@@ -1,311 +1,36 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:48",
+    "start": "01:23",
+    "stop": "02:18",
     "channel": "DiscoveryChannel.in",
     "channelId": "DiscoveryChannel.in",
     "channelName": "Discovery Channel",
-    "startTs": 1776650400000,
-    "stopTs": 1776653280000,
-    "title": "18 Wheels Across India",
-    "desc": "A popular Polish lorry driver undertakes the daunting task of navigating India&apos;s notorious and chaotic road networks, all while exploring the culture."
-  },
-  {
-    "start": "02:48",
-    "stop": "03:39",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776653280000,
-    "stopTs": 1776656340000,
-    "title": "Dual Survival Colombia",
-    "desc": "Survivalists push through Colombia&apos;s dangerous, uninhabited lands, highlighting each location&apos;s unique traits as they strive to outsmart the treacherous terrain."
-  },
-  {
-    "start": "03:39",
-    "stop": "04:30",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776656340000,
-    "stopTs": 1776659400000,
-    "title": "Man Vs. Wild",
-    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
-  },
-  {
-    "start": "04:30",
-    "stop": "04:55",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776659400000,
-    "stopTs": 1776660900000,
-    "title": "Man Eats Wild",
-    "desc": "Mario Kalpou travels worldwide, hunting and fishing, while highlighting diverse cultures and foods. Through his journeys, he explores people, places, and flavors, sharing adventures and discoveries."
-  },
-  {
-    "start": "04:55",
-    "stop": "05:20",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776660900000,
-    "stopTs": 1776662400000,
-    "title": "Man Eats Wild",
-    "desc": "Mario Kalpou travels the world, hunting and fishing, while sharing and celebrating cultures and foods he encounters along the way, learning from locals and their traditions."
-  },
-  {
-    "start": "05:20",
-    "stop": "06:11",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776662400000,
-    "stopTs": 1776665460000,
-    "title": "18 Wheels Across India",
-    "desc": "Dawid Andres journeys across India behind the wheel of a flashy truck, diving into thrilling adventures as he navigates bustling highways, remote roads, and unexpected encounters along the way."
-  },
-  {
-    "start": "06:11",
-    "stop": "07:02",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776665460000,
-    "stopTs": 1776668520000,
-    "title": "Man Vs. Wild",
-    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
-  },
-  {
-    "start": "07:02",
-    "stop": "07:51",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776668520000,
-    "stopTs": 1776671460000,
-    "title": "Man Vs. Wild",
-    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
-  },
-  {
-    "start": "07:51",
-    "stop": "08:45",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776671460000,
-    "stopTs": 1776674700000,
-    "title": "Dual Survival",
-    "desc": "Matt and Joe trek a volcanic hillside, overcoming obstacles as they try to reach the coast, finding maps, aid, and courage along the treacherous journey ahead."
-  },
-  {
-    "start": "08:45",
-    "stop": "09:37",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776674700000,
-    "stopTs": 1776677820000,
-    "title": "Ed Stafford&apos;s Rite of Passage",
-    "desc": "Ed undergoes dangerous tribal rites to discover what it means to be a better person."
-  },
-  {
-    "start": "09:37",
-    "stop": "10:30",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776677820000,
-    "stopTs": 1776681000000,
-    "title": "Man Vs. Wild",
-    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:20",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776681000000,
-    "stopTs": 1776684000000,
-    "title": "Hitler&apos;s Treasure Hunters",
-    "desc": "Hitler&apos;s Treasure Hunters"
-  },
-  {
-    "start": "11:20",
-    "stop": "12:11",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776684000000,
-    "stopTs": 1776687060000,
-    "title": "Dual Survival",
-    "desc": "A reality survival series where two experts with contrasting approaches work together to endure extreme conditions, testing survival knowledge, cooperation, and endurance."
-  },
-  {
-    "start": "12:11",
-    "stop": "13:01",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776687060000,
-    "stopTs": 1776690060000,
-    "title": "Man Vs. Wild",
-    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
-  },
-  {
-    "start": "13:01",
-    "stop": "13:50",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776690060000,
-    "stopTs": 1776693000000,
-    "title": "Man Vs. Wild",
-    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
-  },
-  {
-    "start": "13:50",
-    "stop": "14:42",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776693000000,
-    "stopTs": 1776696120000,
-    "title": "18 Wheels Across India",
-    "desc": "A road journey series exploring India through trucking routes, capturing diverse landscapes, cultures, and stories of drivers, revealing the country&apos;s vibrant life on highways."
-  },
-  {
-    "start": "14:42",
-    "stop": "15:34",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776696120000,
-    "stopTs": 1776699240000,
-    "title": "Man Vs. Wild",
-    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
-  },
-  {
-    "start": "15:34",
-    "stop": "16:26",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776699240000,
-    "stopTs": 1776702360000,
-    "title": "Ed Stafford&apos;s Rite of Passage",
-    "desc": "Ed undergoes dangerous tribal rites to discover what it means to be a better person."
-  },
-  {
-    "start": "16:26",
-    "stop": "17:18",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776702360000,
-    "stopTs": 1776705480000,
-    "title": "Naked And Afraid",
-    "desc": "Costa Rica survivalists endure 21-day challenge Kim teams up with Shane."
-  },
-  {
-    "start": "17:18",
-    "stop": "18:54",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776705480000,
-    "stopTs": 1776711240000,
-    "title": "Naked And Afraid",
-    "desc": "Challenging Latin American terrains test physical and mental endurance as survivalists adapt to unpredictable conditions."
-  },
-  {
-    "start": "18:54",
-    "stop": "19:54",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776711240000,
-    "stopTs": 1776714840000,
-    "title": "Naked And Afraid",
-    "desc": "Clint Jivoin, Laura Zerra: 21 days, Naked and Afraid in Panama."
-  },
-  {
-    "start": "19:54",
-    "stop": "20:54",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776714840000,
-    "stopTs": 1776718440000,
-    "title": "Naked And Afraid",
-    "desc": "Exploring Latin America&apos;s wilds, adventurers navigate danger, survival tactics, and teamwork in untamed landscapes."
-  },
-  {
-    "start": "20:54",
-    "stop": "21:54",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776718440000,
-    "stopTs": 1776722040000,
-    "title": "Naked And Afraid",
-    "desc": "Two complete strangers - a man and a woman - are stripped of clothes and dropped into brutal wilderness for 21 days to survive using only wits and one personal item."
-  },
-  {
-    "start": "21:54",
-    "stop": "22:54",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776722040000,
-    "stopTs": 1776725640000,
-    "title": "Naked And Afraid",
-    "desc": "Billy Berger and Ky Furneaux survive 21 days in Louisiana swamp upto their necks."
-  },
-  {
-    "start": "22:54",
-    "stop": "23:40",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776725640000,
-    "stopTs": 1776728400000,
-    "title": "Naked And Afraid",
-    "desc": "Two survivalists are challenged to survive in a flooded jungle of Belize"
-  },
-  {
-    "start": "23:40",
-    "stop": "00:30",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776728400000,
-    "stopTs": 1776731400000,
-    "title": "Naked And Afraid",
-    "desc": "Two survivalists are dropped on a deserted Fijian island"
-  },
-  {
-    "start": "00:30",
-    "stop": "01:30",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1776731400000,
-    "stopTs": 1776735000000,
-    "title": "Man Vs. Wild",
-    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+    "startTs": 1776734580000,
+    "stopTs": 1776737880000,
+    "title": "Gold Rush",
+    "desc": "Parker gains momentum at Dominion Creek, but a mysterious gold loss may set him back. Meanwhile, Tony moves everyone back to Paradise Hill and tensions flare."
   },
   {
     "start": "01:30",
     "stop": "02:30",
     "channel": "DiscoveryChannel.in",
     "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
+    "channelName": "DISCOVERY CHANNEL",
     "startTs": 1776735000000,
     "stopTs": 1776738600000,
-    "title": "Man Vs. Wild",
-    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+    "title": "Man vs. Wild",
+    "desc": "On his next expedition to nature&apos;s kitchen, Bear Grylls resorts to drinking liquid from a camel&apos;s stomach while devouring whatever wild food he can put in his mouth."
+  },
+  {
+    "start": "02:18",
+    "stop": "03:05",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776737880000,
+    "stopTs": 1776740700000,
+    "title": "18 Wheels Across India",
+    "desc": "A popular Polish lorry driver undertakes the daunting task of navigating India&apos;s notorious and chaotic road networks, all while exploring the culture."
   },
   {
     "start": "02:30",
@@ -319,6 +44,17 @@
     "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
   },
   {
+    "start": "03:05",
+    "stop": "04:04",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776740700000,
+    "stopTs": 1776744240000,
+    "title": "Dual Survival Mexico",
+    "desc": "Survival experts Fernanda and Palma face the risk of hypothermia and altitude sickness in Colombia&apos;s Chingaza Páramo mountain range."
+  },
+  {
     "start": "03:30",
     "stop": "04:30",
     "channel": "DiscoveryChannel.in",
@@ -328,6 +64,17 @@
     "stopTs": 1776745800000,
     "title": "Man Vs. Wild",
     "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "04:04",
+    "stop": "04:57",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776744240000,
+    "stopTs": 1776747420000,
+    "title": "Man vs. Wild",
+    "desc": "Adventurer Bear Grylls demonstrates how to survive in Ecuador&apos;s jungles by building bamboo bridges, making a bow and arrow, and showing which plants are poisonous."
   },
   {
     "start": "04:30",
@@ -341,6 +88,28 @@
     "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
   },
   {
+    "start": "04:57",
+    "stop": "05:27",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776747420000,
+    "stopTs": 1776749220000,
+    "title": "Man Eats Wild",
+    "desc": "Mario Kalpou&apos;s passion for harvesting wild food through hunting and fishing leads him to some of the most extreme environments on the planet."
+  },
+  {
+    "start": "05:27",
+    "stop": "05:57",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776749220000,
+    "stopTs": 1776751020000,
+    "title": "Man Eats Wild",
+    "desc": "Mario Kalpou&apos;s passion for harvesting wild food through hunting and fishing leads him to some of the most extreme environments on the planet."
+  },
+  {
     "start": "05:30",
     "stop": "06:30",
     "channel": "DiscoveryChannel.in",
@@ -350,6 +119,17 @@
     "stopTs": 1776753000000,
     "title": "Man Vs. Wild",
     "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "05:57",
+    "stop": "06:50",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776751020000,
+    "stopTs": 1776754200000,
+    "title": "18 Wheels Across India",
+    "desc": "A popular Polish lorry driver undertakes the daunting task of navigating India&apos;s notorious and chaotic road networks, all while exploring the culture."
   },
   {
     "start": "06:30",
@@ -363,6 +143,17 @@
     "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
   },
   {
+    "start": "06:50",
+    "stop": "07:42",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776754200000,
+    "stopTs": 1776757320000,
+    "title": "Man vs. Wild",
+    "desc": "Bear Grylls demonstrates all the techniques and skills that are required in order to stay alive in the dangerous waters of the Everglades."
+  },
+  {
     "start": "07:30",
     "stop": "08:30",
     "channel": "DiscoveryChannel.in",
@@ -372,6 +163,17 @@
     "stopTs": 1776760200000,
     "title": "Man Vs. Wild",
     "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "07:42",
+    "stop": "08:39",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776757320000,
+    "stopTs": 1776760740000,
+    "title": "Dual Survival Mexico",
+    "desc": "Fernanda and Palma start their mission trapped in the dark caverns in Chicamocha Canyon. They face snake-infested ravines and dangerous waterfalls."
   },
   {
     "start": "08:30",
@@ -385,6 +187,17 @@
     "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
   },
   {
+    "start": "08:39",
+    "stop": "09:32",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776760740000,
+    "stopTs": 1776763920000,
+    "title": "Ed Stafford&apos;s Rite of Passage",
+    "desc": "Ed travels to the heart of the Ecuadorian rainforest to live with the Waorani, where he masters the skills of hunting monkeys and crafting deadly blow-darts."
+  },
+  {
     "start": "09:30",
     "stop": "10:30",
     "channel": "DiscoveryChannel.in",
@@ -396,6 +209,17 @@
     "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
   },
   {
+    "start": "09:32",
+    "stop": "10:32",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776763920000,
+    "stopTs": 1776767520000,
+    "title": "Man vs. Wild",
+    "desc": "Bear is in Scotland off the coast around Cape Wrath. He fashions a wetsuit from a dead seal and has a close call with a rockfall before making camp in an old, upturned boat."
+  },
+  {
     "start": "10:30",
     "stop": "11:30",
     "channel": "DiscoveryChannel.in",
@@ -404,7 +228,29 @@
     "startTs": 1776767400000,
     "stopTs": 1776771000000,
     "title": "In the Eye of the Storm",
-    "desc": "People capture their first-hand experiences of witnessing natural disasters."
+    "desc": "Hundreds of cameras capture Hurricane Ida slamming Louisiana in 2021, but as the storm shifts northeast, eyewitnesses film tornadoes and flooding all the way to New York City."
+  },
+  {
+    "start": "10:32",
+    "stop": "11:29",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776767520000,
+    "stopTs": 1776770940000,
+    "title": "In the Eye of the Storm",
+    "desc": "Observers provide a primary account of natural disasters by capturing terrifying moments and recording the instances of destruction."
+  },
+  {
+    "start": "11:29",
+    "stop": "12:29",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776770940000,
+    "stopTs": 1776774540000,
+    "title": "Dual Survival Mexico",
+    "desc": "Fernanda and Palma start their mission trapped in the dark caverns in Chicamocha Canyon. They face snake-infested ravines and dangerous waterfalls."
   },
   {
     "start": "11:30",
@@ -418,6 +264,17 @@
     "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
   },
   {
+    "start": "12:29",
+    "stop": "13:28",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776774540000,
+    "stopTs": 1776778080000,
+    "title": "Man vs. Wild",
+    "desc": "In the lethal mangroves and infamous viper pits of Panama, Bear Grylls tackles some extreme survival challenges and some grisly eats to show how to get out alive."
+  },
+  {
     "start": "12:30",
     "stop": "13:30",
     "channel": "DiscoveryChannel.in",
@@ -427,6 +284,17 @@
     "stopTs": 1776778200000,
     "title": "Man Vs. Wild",
     "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "13:28",
+    "stop": "14:26",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776778080000,
+    "stopTs": 1776781560000,
+    "title": "18 Wheels Across India",
+    "desc": "When Dawid departs from Kochi, he heads to Goa for his next assignment. While there, he explores the local fish market, and more."
   },
   {
     "start": "13:30",
@@ -440,6 +308,17 @@
     "desc": "Rick Harrison and his family purchase, sell and evaluate items with fascinating stories."
   },
   {
+    "start": "14:26",
+    "stop": "15:28",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776781560000,
+    "stopTs": 1776785280000,
+    "title": "Man vs. Wild",
+    "desc": "Actor Jake Gyllenhaal assists Bear in showcasing survival techniques in Iceland."
+  },
+  {
     "start": "14:30",
     "stop": "15:30",
     "channel": "DiscoveryChannel.in",
@@ -449,6 +328,17 @@
     "stopTs": 1776785400000,
     "title": "Man Vs. Wild",
     "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "15:28",
+    "stop": "16:28",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776785280000,
+    "stopTs": 1776788880000,
+    "title": "Ed Stafford&apos;s Rite of Passage",
+    "desc": "Ed travels to a Buddhist monastery to master kung fu and control his internal energy. He has only a few days to learn these ancient skills before facing a martial arts master in a final battle."
   },
   {
     "start": "15:30",
@@ -462,15 +352,114 @@
     "desc": "Ed undergoes dangerous tribal rites to discover what it means to be a better person."
   },
   {
+    "start": "16:28",
+    "stop": "17:25",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776788880000,
+    "stopTs": 1776792300000,
+    "title": "Naked and Afraid",
+    "desc": "A Canadian farmer and a military veteran take on the snake-infested Philippine jungle. Also, they embark on a quest to trap a tormenting night visitor."
+  },
+  {
     "start": "16:30",
-    "stop": "00:30",
+    "stop": "18:30",
     "channel": "DiscoveryChannel.in",
     "channelId": "DiscoveryChannel.in",
     "channelName": "Discovery Channel",
     "startTs": 1776789000000,
+    "stopTs": 1776796200000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "17:25",
+    "stop": "18:44",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776792300000,
+    "stopTs": 1776797040000,
+    "title": "Naked and Afraid",
+    "desc": "Veteran survivalists Ky Furneaux and Dan Link endure 14 days in Thailand without tools. Later, their challenge is jeopardised when they are unable to create a fire."
+  },
+  {
+    "start": "18:30",
+    "stop": "21:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776796200000,
+    "stopTs": 1776807000000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "18:44",
+    "stop": "20:11",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776797040000,
+    "stopTs": 1776802260000,
+    "title": "Naked and Afraid",
+    "desc": "A bachelor and a divorced woman endure 14 days of extreme heat, venomous centipedes, and swarms of bees on a remote island in the Philippines."
+  },
+  {
+    "start": "20:11",
+    "stop": "20:55",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776802260000,
+    "stopTs": 1776804900000,
+    "title": "Naked and Afraid",
+    "desc": "An extreme athlete and a risk-averse survivalist face 21 days in the Philippine jungle where they are tormented by vicious fire ants and extreme hunger."
+  },
+  {
+    "start": "20:55",
+    "stop": "22:23",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776804900000,
+    "stopTs": 1776810180000,
+    "title": "Naked and Afraid",
+    "desc": "Four men seek to redeem past failures on a forgotten lake deep in the Philippine jungle. However, they are driven by pride and tested by the brutal elements."
+  },
+  {
+    "start": "21:30",
+    "stop": "00:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776807000000,
     "stopTs": 1776817800000,
     "title": "Man Vs. Wild",
     "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "22:23",
+    "stop": "23:44",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776810180000,
+    "stopTs": 1776815040000,
+    "title": "Naked and Afraid",
+    "desc": "An inspiring woman who is a double amputee and her ex-military partner battle storms, lethal snakes and swarming bugs in the Belizean jungle."
+  },
+  {
+    "start": "23:44",
+    "stop": "00:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776815040000,
+    "stopTs": 1776817800000,
+    "title": "Man vs. Wild",
+    "desc": "Adventurer Bear Grylls demonstrates how to survive in Ecuador&apos;s jungles by building bamboo bridges, making a bow and arrow, and showing which plants are poisonous."
   },
   {
     "start": "00:30",
@@ -502,6 +491,215 @@
     "channelName": "Discovery Channel",
     "startTs": 1776825000000,
     "stopTs": 1776828600000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776828600000,
+    "stopTs": 1776832200000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776832200000,
+    "stopTs": 1776835800000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776835800000,
+    "stopTs": 1776839400000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776839400000,
+    "stopTs": 1776843000000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776843000000,
+    "stopTs": 1776846600000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776846600000,
+    "stopTs": 1776850200000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776850200000,
+    "stopTs": 1776853800000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776853800000,
+    "stopTs": 1776857400000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776857400000,
+    "stopTs": 1776861000000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776861000000,
+    "stopTs": 1776864600000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776864600000,
+    "stopTs": 1776868200000,
+    "title": "Pawn Stars",
+    "desc": "Rick Harrison and his family purchase, sell and evaluate items with fascinating stories."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776868200000,
+    "stopTs": 1776871800000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776871800000,
+    "stopTs": 1776875400000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "16:30",
+    "stop": "18:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776875400000,
+    "stopTs": 1776882600000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "18:30",
+    "stop": "21:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776882600000,
+    "stopTs": 1776893400000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "21:30",
+    "stop": "00:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776893400000,
+    "stopTs": 1776904200000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776904200000,
+    "stopTs": 1776907800000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776907800000,
+    "stopTs": 1776911400000,
+    "title": "Man Vs. Wild",
+    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1776911400000,
+    "stopTs": 1776915000000,
     "title": "Man Vs. Wild",
     "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
   }
