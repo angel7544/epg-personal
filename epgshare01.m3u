@@ -425,9 +425,9 @@ http://localhost:5000/live/epgshare01/IN4#Fitness.Active.in.m3u8
 http://localhost:5000/live/epgshare01/IN4#FLOWERS.in.m3u8
 #EXTINF:-1 tvg-id="FRANCE24.in" tvg-logo="" group-title="EPGShare01",FRANCE 24
 http://localhost:5000/live/epgshare01/IN4#FRANCE.24.in.m3u8
-#EXTINF:-1 tvg-id="GEMINICOMEDY.in" tvg-logo="" group-title="EPGShare01",GEMINI COMEDY
+#EXTINF:-1 tvg-id="GeminiComedy.in" tvg-logo="" group-title="EPGShare01",GEMINI COMEDY
 http://localhost:5000/live/epgshare01/IN4#GEMINI.COMEDY.in.m3u8
-#EXTINF:-1 tvg-id="GEMINILIFE.in" tvg-logo="" group-title="EPGShare01",GEMINI LIFE
+#EXTINF:-1 tvg-id="GeminiLife.in" tvg-logo="" group-title="EPGShare01",GEMINI LIFE
 http://localhost:5000/live/epgshare01/IN4#GEMINI.LIFE.in.m3u8
 #EXTINF:-1 tvg-id="GEMINIMOVIES.in" tvg-logo="" group-title="EPGShare01",GEMINI MOVIES
 http://localhost:5000/live/epgshare01/IN4#GEMINI.MOVIES.in.m3u8
@@ -435,7 +435,7 @@ http://localhost:5000/live/epgshare01/IN4#GEMINI.MOVIES.in.m3u8
 http://localhost:5000/live/epgshare01/IN4#GEMINI.MUSIC.in.m3u8
 #EXTINF:-1 tvg-id="GEMINITVHD.in" tvg-logo="" group-title="EPGShare01",GEMINI TV HD
 http://localhost:5000/live/epgshare01/IN4#GEMINI.TV.HD.in.m3u8
-#EXTINF:-1 tvg-id="GEMINITV.in" tvg-logo="" group-title="EPGShare01",GEMINI TV
+#EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="" group-title="EPGShare01",GEMINI TV
 http://localhost:5000/live/epgshare01/IN4#GEMINI.TV.in.m3u8
 #EXTINF:-1 tvg-id="GodTV.in" tvg-logo="" group-title="EPGShare01",God TV
 http://localhost:5000/live/epgshare01/IN4#God.TV.in.m3u8
@@ -1209,7 +1209,7 @@ http://localhost:5000/live/epgshare01/IN4#ZEE.24.KALAK.in.m3u8
 http://localhost:5000/live/epgshare01/IN4#ZEE.24.TAAS.in.m3u8
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-logo="" group-title="EPGShare01",ZEE ACTION
 http://localhost:5000/live/epgshare01/IN4#ZEE.ACTION.in.m3u8
-#EXTINF:-1 tvg-id="ZEEANMOLCINEMA2.in" tvg-logo="" group-title="EPGShare01",ZEE ANMOL CINEMA 2
+#EXTINF:-1 tvg-id="ZeeAnmolCinema2.in" tvg-logo="" group-title="EPGShare01",ZEE ANMOL CINEMA 2
 http://localhost:5000/live/epgshare01/IN4#ZEE.ANMOL.CINEMA.2.in.m3u8
 #EXTINF:-1 tvg-id="ZEEANMOLCINEMA.in" tvg-logo="" group-title="EPGShare01",ZEE ANMOL CINEMA
 http://localhost:5000/live/epgshare01/IN4#ZEE.ANMOL.CINEMA.in.m3u8
