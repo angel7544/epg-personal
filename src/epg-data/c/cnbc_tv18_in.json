@@ -1,401 +1,5 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777255200000,
-    "stopTs": 1777257000000,
-    "title": "Power Breakfast",
-    "desc": "The hosts analyse the current state and trends of the stock market."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777257000000,
-    "stopTs": 1777260600000,
-    "title": "Bazaar Morning Call",
-    "desc": "The hosts shed light on the condition of the stock market prior to its opening."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777260600000,
-    "stopTs": 1777264200000,
-    "title": "Bazaar Open Exchange",
-    "desc": "The host provides the latest news and updates related to the stock markets."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777264200000,
-    "stopTs": 1777266000000,
-    "title": "Bazaar Corporate Radar",
-    "desc": "The host invites the top businessmen and economists to offer their views on the market."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777266000000,
-    "stopTs": 1777267800000,
-    "title": "Chartbusters",
-    "desc": "Trading experts talk about the best performing stocks and offer trading strategies."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777267800000,
-    "stopTs": 1777271400000,
-    "title": "Trading Hour",
-    "desc": "The host provides the latest news and updates related to the stock markets."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777271400000,
-    "stopTs": 1777275000000,
-    "title": "Half Time Report",
-    "desc": "Financial experts and analysts discuss the latest stock market news and economic updates."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777275000000,
-    "stopTs": 1777276800000,
-    "title": "Business Lunch",
-    "desc": "The host shares the top news stories from the world of business and the market."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777276800000,
-    "stopTs": 1777278600000,
-    "title": "Midcap Radar",
-    "desc": "The host converse with experts about the news and updates related to the stock markets."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777278600000,
-    "stopTs": 1777280400000,
-    "title": "Your Stocks",
-    "desc": "The hosts review, analyse and predict the stock market trends of the country."
-  },
-  {
-    "start": "09:00",
-    "stop": "10:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777280400000,
-    "stopTs": 1777284000000,
-    "title": "NSE Closing Bell",
-    "desc": "The host presents the status of the stocks at the time of the closing bell."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777284000000,
-    "stopTs": 1777285800000,
-    "title": "NSE Closing Bell",
-    "desc": "The host presents the status of the stocks at the time of the closing bell."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777285800000,
-    "stopTs": 1777287600000,
-    "title": "After The Bell",
-    "desc": "Experts from various fields share their views on the status of the share market."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777287600000,
-    "stopTs": 1777289400000,
-    "title": "Markets Today",
-    "desc": "The host provides the latest news and updates related to the stock markets."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777289400000,
-    "stopTs": 1777291200000,
-    "title": "Reporter&apos;s Diary",
-    "desc": "The host provides in-depth coverage of news headlines and current affairs."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777291200000,
-    "stopTs": 1777293000000,
-    "title": "CNBC-TV18 Special",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777293000000,
-    "stopTs": 1777294800000,
-    "title": "Reporter&apos;s Diary",
-    "desc": "The host provides in-depth coverage of news headlines and current affairs."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777294800000,
-    "stopTs": 1777296600000,
-    "title": "Start Up Street",
-    "desc": "The host provides updates about the developments of various start-up businesses."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777296600000,
-    "stopTs": 1777298400000,
-    "title": "U.S Markets Opening Bell",
-    "desc": "The host provides the latest news and updates related to the stock markets."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777298400000,
-    "stopTs": 1777300200000,
-    "title": "CNBC-TV18 Special",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777300200000,
-    "stopTs": 1777302000000,
-    "title": "India Business Hour",
-    "desc": "The host presents provides a holistic perspective of the Indian business environment."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777302000000,
-    "stopTs": 1777303800000,
-    "title": "Markets Today",
-    "desc": "The host provides the latest news and updates related to the stock markets."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777303800000,
-    "stopTs": 1777305600000,
-    "title": "India Business Hour",
-    "desc": "The host presents provides a holistic perspective of the Indian business environment."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777305600000,
-    "stopTs": 1777307400000,
-    "title": "CNBC-TV18 Special",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777307400000,
-    "stopTs": 1777309200000,
-    "title": "CNBC-TV18 Special",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777309200000,
-    "stopTs": 1777311000000,
-    "title": "CNBC-TV18 Special",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777311000000,
-    "stopTs": 1777312800000,
-    "title": "India Business Hour",
-    "desc": "The host presents provides a holistic perspective of the Indian business environment."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777312800000,
-    "stopTs": 1777314600000,
-    "title": "CNBC-TV18 Special",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777314600000,
-    "stopTs": 1777316400000,
-    "title": "The Exchange",
-    "desc": "The host presents the latest financial and economic headlines around the world."
-  },
-  {
-    "start": "19:00",
-    "stop": "20:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777316400000,
-    "stopTs": 1777320000000,
-    "title": "Power Lunch",
-    "desc": "The hosts converse with business and political experts about the stock markets."
-  },
-  {
-    "start": "20:00",
-    "stop": "22:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777320000000,
-    "stopTs": 1777327200000,
-    "title": "Closing Bell",
-    "desc": "The invites an expert to guide one through the trading day and analyses the market."
-  },
-  {
-    "start": "22:00",
-    "stop": "23:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777327200000,
-    "stopTs": 1777330800000,
-    "title": "The Rundown",
-    "desc": "The host shares an analysis on major international news stories and events."
-  },
-  {
-    "start": "23:00",
-    "stop": "00:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777330800000,
-    "stopTs": 1777336200000,
-    "title": "Squawk Box",
-    "desc": "The hosts converse with business and political experts before the markets open."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777336200000,
-    "stopTs": 1777339800000,
-    "title": "Closing Bell",
-    "desc": "The invites an expert to guide one through the trading day and analyses the market."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777339800000,
-    "stopTs": 1777341600000,
-    "title": "Squawk Box",
-    "desc": "The hosts converse with business and political experts before the markets open."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1777341600000,
-    "stopTs": 1777343400000,
-    "title": "Power Breakfast",
-    "desc": "The hosts analyse the current state and trends of the stock market."
-  },
-  {
     "start": "02:30",
     "stop": "03:30",
     "channel": "CNBCTV18.in",
@@ -701,7 +305,7 @@
     "startTs": 1777401000000,
     "stopTs": 1777402800000,
     "title": "The Exchange",
-    "desc": "CNBC&apos;s &apos;The Exchange&apos; is the newsroom-based program for today&apos;s Investor. The show focuses on in-depth reporting around the most important and interesting stories to today&apos;s markets and investors."
+    "desc": "The host presents the latest financial and economic headlines around the world."
   },
   {
     "start": "19:00",
@@ -712,7 +316,7 @@
     "startTs": 1777402800000,
     "stopTs": 1777406400000,
     "title": "Power Lunch",
-    "desc": "Brings the viewer corporate updates and minute by minute market moves, all rolled into 90 minutes of prime time show."
+    "desc": "The hosts converse with business and political experts about the stock markets."
   },
   {
     "start": "20:00",
@@ -723,7 +327,7 @@
     "startTs": 1777406400000,
     "stopTs": 1777413600000,
     "title": "Closing Bell",
-    "desc": "The show that kicks off when the markets shut shop, with the real reasons behind the day&apos;s developments and the scoop on what&apos;s in store tomorrow."
+    "desc": "The invites an expert to guide one through the trading day and analyses the market."
   },
   {
     "start": "22:00",
@@ -734,7 +338,7 @@
     "startTs": 1777413600000,
     "stopTs": 1777417200000,
     "title": "The Rundown",
-    "desc": "Body detoxification has been practiced for centuries. Detoxes and cleanses are all the rage right now, but are detoxes causing more harm than good?"
+    "desc": "The host shares an analysis on major international news stories and events."
   },
   {
     "start": "23:00",
@@ -745,7 +349,7 @@
     "startTs": 1777417200000,
     "stopTs": 1777422600000,
     "title": "Squawk Box",
-    "desc": "The ultimate pre-market morning news and talk programme, where the big names in business and politics bring their important stories."
+    "desc": "The hosts converse with business and political experts before the markets open."
   },
   {
     "start": "00:30",
@@ -756,7 +360,7 @@
     "startTs": 1777422600000,
     "stopTs": 1777426200000,
     "title": "Closing Bell",
-    "desc": "The show that kicks off when the markets shut shop, with the real reasons behind the day&apos;s developments and the scoop on what&apos;s in store tomorrow."
+    "desc": "The invites an expert to guide one through the trading day and analyses the market."
   },
   {
     "start": "01:30",
@@ -767,7 +371,7 @@
     "startTs": 1777426200000,
     "stopTs": 1777428000000,
     "title": "Squawk Box",
-    "desc": "The ultimate pre-market morning news and talk programme, where the big names in business and politics bring their important stories."
+    "desc": "The hosts converse with business and political experts before the markets open."
   },
   {
     "start": "02:00",
@@ -778,7 +382,7 @@
     "startTs": 1777428000000,
     "stopTs": 1777429800000,
     "title": "Power Breakfast",
-    "desc": "Business and finance news that tracks what is expected from the market based on cues from overnight US data and the status of markets in the East."
+    "desc": "The hosts analyse the current state and trends of the stock market."
   },
   {
     "start": "02:30",
@@ -789,6 +393,402 @@
     "startTs": 1777429800000,
     "stopTs": 1777433400000,
     "title": "Bazaar Morning Call",
+    "desc": "The hosts shed light on the condition of the stock market prior to its opening."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777433400000,
+    "stopTs": 1777437000000,
+    "title": "Bazaar Open Exchange",
+    "desc": "The host provides the latest news and updates related to the stock markets."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777437000000,
+    "stopTs": 1777438800000,
+    "title": "Bazaar Corporate Radar",
+    "desc": "The host invites the top businessmen and economists to offer their views on the market."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777438800000,
+    "stopTs": 1777440600000,
+    "title": "Chartbusters",
+    "desc": "Trading experts talk about the best performing stocks and offer trading strategies."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777440600000,
+    "stopTs": 1777444200000,
+    "title": "Trading Hour",
+    "desc": "The host provides the latest news and updates related to the stock markets."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777444200000,
+    "stopTs": 1777447800000,
+    "title": "Half Time Report",
+    "desc": "Financial experts and analysts discuss the latest stock market news and economic updates."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777447800000,
+    "stopTs": 1777449600000,
+    "title": "Business Lunch",
+    "desc": "The host shares the top news stories from the world of business and the market."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777449600000,
+    "stopTs": 1777451400000,
+    "title": "Midcap Radar",
+    "desc": "The host converse with experts about the news and updates related to the stock markets."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777451400000,
+    "stopTs": 1777453200000,
+    "title": "Your Stocks",
+    "desc": "The hosts review, analyse and predict the stock market trends of the country."
+  },
+  {
+    "start": "09:00",
+    "stop": "10:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777453200000,
+    "stopTs": 1777456800000,
+    "title": "NSE Closing Bell",
+    "desc": "The host presents the status of the stocks at the time of the closing bell."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777456800000,
+    "stopTs": 1777458600000,
+    "title": "Investment Guide",
+    "desc": "The hosts talk to eminent experts about various facets of the stock market."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777458600000,
+    "stopTs": 1777460400000,
+    "title": "After The Bell",
+    "desc": "Experts from various fields share their views on the status of the share market."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777460400000,
+    "stopTs": 1777462200000,
+    "title": "Markets Today",
+    "desc": "The host provides the latest news and updates related to the stock markets."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777462200000,
+    "stopTs": 1777464000000,
+    "title": "Reporter&apos;s Diary",
+    "desc": "The host provides in-depth coverage of news headlines and current affairs."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777464000000,
+    "stopTs": 1777465800000,
+    "title": "CNBC-TV18 Special",
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777465800000,
+    "stopTs": 1777467600000,
+    "title": "Reporter&apos;s Diary",
+    "desc": "The host provides in-depth coverage of news headlines and current affairs."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777467600000,
+    "stopTs": 1777469400000,
+    "title": "Start Up Street",
+    "desc": "The host provides updates about the developments of various start-up businesses."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777469400000,
+    "stopTs": 1777471200000,
+    "title": "U.S Markets Opening Bell",
+    "desc": "The host provides the latest news and updates related to the stock markets."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777471200000,
+    "stopTs": 1777473000000,
+    "title": "CNBC-TV18 Special",
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777473000000,
+    "stopTs": 1777474800000,
+    "title": "India Business Hour",
+    "desc": "The host presents provides a holistic perspective of the Indian business environment."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777474800000,
+    "stopTs": 1777476600000,
+    "title": "Markets Today",
+    "desc": "The host provides the latest news and updates related to the stock markets."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777476600000,
+    "stopTs": 1777478400000,
+    "title": "India Business Hour",
+    "desc": "The host presents provides a holistic perspective of the Indian business environment."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777478400000,
+    "stopTs": 1777480200000,
+    "title": "CNBC-TV18 Special",
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777480200000,
+    "stopTs": 1777482000000,
+    "title": "CNBC-TV18 Special",
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777482000000,
+    "stopTs": 1777483800000,
+    "title": "CNBC-TV18 Special",
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777483800000,
+    "stopTs": 1777485600000,
+    "title": "India Business Hour",
+    "desc": "The host presents provides a holistic perspective of the Indian business environment."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777485600000,
+    "stopTs": 1777487400000,
+    "title": "CNBC-TV18 Special",
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777487400000,
+    "stopTs": 1777489200000,
+    "title": "The Exchange",
+    "desc": "CNBC&apos;s &apos;The Exchange&apos; is the newsroom-based program for today&apos;s Investor. The show focuses on in-depth reporting around the most important and interesting stories to today&apos;s markets and investors."
+  },
+  {
+    "start": "19:00",
+    "stop": "20:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777489200000,
+    "stopTs": 1777492800000,
+    "title": "Power Lunch",
+    "desc": "Brings the viewer corporate updates and minute by minute market moves, all rolled into 90 minutes of prime time show."
+  },
+  {
+    "start": "20:00",
+    "stop": "22:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777492800000,
+    "stopTs": 1777500000000,
+    "title": "Closing Bell",
+    "desc": "The show that kicks off when the markets shut shop, with the real reasons behind the day&apos;s developments and the scoop on what&apos;s in store tomorrow."
+  },
+  {
+    "start": "22:00",
+    "stop": "23:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777500000000,
+    "stopTs": 1777503600000,
+    "title": "The Rundown",
+    "desc": "Body detoxification has been practiced for centuries. Detoxes and cleanses are all the rage right now, but are detoxes causing more harm than good?"
+  },
+  {
+    "start": "23:00",
+    "stop": "00:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777503600000,
+    "stopTs": 1777509000000,
+    "title": "Squawk Box",
+    "desc": "The ultimate pre-market morning news and talk programme, where the big names in business and politics bring their important stories."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777509000000,
+    "stopTs": 1777512600000,
+    "title": "Closing Bell",
+    "desc": "The show that kicks off when the markets shut shop, with the real reasons behind the day&apos;s developments and the scoop on what&apos;s in store tomorrow."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777512600000,
+    "stopTs": 1777514400000,
+    "title": "Squawk Box",
+    "desc": "The ultimate pre-market morning news and talk programme, where the big names in business and politics bring their important stories."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777514400000,
+    "stopTs": 1777516200000,
+    "title": "Power Breakfast",
+    "desc": "Business and finance news that tracks what is expected from the market based on cues from overnight US data and the status of markets in the East."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777516200000,
+    "stopTs": 1777519800000,
+    "title": "Bazaar Morning Call",
     "desc": "A host presents top stories and headlines from markets, industries, government, entertainment, and sports, delivering clear, easy to understand updates for viewers about today&apos;s world."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1777519800000,
+    "stopTs": 1777523400000,
+    "title": "Bazaar Open Exchange",
+    "desc": "In-depth look at opening bell trends, market buzz, and stock picks. Tailored for investors eager to begin their trading day with sharp strategies."
   }
 ]
