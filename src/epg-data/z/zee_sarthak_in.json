@@ -1,355 +1,47 @@
 [
   {
-    "start": "06:30",
+    "start": "00:00",
+    "stop": "00:00",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777852800000,
+    "stopTs": 1777939200000,
+    "title": "Deularu Sidha Darshan",
+    "desc": "A devotional telecast bringing viewers sacred glimpses and prayers from a revered temple, filling homes with spiritual peace, faith and blessings for devotees."
+  },
+  {
+    "start": "07:00",
     "stop": "07:30",
     "channel": "ZeeSarthak.in",
     "channelId": "ZeeSarthak.in",
     "channelName": "Zee Sarthak",
-    "startTs": 1777789800000,
-    "stopTs": 1777793400000,
-    "title": "Raja Queen 2026",
-    "desc": "As the audition phase unfolds, Lily delivers a dance that captures the judges&apos; attention. S01 E04."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:30",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777793400000,
-    "stopTs": 1777797000000,
-    "title": "Raja Queen 2026",
-    "desc": "Various female contestants showcase their skills at the 2026 edition of Raja Queen. S01 E05."
-  },
-  {
-    "start": "08:30",
-    "stop": "11:30",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777797000000,
-    "stopTs": 1777807800000,
-    "title": "Dasama",
-    "desc": "Follow the story of a group of close knit school friends with a spirit of brotherhood."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:30",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777807800000,
-    "stopTs": 1777811400000,
-    "title": "Shakti",
-    "desc": "Divine energy awakens when Shakti rises to confront evil forces, protecting faith and justice while guiding devotees through trials of courage, belief and spiritual power. S01 E41."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777811400000,
-    "stopTs": 1777813200000,
-    "title": "Raja Jotak",
-    "desc": "Gopal grows incensed upon learning of Rishi&apos;s misconduct from Pari. S01 E35."
-  },
-  {
-    "start": "13:00",
-    "stop": "15:58",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777813200000,
-    "stopTs": 1777823880000,
-    "title": "Chakranta",
-    "desc": "Bringing the best in cinema."
-  },
-  {
-    "start": "15:58",
-    "stop": "17:00",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777823880000,
-    "stopTs": 1777827600000,
-    "title": "Raja Queen 2026",
-    "desc": "Various female contestants showcase their skills at the 2026 edition of Raja Queen. S01 E06."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777827600000,
-    "stopTs": 1777829400000,
-    "title": "Tu Khara Mun Chhai",
-    "desc": "Mani interrogates a man regarding Madhav while a suspicious Ragini confronts Mani later. S01 E1038."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777829400000,
-    "stopTs": 1777831200000,
-    "title": "Tu Khara Mun Chhai",
-    "desc": "Jina informs Mani about Raghav&apos;s murderer and Mani loses consciousness. S01 E1039."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777831200000,
-    "stopTs": 1777833000000,
-    "title": "Tu Khara Mun Chhai",
-    "desc": "A perfectionist gets married to an easy-going clumsy woman under unusual circumstances. S01 E1040."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777833000000,
-    "stopTs": 1777834800000,
-    "title": "Tu Khara Mun Chhai",
-    "desc": "Chaos erupts when Chaaya&apos;s goons abduct Abhi instead of Alok by accident. S01 E1041."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777834800000,
-    "stopTs": 1777836600000,
-    "title": "Tu Khara Mun Chhai",
-    "desc": "Mani discovers Ragini and Madhav&apos;s alliance, leaving him astounded. S01 E1042."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777836600000,
-    "stopTs": 1777838400000,
-    "title": "Tu Khara Mun Chhai",
-    "desc": "A doubtful Mani interrogates Madhav regarding his encounter with Ragini. S01 E1043."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777838400000,
-    "stopTs": 1777840200000,
-    "title": "Kichi Sata Kichi Michha",
-    "desc": "Siblings Chhabi and Chaaya, grief-stricken, embark on a journey of retribution. S01 E42."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777840200000,
-    "stopTs": 1777842000000,
-    "title": "Suna Jhia",
-    "desc": "Bhawani learns about the warehouse robbery from her security personnel. S01 E1235."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777842000000,
-    "stopTs": 1777843800000,
-    "title": "Tuma Bina",
-    "desc": "Sai helps Shraddha with the purpose of enabling a positive result about the disappearance. S01 E587."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777843800000,
-    "stopTs": 1777845600000,
-    "title": "Tu Khara Mun Chhai",
-    "desc": "A doubtful Mani interrogates Madhav regarding his encounter with Ragini. S01 E1043."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777845600000,
-    "stopTs": 1777847400000,
-    "title": "Sathi Sata Janmara",
-    "desc": "Sabita directs a taunt at Archana during her visit to the residence of Dev. S01 E368."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777847400000,
-    "stopTs": 1777849200000,
-    "title": "Mangala Alati",
-    "desc": "A religious leader performs certain rituals to venerate the deity. S01 E796."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777849200000,
-    "stopTs": 1777851000000,
-    "title": "Mangala Alati",
-    "desc": "A religious leader performs certain rituals to venerate the deity. S01 E796."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:30",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777851000000,
-    "stopTs": 1777854600000,
-    "title": "Deularu Sidha Darshan",
-    "desc": "A religious leader delivers a discourse based on the teachings of divine scriptures."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:30",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777854600000,
-    "stopTs": 1777858200000,
-    "title": "Deularu Sidha Darshan",
-    "desc": "A religious leader delivers a discourse based on the teachings of divine scriptures."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:30",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777858200000,
-    "stopTs": 1777861800000,
-    "title": "Bhakti Arghya",
-    "desc": "A religious scholar provides a detailed discourse on various spiritual teachings. S01 E70."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777861800000,
-    "stopTs": 1777865400000,
-    "title": "Superhit Melody Express",
-    "desc": "A comprehensive compilation of songs and music is played back to back. S01 E83."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777865400000,
-    "stopTs": 1777867200000,
-    "title": "Aisi Mantara Kaisi Mantara Chhu",
-    "desc": "Magicians and illusionists perform a variety of interactive tricks and mind-bending acts. S01 E04."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777867200000,
-    "stopTs": 1777869000000,
-    "title": "Kichi Sata Kichi Michha",
-    "desc": "Siblings Chhabi and Chaaya, grief-stricken, embark on a journey of retribution. S01 E38."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777869000000,
-    "stopTs": 1777870800000,
-    "title": "Kichi Sata Kichi Michha",
-    "desc": "Siblings Chhabi and Chaaya, grief-stricken, embark on a journey of retribution. S01 E39."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777870800000,
-    "stopTs": 1777872600000,
-    "title": "Kichi Sata Kichi Michha",
-    "desc": "Siblings Chhabi and Chaaya, grief-stricken, embark on a journey of retribution. S01 E40."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777872600000,
-    "stopTs": 1777874400000,
-    "title": "Kichi Sata Kichi Michha",
-    "desc": "Siblings Chhabi and Chaaya, grief-stricken, embark on a journey of retribution. S01 E41."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777874400000,
-    "stopTs": 1777876200000,
-    "title": "Kichi Sata Kichi Michha",
-    "desc": "Siblings Chhabi and Chaaya, grief-stricken, embark on a journey of retribution. S01 E42."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:30",
-    "channel": "ZeeSarthak.in",
-    "channelId": "ZeeSarthak.in",
-    "channelName": "Zee Sarthak",
-    "startTs": 1777876200000,
+    "startTs": 1777878000000,
     "stopTs": 1777879800000,
-    "title": "Raja Queen 2026",
-    "desc": "As the audition phase unfolds, Lily delivers a dance that captures the judges&apos; attention. S01 E04."
+    "title": "Kichi Sata Kichi Michha",
+    "desc": "Join us for a lively show where married couples dive into fun activities and share honest chats about their relationships-perfect for strengthening bonds and sparking laughter!. S01 E29."
   },
   {
     "start": "07:30",
-    "stop": "08:30",
+    "stop": "08:00",
     "channel": "ZeeSarthak.in",
     "channelId": "ZeeSarthak.in",
     "channelName": "Zee Sarthak",
     "startTs": 1777879800000,
+    "stopTs": 1777881600000,
+    "title": "Sathi Sata Janmara",
+    "desc": "A timeless tale of love and destiny, exploring the bond that transcends seven lifetimes, filled with emotions, challenges, and the power of eternal commitment. S01 E196."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777881600000,
     "stopTs": 1777883400000,
-    "title": "Raja Queen 2026",
-    "desc": "Various female contestants showcase their skills at the 2026 edition of Raja Queen. S01 E05."
+    "title": "Tu Khara Mun Chhai",
+    "desc": "A perfectionist gets married to an easy-going clumsy woman under unusual circumstances. Soon, they struggle to get along due to their new responsibilities and contrasting personalities. S01 E240."
   },
   {
     "start": "08:30",
@@ -359,8 +51,8 @@
     "channelName": "Zee Sarthak",
     "startTs": 1777883400000,
     "stopTs": 1777894200000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
+    "title": "Shakti-The Lion Heart",
+    "desc": "Bringing the best in cinema."
   },
   {
     "start": "11:30",
@@ -370,8 +62,8 @@
     "channelName": "Zee Sarthak",
     "startTs": 1777894200000,
     "stopTs": 1777897800000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
+    "title": "Shakti",
+    "desc": "Divine energy awakens when Shakti rises to confront evil forces, protecting faith and justice while guiding devotees through trials of courage, belief and spiritual power. S01 E43."
   },
   {
     "start": "12:30",
@@ -382,29 +74,95 @@
     "startTs": 1777897800000,
     "stopTs": 1777899600000,
     "title": "Raja Jotak",
-    "desc": "Gopal grows incensed upon learning of Rishi&apos;s misconduct from Pari. S01 E35."
+    "desc": "Families led by Raja and Jotak search for perfect alliances, but secrets and compatibility tests complicate their matchmaking journey. S01 E02."
   },
   {
     "start": "13:00",
-    "stop": "16:00",
+    "stop": "13:30",
     "channel": "ZeeSarthak.in",
     "channelId": "ZeeSarthak.in",
     "channelName": "Zee Sarthak",
     "startTs": 1777899600000,
+    "stopTs": 1777901400000,
+    "title": "Madhu Jhara",
+    "desc": "Rai sacrifices her love and ambitions after a sudden tragedy, making tough choices to ensure a stable, secure life for her younger sisters, Nilu and Sweta. S01 E225."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777901400000,
+    "stopTs": 1777903200000,
+    "title": "Sathi Sata Janmara",
+    "desc": "A timeless tale of love and destiny, exploring the bond that transcends seven lifetimes, filled with emotions, challenges, and the power of eternal commitment. S01 E196."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777903200000,
+    "stopTs": 1777905000000,
+    "title": "Suna Jhia",
+    "desc": "A young woman faces life&apos;s hurdles as she strives to accomplish her goals. S01 E196."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777905000000,
+    "stopTs": 1777906800000,
+    "title": "Kichi Sata Kichi Michha",
+    "desc": "Join us for a lively show where married couples dive into fun activities and share honest chats about their relationships-perfect for strengthening bonds and sparking laughter!. S01 E29."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777906800000,
+    "stopTs": 1777908600000,
+    "title": "Tu Khara Mun Chhai",
+    "desc": "A perfectionist gets married to an easy-going clumsy woman under unusual circumstances. Soon, they struggle to get along due to their new responsibilities and contrasting personalities. S01 E240."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777908600000,
     "stopTs": 1777910400000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
+    "title": "Tuma Bina",
+    "desc": "Lakshmi, an orphan, is chosen as a temporary bride for Akshay to counter a flaw in his horoscope. S01 E03."
   },
   {
     "start": "16:00",
-    "stop": "17:00",
+    "stop": "16:30",
     "channel": "ZeeSarthak.in",
     "channelId": "ZeeSarthak.in",
     "channelName": "Zee Sarthak",
     "startTs": 1777910400000,
+    "stopTs": 1777912200000,
+    "title": "Jagruti",
+    "desc": "A homely girl, Jagruti, leads a secret double life as a crime branch officer with codename JAS along with being a teacher for mute and deaf kids at an NGO. What happens when both her worlds. S01 E133."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777912200000,
     "stopTs": 1777914000000,
-    "title": "Raja Queen 2026",
-    "desc": "Various female contestants showcase their skills at the 2026 edition of Raja Queen. S01 E06."
+    "title": "Kaa Aage Kahibi Manara Katha",
+    "desc": "Shivani Mishra, a passionate dancer, is forced into a strict family where she faces abuse and isolation but gains strength from three supportive neighbors who become her close friends. S01 E109."
   },
   {
     "start": "17:00",
@@ -414,8 +172,8 @@
     "channelName": "Zee Sarthak",
     "startTs": 1777914000000,
     "stopTs": 1777915800000,
-    "title": "Tu Khara Mun Chhai",
-    "desc": "Mani interrogates a man regarding Madhav while a suspicious Ragini confronts Mani later. S01 E1038."
+    "title": "Sathi Sata Janmara",
+    "desc": "A timeless tale of love and destiny, exploring the bond that transcends seven lifetimes, filled with emotions, challenges, and the power of eternal commitment. S01 E196."
   },
   {
     "start": "17:30",
@@ -425,8 +183,8 @@
     "channelName": "Zee Sarthak",
     "startTs": 1777915800000,
     "stopTs": 1777917600000,
-    "title": "Tu Khara Mun Chhai",
-    "desc": "Jina informs Mani about Raghav&apos;s murderer and Mani loses consciousness. S01 E1039."
+    "title": "Suna Jhia",
+    "desc": "A young woman faces life&apos;s hurdles as she strives to accomplish her goals. S01 E196."
   },
   {
     "start": "18:00",
@@ -436,8 +194,8 @@
     "channelName": "Zee Sarthak",
     "startTs": 1777917600000,
     "stopTs": 1777919400000,
-    "title": "Tu Khara Mun Chhai",
-    "desc": "A perfectionist gets married to an easy-going clumsy woman under unusual circumstances. S01 E1040."
+    "title": "Raja Jotak",
+    "desc": "Families led by Raja and Jotak search for perfect alliances, but secrets and compatibility tests complicate their matchmaking journey. S01 E02."
   },
   {
     "start": "18:30",
@@ -448,7 +206,7 @@
     "startTs": 1777919400000,
     "stopTs": 1777921200000,
     "title": "Tu Khara Mun Chhai",
-    "desc": "A perfectionist gets married to an easy-going clumsy woman under unusual circumstances. Soon, they struggle to get along due to their new responsibilities and contrasting personalities."
+    "desc": "Once Ragini is awake, she begins to worry that Ritu will find out her secret. S01 E1044."
   },
   {
     "start": "19:00",
@@ -458,8 +216,8 @@
     "channelName": "Zee Sarthak",
     "startTs": 1777921200000,
     "stopTs": 1777923000000,
-    "title": "Sathi Sata Janma Ra",
-    "desc": "A timeless tale of love and destiny, exploring the bond that transcends seven lifetimes, filled with emotions, challenges, and the power of eternal commitment."
+    "title": "Sathi Sata Janmara",
+    "desc": "Dev rushes Archana to the hospital only to find an injured Vicky, deepening the mystery. S01 E369."
   },
   {
     "start": "19:30",
@@ -470,7 +228,7 @@
     "startTs": 1777923000000,
     "stopTs": 1777924800000,
     "title": "Madhu Jhara",
-    "desc": "Rai sacrifices her love and ambitions after a sudden tragedy, making tough choices to ensure a stable, secure life for her younger sisters, Nilu and Sweta."
+    "desc": "Rai&apos;s jealousy surfaces during Shweta&apos;s wedding when she spots Anirudh with Koel. S01 E284."
   },
   {
     "start": "20:00",
@@ -480,8 +238,8 @@
     "channelName": "Zee Sarthak",
     "startTs": 1777924800000,
     "stopTs": 1777926600000,
-    "title": "Kichi Sata Kichi Micha",
-    "desc": "Join us for a lively show where married couples dive into fun activities and share honest chats about their relationships-perfect for strengthening bonds and sparking laughter!"
+    "title": "Kichi Sata Kichi Michha",
+    "desc": "Siblings Chhabi and Chaaya, grief-stricken, embark on a journey of retribution. S01 E43."
   },
   {
     "start": "20:30",
@@ -492,7 +250,7 @@
     "startTs": 1777926600000,
     "stopTs": 1777928400000,
     "title": "Suna Jhia",
-    "desc": "Circumstances force a young woman to be tough in order to protect her single mother, fulfil her dreams and overcome hardships in life."
+    "desc": "Surya is shocked to find his nursing home destroyed, suggesting a deep conspiracy. S01 E1236."
   },
   {
     "start": "21:00",
@@ -502,8 +260,8 @@
     "channelName": "Zee Sarthak",
     "startTs": 1777928400000,
     "stopTs": 1777930200000,
-    "title": "Mu Nuhe Mu Tuma Bina",
-    "desc": "Deeply in love, Raghav and Smita struggle against fate and circumstances that threaten to separate them, proving how devotion, sacrifice and destiny shape their journey together."
+    "title": "Tuma Bina",
+    "desc": "Mimi faints and Meena blames Shraddha after Aditya mysteriously vanishes. S01 E588."
   },
   {
     "start": "21:30",
@@ -514,7 +272,7 @@
     "startTs": 1777930200000,
     "stopTs": 1777932000000,
     "title": "Tu Khara Mun Chhai",
-    "desc": "A perfectionist gets married to an easy-going clumsy woman under unusual circumstances. Soon, they struggle to get along due to their new responsibilities and contrasting personalities."
+    "desc": "Once Ragini is awake, she begins to worry that Ritu will find out her secret. S01 E1044."
   },
   {
     "start": "22:00",
@@ -524,8 +282,8 @@
     "channelName": "Zee Sarthak",
     "startTs": 1777932000000,
     "stopTs": 1777933800000,
-    "title": "Sathi Sata Janma Ra",
-    "desc": "A timeless tale of love and destiny, exploring the bond that transcends seven lifetimes, filled with emotions, challenges, and the power of eternal commitment."
+    "title": "Sathi Sata Janmara",
+    "desc": "Dev rushes Archana to the hospital only to find an injured Vicky, deepening the mystery. S01 E369."
   },
   {
     "start": "22:30",
@@ -536,7 +294,7 @@
     "startTs": 1777933800000,
     "stopTs": 1777937400000,
     "title": "Mangala Alati",
-    "desc": "A religious leader performs certain rituals as part of a pooja conducted to venerate the deity while chanting verses from the scriptures."
+    "desc": "A religious leader performs certain rituals to venerate the deity. S01 E796."
   },
   {
     "start": "23:30",
@@ -546,6 +304,17 @@
     "channelName": "Zee Sarthak",
     "startTs": 1777937400000,
     "stopTs": 1777941000000,
+    "title": "Deularu Sidha Darshan",
+    "desc": "A religious leader delivers a discourse based on the teachings of divine scriptures."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:00",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777939200000,
+    "stopTs": 1778025600000,
     "title": "Deularu Sidha Darshan",
     "desc": "A devotional telecast bringing viewers sacred glimpses and prayers from a revered temple, filling homes with spiritual peace, faith and blessings for devotees."
   },
@@ -558,7 +327,7 @@
     "startTs": 1777941000000,
     "stopTs": 1777944600000,
     "title": "Deularu Sidha Darshan",
-    "desc": "A devotional telecast bringing viewers sacred glimpses and prayers from a revered temple, filling homes with spiritual peace, faith and blessings for devotees."
+    "desc": "A religious leader delivers a discourse based on the teachings of divine scriptures."
   },
   {
     "start": "01:30",
@@ -569,7 +338,7 @@
     "startTs": 1777944600000,
     "stopTs": 1777948200000,
     "title": "Bhakti Arghya",
-    "desc": "An Odia devotional TV program offering spiritual content, showcasing rituals, hymns, and faith-based reflections for viewers seeking divine inspiration."
+    "desc": "A religious scholar provides a detailed discourse on various spiritual teachings. S01 E36."
   },
   {
     "start": "02:30",
@@ -580,6 +349,270 @@
     "startTs": 1777948200000,
     "stopTs": 1777951800000,
     "title": "Superhit Melody Express",
-    "desc": "The host presents a clear, thorough update, detailing the latest news and regional developments in simple terms for everyone to understand across many places and communities."
+    "desc": "A comprehensive compilation of songs and music is played back to back. S01 E01."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777951800000,
+    "stopTs": 1777953600000,
+    "title": "Bira Hanuman",
+    "desc": "Lord Brahma learns that Lord Vishnu&apos;s avatar, Lord Ram, will kill Ravana. S01 E01."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777953600000,
+    "stopTs": 1777955400000,
+    "title": "Sathire",
+    "desc": "Disguised as a waiter, Amber meets a woman while Dhara worries about Meena&apos;s health. S01 E191."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777955400000,
+    "stopTs": 1777957200000,
+    "title": "Suna Jhia",
+    "desc": "Netra informs Bishnu of Devraj&apos;s conduct after Priya receives his letter. S01 E195."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777957200000,
+    "stopTs": 1777959000000,
+    "title": "Kichi Sata Kichi Michha",
+    "desc": "Siblings Chhabi and Chaaya, grief-stricken, embark on a journey of retribution. S01 E28."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777959000000,
+    "stopTs": 1777962600000,
+    "title": "Mr Nonsense",
+    "desc": "At the police station, a man complains that Tungla has not given his money back. S05 E15."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777962600000,
+    "stopTs": 1777964400000,
+    "title": "Tuma Bina",
+    "desc": "Lakshmi becomes emotional while remembering her father as Sumitra acts concerned. S01 E02."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777964400000,
+    "stopTs": 1777966200000,
+    "title": "Kichi Sata Kichi Michha",
+    "desc": "Siblings Chhabi and Chaaya, grief-stricken, embark on a journey of retribution. S01 E28."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777966200000,
+    "stopTs": 1777968000000,
+    "title": "Sathi Sata Janmara",
+    "desc": "A timeless tale of love and destiny, exploring the bond that transcends seven lifetimes. S01 E195."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777968000000,
+    "stopTs": 1777969800000,
+    "title": "Tu Khara Mun Chhai",
+    "desc": "Saraswati and Ambika disscuss Manini while she secretly overhears their conversation. S01 E239."
+  },
+  {
+    "start": "08:30",
+    "stop": "11:30",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777969800000,
+    "stopTs": 1777980600000,
+    "title": "Movie",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:28",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777980600000,
+    "stopTs": 1777984080000,
+    "title": "Movie",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "12:28",
+    "stop": "12:59",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777984080000,
+    "stopTs": 1777985940000,
+    "title": "Raja Jotak",
+    "desc": "A woman advises Pari&apos;s mother to arrange her daughter&apos;s wedding with Samir. S01 E01."
+  },
+  {
+    "start": "12:59",
+    "stop": "13:29",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777985940000,
+    "stopTs": 1777987740000,
+    "title": "Madhu Jhara",
+    "desc": "Souvik and his father meet Shweta with a marriage proposal, but Sarthak plots against it. S01 E224."
+  },
+  {
+    "start": "13:29",
+    "stop": "13:59",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777987740000,
+    "stopTs": 1777989540000,
+    "title": "Sathi Sata Janmara",
+    "desc": "A timeless tale of love and destiny, exploring the bond that transcends seven lifetimes. S01 E195."
+  },
+  {
+    "start": "13:59",
+    "stop": "14:28",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777989540000,
+    "stopTs": 1777991280000,
+    "title": "Suna Jhia",
+    "desc": "Netra informs Bishnu of Devraj&apos;s conduct after Priya receives his letter. S01 E195."
+  },
+  {
+    "start": "14:28",
+    "stop": "14:59",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777991280000,
+    "stopTs": 1777993140000,
+    "title": "Kichi Sata Kichi Michha",
+    "desc": "Siblings Chhabi and Chaaya, grief-stricken, embark on a journey of retribution. S01 E28."
+  },
+  {
+    "start": "14:59",
+    "stop": "15:30",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777993140000,
+    "stopTs": 1777995000000,
+    "title": "Tu Khara Mun Chhai",
+    "desc": "Saraswati and Ambika disscuss Manini while she secretly overhears their conversation. S01 E239."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777995000000,
+    "stopTs": 1777996800000,
+    "title": "Tuma Bina",
+    "desc": "Lakshmi becomes emotional while remembering her father as Sumitra acts concerned. S01 E02."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777996800000,
+    "stopTs": 1777998600000,
+    "title": "Jagruti",
+    "desc": "Jagriti mourns as she reveals Kalikant is dispatching Akash to a distant academy. S01 E132."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1777998600000,
+    "stopTs": 1778000400000,
+    "title": "Kaa Aage Kahibi Manara Katha",
+    "desc": "Parag reluctantly agrees to his mother’s shocking new demand. S01 E108."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1778000400000,
+    "stopTs": 1778002200000,
+    "title": "Sathi Sata Janmara",
+    "desc": "A timeless tale of love and destiny, exploring the bond that transcends seven lifetimes. S01 E195."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1778002200000,
+    "stopTs": 1778004000000,
+    "title": "Suna Jhia",
+    "desc": "Netra informs Bishnu of Devraj&apos;s conduct after Priya receives his letter. S01 E195."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1778004000000,
+    "stopTs": 1778005800000,
+    "title": "Raja Jotak",
+    "desc": "A woman advises Pari&apos;s mother to arrange her daughter&apos;s wedding with Samir. S01 E01."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:00",
+    "channel": "ZeeSarthak.in",
+    "channelId": "ZeeSarthak.in",
+    "channelName": "Zee Sarthak",
+    "startTs": 1778025600000,
+    "stopTs": 1778112000000,
+    "title": "Deularu Sidha Darshan",
+    "desc": "A devotional telecast bringing viewers sacred glimpses and prayers from a revered temple, filling homes with spiritual peace, faith and blessings for devotees."
   }
 ]
