@@ -1,12 +1,67 @@
 [
   {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "CNNNews18.in",
+    "channelId": "CNNNews18.in",
+    "channelName": "CNN NEWS 18",
+    "startTs": 1778032800000,
+    "stopTs": 1778034600000,
+    "title": "News Blitz",
+    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "CNNNews18.in",
+    "channelId": "CNNNews18.in",
+    "channelName": "CNN NEWS 18",
+    "startTs": 1778034600000,
+    "stopTs": 1778038200000,
+    "title": "The Breakfast Club",
+    "desc": "The host presents the latest developments surrounding news, lifestyle and entertainment and provides updates on current events."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "CNNNews18.in",
+    "channelId": "CNNNews18.in",
+    "channelName": "CNN NEWS 18",
+    "startTs": 1778038200000,
+    "stopTs": 1778041800000,
+    "title": "Breaking On News18",
+    "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "CNNNews18.in",
+    "channelId": "CNNNews18.in",
+    "channelName": "CNN NEWS 18",
+    "startTs": 1778041800000,
+    "stopTs": 1778045400000,
+    "title": "Breaking On News18",
+    "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "CNNNews18.in",
+    "channelId": "CNNNews18.in",
+    "channelName": "CNN NEWS 18",
+    "startTs": 1778045400000,
+    "stopTs": 1778049000000,
+    "title": "Breaking On News18",
+    "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
+  },
+  {
     "start": "06:30",
     "stop": "07:30",
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1777444200000,
-    "stopTs": 1777447800000,
+    "startTs": 1778049000000,
+    "stopTs": 1778052600000,
     "title": "Breaking On News18",
     "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
   },
@@ -16,10 +71,10 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1777447800000,
-    "stopTs": 1777449600000,
-    "title": "Breaking Frontline",
-    "desc": "This is News - News Bulletin Category."
+    "startTs": 1778052600000,
+    "stopTs": 1778054400000,
+    "title": "Breaking On News18",
+    "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
   },
   {
     "start": "08:00",
@@ -27,8 +82,8 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1777449600000,
-    "stopTs": 1777451400000,
+    "startTs": 1778054400000,
+    "stopTs": 1778056200000,
     "title": "Simply South",
     "desc": "The host delivers the latest updates and developments regarding various social, political and economic issues from across India."
   },
@@ -38,8 +93,8 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1777451400000,
-    "stopTs": 1777455000000,
+    "startTs": 1778056200000,
+    "stopTs": 1778059800000,
     "title": "Breaking On News18",
     "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
   },
@@ -49,30 +104,19 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1777455000000,
-    "stopTs": 1777458600000,
+    "startTs": 1778059800000,
+    "stopTs": 1778063400000,
     "title": "Breaking On News18",
     "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
   },
   {
     "start": "10:30",
-    "stop": "11:00",
-    "channel": "CNNNews18.in",
-    "channelId": "CNNNews18.in",
-    "channelName": "CNN NEWS 18",
-    "startTs": 1777458600000,
-    "stopTs": 1777460400000,
-    "title": "News Periscope",
-    "desc": "This is News - News Bulletin Category."
-  },
-  {
-    "start": "11:00",
     "stop": "11:30",
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1777460400000,
-    "stopTs": 1777462200000,
+    "startTs": 1778063400000,
+    "stopTs": 1778067000000,
     "title": "Breaking On News18",
     "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
   },
@@ -82,8 +126,8 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1777462200000,
-    "stopTs": 1777464000000,
+    "startTs": 1778067000000,
+    "stopTs": 1778068800000,
     "title": "Nation@5",
     "desc": "The host sheds light on the latest news stories and significant developments from various fields impacting people around the world."
   },
@@ -93,20 +137,53 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1777464000000,
-    "stopTs": 1777465800000,
+    "startTs": 1778068800000,
+    "stopTs": 1778070600000,
     "title": "Take Three",
     "desc": "Three news editors deliberate on significant topics of the week and provide the audience with a unique perspective on various issues."
   },
   {
     "start": "12:30",
+    "stop": "13:30",
+    "channel": "CNNNews18.in",
+    "channelId": "CNNNews18.in",
+    "channelName": "CNN NEWS 18",
+    "startTs": 1778070600000,
+    "stopTs": 1778074200000,
+    "title": "Plain Speak",
+    "desc": "The host engages in a conversation with controversial personalities to confront the truth in the most hard-hitting fashion."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:30",
+    "channel": "CNNNews18.in",
+    "channelId": "CNNNews18.in",
+    "channelName": "CNN NEWS 18",
+    "startTs": 1778074200000,
+    "stopTs": 1778077800000,
+    "title": "Brass Tacks",
+    "desc": "The host presents information on the latest news stories and developments surrounding various socio-economic and political issues and provides updates on current events."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:30",
+    "channel": "CNNNews18.in",
+    "channelId": "CNNNews18.in",
+    "channelName": "CNN NEWS 18",
+    "startTs": 1778077800000,
+    "stopTs": 1778081400000,
+    "title": "The Right Stand",
+    "desc": "The host discusses various urgent issues plaguing the country with a panel of experts who debate on the matter in order to answer the burning questions."
+  },
+  {
+    "start": "15:30",
     "stop": "16:30",
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1777465800000,
-    "stopTs": 1777480200000,
-    "title": "BFTS Exit Projections",
-    "desc": "This is News - News Bulletin Category."
+    "startTs": 1778081400000,
+    "stopTs": 1778085000000,
+    "title": "The Hard Facts",
+    "desc": "The host provides detailed insights into the significant updates from various fields that impact people around the world."
   }
 ]
