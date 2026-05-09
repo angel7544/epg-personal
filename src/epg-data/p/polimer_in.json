@@ -1,12 +1,23 @@
 [
   {
+    "start": "01:30",
+    "stop": "02:30",
+    "channel": "POLIMER.in",
+    "channelId": "POLIMER.in",
+    "channelName": "POLIMER",
+    "startTs": 1778290200000,
+    "stopTs": 1778293800000,
+    "title": "Polimer News",
+    "desc": "The host presents the latest updates and developments pertaining to various pressing issues and current affairs across Chennai."
+  },
+  {
     "start": "02:30",
     "stop": "03:00",
     "channel": "POLIMER.in",
     "channelId": "POLIMER.in",
     "channelName": "POLIMER",
-    "startTs": 1778207400000,
-    "stopTs": 1778209200000,
+    "startTs": 1778293800000,
+    "stopTs": 1778295600000,
     "title": "Comedy Express",
     "desc": "A line-up of talented comedians performs a series of cleverly crafted short skits with their sharp humour and quick-witted exchanges."
   },
@@ -16,8 +27,8 @@
     "channel": "POLIMER.in",
     "channelId": "POLIMER.in",
     "channelName": "POLIMER",
-    "startTs": 1778209200000,
-    "stopTs": 1778210700000,
+    "startTs": 1778295600000,
+    "stopTs": 1778297100000,
     "title": "Pazhaya Tape",
     "desc": "A comprehensive compilation of some of the best and popular evergreen retro songs from Tamil movies is played back to back."
   },
@@ -27,10 +38,10 @@
     "channel": "POLIMER.in",
     "channelId": "POLIMER.in",
     "channelName": "POLIMER",
-    "startTs": 1778210700000,
-    "stopTs": 1778212200000,
-    "title": "Cini Mini",
-    "desc": "A curated blend of unforgettable movie moments and beautiful songs, capturing the essence of Tamil films and presenting a delightful mix of drama and music."
+    "startTs": 1778297100000,
+    "stopTs": 1778298600000,
+    "title": "Tele Shopping / Thirai Kathambam",
+    "desc": "Various products are showcased from multiple brands for customers to buy from the comfort of their homes; a curated collection of popular movie scenes."
   },
   {
     "start": "03:50",
@@ -38,10 +49,10 @@
     "channel": "POLIMER.in",
     "channelId": "POLIMER.in",
     "channelName": "POLIMER",
-    "startTs": 1778212200000,
-    "stopTs": 1778213700000,
-    "title": "Cinema Cinema",
-    "desc": "The host sheds light on the latest updates, top news stories and key developments pertaining to the film industry and its personalities."
+    "startTs": 1778298600000,
+    "stopTs": 1778300100000,
+    "title": "Tele Shopping / Cini Mini",
+    "desc": "The host presents a wide variety of television products that customers can purchase from their homes; a compilation of interesting sequences and melodious songs from popular Tamil movies is presented."
   },
   {
     "start": "04:15",
@@ -49,10 +60,10 @@
     "channel": "POLIMER.in",
     "channelId": "POLIMER.in",
     "channelName": "POLIMER",
-    "startTs": 1778213700000,
-    "stopTs": 1778215200000,
-    "title": "Thirai Kathambam",
-    "desc": "A comprehensive compilation of movie scenes from the latest Kollywood films featuring prominent actors and comedians is played in quick succession."
+    "startTs": 1778300100000,
+    "stopTs": 1778301600000,
+    "title": "Tele Shopping / Cinema Cinema",
+    "desc": "The host talks about various products that can be bought from home. The host reviews the latest movie releases from the Kannada film industry and discusses topics that concern cinemagoers."
   },
   {
     "start": "04:40",
@@ -60,10 +71,10 @@
     "channel": "POLIMER.in",
     "channelId": "POLIMER.in",
     "channelName": "POLIMER",
-    "startTs": 1778215200000,
-    "stopTs": 1778223600000,
-    "title": "Mallu Vetti Minor",
-    "desc": "Santhana Lakshmi is released from jail and finds herself reminiscing about her traumatic past as she attempts to figure out what she will do next."
+    "startTs": 1778301600000,
+    "stopTs": 1778310000000,
+    "title": "Retta Vaalu",
+    "desc": "A young man who gets involved in fraudulent activities when he does not get as much affection as his elder brother does from his mother."
   },
   {
     "start": "07:00",
@@ -71,43 +82,21 @@
     "channel": "POLIMER.in",
     "channelId": "POLIMER.in",
     "channelName": "POLIMER",
-    "startTs": 1778223600000,
-    "stopTs": 1778225400000,
+    "startTs": 1778310000000,
+    "stopTs": 1778311800000,
     "title": "Kuttram",
     "desc": "A detailed account of several heinous crimes perpetrated in the state is presented, emphasising key facts, motives and evidence."
   },
   {
     "start": "07:30",
-    "stop": "07:45",
-    "channel": "POLIMER.in",
-    "channelId": "POLIMER.in",
-    "channelName": "POLIMER",
-    "startTs": 1778225400000,
-    "stopTs": 1778226300000,
-    "title": "Polimer News",
-    "desc": "The host presents the latest updates and developments pertaining to various pressing issues and current affairs across Chennai."
-  },
-  {
-    "start": "07:45",
-    "stop": "08:00",
-    "channel": "POLIMER.in",
-    "channelId": "POLIMER.in",
-    "channelName": "POLIMER",
-    "startTs": 1778226300000,
-    "stopTs": 1778227200000,
-    "title": "Thirai Kathambam",
-    "desc": "A comprehensive compilation of movie scenes from the latest Kollywood films featuring prominent actors and comedians is played in quick succession."
-  },
-  {
-    "start": "08:00",
     "stop": "08:30",
     "channel": "POLIMER.in",
     "channelId": "POLIMER.in",
     "channelName": "POLIMER",
-    "startTs": 1778227200000,
-    "stopTs": 1778229000000,
-    "title": "Cini Mini",
-    "desc": "A curated blend of unforgettable movie moments and beautiful songs, capturing the essence of Tamil films and presenting a delightful mix of drama and music."
+    "startTs": 1778311800000,
+    "stopTs": 1778315400000,
+    "title": "Polimer News",
+    "desc": "The host presents the latest updates and developments pertaining to various pressing issues and current affairs across Chennai."
   },
   {
     "start": "08:30",
@@ -115,10 +104,10 @@
     "channel": "POLIMER.in",
     "channelId": "POLIMER.in",
     "channelName": "POLIMER",
-    "startTs": 1778229000000,
-    "stopTs": 1778239800000,
-    "title": "Varuvan Vadivelan",
-    "desc": "This is Film - Drama Category."
+    "startTs": 1778315400000,
+    "stopTs": 1778326200000,
+    "title": "Uravai Kaatha Kili",
+    "desc": "Two identical twins possess contrasting qualities, one is a righteous individual, while the other is an alcoholic. Gradually, the alcoholic&apos;s wayward ways threaten to ruin the unity of the family."
   },
   {
     "start": "11:30",
@@ -126,8 +115,8 @@
     "channel": "POLIMER.in",
     "channelId": "POLIMER.in",
     "channelName": "POLIMER",
-    "startTs": 1778239800000,
-    "stopTs": 1778241600000,
+    "startTs": 1778326200000,
+    "stopTs": 1778328000000,
     "title": "Pazhaya Tape",
     "desc": "A comprehensive compilation of some of the best and popular evergreen retro songs from Tamil movies is played back to back."
   },
@@ -137,8 +126,8 @@
     "channel": "POLIMER.in",
     "channelId": "POLIMER.in",
     "channelName": "POLIMER",
-    "startTs": 1778241600000,
-    "stopTs": 1778243400000,
+    "startTs": 1778328000000,
+    "stopTs": 1778329800000,
     "title": "Arul Isai",
     "desc": "Bringing the best in television."
   },
@@ -148,8 +137,8 @@
     "channel": "POLIMER.in",
     "channelId": "POLIMER.in",
     "channelName": "POLIMER",
-    "startTs": 1778243400000,
-    "stopTs": 1778245200000,
+    "startTs": 1778329800000,
+    "stopTs": 1778331600000,
     "title": "Kandha Guru Kavacham",
     "desc": "A religious leader provides a detailed discourse on various spiritual teachings to devotees and encourages them to lead a faithful life."
   },
@@ -159,10 +148,10 @@
     "channel": "POLIMER.in",
     "channelId": "POLIMER.in",
     "channelName": "POLIMER",
-    "startTs": 1778245200000,
-    "stopTs": 1778254200000,
-    "title": "Antha Sila Nimidangal",
-    "desc": "Four unrelated people end up in an elevator together and get involved in a murder. Later, the police sets out to find these individuals."
+    "startTs": 1778331600000,
+    "stopTs": 1778340600000,
+    "title": "Athiran",
+    "desc": "Dr Nair, a psychiatrist, visits a mental asylum located in a remote location in Kerala. He meets a patient, Nithya, who is kept in isolation, and soon uncovers mysteries from her past."
   },
   {
     "start": "15:30",
@@ -170,9 +159,9 @@
     "channel": "POLIMER.in",
     "channelId": "POLIMER.in",
     "channelName": "POLIMER",
-    "startTs": 1778254200000,
-    "stopTs": 1778256000000,
-    "title": "Cinema Cinema",
-    "desc": "The host sheds light on the latest updates, top news stories and key developments pertaining to the film industry and its personalities."
+    "startTs": 1778340600000,
+    "stopTs": 1778342400000,
+    "title": "Cini Mini",
+    "desc": "A curated blend of unforgettable movie moments and beautiful songs, capturing the essence of Tamil films and presenting a delightful mix of drama and music."
   }
 ]
