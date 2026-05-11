@@ -1,36 +1,36 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "BBCWorldNews.in",
-    "channelId": "BBCWorldNews.in",
-    "channelName": "BBC World News",
-    "startTs": 1778380200000,
-    "stopTs": 1778382000000,
-    "title": "The Media Show",
-    "desc": "Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world."
-  },
-  {
     "start": "03:00",
     "stop": "03:30",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778382000000,
-    "stopTs": 1778383800000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1778468400000,
+    "stopTs": 1778470200000,
+    "title": "Newsday",
+    "desc": "The latest international news from London and Singapore."
   },
   {
     "start": "03:30",
+    "stop": "03:45",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1778470200000,
+    "stopTs": 1778471100000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "03:45",
     "stop": "04:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778383800000,
-    "stopTs": 1778385600000,
-    "title": "The Climate Question",
-    "desc": "The oceans cover about 70% of the planet and are crucial for life on Earth. Oceanographer Helen Czerski reveals how the seas around us regulate the climate and the weather, even in the desert."
+    "startTs": 1778471100000,
+    "stopTs": 1778472000000,
+    "title": "BBC Sport",
+    "desc": "This is News - News Bulletin Category."
   },
   {
     "start": "04:00",
@@ -38,8 +38,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778385600000,
-    "stopTs": 1778387400000,
+    "startTs": 1778472000000,
+    "stopTs": 1778473800000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -49,10 +49,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778387400000,
-    "stopTs": 1778389200000,
-    "title": "Clive Myrie&apos;s Caribbean Adventure",
-    "desc": "Clive heads for the east coast of Barbados to check out the world&apos;s oldest rum distillery."
+    "startTs": 1778473800000,
+    "stopTs": 1778475600000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
   },
   {
     "start": "05:00",
@@ -60,21 +60,32 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778389200000,
-    "stopTs": 1778391000000,
+    "startTs": 1778475600000,
+    "stopTs": 1778477400000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "05:30",
+    "stop": "05:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1778477400000,
+    "stopTs": 1778478900000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "05:55",
     "stop": "06:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778391000000,
-    "stopTs": 1778392800000,
-    "title": "Talking Business",
-    "desc": "The so-called quiet quitting and &apos;act your wage&apos; craze encourages workers to do the bare minimum."
+    "startTs": 1778478900000,
+    "stopTs": 1778479200000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "06:00",
@@ -82,21 +93,32 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778392800000,
-    "stopTs": 1778394600000,
+    "startTs": 1778479200000,
+    "stopTs": 1778481000000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "06:30",
+    "stop": "06:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1778481000000,
+    "stopTs": 1778482500000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "06:55",
     "stop": "07:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778394600000,
-    "stopTs": 1778396400000,
-    "title": "The Travel Show",
-    "desc": "Dwayne Fields continues his journey through Zambia. At Kafue National Park, he joins rangers tracking poachers, takes part in a lion monitoring expedition, and meets orphaned elephants."
+    "startTs": 1778482500000,
+    "stopTs": 1778482800000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "07:00",
@@ -104,8 +126,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778396400000,
-    "stopTs": 1778398200000,
+    "startTs": 1778482800000,
+    "stopTs": 1778484600000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -115,21 +137,43 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778398200000,
-    "stopTs": 1778400000000,
-    "title": "Talking Movies",
-    "desc": "As France moves to centre stage with the Olympics, Tom Brook celebrates the country&apos;s cinema."
+    "startTs": 1778484600000,
+    "stopTs": 1778486400000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "08:00",
+    "stop": "08:30",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1778486400000,
+    "stopTs": 1778488200000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+  },
+  {
+    "start": "08:30",
+    "stop": "08:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1778488200000,
+    "stopTs": 1778489700000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+  },
+  {
+    "start": "08:55",
     "stop": "09:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778400000000,
-    "stopTs": 1778403600000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1778489700000,
+    "stopTs": 1778490000000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "09:00",
@@ -137,8 +181,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778403600000,
-    "stopTs": 1778405400000,
+    "startTs": 1778490000000,
+    "stopTs": 1778491800000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -148,10 +192,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778405400000,
-    "stopTs": 1778407200000,
-    "title": "What Happened at Chernobyl",
-    "desc": "Forty years on from the disaster, Jordan Dunbar travels to Chernobyl to examine the events that led to the world&apos;s worst nuclear accident and what we can learn from them today."
+    "startTs": 1778491800000,
+    "stopTs": 1778493600000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "10:00",
@@ -159,21 +203,43 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778407200000,
-    "stopTs": 1778409000000,
+    "startTs": 1778493600000,
+    "stopTs": 1778495400000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "10:30",
+    "stop": "10:45",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1778495400000,
+    "stopTs": 1778496300000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "10:45",
+    "stop": "10:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1778496300000,
+    "stopTs": 1778496900000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+  },
+  {
+    "start": "10:55",
     "stop": "11:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778409000000,
-    "stopTs": 1778410800000,
-    "title": "The President&apos;s Path",
-    "desc": "Caitríona, Courtney and Bernd talk about Donald Trump&apos;s response to the Washington DC plane crash. They also chat tariffs, diversity schemes and Trump&apos;s US immigration crackdown."
+    "startTs": 1778496900000,
+    "stopTs": 1778497200000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "11:00",
@@ -181,10 +247,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778410800000,
-    "stopTs": 1778412600000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1778497200000,
+    "stopTs": 1778499000000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "11:30",
@@ -192,10 +258,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778412600000,
-    "stopTs": 1778414400000,
-    "title": "The Media Show",
-    "desc": "Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world."
+    "startTs": 1778499000000,
+    "stopTs": 1778500800000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "12:00",
@@ -203,21 +269,32 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778414400000,
-    "stopTs": 1778416200000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1778500800000,
+    "stopTs": 1778502600000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "12:30",
+    "stop": "12:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1778502600000,
+    "stopTs": 1778504100000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
+  },
+  {
+    "start": "12:55",
     "stop": "13:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778416200000,
-    "stopTs": 1778418000000,
-    "title": "The Travel Show",
-    "desc": "Dwayne Fields continues his journey through Zambia. At Kafue National Park, he joins rangers tracking poachers, takes part in a lion monitoring expedition, and meets orphaned elephants."
+    "startTs": 1778504100000,
+    "stopTs": 1778504400000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "13:00",
@@ -225,21 +302,32 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778418000000,
-    "stopTs": 1778419800000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1778504400000,
+    "stopTs": 1778506200000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "13:30",
+    "stop": "13:45",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1778506200000,
+    "stopTs": 1778507100000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "13:45",
     "stop": "14:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778419800000,
-    "stopTs": 1778421600000,
-    "title": "Tech Now",
-    "desc": "Andrew Rogers explores the latest tech being trialled to help people stay underwater for longer and Paul Carter hits the racetrack to see if AI technology can make journeys safer."
+    "startTs": 1778507100000,
+    "stopTs": 1778508000000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "14:00",
@@ -247,10 +335,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778421600000,
-    "stopTs": 1778423400000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1778508000000,
+    "stopTs": 1778509800000,
+    "title": "Verified Live",
+    "desc": "Matthew Amroliwala presents all the latest global and UK news, live from London."
   },
   {
     "start": "14:30",
@@ -258,10 +346,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778423400000,
-    "stopTs": 1778425200000,
-    "title": "Clive Myrie&apos;s Caribbean Adventure",
-    "desc": "Clive heads for the east coast of Barbados to check out the world&apos;s oldest rum distillery."
+    "startTs": 1778509800000,
+    "stopTs": 1778511600000,
+    "title": "Verified Live",
+    "desc": "Matthew Amroliwala presents all the latest global and UK news, live from London."
   },
   {
     "start": "15:00",
@@ -269,20 +357,20 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778425200000,
-    "stopTs": 1778427000000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1778511600000,
+    "stopTs": 1778513400000,
+    "title": "Verified Live",
+    "desc": "Matthew Amroliwala presents all the latest global and UK news, live from London."
   },
   {
     "start": "15:30",
-    "stop": "16:00",
+    "stop": "15:45",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778427000000,
-    "stopTs": 1778428800000,
-    "title": "The Climate Question",
-    "desc": "The oceans cover about 70% of the planet and are crucial for life on Earth. Oceanographer Helen Czerski reveals how the seas around us regulate the climate and the weather, even in the desert."
+    "startTs": 1778513400000,
+    "stopTs": 1778514300000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
   }
 ]

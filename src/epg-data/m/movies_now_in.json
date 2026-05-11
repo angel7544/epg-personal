@@ -1,508 +1,343 @@
 [
   {
-    "start": "00:30",
-    "stop": "03:30",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
-    "startTs": 1778373000000,
-    "stopTs": 1778383800000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "01:15",
-    "stop": "02:47",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "Movies Now HD",
-    "startTs": 1778375700000,
-    "stopTs": 1778381220000,
-    "title": "300: Rise of an Empire",
-    "desc": "Themistocles, an Athenian admiral, formed an alliance with Sparta against Xerxes&apos; invasion."
-  },
-  {
-    "start": "02:47",
-    "stop": "04:54",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "Movies Now HD",
-    "startTs": 1778381220000,
-    "stopTs": 1778388840000,
-    "title": "The Mummy Returns",
-    "desc": "An evil high priest wants a bracelet that Alex, an archaeologist couple&apos;s son, possesses."
-  },
-  {
-    "start": "03:30",
-    "stop": "06:30",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
-    "startTs": 1778383800000,
-    "stopTs": 1778394600000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "04:54",
-    "stop": "07:26",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "Movies Now HD",
-    "startTs": 1778388840000,
-    "stopTs": 1778397960000,
-    "title": "Dune",
-    "desc": "Visions haunt Paul Atreides as his family fights to gain control over Arrakis."
-  },
-  {
-    "start": "06:30",
-    "stop": "09:30",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
-    "startTs": 1778394600000,
-    "stopTs": 1778405400000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "07:26",
-    "stop": "09:44",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "Movies Now HD",
-    "startTs": 1778397960000,
-    "stopTs": 1778406240000,
-    "title": "Wonder Woman",
-    "desc": "Princess Diana ventures into the world of men to stop Ares from destroying mankind."
-  },
-  {
-    "start": "09:30",
-    "stop": "12:30",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
-    "startTs": 1778405400000,
-    "stopTs": 1778416200000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "09:44",
-    "stop": "11:57",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "Movies Now HD",
-    "startTs": 1778406240000,
-    "stopTs": 1778414220000,
-    "title": "Terminator 2: Judgment Day",
-    "desc": "John Connor sends a reprogrammed Terminator to save his younger self from the T-1000."
-  },
-  {
-    "start": "11:57",
-    "stop": "13:08",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "Movies Now HD",
-    "startTs": 1778414220000,
-    "stopTs": 1778418480000,
-    "title": "Piranha 3D",
-    "desc": "A group of strangers team up to stop the bloody havoc caused by vicious piranhas."
-  },
-  {
-    "start": "12:30",
-    "stop": "15:30",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
-    "startTs": 1778416200000,
-    "stopTs": 1778427000000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "13:08",
-    "stop": "15:15",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "Movies Now HD",
-    "startTs": 1778418480000,
-    "stopTs": 1778426100000,
-    "title": "Mission: Impossible Rogue Nation",
-    "desc": "Ethan Hunt and his team face an international rogue group determined to destroy IMF."
-  },
-  {
-    "start": "15:15",
-    "stop": "17:04",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "Movies Now HD",
-    "startTs": 1778426100000,
-    "stopTs": 1778432640000,
-    "title": "Apocalypto",
-    "desc": "Adversities beset a tribesman and his family during the Mayan civilisation&apos;s waning years."
-  },
-  {
-    "start": "15:30",
-    "stop": "18:30",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
-    "startTs": 1778427000000,
-    "stopTs": 1778437800000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "17:04",
-    "stop": "18:38",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "Movies Now HD",
-    "startTs": 1778432640000,
-    "stopTs": 1778438280000,
-    "title": "The Angry Birds Movie 2",
-    "desc": "After years of fighting, the birds and the pigs work together against a common enemy."
-  },
-  {
-    "start": "18:30",
-    "stop": "21:30",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "Movies Now HD",
-    "startTs": 1778437800000,
-    "stopTs": 1778448600000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "18:38",
-    "stop": "20:23",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
-    "startTs": 1778438280000,
-    "stopTs": 1778444580000,
-    "title": "Now You See Me",
-    "desc": "An F.B.I. Agent and an Interpol Detective track a team of illusionists who pull off bank heists during their performances, and reward their audiences with the money."
-  },
-  {
-    "start": "20:23",
-    "stop": "21:35",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
-    "startTs": 1778444580000,
-    "stopTs": 1778448900000,
-    "title": "The Starving Games",
-    "desc": "Kantmiss Evershot fights for survival in the hilarious &apos;Starving Games.&apos;"
-  },
-  {
-    "start": "21:30",
-    "stop": "00:30",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "Movies Now HD",
-    "startTs": 1778448600000,
-    "stopTs": 1778459400000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "21:35",
-    "stop": "21:45",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
-    "startTs": 1778448900000,
-    "stopTs": 1778449500000,
-    "title": "Lll S03 Shaan",
-    "desc": "The show keeps its bold style, exploring taboo relationships and twists. A main character faces a morally tangled crisis, testing desire, betrayal, and risky consequences."
-  },
-  {
-    "start": "21:45",
-    "stop": "21:57",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
-    "startTs": 1778449500000,
-    "stopTs": 1778450220000,
-    "title": "Lll S03 Riteish & Genelia",
-    "desc": "The show keeps its bold style, exploring taboo relationships and twists. A main character faces a morally tangled crisis, testing desire, betrayal, and risky consequences."
-  },
-  {
-    "start": "21:57",
-    "stop": "23:14",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
-    "startTs": 1778450220000,
-    "stopTs": 1778454840000,
-    "title": "Sinister 2",
-    "desc": "Courtney and her sons face supernatural horrors in their haunted home."
-  },
-  {
-    "start": "23:14",
-    "stop": "00:56",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
-    "startTs": 1778454840000,
-    "stopTs": 1778460960000,
-    "title": "The November Man",
-    "desc": "An ex-CIA operative faces his former pupil in a high-stakes deadly game."
-  },
-  {
-    "start": "00:30",
-    "stop": "03:30",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "Movies Now HD",
-    "startTs": 1778459400000,
-    "stopTs": 1778470200000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "00:56",
-    "stop": "02:16",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
-    "startTs": 1778460960000,
-    "stopTs": 1778465760000,
-    "title": "Setup",
-    "desc": "A group of friends become involved in a potentially deadly diamond heist."
-  },
-  {
     "start": "02:16",
     "stop": "04:25",
     "channel": "MoviesNow.in",
     "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
+    "channelName": "Movies Now HD",
     "startTs": 1778465760000,
     "stopTs": 1778473500000,
-    "title": "Mission: Impossible - Rogue Nation",
-    "desc": "Ethan and his team take on their most impossible mission yet when they have to eradicate an international rogue organization as highly skilled as they are and committed to destroying the IMF."
-  },
-  {
-    "start": "03:30",
-    "stop": "06:30",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "Movies Now HD",
-    "startTs": 1778470200000,
-    "stopTs": 1778481000000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
+    "title": "Mission: Impossible Rogue Nation",
+    "desc": "Ethan Hunt and his team face an international rogue group determined to destroy IMF."
   },
   {
     "start": "04:25",
     "stop": "06:28",
     "channel": "MoviesNow.in",
     "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
+    "channelName": "Movies Now HD",
     "startTs": 1778473500000,
     "stopTs": 1778480880000,
-    "title": "Transformers: Rise Of The Beasts",
-    "desc": "During the &apos;90s, a new faction of Transformers - the Maximals - join the Autobots as allies in the battle for Earth."
+    "title": "Transformers: Rise of the Beasts",
+    "desc": "Autobots and Maximals team up with two humans to protect Earth from a nefarious force."
   },
   {
     "start": "06:28",
     "stop": "08:34",
     "channel": "MoviesNow.in",
     "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
+    "channelName": "Movies Now HD",
     "startTs": 1778480880000,
     "stopTs": 1778488440000,
-    "title": "Spider-Man 2 (2004)",
-    "desc": "Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius."
-  },
-  {
-    "start": "06:30",
-    "stop": "09:30",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "Movies Now HD",
-    "startTs": 1778481000000,
-    "stopTs": 1778491800000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
+    "title": "Spider-Man 2",
+    "desc": "After losing his job, lover and his powers, Peter Parker feels dissatisfied with his life."
   },
   {
     "start": "08:34",
     "stop": "10:10",
     "channel": "MoviesNow.in",
     "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
+    "channelName": "Movies Now HD",
     "startTs": 1778488440000,
     "stopTs": 1778494200000,
     "title": "Rambo: First Blood Part II",
-    "desc": "Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he&apos;d want to return-the jungles of Vietnam."
-  },
-  {
-    "start": "09:30",
-    "stop": "12:30",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "Movies Now HD",
-    "startTs": 1778491800000,
-    "stopTs": 1778502600000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
+    "desc": "John Rambo is sent on a secret mission into Vietnam to locate American POWs.."
   },
   {
     "start": "10:10",
     "stop": "11:40",
     "channel": "MoviesNow.in",
     "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
+    "channelName": "Movies Now HD",
     "startTs": 1778494200000,
     "stopTs": 1778499600000,
     "title": "Shrek 2",
-    "desc": "Princess Fiona&apos;s parents invite her and Shrek to dinner to celebrate her marriage. If only they knew the newlyweds were both ogres."
+    "desc": "Trouble invades the paradise when Fiona&apos;s father attempts to separate Shrek and Fiona."
   },
   {
     "start": "11:40",
     "stop": "13:30",
     "channel": "MoviesNow.in",
     "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
+    "channelName": "Movies Now HD",
     "startTs": 1778499600000,
     "stopTs": 1778506200000,
     "title": "Apocalypto",
-    "desc": "As the Mayan kingdom faces its decline, a young man is taken on a perilous journey to a world ruled by fear and oppression."
-  },
-  {
-    "start": "12:30",
-    "stop": "15:30",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "Movies Now HD",
-    "startTs": 1778502600000,
-    "stopTs": 1778513400000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
+    "desc": "Adversities beset a tribesman and his family during the Mayan civilisation&apos;s waning years."
   },
   {
     "start": "13:30",
     "stop": "15:15",
     "channel": "MoviesNow.in",
     "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
+    "channelName": "Movies Now HD",
     "startTs": 1778506200000,
     "stopTs": 1778512500000,
     "title": "Baywatch",
-    "desc": "Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit, as they uncover a criminal plot that threatens the future of the bay."
+    "desc": "Mitch, a lifeguard of Florida&apos;s Baywatch, assembles a team to take down a drug baron."
   },
   {
     "start": "15:15",
     "stop": "17:43",
     "channel": "MoviesNow.in",
     "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
+    "channelName": "Movies Now HD",
     "startTs": 1778512500000,
     "stopTs": 1778521380000,
     "title": "Transformers: The Last Knight",
-    "desc": "A deadly threat from Earth&apos;s history reappears and a hunt for a lost artifact takes place between Autobots and Decepticons, while Optimus Prime encounters his creator in space."
-  },
-  {
-    "start": "15:30",
-    "stop": "18:30",
-    "channel": "MoviesNow.in",
-    "channelId": "MoviesNow.in",
-    "channelName": "Movies Now HD",
-    "startTs": 1778513400000,
-    "stopTs": 1778524200000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
+    "desc": "Optimus Prime seeks his creator, while humans and Autobots try to save Earth."
   },
   {
     "start": "17:43",
     "stop": "19:42",
     "channel": "MoviesNow.in",
     "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
+    "channelName": "Movies Now HD",
     "startTs": 1778521380000,
     "stopTs": 1778528520000,
     "title": "Black Adam",
-    "desc": "Black Adam awakens after millennia, freed from his tomb to wield a brutal, modern form of justice using ancient powers against a world that forgot him."
+    "desc": "After being freed from prison, Black Adam unleashes his style of justice to the world."
   },
   {
     "start": "19:42",
     "stop": "21:11",
     "channel": "MoviesNow.in",
     "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
+    "channelName": "Movies Now HD",
     "startTs": 1778528520000,
     "stopTs": 1778533860000,
-    "title": "300: Rise of An Empire",
-    "desc": "Themistokles leads the charge against invading Persian forces led by mortal-turned-god Xerxes and Artemisia, vengeful commander of the Persian navy."
+    "title": "300: Rise of an Empire",
+    "desc": "Themistocles, an Athenian admiral, formed an alliance with Sparta against Xerxes&apos; invasion."
   },
   {
     "start": "21:11",
     "stop": "22:50",
     "channel": "MoviesNow.in",
     "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
+    "channelName": "Movies Now HD",
     "startTs": 1778533860000,
     "stopTs": 1778539800000,
     "title": "Kung Fu Yoga",
-    "desc": "An archaeology professor and his partner fight for India&apos;s lost treasure."
+    "desc": "An archeology expert joins an Indian professor to look for a lost treasure of India."
   },
   {
     "start": "22:50",
     "stop": "23:35",
     "channel": "MoviesNow.in",
     "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
+    "channelName": "Movies Now HD",
     "startTs": 1778539800000,
     "stopTs": 1778542500000,
-    "title": "The Love Laugh Live Show",
-    "desc": "A Chat Show where Mandira Bedi unravels the Romedy side of celebrities."
+    "title": "Live-The Love Laugh Live Show-The Love Laugh Live Show",
+    "desc": "The host invites prominent personalities and engages them in candid conversations."
   },
   {
     "start": "23:35",
     "stop": "00:00",
     "channel": "MoviesNow.in",
     "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
+    "channelName": "Movies Now HD",
     "startTs": 1778542500000,
     "stopTs": 1778544000000,
     "title": "Pay Day",
-    "desc": "After a difficult day at work, a bricklayer tries to enjoy his pay day without his wife knowing."
+    "desc": "A bricklayer&apos;s plans of having a fun weekend go for a toss due to a downpour."
   },
   {
     "start": "00:00",
     "stop": "01:40",
     "channel": "MoviesNow.in",
     "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
+    "channelName": "Movies Now HD",
     "startTs": 1778544000000,
     "stopTs": 1778550000000,
-    "title": "Wild For The Night",
-    "desc": "A loner in hunted by both sides of the law when he returns home to investigate his sister&apos;s murder."
+    "title": "Wild for the Night",
+    "desc": "An ex-convict is forced to help the authority bust illegal activities at a night club."
   },
   {
     "start": "01:40",
     "stop": "03:15",
     "channel": "MoviesNow.in",
     "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
+    "channelName": "Movies Now HD",
     "startTs": 1778550000000,
     "stopTs": 1778555700000,
     "title": "Freelancers",
-    "desc": "The son of a slain NYPD officer joins the force, where he falls in with his father&apos;s former partner and a team of rogue cops."
+    "desc": "A man joins the police force and works under his deceased father’s former partner."
   },
   {
     "start": "03:15",
     "stop": "04:45",
     "channel": "MoviesNow.in",
     "channelId": "MoviesNow.in",
-    "channelName": "MOVIES NOW",
+    "channelName": "Movies Now HD",
     "startTs": 1778555700000,
     "stopTs": 1778561100000,
     "title": "Johnny English Strikes Again",
-    "desc": "After a cyber-attack reveals the identity of all of the active undercover agents in Britain, Johnny English is forced to come out of retirement to find the mastermind hacker."
+    "desc": "British agent Johnny English springs back into action to find a mastermind hacker."
+  },
+  {
+    "start": "04:45",
+    "stop": "06:20",
+    "channel": "MoviesNow.in",
+    "channelId": "MoviesNow.in",
+    "channelName": "Movies Now HD",
+    "startTs": 1778561100000,
+    "stopTs": 1778566800000,
+    "title": "Kung Fu Hustle",
+    "desc": "An aspiring gangster faces three martial arts experts who exhibit supernatural powers."
+  },
+  {
+    "start": "06:20",
+    "stop": "08:20",
+    "channel": "MoviesNow.in",
+    "channelId": "MoviesNow.in",
+    "channelName": "Movies Now HD",
+    "startTs": 1778566800000,
+    "stopTs": 1778574000000,
+    "title": "Black Adam",
+    "desc": "After being freed from prison, Black Adam unleashes his style of justice to the world."
+  },
+  {
+    "start": "08:20",
+    "stop": "10:25",
+    "channel": "MoviesNow.in",
+    "channelId": "MoviesNow.in",
+    "channelName": "Movies Now HD",
+    "startTs": 1778574000000,
+    "stopTs": 1778581500000,
+    "title": "The Mummy Returns",
+    "desc": "An evil high priest wants a bracelet that Alex, an archaeologist couple&apos;s son, possesses."
+  },
+  {
+    "start": "10:25",
+    "stop": "12:10",
+    "channel": "MoviesNow.in",
+    "channelId": "MoviesNow.in",
+    "channelName": "Movies Now HD",
+    "startTs": 1778581500000,
+    "stopTs": 1778587800000,
+    "title": "Baywatch",
+    "desc": "Mitch, a lifeguard of Florida&apos;s Baywatch, assembles a team to take down a drug baron."
+  },
+  {
+    "start": "12:10",
+    "stop": "13:45",
+    "channel": "MoviesNow.in",
+    "channelId": "MoviesNow.in",
+    "channelName": "Movies Now HD",
+    "startTs": 1778587800000,
+    "stopTs": 1778593500000,
+    "title": "Mortal Kombat",
+    "desc": "Cole Young sets out to find a group of fighters to defend Earth in a critical tournament."
+  },
+  {
+    "start": "13:45",
+    "stop": "15:15",
+    "channel": "MoviesNow.in",
+    "channelId": "MoviesNow.in",
+    "channelName": "Movies Now HD",
+    "startTs": 1778593500000,
+    "stopTs": 1778598900000,
+    "title": "Rush Hour 3",
+    "desc": "Officers Carter and Lee are sent to Paris after an attempted murder on Ambassador Han."
+  },
+  {
+    "start": "15:15",
+    "stop": "16:40",
+    "channel": "MoviesNow.in",
+    "channelId": "MoviesNow.in",
+    "channelName": "Movies Now HD",
+    "startTs": 1778598900000,
+    "stopTs": 1778604000000,
+    "title": "Lucy",
+    "desc": "Lucy is tricked into becoming a drug mule for a Korean drug lord. She is captured and abused by the drug lord but soon turns the tables on him when she transforms into a merciless warrior."
+  },
+  {
+    "start": "16:40",
+    "stop": "18:10",
+    "channel": "MoviesNow.in",
+    "channelId": "MoviesNow.in",
+    "channelName": "Movies Now HD",
+    "startTs": 1778604000000,
+    "stopTs": 1778609400000,
+    "title": "Ghost Rider: Spirit of Vengeance",
+    "desc": "The Ghost Rider sets out to protect a young boy who is being pursued by the Devil."
+  },
+  {
+    "start": "18:10",
+    "stop": "20:35",
+    "channel": "MoviesNow.in",
+    "channelId": "MoviesNow.in",
+    "channelName": "Movies Now HD",
+    "startTs": 1778609400000,
+    "stopTs": 1778618100000,
+    "title": "Dune",
+    "desc": "Visions haunt Paul Atreides as his family fights to gain control over Arrakis."
+  },
+  {
+    "start": "20:35",
+    "stop": "22:05",
+    "channel": "MoviesNow.in",
+    "channelId": "MoviesNow.in",
+    "channelName": "MOVIES NOW",
+    "startTs": 1778618100000,
+    "stopTs": 1778623500000,
+    "title": "Born To Fight",
+    "desc": "A fight to bring a despotic drug lord to justice is led by a revolutionary cop who suffered injustice at the hands of the oppressor."
+  },
+  {
+    "start": "22:05",
+    "stop": "22:50",
+    "channel": "MoviesNow.in",
+    "channelId": "MoviesNow.in",
+    "channelName": "MOVIES NOW",
+    "startTs": 1778623500000,
+    "stopTs": 1778626200000,
+    "title": "The Love Laugh Live Show",
+    "desc": "A Chat Show where Mandira Bedi unravels the Romedy side of celebrities."
+  },
+  {
+    "start": "22:50",
+    "stop": "23:10",
+    "channel": "MoviesNow.in",
+    "channelId": "MoviesNow.in",
+    "channelName": "MOVIES NOW",
+    "startTs": 1778626200000,
+    "stopTs": 1778627400000,
+    "title": "A Day&apos;s Pleasure",
+    "desc": "A father takes his family for an outing, which turns out to be a ridiculous trial."
+  },
+  {
+    "start": "23:10",
+    "stop": "01:10",
+    "channel": "MoviesNow.in",
+    "channelId": "MoviesNow.in",
+    "channelName": "MOVIES NOW",
+    "startTs": 1778627400000,
+    "stopTs": 1778634600000,
+    "title": "Southpaw",
+    "desc": "A champion boxer fights to get his daughter back from child protective services as well as revive his professiol career, after a fatal incident sends him on a rampant path of destruction."
+  },
+  {
+    "start": "01:10",
+    "stop": "03:10",
+    "channel": "MoviesNow.in",
+    "channelId": "MoviesNow.in",
+    "channelName": "MOVIES NOW",
+    "startTs": 1778634600000,
+    "stopTs": 1778641800000,
+    "title": "Transformers: Rise Of The Beasts",
+    "desc": "During the &apos;90s, a new faction of Transformers - the Maximals - join the Autobots as allies in the battle for Earth."
+  },
+  {
+    "start": "03:10",
+    "stop": "04:45",
+    "channel": "MoviesNow.in",
+    "channelId": "MoviesNow.in",
+    "channelName": "MOVIES NOW",
+    "startTs": 1778641800000,
+    "stopTs": 1778647500000,
+    "title": "The Angry Birds Movie 2",
+    "desc": "The flightless birds and scheming green pigs take their feud to the next level."
   }
 ]
