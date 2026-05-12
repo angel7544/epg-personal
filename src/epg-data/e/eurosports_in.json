@@ -1,47 +1,58 @@
 [
   {
-    "start": "03:00",
-    "stop": "04:45",
+    "start": "02:30",
+    "stop": "04:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1778468400000,
-    "stopTs": 1778474700000,
-    "title": "AEW Collision",
-    "desc": "Popular pro-wrestlers from the AEW Roster compete against each other in fights every Saturday to win the championship title."
+    "startTs": 1778553000000,
+    "stopTs": 1778560200000,
+    "title": "TNA Impact",
+    "desc": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win."
   },
   {
-    "start": "04:45",
-    "stop": "05:45",
+    "start": "04:30",
+    "stop": "05:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1778474700000,
-    "stopTs": 1778478300000,
-    "title": "Bound For Glory; TNA Unfinished Business",
+    "startTs": 1778560200000,
+    "stopTs": 1778563800000,
+    "title": "Turning Point; TNA Unfinished Business",
     "desc": "An in-depth look at iconic professional wrestling clashes, focusing on celebrated fighters who battle their fierce rivals to settle outstanding scores inside the ring."
   },
   {
-    "start": "05:45",
+    "start": "05:30",
     "stop": "07:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1778478300000,
-    "stopTs": 1778484600000,
-    "title": "Ajax vs. PSV; Eredivisie Soccer",
+    "startTs": 1778563800000,
+    "stopTs": 1778571000000,
+    "title": "AZ vs. FC Twente; Eredivisie Soccer",
     "desc": "Professional football teams compete against each other in order to emerge victorious in the Eredivisie, a premier football tournament in the Netherlands."
   },
   {
     "start": "07:30",
+    "stop": "10:15",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1778571000000,
+    "stopTs": 1778580900000,
+    "title": "PFL Chicago: Main Card; Professional Fighters League",
+    "desc": "Professional fighters from around the world compete against each other in a prestigious tournament in a bid to win the coveted title."
+  },
+  {
+    "start": "10:15",
     "stop": "10:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1778484600000,
-    "stopTs": 1778495400000,
-    "title": "Madrid: Van Steenis vs. Edwards 2; Professional Fighters League",
-    "desc": "Professional fighters from around the world compete against each other in a prestigious tournament in a bid to win the coveted title."
+    "startTs": 1778580900000,
+    "stopTs": 1778581800000,
+    "title": "MotoGP 2026 Inside The España GP",
+    "desc": "This is Sport - Sport Category."
   },
   {
     "start": "10:30",
@@ -49,9 +60,9 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1778495400000,
-    "stopTs": 1778499000000,
-    "title": "Singapore Smash, D8, WS Semi Final, WINTER vs WANG; WTT Grand Smash",
+    "startTs": 1778581800000,
+    "stopTs": 1778585400000,
+    "title": "Singapore Smash, D8, WS Semi Final, SUN vs CHEN; WTT Grand Smash",
     "desc": "This is Sport - Table Tennis Category."
   },
   {
@@ -60,10 +71,10 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1778499000000,
-    "stopTs": 1778502600000,
-    "title": "Michelin Grand Prix of France; MotoGP Racing",
-    "desc": "From Circuit des 24 Heures du Mans in Le Mans, Sarthe, France."
+    "startTs": 1778585400000,
+    "stopTs": 1778589000000,
+    "title": "Grand Prix de France; Moto GP Highlights",
+    "desc": "Highlights from the Grand Prix de France held as part of the Moto GP, where professional motorcycle racers compete against each other for victory."
   },
   {
     "start": "12:30",
@@ -71,10 +82,10 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1778502600000,
-    "stopTs": 1778509800000,
-    "title": "TNA Impact",
-    "desc": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win."
+    "startTs": 1778589000000,
+    "stopTs": 1778596200000,
+    "title": "AEW Dynamite",
+    "desc": "A roster of diverse professional wrestlers compete against each other in an AEW Dynamite event in order to emerge victorious."
   },
   {
     "start": "14:30",
@@ -82,9 +93,9 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1778509800000,
-    "stopTs": 1778517000000,
-    "title": "St. Louis CITY SC vs. Austin FC; MLS Soccer",
+    "startTs": 1778596200000,
+    "stopTs": 1778603400000,
+    "title": "Austin FC at Minnesota United FC; Major League Soccer",
     "desc": "Professional football players compete against each other in the MLS Soccer."
   }
 ]
