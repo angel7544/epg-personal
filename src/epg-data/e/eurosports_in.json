@@ -1,14 +1,25 @@
 [
   {
-    "start": "02:30",
+    "start": "01:00",
+    "stop": "03:00",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1778806800000,
+    "stopTs": 1778814000000,
+    "title": "Live - TNA Impact",
+    "desc": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win."
+  },
+  {
+    "start": "03:00",
     "stop": "03:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1778725800000,
-    "stopTs": 1778729400000,
-    "title": "Destination X; TNA Unfinished Business",
-    "desc": "An in-depth look at iconic professional wrestling clashes, focusing on celebrated fighters who battle their fierce rivals to settle outstanding scores inside the ring."
+    "startTs": 1778814000000,
+    "stopTs": 1778815800000,
+    "title": "2026 Review Show; WTT Champions Chongqing",
+    "desc": "rofessional table tennis players compete against each other in the WTT Champions in Chongqing in a bid to win the coveted title."
   },
   {
     "start": "03:30",
@@ -16,9 +27,9 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1778729400000,
-    "stopTs": 1778733000000,
-    "title": "Su Yung; IMPACT in 60",
+    "startTs": 1778815800000,
+    "stopTs": 1778819400000,
+    "title": "W. Morrissey; IMPACT in 60",
     "desc": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling."
   },
   {
@@ -27,9 +38,9 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1778733000000,
-    "stopTs": 1778736600000,
-    "title": "Bully Ray vs. Jeff Hardy; TNA Unfinished Business",
+    "startTs": 1778819400000,
+    "stopTs": 1778823000000,
+    "title": "Slammiversary; TNA Unfinished Business",
     "desc": "An in-depth look at iconic professional wrestling clashes, focusing on celebrated fighters who battle their fierce rivals to settle outstanding scores inside the ring."
   },
   {
@@ -38,10 +49,10 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1778736600000,
-    "stopTs": 1778743800000,
-    "title": "FC Groningen vs. NEC; Eredivisie Soccer",
-    "desc": "Professional football teams compete against each other in order to emerge victorious in the Eredivisie, a premier football tournament in the Netherlands."
+    "startTs": 1778823000000,
+    "stopTs": 1778830200000,
+    "title": "Feyenoord vs. AZ; Eredivisie Soccer",
+    "desc": "From Feijenoord Stadium in Rotterdam, South Holland, Netherlands."
   },
   {
     "start": "07:30",
@@ -49,10 +60,10 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1778743800000,
-    "stopTs": 1778754600000,
-    "title": "PFL Belfast: Main Card; Professional Fighters League",
-    "desc": "From SSE Arena Belfast in Belfast, Northern Ireland, United Kingdom."
+    "startTs": 1778830200000,
+    "stopTs": 1778841000000,
+    "title": "PFL Sioux Falls: Main Card; Professional Fighters League",
+    "desc": "Professional fighters from around the world compete against each other in a prestigious tournament in a bid to win the coveted title."
   },
   {
     "start": "10:30",
@@ -60,9 +71,9 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1778754600000,
-    "stopTs": 1778758200000,
-    "title": "Singapore Smash, D8, MS Semi Final, WANG vs LEBRUN; WTT Grand Smash",
+    "startTs": 1778841000000,
+    "stopTs": 1778844600000,
+    "title": "Singapore Smash, D8, MS Final, WANG vs LIN; WTT Grand Smash",
     "desc": "This is Sport - Table Tennis Category."
   },
   {
@@ -71,21 +82,32 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1778758200000,
-    "stopTs": 1778761800000,
-    "title": "Round 33; Dutch League Highlights",
-    "desc": "Highlights of the Dutch League wherein professional football players compete against each other to emerge victorious and win the coveted trophy."
+    "startTs": 1778844600000,
+    "stopTs": 1778848200000,
+    "title": "6 Hours of Spa; FIA World Endurance Championship Motor Racing",
+    "desc": "Professional race car drivers compete against each other in the FIA World Endurance Championship in order to emerge victorious and win the coveted prize."
   },
   {
     "start": "12:30",
+    "stop": "13:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1778848200000,
+    "stopTs": 1778851800000,
+    "title": "Clockwork Orange House of Fun; IMPACT in 60",
+    "desc": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling."
+  },
+  {
+    "start": "13:30",
     "stop": "14:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1778761800000,
-    "stopTs": 1778769000000,
-    "title": "AEW Dynamite",
-    "desc": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title."
+    "startTs": 1778851800000,
+    "stopTs": 1778855400000,
+    "title": "TNA Wrestling: Pehalwani Patakha",
+    "desc": "Highlights from the IMPACT wrestling series of TNA Wrestling, where professional wrestlers compete against each other for victory, in Hindi."
   },
   {
     "start": "14:30",
@@ -93,9 +115,9 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1778769000000,
-    "stopTs": 1778776200000,
-    "title": "LA Galaxy vs. Real Salt Lake; MLS Soccer",
-    "desc": "Professional football players compete against each other in the MLS Soccer."
+    "startTs": 1778855400000,
+    "stopTs": 1778862600000,
+    "title": "Ajax vs. FC Utrecht; Eredivisie Soccer",
+    "desc": "Professional football teams compete against each other in order to emerge victorious in the Eredivisie, a premier football tournament in the Netherlands."
   }
 ]
