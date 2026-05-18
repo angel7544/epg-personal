@@ -1,36 +1,36 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "BBCWorldNews.in",
-    "channelId": "BBCWorldNews.in",
-    "channelName": "BBC World News",
-    "startTs": 1778985000000,
-    "stopTs": 1778986800000,
-    "title": "Spotlight",
-    "desc": "Impersonation scams are making millions from unsuspecting victims. Conor Spackman investigates the scammers and hears from a victim who went on the hunt for those who robbed her."
-  },
-  {
     "start": "03:00",
     "stop": "03:30",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778986800000,
-    "stopTs": 1778988600000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1779073200000,
+    "stopTs": 1779075000000,
+    "title": "Newsday",
+    "desc": "The latest international news from London and Singapore."
   },
   {
     "start": "03:30",
+    "stop": "03:45",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1779075000000,
+    "stopTs": 1779075900000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "03:45",
     "stop": "04:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778988600000,
-    "stopTs": 1778990400000,
-    "title": "Spotlight",
-    "desc": "Impersonation scams are making millions from unsuspecting victims. Conor Spackman investigates the scammers and hears from a victim who went on the hunt for those who robbed her."
+    "startTs": 1779075900000,
+    "stopTs": 1779076800000,
+    "title": "BBC Sport",
+    "desc": "This is News - News Bulletin Category."
   },
   {
     "start": "04:00",
@@ -38,8 +38,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778990400000,
-    "stopTs": 1778992200000,
+    "startTs": 1779076800000,
+    "stopTs": 1779078600000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -49,10 +49,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778992200000,
-    "stopTs": 1778994000000,
-    "title": "Rachel Khoo&apos;s Kitchen Notebook: Cosmopolitan Cook",
-    "desc": "Rachel returns to her favourite Italian city, Naples. During her trip, she samples pizza before heading back to London where she cooks her own version."
+    "startTs": 1779078600000,
+    "stopTs": 1779080400000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
   },
   {
     "start": "05:00",
@@ -60,21 +60,32 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778994000000,
-    "stopTs": 1778995800000,
+    "startTs": 1779080400000,
+    "stopTs": 1779082200000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "05:30",
+    "stop": "05:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1779082200000,
+    "stopTs": 1779083700000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "05:55",
     "stop": "06:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778995800000,
-    "stopTs": 1778997600000,
-    "title": "Talking Business",
-    "desc": "The so-called quiet quitting and &apos;act your wage&apos; craze encourages workers to do the bare minimum."
+    "startTs": 1779083700000,
+    "stopTs": 1779084000000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "06:00",
@@ -82,21 +93,32 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778997600000,
-    "stopTs": 1778999400000,
+    "startTs": 1779084000000,
+    "stopTs": 1779085800000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "06:30",
+    "stop": "06:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1779085800000,
+    "stopTs": 1779087300000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "06:55",
     "stop": "07:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1778999400000,
-    "stopTs": 1779001200000,
-    "title": "The Travel Show",
-    "desc": "Rob Bells heads to the Finnish city of Oulu, this year&apos;s European Capital of Culture. He sees how warmly people there embrace the snow and travels deep into Lapland."
+    "startTs": 1779087300000,
+    "stopTs": 1779087600000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "07:00",
@@ -104,8 +126,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1779001200000,
-    "stopTs": 1779003000000,
+    "startTs": 1779087600000,
+    "stopTs": 1779089400000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -115,21 +137,43 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1779003000000,
-    "stopTs": 1779004800000,
-    "title": "Adventures in Conservation: Snow Leopards",
-    "desc": "In Adventures in Conservation, Michaela Strachan journeys to Uzbekistan&apos;s remote mountains to track the elusive snow leopard, where she joins park rangers to lay camera traps and collect vital data."
+    "startTs": 1779089400000,
+    "stopTs": 1779091200000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "08:00",
+    "stop": "08:30",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1779091200000,
+    "stopTs": 1779093000000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+  },
+  {
+    "start": "08:30",
+    "stop": "08:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1779093000000,
+    "stopTs": 1779094500000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+  },
+  {
+    "start": "08:55",
     "stop": "09:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1779004800000,
-    "stopTs": 1779008400000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1779094500000,
+    "stopTs": 1779094800000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "09:00",
@@ -137,8 +181,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1779008400000,
-    "stopTs": 1779010200000,
+    "startTs": 1779094800000,
+    "stopTs": 1779096600000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -148,10 +192,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1779010200000,
-    "stopTs": 1779012000000,
-    "title": "World Questions",
-    "desc": "Justin Rowlatt invites members of the public to put forward their questions and discuss issues impacting the world."
+    "startTs": 1779096600000,
+    "stopTs": 1779098400000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "10:00",
@@ -159,21 +203,43 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1779012000000,
-    "stopTs": 1779013800000,
+    "startTs": 1779098400000,
+    "stopTs": 1779100200000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "10:30",
+    "stop": "10:45",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1779100200000,
+    "stopTs": 1779101100000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "10:45",
+    "stop": "10:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1779101100000,
+    "stopTs": 1779101700000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+  },
+  {
+    "start": "10:55",
     "stop": "11:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1779013800000,
-    "stopTs": 1779015600000,
-    "title": "The President&apos;s Path",
-    "desc": "Caitríona, Courtney and Bernd talk about Donald Trump&apos;s response to the Washington DC plane crash. They also chat tariffs, diversity schemes and Trump&apos;s US immigration crackdown."
+    "startTs": 1779101700000,
+    "stopTs": 1779102000000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "11:00",
@@ -181,10 +247,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1779015600000,
-    "stopTs": 1779017400000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1779102000000,
+    "stopTs": 1779103800000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "11:30",
@@ -192,10 +258,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1779017400000,
-    "stopTs": 1779019200000,
-    "title": "The Media Show",
-    "desc": "Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world."
+    "startTs": 1779103800000,
+    "stopTs": 1779105600000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "12:00",
@@ -203,21 +269,32 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1779019200000,
-    "stopTs": 1779021000000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1779105600000,
+    "stopTs": 1779107400000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "12:30",
+    "stop": "12:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1779107400000,
+    "stopTs": 1779108900000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
+  },
+  {
+    "start": "12:55",
     "stop": "13:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1779021000000,
-    "stopTs": 1779022800000,
-    "title": "The Travel Show",
-    "desc": "Rob Bells heads to the Finnish city of Oulu, this year&apos;s European Capital of Culture. He sees how warmly people there embrace the snow and travels deep into Lapland."
+    "startTs": 1779108900000,
+    "stopTs": 1779109200000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "13:00",
@@ -225,21 +302,32 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1779022800000,
-    "stopTs": 1779024600000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1779109200000,
+    "stopTs": 1779111000000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "13:30",
+    "stop": "13:45",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1779111000000,
+    "stopTs": 1779111900000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "13:45",
     "stop": "14:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1779024600000,
-    "stopTs": 1779026400000,
-    "title": "Tech Now",
-    "desc": "Nick Kwek visits the University of Texas to explore new innovations in hydrogen car technology. Adrienne Murray sees how new 3D imaging is being used to support heart procedures."
+    "startTs": 1779111900000,
+    "stopTs": 1779112800000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "14:00",
@@ -247,10 +335,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1779026400000,
-    "stopTs": 1779028200000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1779112800000,
+    "stopTs": 1779114600000,
+    "title": "Verified Live",
+    "desc": "Matthew Amroliwala presents all the latest global and UK news, live from London."
   },
   {
     "start": "14:30",
@@ -258,10 +346,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1779028200000,
-    "stopTs": 1779030000000,
-    "title": "Rachel Khoo&apos;s Kitchen Notebook: Cosmopolitan Cook",
-    "desc": "Rachel returns to her favourite Italian city, Naples. During her trip, she samples pizza before heading back to London where she cooks her own version."
+    "startTs": 1779114600000,
+    "stopTs": 1779116400000,
+    "title": "Verified Live",
+    "desc": "Matthew Amroliwala presents all the latest global and UK news, live from London."
   },
   {
     "start": "15:00",
@@ -269,20 +357,20 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1779030000000,
-    "stopTs": 1779031800000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1779116400000,
+    "stopTs": 1779118200000,
+    "title": "Verified Live",
+    "desc": "Matthew Amroliwala presents all the latest global and UK news, live from London."
   },
   {
     "start": "15:30",
-    "stop": "16:00",
+    "stop": "15:45",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1779031800000,
-    "stopTs": 1779033600000,
-    "title": "Spotlight",
-    "desc": "Impersonation scams are making millions from unsuspecting victims. Conor Spackman investigates the scammers and hears from a victim who went on the hunt for those who robbed her."
+    "startTs": 1779118200000,
+    "stopTs": 1779119100000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
   }
 ]
