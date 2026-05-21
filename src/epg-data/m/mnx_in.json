@@ -1,463 +1,166 @@
 [
   {
-    "start": "02:18",
-    "stop": "04:24",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1779243480000,
-    "stopTs": 1779251040000,
-    "title": "Sherlock Holmes",
-    "desc": "Sherlock Holmes and Dr Watson pursue Lord Henry Blackwood who has returned from the dead."
-  },
-  {
-    "start": "02:40",
-    "stop": "04:40",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX",
-    "startTs": 1779244800000,
-    "stopTs": 1779252000000,
-    "title": "Sherlock Holmes",
-    "desc": "Sherlock Holmes and Dr Watson send Lord Henry Blackwood, a serial killer, to the gallows. However, they are shocked to learn that he is back from the dead and pursue him again."
-  },
-  {
-    "start": "04:24",
-    "stop": "06:16",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1779251040000,
-    "stopTs": 1779257760000,
-    "title": "Now You See Me",
-    "desc": "Police set off on a mission to catch four street magicians who rob an insurance magnate."
-  },
-  {
-    "start": "04:40",
-    "stop": "06:30",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX",
-    "startTs": 1779252000000,
-    "stopTs": 1779258600000,
-    "title": "Now You See Me",
-    "desc": "Four talented magicians are plucked from obscurity to become the Four Horsemen - a group of stage illusionists who soon attract the attention of the FBI."
-  },
-  {
-    "start": "06:16",
-    "stop": "07:46",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1779257760000,
-    "stopTs": 1779263160000,
-    "title": "Johnny English Strikes Again",
-    "desc": "British agent Johnny English springs back into action to find a mastermind hacker."
-  },
-  {
-    "start": "06:30",
-    "stop": "08:00",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX",
-    "startTs": 1779258600000,
-    "stopTs": 1779264000000,
-    "title": "Johnny English Strikes Again",
-    "desc": "When a hacker reveals the identities of Britain&apos;s undercover agents, British agent Johnny English springs back into action and must overcome the challenges of modern technology."
-  },
-  {
-    "start": "07:46",
-    "stop": "09:45",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1779263160000,
-    "stopTs": 1779270300000,
-    "title": "Jumanji: Welcome to the Jungle",
-    "desc": "Four teens are transported into a magical jungle game, facing dangers to return home."
-  },
-  {
-    "start": "08:00",
-    "stop": "09:55",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX",
-    "startTs": 1779264000000,
-    "stopTs": 1779270900000,
-    "title": "Jumanji: Welcome to the Jungle",
-    "desc": "Four teens are transported into a magical jungle game, becoming adult avatars and must navigate challenges to return home safely."
-  },
-  {
-    "start": "09:45",
-    "stop": "11:42",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1779270300000,
-    "stopTs": 1779277320000,
-    "title": "Kong: Skull Island",
-    "desc": "After being attacked by an ape on Skull Island, the survivors regroup to explore the area."
-  },
-  {
-    "start": "09:55",
-    "stop": "11:50",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX",
-    "startTs": 1779270900000,
-    "stopTs": 1779277800000,
-    "title": "Kong: Skull Island",
-    "desc": "A crew that reaches Skull Island to map it, is attacked by a humongous ape. The survivors then regroup to find out more about the ape, the island&apos;s natives and underground monsters."
-  },
-  {
-    "start": "11:42",
-    "stop": "13:38",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1779277320000,
-    "stopTs": 1779284280000,
-    "title": "Apocalypto",
-    "desc": "Adversities beset a tribesman and his family during the Mayan civilisation&apos;s waning years."
-  },
-  {
-    "start": "11:50",
-    "stop": "13:40",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX",
-    "startTs": 1779277800000,
-    "stopTs": 1779284400000,
-    "title": "Apocalypto",
-    "desc": "A mettlesome tribesman must do whatever it takes to protect himself and his family from a multitude of threats during the Mayan civilisation&apos;s waning years."
-  },
-  {
-    "start": "13:38",
-    "stop": "15:30",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1779284280000,
-    "stopTs": 1779291000000,
-    "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
-    "desc": "The turtles team up with Casey Jones to take down Shredder and mad scientist Baxter Stockman."
-  },
-  {
-    "start": "13:40",
-    "stop": "15:30",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX",
-    "startTs": 1779284400000,
-    "stopTs": 1779291000000,
-    "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
-    "desc": "The turtles team up with their new member, Casey Jones, to take down Shredder, who joins forces with mad scientist Baxter Stockman, Bebop, Rocksteady and Krang."
-  },
-  {
-    "start": "15:30",
-    "stop": "17:30",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1779291000000,
-    "stopTs": 1779298200000,
-    "title": "Justice League",
-    "desc": "Batman seeks Wonder Woman&apos;s help to recruit a team of superheroes to face a new enemy."
-  },
-  {
-    "start": "17:30",
-    "stop": "19:22",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1779298200000,
-    "stopTs": 1779304920000,
-    "title": "Constantine",
-    "desc": "Angela approaches Constantine, an exorcist, to help her investigate her twin&apos;s death."
-  },
-  {
-    "start": "19:15",
-    "stop": "20:25",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1779304500000,
-    "stopTs": 1779308700000,
-    "title": "Piranha 3DD",
-    "desc": "When the vicious piranhas head towards a water park, three friends decide to take them on."
-  },
-  {
-    "start": "19:22",
-    "stop": "20:30",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX",
-    "startTs": 1779304920000,
-    "stopTs": 1779309000000,
-    "title": "Piranha 3DD",
-    "desc": "Bloodthirsty piranhas invade newly opened waterpark after Lake Victoria."
-  },
-  {
-    "start": "20:25",
-    "stop": "22:01",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1779308700000,
-    "stopTs": 1779314460000,
-    "title": "Escape Plan 2: Hades",
-    "desc": "Security expert Ray Breslin is forced to revisit his past when a colleague goes missing."
-  },
-  {
-    "start": "20:30",
-    "stop": "22:00",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX",
-    "startTs": 1779309000000,
-    "stopTs": 1779314400000,
-    "title": "Escape Plan 2: Hades",
-    "desc": "Ray Breslin, who once escaped an impossible prison, now runs a security team. When a teammate vanishes, Breslin must return to the prison he fled to save them."
-  },
-  {
-    "start": "22:00",
-    "stop": "23:15",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX",
-    "startTs": 1779314400000,
-    "stopTs": 1779318900000,
-    "title": "The Circus",
-    "desc": "The Tramp finds work and the girl of his dreams at a circus."
-  },
-  {
-    "start": "22:01",
-    "stop": "22:10",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1779314460000,
-    "stopTs": 1779315000000,
-    "title": "Riteish & Genelia Deshmukh-The Love Laugh Live Show",
-    "desc": "Riteish and Genelia Deshmukh share insights into their love life, marriage and parenting. S03 E03."
-  },
-  {
-    "start": "22:10",
-    "stop": "23:45",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1779315000000,
-    "stopTs": 1779320700000,
-    "title": "Alex Cross",
-    "desc": "Alex uncovers a web of conspiracy in his desperate search for a serial killer."
-  },
-  {
-    "start": "23:15",
-    "stop": "00:52",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX",
-    "startTs": 1779318900000,
-    "stopTs": 1779324720000,
-    "title": "Freelancers",
-    "desc": "The son of a slain NYPD officer joins the force, where he falls in with his father&apos;s former partner and a team of rogue cops."
-  },
-  {
-    "start": "23:45",
-    "stop": "01:25",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1779320700000,
-    "stopTs": 1779326700000,
-    "title": "Freelancers",
-    "desc": "A man joins the police force and works under his deceased father’s former partner."
-  },
-  {
-    "start": "00:52",
-    "stop": "02:30",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX",
-    "startTs": 1779324720000,
-    "stopTs": 1779330600000,
-    "title": "Born To Fight",
-    "desc": "Deaw, a cop, becomes despondent after his partner is killed by General Yang, a notorious drug baron. When Yang takes a village as hostage, Deaw must save their lives."
-  },
-  {
-    "start": "01:25",
-    "stop": "02:55",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1779326700000,
-    "stopTs": 1779332100000,
-    "title": "Born to Fight",
-    "desc": "Dan Barnes, a former professional boxer, takes up the responsibility to coach a teenager."
-  },
-  {
     "start": "02:30",
     "stop": "04:01",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1779330600000,
     "stopTs": 1779336060000,
     "title": "Modern Times",
-    "desc": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman."
+    "desc": "After getting fired, a factory labourer tries to build a house with a young homeless girl."
   },
   {
     "start": "02:55",
     "stop": "04:25",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX HD",
+    "channelName": "MNX",
     "startTs": 1779332100000,
     "stopTs": 1779337500000,
     "title": "Modern Times",
-    "desc": "After getting fired, a factory labourer tries to build a house with a young homeless girl."
+    "desc": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman."
   },
   {
     "start": "04:01",
     "stop": "05:58",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1779336060000,
     "stopTs": 1779343080000,
     "title": "Constantine",
-    "desc": "A man who has literally been to hell and back, enters this world to help a skeptical policewoman investigate the mysterious suicide of her twin sister."
+    "desc": "Angela approaches Constantine, an exorcist, to help her investigate her twin&apos;s death."
   },
   {
     "start": "04:25",
     "stop": "06:20",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX HD",
+    "channelName": "MNX",
     "startTs": 1779337500000,
     "stopTs": 1779344400000,
     "title": "Constantine",
-    "desc": "Angela approaches Constantine, an exorcist, to help her investigate her twin&apos;s death."
+    "desc": "A man who has literally been to hell and back, enters this world to help a skeptical policewoman investigate the mysterious suicide of her twin sister."
   },
   {
     "start": "05:58",
     "stop": "07:51",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1779343080000,
     "stopTs": 1779349860000,
     "title": "Apocalypto",
-    "desc": "Young man embarks on perilous journey in declining Mayan kingdom."
+    "desc": "Adversities beset a tribesman and his family during the Mayan civilisation&apos;s waning years."
   },
   {
     "start": "06:20",
     "stop": "08:10",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX HD",
+    "channelName": "MNX",
     "startTs": 1779344400000,
     "stopTs": 1779351000000,
     "title": "Apocalypto",
-    "desc": "Adversities beset a tribesman and his family during the Mayan civilisation&apos;s waning years."
+    "desc": "Young man embarks on perilous journey in declining Mayan kingdom."
   },
   {
     "start": "07:51",
     "stop": "09:50",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1779349860000,
     "stopTs": 1779357000000,
     "title": "Justice League",
-    "desc": "unites Earth&apos;s greatest heroes to face a colossal global threat, combining their extraordinary powers to protect humanity in this epic, action-packed superhero adventure."
+    "desc": "Batman seeks Wonder Woman&apos;s help to recruit a team of superheroes to face a new enemy."
   },
   {
     "start": "08:10",
     "stop": "10:05",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX HD",
+    "channelName": "MNX",
     "startTs": 1779351000000,
     "stopTs": 1779357900000,
     "title": "Justice League",
-    "desc": "Batman seeks Wonder Woman&apos;s help to recruit a team of superheroes to face a new enemy."
+    "desc": "Iconic superheroes unite to fight evil forces threatening Earth, showcasing courage, teamwork, and sacrifice in an epic battle between light and darkness."
   },
   {
     "start": "09:50",
     "stop": "11:33",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1779357000000,
     "stopTs": 1779363180000,
     "title": "Maximum Conviction",
-    "desc": "Two former black ops operatives are required to transfer two female convicts to a prison. While on their way, unknown assailants attack them."
+    "desc": "Maximum Conviction"
   },
   {
     "start": "10:05",
     "stop": "11:45",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX HD",
+    "channelName": "MNX",
     "startTs": 1779357900000,
     "stopTs": 1779363900000,
     "title": "Maximum Conviction",
-    "desc": "Maximum Conviction"
+    "desc": "Two former black ops operatives are required to transfer two female convicts to a prison. While on their way, unknown assailants attack them."
   },
   {
     "start": "11:33",
     "stop": "13:33",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1779363180000,
     "stopTs": 1779370380000,
-    "title": "G.I. Joe: The Rise Of Cobra",
-    "desc": "An elite military unit comprised of special operatives known as G.I. Joe, operating out of The Pit, takes on an evil organization led by a notorious arms dealer."
+    "title": "G.I. Joe: The Rise of Cobra",
+    "desc": "Two American soldiers join an elite military team to take down a notorious arms dealer."
   },
   {
     "start": "11:45",
     "stop": "13:40",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX HD",
+    "channelName": "MNX",
     "startTs": 1779363900000,
     "stopTs": 1779370800000,
-    "title": "G.I. Joe: The Rise of Cobra",
-    "desc": "Two American soldiers join an elite military team to take down a notorious arms dealer."
+    "title": "G.I. Joe: The Rise Of Cobra",
+    "desc": "An elite military unit comprised of special operatives known as G.I. Joe, operating out of The Pit, takes on an evil organization led by a notorious arms dealer."
   },
   {
     "start": "13:33",
     "stop": "15:30",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1779370380000,
     "stopTs": 1779377400000,
     "title": "The Lost City",
-    "desc": "A reclusive romance novelist on a book tour with her cover model gets swept up in a kidnapping attempt that lands them both in a cutthroat jungle adventure."
+    "desc": "Loretta Sage, a novelist, faces real-life peril when abducted by a billionaire."
   },
   {
     "start": "13:40",
     "stop": "15:30",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX HD",
+    "channelName": "MNX",
     "startTs": 1779370800000,
     "stopTs": 1779377400000,
     "title": "The Lost City",
-    "desc": "Loretta Sage, a novelist, faces real-life peril when abducted by a billionaire."
+    "desc": "A reclusive romance novelist on a book tour with her cover model gets swept up in a kidnapping attempt that lands them both in a cutthroat jungle adventure."
   },
   {
     "start": "15:30",
-    "stop": "17:00",
+    "stop": "17:03",
     "channel": "MNX.in",
     "channelId": "MNX.in",
     "channelName": "MNX HD",
     "startTs": 1779377400000,
-    "stopTs": 1779382800000,
+    "stopTs": 1779382980000,
     "title": "300: Rise of an Empire",
     "desc": "Themistocles, an Athenian admiral, formed an alliance with Sparta against Xerxes&apos; invasion."
   },
@@ -466,22 +169,22 @@
     "stop": "18:35",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX HD",
+    "channelName": "MNX",
     "startTs": 1779382800000,
     "stopTs": 1779388500000,
     "title": "Rambo: First Blood Part II",
-    "desc": "John Rambo is sent on a secret mission into Vietnam to locate American POWs.."
+    "desc": "ohn Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he&apos;d want to return - the jungles of Vietnam."
   },
   {
     "start": "17:03",
     "stop": "18:37",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1779382980000,
     "stopTs": 1779388620000,
     "title": "Rambo: First Blood Part II",
-    "desc": "ohn Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he&apos;d want to return - the jungles of Vietnam."
+    "desc": "John Rambo is sent on a secret mission into Vietnam to locate American POWs.."
   },
   {
     "start": "18:35",
@@ -499,22 +202,22 @@
     "stop": "20:24",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1779388620000,
     "stopTs": 1779395040000,
     "title": "Now You See Me",
-    "desc": "FBI and Interpol pursue illusionist bank robbers who reward audiences with stolen cash during shows."
+    "desc": "Police set off on a mission to catch four street magicians who rob an insurance magnate."
   },
   {
     "start": "20:24",
     "stop": "21:45",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1779395040000,
     "stopTs": 1779399900000,
-    "title": "Street Dance 2",
-    "desc": "fter suffering humiliation by the crew Invincible, street dancer Ash Hentschel looks to gather the best dancers from around the world for a rematch."
+    "title": "StreetDance 2",
+    "desc": "Ash assembles the best dancers for another around against the Invincible crew."
   },
   {
     "start": "20:25",
@@ -532,54 +235,186 @@
     "stop": "22:25",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1779399900000,
     "stopTs": 1779402300000,
     "title": "The Idle Class",
-    "desc": "A tramp sneaks into a upper class golf resort. The tramp meets a rich woman who is having an argument with her drunken husband. Complications arise when she mistakes the tramp for her husband."
+    "desc": "A tramp rises through the ranks of the wealthy, thanks to a case of mistaken identity."
   },
   {
     "start": "22:25",
     "stop": "00:00",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1779402300000,
     "stopTs": 1779408000000,
     "title": "Braven",
-    "desc": "Joe Braven, a logger, needs to fight a group of drug traffickers at a mountain cabin in order to protect his wife and his father."
+    "desc": "A logger and his father fight for survival against ruthless drug traffickers."
   },
   {
     "start": "00:00",
     "stop": "01:40",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1779408000000,
     "stopTs": 1779414000000,
-    "title": "Superfast",
-    "desc": "A spoof on The Fast and the Furious 2001 and the following FandF movies. An undercover cop joins a gang of criminal street racers to get close to the LA crime kingpin."
+    "title": "Superfast!",
+    "desc": "Undercover agent Lucas White endeavours to join Vin Serento&apos;s gang of street racers."
   },
   {
     "start": "01:40",
     "stop": "03:00",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1779414000000,
     "stopTs": 1779418800000,
     "title": "Incoming",
-    "desc": "Navigating the treacherous waters of adolescence, four freshmen face the daunting social pressures and awkward encounters at their inaugural high school party."
+    "desc": "A shuttle pilot and a doctor must stop a missile attack on Moscow by a terrorist group."
   },
   {
     "start": "03:00",
     "stop": "04:30",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1779418800000,
     "stopTs": 1779424200000,
-    "title": "300: Rise Of An Empire",
-    "desc": "Greek general Themistokles fights against invading Persian forces led by Xerxes and Artemisia, the resentful commander of the Persian navy."
+    "title": "300: Rise of an Empire",
+    "desc": "Themistocles, an Athenian admiral, formed an alliance with Sparta against Xerxes&apos; invasion."
+  },
+  {
+    "start": "04:30",
+    "stop": "06:35",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1779424200000,
+    "stopTs": 1779431700000,
+    "title": "Sherlock Holmes",
+    "desc": "Sherlock Holmes and Dr Watson pursue Lord Henry Blackwood who has returned from the dead."
+  },
+  {
+    "start": "06:35",
+    "stop": "08:10",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1779431700000,
+    "stopTs": 1779437400000,
+    "title": "Rambo: First Blood Part II",
+    "desc": "John Rambo is sent on a secret mission into Vietnam to locate American POWs.."
+  },
+  {
+    "start": "08:10",
+    "stop": "09:45",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1779437400000,
+    "stopTs": 1779443100000,
+    "title": "The Angry Birds Movie",
+    "desc": "A trio of birds decides to inspect the mysterious presence of green pigs on their island."
+  },
+  {
+    "start": "09:45",
+    "stop": "12:10",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1779443100000,
+    "stopTs": 1779451800000,
+    "title": "Transformers: Revenge of the Fallen",
+    "desc": "The Decepticons return to Earth on a mission to take Sam Witwicky hostage."
+  },
+  {
+    "start": "12:10",
+    "stop": "14:00",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1779451800000,
+    "stopTs": 1779458400000,
+    "title": "Mission: Impossible",
+    "desc": "An elite intelligence agent sets out to retrieve a computer disk that can prove he is not a traitor."
+  },
+  {
+    "start": "14:00",
+    "stop": "15:30",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1779458400000,
+    "stopTs": 1779463800000,
+    "title": "Johnny English Strikes Again",
+    "desc": "British agent Johnny English springs back into action to find a mastermind hacker."
+  },
+  {
+    "start": "15:30",
+    "stop": "17:25",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1779463800000,
+    "stopTs": 1779470700000,
+    "title": "Kong: Skull Island",
+    "desc": "After being attacked by an ape on Skull Island, the survivors regroup to explore the area."
+  },
+  {
+    "start": "17:25",
+    "stop": "19:30",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1779470700000,
+    "stopTs": 1779478200000,
+    "title": "Top Gun: Maverick",
+    "desc": "Maverick strives to mentor a group of Top Gun graduates while battling his demons."
+  },
+  {
+    "start": "19:30",
+    "stop": "21:30",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX",
+    "startTs": 1779478200000,
+    "stopTs": 1779485400000,
+    "title": "Blue Beetle",
+    "desc": "Jaime Reyes gains the Scarab, an ancient alien relic that bonds with him as its host, granting a powerful suit of armor with unpredictable abilities, transforming him into Blue Beetle."
+  },
+  {
+    "start": "21:30",
+    "stop": "00:30",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX",
+    "startTs": 1779485400000,
+    "stopTs": 1779496200000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "00:30",
+    "stop": "03:30",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX",
+    "startTs": 1779496200000,
+    "stopTs": 1779507000000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "03:30",
+    "stop": "06:30",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX",
+    "startTs": 1779507000000,
+    "stopTs": 1779517800000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
   }
 ]
