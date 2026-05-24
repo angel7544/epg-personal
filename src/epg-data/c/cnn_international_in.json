@@ -1,36 +1,58 @@
 [
   {
-    "start": "02:00",
-    "stop": "03:00",
+    "start": "03:00",
+    "stop": "03:30",
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779501600000,
-    "stopTs": 1779505200000,
-    "title": "CNN News Night",
-    "desc": "Host Abby Phillip provides deeper insights into some of the biggest news stories that are of national and international significance."
+    "startTs": 1779591600000,
+    "stopTs": 1779593400000,
+    "title": "CNNI Placeholder",
+    "desc": "This is News - News Bulletin Category."
   },
   {
-    "start": "03:00",
+    "start": "03:30",
+    "stop": "03:45",
+    "channel": "CNNINTERNATIONAL.in",
+    "channelId": "CNNINTERNATIONAL.in",
+    "channelName": "CNN INTERNATIONAL",
+    "startTs": 1779593400000,
+    "stopTs": 1779594300000,
+    "title": "Marketplace Africa",
+    "desc": "The filmmaker explores the overarching business trends that shape the strategic positions of Africa&apos;s major industries and companies."
+  },
+  {
+    "start": "03:45",
     "stop": "04:00",
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779505200000,
-    "stopTs": 1779508800000,
-    "title": "Laura Coates Live",
-    "desc": "Host Laura Coates uses her experience as a senior legal analyst to discuss important matters with newsmakers and thought leaders, live."
+    "startTs": 1779594300000,
+    "stopTs": 1779595200000,
+    "title": "Marketplace Europe",
+    "desc": "The host presents the key news stories, updates and developments on the business front from Europe along with interviews of prominent businessmen."
   },
   {
     "start": "04:00",
+    "stop": "04:30",
+    "channel": "CNNINTERNATIONAL.in",
+    "channelId": "CNNINTERNATIONAL.in",
+    "channelName": "CNN INTERNATIONAL",
+    "startTs": 1779595200000,
+    "stopTs": 1779597000000,
+    "title": "CNN Newsroom",
+    "desc": "The host presents the latest news stories, updates and developments on major issues and events in the US and around the world."
+  },
+  {
+    "start": "04:30",
     "stop": "05:00",
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779508800000,
-    "stopTs": 1779512400000,
-    "title": "The Story Is With Elex Michaelson",
-    "desc": "The host, Elex Michaelson, presents the latest news and updates on political issues, featuring in-depth interviews with key political figures and weekly analyses of current events."
+    "startTs": 1779597000000,
+    "stopTs": 1779598800000,
+    "title": "World Sport",
+    "desc": "A look into global athletic achievements, offering detailed updates and expert views on competitions, rankings and standout moments across different sporting arenas."
   },
   {
     "start": "05:00",
@@ -38,10 +60,10 @@
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779512400000,
-    "stopTs": 1779514200000,
-    "title": "The Story Is With Elex Michaelson",
-    "desc": "The host, Elex Michaelson, presents the latest news and updates on political issues, featuring in-depth interviews with key political figures and weekly analyses of current events."
+    "startTs": 1779598800000,
+    "stopTs": 1779600600000,
+    "title": "CNN Newsroom",
+    "desc": "The host presents the latest news stories, updates and developments on major issues and events in the US and around the world."
   },
   {
     "start": "05:30",
@@ -49,10 +71,10 @@
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779514200000,
-    "stopTs": 1779516000000,
-    "title": "Quest&apos;s World of Wonder",
-    "desc": "Host Richard Quest travels to different cities all over the world to explore, discover and learn different things about the places."
+    "startTs": 1779600600000,
+    "stopTs": 1779602400000,
+    "title": "Inside Africa",
+    "desc": "The host presents diverse and interesting stories ranging from different mediums such as art, music, nature and more from the continent of Africa."
   },
   {
     "start": "06:00",
@@ -60,65 +82,54 @@
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779516000000,
-    "stopTs": 1779517800000,
+    "startTs": 1779602400000,
+    "stopTs": 1779604200000,
     "title": "CNN Newsroom",
     "desc": "The host presents the latest news stories, updates and developments on major issues and events in the US and around the world."
   },
   {
     "start": "06:30",
+    "stop": "06:45",
+    "channel": "CNNINTERNATIONAL.in",
+    "channelId": "CNNINTERNATIONAL.in",
+    "channelName": "CNN INTERNATIONAL",
+    "startTs": 1779604200000,
+    "stopTs": 1779605100000,
+    "title": "Marketplace Africa",
+    "desc": "The filmmaker explores the overarching business trends that shape the strategic positions of Africa&apos;s major industries and companies."
+  },
+  {
+    "start": "06:45",
     "stop": "07:00",
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779517800000,
-    "stopTs": 1779519600000,
-    "title": "African Voices",
-    "desc": "Take a look at some of Africa&apos;s most dazzling trend-setters who are making waves in the worlds of travel, fashion, art, music, technology and architecture."
+    "startTs": 1779605100000,
+    "stopTs": 1779606000000,
+    "title": "Marketplace Europe",
+    "desc": "The host presents the key news stories, updates and developments on the business front from Europe along with interviews of prominent businessmen."
   },
   {
     "start": "07:00",
-    "stop": "07:30",
-    "channel": "CNNINTERNATIONAL.in",
-    "channelId": "CNNINTERNATIONAL.in",
-    "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779519600000,
-    "stopTs": 1779521400000,
-    "title": "CNN Newsroom",
-    "desc": "The host presents the latest news stories, updates and developments on major issues and events in the US and around the world."
-  },
-  {
-    "start": "07:30",
     "stop": "08:00",
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779521400000,
-    "stopTs": 1779523200000,
-    "title": "CNNI Placeholder",
-    "desc": "This is News - News Bulletin Category."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "CNNINTERNATIONAL.in",
-    "channelId": "CNNINTERNATIONAL.in",
-    "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779523200000,
-    "stopTs": 1779525000000,
+    "startTs": 1779606000000,
+    "stopTs": 1779609600000,
     "title": "CNN Newsroom",
     "desc": "The host presents the latest news stories, updates and developments on major issues and events in the US and around the world."
   },
   {
-    "start": "08:30",
+    "start": "08:00",
     "stop": "09:00",
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779525000000,
-    "stopTs": 1779526800000,
-    "title": "CNN Creators",
-    "desc": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
+    "startTs": 1779609600000,
+    "stopTs": 1779613200000,
+    "title": "CNN Newsroom",
+    "desc": "The host presents the latest news stories, updates and developments on major issues and events in the US and around the world."
   },
   {
     "start": "09:00",
@@ -126,8 +137,8 @@
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779526800000,
-    "stopTs": 1779530400000,
+    "startTs": 1779613200000,
+    "stopTs": 1779616800000,
     "title": "CNN Newsroom",
     "desc": "The host presents the latest news stories, updates and developments on major issues and events in the US and around the world."
   },
@@ -137,10 +148,10 @@
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779530400000,
-    "stopTs": 1779532200000,
-    "title": "African Voices",
-    "desc": "Take a look at some of Africa&apos;s most dazzling trend-setters who are making waves in the worlds of travel, fashion, art, music, technology and architecture."
+    "startTs": 1779616800000,
+    "stopTs": 1779618600000,
+    "title": "CNNI Placeholder",
+    "desc": "This is News - News Bulletin Category."
   },
   {
     "start": "10:30",
@@ -148,10 +159,10 @@
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779532200000,
-    "stopTs": 1779534000000,
-    "title": "CNNI Placeholder",
-    "desc": "This is News - News Bulletin Category."
+    "startTs": 1779618600000,
+    "stopTs": 1779620400000,
+    "title": "Inside Africa",
+    "desc": "The host presents diverse and interesting stories ranging from different mediums such as art, music, nature and more from the continent of Africa."
   },
   {
     "start": "11:00",
@@ -159,8 +170,8 @@
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779534000000,
-    "stopTs": 1779537600000,
+    "startTs": 1779620400000,
+    "stopTs": 1779624000000,
     "title": "CNN This Morning Weekend",
     "desc": "The hosts present the latest national and international news updates and developments from various spheres including business and politics."
   },
@@ -170,10 +181,10 @@
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779537600000,
-    "stopTs": 1779541200000,
-    "title": "K-Everything",
-    "desc": "This is Documentary - Others Category."
+    "startTs": 1779624000000,
+    "stopTs": 1779627600000,
+    "title": "Inside Politics With Manu Raju",
+    "desc": "Host Manu Raju holds in-depth conversations with experts and analysts to discuss important news stories from the political front."
   },
   {
     "start": "13:00",
@@ -181,32 +192,21 @@
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779541200000,
-    "stopTs": 1779544800000,
-    "title": "Smerconish",
-    "desc": "American radio host Michael Smerconish discusses the latest news stories, interviews people about the same and shares his opinions."
+    "startTs": 1779627600000,
+    "stopTs": 1779631200000,
+    "title": "State of the Union With Jake Tapper and Dana Bash",
+    "desc": "Jake Tapper and Dana Bash discuss urgent domestic matters and international diplomacy with prominent newsmakers, analysts and experts."
   },
   {
     "start": "14:00",
-    "stop": "14:30",
-    "channel": "CNNINTERNATIONAL.in",
-    "channelId": "CNNINTERNATIONAL.in",
-    "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779544800000,
-    "stopTs": 1779546600000,
-    "title": "CNN Creators",
-    "desc": "The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "start": "14:30",
     "stop": "15:00",
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779546600000,
-    "stopTs": 1779548400000,
-    "title": "Inside Africa",
-    "desc": "The host presents diverse and interesting stories ranging from different mediums such as art, music, nature and more from the continent of Africa."
+    "startTs": 1779631200000,
+    "stopTs": 1779634800000,
+    "title": "Fareed Zakaria GPS",
+    "desc": "Host Fareed Zakaria analyses international issues and foreign affairs and discusses these matters with esteemed individuals to gain their insights."
   },
   {
     "start": "15:00",
@@ -214,9 +214,9 @@
     "channel": "CNNINTERNATIONAL.in",
     "channelId": "CNNINTERNATIONAL.in",
     "channelName": "CNN INTERNATIONAL",
-    "startTs": 1779548400000,
-    "stopTs": 1779552000000,
-    "title": "The Amanpour Hour",
-    "desc": "Host Christiane Amanpour presents important national and international news stories and provides her insights on the matter."
+    "startTs": 1779634800000,
+    "stopTs": 1779638400000,
+    "title": "Inside Politics With Manu Raju",
+    "desc": "Host Manu Raju holds in-depth conversations with experts and analysts to discuss important news stories from the political front."
   }
 ]
