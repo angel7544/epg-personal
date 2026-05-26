@@ -1,465 +1,25 @@
 [
   {
     "start": "02:30",
-    "stop": "03:30",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "Cartoon Network HD+",
-    "startTs": 1779676200000,
-    "stopTs": 1779679800000,
-    "title": "Ben 10",
-    "desc": "A young boy discovers and uses a device that helps him transform into various aliens."
-  },
-  {
-    "start": "03:00",
-    "stop": "04:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779678000000,
-    "stopTs": 1779681600000,
-    "title": "Maca & Roni",
-    "desc": "Meet Maca and Ronnie, mischievous inventors who assist Dr. Albert in his laboratory."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "Cartoon Network HD+",
-    "startTs": 1779679800000,
-    "stopTs": 1779683400000,
-    "title": "Ben 10",
-    "desc": "A young boy discovers and uses a device that helps him transform into various aliens."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:20",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779681600000,
-    "stopTs": 1779682800000,
-    "title": "Maca & Roni",
-    "desc": "Meet Maca and Ronnie, mischievous inventors who assist Dr. Albert in his laboratory."
-  },
-  {
-    "start": "04:20",
-    "stop": "04:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779682800000,
-    "stopTs": 1779683400000,
-    "title": "Maca & Roni",
-    "desc": "Meet Maca and Ronnie, mischievous inventors who assist Dr. Albert in his laboratory."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:15",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779683400000,
-    "stopTs": 1779686100000,
-    "title": "Baby Lemmings",
-    "desc": "Baby Lemmings try to overcome challenges as they navigate the world."
-  },
-  {
-    "start": "05:15",
-    "stop": "05:50",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779686100000,
-    "stopTs": 1779688200000,
-    "title": "Weasy Family",
-    "desc": "Weasy, an opportunistic weasel, finds himself incubating a large egg."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:30",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "Cartoon Network HD+",
-    "startTs": 1779687000000,
-    "stopTs": 1779690600000,
-    "title": "Teen Titans GO!",
-    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
-  },
-  {
-    "start": "05:50",
-    "stop": "06:10",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779688200000,
-    "stopTs": 1779689400000,
-    "title": "Kian And Kiki",
-    "desc": "Follow the whimsical, magical adventures of Kian and Kiki, a sibling duo of magicians."
-  },
-  {
-    "start": "06:10",
-    "stop": "06:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779689400000,
-    "stopTs": 1779690600000,
-    "title": "Ben 10: Ultimate Alien",
-    "desc": "Ben is now an internationally-known superhero and continues to battle aliens."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779690600000,
-    "stopTs": 1779692400000,
-    "title": "Ben 10: Ultimate Alien",
-    "desc": "Ben is now an internationally-known superhero and continues to battle aliens."
-  },
-  {
-    "start": "07:00",
-    "stop": "08:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779692400000,
-    "stopTs": 1779697800000,
-    "title": "Ben 10: Ultimate Alien",
-    "desc": "Ben is now an internationally-known superhero and continues to battle aliens."
-  },
-  {
-    "start": "07:30",
-    "stop": "09:30",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "Cartoon Network HD+",
-    "startTs": 1779694200000,
-    "stopTs": 1779701400000,
-    "title": "We Bare Bears",
-    "desc": "Three brother bears awkwardly navigate modern life in the San Francisco Bay Area."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779697800000,
-    "stopTs": 1779699600000,
-    "title": "Kian And Kiki",
-    "desc": "Follow the whimsical, magical adventures of Kian and Kiki, a sibling duo of magicians."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779699600000,
-    "stopTs": 1779701400000,
-    "title": "Teen Titans GO!",
-    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779701400000,
-    "stopTs": 1779703200000,
-    "title": "Teen Titans GO!",
-    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
-  },
-  {
-    "start": "10:00",
-    "stop": "12:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779703200000,
-    "stopTs": 1779710400000,
-    "title": "Teen Titans GO!",
-    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:30",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "Cartoon Network HD+",
-    "startTs": 1779705000000,
-    "stopTs": 1779708600000,
-    "title": "Regular Show",
-    "desc": "A blue jay named Mordecai and a raccoon called Rigby get into numerous misadventures."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:30",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "Cartoon Network HD+",
-    "startTs": 1779708600000,
-    "stopTs": 1779712200000,
-    "title": "Teen Titans GO!",
-    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779710400000,
-    "stopTs": 1779712200000,
-    "title": "Teen Titans GO!",
-    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779712200000,
-    "stopTs": 1779714000000,
-    "title": "Teen Titans GO!",
-    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
-  },
-  {
-    "start": "13:00",
-    "stop": "14:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779714000000,
-    "stopTs": 1779717600000,
-    "title": "Teen Titans GO!",
-    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
-  },
-  {
-    "start": "13:30",
-    "stop": "15:30",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "Cartoon Network HD+",
-    "startTs": 1779715800000,
-    "stopTs": 1779723000000,
-    "title": "We Bare Bears",
-    "desc": "Three brother bears awkwardly navigate modern life in the San Francisco Bay Area."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779717600000,
-    "stopTs": 1779719400000,
-    "title": "Teen Titans GO!",
-    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779719400000,
-    "stopTs": 1779721200000,
-    "title": "Teen Titans GO!",
-    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779721200000,
-    "stopTs": 1779723000000,
-    "title": "Teen Titans GO!",
-    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779723000000,
-    "stopTs": 1779724800000,
-    "title": "Kian And Kiki",
-    "desc": "Follow the whimsical, magical adventures of Kian and Kiki, a sibling duo of magicians."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779724800000,
-    "stopTs": 1779726600000,
-    "title": "Dragon Ball Super",
-    "desc": "Goku embarks on a new quest after learning of a powerful entity who wants to kill him."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779726600000,
-    "stopTs": 1779728400000,
-    "title": "Dragon Ball Super",
-    "desc": "Goku embarks on a new quest after learning of a powerful entity who wants to kill him."
-  },
-  {
-    "start": "16:45",
-    "stop": "18:00",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "Cartoon Network HD+",
-    "startTs": 1779727500000,
-    "stopTs": 1779732000000,
-    "title": "Dragon Ball Super",
-    "desc": "Goku embarks on a new quest after learning of a powerful entity who wants to kill him."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779728400000,
-    "stopTs": 1779730200000,
-    "title": "Dragon Ball Super",
-    "desc": "Goku embarks on a new quest after learning of a powerful entity who wants to kill him."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779730200000,
-    "stopTs": 1779732000000,
-    "title": "Dragon Ball Super",
-    "desc": "Goku embarks on a new quest after learning of a powerful entity who wants to kill him."
-  },
-  {
-    "start": "18:00",
-    "stop": "19:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779732000000,
-    "stopTs": 1779737400000,
-    "title": "Courage the Cowardly Dog",
-    "desc": "Courage, a timid dog, defends his elderly owners from paranormal activity on their farm."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779737400000,
-    "stopTs": 1779741000000,
-    "title": "Hunter X Hunter",
-    "desc": "Gon Freecss sets out to become a Hunter in the hopes of finding his absent father."
-  },
-  {
-    "start": "20:30",
-    "stop": "22:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779741000000,
-    "stopTs": 1779748200000,
-    "title": "One Piece",
-    "desc": "Monkey D Luffy and his team of pirates set off in search of a fabled treasure."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:30",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "Cartoon Network HD+",
-    "startTs": 1779744600000,
-    "stopTs": 1779748200000,
-    "title": "The Tom and Jerry Show",
-    "desc": "Arch-rivals Tom and Jerry constantly try to one up each other."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779748200000,
-    "stopTs": 1779751800000,
-    "title": "Kiteretsu",
-    "desc": "Kiteretsu, an elementary school student, and Korosuke, his robot, partake in adventures."
-  },
-  {
-    "start": "23:30",
-    "stop": "01:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779751800000,
-    "stopTs": 1779759000000,
-    "title": "We Bare Bears",
-    "desc": "Three brother bears awkwardly navigate modern life in the San Francisco Bay Area."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:30",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "Cartoon Network HD+",
-    "startTs": 1779755400000,
-    "stopTs": 1779759000000,
-    "title": "Ben 10",
-    "desc": "A young boy discovers and uses a device that helps him transform into various aliens."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779759000000,
-    "stopTs": 1779760800000,
-    "title": "Lamput",
-    "desc": "A clever orange nutcase, Lamput, tricks the scientists every time they try to capture him."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1779760800000,
-    "stopTs": 1779762600000,
-    "title": "Lamput",
-    "desc": "A clever orange nutcase, Lamput, tricks the scientists every time they try to capture him."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
+    "stop": "02:50",
     "channel": "CartoonNetwork.in",
     "channelId": "CartoonNetwork.in",
     "channelName": "Cartoon Network",
     "startTs": 1779762600000,
-    "stopTs": 1779764400000,
+    "stopTs": 1779763800000,
     "title": "Lamput",
     "desc": "A clever orange nutcase, Lamput, tricks the scientists every time they try to capture him."
+  },
+  {
+    "start": "02:50",
+    "stop": "03:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779763800000,
+    "stopTs": 1779764400000,
+    "title": "Maca & Roni",
+    "desc": "Meet Maca and Ronnie, mischievous inventors who assist Dr. Albert in his laboratory."
   },
   {
     "start": "03:00",
@@ -822,7 +382,7 @@
     "startTs": 1779823800000,
     "stopTs": 1779827400000,
     "title": "Hunter X Hunter",
-    "desc": "A boy embarks on a journey to become a Hunter, facing fierce trials, dangerous enemies, loyal friends, and the search for his father in a thrilling adventure world."
+    "desc": "Gon Freecss sets out to become a Hunter in the hopes of finding his absent father."
   },
   {
     "start": "20:30",
@@ -833,18 +393,18 @@
     "startTs": 1779827400000,
     "stopTs": 1779834600000,
     "title": "One Piece",
-    "desc": "It is following the journey of Monkey D. Luffy and his pirate crew searching for the legendary treasure One Piece."
+    "desc": "Monkey D Luffy and his team of pirates set off in search of a fabled treasure."
   },
   {
     "start": "21:30",
     "stop": "22:30",
     "channel": "CartoonNetworkHDPlus.in",
     "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "CARTOON NETWORK HD+",
+    "channelName": "Cartoon Network HD+",
     "startTs": 1779831000000,
     "stopTs": 1779834600000,
-    "title": "The Tom And Jerry Show",
-    "desc": "Tom, a house cat, embarks on his adventure of persistently pursuing his never-ending quest of laying his hands on the notorious mouse Jerry."
+    "title": "The Tom and Jerry Show",
+    "desc": "Arch-rivals Tom and Jerry constantly try to one up each other."
   },
   {
     "start": "22:30",
@@ -855,7 +415,7 @@
     "startTs": 1779834600000,
     "stopTs": 1779838200000,
     "title": "Kiteretsu",
-    "desc": "Kiteretsu follows boy genius Eiichi Kite inventing gadgets with robot Korosuke, leading to hilarious mishaps and adventures with friends."
+    "desc": "Kiteretsu, an elementary school student, and Korosuke, his robot, partake in adventures."
   },
   {
     "start": "23:30",
@@ -866,7 +426,7 @@
     "startTs": 1779838200000,
     "stopTs": 1779841800000,
     "title": "We Bare Bears",
-    "desc": "Three bear brothers do whatever they can to be a part of human society by doing what everyone around them does."
+    "desc": "Three brother bears awkwardly navigate modern life in the San Francisco Bay Area."
   },
   {
     "start": "00:30",
@@ -877,7 +437,7 @@
     "startTs": 1779841800000,
     "stopTs": 1779845400000,
     "title": "We Bare Bears",
-    "desc": "Three bear brothers do whatever they can to be a part of human society by doing what everyone around them does."
+    "desc": "Three brother bears awkwardly navigate modern life in the San Francisco Bay Area."
   },
   {
     "start": "01:30",
@@ -888,7 +448,7 @@
     "startTs": 1779845400000,
     "stopTs": 1779847200000,
     "title": "Lamput",
-    "desc": "A clever orange nutcase, Lamput, escapes from a hidden laboratory, thus sending scientists Slim Doc and Fat Doc in a frenzy as they try hard to capture him. However, Lamput always manages to escape."
+    "desc": "A clever orange nutcase, Lamput, tricks the scientists every time they try to capture him."
   },
   {
     "start": "02:00",
@@ -899,7 +459,7 @@
     "startTs": 1779847200000,
     "stopTs": 1779849000000,
     "title": "Lamput",
-    "desc": "A clever orange nutcase, Lamput, escapes from a hidden laboratory, thus sending scientists Slim Doc and Fat Doc in a frenzy as they try hard to capture him. However, Lamput always manages to escape."
+    "desc": "A clever orange nutcase, Lamput, tricks the scientists every time they try to capture him."
   },
   {
     "start": "02:30",
@@ -910,7 +470,7 @@
     "startTs": 1779849000000,
     "stopTs": 1779852600000,
     "title": "Lamput",
-    "desc": "A clever orange nutcase, Lamput, escapes from a hidden laboratory, thus sending scientists Slim Doc and Fat Doc in a frenzy as they try hard to capture him. However, Lamput always manages to escape."
+    "desc": "A clever orange nutcase, Lamput, tricks the scientists every time they try to capture him."
   },
   {
     "start": "03:30",
@@ -921,6 +481,402 @@
     "startTs": 1779852600000,
     "stopTs": 1779862200000,
     "title": "Maca & Roni",
+    "desc": "Meet Maca and Ronnie, mischievous inventors who assist Dr. Albert in his laboratory."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "CartoonNetworkHDPlus.in",
+    "channelId": "CartoonNetworkHDPlus.in",
+    "channelName": "Cartoon Network HD+",
+    "startTs": 1779856200000,
+    "stopTs": 1779859800000,
+    "title": "Teen Titans GO!",
+    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "CartoonNetworkHDPlus.in",
+    "channelId": "CartoonNetworkHDPlus.in",
+    "channelName": "Cartoon Network HD+",
+    "startTs": 1779859800000,
+    "stopTs": 1779863400000,
+    "title": "Teen Titans GO!",
+    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
+  },
+  {
+    "start": "06:10",
+    "stop": "06:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779862200000,
+    "stopTs": 1779863400000,
+    "title": "Ben 10: Ultimate Alien",
+    "desc": "Ben is now an internationally-known superhero and continues to battle aliens."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779863400000,
+    "stopTs": 1779865200000,
+    "title": "Ben 10: Ultimate Alien",
+    "desc": "Ben is now an internationally-known superhero and continues to battle aliens."
+  },
+  {
+    "start": "07:00",
+    "stop": "08:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779865200000,
+    "stopTs": 1779870600000,
+    "title": "Ben 10: Ultimate Alien",
+    "desc": "Ben is now an internationally-known superhero and continues to battle aliens."
+  },
+  {
+    "start": "07:30",
+    "stop": "09:30",
+    "channel": "CartoonNetworkHDPlus.in",
+    "channelId": "CartoonNetworkHDPlus.in",
+    "channelName": "Cartoon Network HD+",
+    "startTs": 1779867000000,
+    "stopTs": 1779874200000,
+    "title": "We Bare Bears",
+    "desc": "Three brother bears awkwardly navigate modern life in the San Francisco Bay Area."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779870600000,
+    "stopTs": 1779872400000,
+    "title": "Kian And Kiki",
+    "desc": "Follow the whimsical, magical adventures of Kian and Kiki, a sibling duo of magicians."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779872400000,
+    "stopTs": 1779874200000,
+    "title": "Teen Titans GO!",
+    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779874200000,
+    "stopTs": 1779876000000,
+    "title": "Teen Titans GO!",
+    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
+  },
+  {
+    "start": "10:00",
+    "stop": "12:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779876000000,
+    "stopTs": 1779883200000,
+    "title": "Teen Titans GO!",
+    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:30",
+    "channel": "CartoonNetworkHDPlus.in",
+    "channelId": "CartoonNetworkHDPlus.in",
+    "channelName": "Cartoon Network HD+",
+    "startTs": 1779877800000,
+    "stopTs": 1779881400000,
+    "title": "Regular Show",
+    "desc": "A blue jay named Mordecai and a raccoon called Rigby get into numerous misadventures."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:30",
+    "channel": "CartoonNetworkHDPlus.in",
+    "channelId": "CartoonNetworkHDPlus.in",
+    "channelName": "Cartoon Network HD+",
+    "startTs": 1779881400000,
+    "stopTs": 1779885000000,
+    "title": "Teen Titans GO!",
+    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779883200000,
+    "stopTs": 1779885000000,
+    "title": "Teen Titans GO!",
+    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779885000000,
+    "stopTs": 1779886800000,
+    "title": "Teen Titans GO!",
+    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
+  },
+  {
+    "start": "13:00",
+    "stop": "14:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779886800000,
+    "stopTs": 1779890400000,
+    "title": "Teen Titans GO!",
+    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
+  },
+  {
+    "start": "13:30",
+    "stop": "15:30",
+    "channel": "CartoonNetworkHDPlus.in",
+    "channelId": "CartoonNetworkHDPlus.in",
+    "channelName": "Cartoon Network HD+",
+    "startTs": 1779888600000,
+    "stopTs": 1779895800000,
+    "title": "We Bare Bears",
+    "desc": "Three brother bears awkwardly navigate modern life in the San Francisco Bay Area."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779890400000,
+    "stopTs": 1779892200000,
+    "title": "Teen Titans GO!",
+    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779892200000,
+    "stopTs": 1779894000000,
+    "title": "Teen Titans GO!",
+    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779894000000,
+    "stopTs": 1779895800000,
+    "title": "Teen Titans GO!",
+    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779895800000,
+    "stopTs": 1779897600000,
+    "title": "Teen Titans GO!",
+    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
+  },
+  {
+    "start": "16:00",
+    "stop": "17:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779897600000,
+    "stopTs": 1779901200000,
+    "title": "Dragon Ball Super",
+    "desc": "Goku embarks on a new quest after learning of a powerful entity who wants to kill him."
+  },
+  {
+    "start": "16:45",
+    "stop": "18:00",
+    "channel": "CartoonNetworkHDPlus.in",
+    "channelId": "CartoonNetworkHDPlus.in",
+    "channelName": "Cartoon Network HD+",
+    "startTs": 1779900300000,
+    "stopTs": 1779904800000,
+    "title": "Dragon Ball Super",
+    "desc": "Goku embarks on a new quest after learning of a powerful entity who wants to kill him."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779901200000,
+    "stopTs": 1779903000000,
+    "title": "Dragon Ball Super",
+    "desc": "Goku embarks on a new quest after learning of a powerful entity who wants to kill him."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779903000000,
+    "stopTs": 1779904800000,
+    "title": "Dragon Ball Super",
+    "desc": "Goku embarks on a new quest after learning of a powerful entity who wants to kill him."
+  },
+  {
+    "start": "18:00",
+    "stop": "19:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779904800000,
+    "stopTs": 1779910200000,
+    "title": "Courage the Cowardly Dog",
+    "desc": "Courage, a timid dog, defends his elderly owners from paranormal activity on their farm."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779910200000,
+    "stopTs": 1779913800000,
+    "title": "Hunter X Hunter",
+    "desc": "A boy embarks on a journey to become a Hunter, facing fierce trials, dangerous enemies, loyal friends, and the search for his father in a thrilling adventure world."
+  },
+  {
+    "start": "20:30",
+    "stop": "22:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779913800000,
+    "stopTs": 1779921000000,
+    "title": "One Piece",
+    "desc": "It is following the journey of Monkey D. Luffy and his pirate crew searching for the legendary treasure One Piece."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:30",
+    "channel": "CartoonNetworkHDPlus.in",
+    "channelId": "CartoonNetworkHDPlus.in",
+    "channelName": "CARTOON NETWORK HD+",
+    "startTs": 1779917400000,
+    "stopTs": 1779921000000,
+    "title": "The Tom And Jerry Show",
+    "desc": "Tom, a house cat, embarks on his adventure of persistently pursuing his never-ending quest of laying his hands on the notorious mouse Jerry."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779921000000,
+    "stopTs": 1779924600000,
+    "title": "Kiteretsu",
+    "desc": "Kiteretsu follows boy genius Eiichi Kite inventing gadgets with robot Korosuke, leading to hilarious mishaps and adventures with friends."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779924600000,
+    "stopTs": 1779928200000,
+    "title": "We Bare Bears",
+    "desc": "Three bear brothers do whatever they can to be a part of human society by doing what everyone around them does."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779928200000,
+    "stopTs": 1779931800000,
+    "title": "We Bare Bears",
+    "desc": "Three bear brothers do whatever they can to be a part of human society by doing what everyone around them does."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779931800000,
+    "stopTs": 1779933600000,
+    "title": "Lamput",
+    "desc": "A clever orange nutcase, Lamput, escapes from a hidden laboratory, thus sending scientists Slim Doc and Fat Doc in a frenzy as they try hard to capture him. However, Lamput always manages to escape."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779933600000,
+    "stopTs": 1779935400000,
+    "title": "Lamput",
+    "desc": "A clever orange nutcase, Lamput, escapes from a hidden laboratory, thus sending scientists Slim Doc and Fat Doc in a frenzy as they try hard to capture him. However, Lamput always manages to escape."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779935400000,
+    "stopTs": 1779937200000,
+    "title": "Lamput",
+    "desc": "A clever orange nutcase, Lamput, escapes from a hidden laboratory, thus sending scientists Slim Doc and Fat Doc in a frenzy as they try hard to capture him. However, Lamput always manages to escape."
+  },
+  {
+    "start": "03:00",
+    "stop": "04:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1779937200000,
+    "stopTs": 1779940800000,
+    "title": "Maca & Roni",
     "desc": "CGI 3D Animated Short Film: Maca and Roni Super Fridge Animated Short Film by Kyungmin Woo at Brickstudio."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "CartoonNetworkHDPlus.in",
+    "channelId": "CartoonNetworkHDPlus.in",
+    "channelName": "CARTOON NETWORK HD+",
+    "startTs": 1779939000000,
+    "stopTs": 1779942600000,
+    "title": "Ben 10",
+    "desc": "Ten-year-old Ben discovers a device named the Omnitrix. The device allows him to transform into 10 different alien forms replete with superpowers."
   }
 ]
