@@ -1,16 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "04:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1780282800000,
-    "stopTs": 1780286400000,
-    "title": "Bhaiya Ji Kahin",
-    "desc": "The host talks to people and learns about their opinions on various trending issues."
-  },
-  {
     "start": "03:30",
     "stop": "06:30",
     "channel": "News18India.in",
@@ -20,17 +9,6 @@
     "stopTs": 1780295400000,
     "title": "Live Coverage: Assembly Election Results 2026",
     "desc": "Watch LIVE coverage of 2026 Assembly election results with reporters on the field and experts in the studio."
-  },
-  {
-    "start": "04:00",
-    "stop": "05:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1780286400000,
-    "stopTs": 1780290000000,
-    "title": "Aar Paar",
-    "desc": "The host discusses the social and political issues of the day with a panel of experts."
   },
   {
     "start": "05:00",
@@ -449,5 +427,27 @@
     "stopTs": 1780462800000,
     "title": "Aar Paar",
     "desc": "Experts come together to discuss and analyze urgent political and social issues, offering insights and solutions on matters impacting the nation."
+  },
+  {
+    "start": "05:00",
+    "stop": "06:00",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1780462800000,
+    "stopTs": 1780466400000,
+    "title": "Desh Nahi Jhukne Dengey",
+    "desc": "&apos;Desh Nahi Jhunjon Denge&apos; launches its first show from Srinagar&apos;s iconic Lal Chowk, bringing ground reports and public voices from the heart of Kashmir."
+  },
+  {
+    "start": "06:00",
+    "stop": "07:00",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1780466400000,
+    "stopTs": 1780470000000,
+    "title": "Sau Baat Ki Ek Baat",
+    "desc": "Get an in-depth report on the day&apos;s top news stories, as the host offers valuable insights and analysis on the latest developments shaping the national and global landscape."
   }
 ]

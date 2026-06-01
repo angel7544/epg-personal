@@ -11,17 +11,6 @@
     "desc": "The host provides tips and latest updates from the stock market."
   },
   {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780290000000,
-    "stopTs": 1780291800000,
-    "title": "Midcap Masala",
-    "desc": "Explores India&apos;s midcap stocks with expert analysis, top picks, and market trends, guiding investors toward high-growth opportunities."
-  },
-  {
     "start": "05:30",
     "stop": "06:30",
     "channel": "ETNow.in",
@@ -955,5 +944,27 @@
     "stopTs": 1780462800000,
     "title": "First Trades",
     "desc": "A show that discusses stocks that have been highly volatile in trading while the stock markets open."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1780462800000,
+    "stopTs": 1780464600000,
+    "title": "Midcap Masala",
+    "desc": "Explores India&apos;s midcap stocks with expert analysis, top picks, and market trends, guiding investors toward high-growth opportunities."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1780464600000,
+    "stopTs": 1780468200000,
+    "title": "Buy Now Sell Now",
+    "desc": "A stock market show where an expert answers queries of small investors whether to hold or sell a certain stock."
   }
 ]

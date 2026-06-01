@@ -1,27 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "05:00",
-    "channel": "PublicTV.in",
-    "channelId": "PublicTV.in",
-    "channelName": "Public TV",
-    "startTs": 1780284600000,
-    "stopTs": 1780290000000,
-    "title": "Public News Live",
-    "desc": "The host presents the latest news, updates and developments of the day, live."
-  },
-  {
-    "start": "04:00",
-    "stop": "05:15",
-    "channel": "PublicTV.in",
-    "channelId": "PublicTV.in",
-    "channelName": "Public TV",
-    "startTs": 1780286400000,
-    "stopTs": 1780290900000,
-    "title": "Zindagi Fresh",
-    "desc": "Enjoy lively discussions, lifestyle tips, and entertainment for a refreshing experience."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "PublicTV.in",
@@ -31,17 +9,6 @@
     "stopTs": 1780291800000,
     "title": "Special Segment",
     "desc": "The host presents the latest updates and developments from around the world."
-  },
-  {
-    "start": "05:15",
-    "stop": "05:30",
-    "channel": "PublicTV.in",
-    "channelId": "PublicTV.in",
-    "channelName": "Public TV",
-    "startTs": 1780290900000,
-    "stopTs": 1780291800000,
-    "title": "Teleshopping",
-    "desc": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one&apos;s home."
   },
   {
     "start": "05:30",
@@ -1052,6 +1019,50 @@
     "channelName": "Public TV",
     "startTs": 1780459200000,
     "stopTs": 1780461000000,
+    "title": "Public Special",
+    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events, live."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "PublicTV.in",
+    "channelId": "PublicTV.in",
+    "channelName": "Public TV",
+    "startTs": 1780461000000,
+    "stopTs": 1780462800000,
+    "title": "Public News",
+    "desc": "Stay informed with breaking headlines, local and national updates, and insightful coverage that matters most to you every day."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "PublicTV.in",
+    "channelId": "PublicTV.in",
+    "channelName": "Public TV",
+    "startTs": 1780462800000,
+    "stopTs": 1780464600000,
+    "title": "Public Special",
+    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events, live."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "PublicTV.in",
+    "channelId": "PublicTV.in",
+    "channelName": "Public TV",
+    "startTs": 1780464600000,
+    "stopTs": 1780466400000,
+    "title": "Public News Live",
+    "desc": "Get real-time updates on major social, political, and economic events with expert analysis and diverse perspectives to keep you informed as the news unfolds."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "PublicTV.in",
+    "channelId": "PublicTV.in",
+    "channelName": "Public TV",
+    "startTs": 1780466400000,
+    "stopTs": 1780468200000,
     "title": "Public Special",
     "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events, live."
   }

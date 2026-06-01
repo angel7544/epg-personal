@@ -1,38 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "WION.in",
-    "channelId": "WION.in",
-    "channelName": "WION",
-    "startTs": 1780284600000,
-    "stopTs": 1780286400000,
-    "title": "Top Stories",
-    "desc": "The host presents some of the latest news stories, current affairs and developments."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "WION.in",
-    "channelId": "WION.in",
-    "channelName": "WION",
-    "startTs": 1780286400000,
-    "stopTs": 1780288200000,
-    "title": "World Business Watch",
-    "desc": "The host presents updates on the business and economic developments from around the world."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "WION.in",
-    "channelId": "WION.in",
-    "channelName": "WION",
-    "startTs": 1780288200000,
-    "stopTs": 1780290000000,
-    "title": "Top Stories",
-    "desc": "The host presents some of the latest news stories, current affairs and developments."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "WION.in",
@@ -1076,5 +1043,49 @@
     "stopTs": 1780461000000,
     "title": "World Business Watch",
     "desc": "Join our host as they break down the latest business and economic news from around the globe, making sense of the headlines and keeping you in the loop."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "WION.in",
+    "channelId": "WION.in",
+    "channelName": "WION",
+    "startTs": 1780461000000,
+    "stopTs": 1780462800000,
+    "title": "Top Stories",
+    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "WION.in",
+    "channelId": "WION.in",
+    "channelName": "WION",
+    "startTs": 1780462800000,
+    "stopTs": 1780464600000,
+    "title": "World Of Africa",
+    "desc": "The host explores crucial sociocultural, sociopolitical, and socioeconomic stories from Africa, highlighting developments that are transforming the quality of life across the continent."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "WION.in",
+    "channelId": "WION.in",
+    "channelName": "WION",
+    "startTs": 1780464600000,
+    "stopTs": 1780466400000,
+    "title": "Newspoint",
+    "desc": "Tune in as the host shares the latest updates and highlights from around the globe, keeping you in the loop on all the important happenings you won&apos;t want to miss!"
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "WION.in",
+    "channelId": "WION.in",
+    "channelName": "WION",
+    "startTs": 1780466400000,
+    "stopTs": 1780468200000,
+    "title": "Speed News",
+    "desc": "Reporting on top global news and events as they unfold, providing updates on significant stories and developments from around the world."
   }
 ]

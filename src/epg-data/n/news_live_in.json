@@ -1,16 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "NewsLive.in",
-    "channelId": "NewsLive.in",
-    "channelName": "NEWS LIVE",
-    "startTs": 1780284600000,
-    "stopTs": 1780288200000,
-    "title": "Good Morning Assam",
-    "desc": "The host presents the latest social, economic and political news from Assam."
-  },
-  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "NewsLive.in",
@@ -647,5 +636,38 @@
     "stopTs": 1780461000000,
     "title": "Good Morning Assam",
     "desc": "Morning news and updates with a focus on Assam&apos;s latest events and stories."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1780461000000,
+    "stopTs": 1780464600000,
+    "title": "Repeat Show",
+    "desc": "Rebroadcast of previously aired shows and episodes for viewers who missed them"
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1780464600000,
+    "stopTs": 1780466400000,
+    "title": "Assamese News",
+    "desc": "The host delivers regional, national, and international news with current updates."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1780466400000,
+    "stopTs": 1780468200000,
+    "title": "Assamese News",
+    "desc": "The host delivers regional, national, and international news with current updates."
   }
 ]

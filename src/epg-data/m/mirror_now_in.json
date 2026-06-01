@@ -1,16 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "Mirror Now",
-    "startTs": 1780284600000,
-    "stopTs": 1780288200000,
-    "title": "The Morning News",
-    "desc": "The host presents some of the key developing stories of the day and newsworthy events."
-  },
-  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "MirrorNow.in",
@@ -669,5 +658,27 @@
     "stopTs": 1780461000000,
     "title": "The Morning News",
     "desc": "The host sheds light on the latest socio-economic and political news, updates, and developments worldwide."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "MIRROR NOW",
+    "startTs": 1780461000000,
+    "stopTs": 1780464600000,
+    "title": "10 AM Ground Reality",
+    "desc": "The host provides detailed information on social issues and developments, along with public engagements."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "MIRROR NOW",
+    "startTs": 1780464600000,
+    "stopTs": 1780468200000,
+    "title": "11 AM Big Story",
+    "desc": "The anchor presents an in-depth analysis of important updates that matter to people."
   }
 ]

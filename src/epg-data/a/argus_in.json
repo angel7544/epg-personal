@@ -1,93 +1,5 @@
 [
   {
-    "start": "03:25",
-    "stop": "03:50",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "Argus",
-    "startTs": 1780284300000,
-    "stopTs": 1780285800000,
-    "title": "Sakalara Bada Khabar",
-    "desc": "The host presents a detailed insight into latest updates pertaining to socio-political issues and current affairs from around the country."
-  },
-  {
-    "start": "03:50",
-    "stop": "03:55",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "Argus",
-    "startTs": 1780285800000,
-    "stopTs": 1780286100000,
-    "title": "5 Min 25 Khabar",
-    "desc": "The host presents a comprehensive and detailed coverage of the top twenty-five latest news and developments in five minutes."
-  },
-  {
-    "start": "03:55",
-    "stop": "04:25",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "Argus",
-    "startTs": 1780286100000,
-    "stopTs": 1780287900000,
-    "title": "E3",
-    "desc": "The host presents the most recent updates and developments from the world of entertainment and also sheds light on upcoming movies."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "ARGUS",
-    "startTs": 1780286400000,
-    "stopTs": 1780288200000,
-    "title": "Mahapanchayat",
-    "desc": "The host interacts with common people of Odisha and asks their opinion on various trending news topics."
-  },
-  {
-    "start": "04:25",
-    "stop": "04:55",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "Argus",
-    "startTs": 1780287900000,
-    "stopTs": 1780289700000,
-    "title": "Argus Big Breaking Live",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "ARGUS",
-    "startTs": 1780288200000,
-    "stopTs": 1780290000000,
-    "title": "Argus Big Breaking Live",
-    "desc": "Special news segments explore noteworthy stories, bringing context and expert insight to audiences."
-  },
-  {
-    "start": "04:55",
-    "stop": "05:25",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "Argus",
-    "startTs": 1780289700000,
-    "stopTs": 1780291500000,
-    "title": "Nua Sankalpa Nua Udana",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "ARGUS",
-    "startTs": 1780290000000,
-    "stopTs": 1780291800000,
-    "title": "Badasahara Badakhabar",
-    "desc": "Critical news updates offer insight into current affairs, policy changes, and developments affecting society."
-  },
-  {
     "start": "05:25",
     "stop": "05:55",
     "channel": "ArgusNews.in",
@@ -99,26 +11,15 @@
     "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
-    "start": "05:30",
-    "stop": "05:55",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "ARGUS",
-    "startTs": 1780291800000,
-    "stopTs": 1780293300000,
-    "title": "Argus Big Breaking Live",
-    "desc": "Special news segments explore noteworthy stories, bringing context and expert insight to audiences."
-  },
-  {
     "start": "05:55",
-    "stop": "06:00",
+    "stop": "06:25",
     "channel": "ArgusNews.in",
     "channelId": "ArgusNews.in",
-    "channelName": "ARGUS",
+    "channelName": "Argus",
     "startTs": 1780293300000,
-    "stopTs": 1780293600000,
-    "title": "Top5 Viral",
-    "desc": "A host delivers current world news on social, economic, and political topics, sharing clear, practical information about recent events and what they mean for viewers tonight."
+    "stopTs": 1780295100000,
+    "title": "Big Breaking Live",
+    "desc": "The host sheds light on the latest news and updates regarding various issues from across the country and the world, live."
   },
   {
     "start": "06:00",
@@ -1593,5 +1494,60 @@
     "stopTs": 1780461000000,
     "title": "Argus Special",
     "desc": "Regional and national stories are covered, emphasizing relevance, accuracy, and public interest."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "ArgusNews.in",
+    "channelId": "ArgusNews.in",
+    "channelName": "ARGUS",
+    "startTs": 1780461000000,
+    "stopTs": 1780462800000,
+    "title": "Argus Big Breaking Live",
+    "desc": "Special news segments explore noteworthy stories, bringing context and expert insight to audiences."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "ArgusNews.in",
+    "channelId": "ArgusNews.in",
+    "channelName": "ARGUS",
+    "startTs": 1780462800000,
+    "stopTs": 1780464600000,
+    "title": "Badasahara Badakhabar",
+    "desc": "Critical news updates offer insight into current affairs, policy changes, and developments affecting society."
+  },
+  {
+    "start": "05:30",
+    "stop": "05:55",
+    "channel": "ArgusNews.in",
+    "channelId": "ArgusNews.in",
+    "channelName": "ARGUS",
+    "startTs": 1780464600000,
+    "stopTs": 1780466100000,
+    "title": "Argus Big Breaking Live",
+    "desc": "Special news segments explore noteworthy stories, bringing context and expert insight to audiences."
+  },
+  {
+    "start": "05:55",
+    "stop": "06:00",
+    "channel": "ArgusNews.in",
+    "channelId": "ArgusNews.in",
+    "channelName": "ARGUS",
+    "startTs": 1780466100000,
+    "stopTs": 1780466400000,
+    "title": "Top5 Viral",
+    "desc": "A host delivers current world news on social, economic, and political topics, sharing clear, practical information about recent events and what they mean for viewers tonight."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "ArgusNews.in",
+    "channelId": "ArgusNews.in",
+    "channelName": "ARGUS",
+    "startTs": 1780466400000,
+    "stopTs": 1780468200000,
+    "title": "Argus Big Breaking Live",
+    "desc": "Special news segments explore noteworthy stories, bringing context and expert insight to audiences."
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "BIGTV.in",
-    "channelId": "BIGTV.in",
-    "channelName": "Big Tv",
-    "startTs": 1780284600000,
-    "stopTs": 1780288200000,
-    "title": "Big News @9AM",
-    "desc": "The anchor presents the latest news updates from the world of politics, economics, entertainment and sports."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "BIGTV.in",
-    "channelId": "BIGTV.in",
-    "channelName": "Big Tv",
-    "startTs": 1780288200000,
-    "stopTs": 1780291800000,
-    "title": "Big News @10AM",
-    "desc": "The anchor presents the latest news updates from the world of politics, economics, entertainment and sports."
-  },
-  {
     "start": "05:30",
     "stop": "06:30",
     "channel": "BIGTV.in",
@@ -823,5 +801,27 @@
     "stopTs": 1780461000000,
     "title": "Big News @ 9Am",
     "desc": "A 9 AM bulletin featuring important news from politics, health, and business, offering crisp summaries and key interviews to set the tone for the day."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "BIGTV.in",
+    "channelId": "BIGTV.in",
+    "channelName": "Big Tv",
+    "startTs": 1780461000000,
+    "stopTs": 1780464600000,
+    "title": "Big News @ 10 AM",
+    "desc": "The host presents the latest socio-economic and political news and also provides comprehensive updates on the most significant developments which is making headlines."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "BIGTV.in",
+    "channelId": "BIGTV.in",
+    "channelName": "Big Tv",
+    "startTs": 1780464600000,
+    "stopTs": 1780468200000,
+    "title": "Big News @ 11Am",
+    "desc": "A mid-morning news bulletin featuring the latest updates, breaking headlines, and relevant national and global developments shaping the day&apos;s top stories at 11 AM."
   }
 ]

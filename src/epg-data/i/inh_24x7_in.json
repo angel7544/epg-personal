@@ -1,60 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "INH24x7.in",
-    "channelId": "INH24x7.in",
-    "channelName": "INH 24X7",
-    "startTs": 1780284600000,
-    "stopTs": 1780286400000,
-    "title": "News Update @ 9",
-    "desc": "The host presents updates pertaining to socio-political issues from around the world."
-  },
-  {
-    "start": "03:55",
-    "stop": "04:25",
-    "channel": "INH24x7.in",
-    "channelId": "INH24x7.in",
-    "channelName": "INH 24X7",
-    "startTs": 1780286100000,
-    "stopTs": 1780287900000,
-    "title": "930 R",
-    "desc": "The 930 R news program presents the latest social, political, and economic updates from India and worldwide, delivering concise insights and in-depth coverage on current affairs."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "INH24x7.in",
-    "channelId": "INH24x7.in",
-    "channelName": "INH 24X7",
-    "startTs": 1780286400000,
-    "stopTs": 1780288200000,
-    "title": "Prime Time",
-    "desc": "The host presents the latest developments and events on crucial matters."
-  },
-  {
-    "start": "04:25",
-    "stop": "05:00",
-    "channel": "INH24x7.in",
-    "channelId": "INH24x7.in",
-    "channelName": "INH 24X7",
-    "startTs": 1780287900000,
-    "stopTs": 1780290000000,
-    "title": "Khabar Madhya Pradesh",
-    "desc": "The host delivers comprehensive and detailed news updates focused on Madhya?Pradesh, covering social, political, and economic developments from across the state and region."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "INH24x7.in",
-    "channelId": "INH24x7.in",
-    "channelName": "INH 24X7",
-    "startTs": 1780288200000,
-    "stopTs": 1780290000000,
-    "title": "Madhya Pradesh Live",
-    "desc": "The host collates and presents important news updates from Madhya Pradesh, live."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "INH24x7.in",
@@ -64,17 +9,6 @@
     "stopTs": 1780291800000,
     "title": "Sarthak Samvad Dr. Himanshu Dwivedi Ke Sath",
     "desc": "Dr Himanshu Dwivedi discusses important issues with political personalities in depth."
-  },
-  {
-    "start": "05:25",
-    "stop": "05:55",
-    "channel": "INH24x7.in",
-    "channelId": "INH24x7.in",
-    "channelName": "INH 24X7",
-    "startTs": 1780291500000,
-    "stopTs": 1780293300000,
-    "title": "Breaking @ 11",
-    "desc": "This show gives detailed news about what&apos;s happening in society, politics, and the economy. It follows important changes both at home and around the world."
   },
   {
     "start": "05:30",
@@ -1637,5 +1571,49 @@
     "stopTs": 1780460700000,
     "title": "930 R",
     "desc": "The 930 R news program presents the latest social, political, and economic updates from India and worldwide, delivering concise insights and in-depth coverage on current affairs."
+  },
+  {
+    "start": "04:25",
+    "stop": "05:00",
+    "channel": "INH24x7.in",
+    "channelId": "INH24x7.in",
+    "channelName": "INH 24X7",
+    "startTs": 1780460700000,
+    "stopTs": 1780462800000,
+    "title": "Khabar Madhya Pradesh",
+    "desc": "The host delivers comprehensive and detailed news updates focused on Madhya?Pradesh, covering social, political, and economic developments from across the state and region."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:25",
+    "channel": "INH24x7.in",
+    "channelId": "INH24x7.in",
+    "channelName": "INH 24X7",
+    "startTs": 1780462800000,
+    "stopTs": 1780464300000,
+    "title": "Khabar Chhattisgarh",
+    "desc": "The host delivers the latest updates and developments on social, economic, and political issues in Chhattisgarh, offering viewers comprehensive insights into the state&apos;s current affairs."
+  },
+  {
+    "start": "05:25",
+    "stop": "05:55",
+    "channel": "INH24x7.in",
+    "channelId": "INH24x7.in",
+    "channelName": "INH 24X7",
+    "startTs": 1780464300000,
+    "stopTs": 1780466100000,
+    "title": "Breaking @ 11",
+    "desc": "This show gives detailed news about what&apos;s happening in society, politics, and the economy. It follows important changes both at home and around the world."
+  },
+  {
+    "start": "05:55",
+    "stop": "06:25",
+    "channel": "INH24x7.in",
+    "channelId": "INH24x7.in",
+    "channelName": "INH 24X7",
+    "startTs": 1780466100000,
+    "stopTs": 1780467900000,
+    "title": "Super 60",
+    "desc": "The host presents the top 60 news stories and developments pertaining to various social, political, and economic issues of the nation. The show offers in-depth analysis and comprehensive coverage."
   }
 ]

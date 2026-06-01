@@ -1,27 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1780284600000,
-    "stopTs": 1780288200000,
-    "title": "Bazaar Open Exchange",
-    "desc": "The host provides the latest news and updates related to the stock markets."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1780288200000,
-    "stopTs": 1780290000000,
-    "title": "Bazaar Corporate Radar",
-    "desc": "The host invites the top businessmen and economists to offer their views on the market."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "CNBCTV18.in",
@@ -779,5 +757,38 @@
     "stopTs": 1780461000000,
     "title": "Bazaar Open Exchange",
     "desc": "In-depth look at opening bell trends, market buzz, and stock picks. Tailored for investors eager to begin their trading day with sharp strategies."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1780461000000,
+    "stopTs": 1780462800000,
+    "title": "Bazaar Corporate Radar",
+    "desc": "Read into the minds of fund managers, global economists and sector analysts."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1780462800000,
+    "stopTs": 1780464600000,
+    "title": "Chartbusters",
+    "desc": "Viewers are guided with useful tips where and how to invest in stock markets."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1780464600000,
+    "stopTs": 1780468200000,
+    "title": "Trading Hour",
+    "desc": "Financial analysts present latest news and updates regarding trading of shares and stock."
   }
 ]

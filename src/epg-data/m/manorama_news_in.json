@@ -1,16 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "ManoramaNews.in",
-    "channelId": "ManoramaNews.in",
-    "channelName": "Manorama News",
-    "startTs": 1780284600000,
-    "stopTs": 1780288200000,
-    "title": "News Break",
-    "desc": "The host shares the latest news stories, updates and developments from different spheres."
-  },
-  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "ManoramaNews.in",
@@ -889,5 +878,27 @@
     "stopTs": 1780461000000,
     "title": "9:00Am News Break",
     "desc": "9:00Am News Break"
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "ManoramaNews.in",
+    "channelId": "ManoramaNews.in",
+    "channelName": "Manorama News",
+    "startTs": 1780461000000,
+    "stopTs": 1780464600000,
+    "title": "10.00 AM News Break",
+    "desc": "A fast-paced news update delivering top headlines, breaking stories, and important local and global developments."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "ManoramaNews.in",
+    "channelId": "ManoramaNews.in",
+    "channelName": "Manorama News",
+    "startTs": 1780464600000,
+    "stopTs": 1780468200000,
+    "title": "11.00 AM News Break",
+    "desc": "A crisp news bulletin bringing the latest updates, key events, and essential information to start the day informed."
   }
 ]

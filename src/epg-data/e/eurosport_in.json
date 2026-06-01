@@ -1,16 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "04:30",
-    "channel": "EurosportHD.in",
-    "channelId": "EurosportHD.in",
-    "channelName": "Eurosport HD",
-    "startTs": 1780281000000,
-    "stopTs": 1780288200000,
-    "title": "AEW Collision",
-    "desc": "Popular pro-wrestlers compete against each other in fights every Saturday."
-  },
-  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "EurosportHD.in",
@@ -62,8 +51,8 @@
     "channelName": "Eurosport HD",
     "startTs": 1780313400000,
     "stopTs": 1780317000000,
-    "title": "Grand Prix of Hungary-MotoGP Racing",
-    "desc": "Grand Prix of Hungary;From Balaton Park Circuit in Hungary."
+    "title": "Brembo Grand Prix of Italy-MotoGP Racing",
+    "desc": "Brembo Grand Prix of Italy;From Mugello Circuit in Tuscany, Italy."
   },
   {
     "start": "12:30",
@@ -383,5 +372,27 @@
     "stopTs": 1780461000000,
     "title": "TNA Xplosion",
     "desc": "Features exclusive rematch, historical matches, pop culture roundtable discussions, plus recaps of Impact Wrestling."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1780461000000,
+    "stopTs": 1780464600000,
+    "title": "TNA Wrestling: Pehalwani Patakha",
+    "desc": "Pehlwani Patakha showcases top highlights from TNA&apos;s flagship series TNA iMPACT!, as well as iconic moments from TNA&apos;s storied legacy spanning more than two decades."
+  },
+  {
+    "start": "05:30",
+    "stop": "07:30",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1780464600000,
+    "stopTs": 1780471800000,
+    "title": "Major League Soccer",
+    "desc": "America&apos;s top football league featuring global stars, intense rivalries and spectacular goals as teams battle for the MLS Cup in live and highlight action."
   }
 ]

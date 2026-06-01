@@ -1,16 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "TimesNow.in",
-    "channelId": "TimesNow.in",
-    "channelName": "TIMES NOW",
-    "startTs": 1780284600000,
-    "stopTs": 1780288200000,
-    "title": "The Morning Newshour",
-    "desc": "The host provides a detailed report on matters concerning the nation and the world."
-  },
-  {
     "start": "04:30",
     "stop": "07:00",
     "channel": "TimesNow.in",
@@ -614,5 +603,27 @@
     "stopTs": 1780461000000,
     "title": "The Morning Newshour",
     "desc": "The host talks to a panel of experts about several issues that take place across the country."
+  },
+  {
+    "start": "04:30",
+    "stop": "06:00",
+    "channel": "TimesNow.in",
+    "channelId": "TimesNow.in",
+    "channelName": "TIMES NOW",
+    "startTs": 1780461000000,
+    "stopTs": 1780466400000,
+    "title": "Times Now Live",
+    "desc": "Get ready for an exclusive interview show! See your beloved stars share personal stories. Discover their paths to success. Learn about their lives in a new way."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "TimesNow.in",
+    "channelId": "TimesNow.in",
+    "channelName": "TIMES NOW",
+    "startTs": 1780466400000,
+    "stopTs": 1780468200000,
+    "title": "Times Now Live",
+    "desc": "Get ready for an exclusive interview show! See your beloved stars share personal stories. Discover their paths to success. Learn about their lives in a new way."
   }
 ]

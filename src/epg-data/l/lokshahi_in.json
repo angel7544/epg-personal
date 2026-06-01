@@ -1,58 +1,25 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
+    "start": "05:00",
+    "stop": "05:30",
     "channel": "LOKSHAHI.in",
     "channelId": "LOKSHAHI.in",
     "channelName": "LOKSHAHI",
-    "startTs": 1780284600000,
-    "stopTs": 1780286400000,
-    "title": "5 Mins 25 Batmya / Headlines / Bulletin",
-    "desc": "The host delivers the latest headlines and updates in a timely manner; a presenter provides a quick and informative overview of key events as well as developments."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "LokshahiNews.in",
-    "channelId": "LokshahiNews.in",
-    "channelName": "Lokshahi",
-    "startTs": 1780286400000,
-    "stopTs": 1780288200000,
-    "title": "25 Minitat 25 Batmya",
-    "desc": "The host reviews key news updates; stay informed with daily happenings!"
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "LokshahiNews.in",
-    "channelId": "LokshahiNews.in",
-    "channelName": "Lokshahi",
-    "startTs": 1780288200000,
-    "stopTs": 1780290000000,
-    "title": "Lokshahi Khabatbat",
-    "desc": "Comprehensive updates on current political and socio-economic affairs-watch now!"
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "LokshahiNews.in",
-    "channelId": "LokshahiNews.in",
-    "channelName": "Lokshahi",
     "startTs": 1780290000000,
     "stopTs": 1780291800000,
-    "title": "Maharashtra Expres 100",
-    "desc": "This program is all about based on the Maharashtra Expres 100."
+    "title": "Top 10 / Headlines / Breaking News / Top 20 / Top 15",
+    "desc": "The host presents the top news stories surrounding various social, political and economic issues; the presenter provides the latest headlines on relevant current events."
   },
   {
     "start": "05:30",
     "stop": "06:00",
-    "channel": "LokshahiNews.in",
-    "channelId": "LokshahiNews.in",
-    "channelName": "Lokshahi",
+    "channel": "LOKSHAHI.in",
+    "channelId": "LOKSHAHI.in",
+    "channelName": "LOKSHAHI",
     "startTs": 1780291800000,
     "stopTs": 1780293600000,
-    "title": "Lokshahi Update - News",
-    "desc": "The host collates and presents the latest social, political and economic news updates."
+    "title": "5 Mins 25 Batmya / Headlines / Bulletin",
+    "desc": "The host delivers the latest headlines and updates in a timely manner; a presenter provides a quick and informative overview of key events as well as developments."
   },
   {
     "start": "06:00",
@@ -1109,5 +1076,49 @@
     "stopTs": 1780461000000,
     "title": "25 Minitat 25 Batmya",
     "desc": "The host reviews key news updates; stay informed with daily happenings!"
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "LokshahiNews.in",
+    "channelId": "LokshahiNews.in",
+    "channelName": "Lokshahi",
+    "startTs": 1780461000000,
+    "stopTs": 1780462800000,
+    "title": "Lokshahi Khabatbat",
+    "desc": "Comprehensive updates on current political and socio-economic affairs-watch now!"
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "LokshahiNews.in",
+    "channelId": "LokshahiNews.in",
+    "channelName": "Lokshahi",
+    "startTs": 1780462800000,
+    "stopTs": 1780464600000,
+    "title": "Maharashtra Expres 100",
+    "desc": "This program is all about based on the Maharashtra Expres 100."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "LokshahiNews.in",
+    "channelId": "LokshahiNews.in",
+    "channelName": "Lokshahi",
+    "startTs": 1780464600000,
+    "stopTs": 1780466400000,
+    "title": "Lokshahi Update - News",
+    "desc": "The host collates and presents the latest social, political and economic news updates."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "LokshahiNews.in",
+    "channelId": "LokshahiNews.in",
+    "channelName": "Lokshahi",
+    "startTs": 1780466400000,
+    "stopTs": 1780468200000,
+    "title": "Bullet News 50",
+    "desc": "Catch Bullet News 50 for quick, essential updates and highlights!"
   }
 ]

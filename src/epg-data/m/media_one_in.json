@@ -1,16 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1780284600000,
-    "stopTs": 1780288200000,
-    "title": "News @ 9",
-    "desc": "The host presents the latest news updates and developments from a range of spheres."
-  },
-  {
     "start": "04:30",
     "stop": "06:00",
     "channel": "MediaOne.in",
@@ -790,5 +779,27 @@
     "stopTs": 1780461000000,
     "title": "News Morning",
     "desc": "Start your day with the latest news updates-tune in now!"
+  },
+  {
+    "start": "04:30",
+    "stop": "06:00",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1780461000000,
+    "stopTs": 1780466400000,
+    "title": "Zero Hour",
+    "desc": "Telecast of the latest news and updates as well as expert analysis of the elections."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1780466400000,
+    "stopTs": 1780468200000,
+    "title": "Fast News",
+    "desc": "Stay updated with quick headlines and essential news-watch Fast News!"
   }
 ]

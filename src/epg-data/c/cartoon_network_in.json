@@ -1,58 +1,14 @@
 [
   {
-    "start": "03:00",
-    "stop": "04:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1780282800000,
-    "stopTs": 1780286400000,
-    "title": "Maca & Roni",
-    "desc": "Meet Maca and Ronnie, mischievous inventors who assist Dr. Albert in his laboratory."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
+    "start": "04:30",
+    "stop": "05:30",
     "channel": "CartoonNetworkHDPlus.in",
     "channelId": "CartoonNetworkHDPlus.in",
     "channelName": "Cartoon Network HD+",
-    "startTs": 1780284600000,
-    "stopTs": 1780288200000,
-    "title": "Ben 10",
-    "desc": "A young boy discovers and uses a device that helps him transform into various aliens."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:20",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1780286400000,
-    "stopTs": 1780287600000,
-    "title": "Maca & Roni",
-    "desc": "Meet Maca and Ronnie, mischievous inventors who assist Dr. Albert in his laboratory."
-  },
-  {
-    "start": "04:20",
-    "stop": "04:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1780287600000,
-    "stopTs": 1780288200000,
-    "title": "Maca & Roni",
-    "desc": "Meet Maca and Ronnie, mischievous inventors who assist Dr. Albert in his laboratory."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:15",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
     "startTs": 1780288200000,
-    "stopTs": 1780290900000,
-    "title": "Baby Lemmings",
-    "desc": "Baby Lemmings try to overcome challenges as they navigate the world."
+    "stopTs": 1780291800000,
+    "title": "Teen Titans GO!",
+    "desc": "A group of quirky young heroes balance crime-fighting with everyday antics and fun."
   },
   {
     "start": "05:15",
@@ -944,5 +900,49 @@
     "stopTs": 1780461000000,
     "title": "Maca & Roni",
     "desc": "CGI 3D Animated Short Film: Maca and Roni Super Fridge Animated Short Film by Kyungmin Woo at Brickstudio."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:15",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1780461000000,
+    "stopTs": 1780463700000,
+    "title": "Baby Lemmings",
+    "desc": "A lively animated adventure following mischievous baby lemmings as they create hilarious chaos, unexpected situations and playful fun while discovering friendship and teamwork together."
+  },
+  {
+    "start": "05:15",
+    "stop": "06:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1780463700000,
+    "stopTs": 1780466400000,
+    "title": "Wafadaar Oggy",
+    "desc": "Animated series for children."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "CartoonNetworkHDPlus.in",
+    "channelId": "CartoonNetworkHDPlus.in",
+    "channelName": "CARTOON NETWORK HD+",
+    "startTs": 1780464600000,
+    "stopTs": 1780468200000,
+    "title": "Teen Titans Go",
+    "desc": "This series hilariously explores the everyday lives of teen superheroes, revealing the challenges and laughs that come when they hang up their capes and navigate life as ordinary kids."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1780466400000,
+    "stopTs": 1780468200000,
+    "title": "Ben 10 Ultimate Alien",
+    "desc": "Armed with a mysterious new Omnitrix, Ben is ready for action in a whole set of new places."
   }
 ]

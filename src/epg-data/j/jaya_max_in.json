@@ -1,14 +1,14 @@
 [
   {
     "start": "03:30",
-    "stop": "04:30",
+    "stop": "06:30",
     "channel": "JayaMax.in",
     "channelId": "JayaMax.in",
     "channelName": "Jaya Max",
     "startTs": 1780284600000,
-    "stopTs": 1780288200000,
-    "title": "Song For You",
-    "desc": "A comprehensive compilation of famous songs from popular Tamil movies is presented."
+    "stopTs": 1780295400000,
+    "title": "Movie",
+    "desc": "Movie name is yet to be announced by this channel."
   },
   {
     "start": "04:30",
@@ -471,5 +471,27 @@
     "stopTs": 1780461000000,
     "title": "SFU - Song For You",
     "desc": "Song For You on Jaya Max showcases the latest and most popular Tamil film songs, offering a continuous stream of hit music."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "JayaMax.in",
+    "channelId": "JayaMax.in",
+    "channelName": "Jaya Max",
+    "startTs": 1780461000000,
+    "stopTs": 1780464600000,
+    "title": "Max Mix",
+    "desc": "Tune into a playlist comprising some of the best Tollywood songs of all time."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "JayaMax.in",
+    "channelId": "JayaMax.in",
+    "channelName": "Jaya Max",
+    "startTs": 1780464600000,
+    "stopTs": 1780468200000,
+    "title": "Hit Box",
+    "desc": "Tune into a comprehensive compilation of some of the most popular hits of all time."
   }
 ]

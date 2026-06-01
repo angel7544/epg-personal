@@ -1,38 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1780284600000,
-    "stopTs": 1780286400000,
-    "title": "Kalinga Khabar",
-    "desc": "The host sheds light on the latest news updates and developments pertaining to various pressing issues from the state of Odisha."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1780286400000,
-    "stopTs": 1780288200000,
-    "title": "Kalinga Express",
-    "desc": "A new bulletin program with stories and updates from worldwide."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1780288200000,
-    "stopTs": 1780290000000,
-    "title": "Breaking@10",
-    "desc": "Breaking developments and urgent headlines are presented with live updates, on ground reports and expert insights on the latest unfolding events."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "KalingaTV.in",
@@ -40,8 +7,8 @@
     "channelName": "Kalinga TV",
     "startTs": 1780290000000,
     "stopTs": 1780291800000,
-    "title": "Tike Halchal Tike Hulchul",
-    "desc": "Two people from feuding families pretend to fall in love for revenge, but their staged romance turns real, sparking chaos and reshaping loyalties within feud."
+    "title": "Dekh khabar.. Round Up",
+    "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the world."
   },
   {
     "start": "05:30",
@@ -52,7 +19,7 @@
     "startTs": 1780291800000,
     "stopTs": 1780293600000,
     "title": "News Alert",
-    "desc": "Join discussion on socio-economic and political news, and updates making headlines."
+    "desc": "The host presents a detailed report of the latest news updates and key developments from political, socio-economic and sports fronts."
   },
   {
     "start": "06:00",
@@ -1208,5 +1175,49 @@
     "stopTs": 1780461000000,
     "title": "Kalinga Express",
     "desc": "A new bulletin program with stories and updates from worldwide."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1780461000000,
+    "stopTs": 1780462800000,
+    "title": "Breaking@10",
+    "desc": "Breaking developments and urgent headlines are presented with live updates, on ground reports and expert insights on the latest unfolding events."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1780462800000,
+    "stopTs": 1780464600000,
+    "title": "Niara Manisha",
+    "desc": "Niara Manisha portrays unique human journeys, weaving heartfelt stories of resilience, values, and everyday experiences that inspire reflection and connect with audiences deeply."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1780464600000,
+    "stopTs": 1780466400000,
+    "title": "News Alert",
+    "desc": "Join discussion on socio-economic and political news, and updates making headlines."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:25",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1780466400000,
+    "stopTs": 1780467900000,
+    "title": "News Alert",
+    "desc": "Join discussion on socio-economic and political news, and updates making headlines."
   }
 ]

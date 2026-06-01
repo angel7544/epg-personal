@@ -1,38 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "IBC24.in",
-    "channelId": "IBC24.in",
-    "channelName": "IBC24",
-    "startTs": 1780284600000,
-    "stopTs": 1780286400000,
-    "title": "Fast 50",
-    "desc": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "IBC24.in",
-    "channelId": "IBC24.in",
-    "channelName": "IBC24",
-    "startTs": 1780286400000,
-    "stopTs": 1780288200000,
-    "title": "Fast 50",
-    "desc": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "IBC24.in",
-    "channelId": "IBC24.in",
-    "channelName": "IBC24",
-    "startTs": 1780288200000,
-    "stopTs": 1780290000000,
-    "title": "Khabar 10 Baje",
-    "desc": "A daily news bulletin where all state, national, international, business, sports and entertainment news is available."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "IBC24.in",
@@ -41,7 +8,7 @@
     "startTs": 1780290000000,
     "stopTs": 1780291800000,
     "title": "Fast 50",
-    "desc": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues."
+    "desc": "The presenter offers insights into the top 50 of the latest social-cultural, political and economic issues transpiring across the globe."
   },
   {
     "start": "05:30",
@@ -52,7 +19,7 @@
     "startTs": 1780291800000,
     "stopTs": 1780293600000,
     "title": "City 11",
-    "desc": "The host delivers the latest national news updates and developments pertaining to politics, economy and socio-cultural affairs."
+    "desc": "The host delivers the latest national news updates and developments pertaining to politics, economy and sociocultural affairs."
   },
   {
     "start": "06:00",
@@ -1131,5 +1098,49 @@
     "stopTs": 1780461000000,
     "title": "Lockup",
     "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1780461000000,
+    "stopTs": 1780462800000,
+    "title": "Khabar 10 Baje",
+    "desc": "A daily news bulletin where all state, national, international, business, sports and entertainment news is available."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1780462800000,
+    "stopTs": 1780464600000,
+    "title": "Fast 50",
+    "desc": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1780464600000,
+    "stopTs": 1780466400000,
+    "title": "City 11",
+    "desc": "The host delivers the latest national news updates and developments pertaining to politics, economy and socio-cultural affairs."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "IBC24.in",
+    "channelId": "IBC24.in",
+    "channelName": "IBC24",
+    "startTs": 1780466400000,
+    "stopTs": 1780468200000,
+    "title": "Fast 50",
+    "desc": "The host sheds light on the latest updates and developments from various spheres including business, politics and social issues."
   }
 ]

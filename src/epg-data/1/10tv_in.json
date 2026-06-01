@@ -1,60 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "10TV.in",
-    "channelId": "10TV.in",
-    "channelName": "10TV",
-    "startTs": 1780284600000,
-    "stopTs": 1780286400000,
-    "title": "9 AM News",
-    "desc": "The host sheds light on the latest news, updates and developments ranging across diverse issues happening around the country."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:27",
-    "channel": "10TV.in",
-    "channelId": "10TV.in",
-    "channelName": "10TV",
-    "startTs": 1780286400000,
-    "stopTs": 1780288020000,
-    "title": "Big Story",
-    "desc": "A news anchor reports the day&apos;s important national stories. They cover politics, the economy, and other key events from across the country, providing a detailed look."
-  },
-  {
-    "start": "04:27",
-    "stop": "04:30",
-    "channel": "10TV.in",
-    "channelId": "10TV.in",
-    "channelName": "10TV",
-    "startTs": 1780288020000,
-    "stopTs": 1780288200000,
-    "title": "2 Minutes 12 Headlines",
-    "desc": "The host collates and presents some of the most important news, updates and developments of the day in quick succession."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:27",
-    "channel": "10TV.in",
-    "channelId": "10TV.in",
-    "channelName": "10TV",
-    "startTs": 1780288200000,
-    "stopTs": 1780291620000,
-    "title": "10 AM News",
-    "desc": "The anchor presents the latest and most important socio-economic and political news, updates and developments of the day."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:27",
-    "channel": "10TV.in",
-    "channelId": "10TV.in",
-    "channelName": "10TV",
-    "startTs": 1780290000000,
-    "stopTs": 1780291620000,
-    "title": "Adrustam Live",
-    "desc": "An eminent astrologer provides insight and guidance regarding horoscopes and makes predictions for the various zodiac signs, live."
-  },
-  {
     "start": "05:27",
     "stop": "05:30",
     "channel": "10TV.in",
@@ -63,7 +8,7 @@
     "startTs": 1780291620000,
     "stopTs": 1780291800000,
     "title": "2 Minutes 12 Headlines",
-    "desc": "The host collates and presents some of the most important news, updates and developments of the day in quick succession."
+    "desc": "The host delivers twelve key headlines covering topics like governance, social issues, economics, sports, and politics, all within a concise two-minute segment."
   },
   {
     "start": "05:30",
@@ -1263,5 +1208,49 @@
     "stopTs": 1780460820000,
     "title": "10 Max",
     "desc": "Get the newest Tollywood news! Our site has celebrity gossip and updates for movie fans. Stay in the know about your favorite stars and films."
+  },
+  {
+    "start": "04:27",
+    "stop": "04:30",
+    "channel": "10TV.in",
+    "channelId": "10TV.in",
+    "channelName": "10TV",
+    "startTs": 1780460820000,
+    "stopTs": 1780461000000,
+    "title": "2 Minutes 12 Headlines",
+    "desc": "The host collates and presents some of the most important news, updates and developments of the day in quick succession."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:27",
+    "channel": "10TV.in",
+    "channelId": "10TV.in",
+    "channelName": "10TV",
+    "startTs": 1780461000000,
+    "stopTs": 1780464420000,
+    "title": "10 AM News",
+    "desc": "The anchor presents the latest and most important socio-economic and political news, updates and developments of the day."
+  },
+  {
+    "start": "05:27",
+    "stop": "05:30",
+    "channel": "10TV.in",
+    "channelId": "10TV.in",
+    "channelName": "10TV",
+    "startTs": 1780464420000,
+    "stopTs": 1780464600000,
+    "title": "2 Minutes 12 Headlines",
+    "desc": "The host collates and presents some of the most important news, updates and developments of the day in quick succession."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:27",
+    "channel": "10TV.in",
+    "channelId": "10TV.in",
+    "channelName": "10TV",
+    "startTs": 1780464600000,
+    "stopTs": 1780468020000,
+    "title": "11 AM News",
+    "desc": "The host presents the latest social, political and economic news updates and speaks about the recent developments from around the world."
   }
 ]

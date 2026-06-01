@@ -1,49 +1,5 @@
 [
   {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "CVRNews.in",
-    "channelId": "CVRNews.in",
-    "channelName": "CVR NEWS1",
-    "startTs": 1780286400000,
-    "stopTs": 1780288200000,
-    "title": "Big Story",
-    "desc": "The host presents the most significant news update of the current day."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "CVRNews.in",
-    "channelId": "CVRNews.in",
-    "channelName": "CVR NEWS1",
-    "startTs": 1780288200000,
-    "stopTs": 1780290000000,
-    "title": "10AM News",
-    "desc": "The anchor delivers the latest news updates across politics, economics, entertainment, and sports, keeping viewers informed on key developments in each area."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "CVRNews.in",
-    "channelId": "CVRNews.in",
-    "channelName": "CVR NEWS1",
-    "startTs": 1780290000000,
-    "stopTs": 1780291800000,
-    "title": "News/Drive",
-    "desc": "The host discusses major news stories about the coronavirus outbreak, focusing on its developments and precautionary methods to keep the public informed and safe."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "CVRNews.in",
-    "channelId": "CVRNews.in",
-    "channelName": "CVR NEWS1",
-    "startTs": 1780291800000,
-    "stopTs": 1780293600000,
-    "title": "11 AM News",
-    "desc": "The host shares the latest updates on social, political, and economic news, discussing recent global developments and their significance for viewers."
-  },
-  {
     "start": "06:00",
     "stop": "06:30",
     "channel": "CVRNews.in",
@@ -1043,5 +999,49 @@
     "stopTs": 1780461000000,
     "title": "Big Story",
     "desc": "The host presents the most significant news update of the current day."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "CVRNews.in",
+    "channelId": "CVRNews.in",
+    "channelName": "CVR NEWS1",
+    "startTs": 1780461000000,
+    "stopTs": 1780462800000,
+    "title": "10AM News",
+    "desc": "The anchor delivers the latest news updates across politics, economics, entertainment, and sports, keeping viewers informed on key developments in each area."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "CVRNews.in",
+    "channelId": "CVRNews.in",
+    "channelName": "CVR NEWS1",
+    "startTs": 1780462800000,
+    "stopTs": 1780464600000,
+    "title": "News/Drive",
+    "desc": "The host discusses major news stories about the coronavirus outbreak, focusing on its developments and precautionary methods to keep the public informed and safe."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "CVRNews.in",
+    "channelId": "CVRNews.in",
+    "channelName": "CVR NEWS1",
+    "startTs": 1780464600000,
+    "stopTs": 1780466400000,
+    "title": "11 AM News",
+    "desc": "The host shares the latest updates on social, political, and economic news, discussing recent global developments and their significance for viewers."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "CVRNews.in",
+    "channelId": "CVRNews.in",
+    "channelName": "CVR NEWS1",
+    "startTs": 1780466400000,
+    "stopTs": 1780468200000,
+    "title": "Spl Drive",
+    "desc": "The host discusses recent traffic developments in Hyderabad, India, highlighting law enforcement initiatives aimed at enhancing road conditions and improving safety."
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1780284600000,
-    "stopTs": 1780288200000,
-    "title": "9 Mani Vartha",
-    "desc": "The host presents a detailed report of the latest news stories from around the region."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1780286400000,
-    "stopTs": 1780288200000,
-    "title": "Onam Beats",
-    "desc": "Stay in the loop with our lively presenter who brings you the latest breaking news and global events. Get ready for engaging updates that keep you informed and entertained!"
-  },
-  {
     "start": "04:30",
     "stop": "07:00",
     "channel": "News18Kerala.in",
@@ -31,17 +9,6 @@
     "stopTs": 1780297200000,
     "title": "News Trends",
     "desc": "The host presents the latest trending news updates on important matters of the nation."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1780290000000,
-    "stopTs": 1780291800000,
-    "title": "Onathinte Samridhi",
-    "desc": "Stay in the loop with our lively presenter who brings you the latest breaking news and global events. Get ready for engaging updates that keep you informed and entertained!"
   },
   {
     "start": "05:30",
@@ -845,5 +812,16 @@
     "stopTs": 1780461000000,
     "title": "Vartharambham",
     "desc": "Stay updated with breaking news and global affairs-engaging insights await you!"
+  },
+  {
+    "start": "04:30",
+    "stop": "06:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1780461000000,
+    "stopTs": 1780468200000,
+    "title": "News Trends",
+    "desc": "Join the host for the latest buzz on news, entertainment, and politics!"
   }
 ]

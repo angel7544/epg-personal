@@ -1,27 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "KairaliNews.in",
-    "channelId": "KairaliNews.in",
-    "channelName": "Kairali News",
-    "startTs": 1780284600000,
-    "stopTs": 1780286400000,
-    "title": "Pradeshika Varthakal",
-    "desc": "The host presents the latest regional news on social, economic and political issues."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "KairaliNews.in",
-    "channelId": "KairaliNews.in",
-    "channelName": "Kairali News",
-    "startTs": 1780286400000,
-    "stopTs": 1780288200000,
-    "title": "Morning Round Up",
-    "desc": "The host covers breaking news, current events and important socio-political developments."
-  },
-  {
     "start": "04:30",
     "stop": "06:30",
     "channel": "KairaliNews.in",
@@ -811,6 +789,17 @@
     "startTs": 1780459200000,
     "stopTs": 1780461000000,
     "title": "Morning Round Up",
+    "desc": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
+  },
+  {
+    "start": "04:30",
+    "stop": "06:30",
+    "channel": "KairaliNews.in",
+    "channelId": "KairaliNews.in",
+    "channelName": "Kairali News",
+    "startTs": 1780461000000,
+    "stopTs": 1780468200000,
+    "title": "News Time",
     "desc": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
   }
 ]

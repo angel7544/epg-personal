@@ -1,16 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "AsomLive24.in",
-    "channelId": "AsomLive24.in",
-    "channelName": "Asom Live 24",
-    "startTs": 1780284600000,
-    "stopTs": 1780288200000,
-    "title": "9 AM Morning News",
-    "desc": "The host presents the latest updates on various social, economic and political issues."
-  },
-  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "AsomLive24.in",
@@ -779,5 +768,38 @@
     "stopTs": 1780461000000,
     "title": "Asom Live @ 9",
     "desc": "A prime-time news program delivering the latest updates from Assam, covering politics, society, culture, and current events with sharp analysis and engaging reporting."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "ASOMLive24.in",
+    "channelId": "ASOMLive24.in",
+    "channelName": "ASOM Live 24",
+    "startTs": 1780461000000,
+    "stopTs": 1780464600000,
+    "title": "Asom Live @ 9",
+    "desc": "A prime-time news program delivering the latest updates from Assam, covering politics, society, culture, and current events with sharp analysis and engaging reporting."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "ASOMLive24.in",
+    "channelId": "ASOMLive24.in",
+    "channelName": "ASOM Live 24",
+    "startTs": 1780464600000,
+    "stopTs": 1780466400000,
+    "title": "11Am News",
+    "desc": "The anchor presents the latest news updates from the world of politics, economics, entertainment and sports."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "ASOMLive24.in",
+    "channelId": "ASOMLive24.in",
+    "channelName": "ASOM Live 24",
+    "startTs": 1780466400000,
+    "stopTs": 1780468200000,
+    "title": "Hindi News Express",
+    "desc": "The anchor presents an in-depth analysis of important updates that matter to people."
   }
 ]

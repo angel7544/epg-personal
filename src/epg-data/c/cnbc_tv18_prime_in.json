@@ -1,47 +1,25 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1780284600000,
-    "stopTs": 1780288200000,
-    "title": "Bazaar Open Exchange",
-    "desc": "Top market experts and CEOs analyse the market scenario and discuss the stocks of the companies."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1780288200000,
-    "stopTs": 1780290000000,
-    "title": "Bazaar Corporate Radar",
-    "desc": "Tune in to Mitali Mukherjee&apos;s show for insights from top CEOs, economists, and analysts."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "CNBCTV18PrimeHD.in",
     "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
+    "channelName": "CNBC TV18 Prime",
     "startTs": 1780290000000,
     "stopTs": 1780291800000,
     "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "desc": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally."
   },
   {
     "start": "05:30",
     "stop": "06:00",
     "channel": "CNBCTV18PrimeHD.in",
     "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
+    "channelName": "CNBC TV18 Prime",
     "startTs": 1780291800000,
     "stopTs": 1780293600000,
     "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "desc": "The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally."
   },
   {
     "start": "06:00",
@@ -570,5 +548,38 @@
     "stopTs": 1780461000000,
     "title": "Bazaar Open Exchange",
     "desc": "Top market experts and CEOs analyse the market scenario and discuss the stocks of the companies."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1780461000000,
+    "stopTs": 1780462800000,
+    "title": "Bazaar Corporate Radar",
+    "desc": "Tune in to Mitali Mukherjee&apos;s show for insights from top CEOs, economists, and analysts."
+  },
+  {
+    "start": "05:00",
+    "stop": "06:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1780462800000,
+    "stopTs": 1780466400000,
+    "title": "Europe Early Edition",
+    "desc": "Covers early financial news and European market activity. The show sets the tone for investors by reporting morning updates from across the Eurozone."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1780466400000,
+    "stopTs": 1780468200000,
+    "title": "Squawk Box Europe",
+    "desc": "CNBC&apos;s show provides three hours of lively, unscripted market debate. It prepares viewers for the start of the European trading day with dynamic financial insights."
   }
 ]
