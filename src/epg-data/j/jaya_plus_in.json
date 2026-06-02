@@ -1,500 +1,5 @@
 [
   {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780290000000,
-    "stopTs": 1780291800000,
-    "title": "10 AM News",
-    "desc": "The anchor presents the latest news updates and happenings from around the world."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780291800000,
-    "stopTs": 1780293600000,
-    "title": "11 AM News",
-    "desc": "The host presents the latest information on various important issues and events."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780293600000,
-    "stopTs": 1780295400000,
-    "title": "11 AM News",
-    "desc": "The host presents the latest information on various important issues and events."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780295400000,
-    "stopTs": 1780297200000,
-    "title": "12 PM News",
-    "desc": "The host presents the latest information on various important issues and events."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780297200000,
-    "stopTs": 1780299000000,
-    "title": "12 PM News",
-    "desc": "The host presents the latest information on various important issues and events."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780299000000,
-    "stopTs": 1780300800000,
-    "title": "1 PM News",
-    "desc": "The host presents the latest information on various important issues and events."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780300800000,
-    "stopTs": 1780302600000,
-    "title": "1 PM News",
-    "desc": "The host presents the latest information on various important issues and events."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780302600000,
-    "stopTs": 1780304400000,
-    "title": "2 PM News",
-    "desc": "The host presents the latest news on a range of topics of national and public interest."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780304400000,
-    "stopTs": 1780306200000,
-    "title": "Cinema Plus",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780306200000,
-    "stopTs": 1780308000000,
-    "title": "3 PM News",
-    "desc": "The host discusses the latest socio-economic and political news, updates and developments."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780308000000,
-    "stopTs": 1780309800000,
-    "title": "3 PM News",
-    "desc": "The host discusses the latest socio-economic and political news, updates and developments."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780309800000,
-    "stopTs": 1780311600000,
-    "title": "4 PM News",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780311600000,
-    "stopTs": 1780313400000,
-    "title": "4 PM News",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780313400000,
-    "stopTs": 1780315200000,
-    "title": "Tamilagathil Indru",
-    "desc": "The host presents a detailed report on the latest news and developments."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780315200000,
-    "stopTs": 1780317000000,
-    "title": "Temple News",
-    "desc": "The host provides in-depth news stories, featuring temple events and rituals."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780317000000,
-    "stopTs": 1780318800000,
-    "title": "6 PM News",
-    "desc": "The host presents the latest information on various important issues and events."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780318800000,
-    "stopTs": 1780320600000,
-    "title": "Cinema Plus",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780320600000,
-    "stopTs": 1780322400000,
-    "title": "En Endra Kelvi",
-    "desc": "The host along with experts shed light on various matters of national importance."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780322400000,
-    "stopTs": 1780324200000,
-    "title": "En Endra Kelvi",
-    "desc": "The host along with experts shed light on various matters of national importance."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780324200000,
-    "stopTs": 1780326000000,
-    "title": "Jaya Plus Century",
-    "desc": "The host presents information on various social, political and economic issues."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780326000000,
-    "stopTs": 1780327800000,
-    "title": "Jaya Plus Century",
-    "desc": "The host presents information on various social, political and economic issues."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780327800000,
-    "stopTs": 1780329600000,
-    "title": "Jaya Plus Century",
-    "desc": "The host presents information on various social, political and economic issues."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780329600000,
-    "stopTs": 1780331400000,
-    "title": "Jaya Plus Century",
-    "desc": "The host presents information on various social, political and economic issues."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780331400000,
-    "stopTs": 1780333200000,
-    "title": "En Endra Kelvi",
-    "desc": "The host along with experts shed light on various matters of national importance."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780333200000,
-    "stopTs": 1780335000000,
-    "title": "En Endra Kelvi",
-    "desc": "The host along with experts shed light on various matters of national importance."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780335000000,
-    "stopTs": 1780336800000,
-    "title": "Jaya Plus Century",
-    "desc": "The host presents information on various social, political and economic issues."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780336800000,
-    "stopTs": 1780338600000,
-    "title": "Jaya Plus Century",
-    "desc": "The host presents information on various social, political and economic issues."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780338600000,
-    "stopTs": 1780340400000,
-    "title": "Jaya Plus Century",
-    "desc": "The host presents information on various social, political and economic issues."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780340400000,
-    "stopTs": 1780342200000,
-    "title": "Jaya Plus Century",
-    "desc": "The host presents information on various social, political and economic issues."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780342200000,
-    "stopTs": 1780344000000,
-    "title": "Jaya Plus Century",
-    "desc": "The host presents information on various social, political and economic issues."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780344000000,
-    "stopTs": 1780345800000,
-    "title": "Jaya Plus Century",
-    "desc": "The host presents information on various social, political and economic issues."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780345800000,
-    "stopTs": 1780347600000,
-    "title": "Jaya Plus Century",
-    "desc": "The host presents information on various social, political and economic issues."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780347600000,
-    "stopTs": 1780349400000,
-    "title": "Jaya Plus Century",
-    "desc": "The host presents information on various social, political and economic issues."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780349400000,
-    "stopTs": 1780351200000,
-    "title": "Jaya Plus Century",
-    "desc": "The host presents information on various social, political and economic issues."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780351200000,
-    "stopTs": 1780353000000,
-    "title": "Jaya Plus Century",
-    "desc": "The host presents information on various social, political and economic issues."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780353000000,
-    "stopTs": 1780354800000,
-    "title": "Jaya Plus Century",
-    "desc": "The host presents information on various social, political and economic issues."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780354800000,
-    "stopTs": 1780356600000,
-    "title": "Jaya Plus Century",
-    "desc": "The host presents information on various social, political and economic issues."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780356600000,
-    "stopTs": 1780358400000,
-    "title": "En Endra Kelvi",
-    "desc": "The host along with experts shed light on various matters of national importance."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780358400000,
-    "stopTs": 1780360200000,
-    "title": "En Endra Kelvi",
-    "desc": "The host along with experts shed light on various matters of national importance."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780360200000,
-    "stopTs": 1780362000000,
-    "title": "Velankanni Live",
-    "desc": "Priests and devotees offer prayers and seek blessings from the Almighty, live."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780362000000,
-    "stopTs": 1780363800000,
-    "title": "Velankanni Live",
-    "desc": "Priests and devotees offer prayers and seek blessings from the Almighty, live."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780363800000,
-    "stopTs": 1780365600000,
-    "title": "7 AM News",
-    "desc": "The host presents the latest news on a range of topics of national and global interest."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780365600000,
-    "stopTs": 1780367400000,
-    "title": "7 AM News",
-    "desc": "The host presents the latest news on a range of topics of national and global interest."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780367400000,
-    "stopTs": 1780369200000,
-    "title": "8 AM News",
-    "desc": "The host presents the latest information on various important issues and events."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1780369200000,
-    "stopTs": 1780371000000,
-    "title": "8 AM News",
-    "desc": "The host presents the latest information on various important issues and events."
-  },
-  {
     "start": "03:30",
     "stop": "04:00",
     "channel": "JayaPlus.in",
@@ -833,7 +338,7 @@
     "startTs": 1780425000000,
     "stopTs": 1780426800000,
     "title": "Jaya Plus Century",
-    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+    "desc": "The host presents information on various social, political and economic issues."
   },
   {
     "start": "19:00",
@@ -844,7 +349,7 @@
     "startTs": 1780426800000,
     "stopTs": 1780428600000,
     "title": "Jaya Plus Century",
-    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+    "desc": "The host presents information on various social, political and economic issues."
   },
   {
     "start": "19:30",
@@ -855,7 +360,7 @@
     "startTs": 1780428600000,
     "stopTs": 1780430400000,
     "title": "Jaya Plus Century",
-    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+    "desc": "The host presents information on various social, political and economic issues."
   },
   {
     "start": "20:00",
@@ -866,7 +371,7 @@
     "startTs": 1780430400000,
     "stopTs": 1780432200000,
     "title": "Jaya Plus Century",
-    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+    "desc": "The host presents information on various social, political and economic issues."
   },
   {
     "start": "20:30",
@@ -877,7 +382,7 @@
     "startTs": 1780432200000,
     "stopTs": 1780434000000,
     "title": "Jaya Plus Century",
-    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+    "desc": "The host presents information on various social, political and economic issues."
   },
   {
     "start": "21:00",
@@ -888,7 +393,7 @@
     "startTs": 1780434000000,
     "stopTs": 1780435800000,
     "title": "Jaya Plus Century",
-    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+    "desc": "The host presents information on various social, political and economic issues."
   },
   {
     "start": "21:30",
@@ -899,7 +404,7 @@
     "startTs": 1780435800000,
     "stopTs": 1780437600000,
     "title": "Jaya Plus Century",
-    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+    "desc": "The host presents information on various social, political and economic issues."
   },
   {
     "start": "22:00",
@@ -910,7 +415,7 @@
     "startTs": 1780437600000,
     "stopTs": 1780439400000,
     "title": "Jaya Plus Century",
-    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+    "desc": "The host presents information on various social, political and economic issues."
   },
   {
     "start": "22:30",
@@ -921,7 +426,7 @@
     "startTs": 1780439400000,
     "stopTs": 1780441200000,
     "title": "Jaya Plus Century",
-    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+    "desc": "The host presents information on various social, political and economic issues."
   },
   {
     "start": "23:00",
@@ -932,7 +437,7 @@
     "startTs": 1780441200000,
     "stopTs": 1780443000000,
     "title": "Jaya Plus Century",
-    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+    "desc": "The host presents information on various social, political and economic issues."
   },
   {
     "start": "23:30",
@@ -943,7 +448,7 @@
     "startTs": 1780443000000,
     "stopTs": 1780444800000,
     "title": "En Endra Kelvi",
-    "desc": "Tune in for a Special Report Covering Current Global Issues."
+    "desc": "The host along with experts shed light on various matters of national importance."
   },
   {
     "start": "00:00",
@@ -954,7 +459,7 @@
     "startTs": 1780444800000,
     "stopTs": 1780446600000,
     "title": "En Endra Kelvi",
-    "desc": "Tune in for a Special Report Covering Current Global Issues."
+    "desc": "The host along with experts shed light on various matters of national importance."
   },
   {
     "start": "00:30",
@@ -965,7 +470,7 @@
     "startTs": 1780446600000,
     "stopTs": 1780448400000,
     "title": "Velankanni Live",
-    "desc": "Live telecast of preaching and prayers recited by the priests from the Velankanni church of Mother Mary."
+    "desc": "Priests and devotees offer prayers and seek blessings from the Almighty, live."
   },
   {
     "start": "01:00",
@@ -976,7 +481,7 @@
     "startTs": 1780448400000,
     "stopTs": 1780450200000,
     "title": "Velankanni Live",
-    "desc": "Live telecast of preaching and prayers recited by the priests from the Velankanni church of Mother Mary."
+    "desc": "Priests and devotees offer prayers and seek blessings from the Almighty, live."
   },
   {
     "start": "01:30",
@@ -986,8 +491,8 @@
     "channelName": "Jaya Plus",
     "startTs": 1780450200000,
     "stopTs": 1780452000000,
-    "title": "7 Am News",
-    "desc": "Start your day with important headlines, weather, and national developments from across regions. A morning bulletin to get you ready for the day ahead."
+    "title": "7 AM News",
+    "desc": "The host presents the latest news on a range of topics of national and global interest."
   },
   {
     "start": "02:00",
@@ -997,8 +502,8 @@
     "channelName": "Jaya Plus",
     "startTs": 1780452000000,
     "stopTs": 1780453800000,
-    "title": "7 Am News",
-    "desc": "Start your day with important headlines, weather, and national developments from across regions. A morning bulletin to get you ready for the day ahead."
+    "title": "7 AM News",
+    "desc": "The host presents the latest news on a range of topics of national and global interest."
   },
   {
     "start": "02:30",
@@ -1008,8 +513,8 @@
     "channelName": "Jaya Plus",
     "startTs": 1780453800000,
     "stopTs": 1780455600000,
-    "title": "8 Am News",
-    "desc": "A news bulletin covering major national and international stories, including politics, society, and the economy. Get informed and updated early in the morning."
+    "title": "8 AM News",
+    "desc": "The host presents the latest information on various important issues and events."
   },
   {
     "start": "03:00",
@@ -1019,8 +524,8 @@
     "channelName": "Jaya Plus",
     "startTs": 1780455600000,
     "stopTs": 1780457400000,
-    "title": "Thadayam",
-    "desc": "Civil Engineer Ezhil is suspected of murder, but a con man with an identical appearance complicates the investigation led by divided officers."
+    "title": "8 AM News",
+    "desc": "The host presents the latest information on various important issues and events."
   },
   {
     "start": "03:30",
@@ -1030,8 +535,8 @@
     "channelName": "Jaya Plus",
     "startTs": 1780457400000,
     "stopTs": 1780459200000,
-    "title": "9 Am News",
-    "desc": "The host presents the most recent news, updates and developments from India and around the world at 9am."
+    "title": "9 AM News",
+    "desc": "The host presents a detailed analysis of the latest information on various key issues."
   },
   {
     "start": "04:00",
@@ -1041,8 +546,8 @@
     "channelName": "Jaya Plus",
     "startTs": 1780459200000,
     "stopTs": 1780461000000,
-    "title": "9 Am News",
-    "desc": "The host presents the most recent news, updates and developments from India and around the world at 9am."
+    "title": "9 AM News",
+    "desc": "The host presents a detailed analysis of the latest information on various key issues."
   },
   {
     "start": "04:30",
@@ -1052,8 +557,8 @@
     "channelName": "Jaya Plus",
     "startTs": 1780461000000,
     "stopTs": 1780462800000,
-    "title": "10 Am News",
-    "desc": "The presenter provides a round-up of recent news stories, events, updates and developments on current issues."
+    "title": "10 AM News",
+    "desc": "The anchor presents the latest news updates and happenings from around the world."
   },
   {
     "start": "05:00",
@@ -1063,8 +568,8 @@
     "channelName": "Jaya Plus",
     "startTs": 1780462800000,
     "stopTs": 1780464600000,
-    "title": "10 Am News",
-    "desc": "The presenter provides a round-up of recent news stories, events, updates and developments on current issues."
+    "title": "10 AM News",
+    "desc": "The anchor presents the latest news updates and happenings from around the world."
   },
   {
     "start": "05:30",
@@ -1074,8 +579,8 @@
     "channelName": "Jaya Plus",
     "startTs": 1780464600000,
     "stopTs": 1780466400000,
-    "title": "11 Am News",
-    "desc": "The host presents the most recent news, updates and developments from India and around the world at 11am."
+    "title": "11 AM News",
+    "desc": "The host presents the latest information on various important issues and events."
   },
   {
     "start": "06:00",
@@ -1085,7 +590,491 @@
     "channelName": "Jaya Plus",
     "startTs": 1780466400000,
     "stopTs": 1780468200000,
-    "title": "11 Am News",
-    "desc": "The host presents the most recent news, updates and developments from India and around the world at 11am."
+    "title": "11 AM News",
+    "desc": "The host presents the latest information on various important issues and events."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780468200000,
+    "stopTs": 1780470000000,
+    "title": "12 PM News",
+    "desc": "The host presents the latest information on various important issues and events."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780470000000,
+    "stopTs": 1780471800000,
+    "title": "12 PM News",
+    "desc": "The host presents the latest information on various important issues and events."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780471800000,
+    "stopTs": 1780473600000,
+    "title": "1 PM News",
+    "desc": "The host presents the latest information on various important issues and events."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780473600000,
+    "stopTs": 1780475400000,
+    "title": "1 PM News",
+    "desc": "The host presents the latest information on various important issues and events."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780475400000,
+    "stopTs": 1780477200000,
+    "title": "2 PM News",
+    "desc": "The host presents the latest news on a range of topics of national and public interest."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780477200000,
+    "stopTs": 1780479000000,
+    "title": "Cinema Plus",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780479000000,
+    "stopTs": 1780480800000,
+    "title": "3 PM News",
+    "desc": "The host discusses the latest socio-economic and political news, updates and developments."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780480800000,
+    "stopTs": 1780482600000,
+    "title": "3 PM News",
+    "desc": "The host discusses the latest socio-economic and political news, updates and developments."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780482600000,
+    "stopTs": 1780484400000,
+    "title": "4 PM News",
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780484400000,
+    "stopTs": 1780486200000,
+    "title": "4 PM News",
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780486200000,
+    "stopTs": 1780488000000,
+    "title": "Tamilagathil Indru",
+    "desc": "The host presents a detailed report on the latest news and developments."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780488000000,
+    "stopTs": 1780489800000,
+    "title": "Temple News",
+    "desc": "The host provides in-depth news stories, featuring temple events and rituals."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780489800000,
+    "stopTs": 1780491600000,
+    "title": "6 PM News",
+    "desc": "The host presents the latest information on various important issues and events."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780491600000,
+    "stopTs": 1780493400000,
+    "title": "Cinema Plus",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780493400000,
+    "stopTs": 1780495200000,
+    "title": "En Endra Kelvi",
+    "desc": "The host along with experts shed light on various matters of national importance."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780495200000,
+    "stopTs": 1780497000000,
+    "title": "En Endra Kelvi",
+    "desc": "The host along with experts shed light on various matters of national importance."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780497000000,
+    "stopTs": 1780498800000,
+    "title": "Jaya Plus Century",
+    "desc": "The host presents information on various social, political and economic issues."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780498800000,
+    "stopTs": 1780500600000,
+    "title": "Jaya Plus Century",
+    "desc": "The host presents information on various social, political and economic issues."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780500600000,
+    "stopTs": 1780502400000,
+    "title": "Jaya Plus Century",
+    "desc": "The host presents information on various social, political and economic issues."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780502400000,
+    "stopTs": 1780504200000,
+    "title": "Jaya Plus Century",
+    "desc": "The host presents information on various social, political and economic issues."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780504200000,
+    "stopTs": 1780506000000,
+    "title": "En Endra Kelvi",
+    "desc": "The host along with experts shed light on various matters of national importance."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780506000000,
+    "stopTs": 1780507800000,
+    "title": "En Endra Kelvi",
+    "desc": "The host along with experts shed light on various matters of national importance."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780507800000,
+    "stopTs": 1780509600000,
+    "title": "Jaya Plus Century",
+    "desc": "The host presents information on various social, political and economic issues."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780509600000,
+    "stopTs": 1780511400000,
+    "title": "Jaya Plus Century",
+    "desc": "The host presents information on various social, political and economic issues."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780511400000,
+    "stopTs": 1780513200000,
+    "title": "Jaya Plus Century",
+    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780513200000,
+    "stopTs": 1780515000000,
+    "title": "Jaya Plus Century",
+    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780515000000,
+    "stopTs": 1780516800000,
+    "title": "Jaya Plus Century",
+    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780516800000,
+    "stopTs": 1780518600000,
+    "title": "Jaya Plus Century",
+    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780518600000,
+    "stopTs": 1780520400000,
+    "title": "Jaya Plus Century",
+    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780520400000,
+    "stopTs": 1780522200000,
+    "title": "Jaya Plus Century",
+    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780522200000,
+    "stopTs": 1780524000000,
+    "title": "Jaya Plus Century",
+    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780524000000,
+    "stopTs": 1780525800000,
+    "title": "Jaya Plus Century",
+    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780525800000,
+    "stopTs": 1780527600000,
+    "title": "Jaya Plus Century",
+    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780527600000,
+    "stopTs": 1780529400000,
+    "title": "Jaya Plus Century",
+    "desc": "Special report: In-depth coverage uncovers critical insights on current affairs."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780529400000,
+    "stopTs": 1780531200000,
+    "title": "En Endra Kelvi",
+    "desc": "Tune in for a Special Report Covering Current Global Issues."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780531200000,
+    "stopTs": 1780533000000,
+    "title": "En Endra Kelvi",
+    "desc": "Tune in for a Special Report Covering Current Global Issues."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780533000000,
+    "stopTs": 1780534800000,
+    "title": "Velankanni Live",
+    "desc": "Live telecast of preaching and prayers recited by the priests from the Velankanni church of Mother Mary."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780534800000,
+    "stopTs": 1780536600000,
+    "title": "Velankanni Live",
+    "desc": "Live telecast of preaching and prayers recited by the priests from the Velankanni church of Mother Mary."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780536600000,
+    "stopTs": 1780538400000,
+    "title": "7 Am News",
+    "desc": "Start your day with important headlines, weather, and national developments from across regions. A morning bulletin to get you ready for the day ahead."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780538400000,
+    "stopTs": 1780540200000,
+    "title": "7 Am News",
+    "desc": "Start your day with important headlines, weather, and national developments from across regions. A morning bulletin to get you ready for the day ahead."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780540200000,
+    "stopTs": 1780542000000,
+    "title": "8 Am News",
+    "desc": "A news bulletin covering major national and international stories, including politics, society, and the economy. Get informed and updated early in the morning."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780542000000,
+    "stopTs": 1780543800000,
+    "title": "Thadayam",
+    "desc": "Civil Engineer Ezhil is suspected of murder, but a con man with an identical appearance complicates the investigation led by divided officers."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780543800000,
+    "stopTs": 1780545600000,
+    "title": "9 Am News",
+    "desc": "The host presents the most recent news, updates and developments from India and around the world at 9am."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1780545600000,
+    "stopTs": 1780547400000,
+    "title": "9 Am News",
+    "desc": "The host presents the most recent news, updates and developments from India and around the world at 9am."
   }
 ]
