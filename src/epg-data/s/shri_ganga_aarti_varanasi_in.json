@@ -1,82 +1,5 @@
 [
   {
-    "start": "00:00",
-    "stop": "05:30",
-    "channel": "ShriGangaAarti,Varanasi.in",
-    "channelId": "ShriGangaAarti,Varanasi.in",
-    "channelName": "Shri Ganga Aarti, Varanasi",
-    "startTs": 1780704000000,
-    "stopTs": 1780723800000,
-    "title": "Prataha Morning Aarti",
-    "desc": "Prataha Morning Aarti"
-  },
-  {
-    "start": "05:30",
-    "stop": "14:30",
-    "channel": "ShriGangaAarti,Varanasi.in",
-    "channelId": "ShriGangaAarti,Varanasi.in",
-    "channelName": "Shri Ganga Aarti, Varanasi",
-    "startTs": 1780723800000,
-    "stopTs": 1780756200000,
-    "title": "Madhya Afternoon Aarti",
-    "desc": "Madhya Afternoon Aarti"
-  },
-  {
-    "start": "14:30",
-    "stop": "17:00",
-    "channel": "ShriGangaAarti,Varanasi.in",
-    "channelId": "ShriGangaAarti,Varanasi.in",
-    "channelName": "Shri Ganga Aarti, Varanasi",
-    "startTs": 1780756200000,
-    "stopTs": 1780765200000,
-    "title": "Sandhya Evening Aarti",
-    "desc": "Sandhya Evening Aarti"
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "ShriGangaAarti,Varanasi.in",
-    "channelId": "ShriGangaAarti,Varanasi.in",
-    "channelName": "Shri Ganga Aarti, Varanasi",
-    "startTs": 1780765200000,
-    "stopTs": 1780767000000,
-    "title": "Shayan Night Aarti",
-    "desc": "Shayan Night Aarti"
-  },
-  {
-    "start": "17:30",
-    "stop": "23:30",
-    "channel": "ShriGangaAarti,Varanasi.in",
-    "channelId": "ShriGangaAarti,Varanasi.in",
-    "channelName": "Shri Ganga Aarti, Varanasi",
-    "startTs": 1780767000000,
-    "stopTs": 1780788600000,
-    "title": "Temple Closed For Darshan",
-    "desc": "Temple Closed For Darshan"
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "ShriGangaAarti,Varanasi.in",
-    "channelId": "ShriGangaAarti,Varanasi.in",
-    "channelName": "Shri Ganga Aarti, Varanasi",
-    "startTs": 1780788600000,
-    "stopTs": 1780790400000,
-    "title": "Temple Opens",
-    "desc": "Temple Opens"
-  },
-  {
-    "start": "00:00",
-    "stop": "05:30",
-    "channel": "ShriGangaAarti,Varanasi.in",
-    "channelId": "ShriGangaAarti,Varanasi.in",
-    "channelName": "Shri Ganga Aarti, Varanasi",
-    "startTs": 1780790400000,
-    "stopTs": 1780810200000,
-    "title": "Prataha Morning Aarti",
-    "desc": "Prataha Morning Aarti"
-  },
-  {
     "start": "05:30",
     "stop": "14:30",
     "channel": "ShriGangaAarti,Varanasi.in",
@@ -117,6 +40,72 @@
     "channelName": "Shri Ganga Aarti, Varanasi",
     "startTs": 1780853400000,
     "stopTs": 1780875000000,
+    "title": "Temple Closed For Darshan",
+    "desc": "Temple Closed For Darshan"
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "ShriGangaAarti,Varanasi.in",
+    "channelId": "ShriGangaAarti,Varanasi.in",
+    "channelName": "Shri Ganga Aarti, Varanasi",
+    "startTs": 1780875000000,
+    "stopTs": 1780876800000,
+    "title": "Temple Opens",
+    "desc": "Temple Opens"
+  },
+  {
+    "start": "00:00",
+    "stop": "05:30",
+    "channel": "ShriGangaAarti,Varanasi.in",
+    "channelId": "ShriGangaAarti,Varanasi.in",
+    "channelName": "Shri Ganga Aarti, Varanasi",
+    "startTs": 1780876800000,
+    "stopTs": 1780896600000,
+    "title": "Prataha Morning Aarti",
+    "desc": "Prataha Morning Aarti"
+  },
+  {
+    "start": "05:30",
+    "stop": "14:30",
+    "channel": "ShriGangaAarti,Varanasi.in",
+    "channelId": "ShriGangaAarti,Varanasi.in",
+    "channelName": "Shri Ganga Aarti, Varanasi",
+    "startTs": 1780896600000,
+    "stopTs": 1780929000000,
+    "title": "Madhya Afternoon Aarti",
+    "desc": "Madhya Afternoon Aarti"
+  },
+  {
+    "start": "14:30",
+    "stop": "17:00",
+    "channel": "ShriGangaAarti,Varanasi.in",
+    "channelId": "ShriGangaAarti,Varanasi.in",
+    "channelName": "Shri Ganga Aarti, Varanasi",
+    "startTs": 1780929000000,
+    "stopTs": 1780938000000,
+    "title": "Sandhya Evening Aarti",
+    "desc": "Sandhya Evening Aarti"
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "ShriGangaAarti,Varanasi.in",
+    "channelId": "ShriGangaAarti,Varanasi.in",
+    "channelName": "Shri Ganga Aarti, Varanasi",
+    "startTs": 1780938000000,
+    "stopTs": 1780939800000,
+    "title": "Shayan Night Aarti",
+    "desc": "Shayan Night Aarti"
+  },
+  {
+    "start": "17:30",
+    "stop": "23:30",
+    "channel": "ShriGangaAarti,Varanasi.in",
+    "channelId": "ShriGangaAarti,Varanasi.in",
+    "channelName": "Shri Ganga Aarti, Varanasi",
+    "startTs": 1780939800000,
+    "stopTs": 1780961400000,
     "title": "Temple Closed For Darshan",
     "desc": "Temple Closed For Darshan"
   }
