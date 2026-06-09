@@ -1,467 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "05:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780889400000,
-    "stopTs": 1780896600000,
-    "title": "First Trade",
-    "desc": "The host provides tips and latest updates from the stock market."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780894800000,
-    "stopTs": 1780896600000,
-    "title": "Midcap Masala",
-    "desc": "Explores India&apos;s midcap stocks with expert analysis, top picks, and market trends, guiding investors toward high-growth opportunities."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780896600000,
-    "stopTs": 1780900200000,
-    "title": "ET NOW BNSN: The Stock Game",
-    "desc": "Journalists and reporters share the latest news stories and updates on the stock market."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780900200000,
-    "stopTs": 1780903800000,
-    "title": "Markets @ Noon",
-    "desc": "The host provides the latest updates on matters concerning the share market."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780902000000,
-    "stopTs": 1780903800000,
-    "title": "All About Your Company",
-    "desc": "Market-focused shows explore investment opportunities, corporate news, and financial strategies."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780903800000,
-    "stopTs": 1780905600000,
-    "title": "The Newsroom",
-    "desc": "The host presents the latest social, economic and political news from around the world."
-  },
-  {
-    "start": "08:00",
-    "stop": "09:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780905600000,
-    "stopTs": 1780909200000,
-    "title": "Market Fatafat",
-    "desc": "The host invites an expert to discuss the performance of financial instruments."
-  },
-  {
-    "start": "08:30",
-    "stop": "10:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780907400000,
-    "stopTs": 1780912800000,
-    "title": "Closing Trades",
-    "desc": "A show that discusses stocks that have been highly volatile in trading while counting down to market closing."
-  },
-  {
-    "start": "09:00",
-    "stop": "10:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780909200000,
-    "stopTs": 1780912800000,
-    "title": "ET NOW Closing Trades",
-    "desc": "The hosts discuss Sensex and Nifty numbers with market trends in the current economy."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780912800000,
-    "stopTs": 1780914600000,
-    "title": "Business Primetime",
-    "desc": "The host interacts with financial experts who share their insights on the stock market."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780914600000,
-    "stopTs": 1780916400000,
-    "title": "BUDGET 2024 - Special",
-    "desc": "The host and subject-matter experts provide an understanding of the 2024 Union Budget."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780916400000,
-    "stopTs": 1780918200000,
-    "title": "News Now",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780918200000,
-    "stopTs": 1780921800000,
-    "title": "The Money Show",
-    "desc": "The host presents information about fiscal management and investment advice."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780920000000,
-    "stopTs": 1780921800000,
-    "title": "South Central",
-    "desc": "The host shares the latest news across politics, society, economy, and sports, covering events at home and abroad in a simple, straightforward style for everyone."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780921800000,
-    "stopTs": 1780923600000,
-    "title": "Startup Central",
-    "desc": "The host holds conversations with business leaders from various start-ups."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780923600000,
-    "stopTs": 1780925400000,
-    "title": "Your Trades",
-    "desc": "Trade experts express their views on the latest trends in the Indian stock market."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780925400000,
-    "stopTs": 1780927200000,
-    "title": "Rush Hour",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780927200000,
-    "stopTs": 1780929000000,
-    "title": "BUDGET 2024 - Special",
-    "desc": "The host and subject-matter experts provide an understanding of the 2024 Union Budget."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780929000000,
-    "stopTs": 1780932600000,
-    "title": "India Tonight",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780930800000,
-    "stopTs": 1780932600000,
-    "title": "Market Edge",
-    "desc": "The host shares clear, up-to-date news from politics, society, economy, and sports, covering major events at home and worldwide in an easy-to-understand way for everyone."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780932600000,
-    "stopTs": 1780934400000,
-    "title": "India Development Debate",
-    "desc": "The host conducts a debate between experts on topics related to India&apos;s development."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780934400000,
-    "stopTs": 1780936200000,
-    "title": "Big Voices",
-    "desc": "The host interacts with experts who shed light on the latest financial news."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780936200000,
-    "stopTs": 1780938000000,
-    "title": "The Money Show",
-    "desc": "The host presents information about fiscal management and investment advice."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780938000000,
-    "stopTs": 1780939800000,
-    "title": "IDFC First Bank Presents ET Now Leaders",
-    "desc": "The host showcases success stories of businesses and leaders across the globe."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780939800000,
-    "stopTs": 1780941600000,
-    "title": "Your Trades",
-    "desc": "Trade experts express their views on the latest trends in the Indian stock market."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780941600000,
-    "stopTs": 1780943400000,
-    "title": "India Development Debate",
-    "desc": "The host conducts a debate between experts on topics related to India&apos;s development."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780943400000,
-    "stopTs": 1780945200000,
-    "title": "Beat the Street",
-    "desc": "The host and subject-matter experts provide updates on trends in the Indian stock market."
-  },
-  {
-    "start": "19:00",
-    "stop": "20:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780945200000,
-    "stopTs": 1780948800000,
-    "title": "India Tonight",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780947000000,
-    "stopTs": 1780948800000,
-    "title": "Startup Central",
-    "desc": "The host presents the latest news and updates related to the Startup India policy."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780948800000,
-    "stopTs": 1780950600000,
-    "title": "Startup Central",
-    "desc": "The host holds conversations with business leaders from various start-ups."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780950600000,
-    "stopTs": 1780952400000,
-    "title": "Your Trades",
-    "desc": "Trade experts express their views on the latest trends in the Indian stock market."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780952400000,
-    "stopTs": 1780954200000,
-    "title": "India Development Debate",
-    "desc": "The host conducts a debate between experts on topics related to India&apos;s development."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780954200000,
-    "stopTs": 1780956000000,
-    "title": "Beat the Street",
-    "desc": "The host and subject-matter experts provide updates on trends in the Indian stock market."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780956000000,
-    "stopTs": 1780957800000,
-    "title": "The Money Show",
-    "desc": "The host presents information about fiscal management and investment advice."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780957800000,
-    "stopTs": 1780959600000,
-    "title": "Big Voices",
-    "desc": "The host interacts with experts who shed light on the latest financial news."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780959600000,
-    "stopTs": 1780961400000,
-    "title": "Startup Central",
-    "desc": "The host holds conversations with business leaders from various start-ups."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780961400000,
-    "stopTs": 1780965000000,
-    "title": "India Tonight",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780963200000,
-    "stopTs": 1780965000000,
-    "title": "The Money Show",
-    "desc": "The host provides tips and tools to a live audience and gives invaluable insights on earning, saving and investing."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780965000000,
-    "stopTs": 1780966800000,
-    "title": "Beat the Street",
-    "desc": "The host and subject-matter experts provide updates on trends in the Indian stock market."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780966800000,
-    "stopTs": 1780968600000,
-    "title": "Your Trades",
-    "desc": "Trade experts express their views on the latest trends in the Indian stock market."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780968600000,
-    "stopTs": 1780972200000,
-    "title": "Market Café",
-    "desc": "The host sheds light on the performance of financial instruments in the market."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1780970400000,
-    "stopTs": 1780972200000,
-    "title": "Market Cafe",
-    "desc": "An update on global market cues and complelling stock ideas to watch out for"
-  },
-  {
     "start": "02:30",
     "stop": "03:30",
     "channel": "ETNow.in",
@@ -766,19 +304,19 @@
     "channelName": "ET NOW",
     "startTs": 1781029800000,
     "stopTs": 1781031600000,
-    "title": "India Tonight",
-    "desc": "Karan takes you through the day&apos;s current affairs with razor-sharp analysis and tackles some critical issues."
+    "title": "Beat the Street",
+    "desc": "The host and subject-matter experts provide updates on trends in the Indian stock market."
   },
   {
     "start": "19:00",
-    "stop": "19:30",
+    "stop": "20:00",
     "channel": "ETNow.in",
     "channelId": "ETNow.in",
     "channelName": "ET NOW",
     "startTs": 1781031600000,
-    "stopTs": 1781033400000,
-    "title": "Market Edge",
-    "desc": "The host shares clear, up-to-date news from politics, society, economy, and sports, covering major events at home and worldwide in an easy-to-understand way for everyone."
+    "stopTs": 1781035200000,
+    "title": "India Tonight",
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "19:30",
@@ -799,8 +337,8 @@
     "channelName": "ET NOW",
     "startTs": 1781035200000,
     "stopTs": 1781037000000,
-    "title": "Earnings With Et Now",
-    "desc": "Industry leaders from major companies share their insights on the latest developments pertaining to earnings from the stock market."
+    "title": "Startup Central",
+    "desc": "The host holds conversations with business leaders from various start-ups."
   },
   {
     "start": "20:30",
@@ -810,8 +348,8 @@
     "channelName": "ET NOW",
     "startTs": 1781037000000,
     "stopTs": 1781038800000,
-    "title": "India Tonight",
-    "desc": "Karan takes you through the day&apos;s current affairs with razor-sharp analysis and tackles some critical issues."
+    "title": "Your Trades",
+    "desc": "Trade experts express their views on the latest trends in the Indian stock market."
   },
   {
     "start": "21:00",
@@ -821,8 +359,8 @@
     "channelName": "ET NOW",
     "startTs": 1781038800000,
     "stopTs": 1781040600000,
-    "title": "Market Edge",
-    "desc": "The host shares clear, up-to-date news from politics, society, economy, and sports, covering major events at home and worldwide in an easy-to-understand way for everyone."
+    "title": "India Development Debate",
+    "desc": "The host conducts a debate between experts on topics related to India&apos;s development."
   },
   {
     "start": "21:30",
@@ -832,8 +370,8 @@
     "channelName": "ET NOW",
     "startTs": 1781040600000,
     "stopTs": 1781042400000,
-    "title": "South Central",
-    "desc": "The host shares the latest news across politics, society, economy, and sports, covering events at home and abroad in a simple, straightforward style for everyone."
+    "title": "Beat the Street",
+    "desc": "The host and subject-matter experts provide updates on trends in the Indian stock market."
   },
   {
     "start": "22:00",
@@ -843,8 +381,8 @@
     "channelName": "ET NOW",
     "startTs": 1781042400000,
     "stopTs": 1781044200000,
-    "title": "Navigating Volatility",
-    "desc": "The host shares clear, up-to-date news from politics, society, economy, and sports, covering major events at home and worldwide in an easy-to-understand way for everyone."
+    "title": "The Money Show",
+    "desc": "The host presents information about fiscal management and investment advice."
   },
   {
     "start": "22:30",
@@ -854,8 +392,8 @@
     "channelName": "ET NOW",
     "startTs": 1781044200000,
     "stopTs": 1781046000000,
-    "title": "India Tonight",
-    "desc": "Karan takes you through the day&apos;s current affairs with razor-sharp analysis and tackles some critical issues."
+    "title": "Big Voices",
+    "desc": "The host interacts with experts who shed light on the latest financial news."
   },
   {
     "start": "23:00",
@@ -865,19 +403,19 @@
     "channelName": "ET NOW",
     "startTs": 1781046000000,
     "stopTs": 1781047800000,
-    "title": "Market Edge",
-    "desc": "The host shares clear, up-to-date news from politics, society, economy, and sports, covering major events at home and worldwide in an easy-to-understand way for everyone."
+    "title": "Startup Central",
+    "desc": "The host holds conversations with business leaders from various start-ups."
   },
   {
     "start": "23:30",
-    "stop": "00:00",
+    "stop": "00:30",
     "channel": "ETNow.in",
     "channelId": "ETNow.in",
     "channelName": "ET NOW",
     "startTs": 1781047800000,
-    "stopTs": 1781049600000,
-    "title": "Business @ 9",
-    "desc": "Economic and business programs provide updates on trends, strategies, and growth opportunities."
+    "stopTs": 1781051400000,
+    "title": "India Tonight",
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "00:00",
@@ -898,8 +436,8 @@
     "channelName": "ET NOW",
     "startTs": 1781051400000,
     "stopTs": 1781053200000,
-    "title": "Earnings With Et Now",
-    "desc": "Industry leaders from major companies share their insights on the latest developments pertaining to earnings from the stock market."
+    "title": "Beat the Street",
+    "desc": "The host and subject-matter experts provide updates on trends in the Indian stock market."
   },
   {
     "start": "01:00",
@@ -909,19 +447,19 @@
     "channelName": "ET NOW",
     "startTs": 1781053200000,
     "stopTs": 1781055000000,
-    "title": "Navigating Volatility",
-    "desc": "The host shares clear, up-to-date news from politics, society, economy, and sports, covering major events at home and worldwide in an easy-to-understand way for everyone."
+    "title": "Your Trades",
+    "desc": "Trade experts express their views on the latest trends in the Indian stock market."
   },
   {
     "start": "01:30",
-    "stop": "02:00",
+    "stop": "02:30",
     "channel": "ETNow.in",
     "channelId": "ETNow.in",
     "channelName": "ET NOW",
     "startTs": 1781055000000,
-    "stopTs": 1781056800000,
-    "title": "Market Edge",
-    "desc": "The host shares clear, up-to-date news from politics, society, economy, and sports, covering major events at home and worldwide in an easy-to-understand way for everyone."
+    "stopTs": 1781058600000,
+    "title": "Market Café",
+    "desc": "The host sheds light on the performance of financial instruments in the market."
   },
   {
     "start": "02:00",
@@ -943,6 +481,479 @@
     "startTs": 1781058600000,
     "stopTs": 1781062200000,
     "title": "The Market",
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "03:30",
+    "stop": "05:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781062200000,
+    "stopTs": 1781069400000,
+    "title": "First Trade",
+    "desc": "The host provides tips and latest updates from the stock market."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781067600000,
+    "stopTs": 1781069400000,
+    "title": "Midcap Masala",
+    "desc": "Explores India&apos;s midcap stocks with expert analysis, top picks, and market trends, guiding investors toward high-growth opportunities."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781069400000,
+    "stopTs": 1781073000000,
+    "title": "ET NOW BNSN: The Stock Game",
+    "desc": "Journalists and reporters share the latest news stories and updates on the stock market."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781073000000,
+    "stopTs": 1781076600000,
+    "title": "Markets @ Noon",
+    "desc": "The host provides the latest updates on matters concerning the share market."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781074800000,
+    "stopTs": 1781076600000,
+    "title": "All About Your Company",
+    "desc": "Market-focused shows explore investment opportunities, corporate news, and financial strategies."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781076600000,
+    "stopTs": 1781078400000,
+    "title": "The Newsroom",
+    "desc": "The host presents the latest social, economic and political news from around the world."
+  },
+  {
+    "start": "08:00",
+    "stop": "09:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781078400000,
+    "stopTs": 1781082000000,
+    "title": "Market Fatafat",
+    "desc": "The host invites an expert to discuss the performance of financial instruments."
+  },
+  {
+    "start": "08:30",
+    "stop": "10:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781080200000,
+    "stopTs": 1781085600000,
+    "title": "Closing Trades",
+    "desc": "A show that discusses stocks that have been highly volatile in trading while counting down to market closing."
+  },
+  {
+    "start": "09:00",
+    "stop": "10:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781082000000,
+    "stopTs": 1781085600000,
+    "title": "ET NOW Closing Trades",
+    "desc": "The hosts discuss Sensex and Nifty numbers with market trends in the current economy."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781085600000,
+    "stopTs": 1781087400000,
+    "title": "Business Primetime",
+    "desc": "The host interacts with financial experts who share their insights on the stock market."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781087400000,
+    "stopTs": 1781089200000,
+    "title": "Beat the Street",
+    "desc": "The host and subject-matter experts provide updates on trends in the Indian stock market."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781089200000,
+    "stopTs": 1781091000000,
+    "title": "Talent Superheroes",
+    "desc": "The host and other top Indian executives discuss talent acquisition in the country."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781091000000,
+    "stopTs": 1781092800000,
+    "title": "The Money Show",
+    "desc": "The host presents information about fiscal management and investment advice."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781092800000,
+    "stopTs": 1781094600000,
+    "title": "News Now",
+    "desc": "The host sheds light on the latest news updates from across the nation and the world."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781094600000,
+    "stopTs": 1781096400000,
+    "title": "Startup Central",
+    "desc": "The host holds conversations with business leaders from various start-ups."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781096400000,
+    "stopTs": 1781098200000,
+    "title": "Your Trades",
+    "desc": "Trade experts express their views on the latest trends in the Indian stock market."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781098200000,
+    "stopTs": 1781100000000,
+    "title": "Rush Hour",
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781100000000,
+    "stopTs": 1781101800000,
+    "title": "BUDGET 2024 - Special",
+    "desc": "The host and subject-matter experts provide an understanding of the 2024 Union Budget."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781101800000,
+    "stopTs": 1781105400000,
+    "title": "India Tonight",
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781103600000,
+    "stopTs": 1781105400000,
+    "title": "Market Edge",
+    "desc": "The host shares clear, up-to-date news from politics, society, economy, and sports, covering major events at home and worldwide in an easy-to-understand way for everyone."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781105400000,
+    "stopTs": 1781107200000,
+    "title": "India Development Debate",
+    "desc": "The host conducts a debate between experts on topics related to India&apos;s development."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781107200000,
+    "stopTs": 1781109000000,
+    "title": "Big Voices",
+    "desc": "The host interacts with experts who shed light on the latest financial news."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781109000000,
+    "stopTs": 1781110800000,
+    "title": "The Money Show",
+    "desc": "The host presents information about fiscal management and investment advice."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781110800000,
+    "stopTs": 1781112600000,
+    "title": "IDFC First Bank Presents ET Now Leaders",
+    "desc": "The host showcases success stories of businesses and leaders across the globe."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781112600000,
+    "stopTs": 1781114400000,
+    "title": "Your Trades",
+    "desc": "Trade experts express their views on the latest trends in the Indian stock market."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781114400000,
+    "stopTs": 1781116200000,
+    "title": "India Development Debate",
+    "desc": "The host conducts a debate between experts on topics related to India&apos;s development."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781116200000,
+    "stopTs": 1781118000000,
+    "title": "India Tonight",
+    "desc": "Karan takes you through the day&apos;s current affairs with razor-sharp analysis and tackles some critical issues."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781118000000,
+    "stopTs": 1781119800000,
+    "title": "Market Edge",
+    "desc": "The host shares clear, up-to-date news from politics, society, economy, and sports, covering major events at home and worldwide in an easy-to-understand way for everyone."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781119800000,
+    "stopTs": 1781121600000,
+    "title": "Deep Dive",
+    "desc": "In-depth financial discussions explore market trends, corporate strategies, and economic forecasts, giving viewers insights into investments and business decisions."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781121600000,
+    "stopTs": 1781123400000,
+    "title": "Earnings With Et Now",
+    "desc": "Industry leaders from major companies share their insights on the latest developments pertaining to earnings from the stock market."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781123400000,
+    "stopTs": 1781125200000,
+    "title": "India Tonight",
+    "desc": "Karan takes you through the day&apos;s current affairs with razor-sharp analysis and tackles some critical issues."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781125200000,
+    "stopTs": 1781127000000,
+    "title": "Market Edge",
+    "desc": "The host shares clear, up-to-date news from politics, society, economy, and sports, covering major events at home and worldwide in an easy-to-understand way for everyone."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781127000000,
+    "stopTs": 1781128800000,
+    "title": "South Central",
+    "desc": "The host shares the latest news across politics, society, economy, and sports, covering events at home and abroad in a simple, straightforward style for everyone."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781128800000,
+    "stopTs": 1781130600000,
+    "title": "Navigating Volatility",
+    "desc": "The host shares clear, up-to-date news from politics, society, economy, and sports, covering major events at home and worldwide in an easy-to-understand way for everyone."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781130600000,
+    "stopTs": 1781132400000,
+    "title": "India Tonight",
+    "desc": "Karan takes you through the day&apos;s current affairs with razor-sharp analysis and tackles some critical issues."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781132400000,
+    "stopTs": 1781134200000,
+    "title": "Market Edge",
+    "desc": "The host shares clear, up-to-date news from politics, society, economy, and sports, covering major events at home and worldwide in an easy-to-understand way for everyone."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781134200000,
+    "stopTs": 1781136000000,
+    "title": "Business @ 9",
+    "desc": "Economic and business programs provide updates on trends, strategies, and growth opportunities."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781136000000,
+    "stopTs": 1781137800000,
+    "title": "The Money Show",
+    "desc": "The host provides tips and tools to a live audience and gives invaluable insights on earning, saving and investing."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781137800000,
+    "stopTs": 1781139600000,
+    "title": "Earnings With Et Now",
+    "desc": "Industry leaders from major companies share their insights on the latest developments pertaining to earnings from the stock market."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781139600000,
+    "stopTs": 1781141400000,
+    "title": "Navigating Volatility",
+    "desc": "The host shares clear, up-to-date news from politics, society, economy, and sports, covering major events at home and worldwide in an easy-to-understand way for everyone."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781141400000,
+    "stopTs": 1781143200000,
+    "title": "Market Edge",
+    "desc": "The host shares clear, up-to-date news from politics, society, economy, and sports, covering major events at home and worldwide in an easy-to-understand way for everyone."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781143200000,
+    "stopTs": 1781145000000,
+    "title": "Market Cafe",
+    "desc": "An update on global market cues and complelling stock ideas to watch out for"
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1781145000000,
+    "stopTs": 1781148600000,
+    "title": "The Market",
     "desc": "The best guide for making serious money, with top fundamental ideas and tec hinical recommendations"
   },
   {
@@ -951,8 +962,8 @@
     "channel": "ETNow.in",
     "channelId": "ETNow.in",
     "channelName": "ET NOW",
-    "startTs": 1781062200000,
-    "stopTs": 1781067600000,
+    "startTs": 1781148600000,
+    "stopTs": 1781154000000,
     "title": "First Trades",
     "desc": "A show that discusses stocks that have been highly volatile in trading while the stock markets open."
   }
