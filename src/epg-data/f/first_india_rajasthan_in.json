@@ -1,23 +1,12 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781319600000,
-    "stopTs": 1781321400000,
-    "title": "Bhoole Bisre Nagme",
-    "desc": "A comprehensive compilation of evergreen music that are now regarded as all-time classics. S01 E2410."
-  },
-  {
     "start": "03:30",
     "stop": "04:00",
     "channel": "FirstIndiaNews.in",
     "channelId": "FirstIndiaNews.in",
     "channelName": "First India Rajasthan",
-    "startTs": 1781321400000,
-    "stopTs": 1781323200000,
+    "startTs": 1781407800000,
+    "stopTs": 1781409600000,
     "title": "National News",
     "desc": "The host sheds light on the latest news updates from across the nation. S01 E01."
   },
@@ -27,10 +16,10 @@
     "channel": "FirstIndiaNews.in",
     "channelId": "FirstIndiaNews.in",
     "channelName": "First India Rajasthan",
-    "startTs": 1781323200000,
-    "stopTs": 1781325000000,
-    "title": "News Special",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world. S01 E01."
+    "startTs": 1781409600000,
+    "stopTs": 1781411400000,
+    "title": "Khel Khel Mein",
+    "desc": "An analyst presents the latest updates on players and teams from the world of sports. S01 E75."
   },
   {
     "start": "04:30",
@@ -38,8 +27,8 @@
     "channel": "FirstIndiaNews.in",
     "channelId": "FirstIndiaNews.in",
     "channelName": "First India Rajasthan",
-    "startTs": 1781325000000,
-    "stopTs": 1781326800000,
+    "startTs": 1781411400000,
+    "stopTs": 1781413200000,
     "title": "Rajasthan 10 Baje",
     "desc": "The host presents some of the latest news stories and updates in Rajasthan. S01 E01."
   },
@@ -49,505 +38,10 @@
     "channel": "FirstIndiaNews.in",
     "channelId": "FirstIndiaNews.in",
     "channelName": "First India Rajasthan",
-    "startTs": 1781326800000,
-    "stopTs": 1781328600000,
-    "title": "Rajasthan 10 Baje",
-    "desc": "The host presents some of the latest news stories and updates in Rajasthan. S01 E01."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781328600000,
-    "stopTs": 1781330400000,
-    "title": "Breaking Bulletin",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world. S01 E01."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781330400000,
-    "stopTs": 1781332200000,
-    "title": "News Live",
-    "desc": "The host sheds light on the top news updates from across the nation and the world, live. S01 E01."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781332200000,
-    "stopTs": 1781334000000,
-    "title": "News Blast",
-    "desc": "The host sheds light on the latest updates and developments regarding social issues. S01 E01."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781334000000,
-    "stopTs": 1781335800000,
-    "title": "Viral Hits Live",
-    "desc": "The host sheds light on the latest news updates and developments, live."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781335800000,
-    "stopTs": 1781337600000,
-    "title": "Hamara Rajasthan",
-    "desc": "The host presents the latest updates and stories from the state of Rajasthan. S01 E01."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781337600000,
-    "stopTs": 1781339400000,
-    "title": "Hamara Rajasthan",
-    "desc": "The host presents the latest updates and stories from the state of Rajasthan. S01 E01."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781339400000,
-    "stopTs": 1781341200000,
-    "title": "Daily 2 PM",
-    "desc": "The host presents the latest news stories surrounding various issues around the country."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781341200000,
-    "stopTs": 1781343000000,
-    "title": "Jungle",
-    "desc": "An insight into the wildlife of India and the reasons for their population decline. S01 E1213."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781343000000,
-    "stopTs": 1781344800000,
-    "title": "Speed News",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world. S01 E03."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781344800000,
-    "stopTs": 1781346600000,
-    "title": "Ghoomar Nakhrali",
-    "desc": "The host provides interesting facts and presents a compilation of Rajasthani folk songs. S01 E2492."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781346600000,
-    "stopTs": 1781348400000,
-    "title": "Hamara Rajasthan",
-    "desc": "The host presents the latest updates and stories from the state of Rajasthan. S01 E02."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781348400000,
-    "stopTs": 1781350200000,
-    "title": "Hamara Rajasthan",
-    "desc": "The host presents the latest updates and stories from the state of Rajasthan. S01 E02."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781350200000,
-    "stopTs": 1781352000000,
-    "title": "News Live",
-    "desc": "The host sheds light on the top news updates from across the nation and the world, live. S01 E03."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781352000000,
-    "stopTs": 1781353800000,
-    "title": "Khabaraa Tahsil Ree",
-    "desc": "The host presents the latest news from different tehsils of the state."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781353800000,
-    "stopTs": 1781355600000,
-    "title": "Khel Khel Mein",
-    "desc": "An analyst presents the latest updates on players and teams from the world of sports. S01 E75."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781355600000,
-    "stopTs": 1781357400000,
-    "title": "News Blast National",
-    "desc": "The host provides timely and comprehensive coverage of national events."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781357400000,
-    "stopTs": 1781359200000,
-    "title": "Hamara Rajasthan",
-    "desc": "The host presents the latest updates and stories from the state of Rajasthan. S01 E03."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781359200000,
-    "stopTs": 1781361000000,
-    "title": "Hamara Rajasthan",
-    "desc": "The host presents the latest updates and stories from the state of Rajasthan. S01 E03."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781361000000,
-    "stopTs": 1781362800000,
-    "title": "News Live",
-    "desc": "The host sheds light on the top news updates from across the nation and the world, live. S01 E05."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781362800000,
-    "stopTs": 1781364600000,
-    "title": "Speed News",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world. S01 E05."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781364600000,
-    "stopTs": 1781366400000,
-    "title": "Nation at 9",
-    "desc": "The host presents the latest news updates from India and across the world."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781366400000,
-    "stopTs": 1781368200000,
-    "title": "Kya Kahte Hai Narendra Modi",
-    "desc": "The host talks about Narendra Modi&apos;s speech and analyses his plans for the future. S01 E102."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781368200000,
-    "stopTs": 1781370000000,
-    "title": "Rajasthan 10 Baje",
-    "desc": "The host presents some of the latest news stories and updates in Rajasthan. S01 E02."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781370000000,
-    "stopTs": 1781371800000,
-    "title": "Speed News",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world. S01 E06."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781371800000,
-    "stopTs": 1781373600000,
-    "title": "Final Report",
-    "desc": "The host informs about the issues of the day and provides updates on current events."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781373600000,
-    "stopTs": 1781375400000,
-    "title": "News Live",
-    "desc": "The host sheds light on the top news updates from across the nation and the world, live. S01 E05."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781375400000,
-    "stopTs": 1781377200000,
-    "title": "Final Report",
-    "desc": "The host informs about the issues of the day and provides updates on current events."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781377200000,
-    "stopTs": 1781379000000,
-    "title": "Ghoomar Nakhrali",
-    "desc": "The host provides interesting facts and presents a compilation of Rajasthani folk songs."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781379000000,
-    "stopTs": 1781380800000,
-    "title": "Speed News",
-    "desc": "The host presents the latest news stories from all around the region."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781380800000,
-    "stopTs": 1781382600000,
-    "title": "Bhoole Bisre Nagme",
-    "desc": "A comprehensive compilation of evergreen music that are now regarded as all-time classics."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781382600000,
-    "stopTs": 1781384400000,
-    "title": "Final Report",
-    "desc": "The host informs about the issues of the day and provides updates on current events."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781384400000,
-    "stopTs": 1781386200000,
-    "title": "Ghoomar Nakhrali",
-    "desc": "The host provides interesting facts and presents a compilation of Rajasthani folk songs."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781386200000,
-    "stopTs": 1781388000000,
-    "title": "Speed News",
-    "desc": "The host presents the latest news stories from all around the region."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781388000000,
-    "stopTs": 1781389800000,
-    "title": "Final Report",
-    "desc": "The host informs about the issues of the day and provides updates on current events."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781389800000,
-    "stopTs": 1781391600000,
-    "title": "Bhoole Bisre Nagme",
-    "desc": "A comprehensive compilation of evergreen music that are now regarded as all-time classics."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781391600000,
-    "stopTs": 1781393400000,
-    "title": "Ghoomar Nakhrali",
-    "desc": "The host provides interesting facts and presents a compilation of Rajasthani folk songs."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781393400000,
-    "stopTs": 1781395200000,
-    "title": "Dev Darshan",
-    "desc": "A priest recites hymns and performs aarti at Ajmer&apos;s Ram Mandir, offering devotion."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781395200000,
-    "stopTs": 1781397000000,
-    "title": "Sur Sadhana",
-    "desc": "Renowned musicians share their valuable knowledge about Hindustani classical music."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781397000000,
-    "stopTs": 1781400600000,
-    "title": "Khabaraa Tahsil Ree",
-    "desc": "The host presents the latest news from different tehsils of the state."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781400600000,
-    "stopTs": 1781402400000,
-    "title": "Subah Savere Rajasthan",
-    "desc": "The host presents the latest news updates from around the state of Rajasthan."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781402400000,
-    "stopTs": 1781404200000,
-    "title": "Good Luck Tips Live",
-    "desc": "An astrologer explains the impact of the movements of heavenly bodies on one&apos;s life, live."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781404200000,
-    "stopTs": 1781407800000,
-    "title": "Bhoole Bisre Geet Nagme",
-    "desc": "A comprehensive compilation of some of the finest classic musical tracks from popular movies."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781407800000,
-    "stopTs": 1781409600000,
-    "title": "National News",
-    "desc": "The host presents the latest news updates and developments from across the country."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781409600000,
-    "stopTs": 1781411400000,
-    "title": "News Special",
-    "desc": "The host presents the latest regional and national news, updates and developments."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "FirstIndiaNews.in",
-    "channelId": "FirstIndiaNews.in",
-    "channelName": "First India Rajasthan",
-    "startTs": 1781411400000,
+    "startTs": 1781413200000,
     "stopTs": 1781415000000,
     "title": "Rajasthan 10 Baje",
-    "desc": "The host presents some of the latest news stories and updates in Rajasthan."
+    "desc": "The host presents some of the latest news stories and updates in Rajasthan. S01 E01."
   },
   {
     "start": "05:30",
@@ -558,7 +52,7 @@
     "startTs": 1781415000000,
     "stopTs": 1781416800000,
     "title": "Breaking Bulletin",
-    "desc": "The host presents the latest updates from the world of politics, sports and economics."
+    "desc": "The host sheds light on the latest news updates from across the nation and the world. S01 E01."
   },
   {
     "start": "06:00",
@@ -569,7 +63,7 @@
     "startTs": 1781416800000,
     "stopTs": 1781418600000,
     "title": "News Live",
-    "desc": "The host sheds light on the top news updates from across the nation and the world, live."
+    "desc": "The host sheds light on the top news updates from across the nation and the world, live. S01 E01."
   },
   {
     "start": "06:30",
@@ -580,7 +74,7 @@
     "startTs": 1781418600000,
     "stopTs": 1781420400000,
     "title": "News Blast",
-    "desc": "The host sheds light on the latest updates and developments regarding social issues."
+    "desc": "The host sheds light on the latest updates and developments regarding social issues. S01 E01."
   },
   {
     "start": "07:00",
@@ -590,19 +84,30 @@
     "channelName": "First India Rajasthan",
     "startTs": 1781420400000,
     "stopTs": 1781422200000,
-    "title": "Viral Hit Live",
-    "desc": "The host presents the latest news stories that are going viral on social media, live."
+    "title": "Viral Hits Live",
+    "desc": "The host sheds light on the latest news updates and developments, live."
   },
   {
     "start": "07:30",
-    "stop": "08:30",
+    "stop": "08:00",
     "channel": "FirstIndiaNews.in",
     "channelId": "FirstIndiaNews.in",
     "channelName": "First India Rajasthan",
     "startTs": 1781422200000,
+    "stopTs": 1781424000000,
+    "title": "Hamara Rajasthan",
+    "desc": "The host presents the latest updates and stories from the state of Rajasthan. S01 E01."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781424000000,
     "stopTs": 1781425800000,
     "title": "Hamara Rajasthan",
-    "desc": "The host presents a detailed report of the latest news from Rajasthan."
+    "desc": "The host presents the latest updates and stories from the state of Rajasthan. S01 E01."
   },
   {
     "start": "08:30",
@@ -624,7 +129,7 @@
     "startTs": 1781427600000,
     "stopTs": 1781429400000,
     "title": "Jungle",
-    "desc": "An insight into the wildlife of India and the reasons for their population decline."
+    "desc": "An insight into the wildlife of India and the reasons for their population decline. S01 E1214."
   },
   {
     "start": "09:30",
@@ -635,7 +140,7 @@
     "startTs": 1781429400000,
     "stopTs": 1781431200000,
     "title": "The Property Show",
-    "desc": "The host guides viewers about buying and selling property at best rates."
+    "desc": "The host guides viewers about buying and selling property at best rates. S01 E269."
   },
   {
     "start": "10:00",
@@ -646,7 +151,7 @@
     "startTs": 1781431200000,
     "stopTs": 1781433000000,
     "title": "Ghoomar Nakhrali",
-    "desc": "The host provides interesting facts and presents a compilation of Rajasthani folk songs."
+    "desc": "The host provides interesting facts and presents a compilation of Rajasthani folk songs. S01 E2493."
   },
   {
     "start": "10:30",
@@ -657,7 +162,7 @@
     "startTs": 1781433000000,
     "stopTs": 1781434800000,
     "title": "Hamara Rajasthan",
-    "desc": "The host presents a detailed report of the latest news from Rajasthan."
+    "desc": "The host presents the latest updates and stories from the state of Rajasthan. S01 E02."
   },
   {
     "start": "11:00",
@@ -667,8 +172,8 @@
     "channelName": "First India Rajasthan",
     "startTs": 1781434800000,
     "stopTs": 1781436600000,
-    "title": "Shakhsiyat 2022",
-    "desc": "The host engages with influential figures, uncovering their personal stories and views."
+    "title": "Hamara Rajasthan",
+    "desc": "The host presents the latest updates and stories from the state of Rajasthan. S01 E02."
   },
   {
     "start": "11:30",
@@ -679,18 +184,29 @@
     "startTs": 1781436600000,
     "stopTs": 1781438400000,
     "title": "News Live",
-    "desc": "The host sheds light on the top news updates from across the nation and the world, live."
+    "desc": "The host sheds light on the top news updates from across the nation and the world, live. S01 E03."
   },
   {
     "start": "12:00",
-    "stop": "13:00",
+    "stop": "12:30",
     "channel": "FirstIndiaNews.in",
     "channelId": "FirstIndiaNews.in",
     "channelName": "First India Rajasthan",
     "startTs": 1781438400000,
+    "stopTs": 1781440200000,
+    "title": "Khabaraa Tahsil Ree",
+    "desc": "The host presents the latest news from different tehsils of the state. S01 E01."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781440200000,
     "stopTs": 1781442000000,
     "title": "Khabaraa Tahsil Ree",
-    "desc": "The host presents the latest news from different tehsils of the state."
+    "desc": "The host presents the latest news from different tehsils of the state. S01 E02."
   },
   {
     "start": "13:00",
@@ -701,18 +217,29 @@
     "startTs": 1781442000000,
     "stopTs": 1781443800000,
     "title": "News Blast National",
-    "desc": "The host provides timely and comprehensive coverage of national events."
+    "desc": "The host provides timely and comprehensive coverage of national events. S01 E01."
   },
   {
     "start": "13:30",
-    "stop": "14:30",
+    "stop": "14:00",
     "channel": "FirstIndiaNews.in",
     "channelId": "FirstIndiaNews.in",
     "channelName": "First India Rajasthan",
     "startTs": 1781443800000,
+    "stopTs": 1781445600000,
+    "title": "Hamara Rajasthan",
+    "desc": "The host presents the latest updates and stories from the state of Rajasthan. S01 E03."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781445600000,
     "stopTs": 1781447400000,
     "title": "Hamara Rajasthan",
-    "desc": "The host presents a detailed report of the latest news from Rajasthan."
+    "desc": "The host presents the latest updates and stories from the state of Rajasthan. S01 E03."
   },
   {
     "start": "14:30",
@@ -723,7 +250,7 @@
     "startTs": 1781447400000,
     "stopTs": 1781449200000,
     "title": "News Live",
-    "desc": "The host sheds light on the top news updates from across the nation and the world, live."
+    "desc": "The host sheds light on the top news updates from across the nation and the world, live. S01 E05."
   },
   {
     "start": "15:00",
@@ -734,7 +261,7 @@
     "startTs": 1781449200000,
     "stopTs": 1781451000000,
     "title": "Speed News",
-    "desc": "The host presents the latest news stories from all around the region."
+    "desc": "The host sheds light on the latest news updates from across the nation and the world. S01 E05."
   },
   {
     "start": "15:30",
@@ -755,8 +282,8 @@
     "channelName": "First India Rajasthan",
     "startTs": 1781452800000,
     "stopTs": 1781454600000,
-    "title": "Adhuri Aas",
-    "desc": "The host visits different parts of the country and interacts with the locals."
+    "title": "News Special",
+    "desc": "The host sheds light on the latest news updates from across the nation and the world. S01 E01."
   },
   {
     "start": "16:30",
@@ -767,7 +294,7 @@
     "startTs": 1781454600000,
     "stopTs": 1781456400000,
     "title": "Rajasthan 10 Baje",
-    "desc": "The host presents some of the latest news stories and updates in Rajasthan."
+    "desc": "The host presents some of the latest news stories and updates in Rajasthan. S01 E02."
   },
   {
     "start": "17:00",
@@ -778,7 +305,7 @@
     "startTs": 1781456400000,
     "stopTs": 1781458200000,
     "title": "Speed News",
-    "desc": "The host presents the latest news stories from all around the region."
+    "desc": "The host sheds light on the latest news updates from across the nation and the world. S01 E06."
   },
   {
     "start": "17:30",
@@ -799,6 +326,457 @@
     "channelName": "First India Rajasthan",
     "startTs": 1781460000000,
     "stopTs": 1781461800000,
+    "title": "News Live",
+    "desc": "The host sheds light on the top news updates from across the nation and the world, live. S01 E06."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781461800000,
+    "stopTs": 1781463600000,
+    "title": "Final Report",
+    "desc": "The host informs about the issues of the day and provides updates on current events."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781463600000,
+    "stopTs": 1781465400000,
+    "title": "Ghoomar Nakhrali",
+    "desc": "The host provides interesting facts and presents a compilation of Rajasthani folk songs."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781465400000,
+    "stopTs": 1781467200000,
+    "title": "Speed News",
+    "desc": "The host presents the latest news stories from all around the region."
+  },
+  {
+    "start": "20:00",
+    "stop": "21:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781467200000,
+    "stopTs": 1781470800000,
+    "title": "Bhoole Bisre Geet Nagme",
+    "desc": "A comprehensive compilation of some of the finest classic musical tracks from popular movies."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781470800000,
+    "stopTs": 1781472600000,
+    "title": "Ghoomar Nakhrali",
+    "desc": "The host provides interesting facts and presents a compilation of Rajasthani folk songs."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781472600000,
+    "stopTs": 1781474400000,
+    "title": "Speed News",
+    "desc": "The host presents the latest news stories from all around the region."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781474400000,
+    "stopTs": 1781476200000,
+    "title": "Final Report",
+    "desc": "The host informs about the issues of the day and provides updates on current events."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781476200000,
+    "stopTs": 1781479800000,
+    "title": "Bhoole Bisre Geet Nagme",
+    "desc": "A comprehensive compilation of some of the finest classic musical tracks from popular movies."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781479800000,
+    "stopTs": 1781481600000,
+    "title": "Dev Darshan",
+    "desc": "A priest recites hymns and performs aarti at Ajmer&apos;s Ram Mandir, offering devotion."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781481600000,
+    "stopTs": 1781483400000,
+    "title": "Sur Sadhana",
+    "desc": "Renowned musicians share their valuable knowledge about Hindustani classical music."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781483400000,
+    "stopTs": 1781487000000,
+    "title": "Khabaraa Tahsil Ree",
+    "desc": "The host presents the latest news from different tehsils of the state."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781487000000,
+    "stopTs": 1781488800000,
+    "title": "Subah Savere Rajasthan",
+    "desc": "The host presents the latest news updates from around the state of Rajasthan."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781488800000,
+    "stopTs": 1781490600000,
+    "title": "Good Luck Tips Live",
+    "desc": "An astrologer explains the impact of the movements of heavenly bodies on one&apos;s life, live."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781490600000,
+    "stopTs": 1781492400000,
+    "title": "Speed News",
+    "desc": "The host presents the latest news stories from all around the region."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781492400000,
+    "stopTs": 1781494200000,
+    "title": "Bhoole Bisre Nagme",
+    "desc": "A comprehensive compilation of evergreen music that are now regarded as all-time classics."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781494200000,
+    "stopTs": 1781496000000,
+    "title": "National News",
+    "desc": "The host presents the latest news updates and developments from across the country."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781496000000,
+    "stopTs": 1781497800000,
+    "title": "Adhuri Aas",
+    "desc": "The host visits different parts of the country and interacts with the locals."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781497800000,
+    "stopTs": 1781501400000,
+    "title": "Rajasthan 10 Baje",
+    "desc": "The host presents some of the latest news stories and updates in Rajasthan."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781501400000,
+    "stopTs": 1781503200000,
+    "title": "Breaking Bulletin",
+    "desc": "The host presents the latest updates from the world of politics, sports and economics."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781503200000,
+    "stopTs": 1781505000000,
+    "title": "News Live",
+    "desc": "The host sheds light on the top news updates from across the nation and the world, live."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781505000000,
+    "stopTs": 1781506800000,
+    "title": "News Blast",
+    "desc": "The host sheds light on the latest updates and developments regarding social issues."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781506800000,
+    "stopTs": 1781508600000,
+    "title": "Viral Hit Live",
+    "desc": "The host presents the latest news stories that are going viral on social media, live."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781508600000,
+    "stopTs": 1781512200000,
+    "title": "Hamara Rajasthan",
+    "desc": "The host presents a detailed report of the latest news from Rajasthan."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781512200000,
+    "stopTs": 1781514000000,
+    "title": "Daily 2 PM",
+    "desc": "The host presents the latest news stories surrounding various issues around the country."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781514000000,
+    "stopTs": 1781515800000,
+    "title": "Jungle",
+    "desc": "An insight into the wildlife of India and the reasons for their population decline."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781515800000,
+    "stopTs": 1781517600000,
+    "title": "Speed News",
+    "desc": "The host presents the latest news stories from all around the region."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781517600000,
+    "stopTs": 1781519400000,
+    "title": "Ghoomar Nakhrali",
+    "desc": "The host provides interesting facts and presents a compilation of Rajasthani folk songs."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781519400000,
+    "stopTs": 1781523000000,
+    "title": "Hamara Rajasthan",
+    "desc": "The host presents a detailed report of the latest news from Rajasthan."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781523000000,
+    "stopTs": 1781524800000,
+    "title": "Jawab To Dena Padega Live",
+    "desc": "The host questions a panel of experts on pressing issues concerning the nation, live."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781524800000,
+    "stopTs": 1781526600000,
+    "title": "Khabaraa Tahsil Ree",
+    "desc": "The host presents the latest news from different tehsils of the state."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781526600000,
+    "stopTs": 1781528400000,
+    "title": "Khabaraa Tahsil Ree",
+    "desc": "The host presents the latest news from different tehsils of the state."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781528400000,
+    "stopTs": 1781530200000,
+    "title": "News Blast National",
+    "desc": "The host provides timely and comprehensive coverage of national events."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781530200000,
+    "stopTs": 1781533800000,
+    "title": "Hamara Rajasthan",
+    "desc": "The host presents a detailed report of the latest news from Rajasthan."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781533800000,
+    "stopTs": 1781535600000,
+    "title": "Big Fight Live",
+    "desc": "The host invites experts to share their opinions on various important issues, live."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781535600000,
+    "stopTs": 1781537400000,
+    "title": "Speed News",
+    "desc": "The host presents the latest news stories from all around the region."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781537400000,
+    "stopTs": 1781539200000,
+    "title": "Nation at 9",
+    "desc": "The host presents the latest news updates from India and across the world."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781539200000,
+    "stopTs": 1781541000000,
+    "title": "News Special",
+    "desc": "The host presents the latest regional and national news, updates and developments."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781541000000,
+    "stopTs": 1781542800000,
+    "title": "Rajasthan 10 Baje",
+    "desc": "The host presents some of the latest news stories and updates in Rajasthan."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781542800000,
+    "stopTs": 1781544600000,
+    "title": "Speed News",
+    "desc": "The host presents the latest news stories from all around the region."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781544600000,
+    "stopTs": 1781546400000,
+    "title": "Final Report",
+    "desc": "The host informs about the issues of the day and provides updates on current events."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "FirstIndiaNews.in",
+    "channelId": "FirstIndiaNews.in",
+    "channelName": "First India Rajasthan",
+    "startTs": 1781546400000,
+    "stopTs": 1781548200000,
     "title": "Kya Khate Hain Mukhyamantri",
     "desc": "The host showcases a series of archival footage featuring the chief minister&apos;s addresses."
   }
