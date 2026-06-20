@@ -1,14 +1,25 @@
 [
   {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "NationalGeographic.in",
+    "channelId": "NationalGeographic.in",
+    "channelName": "NATIONAL GEOGRAPHIC",
+    "startTs": 1781922600000,
+    "stopTs": 1781926200000,
+    "title": "Destruction Decoded",
+    "desc": "Some constructions can be the birth and death of a place at the same time. Explore the causes, prevention, and lessons from history&apos;s worst dam failures."
+  },
+  {
     "start": "03:30",
     "stop": "04:30",
     "channel": "NationalGeographic.in",
     "channelId": "NationalGeographic.in",
     "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781839800000,
-    "stopTs": 1781843400000,
-    "title": "Tucci in Italy",
-    "desc": "Stanley Tucci explores the personality of the northernmost region of Italy where the linguistic essence of German and Italian also reflects in its cuisine."
+    "startTs": 1781926200000,
+    "stopTs": 1781929800000,
+    "title": "Airport Security: Brazil",
+    "desc": "Federal Police at São Paulo International Airport work 24-7 to stop illegal activity."
   },
   {
     "start": "04:30",
@@ -16,43 +27,43 @@
     "channel": "NationalGeographic.in",
     "channelId": "NationalGeographic.in",
     "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781843400000,
-    "stopTs": 1781847000000,
-    "title": "Primal Survivor: Over the Andes",
-    "desc": "Survivalist and explorer Hazen Audel courageously tackles the waterless wilderness of the deadly Atacama Desert of Chile."
+    "startTs": 1781929800000,
+    "stopTs": 1781933400000,
+    "title": "Last of the Giants: Wild Fish",
+    "desc": "Cyril Chaquet and his intrepid team are on a quest as they head into the Nicaraguan jungle in their search for dangerous tarpon."
   },
   {
     "start": "05:30",
+    "stop": "06:00",
+    "channel": "NationalGeographic.in",
+    "channelId": "NationalGeographic.in",
+    "channelName": "NATIONAL GEOGRAPHIC",
+    "startTs": 1781933400000,
+    "stopTs": 1781935200000,
+    "title": "Man Eaters: A Human-Leopard Story",
+    "desc": "The filmmaker sheds light on Sri Lanka&apos;s human-leopard conflict while exploring similar cases to understand their behavior and prevent future escalation."
+  },
+  {
+    "start": "06:00",
     "stop": "06:30",
     "channel": "NationalGeographic.in",
     "channelId": "NationalGeographic.in",
     "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781847000000,
-    "stopTs": 1781850600000,
-    "title": "Dirty Rotten Survival",
-    "desc": "Dick brings Johnny and Dave to the heart of Texas for a hog hunting adventure in order to participate in the annual bacon competition."
+    "startTs": 1781935200000,
+    "stopTs": 1781937000000,
+    "title": "Tucci in Italy",
+    "desc": "Famous actor Stanley Tucci explores Italy&apos;s culinary traditions, discovering hidden gems and untold stories with locals, chefs and artisans."
   },
   {
     "start": "06:30",
-    "stop": "07:00",
-    "channel": "NationalGeographic.in",
-    "channelId": "NationalGeographic.in",
-    "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781850600000,
-    "stopTs": 1781852400000,
-    "title": "Last of the Giants: Wild Fish",
-    "desc": "A team of experts and adventurers embark on a perilous mission with the primary goal of collecting specimens of very large fish species that are on the verge of extinction."
-  },
-  {
-    "start": "07:00",
     "stop": "07:30",
     "channel": "NationalGeographic.in",
     "channelId": "NationalGeographic.in",
     "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781852400000,
-    "stopTs": 1781854200000,
-    "title": "Luke Nguyen&apos;s India",
-    "desc": "In the port city of Kochi, Luke learns to fish with the iconic Chinese fishing nets."
+    "startTs": 1781937000000,
+    "stopTs": 1781940600000,
+    "title": "Gordon Ramsay: Uncharted",
+    "desc": "Chef Ramsay journeys from the coast to the mountains of southern India, to unlock the complex flavours of the spice capital of the world."
   },
   {
     "start": "07:30",
@@ -60,10 +71,10 @@
     "channel": "NationalGeographic.in",
     "channelId": "NationalGeographic.in",
     "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781854200000,
-    "stopTs": 1781857800000,
-    "title": "Snakes SOS: Goa&apos;s Wildest",
-    "desc": "Wildlife rescuers Ben and Louise race against time as they desperately seek solutions to save the life of an injured langur."
+    "startTs": 1781940600000,
+    "stopTs": 1781944200000,
+    "title": "Airport Security: Madrid",
+    "desc": "When authorities at the airport find cocaine in the bags of three friends, they don&apos;t expect to stumble upon a harsh betrayal."
   },
   {
     "start": "08:30",
@@ -71,10 +82,10 @@
     "channel": "NationalGeographic.in",
     "channelId": "NationalGeographic.in",
     "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781857800000,
-    "stopTs": 1781859600000,
-    "title": "Snakes in the City",
-    "desc": "Skilled Simon and Siouxsie rush to capture a massive, venomous black mamba that is terrorising a frightened neighbourhood."
+    "startTs": 1781944200000,
+    "stopTs": 1781946000000,
+    "title": "Last of the Giants: Wild Fish",
+    "desc": "Cyril Chaquet and his intrepid team search the waters of Nicaragua in hopes of discovering the mighty tarpon, a large fish."
   },
   {
     "start": "09:00",
@@ -82,21 +93,32 @@
     "channel": "NationalGeographic.in",
     "channelId": "NationalGeographic.in",
     "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781859600000,
-    "stopTs": 1781861400000,
-    "title": "Do or Die",
-    "desc": "A team runs for cover as an enraged fighting bull lunges into a crowd of spectators. Elsewhere, a stuck gas pedal endangers a woman&apos;s life."
+    "startTs": 1781946000000,
+    "stopTs": 1781947800000,
+    "title": "Luke Nguyen&apos;s India",
+    "desc": "Luke Nguyen heads to Bangalore to explore the cuisine and nightlife of the city."
   },
   {
     "start": "09:30",
+    "stop": "10:00",
+    "channel": "NationalGeographic.in",
+    "channelId": "NationalGeographic.in",
+    "channelName": "NATIONAL GEOGRAPHIC",
+    "startTs": 1781947800000,
+    "stopTs": 1781949600000,
+    "title": "Snakes SOS: Goa&apos;s Wildest",
+    "desc": "Benhail Antao and Louise Remedios have their hands full of three rescues that test their skill and push the boundaries of their patience."
+  },
+  {
+    "start": "10:00",
     "stop": "10:30",
     "channel": "NationalGeographic.in",
     "channelId": "NationalGeographic.in",
     "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781861400000,
-    "stopTs": 1781865000000,
-    "title": "Primal Survivor: Mighty Mekong",
-    "desc": "Hazen Audel confronts the Mekong&apos;s most treacherous waters, joining courageous fishermen in a renowned fishing contest to complete his daring survival adventure."
+    "startTs": 1781949600000,
+    "stopTs": 1781951400000,
+    "title": "Snakes in the City",
+    "desc": "Sioux wrestles with a monitor lizard in an attic while Simon goes solo to catch a highly venomous Boomslang up a tree. Later, Si and Sioux also continue training their apprentice."
   },
   {
     "start": "10:30",
@@ -104,10 +126,10 @@
     "channel": "NationalGeographic.in",
     "channelId": "NationalGeographic.in",
     "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781865000000,
-    "stopTs": 1781866800000,
-    "title": "Airport Security: Madrid",
-    "desc": "At Adolfo Suárez Airport, the authorities uncover a suspicious backpack cleverly designed with hidden compartments containing cocaine."
+    "startTs": 1781951400000,
+    "stopTs": 1781953200000,
+    "title": "Destruction Decoded",
+    "desc": "The ambitious drive to conquer the vast plains of space led mankind down a disastrous path paved with devastating consequences."
   },
   {
     "start": "11:00",
@@ -115,10 +137,10 @@
     "channel": "NationalGeographic.in",
     "channelId": "NationalGeographic.in",
     "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781866800000,
-    "stopTs": 1781868600000,
-    "title": "Destruction Decoded",
-    "desc": "The planet is exposed to various disastrous threats like earthquakes, deadly viruses, and asteroids whose aftermath still leaves its survivors reeling."
+    "startTs": 1781953200000,
+    "stopTs": 1781955000000,
+    "title": "Luke Nguyen&apos;s India",
+    "desc": "Luke Nguyen, a professional chef, explores fishing techniques used by the local fishermen as he navigates the tranquil backwaters of Kerala."
   },
   {
     "start": "11:30",
@@ -126,10 +148,10 @@
     "channel": "NationalGeographic.in",
     "channelId": "NationalGeographic.in",
     "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781868600000,
-    "stopTs": 1781870400000,
-    "title": "Snakes in the City",
-    "desc": "During peak snake season, the team divides tasks among themselves. Sioux and Mbali handle a spirited black mamba, while Simon grapples with a massive specimen alone."
+    "startTs": 1781955000000,
+    "stopTs": 1781956800000,
+    "title": "Primal Survivor: Escape the Amazon",
+    "desc": "Survival expert Hazen Audel joins indigenous cowboys and tackles a giant anaconda as he attempts to cross the open savannah."
   },
   {
     "start": "12:00",
@@ -137,54 +159,32 @@
     "channel": "NationalGeographic.in",
     "channelId": "NationalGeographic.in",
     "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781870400000,
-    "stopTs": 1781872200000,
-    "title": "Snakes SOS: Goa&apos;s Wildest",
-    "desc": "Wildlife rescuers Benhail Antao and Louise Remedios struggle to rescue an entire family of porcupines as they snarl viciously in defense."
+    "startTs": 1781956800000,
+    "stopTs": 1781958600000,
+    "title": "India&apos;s Mega Festivals",
+    "desc": "Colombian chef Pablo Naranjo immerses himself in Mumbai&apos;s larger-than-life festival of Ganesh Chaturthi, a Hindu occasion commemorating Lord Ganesha."
   },
   {
     "start": "12:30",
-    "stop": "13:00",
-    "channel": "NationalGeographic.in",
-    "channelId": "NationalGeographic.in",
-    "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781872200000,
-    "stopTs": 1781874000000,
-    "title": "Primal Survivor: Escape the Amazon",
-    "desc": "Survival expert Hazen Audel uses ancient native techniques and instincts to navigate tactfully and survive in the Amazon wilderness."
-  },
-  {
-    "start": "13:00",
     "stop": "13:30",
     "channel": "NationalGeographic.in",
     "channelId": "NationalGeographic.in",
     "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781874000000,
-    "stopTs": 1781875800000,
-    "title": "Last of the Giants: Wild Fish",
-    "desc": "Cyril Chaquet and his intrepid team are on a quest as they head into the Nicaraguan jungle in their search for dangerous tarpon."
+    "startTs": 1781958600000,
+    "stopTs": 1781962200000,
+    "title": "Primal Survivor",
+    "desc": "Hazen Audel battles his way through the Guyana jungle and fights along waters filled with predators in order to track a party of Makushi tribesmen."
   },
   {
     "start": "13:30",
-    "stop": "14:00",
-    "channel": "NationalGeographic.in",
-    "channelId": "NationalGeographic.in",
-    "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781875800000,
-    "stopTs": 1781877600000,
-    "title": "India&apos;s Mega Festivals",
-    "desc": "A popular chef Gary Mehigan goes to Kolkata to explore and soak himself in the festive spirit of Durga Puja, an annual Hindu festival."
-  },
-  {
-    "start": "14:00",
     "stop": "14:30",
     "channel": "NationalGeographic.in",
     "channelId": "NationalGeographic.in",
     "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781877600000,
-    "stopTs": 1781879400000,
-    "title": "Tucci in Italy",
-    "desc": "Famous actor Stanley Tucci explores Italy&apos;s culinary traditions, discovering hidden gems and untold stories with locals, chefs and artisans."
+    "startTs": 1781962200000,
+    "stopTs": 1781965800000,
+    "title": "Around The World with Manu Feildel",
+    "desc": "Follow Manu Feildel&apos;s 30-day culinary voyage inspired by Jules Verne&apos;s famous novel."
   },
   {
     "start": "14:30",
@@ -192,10 +192,10 @@
     "channel": "NationalGeographic.in",
     "channelId": "NationalGeographic.in",
     "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781879400000,
-    "stopTs": 1781881200000,
-    "title": "Luke Nguyen&apos;s India",
-    "desc": "Luke Nguyen travels to the scenic town of Thekkady to explore its spice plantations and later, arrives at Madurai to uncover its hidden gems."
+    "startTs": 1781965800000,
+    "stopTs": 1781967600000,
+    "title": "Luke Nguyen&apos;s Street Food Asia",
+    "desc": "Australian chef and restaurateur Luke Nguyen continues his vibrant culinary adventure in the bustling backstreets of Saigon."
   },
   {
     "start": "15:00",
@@ -203,10 +203,10 @@
     "channel": "NationalGeographic.in",
     "channelId": "NationalGeographic.in",
     "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781881200000,
-    "stopTs": 1781883000000,
-    "title": "Luke Nguyen&apos;s Street Food Asia",
-    "desc": "Luke completes his street food journey in Jakarta, where he indulges in an Indonesian dessert and delicious nasi goreng."
+    "startTs": 1781967600000,
+    "stopTs": 1781969400000,
+    "title": "Primal Survivor",
+    "desc": "Hazen travels to Suriname to meet the Saramacca tribe in the Amazon Basin. Descended from escaped African slaves, he learns their rainforest survival skills."
   },
   {
     "start": "15:30",
@@ -214,9 +214,9 @@
     "channel": "NationalGeographic.in",
     "channelId": "NationalGeographic.in",
     "channelName": "NATIONAL GEOGRAPHIC",
-    "startTs": 1781883000000,
-    "stopTs": 1781886600000,
-    "title": "Primal Survivor",
-    "desc": "Hazen Audel battles scorching Kenyan plains, sails crocodile infested waters and fights off deadly snakes and swarms of bees in order to reach Rendille warriors."
+    "startTs": 1781969400000,
+    "stopTs": 1781973000000,
+    "title": "Destruction Decoded",
+    "desc": "The filmmaker discovers the numerous causes and errors that cause major transportation failures and disastrous collisions."
   }
 ]

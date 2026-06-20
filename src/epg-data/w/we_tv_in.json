@@ -1,14 +1,36 @@
 [
   {
+    "start": "02:30",
+    "stop": "04:30",
+    "channel": "WETV.in",
+    "channelId": "WETV.in",
+    "channelName": "WE TV",
+    "startTs": 1781922600000,
+    "stopTs": 1781929800000,
+    "title": "Movie",
+    "desc": "Bringing the best in television."
+  },
+  {
     "start": "02:45",
     "stop": "04:45",
     "channel": "KairaliWe.in",
     "channelId": "KairaliWe.in",
     "channelName": "We TV",
-    "startTs": 1781837100000,
-    "stopTs": 1781844300000,
-    "title": "Loham",
-    "desc": "Jayanthi comes to Kochi in search of her missing husband, Ramesh, and meets Raju."
+    "startTs": 1781923500000,
+    "stopTs": 1781930700000,
+    "title": "Artham",
+    "desc": "Based on the novel &apos;Ethir Katru&apos; by Subha."
+  },
+  {
+    "start": "04:30",
+    "stop": "07:00",
+    "channel": "WETV.in",
+    "channelId": "WETV.in",
+    "channelName": "WE TV",
+    "startTs": 1781929800000,
+    "stopTs": 1781938800000,
+    "title": "Movie",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "04:45",
@@ -16,153 +38,10 @@
     "channel": "KairaliWe.in",
     "channelId": "KairaliWe.in",
     "channelName": "We TV",
-    "startTs": 1781844300000,
-    "stopTs": 1781852400000,
-    "title": "Varam",
-    "desc": "Eby, a wealthy man, falls in love with Ilina, but her family opposes their relationship."
-  },
-  {
-    "start": "07:00",
-    "stop": "09:30",
-    "channel": "KairaliWe.in",
-    "channelId": "KairaliWe.in",
-    "channelName": "We TV",
-    "startTs": 1781852400000,
-    "stopTs": 1781861400000,
-    "title": "Oppam",
-    "desc": "Jayaraman relies on his non-visual senses to protect a little girl from a vengeful ex-con."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "KairaliWe.in",
-    "channelId": "KairaliWe.in",
-    "channelName": "We TV",
-    "startTs": 1781861400000,
-    "stopTs": 1781863200000,
-    "title": "Kerala State Lottery Result",
-    "desc": "The host reveals the ticket numbers and declares the winners of the lottery."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "KairaliWe.in",
-    "channelId": "KairaliWe.in",
-    "channelName": "We TV",
-    "startTs": 1781863200000,
-    "stopTs": 1781865000000,
-    "title": "Kerala State Lottery Result",
-    "desc": "The host reveals the ticket numbers and declares the winners of the lottery."
-  },
-  {
-    "start": "10:30",
-    "stop": "13:00",
-    "channel": "KairaliWe.in",
-    "channelId": "KairaliWe.in",
-    "channelName": "We TV",
-    "startTs": 1781865000000,
-    "stopTs": 1781874000000,
-    "title": "Pattana Pravesham",
-    "desc": "Two incompetent and clueless CID officers are sent to fight a dangerous crime syndicate."
-  },
-  {
-    "start": "13:00",
-    "stop": "16:00",
-    "channel": "KairaliWe.in",
-    "channelId": "KairaliWe.in",
-    "channelName": "We TV",
-    "startTs": 1781874000000,
-    "stopTs": 1781884800000,
-    "title": "Ee Parakkum Thalika",
-    "desc": "A bus owner&apos;s life takes a turn when his path crosses the daughter of a powerful politician."
-  },
-  {
-    "start": "16:00",
-    "stop": "18:30",
-    "channel": "KairaliWe.in",
-    "channelId": "KairaliWe.in",
-    "channelName": "We TV",
-    "startTs": 1781884800000,
-    "stopTs": 1781893800000,
-    "title": "Amma Ammayiamma",
-    "desc": "Prabhavati forgets her family relations upon marrying Shekharankutty, a wealthy man."
-  },
-  {
-    "start": "18:30",
-    "stop": "20:15",
-    "channel": "KairaliWe.in",
-    "channelId": "KairaliWe.in",
-    "channelName": "We TV",
-    "startTs": 1781893800000,
-    "stopTs": 1781900100000,
-    "title": "Irattimadhuram",
-    "desc": "Bringing the best in cinema."
-  },
-  {
-    "start": "20:15",
-    "stop": "22:15",
-    "channel": "KairaliWe.in",
-    "channelId": "KairaliWe.in",
-    "channelName": "We TV",
-    "startTs": 1781900100000,
-    "stopTs": 1781907300000,
-    "title": "Sahasam",
-    "desc": "A security guard comes across his grandfather&apos;s diary that takes him on a treasure hunt."
-  },
-  {
-    "start": "22:15",
-    "stop": "00:30",
-    "channel": "KairaliWe.in",
-    "channelId": "KairaliWe.in",
-    "channelName": "We TV",
-    "startTs": 1781907300000,
-    "stopTs": 1781915400000,
-    "title": "Chantha",
-    "desc": "Sultan, a labourer, tries to save his community from an evil bourgeoisie."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "KairaliWe.in",
-    "channelId": "KairaliWe.in",
-    "channelName": "We TV",
-    "startTs": 1781915400000,
-    "stopTs": 1781917200000,
-    "title": "Dr. Talk",
-    "desc": "The host interviews medical professionals on various matters concerning healthcare."
-  },
-  {
-    "start": "01:00",
-    "stop": "02:30",
-    "channel": "KairaliWe.in",
-    "channelId": "KairaliWe.in",
-    "channelName": "We TV",
-    "startTs": 1781917200000,
-    "stopTs": 1781922600000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "02:30",
-    "stop": "04:30",
-    "channel": "KairaliWe.in",
-    "channelId": "KairaliWe.in",
-    "channelName": "We TV",
-    "startTs": 1781922600000,
-    "stopTs": 1781929800000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "04:30",
-    "stop": "07:00",
-    "channel": "KairaliWe.in",
-    "channelId": "KairaliWe.in",
-    "channelName": "We TV",
-    "startTs": 1781929800000,
+    "startTs": 1781930700000,
     "stopTs": 1781938800000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
+    "title": "Oliyambukal",
+    "desc": "A man decides to adopt all possible means in order to avenge his father&apos;s death."
   },
   {
     "start": "07:00",
@@ -172,19 +51,162 @@
     "channelName": "We TV",
     "startTs": 1781938800000,
     "stopTs": 1781947800000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
+    "title": "Pothan Vava",
+    "desc": "Vava goes through many hardships as he is determined to prove that love matters the most."
   },
   {
     "start": "09:30",
-    "stop": "10:30",
+    "stop": "10:00",
     "channel": "KairaliWe.in",
     "channelId": "KairaliWe.in",
     "channelName": "We TV",
     "startTs": 1781947800000,
+    "stopTs": 1781949600000,
+    "title": "Kerala State Lottery Result",
+    "desc": "The host reveals the ticket numbers and declares the winners of the lottery."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "KairaliWe.in",
+    "channelId": "KairaliWe.in",
+    "channelName": "We TV",
+    "startTs": 1781949600000,
     "stopTs": 1781951400000,
     "title": "Kerala State Lottery Result",
     "desc": "The host reveals the ticket numbers and declares the winners of the lottery."
+  },
+  {
+    "start": "10:30",
+    "stop": "13:15",
+    "channel": "KairaliWe.in",
+    "channelId": "KairaliWe.in",
+    "channelName": "We TV",
+    "startTs": 1781951400000,
+    "stopTs": 1781961300000,
+    "title": "Sangham",
+    "desc": "Kuttapayi tries to save his daughter from men who plan to sell her into prostitution."
+  },
+  {
+    "start": "13:00",
+    "stop": "16:00",
+    "channel": "WETV.in",
+    "channelId": "WETV.in",
+    "channelName": "WE TV",
+    "startTs": 1781960400000,
+    "stopTs": 1781971200000,
+    "title": "Movie",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "13:15",
+    "stop": "16:00",
+    "channel": "KairaliWe.in",
+    "channelId": "KairaliWe.in",
+    "channelName": "We TV",
+    "startTs": 1781961300000,
+    "stopTs": 1781971200000,
+    "title": "Thuruppugulan",
+    "desc": "When a trusted employee cheats on his boss, Kunjumon takes charge of helping him."
+  },
+  {
+    "start": "16:00",
+    "stop": "18:30",
+    "channel": "KairaliWe.in",
+    "channelId": "KairaliWe.in",
+    "channelName": "We TV",
+    "startTs": 1781971200000,
+    "stopTs": 1781980200000,
+    "title": "Devasuram",
+    "desc": "A spoilt heir&apos;s life changes drastically when he learns of a terrible family secret."
+  },
+  {
+    "start": "19:00",
+    "stop": "21:30",
+    "channel": "KairaliWe.in",
+    "channelId": "KairaliWe.in",
+    "channelName": "We TV",
+    "startTs": 1781982000000,
+    "stopTs": 1781991000000,
+    "title": "Movie",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "KairaliWe.in",
+    "channelId": "KairaliWe.in",
+    "channelName": "We TV",
+    "startTs": 1781991000000,
+    "stopTs": 1781992800000,
+    "title": "Chiriyo Chiri",
+    "desc": "A comprehensive compilation of the funniest comedy scenes from famous Malayalam movies."
+  },
+  {
+    "start": "22:00",
+    "stop": "00:30",
+    "channel": "KairaliWe.in",
+    "channelId": "KairaliWe.in",
+    "channelName": "We TV",
+    "startTs": 1781992800000,
+    "stopTs": 1782001800000,
+    "title": "Movie",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "KairaliWe.in",
+    "channelId": "KairaliWe.in",
+    "channelName": "We TV",
+    "startTs": 1782001800000,
+    "stopTs": 1782003600000,
+    "title": "Dr. Talk",
+    "desc": "The host interviews medical professionals on various matters concerning healthcare."
+  },
+  {
+    "start": "01:00",
+    "stop": "02:30",
+    "channel": "KairaliWe.in",
+    "channelId": "KairaliWe.in",
+    "channelName": "We TV",
+    "startTs": 1782003600000,
+    "stopTs": 1782009000000,
+    "title": "Movie",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "02:30",
+    "stop": "04:30",
+    "channel": "KairaliWe.in",
+    "channelId": "KairaliWe.in",
+    "channelName": "We TV",
+    "startTs": 1782009000000,
+    "stopTs": 1782016200000,
+    "title": "Movie",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "04:30",
+    "stop": "07:00",
+    "channel": "KairaliWe.in",
+    "channelId": "KairaliWe.in",
+    "channelName": "We TV",
+    "startTs": 1782016200000,
+    "stopTs": 1782025200000,
+    "title": "Movie",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "07:00",
+    "stop": "10:30",
+    "channel": "KairaliWe.in",
+    "channelId": "KairaliWe.in",
+    "channelName": "We TV",
+    "startTs": 1782025200000,
+    "stopTs": 1782037800000,
+    "title": "Movie",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "10:30",
@@ -192,8 +214,8 @@
     "channel": "KairaliWe.in",
     "channelId": "KairaliWe.in",
     "channelName": "We TV",
-    "startTs": 1781951400000,
-    "stopTs": 1781960400000,
+    "startTs": 1782037800000,
+    "stopTs": 1782046800000,
     "title": "Movie",
     "desc": "Bringing the best in television."
   },
@@ -203,8 +225,8 @@
     "channel": "KairaliWe.in",
     "channelId": "KairaliWe.in",
     "channelName": "We TV",
-    "startTs": 1781960400000,
-    "stopTs": 1781971200000,
+    "startTs": 1782046800000,
+    "stopTs": 1782057600000,
     "title": "Movie",
     "desc": "Bringing the best in television."
   },
@@ -214,8 +236,8 @@
     "channel": "KairaliWe.in",
     "channelId": "KairaliWe.in",
     "channelName": "We TV",
-    "startTs": 1781971200000,
-    "stopTs": 1781982000000,
+    "startTs": 1782057600000,
+    "stopTs": 1782068400000,
     "title": "Movie",
     "desc": "Bringing the best in television."
   }
