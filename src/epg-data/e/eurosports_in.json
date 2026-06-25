@@ -1,14 +1,36 @@
 [
   {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1782352800000,
+    "stopTs": 1782354600000,
+    "title": "San Francisco; T100 Triathlon World Tour",
+    "desc": "This is Sport - Triathlon Category."
+  },
+  {
     "start": "02:30",
+    "stop": "03:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1782354600000,
+    "stopTs": 1782358200000,
+    "title": "Amazing Red; IMPACT in 60",
+    "desc": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling."
+  },
+  {
+    "start": "03:30",
     "stop": "04:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1782268200000,
-    "stopTs": 1782275400000,
-    "title": "AEW Dynamite",
-    "desc": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title."
+    "startTs": 1782358200000,
+    "stopTs": 1782361800000,
+    "title": "TNA Wrestling: Pehalwani Patakha",
+    "desc": "Highlights from the IMPACT wrestling series of TNA Wrestling, where professional wrestlers compete against each other for victory, in Hindi."
   },
   {
     "start": "04:30",
@@ -16,9 +38,9 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1782275400000,
-    "stopTs": 1782279000000,
-    "title": "No Surrender 2013; TNA Unfinished Business",
+    "startTs": 1782361800000,
+    "stopTs": 1782365400000,
+    "title": "Destination X; TNA Unfinished Business",
     "desc": "Some of the world&apos;s leading wrestlers compete against each other in highly competitive and demanding contests to demonstrate their prowess."
   },
   {
@@ -27,9 +49,9 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1782279000000,
-    "stopTs": 1782286200000,
-    "title": "Portland Timbers vs. Inter Miami CF; Major League Soccer",
+    "startTs": 1782365400000,
+    "stopTs": 1782372600000,
+    "title": "Nashville SC vs. LAFC; MLS Soccer",
     "desc": "Professional football players compete against each other in the MLS Soccer."
   },
   {
@@ -38,32 +60,21 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1782286200000,
-    "stopTs": 1782297000000,
-    "title": "TNA No Surrender",
-    "desc": "A pro-wrestling event featuring ten matches including championship fights that took place at Sam&apos;s Town Live in Sunrise Manor, Nevada."
+    "startTs": 1782372600000,
+    "stopTs": 1782383400000,
+    "title": "TNA Sacrifice",
+    "desc": "This is Sport - Wrestling Category."
   },
   {
     "start": "10:30",
-    "stop": "12:00",
-    "channel": "EUROSPORTSHD.in",
-    "channelId": "EUROSPORTSHD.in",
-    "channelName": "EUROSPORTS HD",
-    "startTs": 1782297000000,
-    "stopTs": 1782302400000,
-    "title": "Women&apos;s Singles: PV Sindhu vs. Nguyen Thuy Linh; BWF World Tour Badminton",
-    "desc": "This is Sport - Sport Category."
-  },
-  {
-    "start": "12:00",
     "stop": "12:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1782302400000,
-    "stopTs": 1782304200000,
-    "title": "Ultimate Cricket Challenge",
-    "desc": "Professional players compete against each other to emerge victorious in the Ultimate Cricket Challenge to win the title."
+    "startTs": 1782383400000,
+    "stopTs": 1782390600000,
+    "title": "Wroclaw - Race; FIM Speedway Grand Prix Series",
+    "desc": "This is Sport - Racing Category."
   },
   {
     "start": "12:30",
@@ -71,10 +82,10 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1782304200000,
-    "stopTs": 1782311400000,
-    "title": "TNA Impact",
-    "desc": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win."
+    "startTs": 1782390600000,
+    "stopTs": 1782397800000,
+    "title": "AEW Dynamite",
+    "desc": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title."
   },
   {
     "start": "14:30",
@@ -82,9 +93,9 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1782311400000,
-    "stopTs": 1782318600000,
-    "title": "AZ vs. NAC Breda; Eredivisie Soccer",
+    "startTs": 1782397800000,
+    "stopTs": 1782405000000,
+    "title": "Ajax vs. FC Groningen; Eredivisie Soccer",
     "desc": "Professional football teams compete against each other in order to emerge victorious in the Eredivisie, a premier football tournament in the Netherlands."
   }
 ]
