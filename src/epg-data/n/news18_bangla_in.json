@@ -1,401 +1,5 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782352800000,
-    "stopTs": 1782354600000,
-    "title": "Speed News",
-    "desc": "The host presents a quick update on the top stories of the day."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782354600000,
-    "stopTs": 1782356400000,
-    "title": "Ek Phone-E Bangla",
-    "desc": "The host presents the latest news stories and provides updates on current events."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782356400000,
-    "stopTs": 1782358200000,
-    "title": "Morning Superfast",
-    "desc": "The host presents the latest news updates about various significant events."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782358200000,
-    "stopTs": 1782360000000,
-    "title": "Najare Bangla",
-    "desc": "The host delivers the latest news and developments to offer valuable insights."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782360000000,
-    "stopTs": 1782361800000,
-    "title": "Morning Superfast",
-    "desc": "The host presents the latest news updates about various significant events."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782361800000,
-    "stopTs": 1782363600000,
-    "title": "Top News@10",
-    "desc": "The host presents the latest news stories and provides updates on current events."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782363600000,
-    "stopTs": 1782365400000,
-    "title": "Jhoro Ponero",
-    "desc": "The host presents the latest news stories and provides updates on current events."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782365400000,
-    "stopTs": 1782367200000,
-    "title": "Khobor Dinbhor",
-    "desc": "The host talks about the latest and most important news from the city."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782367200000,
-    "stopTs": 1782369000000,
-    "title": "Jhoro Ponero",
-    "desc": "The host presents the latest news stories and provides updates on current events."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782369000000,
-    "stopTs": 1782370800000,
-    "title": "Khobor Dinbhor",
-    "desc": "The host talks about the latest and most important news from the city."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782370800000,
-    "stopTs": 1782372600000,
-    "title": "Khobor Dinbhor",
-    "desc": "The host talks about the latest and most important news from the city."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782372600000,
-    "stopTs": 1782376200000,
-    "title": "Khobor Dinbhor",
-    "desc": "The host talks about the latest and most important news from the city."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782376200000,
-    "stopTs": 1782378000000,
-    "title": "Khobor Dinbhor",
-    "desc": "The host talks about the latest and most important news from the city."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782378000000,
-    "stopTs": 1782379800000,
-    "title": "Jela Express",
-    "desc": "The host presents the latest news stories from the various districts of West Bengal."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782379800000,
-    "stopTs": 1782381600000,
-    "title": "Khobor Dinbhor",
-    "desc": "The host talks about the latest and most important news from the city."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782381600000,
-    "stopTs": 1782383400000,
-    "title": "Khobor Dinbhor",
-    "desc": "The host talks about the latest and most important news from the city."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782383400000,
-    "stopTs": 1782387000000,
-    "title": "News18 Prime",
-    "desc": "The host sheds light on the socio-economic and political news updates and developments."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782387000000,
-    "stopTs": 1782388800000,
-    "title": "5 Tar 5 Meshali",
-    "desc": "The host presents the latest news stories surrounding various issues in the country."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782388800000,
-    "stopTs": 1782390600000,
-    "title": "Jela Express",
-    "desc": "The host presents the latest news stories from the various districts of West Bengal."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782390600000,
-    "stopTs": 1782392400000,
-    "title": "Jela Theke Sarasari",
-    "desc": "The host presents the latest news pertaining to events of significance."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782392400000,
-    "stopTs": 1782394200000,
-    "title": "Speed News",
-    "desc": "The host presents a quick update on the top stories of the day."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782394200000,
-    "stopTs": 1782396000000,
-    "title": "Aamar Bangla",
-    "desc": "The host talks about the latest news and updates from various parts of West Bengal."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782396000000,
-    "stopTs": 1782397800000,
-    "title": "Aamar Bangla",
-    "desc": "The host talks about the latest news and updates from various parts of West Bengal."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782397800000,
-    "stopTs": 1782399600000,
-    "title": "Khobor Dinbhor",
-    "desc": "The host talks about the latest and most important news from the city."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782399600000,
-    "stopTs": 1782401400000,
-    "title": "Speed News",
-    "desc": "The host presents a quick update on the top stories of the day."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782401400000,
-    "stopTs": 1782405000000,
-    "title": "Newsroom Live",
-    "desc": "The host talks about the latest and most important news from the city and world, live."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782405000000,
-    "stopTs": 1782406800000,
-    "title": "Khobor Dinbhor",
-    "desc": "The host talks about the latest and most important news from the city."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782406800000,
-    "stopTs": 1782408600000,
-    "title": "Sera 100",
-    "desc": "The host presents the top 100 news updates from across the state and the nation."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782408600000,
-    "stopTs": 1782410400000,
-    "title": "Sera 11",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782410400000,
-    "stopTs": 1782412200000,
-    "title": "Superfast Roundup",
-    "desc": "The host presents the latest news updates from around the country and the world."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782412200000,
-    "stopTs": 1782414000000,
-    "title": "Advertisement",
-    "desc": "The host showcases a wide range of products manufactured by popular brands."
-  },
-  {
-    "start": "19:00",
-    "stop": "00:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782414000000,
-    "stopTs": 1782433800000,
-    "title": "Newsroom Live",
-    "desc": "The host talks about the latest and most important news from the city and world, live."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782433800000,
-    "stopTs": 1782435600000,
-    "title": "Khobor Dinbhor",
-    "desc": "The host talks about the latest and most important news from the city."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782435600000,
-    "stopTs": 1782437400000,
-    "title": "Jela Express",
-    "desc": "The host presents the latest news stories from the various districts of West Bengal."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782437400000,
-    "stopTs": 1782439200000,
-    "title": "Khobor Dinbhor",
-    "desc": "The host talks about the latest and most important news from the city."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1782439200000,
-    "stopTs": 1782441000000,
-    "title": "Speed News",
-    "desc": "The host presents a quick update on the top stories of the day."
-  },
-  {
     "start": "02:30",
     "stop": "03:00",
     "channel": "News18Bangla.in",
@@ -716,14 +320,25 @@
   },
   {
     "start": "18:30",
-    "stop": "00:30",
+    "stop": "19:00",
     "channel": "News18Bangla.in",
     "channelId": "News18Bangla.in",
     "channelName": "News18 Bangla",
     "startTs": 1782498600000,
+    "stopTs": 1782500400000,
+    "title": "Advertisement",
+    "desc": "The host showcases a wide range of products manufactured by popular brands."
+  },
+  {
+    "start": "19:00",
+    "stop": "00:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782500400000,
     "stopTs": 1782520200000,
     "title": "Newsroom Live",
-    "desc": "A reporter presents the latest global news, updates, and current affairs live."
+    "desc": "The host talks about the latest and most important news from the city and world, live."
   },
   {
     "start": "00:30",
@@ -734,7 +349,7 @@
     "startTs": 1782520200000,
     "stopTs": 1782522000000,
     "title": "Khobor Dinbhor",
-    "desc": "The host discusses key socio-economic and political news and updates from the city."
+    "desc": "The host talks about the latest and most important news from the city."
   },
   {
     "start": "01:00",
@@ -745,7 +360,7 @@
     "startTs": 1782522000000,
     "stopTs": 1782523800000,
     "title": "Jela Express",
-    "desc": "The host presents global news, developments, and major updates affecting people worldwide."
+    "desc": "The host presents the latest news stories from the various districts of West Bengal."
   },
   {
     "start": "01:30",
@@ -756,7 +371,7 @@
     "startTs": 1782523800000,
     "stopTs": 1782525600000,
     "title": "Khobor Dinbhor",
-    "desc": "The host discusses key socio-economic and political news and updates from the city."
+    "desc": "The host talks about the latest and most important news from the city."
   },
   {
     "start": "02:00",
@@ -767,7 +382,7 @@
     "startTs": 1782525600000,
     "stopTs": 1782527400000,
     "title": "Speed News",
-    "desc": "Hourly news bulletins update viewers with all the latest happenings around the world."
+    "desc": "The host presents a quick update on the top stories of the day."
   },
   {
     "start": "02:30",
@@ -778,7 +393,7 @@
     "startTs": 1782527400000,
     "stopTs": 1782529200000,
     "title": "Ek Phone-E Bangla",
-    "desc": "Engaging phone-in show discussing regional topics with live audience input."
+    "desc": "The host presents the latest news stories and provides updates on current events."
   },
   {
     "start": "03:00",
@@ -789,6 +404,402 @@
     "startTs": 1782529200000,
     "stopTs": 1782531000000,
     "title": "Morning Superfast",
+    "desc": "The host presents the latest news updates about various significant events."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782531000000,
+    "stopTs": 1782532800000,
+    "title": "Najare Bangla",
+    "desc": "The host delivers the latest news and developments to offer valuable insights."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782532800000,
+    "stopTs": 1782534600000,
+    "title": "Morning Superfast",
+    "desc": "The host presents the latest news updates about various significant events."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782534600000,
+    "stopTs": 1782536400000,
+    "title": "Top News@10",
+    "desc": "The host presents the latest news stories and provides updates on current events."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782536400000,
+    "stopTs": 1782538200000,
+    "title": "Jhoro Ponero",
+    "desc": "The host presents the latest news stories and provides updates on current events."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782538200000,
+    "stopTs": 1782540000000,
+    "title": "Khobor Dinbhor",
+    "desc": "The host talks about the latest and most important news from the city."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782540000000,
+    "stopTs": 1782541800000,
+    "title": "Jhoro Ponero",
+    "desc": "The host presents the latest news stories and provides updates on current events."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782541800000,
+    "stopTs": 1782543600000,
+    "title": "Khobor Dinbhor",
+    "desc": "The host talks about the latest and most important news from the city."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782543600000,
+    "stopTs": 1782545400000,
+    "title": "Khobor Dinbhor",
+    "desc": "The host talks about the latest and most important news from the city."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782545400000,
+    "stopTs": 1782549000000,
+    "title": "Khobor Dinbhor",
+    "desc": "The host talks about the latest and most important news from the city."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782549000000,
+    "stopTs": 1782550800000,
+    "title": "Khobor Dinbhor",
+    "desc": "The host talks about the latest and most important news from the city."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782550800000,
+    "stopTs": 1782552600000,
+    "title": "Jela Express",
+    "desc": "The host presents the latest news stories from the various districts of West Bengal."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782552600000,
+    "stopTs": 1782554400000,
+    "title": "Khobor Dinbhor",
+    "desc": "The host talks about the latest and most important news from the city."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782554400000,
+    "stopTs": 1782556200000,
+    "title": "Khobor Dinbhor",
+    "desc": "The host talks about the latest and most important news from the city."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782556200000,
+    "stopTs": 1782559800000,
+    "title": "News18 Prime",
+    "desc": "The host sheds light on the socio-economic and political news updates and developments."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782559800000,
+    "stopTs": 1782561600000,
+    "title": "5 Tar 5 Meshali",
+    "desc": "The host presents the latest news stories surrounding various issues in the country."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782561600000,
+    "stopTs": 1782563400000,
+    "title": "Jela Express",
+    "desc": "The host presents the latest news stories from the various districts of West Bengal."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782563400000,
+    "stopTs": 1782565200000,
+    "title": "Jela Theke Sarasari",
+    "desc": "The host presents the latest news pertaining to events of significance."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782565200000,
+    "stopTs": 1782567000000,
+    "title": "Speed News",
+    "desc": "The host presents a quick update on the top stories of the day."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782567000000,
+    "stopTs": 1782568800000,
+    "title": "Aamar Bangla",
+    "desc": "The host talks about the latest news and updates from various parts of West Bengal."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782568800000,
+    "stopTs": 1782570600000,
+    "title": "Aamar Bangla",
+    "desc": "The host talks about the latest news and updates from various parts of West Bengal."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782570600000,
+    "stopTs": 1782572400000,
+    "title": "Khobor Dinbhor",
+    "desc": "The host talks about the latest and most important news from the city."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782572400000,
+    "stopTs": 1782574200000,
+    "title": "Speed News",
+    "desc": "The host presents a quick update on the top stories of the day."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782574200000,
+    "stopTs": 1782577800000,
+    "title": "Newsroom Live",
+    "desc": "The host talks about the latest and most important news from the city and world, live."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782577800000,
+    "stopTs": 1782579600000,
+    "title": "Khobor Dinbhor",
+    "desc": "The host talks about the latest and most important news from the city."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782579600000,
+    "stopTs": 1782581400000,
+    "title": "Sera 100",
+    "desc": "The host presents the top 100 news updates from across the state and the nation."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782581400000,
+    "stopTs": 1782583200000,
+    "title": "Sera 11",
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782583200000,
+    "stopTs": 1782585000000,
+    "title": "Superfast Roundup",
+    "desc": "The host presents the latest news updates from around the country and the world."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782585000000,
+    "stopTs": 1782586800000,
+    "title": "Advt",
+    "desc": "Short promotional segments crafted to keep viewers informed about upcoming shows, schedules, and broadcast content on the channel."
+  },
+  {
+    "start": "19:00",
+    "stop": "00:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782586800000,
+    "stopTs": 1782606600000,
+    "title": "Newsroom Live",
+    "desc": "A reporter presents the latest global news, updates, and current affairs live."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782606600000,
+    "stopTs": 1782608400000,
+    "title": "Khobor Dinbhor",
+    "desc": "The host discusses key socio-economic and political news and updates from the city."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782608400000,
+    "stopTs": 1782610200000,
+    "title": "Jela Express",
+    "desc": "The host presents global news, developments, and major updates affecting people worldwide."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782610200000,
+    "stopTs": 1782612000000,
+    "title": "Khobor Dinbhor",
+    "desc": "The host discusses key socio-economic and political news and updates from the city."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782612000000,
+    "stopTs": 1782613800000,
+    "title": "Speed News",
+    "desc": "Hourly news bulletins update viewers with all the latest happenings around the world."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782613800000,
+    "stopTs": 1782615600000,
+    "title": "Ek Phone-E Bangla",
+    "desc": "Engaging phone-in show discussing regional topics with live audience input."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782615600000,
+    "stopTs": 1782617400000,
+    "title": "Morning Superfast",
     "desc": "Quick-paced morning news show delivering the latest updates and stories."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1782617400000,
+    "stopTs": 1782619200000,
+    "title": "Najare Bangla",
+    "desc": "Najare Bangla is a Bengali TV program that features current affairs, cultural topics, and regional updates, providing viewers with news and insights relevant to the Bengali community."
   }
 ]
