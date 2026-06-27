@@ -1,498 +1,14 @@
 [
   {
     "start": "02:00",
-    "stop": "03:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782439200000,
-    "stopTs": 1782442800000,
-    "title": "The China Connection",
-    "desc": "The host delivers in-depth analysis of China&apos;s economy, markets and global relationships."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782441000000,
-    "stopTs": 1782444600000,
-    "title": "Bazaar Morning Call",
-    "desc": "The hosts shed light on the condition of the stock market prior to its opening and provide quick tips to people investing in the market."
-  },
-  {
-    "start": "03:00",
-    "stop": "04:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782442800000,
-    "stopTs": 1782446400000,
-    "title": "Inside India",
-    "desc": "The host presents information about the social, economic and political issues."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782444600000,
-    "stopTs": 1782448200000,
-    "title": "Bazaar Open Exchange",
-    "desc": "In-depth look at opening bell trends, market buzz, and stock picks. Tailored for investors eager to begin their trading day with sharp strategies."
-  },
-  {
-    "start": "04:00",
-    "stop": "05:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782446400000,
-    "stopTs": 1782450000000,
-    "title": "Access Middle East",
-    "desc": "A deep dive into the dynamic economic landscape of the Middle East, highlighting trends."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782448200000,
-    "stopTs": 1782450000000,
-    "title": "Bazaar Corporate Radar",
-    "desc": "Read into the minds of fund managers, global economists and sector analysts."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782450000000,
-    "stopTs": 1782451800000,
-    "title": "Global Dialogues",
-    "desc": "The host shares updates on the economic, political and social developments across the world."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782451800000,
-    "stopTs": 1782453600000,
-    "title": "Editors&apos; Roundtable",
-    "desc": "Editors provide an in-depth analysis of the economic issues faced by the country."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782453600000,
-    "stopTs": 1782455400000,
-    "title": "CNBC-TV18 Newsmaker",
-    "desc": "The host invites prominent personalities to discuss finance and business related topics."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782455400000,
-    "stopTs": 1782457200000,
-    "title": "Editors&apos; Playbook",
-    "desc": "Experts share insights on key market trends to understand what&apos;s driving the economy."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782457200000,
-    "stopTs": 1782459000000,
-    "title": "Young Turks Reloaded",
-    "desc": "The host talks to entrepreneurs and startup founders about their professional journeys."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782459000000,
-    "stopTs": 1782460800000,
-    "title": "Global Dialogues",
-    "desc": "The host shares updates on the economic, political and social developments across the world."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782460800000,
-    "stopTs": 1782462600000,
-    "title": "Europe Market Opening Bell",
-    "desc": "The host sheds light on stakeholders witnessing the opening bell for the European market."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782462600000,
-    "stopTs": 1782464400000,
-    "title": "Vishal Sikka-Voices From The Valley",
-    "desc": "The host talks to entrepreneurs and discusses various issues in the business industry."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782464400000,
-    "stopTs": 1782466200000,
-    "title": "Overdrive",
-    "desc": "The host presents the latest news stories and updates about automobiles and bikes."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782466200000,
-    "stopTs": 1782468000000,
-    "title": "Let&apos;s Talk Money",
-    "desc": "The host invites finance experts to offer their advice on various significant topics."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782468000000,
-    "stopTs": 1782469800000,
-    "title": "Editors&apos; Roundtable",
-    "desc": "Editors provide an in-depth analysis of the economic issues faced by the country."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782469800000,
-    "stopTs": 1782471600000,
-    "title": "Kanwal Rekhi-Voices From The Valley",
-    "desc": "Shereen Bhan interviews tech pioneer Kanwal Rekhi about his life, AI and entrepreneurship."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782471600000,
-    "stopTs": 1782473400000,
-    "title": "Editors&apos; Playbook",
-    "desc": "Experts share insights on key market trends to understand what&apos;s driving the economy."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782473400000,
-    "stopTs": 1782475200000,
-    "title": "Cisco-Voices From The Valley",
-    "desc": "The host speaks with Jeetu Patel, the Cisco president, regarding the AI revolution."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782475200000,
-    "stopTs": 1782477000000,
-    "title": "All About Insurance",
-    "desc": "."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782477000000,
-    "stopTs": 1782478800000,
-    "title": "Global Dialogues",
-    "desc": "The host shares updates on the economic, political and social developments across the world."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782478800000,
-    "stopTs": 1782480600000,
-    "title": "Young Turks Reloaded",
-    "desc": "The host talks to entrepreneurs and startup founders about their professional journeys."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782480600000,
-    "stopTs": 1782482400000,
-    "title": "Wall Street Opening Bell",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782482400000,
-    "stopTs": 1782484200000,
-    "title": "Kanwal Rekhi-Voices From The Valley",
-    "desc": "Shereen Bhan interviews tech pioneer Kanwal Rekhi about his life, AI and entrepreneurship."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782484200000,
-    "stopTs": 1782486000000,
-    "title": "Bloom Energy-Voices From The Valley",
-    "desc": "The host engages in a conversation with Bloom Energy CEO KR Sridhar."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782486000000,
-    "stopTs": 1782487800000,
-    "title": "Editors&apos; Roundtable",
-    "desc": "Editors provide an in-depth analysis of the economic issues faced by the country."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782487800000,
-    "stopTs": 1782489600000,
-    "title": "Global Dialogues",
-    "desc": "The host shares updates on the economic, political and social developments across the world."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782489600000,
-    "stopTs": 1782491400000,
-    "title": "Editors&apos; Playbook",
-    "desc": "Experts share insights on key market trends to understand what&apos;s driving the economy."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782491400000,
-    "stopTs": 1782493200000,
-    "title": "Young Turks Reloaded",
-    "desc": "The host talks to entrepreneurs and startup founders about their professional journeys."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782493200000,
-    "stopTs": 1782495000000,
-    "title": "CNBC-TV18 Newsmaker",
-    "desc": "The host invites prominent personalities to discuss finance and business related topics."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782495000000,
-    "stopTs": 1782496800000,
-    "title": "Half Time Report",
-    "desc": "Financial experts and analysts discuss the latest stock market news and economic updates."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782496800000,
-    "stopTs": 1782498600000,
-    "title": "The Exchange",
-    "desc": "The host presents the latest financial and economic headlines around the world."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782498600000,
-    "stopTs": 1782500400000,
-    "title": "The Exchange",
-    "desc": "The host presents the latest financial and economic headlines around the world."
-  },
-  {
-    "start": "19:00",
-    "stop": "20:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782500400000,
-    "stopTs": 1782504000000,
-    "title": "Power Lunch",
-    "desc": "The hosts converse with business and political experts about the stock markets."
-  },
-  {
-    "start": "20:00",
-    "stop": "22:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782504000000,
-    "stopTs": 1782511200000,
-    "title": "Closing Bell",
-    "desc": "The invites an expert to guide one through the trading day and analyses the market."
-  },
-  {
-    "start": "21:00",
-    "stop": "22:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782507600000,
-    "stopTs": 1782511200000,
-    "title": "Fast Money",
-    "desc": "The host presents a fast-paced chat with four Wall Street traders, exploring stock market strategies, investment tips and market trends."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782511200000,
-    "stopTs": 1782513000000,
-    "title": "Fast Money",
-    "desc": "A group of panellists discuss business-related stories and economic development."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782513000000,
-    "stopTs": 1782514800000,
-    "title": "Option Exchange",
-    "desc": "Financial experts put forward their views on the trends in options exchange."
-  },
-  {
-    "start": "23:00",
-    "stop": "01:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782514800000,
-    "stopTs": 1782522000000,
-    "title": "Closing Bell",
-    "desc": "The invites an expert to guide one through the trading day and analyses the market."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782516600000,
-    "stopTs": 1782518400000,
-    "title": "CNBC Meets",
-    "desc": "The host interviews various influential personalities in order to shed light on their contributions, strategies and opinions."
-  },
-  {
-    "start": "00:00",
-    "stop": "01:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782518400000,
-    "stopTs": 1782522000000,
-    "title": "Closing Bell: Overtime",
-    "desc": "The host invites a renowned industry expert to discuss the trending and most talked-about market developments and investors&apos; reactions to them."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782522000000,
-    "stopTs": 1782523800000,
-    "title": "CNBC Special",
-    "desc": "The host presents the latest national and international news updates and developments."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782523800000,
-    "stopTs": 1782525600000,
-    "title": "CNBC Special",
-    "desc": "The host presents the latest national and international news updates and developments."
-  },
-  {
-    "start": "02:00",
     "stop": "02:30",
     "channel": "CNBCTV18.in",
     "channelId": "CNBCTV18.in",
     "channelName": "CNBC TV18",
     "startTs": 1782525600000,
     "stopTs": 1782527400000,
-    "title": "CNBC Special",
-    "desc": "The host presents the latest national and international news updates and developments."
+    "title": "The Tech Download",
+    "desc": "The hosts unpack major tech stories, analysing the global trends and risks shaping markets. S01 E05."
   },
   {
     "start": "02:30",
@@ -502,8 +18,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782527400000,
     "stopTs": 1782529200000,
-    "title": "CNBC-TV18 Editorial",
-    "desc": "The host presents updates concerning business and finance from around the world."
+    "title": "Vishal Sikka-Voices From The Valley",
+    "desc": "The host talks to entrepreneurs and discusses various issues in the business industry."
   },
   {
     "start": "03:00",
@@ -513,8 +29,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782529200000,
     "stopTs": 1782531000000,
-    "title": "Storyboard",
-    "desc": "The host interacts with various influential personalities on a wide array of topics."
+    "title": "Storyboard18",
+    "desc": "Marketing experts discuss how firms use digital media to reach consumers during festivals."
   },
   {
     "start": "03:30",
@@ -524,8 +40,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782531000000,
     "stopTs": 1782532800000,
-    "title": "CNN News18 News Bulletin",
-    "desc": "The host presents the latest updates and key developments from all over the world."
+    "title": "Editors&apos; Roundtable",
+    "desc": "Editors provide an in-depth analysis of the economic issues faced by the country."
   },
   {
     "start": "04:00",
@@ -535,8 +51,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782532800000,
     "stopTs": 1782534600000,
-    "title": "Investment Guide",
-    "desc": "The hosts talk to eminent experts about various facets of the stock market."
+    "title": "Let&apos;s Talk Money",
+    "desc": "The host invites finance experts to offer their advice on various significant topics."
   },
   {
     "start": "04:30",
@@ -546,8 +62,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782534600000,
     "stopTs": 1782536400000,
-    "title": "Smart Money",
-    "desc": "The host offers tips on smart investments in various sectors."
+    "title": "Editors&apos; Playbook",
+    "desc": "Experts share insights on key market trends to understand what&apos;s driving the economy."
   },
   {
     "start": "05:00",
@@ -557,8 +73,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782536400000,
     "stopTs": 1782538200000,
-    "title": "Indianomics",
-    "desc": "Veteran economists analyse, inspect and decode the latest economic trends."
+    "title": "CNBC-TV18 Newsmaker",
+    "desc": "The host invites prominent personalities to discuss finance and business related topics."
   },
   {
     "start": "05:30",
@@ -568,8 +84,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782538200000,
     "stopTs": 1782540000000,
-    "title": "Young Turks",
-    "desc": "Young achievers talk about the challenges they faced and their vision for the future."
+    "title": "Young Turks Reloaded",
+    "desc": "The host talks to entrepreneurs and startup founders about their professional journeys."
   },
   {
     "start": "06:00",
@@ -579,8 +95,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782540000000,
     "stopTs": 1782541800000,
-    "title": "CNBC-TV18 Editorial",
-    "desc": "The host presents updates concerning business and finance from around the world."
+    "title": "Bloom Energy-Voices From The Valley",
+    "desc": "The host engages in a conversation with Bloom Energy CEO KR Sridhar."
   },
   {
     "start": "06:30",
@@ -590,8 +106,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782541800000,
     "stopTs": 1782543600000,
-    "title": "CNN News18 News Bulletin",
-    "desc": "The host presents the latest updates and key developments from all over the world."
+    "title": "Insuring Lives Securing India",
+    "desc": "."
   },
   {
     "start": "07:00",
@@ -623,8 +139,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782547200000,
     "stopTs": 1782549000000,
-    "title": "CNBC-TV18 Editorial",
-    "desc": "The host presents updates concerning business and finance from around the world."
+    "title": "Kanwal Rekhi-Voices From The Valley",
+    "desc": "Shereen Bhan interviews tech pioneer Kanwal Rekhi about his life, AI and entrepreneurship."
   },
   {
     "start": "08:30",
@@ -634,8 +150,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782549000000,
     "stopTs": 1782550800000,
-    "title": "Kiska Brand Bajega: Home Edition",
-    "desc": "The host invites personalities from various fields and discusses different issues."
+    "title": "All About Insurance",
+    "desc": "."
   },
   {
     "start": "09:00",
@@ -645,8 +161,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782550800000,
     "stopTs": 1782552600000,
-    "title": "The Media Dialogues",
-    "desc": "The host speaks to advertising and broadcasting figures about India&apos;s media landscape."
+    "title": "Media Dialogues With Storyboard18",
+    "desc": "The host invites marketing experts to discuss IPL&apos;s impact on digital media."
   },
   {
     "start": "09:30",
@@ -656,8 +172,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782552600000,
     "stopTs": 1782554400000,
-    "title": "CNBC-TV18 Focus",
-    "desc": "Numerous media events help various organisations connect with their customers."
+    "title": "India Fixed Income Summit",
+    "desc": "."
   },
   {
     "start": "10:00",
@@ -667,8 +183,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782554400000,
     "stopTs": 1782556200000,
-    "title": "CNBC-TV18 Focus",
-    "desc": "Numerous media events help various organisations connect with their customers."
+    "title": "Uipath Fusion Bengaluru",
+    "desc": "."
   },
   {
     "start": "10:30",
@@ -678,8 +194,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782556200000,
     "stopTs": 1782558000000,
-    "title": "CNBC-TV18 Focus",
-    "desc": "Numerous media events help various organisations connect with their customers."
+    "title": "Let&apos;s Talk Money",
+    "desc": "The host invites finance experts to offer their advice on various significant topics."
   },
   {
     "start": "11:00",
@@ -689,8 +205,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782558000000,
     "stopTs": 1782559800000,
-    "title": "CNBC-TV18 Focus",
-    "desc": "Numerous media events help various organisations connect with their customers."
+    "title": "Commodity Champions",
+    "desc": "Trading experts choose the best commodities that have fared well in the market."
   },
   {
     "start": "11:30",
@@ -700,8 +216,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782559800000,
     "stopTs": 1782561600000,
-    "title": "CNBC-TV18 Focus",
-    "desc": "Numerous media events help various organisations connect with their customers."
+    "title": "Vishal Sikka-Voices From The Valley",
+    "desc": "The host talks to entrepreneurs and discusses various issues in the business industry."
   },
   {
     "start": "12:00",
@@ -711,8 +227,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782561600000,
     "stopTs": 1782563400000,
-    "title": "CNBC-TV18 Focus",
-    "desc": "Numerous media events help various organisations connect with their customers."
+    "title": "Tata Aia Aura - Empowering India&apos;s New Age Entrepreneurs",
+    "desc": "The host and insurance leaders discuss transforming India&apos;s financial security landscape."
   },
   {
     "start": "12:30",
@@ -722,8 +238,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782563400000,
     "stopTs": 1782565200000,
-    "title": "CNBC-TV18 Focus",
-    "desc": "Numerous media events help various organisations connect with their customers."
+    "title": "India DPI Summit",
+    "desc": "."
   },
   {
     "start": "13:00",
@@ -733,8 +249,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782565200000,
     "stopTs": 1782567000000,
-    "title": "CNBC-TV18 Focus",
-    "desc": "Numerous media events help various organisations connect with their customers."
+    "title": "GLS 2025",
+    "desc": "."
   },
   {
     "start": "13:30",
@@ -744,8 +260,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782567000000,
     "stopTs": 1782568800000,
-    "title": "CNBC-TV18 Editorial",
-    "desc": "The host presents updates concerning business and finance from around the world."
+    "title": "Editors&apos; Playbook",
+    "desc": "Experts share insights on key market trends to understand what&apos;s driving the economy."
   },
   {
     "start": "14:00",
@@ -755,8 +271,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782568800000,
     "stopTs": 1782570600000,
-    "title": "Big Deal",
-    "desc": "The host discusses the latest updates in the financial sector and business markets."
+    "title": "Cisco-Voices From The Valley",
+    "desc": "The host speaks with Jeetu Patel, the Cisco president, regarding the AI revolution."
   },
   {
     "start": "14:30",
@@ -766,8 +282,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782570600000,
     "stopTs": 1782572400000,
-    "title": "Indianomics",
-    "desc": "Veteran economists analyse, inspect and decode the latest economic trends."
+    "title": "CNBC-TV18 Newsmaker",
+    "desc": "The host invites prominent personalities to discuss finance and business related topics."
   },
   {
     "start": "15:00",
@@ -777,8 +293,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782572400000,
     "stopTs": 1782574200000,
-    "title": "Young Turks",
-    "desc": "Young achievers talk about the challenges they faced and their vision for the future."
+    "title": "Young Turks Reloaded",
+    "desc": "The host talks to entrepreneurs and startup founders about their professional journeys."
   },
   {
     "start": "15:30",
@@ -788,8 +304,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782574200000,
     "stopTs": 1782576000000,
-    "title": "Investment Guide",
-    "desc": "The hosts talk to eminent experts about various facets of the stock market."
+    "title": "Global Dialogues",
+    "desc": "The host shares updates on the economic, political and social developments across the world."
   },
   {
     "start": "16:00",
@@ -799,8 +315,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782576000000,
     "stopTs": 1782577800000,
-    "title": "Smart Money",
-    "desc": "The host offers tips on smart investments in various sectors."
+    "title": "Bloom Energy-Voices From The Valley",
+    "desc": "The host engages in a conversation with Bloom Energy CEO KR Sridhar."
   },
   {
     "start": "16:30",
@@ -810,8 +326,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782577800000,
     "stopTs": 1782579600000,
-    "title": "CNBC-TV18 Editorial",
-    "desc": "The host presents updates concerning business and finance from around the world."
+    "title": "Editors&apos; Playbook",
+    "desc": "Experts share insights on key market trends to understand what&apos;s driving the economy."
   },
   {
     "start": "17:00",
@@ -821,19 +337,19 @@
     "channelName": "CNBC TV18",
     "startTs": 1782579600000,
     "stopTs": 1782581400000,
-    "title": "CNBC-TV18 Editorial",
-    "desc": "The host presents updates concerning business and finance from around the world."
+    "title": "Kanwal Rekhi-Voices From The Valley",
+    "desc": "Shereen Bhan interviews tech pioneer Kanwal Rekhi about his life, AI and entrepreneurship."
   },
   {
     "start": "17:30",
-    "stop": "18:30",
+    "stop": "18:00",
     "channel": "CNBCTV18.in",
     "channelId": "CNBCTV18.in",
     "channelName": "CNBC TV18",
     "startTs": 1782581400000,
-    "stopTs": 1782585000000,
-    "title": "Kiska Brand Bajega: Home Edition",
-    "desc": "The host invites personalities from various fields and discusses different issues."
+    "stopTs": 1782583200000,
+    "title": "Let&apos;s Talk Money",
+    "desc": "The host invites finance experts to offer their advice on various significant topics."
   },
   {
     "start": "18:00",
@@ -844,7 +360,7 @@
     "startTs": 1782583200000,
     "stopTs": 1782585000000,
     "title": "Overdrive",
-    "desc": "The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews."
+    "desc": "The host presents the latest news stories and updates about automobiles and bikes."
   },
   {
     "start": "18:30",
@@ -855,18 +371,29 @@
     "startTs": 1782585000000,
     "stopTs": 1782586800000,
     "title": "Storyboard18",
-    "desc": "Engage with Storyboard18 for inspiring talks on innovation and entrepreneurship!"
+    "desc": "Marketing experts discuss how firms use digital media to reach consumers during festivals."
   },
   {
     "start": "19:00",
-    "stop": "20:00",
+    "stop": "19:30",
     "channel": "CNBCTV18.in",
     "channelId": "CNBCTV18.in",
     "channelName": "CNBC TV18",
     "startTs": 1782586800000,
+    "stopTs": 1782588600000,
+    "title": "The Tech Download",
+    "desc": "The hosts unpack major tech stories, analysing the global trends and risks shaping markets. S01 E05."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782588600000,
     "stopTs": 1782590400000,
-    "title": "CNBC Network",
-    "desc": "Special network report offering big-picture views on finance, business, and markets. Designed to inform strategic investors and economic decision-makers."
+    "title": "Leader&apos;s Playbook",
+    "desc": "The host engages in conversations with influential CEOs and business leaders. S01 E107."
   },
   {
     "start": "20:00",
@@ -876,8 +403,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782590400000,
     "stopTs": 1782592200000,
-    "title": "CNBC Special",
-    "desc": "He had reputation for being worldly, wise and democratic and stern. But how was he as a father? Karabo Letlhatlha interviews Oliver Tambo&apos;s son, Dali."
+    "title": "CNBC Explains",
+    "desc": "&apos;CNBC Explains&apos; is an explainer series that explores the forces shaping our world. S01 E09."
   },
   {
     "start": "20:30",
@@ -887,74 +414,85 @@
     "channelName": "CNBC TV18",
     "startTs": 1782592200000,
     "stopTs": 1782594000000,
-    "title": "CNBC Special",
-    "desc": "He had reputation for being worldly, wise and democratic and stern. But how was he as a father? Karabo Letlhatlha interviews Oliver Tambo&apos;s son, Dali."
+    "title": "CNBC Meets",
+    "desc": "The host interviews various influential personalities to shed light on their thoughts. S01 E44."
   },
   {
     "start": "21:00",
-    "stop": "21:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782594000000,
-    "stopTs": 1782595800000,
-    "title": "CNBC Special",
-    "desc": "He had reputation for being worldly, wise and democratic and stern. But how was he as a father? Karabo Letlhatlha interviews Oliver Tambo&apos;s son, Dali."
-  },
-  {
-    "start": "21:30",
     "stop": "22:00",
     "channel": "CNBCTV18.in",
     "channelId": "CNBCTV18.in",
     "channelName": "CNBC TV18",
-    "startTs": 1782595800000,
+    "startTs": 1782594000000,
     "stopTs": 1782597600000,
-    "title": "CNBC Special",
-    "desc": "He had reputation for being worldly, wise and democratic and stern. But how was he as a father? Karabo Letlhatlha interviews Oliver Tambo&apos;s son, Dali."
+    "title": "American Greed",
+    "desc": "An inquiry into the Murdaugh family brings to light decades of unregulated authority."
   },
   {
     "start": "22:00",
-    "stop": "23:00",
+    "stop": "22:30",
     "channel": "CNBCTV18.in",
     "channelId": "CNBCTV18.in",
     "channelName": "CNBC TV18",
     "startTs": 1782597600000,
+    "stopTs": 1782599400000,
+    "title": "CNBC Explains",
+    "desc": "The host sheds light on the global AI boom and Europe&apos;s transforming economy. S01 E08."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782599400000,
     "stopTs": 1782601200000,
-    "title": "CNBC Network",
-    "desc": "Special network report offering big-picture views on finance, business, and markets. Designed to inform strategic investors and economic decision-makers."
+    "title": "CNBC Meets",
+    "desc": "Tania Bryer gathers insights from the world&apos;s most influential personalities. S01 E45."
   },
   {
     "start": "23:00",
-    "stop": "00:00",
+    "stop": "23:30",
     "channel": "CNBCTV18.in",
     "channelId": "CNBCTV18.in",
     "channelName": "CNBC TV18",
     "startTs": 1782601200000,
+    "stopTs": 1782603000000,
+    "title": "Exec. Decisions",
+    "desc": "The host explores the minds of policymakers and the decisions that define their legacies. S01 E23."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782603000000,
     "stopTs": 1782604800000,
-    "title": "CNBC Network",
-    "desc": "Special network report offering big-picture views on finance, business, and markets. Designed to inform strategic investors and economic decision-makers."
+    "title": "Leader&apos;s Playbook",
+    "desc": "The host interacts with the world&apos;s most influential CEOs and business leaders."
   },
   {
     "start": "00:00",
-    "stop": "00:30",
+    "stop": "01:00",
     "channel": "CNBCTV18.in",
     "channelId": "CNBCTV18.in",
     "channelName": "CNBC TV18",
     "startTs": 1782604800000,
-    "stopTs": 1782606600000,
-    "title": "CNBC Special",
-    "desc": "He had reputation for being worldly, wise and democratic and stern. But how was he as a father? Karabo Letlhatlha interviews Oliver Tambo&apos;s son, Dali."
+    "stopTs": 1782608400000,
+    "title": "American Greed",
+    "desc": "The host sheds light on some of the biggest white collar crimes committed in the USA."
   },
   {
-    "start": "00:30",
+    "start": "01:00",
     "stop": "01:30",
     "channel": "CNBCTV18.in",
     "channelId": "CNBCTV18.in",
     "channelName": "CNBC TV18",
-    "startTs": 1782606600000,
+    "startTs": 1782608400000,
     "stopTs": 1782610200000,
-    "title": "CNBC Network",
-    "desc": "Special network report offering big-picture views on finance, business, and markets. Designed to inform strategic investors and economic decision-makers."
+    "title": "CNBC Explains",
+    "desc": "The host sheds light on the global AI boom and Europe&apos;s transforming economy. S01 E08."
   },
   {
     "start": "01:30",
@@ -964,8 +502,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782610200000,
     "stopTs": 1782612000000,
-    "title": "CNBC Special",
-    "desc": "He had reputation for being worldly, wise and democratic and stern. But how was he as a father? Karabo Letlhatlha interviews Oliver Tambo&apos;s son, Dali."
+    "title": "CNBC Meets",
+    "desc": "Tania Bryer gathers insights from the world&apos;s most influential personalities. S01 E45."
   },
   {
     "start": "02:00",
@@ -975,8 +513,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782612000000,
     "stopTs": 1782613800000,
-    "title": "CNBC Special",
-    "desc": "He had reputation for being worldly, wise and democratic and stern. But how was he as a father? Karabo Letlhatlha interviews Oliver Tambo&apos;s son, Dali."
+    "title": "Exec. Decisions",
+    "desc": "The host explores the minds of policymakers and the decisions that define their legacies. S01 E23."
   },
   {
     "start": "02:30",
@@ -986,8 +524,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782613800000,
     "stopTs": 1782615600000,
-    "title": "CNN News18 News Bulletin",
-    "desc": "The host presents a detailed analysis of some of the most important stories, the latest news updates and developments of the day."
+    "title": "Kanwal Rekhi-Voices From The Valley",
+    "desc": "Shereen Bhan interviews tech pioneer Kanwal Rekhi about his life, AI and entrepreneurship."
   },
   {
     "start": "03:00",
@@ -997,8 +535,8 @@
     "channelName": "CNBC TV18",
     "startTs": 1782615600000,
     "stopTs": 1782617400000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "Catch the latest updates related to the world of business and finance from all over the world."
+    "title": "All About Insurance",
+    "desc": "."
   },
   {
     "start": "03:30",
@@ -1008,7 +546,436 @@
     "channelName": "CNBC TV18",
     "startTs": 1782617400000,
     "stopTs": 1782619200000,
-    "title": "Big Deal",
-    "desc": "A special report featuring the most significant financial stories of the day. Includes interviews, deal coverage, and what it means for the market."
+    "title": "Global Dialogues",
+    "desc": "The host shares updates on the economic, political and social developments across the world."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782619200000,
+    "stopTs": 1782621000000,
+    "title": "Editors&apos; Roundtable",
+    "desc": "Editors provide an in-depth analysis of the economic issues faced by the country."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782621000000,
+    "stopTs": 1782622800000,
+    "title": "Let&apos;s Talk Money",
+    "desc": "The host invites finance experts to offer their advice on various significant topics."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782622800000,
+    "stopTs": 1782624600000,
+    "title": "Editors&apos; Playbook",
+    "desc": "Experts share insights on key market trends to understand what&apos;s driving the economy."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782624600000,
+    "stopTs": 1782626400000,
+    "title": "CNBC-TV18 Newsmaker",
+    "desc": "The host invites prominent personalities to discuss finance and business related topics."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782626400000,
+    "stopTs": 1782628200000,
+    "title": "Storyboard18",
+    "desc": "Marketing experts discuss how firms use digital media to reach consumers during festivals."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782628200000,
+    "stopTs": 1782630000000,
+    "title": "Young Turks Reloaded",
+    "desc": "The host talks to entrepreneurs and startup founders about their professional journeys."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782630000000,
+    "stopTs": 1782631800000,
+    "title": "Overdrive",
+    "desc": "The host presents the latest news stories and updates about automobiles and bikes."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782631800000,
+    "stopTs": 1782633600000,
+    "title": "Cisco-Voices From The Valley",
+    "desc": "The host speaks with Jeetu Patel, the Cisco president, regarding the AI revolution."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782633600000,
+    "stopTs": 1782635400000,
+    "title": "CNBC-TV18 Future, Female, Forward",
+    "desc": "The host presents an update on the contribution of various women from different fields."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782635400000,
+    "stopTs": 1782637200000,
+    "title": "Storyboard18",
+    "desc": "Marketing experts discuss how firms use digital media to reach consumers during festivals."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782637200000,
+    "stopTs": 1782639000000,
+    "title": "Bloom Energy-Voices From The Valley",
+    "desc": "The host engages in a conversation with Bloom Energy CEO KR Sridhar."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782639000000,
+    "stopTs": 1782640800000,
+    "title": "Commodity Champions",
+    "desc": "Trading experts choose the best commodities that have fared well in the market."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782640800000,
+    "stopTs": 1782642600000,
+    "title": "Let&apos;s Talk Money",
+    "desc": "The host invites finance experts to offer their advice on various significant topics."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782642600000,
+    "stopTs": 1782644400000,
+    "title": "Vishal Sikka-Voices From The Valley",
+    "desc": "The host talks to entrepreneurs and discusses various issues in the business industry."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782644400000,
+    "stopTs": 1782646200000,
+    "title": "Editors&apos; Roundtable",
+    "desc": "Editors provide an in-depth analysis of the economic issues faced by the country."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782646200000,
+    "stopTs": 1782648000000,
+    "title": "India DPI Summit",
+    "desc": "."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782648000000,
+    "stopTs": 1782649800000,
+    "title": "Optum Healthx Elevate",
+    "desc": "."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782649800000,
+    "stopTs": 1782651600000,
+    "title": "All About Insurance",
+    "desc": "."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782651600000,
+    "stopTs": 1782653400000,
+    "title": "Santokbaa Humanitarian Award 2026",
+    "desc": "."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782653400000,
+    "stopTs": 1782655200000,
+    "title": "Bloom Energy-Voices From The Valley",
+    "desc": "The host engages in a conversation with Bloom Energy CEO KR Sridhar."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782655200000,
+    "stopTs": 1782657000000,
+    "title": "Commodity Champions",
+    "desc": "Trading experts choose the best commodities that have fared well in the market."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782657000000,
+    "stopTs": 1782658800000,
+    "title": "Overdrive",
+    "desc": "The host presents the latest news stories and updates about automobiles and bikes."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782658800000,
+    "stopTs": 1782660600000,
+    "title": "Global Dialogues",
+    "desc": "The host shares updates on the economic, political and social developments across the world."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782660600000,
+    "stopTs": 1782662400000,
+    "title": "Editors&apos; Playbook",
+    "desc": "Experts share insights on key market trends to understand what&apos;s driving the economy."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782662400000,
+    "stopTs": 1782664200000,
+    "title": "Young Turks Reloaded",
+    "desc": "The host talks to entrepreneurs and startup founders about their professional journeys."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782664200000,
+    "stopTs": 1782666000000,
+    "title": "CNBC-TV18 Newsmaker",
+    "desc": "The host invites prominent personalities to discuss finance and business related topics."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782666000000,
+    "stopTs": 1782667800000,
+    "title": "Media Dialogues With Storyboard18",
+    "desc": "The host invites marketing experts to discuss IPL&apos;s impact on digital media."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782667800000,
+    "stopTs": 1782669600000,
+    "title": "Editors&apos; Roundtable",
+    "desc": "Editors provide an in-depth analysis of the economic issues faced by the country."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782669600000,
+    "stopTs": 1782671400000,
+    "title": "Let&apos;s Talk Money",
+    "desc": "The host invites finance experts to offer their advice on various significant topics."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782671400000,
+    "stopTs": 1782673200000,
+    "title": "Overdrive",
+    "desc": "A host presents top stories and headlines from markets, industries, government, entertainment, and sports, delivering clear, easy to understand updates for viewers about today&apos;s world."
+  },
+  {
+    "start": "19:00",
+    "stop": "20:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782673200000,
+    "stopTs": 1782676800000,
+    "title": "American Greed",
+    "desc": "A cunning swindler builds an empire on greed, only to be hunted by truth-seekers who unravel his lies, exposing the tragic fall of power built on betrayal."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782676800000,
+    "stopTs": 1782678600000,
+    "title": "On Assignment",
+    "desc": "On Assignment follows journalists uncovering stories that matter, diving into global issues with sharp reporting, bold questions, and a commitment to truth."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782678600000,
+    "stopTs": 1782680400000,
+    "title": "Delivering Alpha 2025",
+    "desc": "A premier investment summit featuring top financial minds discussing market trends, investment strategies, and economic outlooks for 2025."
+  },
+  {
+    "start": "21:00",
+    "stop": "22:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782680400000,
+    "stopTs": 1782684000000,
+    "title": "The Swift Effect",
+    "desc": "In-depth analysis of Taylor Swift&apos;s massive economic and cultural impact on industries, cities and global entertainment trends."
+  },
+  {
+    "start": "22:00",
+    "stop": "23:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782684000000,
+    "stopTs": 1782687600000,
+    "title": "The Rundown",
+    "desc": "Body detoxification has been practiced for centuries. Detoxes and cleanses are all the rage right now, but are detoxes causing more harm than good?"
+  },
+  {
+    "start": "23:00",
+    "stop": "00:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782687600000,
+    "stopTs": 1782693000000,
+    "title": "Squawk Box",
+    "desc": "The ultimate pre-market morning news and talk programme, where the big names in business and politics bring their important stories."
+  },
+  {
+    "start": "00:30",
+    "stop": "02:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782693000000,
+    "stopTs": 1782698400000,
+    "title": "Squawk Box",
+    "desc": "The ultimate pre-market morning news and talk programme, where the big names in business and politics bring their important stories."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782698400000,
+    "stopTs": 1782700200000,
+    "title": "Power Breakfast",
+    "desc": "Business and finance news that tracks what is expected from the market based on cues from overnight US data and the status of markets in the East."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1782700200000,
+    "stopTs": 1782703800000,
+    "title": "Bazaar Morning Call",
+    "desc": "A host presents top stories and headlines from markets, industries, government, entertainment, and sports, delivering clear, easy to understand updates for viewers about today&apos;s world."
   }
 ]

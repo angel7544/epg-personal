@@ -1,311 +1,25 @@
 [
   {
     "start": "00:30",
-    "stop": "03:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782433800000,
-    "stopTs": 1782444600000,
-    "title": "Sports Programme",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782441000000,
-    "stopTs": 1782444600000,
-    "title": "Asian Weightlifting Championship Highlights",
-    "desc": "Day 4;Highlights of various sportspersons competing in the Asian Weightlifting Championships."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782444600000,
-    "stopTs": 1782446400000,
-    "title": "Asian Aquatics Championships Highlights",
-    "desc": "Day 7;Highlights of the swimming and diving events in the Asian Aquatics Championship."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782446400000,
-    "stopTs": 1782448200000,
-    "title": "Day 5-72nd Senior National Volleyball Championship 2026",
-    "desc": "Day 5;"
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782448200000,
-    "stopTs": 1782451800000,
-    "title": "The Great Indian Cricket Show",
-    "desc": "Sports experts discuss India&apos;s achievements in cricket to inspire new fans of the sport."
-  },
-  {
-    "start": "05:30",
-    "stop": "07:00",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782451800000,
-    "stopTs": 1782457200000,
-    "title": "Diamond Harbour vs. Sreenidi Deccan FC-I-League Soccer",
-    "desc": "Diamond Harbour vs. Sreenidi Deccan FC;From Kalyani Municipality Stadium in India."
-  },
-  {
-    "start": "06:30",
-    "stop": "09:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782455400000,
-    "stopTs": 1782466200000,
-    "title": "Sports Programme",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "07:00",
-    "stop": "08:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782457200000,
-    "stopTs": 1782462600000,
-    "title": "2025 Billie Jean King Cup Tennis",
-    "desc": "Professional tennis players compete in the 2025 edition of the Billie Jean King Cup."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782462600000,
-    "stopTs": 1782466200000,
-    "title": "Asian Weightlifting Championship Highlights",
-    "desc": "Day 4;Highlights of various sportspersons competing in the Asian Weightlifting Championships."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782466200000,
-    "stopTs": 1782469800000,
-    "title": "The Great Indian Cricket Show",
-    "desc": "Sports experts discuss India&apos;s achievements in cricket to inspire new fans of the sport."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782469800000,
-    "stopTs": 1782473400000,
-    "title": "National Games",
-    "desc": "Basketball, Women SF 1;"
-  },
-  {
-    "start": "11:30",
-    "stop": "12:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782473400000,
-    "stopTs": 1782477000000,
-    "title": "Day 3-Hockey India League Highlights",
-    "desc": "Day 3;Watch the highlights from the Hockey India League as top teams compete for the title."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782477000000,
-    "stopTs": 1782478800000,
-    "title": "Asian Aquatics Championships Highlights",
-    "desc": "Day 7;Highlights of the swimming and diving events in the Asian Aquatics Championship."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782478800000,
-    "stopTs": 1782480600000,
-    "title": "Day 5-72nd Senior National Volleyball Championship 2026",
-    "desc": "Day 5;"
-  },
-  {
-    "start": "13:30",
-    "stop": "14:55",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782480600000,
-    "stopTs": 1782485700000,
-    "title": "Diamond Harbour vs. Sreenidi Deccan FC-I-League Soccer",
-    "desc": "Diamond Harbour vs. Sreenidi Deccan FC;From Kalyani Municipality Stadium in India."
-  },
-  {
-    "start": "14:55",
-    "stop": "15:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782485700000,
-    "stopTs": 1782487800000,
-    "title": "Highlights Of 2nd Khelo India Beach Games",
-    "desc": "Day 3;"
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782487800000,
-    "stopTs": 1782489600000,
-    "title": "Sports Dugout",
-    "desc": "The host presents the latest news and analysis from the world of sports."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782489600000,
-    "stopTs": 1782491400000,
-    "title": "Khelo India Winter Games Highlights",
-    "desc": "Day 2;"
-  },
-  {
-    "start": "16:30",
-    "stop": "17:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782491400000,
-    "stopTs": 1782495000000,
-    "title": "Asian Weightlifting Championship Highlights",
-    "desc": "Day 4;Highlights of various sportspersons competing in the Asian Weightlifting Championships."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782495000000,
-    "stopTs": 1782498600000,
-    "title": "National Games",
-    "desc": "Basketball, Women SF 2;"
-  },
-  {
-    "start": "18:30",
-    "stop": "21:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782498600000,
-    "stopTs": 1782509400000,
-    "title": "Sports Programme",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782502200000,
-    "stopTs": 1782505800000,
-    "title": "38th National Games-2025-Uttarakhand Badminton",
-    "desc": "38th National Games-2025-Uttarakhand Badminton-Women&apos;s Doubles Final"
-  },
-  {
-    "start": "20:30",
-    "stop": "21:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782505800000,
-    "stopTs": 1782509400000,
-    "title": "38th National Games- 2025-Uttarakhand Shooting",
-    "desc": "Get ready for some sharpshooting action! The 38th National Games in Uttarakhand 2025 is gonna be lit with all the shooting competitions. Don&apos;t miss it!"
-  },
-  {
-    "start": "21:30",
-    "stop": "00:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782509400000,
-    "stopTs": 1782520200000,
-    "title": "Sports Programme",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "23:00",
-    "stop": "00:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782514800000,
-    "stopTs": 1782520200000,
-    "title": "Indian Football League-2026 Diamond Harbour FC vs Sreenidhi Deccen FC",
-    "desc": "Indian Football League-2026 Diamond Harbour FC vs Sreenidhi Deccen FC"
-  },
-  {
-    "start": "00:30",
-    "stop": "03:30",
-    "channel": "DDSports.in",
-    "channelId": "DDSports.in",
-    "channelName": "DD Sports",
-    "startTs": 1782520200000,
-    "stopTs": 1782531000000,
-    "title": "Sports Programme",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "01:30",
     "stop": "02:30",
     "channel": "DDSports.in",
     "channelId": "DDSports.in",
     "channelName": "DD Sports",
-    "startTs": 1782523800000,
+    "startTs": 1782520200000,
     "stopTs": 1782527400000,
-    "title": "Sports programme",
-    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+    "title": "Yogasana-38th National Games 2025",
+    "desc": "Yogasana;Sportspersons compete in events at the 38th National Games of India in 2025, live."
   },
   {
     "start": "02:30",
-    "stop": "03:30",
+    "stop": "03:00",
     "channel": "DDSports.in",
     "channelId": "DDSports.in",
     "channelName": "DD Sports",
     "startTs": 1782527400000,
-    "stopTs": 1782531000000,
-    "title": "Sports programme",
-    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+    "stopTs": 1782529200000,
+    "title": "Sports Dugout",
+    "desc": "The host presents the latest news and analysis from the world of sports."
   },
   {
     "start": "03:00",
@@ -315,19 +29,19 @@
     "channelName": "DD Sports",
     "startTs": 1782529200000,
     "stopTs": 1782531000000,
-    "title": "Day 3; Khelo India Winter Games Highlights",
-    "desc": "This is Sport - Sport Category"
+    "title": "Khelo India Winter Games Highlights",
+    "desc": "Day 3;"
   },
   {
     "start": "03:30",
-    "stop": "06:30",
+    "stop": "04:00",
     "channel": "DDSports.in",
     "channelId": "DDSports.in",
     "channelName": "DD Sports",
     "startTs": 1782531000000,
-    "stopTs": 1782541800000,
-    "title": "Sports Programme",
-    "desc": "Bringing the best in television."
+    "stopTs": 1782532800000,
+    "title": "Asian Aquatics Championships Highlights",
+    "desc": "Day 8;Highlights of the swimming and diving events in the Asian Aquatics Championship."
   },
   {
     "start": "04:00",
@@ -337,8 +51,8 @@
     "channelName": "DD Sports",
     "startTs": 1782532800000,
     "stopTs": 1782534600000,
-    "title": "Day 6; 72nd Senior National Volleyball Championship 2026",
-    "desc": "This is Sport - Volleyball Category"
+    "title": "72nd Senior National Volleyball Championship 2026",
+    "desc": "Day 6;"
   },
   {
     "start": "04:30",
@@ -348,30 +62,30 @@
     "channelName": "DD Sports",
     "startTs": 1782534600000,
     "stopTs": 1782538200000,
-    "title": "Sports programme",
-    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+    "title": "The Great Indian Cricket Show",
+    "desc": "Sports experts discuss India&apos;s achievements in cricket to inspire new fans of the sport."
   },
   {
     "start": "05:30",
-    "stop": "06:30",
+    "stop": "07:20",
     "channel": "DDSports.in",
     "channelId": "DDSports.in",
     "channelName": "DD Sports",
     "startTs": 1782538200000,
-    "stopTs": 1782541800000,
-    "title": "Sports programme",
-    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+    "stopTs": 1782544800000,
+    "title": "Diamond Harbour vs. Rajasthan United-I-League Soccer",
+    "desc": "Diamond Harbour vs. Rajasthan United;From Kalyani Municipality Stadium in India."
   },
   {
     "start": "06:30",
-    "stop": "09:30",
+    "stop": "07:30",
     "channel": "DDSports.in",
     "channelId": "DDSports.in",
     "channelName": "DD Sports",
     "startTs": 1782541800000,
-    "stopTs": 1782552600000,
-    "title": "Sports Programme",
-    "desc": "Bringing the best in television."
+    "stopTs": 1782545400000,
+    "title": "Sports programme",
+    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
   },
   {
     "start": "07:20",
@@ -382,7 +96,7 @@
     "startTs": 1782544800000,
     "stopTs": 1782549000000,
     "title": "Billie Jean King Cup",
-    "desc": "Professional players compete against each other in the Billie Jean King Cup, a women&apos;s tennis tournament, in order to emerge victorious."
+    "desc": "Professional players compete in the Billie Jean King Cup, a women&apos;s tennis tournament."
   },
   {
     "start": "07:30",
@@ -403,30 +117,30 @@
     "channelName": "DD Sports",
     "startTs": 1782549000000,
     "stopTs": 1782552600000,
-    "title": "Sports programme",
-    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+    "title": "Asian Weightlifting Championship Highlights",
+    "desc": "Day-5;Highlights of teams competing on Day 5 of the Asian Weightlifting Championship."
   },
   {
     "start": "09:30",
-    "stop": "12:30",
+    "stop": "10:30",
     "channel": "DDSports.in",
     "channelId": "DDSports.in",
     "channelName": "DD Sports",
     "startTs": 1782552600000,
-    "stopTs": 1782563400000,
-    "title": "Sports Programme",
-    "desc": "Bringing the best in television."
+    "stopTs": 1782556200000,
+    "title": "The Great Indian Cricket Show",
+    "desc": "Sports experts discuss India&apos;s achievements in cricket to inspire new fans of the sport."
   },
   {
     "start": "10:30",
-    "stop": "11:30",
+    "stop": "12:30",
     "channel": "DDSports.in",
     "channelId": "DDSports.in",
     "channelName": "DD Sports",
     "startTs": 1782556200000,
-    "stopTs": 1782559800000,
-    "title": "Sports programme",
-    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+    "stopTs": 1782563400000,
+    "title": "Yogasana-38th National Games 2025",
+    "desc": "Yogasana;Sportspersons compete in events at the 38th National Games of India in 2025, live."
   },
   {
     "start": "11:30",
@@ -441,14 +155,14 @@
   },
   {
     "start": "12:30",
-    "stop": "15:30",
+    "stop": "13:00",
     "channel": "DDSports.in",
     "channelId": "DDSports.in",
     "channelName": "DD Sports",
     "startTs": 1782563400000,
-    "stopTs": 1782574200000,
-    "title": "Sports Programme",
-    "desc": "Bringing the best in television."
+    "stopTs": 1782565200000,
+    "title": "Khelo India Winter Games Highlights",
+    "desc": "Day 3;"
   },
   {
     "start": "13:00",
@@ -458,8 +172,8 @@
     "channelName": "DD Sports",
     "startTs": 1782565200000,
     "stopTs": 1782567000000,
-    "title": "Day 8; Asian Aquatics Championships Highlights",
-    "desc": "Highlights of the swimming and diving events in the Asian Aquatics Championship, a major aquatic sports competition wherein athletes from Asian countries compete to win titles."
+    "title": "Asian Aquatics Championships Highlights",
+    "desc": "Day 8;Highlights of the swimming and diving events in the Asian Aquatics Championship."
   },
   {
     "start": "13:30",
@@ -469,8 +183,8 @@
     "channelName": "DD Sports",
     "startTs": 1782567000000,
     "stopTs": 1782570600000,
-    "title": "Sports programme",
-    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+    "title": "Men&apos;s Day-4-Hockey India League Highlights",
+    "desc": "Men&apos;s Day-4;Highlights of a professional hockey tournament held in India."
   },
   {
     "start": "14:30",
@@ -480,19 +194,19 @@
     "channelName": "DD Sports",
     "startTs": 1782570600000,
     "stopTs": 1782574200000,
-    "title": "Sports programme",
-    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+    "title": "The Great Indian Cricket Show",
+    "desc": "Sports experts discuss India&apos;s achievements in cricket to inspire new fans of the sport."
   },
   {
     "start": "15:30",
-    "stop": "18:30",
+    "stop": "16:00",
     "channel": "DDSports.in",
     "channelId": "DDSports.in",
     "channelName": "DD Sports",
     "startTs": 1782574200000,
-    "stopTs": 1782585000000,
-    "title": "Sports Programme",
-    "desc": "Bringing the best in television."
+    "stopTs": 1782576000000,
+    "title": "72nd Senior National Volleyball Championship 2026",
+    "desc": "Day 6;"
   },
   {
     "start": "16:00",
@@ -503,18 +217,18 @@
     "startTs": 1782576000000,
     "stopTs": 1782577800000,
     "title": "5th Khelo India University Games Highlights",
-    "desc": "Highlights featuring the 5th edition of Khelo India University Games, where athletes from across the nation compete in a bid to emerge victorious."
+    "desc": "Highlights of 5th Khelo India University Games, where athletes nationwide vie for victory."
   },
   {
     "start": "16:30",
-    "stop": "18:30",
+    "stop": "17:30",
     "channel": "DDSports.in",
     "channelId": "DDSports.in",
     "channelName": "DD Sports",
     "startTs": 1782577800000,
-    "stopTs": 1782585000000,
-    "title": "Sports programme",
-    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+    "stopTs": 1782581400000,
+    "title": "Asian Weightlifting Championship Highlights",
+    "desc": "Day-5;Highlights of teams competing on Day 5 of the Asian Weightlifting Championship."
   },
   {
     "start": "17:30",
@@ -525,7 +239,7 @@
     "startTs": 1782581400000,
     "stopTs": 1782585600000,
     "title": "Billie Jean King Cup",
-    "desc": "Professional players compete against each other in the Billie Jean King Cup, a women&apos;s tennis tournament, in order to emerge victorious."
+    "desc": "Professional players compete in the Billie Jean King Cup, a women&apos;s tennis tournament."
   },
   {
     "start": "18:30",
@@ -540,14 +254,14 @@
   },
   {
     "start": "18:40",
-    "stop": "19:00",
+    "stop": "20:30",
     "channel": "DDSports.in",
     "channelId": "DDSports.in",
     "channelName": "DD Sports",
     "startTs": 1782585600000,
-    "stopTs": 1782586800000,
-    "title": "6th Khelo India Winter Games-2026 Ice Skating Women&apos;s Q/F",
-    "desc": "Witness Khelo India Winter Games 2026 women&apos;s ice skating quarterfinals at Gulmarg, Jammu and Kashmir, India, featuring elegance, speed, and technical brilliance."
+    "stopTs": 1782592200000,
+    "title": "Diamond Harbour vs. Rajasthan United-I-League Soccer",
+    "desc": "Diamond Harbour vs. Rajasthan United;From Kalyani Municipality Stadium in India."
   },
   {
     "start": "19:00",
@@ -573,14 +287,14 @@
   },
   {
     "start": "20:30",
-    "stop": "21:30",
+    "stop": "22:30",
     "channel": "DDSports.in",
     "channelId": "DDSports.in",
     "channelName": "DD Sports",
     "startTs": 1782592200000,
-    "stopTs": 1782595800000,
-    "title": "Sports programme",
-    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+    "stopTs": 1782599400000,
+    "title": "Yogasana-38th National Games 2025",
+    "desc": "Yogasana;Sportspersons compete in events at the 38th National Games of India in 2025, live."
   },
   {
     "start": "21:30",
@@ -601,8 +315,8 @@
     "channelName": "DD Sports",
     "startTs": 1782599400000,
     "stopTs": 1782603000000,
-    "title": "Sports programme",
-    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+    "title": "Men&apos;s Day-4-Hockey India League Highlights",
+    "desc": "Men&apos;s Day-4;Highlights of a professional hockey tournament held in India."
   },
   {
     "start": "23:30",
@@ -612,19 +326,19 @@
     "channelName": "DD Sports",
     "startTs": 1782603000000,
     "stopTs": 1782606600000,
-    "title": "Sports programme",
-    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+    "title": "Asian Weightlifting Championship Highlights",
+    "desc": "Day-5;Highlights of teams competing on Day 5 of the Asian Weightlifting Championship."
   },
   {
     "start": "00:30",
-    "stop": "01:30",
+    "stop": "01:05",
     "channel": "DDSports.in",
     "channelId": "DDSports.in",
     "channelName": "DD Sports",
     "startTs": 1782606600000,
-    "stopTs": 1782610200000,
-    "title": "Sports programme",
-    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+    "stopTs": 1782608700000,
+    "title": "1st World Yogasana Championship-2026",
+    "desc": "Day 2;"
   },
   {
     "start": "01:00",
@@ -638,6 +352,17 @@
     "desc": "Live Celebration of 12th International Day of Yoga-2026"
   },
   {
+    "start": "01:05",
+    "stop": "01:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782608700000,
+    "stopTs": 1782610200000,
+    "title": "Khelo India Winter Games",
+    "desc": "Ice Hockey & Ice Skating;Professional athletes from across the country compete in the Khelo India Winter Games."
+  },
+  {
     "start": "01:30",
     "stop": "02:30",
     "channel": "DDSports.in",
@@ -645,8 +370,8 @@
     "channelName": "DD Sports",
     "startTs": 1782610200000,
     "stopTs": 1782613800000,
-    "title": "Sports programme",
-    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+    "title": "Umling La Cycling Expedition",
+    "desc": "Cyclists ride through the lofty Umling La in an epic Himalayan cycling expedition."
   },
   {
     "start": "02:30",
@@ -656,17 +381,457 @@
     "channelName": "DD Sports",
     "startTs": 1782613800000,
     "stopTs": 1782617400000,
-    "title": "Sports programme",
-    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+    "title": "The Great Indian Cricket Show",
+    "desc": "Sports experts discuss India&apos;s achievements in cricket to inspire new fans of the sport."
   },
   {
     "start": "03:30",
-    "stop": "04:30",
+    "stop": "04:00",
     "channel": "DDSports.in",
     "channelId": "DDSports.in",
     "channelName": "DD Sports",
     "startTs": 1782617400000,
+    "stopTs": 1782619200000,
+    "title": "Kahani Cricket Ki",
+    "desc": "Kahani Cricket Ki"
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782619200000,
     "stopTs": 1782621000000,
+    "title": "Khelo India Winter Games Highlights",
+    "desc": "Day 1;"
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782621000000,
+    "stopTs": 1782624600000,
+    "title": "Khelo India Youth Games",
+    "desc": "Boys Basketball Semi Final;Youth compete in diverse sports, building India&apos;s future in athletics and games."
+  },
+  {
+    "start": "05:10",
+    "stop": "05:35",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782623400000,
+    "stopTs": 1782624900000,
+    "title": "6th Khelo India Winter Games-2026 Ice Skating, Men&apos;s Q/F",
+    "desc": "6th Khelo India Winter Games-2026 Ice Skating, Men&apos;s Q/F"
+  },
+  {
+    "start": "05:30",
+    "stop": "07:15",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782624600000,
+    "stopTs": 1782630900000,
+    "title": "Sreenidi Deccan vs Shillong Lajong-I-League Highlights",
+    "desc": "Sreenidi Deccan vs Shillong Lajong;Highlights of matches played in the I-League wherein top football teams compete to win."
+  },
+  {
+    "start": "05:35",
+    "stop": "06:45",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782624900000,
+    "stopTs": 1782629100000,
+    "title": "Highlights of 1st World Yogasana Championship-2026",
+    "desc": "Get the glimpse of 1st World Yogasana Championship 2026 highlights from Indira Gandhi Indoor Stadium, New Delhi, Delhi, India showcasing precision and skill."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782628200000,
+    "stopTs": 1782631800000,
+    "title": "Sports programme",
+    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+  },
+  {
+    "start": "06:45",
+    "stop": "07:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782629100000,
+    "stopTs": 1782631800000,
+    "title": "Highlights of 1st World Yogasana Championship-2026",
+    "desc": "Get the glimpse of 1st World Yogasana Championship 2026 highlights from Indira Gandhi Indoor Stadium, New Delhi, Delhi, India showcasing precision and skill."
+  },
+  {
+    "start": "07:15",
+    "stop": "07:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782630900000,
+    "stopTs": 1782631800000,
+    "title": "24 Hours of Greatness",
+    "desc": "A Rest Day Of A Hockey Player;"
+  },
+  {
+    "start": "07:30",
+    "stop": "08:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782631800000,
+    "stopTs": 1782635400000,
+    "title": "Men&apos;s Day 5-Hockey India League Highlights",
+    "desc": "Men&apos;s Day 5;Highlights of a professional hockey tournament held in India."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782635400000,
+    "stopTs": 1782639000000,
+    "title": "Asian Weightlifting Championship Highlights",
+    "desc": "Day-6;Highlights of various sportspersons competing in the Asian Weightlifting Championships."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782639000000,
+    "stopTs": 1782642600000,
+    "title": "Umling La Cycling Expedition",
+    "desc": "Cyclists ride through the lofty Umling La in an epic Himalayan cycling expedition."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:40",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782642600000,
+    "stopTs": 1782646800000,
+    "title": "2025 Billie Jean King Cup Tennis",
+    "desc": "Professional tennis players compete in the 2025 edition of the Billie Jean King Cup."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:45",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782644400000,
+    "stopTs": 1782647100000,
+    "title": "Highlights of 1st World Yogasana Championship-2026",
+    "desc": "Get the glimpse of 1st World Yogasana Championship 2026 highlights from Indira Gandhi Indoor Stadium, New Delhi, Delhi, India showcasing precision and skill."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782646200000,
+    "stopTs": 1782649800000,
+    "title": "Sports programme",
+    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+  },
+  {
+    "start": "11:40",
+    "stop": "12:45",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782646800000,
+    "stopTs": 1782650700000,
+    "title": "The Great Indian Cricket Show",
+    "desc": "Sports experts discuss India&apos;s achievements in cricket to inspire new fans of the sport."
+  },
+  {
+    "start": "11:45",
+    "stop": "13:00",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782647100000,
+    "stopTs": 1782651600000,
+    "title": "The Great Indian Cricket Show-2025-26",
+    "desc": "Step into expert analysis on The Great Indian Cricket Show 2025-26, filmed in Mumbai, Maharashtra, India, featuring insights, debates, and iconic moments."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782649800000,
+    "stopTs": 1782653400000,
+    "title": "Sports programme",
+    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+  },
+  {
+    "start": "12:45",
+    "stop": "14:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782650700000,
+    "stopTs": 1782657000000,
+    "title": "Sreenidi Deccan vs Shillong Lajong-I-League Highlights",
+    "desc": "Sreenidi Deccan vs Shillong Lajong;Highlights of matches played in the I-League wherein top football teams compete to win."
+  },
+  {
+    "start": "13:00",
+    "stop": "14:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782651600000,
+    "stopTs": 1782657000000,
+    "title": "Live Jharkhand T-20 League-2026",
+    "desc": "Tune into Live Jharkhand T20 League 2026 as regional cricket stars showcase their talent at JSCA International Stadium Complex, Ranchi, Jharkhand, India."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782653400000,
+    "stopTs": 1782657000000,
+    "title": "Sports programme",
+    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782657000000,
+    "stopTs": 1782660600000,
+    "title": "The Great Indian Cricket Show",
+    "desc": "Sports experts discuss India&apos;s achievements in cricket to inspire new fans of the sport."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782660600000,
+    "stopTs": 1782662400000,
+    "title": "Khelo India Winter Games Highlights",
+    "desc": "Day 1;"
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782662400000,
+    "stopTs": 1782664200000,
+    "title": "Day 5-5th Khelo India University Games Highlights",
+    "desc": "Day 5;Highlights of 5th Khelo India University Games, where athletes nationwide vie for victory."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782664200000,
+    "stopTs": 1782667800000,
+    "title": "Asian Weightlifting Championship Highlights",
+    "desc": "Day-6;Highlights of various sportspersons competing in the Asian Weightlifting Championships."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782666000000,
+    "stopTs": 1782667800000,
+    "title": "Beyond Scoreboard Yoga Edition",
+    "desc": "Beyond Scoreboard Yoga Edition"
+  },
+  {
+    "start": "17:30",
+    "stop": "18:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782667800000,
+    "stopTs": 1782671400000,
+    "title": "Men&apos;s Day 5-Hockey India League Highlights",
+    "desc": "Men&apos;s Day 5;Highlights of a professional hockey tournament held in India."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782671400000,
+    "stopTs": 1782675000000,
+    "title": "Sports programme",
+    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+  },
+  {
+    "start": "19:10",
+    "stop": "19:50",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782673800000,
+    "stopTs": 1782676200000,
+    "title": "Highlights of 1st World Yogasana Championship-2026",
+    "desc": "Get the glimpse of 1st World Yogasana Championship 2026 highlights from Indira Gandhi Indoor Stadium, New Delhi, Delhi, India showcasing precision and skill."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782675000000,
+    "stopTs": 1782678600000,
+    "title": "Sports programme",
+    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+  },
+  {
+    "start": "19:50",
+    "stop": "20:55",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782676200000,
+    "stopTs": 1782680100000,
+    "title": "Highlights of 1st World Yogasana Championship-2026",
+    "desc": "Get the glimpse of 1st World Yogasana Championship 2026 highlights from Indira Gandhi Indoor Stadium, New Delhi, Delhi, India showcasing precision and skill."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782678600000,
+    "stopTs": 1782682200000,
+    "title": "Sports programme",
+    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+  },
+  {
+    "start": "20:55",
+    "stop": "22:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782680100000,
+    "stopTs": 1782685800000,
+    "title": "Indian Football League-2026 Rajasthan United FC vs Gokulam Kerala FC",
+    "desc": "Indian Football League-2026 Rajasthan United FC vs Gokulam Kerala FC"
+  },
+  {
+    "start": "21:30",
+    "stop": "22:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782682200000,
+    "stopTs": 1782685800000,
+    "title": "Sports programme",
+    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782685800000,
+    "stopTs": 1782689400000,
+    "title": "Sports programme",
+    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782689400000,
+    "stopTs": 1782693000000,
+    "title": "Sports programme",
+    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782691200000,
+    "stopTs": 1782693000000,
+    "title": "Highlights of 11th Asian Aquatic Championship-2025",
+    "desc": "Relive top moments from 11th Asian Aquatic Championship 2025 at Tarlac, Philippines, where leading swimmers delivered stellar performances."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782693000000,
+    "stopTs": 1782696600000,
+    "title": "Sports programme",
+    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782696600000,
+    "stopTs": 1782700200000,
+    "title": "Sports programme",
+    "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
+  },
+  {
+    "start": "01:35",
+    "stop": "02:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782696900000,
+    "stopTs": 1782700200000,
+    "title": "Highlights of Asian Weightlifting Championship-2026",
+    "desc": "Tune into highlights of the Asian Weightlifting Championship at Tashkent Arena, Tashkent, Uzbekistan, featuring powerful lifts, intense battles and medal-winning performances."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "DDSports.in",
+    "channelId": "DDSports.in",
+    "channelName": "DD Sports",
+    "startTs": 1782700200000,
+    "stopTs": 1782703800000,
     "title": "Sports programme",
     "desc": "A sports show covering top events, match previews, expert analysis, and highlights from across cricket, football, and more."
   }

@@ -1,285 +1,32 @@
 [
   {
-    "start": "01:00",
-    "stop": "03:20",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1782435600000,
-    "stopTs": 1782444000000,
-    "title": "The Hunger Games: Catching Fire",
-    "desc": "Katniss and Peeta must participate in the 75th Annual Hunger Games."
-  },
-  {
-    "start": "01:05",
-    "stop": "03:25",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX",
-    "startTs": 1782435900000,
-    "stopTs": 1782444300000,
-    "title": "The Hunger Games: Catching Fire",
-    "desc": "After their victory in the 74th Hunger Games, Katniss and Peeta must participate in the 75th Annual Hunger Games, featuring all its previous winners."
-  },
-  {
-    "start": "03:20",
-    "stop": "04:53",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1782444000000,
-    "stopTs": 1782449580000,
-    "title": "Rambo: First Blood",
-    "desc": "A Vietnam War veteran arrives in a town but clashes with the local sheriff."
-  },
-  {
-    "start": "03:25",
-    "stop": "05:00",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX - HD",
-    "startTs": 1782444300000,
-    "stopTs": 1782450000000,
-    "title": "Rambo: First Blood",
-    "desc": "Green Beret veteran Rambo takes on a Pacific Northwest sheriff and the National Guard."
-  },
-  {
-    "start": "04:53",
-    "stop": "06:25",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1782449580000,
-    "stopTs": 1782455100000,
-    "title": "Ghost Rider: Spirit of Vengeance",
-    "desc": "The Ghost Rider sets out to protect a young boy who is being pursued by the Devil."
-  },
-  {
-    "start": "05:00",
-    "stop": "06:30",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX - HD",
-    "startTs": 1782450000000,
-    "stopTs": 1782455400000,
-    "title": "Ghost Rider: Spirit Of Vengeance",
-    "desc": "As Johnny Blaze hides out in Eastern Europe, he is called upon to stop the devil, who is trying to take human form"
-  },
-  {
-    "start": "06:25",
-    "stop": "08:26",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1782455100000,
-    "stopTs": 1782462360000,
-    "title": "Black Adam",
-    "desc": "After being freed from prison, Black Adam unleashes his style of justice to the world."
-  },
-  {
-    "start": "06:30",
-    "stop": "08:30",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX - HD",
-    "startTs": 1782455400000,
-    "stopTs": 1782462600000,
-    "title": "Black Adam",
-    "desc": "After 5000 years imprisoned, Black Adam is freed with divine powers of Egyptian gods, unleashing his own ruthless brand of justice upon the modern world."
-  },
-  {
-    "start": "08:26",
-    "stop": "10:03",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1782462360000,
-    "stopTs": 1782468180000,
-    "title": "The Angry Birds Movie 2",
-    "desc": "After years of fighting, the birds and the pigs work together against a common enemy."
-  },
-  {
-    "start": "08:30",
-    "stop": "10:05",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX - HD",
-    "startTs": 1782462600000,
-    "stopTs": 1782468300000,
-    "title": "The Angry Birds Movie 2",
-    "desc": "The flightless birds and scheming green pigs take their feud to the next level."
-  },
-  {
-    "start": "10:03",
-    "stop": "11:30",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1782468180000,
-    "stopTs": 1782473400000,
-    "title": "Rush Hour 3",
-    "desc": "Officers Carter and Lee are sent to Paris after an attempted murder on Ambassador Han."
-  },
-  {
-    "start": "10:05",
-    "stop": "11:30",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX - HD",
-    "startTs": 1782468300000,
-    "stopTs": 1782473400000,
-    "title": "Rush Hour 3",
-    "desc": "After an attempted assassination on Ambassador Han, Lee and Carter head to Paris to protect a French woman with knowledge of the Triads&apos; secret leaders."
-  },
-  {
-    "start": "11:30",
-    "stop": "13:44",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1782473400000,
-    "stopTs": 1782481440000,
-    "title": "Terminator 2: Judgment Day",
-    "desc": "John Connor sends a reprogrammed Terminator to save his younger self from the T-1000."
-  },
-  {
-    "start": "13:44",
-    "stop": "15:30",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1782481440000,
-    "stopTs": 1782487800000,
-    "title": "Baywatch",
-    "desc": "Mitch, a lifeguard of Florida&apos;s Baywatch, assembles a team to take down a drug baron."
-  },
-  {
-    "start": "13:45",
-    "stop": "15:30",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX - HD",
-    "startTs": 1782481500000,
-    "stopTs": 1782487800000,
-    "title": "Baywatch",
-    "desc": "Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit, as they uncover a criminal plot that threatens the future of the bay."
-  },
-  {
-    "start": "15:30",
-    "stop": "17:25",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1782487800000,
-    "stopTs": 1782494700000,
-    "title": "The Hunger Games: Mockingjay, Part 1",
-    "desc": "Katniss Everdeen attempts to free her nation from tyranny after ending the Hunger Games."
-  },
-  {
-    "start": "17:25",
-    "stop": "19:51",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1782494700000,
-    "stopTs": 1782503460000,
-    "title": "The Matrix Resurrections",
-    "desc": "When Thomas is freed from his world, it turns out to be a new version of the Matrix."
-  },
-  {
-    "start": "19:50",
-    "stop": "21:30",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1782503400000,
-    "stopTs": 1782509400000,
-    "title": "Dune",
-    "desc": "Visions haunt Paul Atreides as his family fights to gain control over Arrakis."
-  },
-  {
-    "start": "19:51",
-    "stop": "22:20",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX",
-    "startTs": 1782503460000,
-    "stopTs": 1782512400000,
-    "title": "Dune",
-    "desc": "Paul, the young scion of House Atreides, faces troubling visions of the future. Meanwhile, his family fights to gain control over Arrakis, the only source of the valuable spice melange."
-  },
-  {
-    "start": "21:30",
-    "stop": "00:30",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX HD",
-    "startTs": 1782509400000,
-    "stopTs": 1782520200000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "22:20",
-    "stop": "22:42",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX",
-    "startTs": 1782512400000,
-    "stopTs": 1782513720000,
-    "title": "Pay Day",
-    "desc": "A bricklayer&apos;s plans of having a fun weekend go for a toss when he finds it difficult to reach home during a downpour. When he finally reaches home, he realises that his wife is angry with him."
-  },
-  {
-    "start": "22:42",
-    "stop": "23:46",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX",
-    "startTs": 1782513720000,
-    "stopTs": 1782517560000,
-    "title": "Piranha 3DD",
-    "desc": "The bloodthirsty piranhas head towards a local water park. Amidst the fun-seeking horde at the park are friends Maddy, Barry and Kyle who decide to take on the man-eating creatures."
-  },
-  {
-    "start": "23:46",
-    "stop": "01:23",
-    "channel": "MNX.in",
-    "channelId": "MNX.in",
-    "channelName": "MNX",
-    "startTs": 1782517560000,
-    "stopTs": 1782523380000,
-    "title": "The LEGO Movie",
-    "desc": "Emmet, an ordinary individual prophesied to be the Special, is entrusted with the responsibility of saving the Lego world from the cruel ways of Lord Business."
-  },
-  {
     "start": "00:30",
     "stop": "03:30",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX HD",
+    "channelName": "MNX - HD",
     "startTs": 1782520200000,
     "stopTs": 1782531000000,
     "title": "Movie",
-    "desc": "Bringing the best in television."
+    "desc": "The movie name is yet to be announced by the channel."
   },
   {
     "start": "01:23",
     "stop": "02:51",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1782523380000,
     "stopTs": 1782528660000,
     "title": "Johnny English Strikes Again",
-    "desc": "When a hacker reveals the identities of Britain&apos;s undercover agents, British agent Johnny English springs back into action and must overcome the challenges of modern technology."
+    "desc": "British agent Johnny English springs back into action to find a mastermind hacker."
   },
   {
     "start": "02:51",
     "stop": "04:30",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1782528660000,
     "stopTs": 1782534600000,
     "title": "Rush Hour",
@@ -290,121 +37,121 @@
     "stop": "06:30",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX HD",
+    "channelName": "MNX - HD",
     "startTs": 1782531000000,
     "stopTs": 1782541800000,
     "title": "Movie",
-    "desc": "Bringing the best in television."
+    "desc": "The movie name is yet to be announced by the channel."
   },
   {
     "start": "04:30",
     "stop": "06:41",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1782534600000,
     "stopTs": 1782542460000,
     "title": "Mission: Impossible -- Ghost Protocol",
-    "desc": "Ethan Hunt, an expert agent, confronts a worldwide plot. To prevent a nuclear crisis, he collaborates secretly with his team after his organisation is deceived."
+    "desc": "Agent Hunt covertly stops a nuclear threat after his agency is deceived."
   },
   {
     "start": "06:30",
     "stop": "09:30",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX HD",
+    "channelName": "MNX - HD",
     "startTs": 1782541800000,
     "stopTs": 1782552600000,
     "title": "Movie",
-    "desc": "Bringing the best in television."
+    "desc": "The movie name is yet to be announced by the channel."
   },
   {
     "start": "06:41",
     "stop": "08:31",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1782542460000,
     "stopTs": 1782549060000,
     "title": "Apocalypto",
-    "desc": "A mettlesome tribesman must do whatever it takes to protect himself and his family from a multitude of threats during the Mayan civilisation&apos;s waning years."
+    "desc": "Adversities beset a tribesman and his family during the Mayan civilisation&apos;s waning years."
   },
   {
     "start": "08:31",
     "stop": "10:49",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1782549060000,
     "stopTs": 1782557340000,
     "title": "Furiosa: A Mad Max Saga",
-    "desc": "Stuck in the middle of the conflict between Dementus and Immortan Joe, Furiosa fights to escape from their clutches and return to her safe haven, the Green Place."
+    "desc": "Furiosa fights to escape and return to the Green Place after Dementus abducts her."
   },
   {
     "start": "09:30",
     "stop": "12:30",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX HD",
+    "channelName": "MNX - HD",
     "startTs": 1782552600000,
     "stopTs": 1782563400000,
     "title": "Movie",
-    "desc": "Bringing the best in television."
+    "desc": "The movie name is yet to be announced by the channel."
   },
   {
     "start": "10:49",
     "stop": "13:21",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1782557340000,
     "stopTs": 1782566460000,
     "title": "Troy",
-    "desc": "After Paris, a Trojan prince, has an affair with Menelaus&apos;s wife, Helen, he decides to take her with him. Later, Menelaus&apos;s brother uses that as an excuse to wage a war against the city of Troy."
+    "desc": "After Paris has an affair with Menelaus&apos;s wife, Helen, it leads to a war that ruins Troy."
   },
   {
     "start": "12:30",
     "stop": "15:30",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX HD",
+    "channelName": "MNX - HD",
     "startTs": 1782563400000,
     "stopTs": 1782574200000,
     "title": "Movie",
-    "desc": "Bringing the best in television."
+    "desc": "The movie name is yet to be announced by the channel."
   },
   {
     "start": "13:21",
     "stop": "15:30",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1782566460000,
     "stopTs": 1782574200000,
     "title": "Dungeons & Dragons: Honor Among Thieves",
-    "desc": "A thief with a tragic past joins a band of adventurers in attempting to retrieve a lost relic. However, their quest goes awry when they cross the wrong people."
+    "desc": "A thief with a tragic past teams up with adventurers to retrieve a lost relic."
   },
   {
     "start": "15:30",
-    "stop": "18:30",
+    "stop": "17:35",
     "channel": "MNX.in",
     "channelId": "MNX.in",
     "channelName": "MNX HD",
     "startTs": 1782574200000,
-    "stopTs": 1782585000000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
+    "stopTs": 1782581700000,
+    "title": "Spider-Man 2",
+    "desc": "After losing his job, lover and his powers, Peter Parker feels dissatisfied with his life."
   },
   {
     "start": "17:35",
     "stop": "19:26",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX",
+    "channelName": "MNX HD",
     "startTs": 1782581700000,
     "stopTs": 1782588360000,
     "title": "Constantine",
-    "desc": "Detective Angela approaches Constantine, an exorcist, to help her investigate her twin sister&apos;s death. As he digs deeper, he realises a dark conspiracy which could threaten the world."
+    "desc": "Angela approaches Constantine, an exorcist, to help her investigate her twin&apos;s death."
   },
   {
     "start": "19:20",
@@ -429,15 +176,48 @@
     "desc": "The movie name is yet to be announced by the channel."
   },
   {
-    "start": "21:30",
-    "stop": "21:44",
+    "start": "19:26",
+    "stop": "21:14",
     "channel": "MNX.in",
     "channelId": "MNX.in",
-    "channelName": "MNX - HD",
+    "channelName": "MNX HD",
+    "startTs": 1782588360000,
+    "stopTs": 1782594840000,
+    "title": "The Lost City",
+    "desc": "Loretta Sage, a novelist, faces real-life peril when abducted by a billionaire."
+  },
+  {
+    "start": "21:14",
+    "stop": "21:30",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1782594840000,
+    "stopTs": 1782595800000,
+    "title": "Bhuvan Bam-The Love Laugh Live Show",
+    "desc": "The host invites prominent personalities and engages them in candid conversations. S03 E01."
+  },
+  {
+    "start": "21:19",
+    "stop": "21:30",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX",
+    "startTs": 1782595140000,
+    "stopTs": 1782595800000,
+    "title": "Bhuvan Bam; The Love Laugh Live Show",
+    "desc": "The host invites prominent personalities and engages them in candid conversations about their personal and professional lives."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:03",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
     "startTs": 1782595800000,
-    "stopTs": 1782596640000,
-    "title": "LLL S03_YASHRAJ MUKHATE 03",
-    "desc": "The host engages in a candid conversation with celebrity guests who share intimate details about their personal and professional lives."
+    "stopTs": 1782597780000,
+    "title": "The Idle Class",
+    "desc": "A tramp rises through the ranks of the wealthy, thanks to a case of mistaken identity."
   },
   {
     "start": "21:44",
@@ -451,6 +231,17 @@
     "desc": "The movie name is yet to be announced by the channel."
   },
   {
+    "start": "22:03",
+    "stop": "23:31",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1782597780000,
+    "stopTs": 1782603060000,
+    "title": "City Lights",
+    "desc": "The Tramp falls in love with a girl with visual impairment and tries to help her."
+  },
+  {
     "start": "23:16",
     "stop": "00:45",
     "channel": "MNX.in",
@@ -460,6 +251,17 @@
     "stopTs": 1782607500000,
     "title": "Movie",
     "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "23:31",
+    "stop": "01:09",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1782603060000,
+    "stopTs": 1782608940000,
+    "title": "Tom & Jerry",
+    "desc": "Tom goes after his rival Jerry, who has taken refuge in a fancy hotel hosting a wedding."
   },
   {
     "start": "00:45",
@@ -473,6 +275,17 @@
     "desc": "The movie name is yet to be announced by the channel."
   },
   {
+    "start": "01:09",
+    "stop": "02:53",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1782608940000,
+    "stopTs": 1782615180000,
+    "title": "300",
+    "desc": "King Leonidas and 300 Spartans fight against Xerxes and his massive Persian army."
+  },
+  {
     "start": "02:21",
     "stop": "03:52",
     "channel": "MNX.in",
@@ -480,6 +293,281 @@
     "channelName": "MNX - HD",
     "startTs": 1782613260000,
     "stopTs": 1782618720000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "02:53",
+    "stop": "04:15",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1782615180000,
+    "stopTs": 1782620100000,
+    "title": "Resident Evil: Extinction",
+    "desc": "Alice and a group of survivors look for supplies and safety during a zombie apocalypse."
+  },
+  {
+    "start": "03:52",
+    "stop": "05:22",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX - HD",
+    "startTs": 1782618720000,
+    "stopTs": 1782624120000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "04:15",
+    "stop": "06:54",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1782620100000,
+    "stopTs": 1782629640000,
+    "title": "Mission: Impossible - Dead Reckoning",
+    "desc": "Ethan Hunt and his team must prevent a cyber weapon from falling into the wrong hands."
+  },
+  {
+    "start": "05:22",
+    "stop": "07:14",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX - HD",
+    "startTs": 1782624120000,
+    "stopTs": 1782630840000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "06:54",
+    "stop": "09:23",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1782629640000,
+    "stopTs": 1782638580000,
+    "title": "Transformers: The Last Knight",
+    "desc": "Optimus Prime seeks his creator, while humans and Autobots try to save Earth."
+  },
+  {
+    "start": "07:14",
+    "stop": "09:06",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX - HD",
+    "startTs": 1782630840000,
+    "stopTs": 1782637560000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "09:06",
+    "stop": "10:43",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX - HD",
+    "startTs": 1782637560000,
+    "stopTs": 1782643380000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "09:23",
+    "stop": "11:12",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1782638580000,
+    "stopTs": 1782645120000,
+    "title": "Godzilla vs. Kong",
+    "desc": "When Godzilla travels on a path of destruction and mayhem, humans turn to King Kong."
+  },
+  {
+    "start": "10:43",
+    "stop": "12:48",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX - HD",
+    "startTs": 1782643380000,
+    "stopTs": 1782650880000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "11:12",
+    "stop": "12:59",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1782645120000,
+    "stopTs": 1782651540000,
+    "title": "The Nun II",
+    "desc": "In 1956 France, Sister Irene faces Valak as evil threatens the convent and town."
+  },
+  {
+    "start": "12:48",
+    "stop": "14:21",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX - HD",
+    "startTs": 1782650880000,
+    "stopTs": 1782656460000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "12:59",
+    "stop": "15:30",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1782651540000,
+    "stopTs": 1782660600000,
+    "title": "Wonder Woman 1984",
+    "desc": "Wonder Woman fights Maxwell and Barbara who wreak havoc with an artefact."
+  },
+  {
+    "start": "14:21",
+    "stop": "15:30",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX - HD",
+    "startTs": 1782656460000,
+    "stopTs": 1782660600000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "15:30",
+    "stop": "17:20",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1782660600000,
+    "stopTs": 1782667200000,
+    "title": "Apocalypto",
+    "desc": "Adversities beset a tribesman and his family during the Mayan civilisation&apos;s waning years."
+  },
+  {
+    "start": "17:10",
+    "stop": "19:15",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX - HD",
+    "startTs": 1782666600000,
+    "stopTs": 1782674100000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "17:20",
+    "stop": "18:59",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX HD",
+    "startTs": 1782667200000,
+    "stopTs": 1782673140000,
+    "title": "Rush Hour",
+    "desc": "Two detectives put their differences aside to save the kidnapped daughter of a diplomat."
+  },
+  {
+    "start": "19:15",
+    "stop": "20:52",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX - HD",
+    "startTs": 1782674100000,
+    "stopTs": 1782679920000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "20:52",
+    "stop": "22:10",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX - HD",
+    "startTs": 1782679920000,
+    "stopTs": 1782684600000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "22:10",
+    "stop": "23:26",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX - HD",
+    "startTs": 1782684600000,
+    "stopTs": 1782689160000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "23:26",
+    "stop": "00:53",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX - HD",
+    "startTs": 1782689160000,
+    "stopTs": 1782694380000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "23:45",
+    "stop": "01:10",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX - HD",
+    "startTs": 1782690300000,
+    "stopTs": 1782695400000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "00:53",
+    "stop": "02:30",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX - HD",
+    "startTs": 1782694380000,
+    "stopTs": 1782700200000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "01:10",
+    "stop": "02:45",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX - HD",
+    "startTs": 1782695400000,
+    "stopTs": 1782701100000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "02:30",
+    "stop": "04:43",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX - HD",
+    "startTs": 1782700200000,
+    "stopTs": 1782708180000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "02:45",
+    "stop": "04:55",
+    "channel": "MNX.in",
+    "channelId": "MNX.in",
+    "channelName": "MNX - HD",
+    "startTs": 1782701100000,
+    "stopTs": 1782708900000,
     "title": "Movie",
     "desc": "The movie name is yet to be announced by the channel."
   }
