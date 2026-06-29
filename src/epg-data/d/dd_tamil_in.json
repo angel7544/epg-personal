@@ -1,621 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782613800000,
-    "stopTs": 1782615600000,
-    "title": "Seidhigal",
-    "desc": "The host presents some of the latest news on a range of topics of public interest."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782615600000,
-    "stopTs": 1782617400000,
-    "title": "Suttrulaa Paarkkalaam",
-    "desc": "The host presents news updates and the latest information on various topics."
-  },
-  {
-    "start": "03:15",
-    "stop": "03:30",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD TAMIL",
-    "startTs": 1782616500000,
-    "stopTs": 1782617400000,
-    "title": "Aalayadarisanam",
-    "desc": "The host shares information about the history and religious significance of various temples in the country to a gathering of devotees."
-  },
-  {
-    "start": "03:30",
-    "stop": "03:35",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782617400000,
-    "stopTs": 1782617700000,
-    "title": "Express News",
-    "desc": "The anchor covers news updates from around the world on an exhaustive range of topics."
-  },
-  {
-    "start": "03:35",
-    "stop": "04:30",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782617700000,
-    "stopTs": 1782621000000,
-    "title": "Naadaga Medai",
-    "desc": "Traditional folk artists deliver a series of enthralling performances."
-  },
-  {
-    "start": "04:30",
-    "stop": "04:35",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782621000000,
-    "stopTs": 1782621300000,
-    "title": "Express News",
-    "desc": "The anchor covers news updates from around the world on an exhaustive range of topics."
-  },
-  {
-    "start": "04:35",
-    "stop": "05:30",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782621300000,
-    "stopTs": 1782624600000,
-    "title": "Startup Handshake",
-    "desc": "The host engages in conversations with experts on matters concerning the progress of startups."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782624600000,
-    "stopTs": 1782626400000,
-    "title": "Mann Ki Baat",
-    "desc": "The PM of India talks about development initiatives launched by the government."
-  },
-  {
-    "start": "05:35",
-    "stop": "06:00",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782624900000,
-    "stopTs": 1782626400000,
-    "title": "Startup Handshake",
-    "desc": "Explore entrepreneurial insights and success stories-empower your startup journey with valuable tips."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782626400000,
-    "stopTs": 1782628200000,
-    "title": "Manadhin Kural",
-    "desc": "The PM of India talks about development initiatives launched by the government."
-  },
-  {
-    "start": "06:30",
-    "stop": "06:35",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782628200000,
-    "stopTs": 1782628500000,
-    "title": "Express News",
-    "desc": "The anchor covers news updates from around the world on an exhaustive range of topics."
-  },
-  {
-    "start": "06:35",
-    "stop": "07:00",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782628500000,
-    "stopTs": 1782630000000,
-    "title": "Tamizh Paalam",
-    "desc": "The host provides information on Tamil culture, language and various art forms."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782630000000,
-    "stopTs": 1782631800000,
-    "title": "Amudham Aahaaram",
-    "desc": "A culinary expert demonstrates ways to prepare healthy and mouth-watering dishes."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782631800000,
-    "stopTs": 1782633600000,
-    "title": "Seidhigal",
-    "desc": "The host presents some of the latest news on a range of topics of public interest."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782633600000,
-    "stopTs": 1782635400000,
-    "title": "Wise Spice",
-    "desc": "The host discusses the advantages of spices and how they can help battle health issues."
-  },
-  {
-    "start": "08:30",
-    "stop": "08:35",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782635400000,
-    "stopTs": 1782635700000,
-    "title": "Express News",
-    "desc": "The anchor covers news updates from around the world on an exhaustive range of topics."
-  },
-  {
-    "start": "08:35",
-    "stop": "11:30",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782635700000,
-    "stopTs": 1782646200000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782646200000,
-    "stopTs": 1782648000000,
-    "title": "Seidhigal",
-    "desc": "The host presents some of the latest news on a range of topics of public interest."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782648000000,
-    "stopTs": 1782649800000,
-    "title": "Olirum Punnagai",
-    "desc": "The host showcases traditional Indian crafts and interviews various skilled artisans."
-  },
-  {
-    "start": "12:30",
-    "stop": "12:35",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782649800000,
-    "stopTs": 1782650100000,
-    "title": "Express News",
-    "desc": "The anchor covers news updates from around the world on an exhaustive range of topics."
-  },
-  {
-    "start": "12:35",
-    "stop": "13:00",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782650100000,
-    "stopTs": 1782651600000,
-    "title": "Engal Nambikkai Ungal Nivaaranam",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782651600000,
-    "stopTs": 1782653400000,
-    "title": "Tv Report",
-    "desc": "The host presents the latest updates pertaining to various issues of the nation."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782653400000,
-    "stopTs": 1782655200000,
-    "title": "Seidhigal",
-    "desc": "The host presents some of the latest news on a range of topics of public interest."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782655200000,
-    "stopTs": 1782657000000,
-    "title": "Ulagam Indha Vaaram",
-    "desc": "The host presents a comprehensive review of the week&apos;s most significant events."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782657000000,
-    "stopTs": 1782658800000,
-    "title": "Manadhin Kural",
-    "desc": "The PM of India talks about development initiatives launched by the government."
-  },
-  {
-    "start": "14:35",
-    "stop": "16:30",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782657300000,
-    "stopTs": 1782664200000,
-    "title": "In The Land Of Saints & Sinners",
-    "desc": "In The Land Of Saints and Sinners"
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782658800000,
-    "stopTs": 1782660600000,
-    "title": "Sculptures Of India",
-    "desc": "The narrator explores Indian architecture, highlighting its history and significance."
-  },
-  {
-    "start": "15:30",
-    "stop": "15:35",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782660600000,
-    "stopTs": 1782660900000,
-    "title": "Express News",
-    "desc": "The anchor covers news updates from around the world on an exhaustive range of topics."
-  },
-  {
-    "start": "15:35",
-    "stop": "16:00",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782660900000,
-    "stopTs": 1782662400000,
-    "title": "Jap Tap Vrat",
-    "desc": "Lord Vishnu bestows special powers on four of his disciples to maintain peace on Earth."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782662400000,
-    "stopTs": 1782664200000,
-    "title": "Mahakavi Bharathi",
-    "desc": "The host explores the life and works of Subramania Bharathi, a Tamil writer and poet."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782664200000,
-    "stopTs": 1782666000000,
-    "title": "Seidhigal",
-    "desc": "The host presents some of the latest news on a range of topics of public interest."
-  },
-  {
-    "start": "17:00",
-    "stop": "20:00",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782666000000,
-    "stopTs": 1782676800000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "17:40",
-    "stop": "19:40",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD TAMIL",
-    "startTs": 1782668400000,
-    "stopTs": 1782675600000,
-    "title": "Bhama Rukmani",
-    "desc": "While Bhama loves Nandagopal and wishes to marry him, his heart belongs to Rukmani. Complications arise when he ends up marrying both women."
-  },
-  {
-    "start": "19:40",
-    "stop": "21:15",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782675600000,
-    "stopTs": 1782681300000,
-    "title": "Golda",
-    "desc": "The powerful biographical drama of Golda Meir, Israel&apos;s first female Prime Minister, depicting her extraordinary leadership during the nation&apos;s most critical military conflict with strength."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:25",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782676800000,
-    "stopTs": 1782678300000,
-    "title": "Nadana Arangam",
-    "desc": "Gifted artists perform enchanting Bharatanatyam and Odissi dance numbers."
-  },
-  {
-    "start": "20:25",
-    "stop": "22:05",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782678300000,
-    "stopTs": 1782684300000,
-    "title": "Bhakthi Maalai",
-    "desc": "Music artists and vocalists perform devotional songs in praise of the Almighty."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:25",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD TAMIL",
-    "startTs": 1782680400000,
-    "stopTs": 1782681900000,
-    "title": "Nadana Arangam",
-    "desc": "Immerse yourself in the grace and beauty of Indian classical dances as gifted artists perform enchanting Bharatanatyam and Odissi numbers."
-  },
-  {
-    "start": "21:15",
-    "stop": "21:35",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782681300000,
-    "stopTs": 1782682500000,
-    "title": "Nadana Arangam",
-    "desc": "Talented Indian classical dancers and artists perf..."
-  },
-  {
-    "start": "21:25",
-    "stop": "22:35",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD TAMIL",
-    "startTs": 1782681900000,
-    "stopTs": 1782686100000,
-    "title": "Bhakthi Maalai",
-    "desc": "Various talented music artists and vocalists perform some of the most revered devotional songs in praise of the Almighty."
-  },
-  {
-    "start": "21:35",
-    "stop": "22:05",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782682500000,
-    "stopTs": 1782684300000,
-    "title": "Bhakthi Maalai",
-    "desc": "Various talented music artists and vocalists perfo..."
-  },
-  {
-    "start": "22:05",
-    "stop": "23:00",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782684300000,
-    "stopTs": 1782687600000,
-    "title": "Margazhi Isai Maalai",
-    "desc": "Various prominent musicians and singers deliver an enthralling performance."
-  },
-  {
-    "start": "22:35",
-    "stop": "23:00",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD TAMIL",
-    "startTs": 1782686100000,
-    "stopTs": 1782687600000,
-    "title": "Nadha Sangamam",
-    "desc": "Renowned singers and musicians perform a collection of melodious classical songs written by prolific artists and songwriters."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782687600000,
-    "stopTs": 1782689400000,
-    "title": "Nadaswaram",
-    "desc": "Professional musicians play classical compositions on the nadaswaram, a wind instrument."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782689400000,
-    "stopTs": 1782691200000,
-    "title": "Manam Kulir Margazhi",
-    "desc": "Spiritual singers recite various devotional hymns and songs."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782691200000,
-    "stopTs": 1782693000000,
-    "title": "Pon Vilaiyum Bhoomi",
-    "desc": "The host sheds light on success stories from the field of agriculture and fisheries."
-  },
-  {
-    "start": "00:30",
-    "stop": "00:45",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782693000000,
-    "stopTs": 1782693900000,
-    "title": "Aalayadarisanam",
-    "desc": "The host informs about the religious significance of temples to a gathering of devotees."
-  },
-  {
-    "start": "00:45",
-    "stop": "01:00",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782693900000,
-    "stopTs": 1782694800000,
-    "title": "Arulae Aanandhamae",
-    "desc": "Devotees gather to sing a collection of devotional hymns in praise of Lord Shiva."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:15",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782694800000,
-    "stopTs": 1782695700000,
-    "title": "Sanskrit News",
-    "desc": "The host presents the latest updates on various current affairs in Sanskrit."
-  },
-  {
-    "start": "01:15",
-    "stop": "01:30",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782695700000,
-    "stopTs": 1782696600000,
-    "title": "Aran Naamam Aayiram",
-    "desc": "A religious leader delivers a discourse on stories from sacred scriptures."
-  },
-  {
-    "start": "01:30",
-    "stop": "01:31",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782696600000,
-    "stopTs": 1782696660000,
-    "title": "Thirukkural",
-    "desc": "Individuals recite the &apos;Tirukkural&apos;, a collection of couplets authored by Thiruvalluvar."
-  },
-  {
-    "start": "01:31",
-    "stop": "01:45",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782696660000,
-    "stopTs": 1782697500000,
-    "title": "Dhinam Oru Kadhai",
-    "desc": "A spiritual leader narrates stories to highlight the importance of the wisdom of God."
-  },
-  {
-    "start": "01:45",
-    "stop": "01:50",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782697500000,
-    "stopTs": 1782697800000,
-    "title": "Unavae Marundhu",
-    "desc": "The host talks to experts who share insights into the medicinal properties of food items."
-  },
-  {
-    "start": "01:50",
-    "stop": "01:55",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782697800000,
-    "stopTs": 1782698100000,
-    "title": "Vali Theera Vazhi",
-    "desc": "An expert sheds light on various health problems and offers tips to cure them."
-  },
-  {
-    "start": "01:55",
-    "stop": "02:00",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782698100000,
-    "stopTs": 1782698400000,
-    "title": "Valamudan Vaazha Yoga",
-    "desc": "The host demonstrates yoga asanas and breathing exercises for a healthy life."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782698400000,
-    "stopTs": 1782700200000,
-    "title": "Santha Thamizhil Kandha Kadavul",
-    "desc": "Religious leaders and devotees gather to worship Lord Murugan through songs and rituals."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "DDTamil.in",
-    "channelId": "DDTamil.in",
-    "channelName": "DD Tamil",
-    "startTs": 1782700200000,
-    "stopTs": 1782702000000,
-    "title": "Seidhigal",
-    "desc": "The host presents some of the latest news on a range of topics of public interest."
-  },
-  {
     "start": "03:00",
     "stop": "03:30",
     "channel": "DDTamil.in",
@@ -998,18 +382,18 @@
     "startTs": 1782763200000,
     "stopTs": 1782766200000,
     "title": "Nadana Arangam",
-    "desc": "Talented Indian classical dancers and artists perf..."
+    "desc": "Gifted artists perform enchanting Bharatanatyam and Odissi dance numbers."
   },
   {
     "start": "20:50",
-    "stop": "22:00",
+    "stop": "22:35",
     "channel": "DDTamil.in",
     "channelId": "DDTamil.in",
     "channelName": "DD Tamil",
     "startTs": 1782766200000,
-    "stopTs": 1782770400000,
+    "stopTs": 1782772500000,
     "title": "Bhakthi Maalai",
-    "desc": "Various talented music artists and vocalists perfo..."
+    "desc": "Music artists and vocalists perform devotional songs in praise of the Almighty."
   },
   {
     "start": "22:00",
@@ -1023,6 +407,17 @@
     "desc": "Renowned singers and musicians perform a collectio..."
   },
   {
+    "start": "22:35",
+    "stop": "23:00",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782772500000,
+    "stopTs": 1782774000000,
+    "title": "Nadha Sangamam",
+    "desc": "Renowned classical music artists render performances of melodious and beloved songs."
+  },
+  {
     "start": "23:00",
     "stop": "23:30",
     "channel": "DDTamil.in",
@@ -1031,7 +426,7 @@
     "startTs": 1782774000000,
     "stopTs": 1782775800000,
     "title": "Naadhaswaram",
-    "desc": "Prominent musicians and instrumentalists present some of their best musical performances using the Naadhaswaram, a traditional wind instrument."
+    "desc": "Prominent instrumentalists present some of their best performances using the Naadhaswaram."
   },
   {
     "start": "23:30",
@@ -1042,7 +437,7 @@
     "startTs": 1782775800000,
     "stopTs": 1782777600000,
     "title": "Bhakthi Maalai",
-    "desc": "Various talented music artists and vocalists perfo..."
+    "desc": "Music artists and vocalists perform devotional songs in praise of the Almighty."
   },
   {
     "start": "00:00",
@@ -1053,7 +448,7 @@
     "startTs": 1782777600000,
     "stopTs": 1782779400000,
     "title": "Pon Vilaiyum Bhoomi",
-    "desc": "The host interacts with farmers who share their ex..."
+    "desc": "The host sheds light on success stories from the field of agriculture and fisheries."
   },
   {
     "start": "00:30",
@@ -1063,8 +458,8 @@
     "channelName": "DD Tamil",
     "startTs": 1782779400000,
     "stopTs": 1782780300000,
-    "title": "Aalaya Darisanam",
-    "desc": "The host shares information about the history and ..."
+    "title": "Aalayadarisanam",
+    "desc": "The host informs about the religious significance of temples to a gathering of devotees."
   },
   {
     "start": "00:45",
@@ -1075,7 +470,7 @@
     "startTs": 1782780300000,
     "stopTs": 1782781200000,
     "title": "Thirumaal Perumai",
-    "desc": "Thirumaal Perumai highlights devotional stories, spiritual teachings, and cultural practices centered around Lord Thirumaal."
+    "desc": "A spiritual leader delivers a discourse based on the teachings of the Almighty. S01 E266."
   },
   {
     "start": "01:00",
@@ -1086,7 +481,7 @@
     "startTs": 1782781200000,
     "stopTs": 1782782100000,
     "title": "Sanskrit News",
-    "desc": "The host presents updates on the latest news, current affairs, religious and cultural events and happenings presented in Sanskrit."
+    "desc": "The host presents the latest updates on various current affairs in Sanskrit."
   },
   {
     "start": "01:15",
@@ -1097,7 +492,7 @@
     "startTs": 1782782100000,
     "stopTs": 1782783000000,
     "title": "Eththikkum Thithikkum Muruga",
-    "desc": "A cinematic celebration of Muruga, blending traditional storytelling, vibrant visuals, and mythological legends into an unforgettable film experience."
+    "desc": "The host explains the significance of different temples dedicated to Lord Kartikeya. S01 E178."
   },
   {
     "start": "01:30",
@@ -1108,7 +503,7 @@
     "startTs": 1782783000000,
     "stopTs": 1782783060000,
     "title": "Thirukkural",
-    "desc": "This program features recitals and comprehension o..."
+    "desc": "Individuals recite the &apos;Tirukkural&apos;, a collection of couplets authored by Thiruvalluvar."
   },
   {
     "start": "01:31",
@@ -1119,7 +514,7 @@
     "startTs": 1782783060000,
     "stopTs": 1782783900000,
     "title": "Dhinam Oru Kadhai",
-    "desc": "A spiritual leader narrates several stories and highlights the importance of the glory, power, presence and wisdom of God to lead a blissful life."
+    "desc": "A spiritual leader narrates stories to highlight the importance of the wisdom of God. S01 E192."
   },
   {
     "start": "01:45",
@@ -1130,7 +525,7 @@
     "startTs": 1782783900000,
     "stopTs": 1782784200000,
     "title": "Ayurvedha Sigichai Muraigal",
-    "desc": "A health program presenting Ayurvedic treatments, natural remedies, and ancient practices, guiding viewers toward holistic healing and wellness in everyday life."
+    "desc": "A medical professional discusses treatments offered at an Ayurvedic healthcare centre. S01 E458."
   },
   {
     "start": "01:50",
@@ -1141,7 +536,7 @@
     "startTs": 1782784200000,
     "stopTs": 1782784500000,
     "title": "Siddhar Vazhi Maruthuvam",
-    "desc": "Discover the ancient wisdom of Tamil medicine, also known as Siddha or Patti Vaithiyam, for natural healing tips and remedies that promote wellness."
+    "desc": "The host discusses various elements of Siddha medicine while offering expert insights."
   },
   {
     "start": "01:55",
@@ -1152,7 +547,7 @@
     "startTs": 1782784500000,
     "stopTs": 1782784800000,
     "title": "Nalamudan Vaazha Yoga",
-    "desc": "A warm yoga instructor motivates stressed students, guiding them through simple postures, breathing and lifestyle habits to restore balance, health and confidence."
+    "desc": "A yoga expert demonstrates a range of practices designed to enhance wellbeing. S01 E14."
   },
   {
     "start": "02:00",
@@ -1163,7 +558,7 @@
     "startTs": 1782784800000,
     "stopTs": 1782786600000,
     "title": "Villum Sollum",
-    "desc": "Artists and musicians perform a comprehensive compilation of popular and evergreen patriotic songs to celebrate the Indian independence day."
+    "desc": "A captivating show exploring various aspects of art and culture from around the world."
   },
   {
     "start": "02:30",
@@ -1174,7 +569,7 @@
     "startTs": 1782786600000,
     "stopTs": 1782788400000,
     "title": "Seidhigal",
-    "desc": "This is a special news update which covers a whole day&apos;s events, incidents and happenings."
+    "desc": "The host presents some of the latest news on a range of topics of public interest."
   },
   {
     "start": "03:00",
@@ -1185,7 +580,7 @@
     "startTs": 1782788400000,
     "stopTs": 1782790200000,
     "title": "Nalam Tharum Ayurvedham",
-    "desc": "A health expert discusses Ayurveda&apos;s benefits, providing detailed insights for a healthier and balanced life."
+    "desc": "The host invites a health expert to discuss the health benefits of Ayurveda in detail. S01 E671."
   },
   {
     "start": "03:30",
@@ -1196,6 +591,523 @@
     "startTs": 1782790200000,
     "stopTs": 1782790500000,
     "title": "Express News",
+    "desc": "The anchor covers news updates from around the world on an exhaustive range of topics."
+  },
+  {
+    "start": "03:35",
+    "stop": "03:50",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782790500000,
+    "stopTs": 1782791400000,
+    "title": "Naveena Maruthuvam",
+    "desc": ". S01 E02."
+  },
+  {
+    "start": "03:50",
+    "stop": "04:00",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782791400000,
+    "stopTs": 1782792000000,
+    "title": "Arubathu Moovar Isaiyum Iraiyarulum",
+    "desc": "The host sheds light on the celebration and sixty-three rituals of the Panguni festival. S01 E02."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782792000000,
+    "stopTs": 1782793800000,
+    "title": "Kanaga Sabhai",
+    "desc": "Gifted singers and musicians deliver mesmerising performances of harmonious songs."
+  },
+  {
+    "start": "04:30",
+    "stop": "04:35",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782793800000,
+    "stopTs": 1782794100000,
+    "title": "Express News",
+    "desc": "The anchor covers news updates from around the world on an exhaustive range of topics."
+  },
+  {
+    "start": "04:35",
+    "stop": "05:30",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782794100000,
+    "stopTs": 1782797400000,
+    "title": "Naadaga Medai",
+    "desc": "Traditional folk artists deliver a series of enthralling performances."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782797400000,
+    "stopTs": 1782799200000,
+    "title": "Seidhigal",
+    "desc": "The host presents some of the latest news on a range of topics of public interest."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782799200000,
+    "stopTs": 1782801000000,
+    "title": "Thaayammaa Kudumbathar",
+    "desc": "A woman conspires against Thayamma and her family, blaming them for her husband&apos;s death. S01 E337."
+  },
+  {
+    "start": "06:30",
+    "stop": "06:35",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782801000000,
+    "stopTs": 1782801300000,
+    "title": "Express News",
+    "desc": "The anchor covers news updates from around the world on an exhaustive range of topics."
+  },
+  {
+    "start": "06:35",
+    "stop": "07:30",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782801300000,
+    "stopTs": 1782804600000,
+    "title": "Hello Ungaludan",
+    "desc": "Specialists from different fields help callers clear their doubts about various topics."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782802800000,
+    "stopTs": 1782804600000,
+    "title": "Paarunga Samaithu Paarunga",
+    "desc": "A culinary expert shares recipes for some delicious and healthy foods that are simple to prepare and are enjoyed by both children and adults."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782804600000,
+    "stopTs": 1782806400000,
+    "title": "Seidhigal",
+    "desc": "The host presents some of the latest news on a range of topics of public interest."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782806400000,
+    "stopTs": 1782808200000,
+    "title": "Graamiya Manam",
+    "desc": "Talented folk artists come together to exhibit the rich culture of their regions."
+  },
+  {
+    "start": "08:30",
+    "stop": "08:35",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782808200000,
+    "stopTs": 1782808500000,
+    "title": "Express News",
+    "desc": "The anchor covers news updates from around the world on an exhaustive range of topics."
+  },
+  {
+    "start": "08:35",
+    "stop": "11:30",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782808500000,
+    "stopTs": 1782819000000,
+    "title": "Nesam",
+    "desc": "Nathan, who needs a business loan, romances a bank manager&apos;s daughter, but gets betrayed."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782819000000,
+    "stopTs": 1782820800000,
+    "title": "Seidhigal",
+    "desc": "The host presents some of the latest news on a range of topics of public interest."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782820800000,
+    "stopTs": 1782822600000,
+    "title": "Pon Vilaiyum Bhoomi",
+    "desc": "The host sheds light on success stories from the field of agriculture and fisheries."
+  },
+  {
+    "start": "12:30",
+    "stop": "12:35",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782822600000,
+    "stopTs": 1782822900000,
+    "title": "Express News",
+    "desc": "The anchor covers news updates from around the world on an exhaustive range of topics."
+  },
+  {
+    "start": "12:35",
+    "stop": "13:00",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782822900000,
+    "stopTs": 1782824400000,
+    "title": "Kutties Galatta",
+    "desc": "Young participants showcase their talents in singing, dancing and poetry. S01 E131."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782824400000,
+    "stopTs": 1782826200000,
+    "title": "Bhakthi Maalai",
+    "desc": "Music artists and vocalists perform devotional songs in praise of the Almighty."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782826200000,
+    "stopTs": 1782828000000,
+    "title": "Seidhigal",
+    "desc": "The host presents some of the latest news on a range of topics of public interest."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782828000000,
+    "stopTs": 1782829800000,
+    "title": "Pesum Neram",
+    "desc": "The host discusses current affairs and social issues with guests on this talk show."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782829800000,
+    "stopTs": 1782831600000,
+    "title": "India IT Revolution",
+    "desc": ". S01 E05."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782831600000,
+    "stopTs": 1782833400000,
+    "title": "Thaayammaa Kudumbathar",
+    "desc": "A woman conspires against Thayamma and her family, blaming them for her husband&apos;s death. S01 E338."
+  },
+  {
+    "start": "15:30",
+    "stop": "15:35",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782833400000,
+    "stopTs": 1782833700000,
+    "title": "Express News",
+    "desc": "The anchor covers news updates from around the world on an exhaustive range of topics."
+  },
+  {
+    "start": "15:35",
+    "stop": "16:00",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782833700000,
+    "stopTs": 1782835200000,
+    "title": "Indian Imprints",
+    "desc": ". S01 E02."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782835200000,
+    "stopTs": 1782837000000,
+    "title": "Ramanujar",
+    "desc": "Ramanuja, a learned philosopher, spreads his teachings regarding the light of Hinduism. S01 E02."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782837000000,
+    "stopTs": 1782838800000,
+    "title": "Seidhigal",
+    "desc": "The host presents some of the latest news on a range of topics of public interest."
+  },
+  {
+    "start": "17:00",
+    "stop": "20:00",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782838800000,
+    "stopTs": 1782849600000,
+    "title": "Nesam",
+    "desc": "Nathan, who needs a business loan, romances a bank manager&apos;s daughter, but gets betrayed."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:50",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782849600000,
+    "stopTs": 1782852600000,
+    "title": "Nadana Arangam",
+    "desc": "Talented Indian classical dancers and artists perf..."
+  },
+  {
+    "start": "20:50",
+    "stop": "22:35",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782852600000,
+    "stopTs": 1782858900000,
+    "title": "Bhakthi Maalai",
+    "desc": "Various talented music artists and vocalists perfo..."
+  },
+  {
+    "start": "22:35",
+    "stop": "23:00",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782858900000,
+    "stopTs": 1782860400000,
+    "title": "Nadha Sangamam",
+    "desc": "Renowned singers and musicians perform a collectio..."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782860400000,
+    "stopTs": 1782862200000,
+    "title": "Naadhaswaram",
+    "desc": "Prominent musicians and instrumentalists present some of their best musical performances using the Naadhaswaram, a traditional wind instrument."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782862200000,
+    "stopTs": 1782864000000,
+    "title": "Bhakthi Maalai",
+    "desc": "Various talented music artists and vocalists perfo..."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782864000000,
+    "stopTs": 1782865800000,
+    "title": "Pon Vilaiyum Bhoomi",
+    "desc": "The host interacts with farmers who share their ex..."
+  },
+  {
+    "start": "00:30",
+    "stop": "00:45",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782865800000,
+    "stopTs": 1782866700000,
+    "title": "Aalaya Darisanam",
+    "desc": "The host shares information about the history and ..."
+  },
+  {
+    "start": "00:45",
+    "stop": "01:00",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782866700000,
+    "stopTs": 1782867600000,
+    "title": "Thirumaal Perumai",
+    "desc": "Thirumaal Perumai highlights devotional stories, spiritual teachings, and cultural practices centered around Lord Thirumaal."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:15",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782867600000,
+    "stopTs": 1782868500000,
+    "title": "Sanskrit News",
+    "desc": "The host presents updates on the latest news, current affairs, religious and cultural events and happenings presented in Sanskrit."
+  },
+  {
+    "start": "01:15",
+    "stop": "01:30",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782868500000,
+    "stopTs": 1782869400000,
+    "title": "Eththikkum Thithikkum Muruga",
+    "desc": "A cinematic celebration of Muruga, blending traditional storytelling, vibrant visuals, and mythological legends into an unforgettable film experience."
+  },
+  {
+    "start": "01:30",
+    "stop": "01:31",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782869400000,
+    "stopTs": 1782869460000,
+    "title": "Thirukkural",
+    "desc": "This program features recitals and comprehension o..."
+  },
+  {
+    "start": "01:31",
+    "stop": "01:45",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782869460000,
+    "stopTs": 1782870300000,
+    "title": "Dhinam Oru Kadhai",
+    "desc": "A spiritual leader narrates several stories and highlights the importance of the glory, power, presence and wisdom of God to lead a blissful life."
+  },
+  {
+    "start": "01:45",
+    "stop": "01:50",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782870300000,
+    "stopTs": 1782870600000,
+    "title": "Ayurvedha Sigichai Muraigal",
+    "desc": "A health program presenting Ayurvedic treatments, natural remedies, and ancient practices, guiding viewers toward holistic healing and wellness in everyday life."
+  },
+  {
+    "start": "01:50",
+    "stop": "01:55",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782870600000,
+    "stopTs": 1782870900000,
+    "title": "Siddhar Vazhi Maruthuvam",
+    "desc": "Discover the ancient wisdom of Tamil medicine, also known as Siddha or Patti Vaithiyam, for natural healing tips and remedies that promote wellness."
+  },
+  {
+    "start": "01:55",
+    "stop": "02:00",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782870900000,
+    "stopTs": 1782871200000,
+    "title": "Nalamudan Vaazha Yoga",
+    "desc": "A warm yoga instructor motivates stressed students, guiding them through simple postures, breathing and lifestyle habits to restore balance, health and confidence."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782871200000,
+    "stopTs": 1782873000000,
+    "title": "Villum Sollum",
+    "desc": "Artists and musicians perform a comprehensive compilation of popular and evergreen patriotic songs to celebrate the Indian independence day."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782873000000,
+    "stopTs": 1782874800000,
+    "title": "Seidhigal",
+    "desc": "This is a special news update which covers a whole day&apos;s events, incidents and happenings."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782874800000,
+    "stopTs": 1782876600000,
+    "title": "Nalam Tharum Ayurvedham",
+    "desc": "A health expert discusses Ayurveda&apos;s benefits, providing detailed insights for a healthier and balanced life."
+  },
+  {
+    "start": "03:30",
+    "stop": "03:35",
+    "channel": "DDTamil.in",
+    "channelId": "DDTamil.in",
+    "channelName": "DD Tamil",
+    "startTs": 1782876600000,
+    "stopTs": 1782876900000,
+    "title": "Express News",
     "desc": "Host delivers top 100 news headlines, keeping viewers updated on the latest happenings around the world."
   },
   {
@@ -1204,8 +1116,8 @@
     "channel": "DDTamil.in",
     "channelId": "DDTamil.in",
     "channelName": "DD Tamil",
-    "startTs": 1782790500000,
-    "stopTs": 1782792000000,
+    "startTs": 1782876900000,
+    "stopTs": 1782878400000,
     "title": "179th Aradhanai Vizha - Thiruvaiyaru",
     "desc": "The 179th Thyagaraja Aradhana in Thiruvaiyaru is a five-day music festival honoring saint-composer Tyagaraja, marking his 179th Samadhi anniversary with grand musical tributes."
   }

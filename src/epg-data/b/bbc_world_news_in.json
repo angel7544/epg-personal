@@ -1,36 +1,36 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "BBCWorldNews.in",
-    "channelId": "BBCWorldNews.in",
-    "channelName": "BBC World News",
-    "startTs": 1782613800000,
-    "stopTs": 1782615600000,
-    "title": "AI Decoded",
-    "desc": "Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence."
-  },
-  {
     "start": "03:00",
     "stop": "03:30",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782615600000,
-    "stopTs": 1782617400000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1782702000000,
+    "stopTs": 1782703800000,
+    "title": "Newsday",
+    "desc": "The latest international news from London and Singapore."
   },
   {
     "start": "03:30",
+    "stop": "03:45",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1782703800000,
+    "stopTs": 1782704700000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "03:45",
     "stop": "04:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782617400000,
-    "stopTs": 1782619200000,
-    "title": "The Big Cases",
-    "desc": "Peter Murrell, the husband of former Scottish First Minister Nicola Sturgeon, embezzles £400,000 from the party he runs as SNP CEO, using a trail of lies to cover up a spending spree on luxury goods."
+    "startTs": 1782704700000,
+    "stopTs": 1782705600000,
+    "title": "Newsday",
+    "desc": "The latest international news from London and Singapore."
   },
   {
     "start": "04:00",
@@ -38,8 +38,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782619200000,
-    "stopTs": 1782621000000,
+    "startTs": 1782705600000,
+    "stopTs": 1782707400000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -49,10 +49,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782621000000,
-    "stopTs": 1782622800000,
-    "title": "China&apos;s Greatest Treasures",
-    "desc": "Historian Alastair Sooke discovers how tea in China has been transformed over centuries into an important social institution, and how it continues to be an essential part of Chinese culture today."
+    "startTs": 1782707400000,
+    "stopTs": 1782709200000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
   },
   {
     "start": "05:00",
@@ -60,21 +60,32 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782622800000,
-    "stopTs": 1782624600000,
+    "startTs": 1782709200000,
+    "stopTs": 1782711000000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "05:30",
+    "stop": "05:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1782711000000,
+    "stopTs": 1782712500000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "05:55",
     "stop": "06:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782624600000,
-    "stopTs": 1782626400000,
-    "title": "Talking Business",
-    "desc": "Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology."
+    "startTs": 1782712500000,
+    "stopTs": 1782712800000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "06:00",
@@ -82,21 +93,32 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782626400000,
-    "stopTs": 1782628200000,
+    "startTs": 1782712800000,
+    "stopTs": 1782714600000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "06:30",
+    "stop": "06:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1782714600000,
+    "stopTs": 1782716100000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "06:55",
     "stop": "07:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782628200000,
-    "stopTs": 1782630000000,
-    "title": "The Travel Show",
-    "desc": "On the 250th anniversary of the Declaration of Independence, Dwayne Fields travels across the USA, exploring how the document&apos;s famous promise, the pursuit of happiness, is being lived today."
+    "startTs": 1782716100000,
+    "stopTs": 1782716400000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "07:00",
@@ -104,8 +126,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782630000000,
-    "stopTs": 1782631800000,
+    "startTs": 1782716400000,
+    "stopTs": 1782718200000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -115,21 +137,43 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782631800000,
-    "stopTs": 1782633600000,
-    "title": "Nicola Benedetti; This Cultural Life",
-    "desc": "Violinist Nicola Benedetti reveals the influences and experiences that have led her to become one of the world&apos;s greatest classical musicians."
+    "startTs": 1782718200000,
+    "stopTs": 1782720000000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "08:00",
+    "stop": "08:30",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1782720000000,
+    "stopTs": 1782721800000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+  },
+  {
+    "start": "08:30",
+    "stop": "08:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1782721800000,
+    "stopTs": 1782723300000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+  },
+  {
+    "start": "08:55",
     "stop": "09:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782633600000,
-    "stopTs": 1782637200000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1782723300000,
+    "stopTs": 1782723600000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "09:00",
@@ -137,8 +181,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782637200000,
-    "stopTs": 1782639000000,
+    "startTs": 1782723600000,
+    "stopTs": 1782725400000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -148,10 +192,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782639000000,
-    "stopTs": 1782640800000,
-    "title": "AI Decoded",
-    "desc": "Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence."
+    "startTs": 1782725400000,
+    "stopTs": 1782727200000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "10:00",
@@ -159,21 +203,43 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782640800000,
-    "stopTs": 1782642600000,
+    "startTs": 1782727200000,
+    "stopTs": 1782729000000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "10:30",
+    "stop": "10:45",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1782729000000,
+    "stopTs": 1782729900000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "10:45",
+    "stop": "10:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1782729900000,
+    "stopTs": 1782730500000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+  },
+  {
+    "start": "10:55",
     "stop": "11:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782642600000,
-    "stopTs": 1782644400000,
-    "title": "The President&apos;s Path",
-    "desc": "Caitríona, Courtney and Bernd talk about Donald Trump&apos;s response to the Washington DC plane crash. They also chat tariffs, diversity schemes and Trump&apos;s US immigration crackdown."
+    "startTs": 1782730500000,
+    "stopTs": 1782730800000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "11:00",
@@ -181,10 +247,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782644400000,
-    "stopTs": 1782646200000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1782730800000,
+    "stopTs": 1782732600000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "11:30",
@@ -192,10 +258,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782646200000,
-    "stopTs": 1782648000000,
-    "title": "The Media Show",
-    "desc": "Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world."
+    "startTs": 1782732600000,
+    "stopTs": 1782734400000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "12:00",
@@ -203,21 +269,32 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782648000000,
-    "stopTs": 1782649800000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1782734400000,
+    "stopTs": 1782736200000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "12:30",
+    "stop": "12:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1782736200000,
+    "stopTs": 1782737700000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
+  },
+  {
+    "start": "12:55",
     "stop": "13:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782649800000,
-    "stopTs": 1782651600000,
-    "title": "The Travel Show",
-    "desc": "On the 250th anniversary of the Declaration of Independence, Dwayne Fields travels across the USA, exploring how the document&apos;s famous promise, the pursuit of happiness, is being lived today."
+    "startTs": 1782737700000,
+    "stopTs": 1782738000000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "13:00",
@@ -225,21 +302,32 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782651600000,
-    "stopTs": 1782653400000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1782738000000,
+    "stopTs": 1782739800000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "13:30",
+    "stop": "13:45",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1782739800000,
+    "stopTs": 1782740700000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "13:45",
     "stop": "14:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782653400000,
-    "stopTs": 1782655200000,
-    "title": "Tech Now",
-    "desc": "Andrew Rogers explores the latest tech being trialled to help people stay underwater for longer and Paul Carter hits the racetrack to see if AI technology can make journeys safer."
+    "startTs": 1782740700000,
+    "stopTs": 1782741600000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "14:00",
@@ -247,10 +335,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782655200000,
-    "stopTs": 1782657000000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1782741600000,
+    "stopTs": 1782743400000,
+    "title": "Verified Live",
+    "desc": "Matthew Amroliwala presents all the latest global and UK news, live from London."
   },
   {
     "start": "14:30",
@@ -258,10 +346,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782657000000,
-    "stopTs": 1782658800000,
-    "title": "China&apos;s Greatest Treasures",
-    "desc": "Historian Alastair Sooke discovers how tea in China has been transformed over centuries into an important social institution, and how it continues to be an essential part of Chinese culture today."
+    "startTs": 1782743400000,
+    "stopTs": 1782745200000,
+    "title": "Verified Live",
+    "desc": "Matthew Amroliwala presents all the latest global and UK news, live from London."
   },
   {
     "start": "15:00",
@@ -269,20 +357,20 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782658800000,
-    "stopTs": 1782660600000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1782745200000,
+    "stopTs": 1782747000000,
+    "title": "Verified Live",
+    "desc": "Matthew Amroliwala presents all the latest global and UK news, live from London."
   },
   {
     "start": "15:30",
-    "stop": "16:00",
+    "stop": "15:45",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1782660600000,
-    "stopTs": 1782662400000,
-    "title": "The Big Cases",
-    "desc": "Peter Murrell, the husband of former Scottish First Minister Nicola Sturgeon, embezzles £400,000 from the party he runs as SNP CEO, using a trail of lies to cover up a spending spree on luxury goods."
+    "startTs": 1782747000000,
+    "stopTs": 1782747900000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
   }
 ]
