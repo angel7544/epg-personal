@@ -1,467 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782702000000,
-    "stopTs": 1782703800000,
-    "title": "Morning Super Prime Time",
-    "desc": "The host presents the latest news stories and major developments in governance, social, economic, sports, and political matters that impact people worldwide."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782703800000,
-    "stopTs": 1782707400000,
-    "title": "Morning Super Prime Time",
-    "desc": "The anchor presents the latest news and developments across various topics and fields, covering important updates from both state and national levels to keep viewers informed."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782707400000,
-    "stopTs": 1782709200000,
-    "title": "Damdar Dosh",
-    "desc": "A news bulletin highlighting the most important political, social, and regional events. Stay updated with top stories and breaking news from across Bengal and beyond."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782709200000,
-    "stopTs": 1782711000000,
-    "title": "Morning Super Prime Time",
-    "desc": "The anchor presents the latest news and developments across various topics and fields, covering important updates from both state and national levels to keep viewers informed."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782711000000,
-    "stopTs": 1782712800000,
-    "title": "Morning Super Prime Time",
-    "desc": "The anchor presents the latest news and developments across various topics and fields, covering important updates from both state and national levels to keep viewers informed."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782712800000,
-    "stopTs": 1782714600000,
-    "title": "Morning Super Prime Time",
-    "desc": "The anchor presents the latest news and developments across various topics and fields, covering important updates from both state and national levels to keep viewers informed."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782714600000,
-    "stopTs": 1782718200000,
-    "title": "Press Corner",
-    "desc": "The host presents a detailed report on the top nine latest and important news stories and updates from around the world."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782718200000,
-    "stopTs": 1782720000000,
-    "title": "TV9 News",
-    "desc": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782720000000,
-    "stopTs": 1782721800000,
-    "title": "Dupurer Super Prime Time",
-    "desc": "A special news program."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782721800000,
-    "stopTs": 1782723600000,
-    "title": "FULL & FINAL",
-    "desc": "A talk show host convenes diverse individuals to discuss and debate pertinent issues affecting the well-being and future of the nation."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782723600000,
-    "stopTs": 1782725400000,
-    "title": "FULL & FINAL",
-    "desc": "A talk show host convenes diverse individuals to discuss and debate pertinent issues affecting the well-being and future of the nation."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782725400000,
-    "stopTs": 1782727200000,
-    "title": "Dupurer Super Prime Time",
-    "desc": "A special news program."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782727200000,
-    "stopTs": 1782729000000,
-    "title": "Dupurer Super Prime Time",
-    "desc": "A special news program."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782729000000,
-    "stopTs": 1782730800000,
-    "title": "Charte Challish",
-    "desc": "The Anchor Presents Top 40 News Of The Hour/day."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782730800000,
-    "stopTs": 1782732600000,
-    "title": "Bachai Noy",
-    "desc": "A children&apos;s program focusing on teaching important life lessons and entertaining young minds with stories, songs, and fun activities."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782732600000,
-    "stopTs": 1782734400000,
-    "title": "Panch Katha",
-    "desc": "The host presents some of the latest and important social, political and economic news stories from all over the country."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782734400000,
-    "stopTs": 1782736200000,
-    "title": "TV9 News",
-    "desc": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782736200000,
-    "stopTs": 1782738000000,
-    "title": "Sandhyer Super Prime Time",
-    "desc": "Super Exclusive News In Evening Prime Time"
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782738000000,
-    "stopTs": 1782739800000,
-    "title": "Sandhyer Super Prime Time",
-    "desc": "Super Exclusive News In Evening Prime Time"
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782739800000,
-    "stopTs": 1782741600000,
-    "title": "Sandhyer Super Prime Time",
-    "desc": "Super Exclusive News In Evening Prime Time"
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782741600000,
-    "stopTs": 1782743400000,
-    "title": "Bengal Breaking",
-    "desc": "Bengal Breaking brings you the latest news and top stories from across West Bengal, covering politics, events, and local updates as they happen."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782743400000,
-    "stopTs": 1782747000000,
-    "title": "Thontkata",
-    "desc": "The host presents analyses and reviews the latest updates on politics, business, entertainment, science, sports and current events in India."
-  },
-  {
-    "start": "15:15",
-    "stop": "15:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782746100000,
-    "stopTs": 1782747000000,
-    "title": "Naa Bollei Noy",
-    "desc": "The host highlights political issues in West Bengal and discusses engages in a detailed discussion about them with the related experts."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782747000000,
-    "stopTs": 1782750600000,
-    "title": "Naa Bollei Noy",
-    "desc": "An entertainment based program."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782750600000,
-    "stopTs": 1782752400000,
-    "title": "Straight Cut",
-    "desc": "A straight-talking program that offers no-nonsense commentary on current events, societal issues, and trending topics, providing clear, direct insights into various matters."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782752400000,
-    "stopTs": 1782754200000,
-    "title": "News Top 9",
-    "desc": "The host presents a detailed report on the top nine latest and important news stories and updates from around the world."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782754200000,
-    "stopTs": 1782757800000,
-    "title": "Naa Bollei Noy",
-    "desc": "An entertainment based program."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782757800000,
-    "stopTs": 1782759600000,
-    "title": "Thontkata",
-    "desc": "The host presents the latest news updates on various issues happening in the country."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782759600000,
-    "stopTs": 1782761400000,
-    "title": "Thontkata",
-    "desc": "The host presents the latest news updates on various issues happening in the country."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782761400000,
-    "stopTs": 1782763200000,
-    "title": "Bengal Breaking",
-    "desc": "The host presents the latest news updates and developments from the state of West Bengal."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782763200000,
-    "stopTs": 1782765000000,
-    "title": "Bengal Breaking",
-    "desc": "The host presents the latest news updates and developments from the state of West Bengal."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782765000000,
-    "stopTs": 1782766800000,
-    "title": "Naa Bollei Noy",
-    "desc": "The host highlights political issues in West Bengal and discusses them with experts."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782766800000,
-    "stopTs": 1782768600000,
-    "title": "Naa Bollei Noy",
-    "desc": "The host highlights political issues in West Bengal and discusses them with experts."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782768600000,
-    "stopTs": 1782770400000,
-    "title": "Straight Cut",
-    "desc": "The host presents news stories pertaining to the current affairs of the nation."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782770400000,
-    "stopTs": 1782772200000,
-    "title": "Thontkata",
-    "desc": "The host presents the latest news updates on various issues happening in the country."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782772200000,
-    "stopTs": 1782774000000,
-    "title": "Thontkata",
-    "desc": "The host presents the latest news updates on various issues happening in the country."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782774000000,
-    "stopTs": 1782775800000,
-    "title": "Naa Bollei Noy",
-    "desc": "The host highlights political issues in West Bengal and discusses them with experts."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782775800000,
-    "stopTs": 1782777600000,
-    "title": "Naa Bollei Noy",
-    "desc": "The host highlights political issues in West Bengal and discusses them with experts."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782777600000,
-    "stopTs": 1782779400000,
-    "title": "Straight Cut",
-    "desc": "The host presents news stories pertaining to the current affairs of the nation."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782779400000,
-    "stopTs": 1782783000000,
-    "title": "Sakal Sakal News Live",
-    "desc": "The host presents the latest news updates on various issues across the world, live."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782783000000,
-    "stopTs": 1782784800000,
-    "title": "Morning Super Prime Time",
-    "desc": "The host presents the latest news stories from various fields all around the world."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1782784800000,
-    "stopTs": 1782786600000,
-    "title": "Morning Super Prime Time",
-    "desc": "The host presents the latest news stories from various fields all around the world."
-  },
-  {
     "start": "02:30",
     "stop": "03:00",
     "channel": "TV9Bangla.in",
@@ -778,7 +316,7 @@
     "startTs": 1782844200000,
     "stopTs": 1782846000000,
     "title": "Thontkata",
-    "desc": "The host presents analyses and reviews the latest updates on politics, business, entertainment, science, sports and current events in India."
+    "desc": "The host presents the latest news updates on various issues happening in the country."
   },
   {
     "start": "19:00",
@@ -789,7 +327,7 @@
     "startTs": 1782846000000,
     "stopTs": 1782847800000,
     "title": "Thontkata",
-    "desc": "The host presents analyses and reviews the latest updates on politics, business, entertainment, science, sports and current events in India."
+    "desc": "The host presents the latest news updates on various issues happening in the country."
   },
   {
     "start": "19:30",
@@ -800,7 +338,7 @@
     "startTs": 1782847800000,
     "stopTs": 1782849600000,
     "title": "Bengal Breaking",
-    "desc": "Bengal Breaking brings you the latest news and top stories from across West Bengal, covering politics, events, and local updates as they happen."
+    "desc": "The host presents the latest news updates and developments from the state of West Bengal."
   },
   {
     "start": "20:00",
@@ -811,7 +349,7 @@
     "startTs": 1782849600000,
     "stopTs": 1782851400000,
     "title": "Bengal Breaking",
-    "desc": "Bengal Breaking brings you the latest news and top stories from across West Bengal, covering politics, events, and local updates as they happen."
+    "desc": "The host presents the latest news updates and developments from the state of West Bengal."
   },
   {
     "start": "20:30",
@@ -822,7 +360,7 @@
     "startTs": 1782851400000,
     "stopTs": 1782853200000,
     "title": "Naa Bollei Noy",
-    "desc": "An entertainment based program."
+    "desc": "The host highlights political issues in West Bengal and discusses them with experts."
   },
   {
     "start": "21:00",
@@ -833,7 +371,7 @@
     "startTs": 1782853200000,
     "stopTs": 1782855000000,
     "title": "Naa Bollei Noy",
-    "desc": "An entertainment based program."
+    "desc": "The host highlights political issues in West Bengal and discusses them with experts."
   },
   {
     "start": "21:30",
@@ -844,7 +382,7 @@
     "startTs": 1782855000000,
     "stopTs": 1782856800000,
     "title": "Straight Cut",
-    "desc": "A straight-talking program that offers no-nonsense commentary on current events, societal issues, and trending topics, providing clear, direct insights into various matters."
+    "desc": "The host presents news stories pertaining to the current affairs of the nation."
   },
   {
     "start": "22:00",
@@ -855,7 +393,7 @@
     "startTs": 1782856800000,
     "stopTs": 1782858600000,
     "title": "Thontkata",
-    "desc": "The host presents analyses and reviews the latest updates on politics, business, entertainment, science, sports and current events in India."
+    "desc": "The host presents the latest news updates on various issues happening in the country."
   },
   {
     "start": "22:30",
@@ -866,7 +404,7 @@
     "startTs": 1782858600000,
     "stopTs": 1782860400000,
     "title": "Thontkata",
-    "desc": "The host presents analyses and reviews the latest updates on politics, business, entertainment, science, sports and current events in India."
+    "desc": "The host presents the latest news updates on various issues happening in the country."
   },
   {
     "start": "23:00",
@@ -877,7 +415,7 @@
     "startTs": 1782860400000,
     "stopTs": 1782862200000,
     "title": "Naa Bollei Noy",
-    "desc": "An entertainment based program."
+    "desc": "The host highlights political issues in West Bengal and discusses them with experts."
   },
   {
     "start": "23:30",
@@ -888,7 +426,7 @@
     "startTs": 1782862200000,
     "stopTs": 1782864000000,
     "title": "Naa Bollei Noy",
-    "desc": "An entertainment based program."
+    "desc": "The host highlights political issues in West Bengal and discusses them with experts."
   },
   {
     "start": "00:00",
@@ -899,7 +437,7 @@
     "startTs": 1782864000000,
     "stopTs": 1782865800000,
     "title": "Straight Cut",
-    "desc": "A straight-talking program that offers no-nonsense commentary on current events, societal issues, and trending topics, providing clear, direct insights into various matters."
+    "desc": "The host presents news stories pertaining to the current affairs of the nation."
   },
   {
     "start": "00:30",
@@ -909,8 +447,8 @@
     "channelName": "TV9 Bangla",
     "startTs": 1782865800000,
     "stopTs": 1782869400000,
-    "title": "Sakal Sakal Live News",
-    "desc": "A Bengali news show airing in the morning, delivering breaking stories, headlines, and updates from politics, society, and world events to keep viewers informed."
+    "title": "Sakal Sakal News Live",
+    "desc": "The host presents the latest news updates on various issues across the world, live."
   },
   {
     "start": "01:30",
@@ -921,7 +459,7 @@
     "startTs": 1782869400000,
     "stopTs": 1782871200000,
     "title": "Morning Super Prime Time",
-    "desc": "The anchor presents the latest news and developments across various topics and fields, covering important updates from both state and national levels to keep viewers informed."
+    "desc": "The host presents the latest news stories from various fields all around the world."
   },
   {
     "start": "02:00",
@@ -932,7 +470,7 @@
     "startTs": 1782871200000,
     "stopTs": 1782873000000,
     "title": "Morning Super Prime Time",
-    "desc": "The anchor presents the latest news and developments across various topics and fields, covering important updates from both state and national levels to keep viewers informed."
+    "desc": "The host presents the latest news stories from various fields all around the world."
   },
   {
     "start": "02:30",
@@ -943,7 +481,7 @@
     "startTs": 1782873000000,
     "stopTs": 1782874800000,
     "title": "Morning Super Prime Time",
-    "desc": "The anchor presents the latest news and developments across various topics and fields, covering important updates from both state and national levels to keep viewers informed."
+    "desc": "The host presents the latest news stories from various fields all around the world."
   },
   {
     "start": "03:00",
@@ -953,18 +491,502 @@
     "channelName": "TV9 Bangla",
     "startTs": 1782874800000,
     "stopTs": 1782876600000,
-    "title": "News Series",
-    "desc": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
+    "title": "Morning Super Prime Time",
+    "desc": "The host presents the latest news stories from various fields all around the world."
   },
   {
     "start": "03:30",
-    "stop": "04:00",
+    "stop": "04:30",
     "channel": "TV9Bangla.in",
     "channelId": "TV9Bangla.in",
     "channelName": "TV9 Bangla",
     "startTs": 1782876600000,
-    "stopTs": 1782878400000,
-    "title": "News Series",
-    "desc": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
+    "stopTs": 1782880200000,
+    "title": "Morning Super Prime Time",
+    "desc": "The host presents the latest news stories from various fields all around the world."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782878400000,
+    "stopTs": 1782880200000,
+    "title": "Morning Super Prime Time",
+    "desc": "The anchor presents the latest news and developments across various topics and fields, covering important updates from both state and national levels to keep viewers informed."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782880200000,
+    "stopTs": 1782882000000,
+    "title": "Damdar Dosh",
+    "desc": "The host presents updates on major news stories and developments throughout the region."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782882000000,
+    "stopTs": 1782883800000,
+    "title": "Morning Super Prime Time",
+    "desc": "The host presents the latest news stories from various fields all around the world."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782883800000,
+    "stopTs": 1782885600000,
+    "title": "Morning Super Prime Time",
+    "desc": "The host presents the latest news stories from various fields all around the world."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782885600000,
+    "stopTs": 1782887400000,
+    "title": "Morning Super Prime Time",
+    "desc": "The host presents the latest news stories from various fields all around the world."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782887400000,
+    "stopTs": 1782891000000,
+    "title": "Press Corner",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782891000000,
+    "stopTs": 1782892800000,
+    "title": "tv9 News",
+    "desc": "The host presents the latest news stories and developments on various issues from the nation."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782892800000,
+    "stopTs": 1782894600000,
+    "title": "Dupurer Super Prime Time",
+    "desc": "The host covers social, economic, political issues and current events with updates."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782894600000,
+    "stopTs": 1782896400000,
+    "title": "Full & Final",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782896400000,
+    "stopTs": 1782898200000,
+    "title": "Full & Final",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782898200000,
+    "stopTs": 1782900000000,
+    "title": "Dupurer Super Prime Time",
+    "desc": "The host covers social, economic, political issues and current events with updates."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782900000000,
+    "stopTs": 1782901800000,
+    "title": "Dupurer Super Prime Time",
+    "desc": "The host covers social, economic, political issues and current events with updates."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782901800000,
+    "stopTs": 1782903600000,
+    "title": "Charte Challish",
+    "desc": "The host presents the latest news and provides updates on current events."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782903600000,
+    "stopTs": 1782905400000,
+    "title": "tv9 News",
+    "desc": "The host presents the latest news stories and developments on various issues from the nation."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782905400000,
+    "stopTs": 1782907200000,
+    "title": "Panch Katha News Live",
+    "desc": "The host presents five key news updates and matters of public interest that need attention, live."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782907200000,
+    "stopTs": 1782909000000,
+    "title": "Juktijuddho",
+    "desc": "A panel of renowned personalities discuss various current affair related issue."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782909000000,
+    "stopTs": 1782910800000,
+    "title": "Sandhyer Super Prime Time",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782910800000,
+    "stopTs": 1782912600000,
+    "title": "Sandhyer Super Prime Time",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782912600000,
+    "stopTs": 1782914400000,
+    "title": "Sandhyer Super Prime Time",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782914400000,
+    "stopTs": 1782916200000,
+    "title": "Bengal Breaking",
+    "desc": "The host presents the latest news updates and developments from the state of West Bengal."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:15",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782916200000,
+    "stopTs": 1782918900000,
+    "title": "Thontkata",
+    "desc": "The host presents the latest news updates on various issues happening in the country."
+  },
+  {
+    "start": "15:15",
+    "stop": "15:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782918900000,
+    "stopTs": 1782919800000,
+    "title": "Naa Bollei Noy",
+    "desc": "The host highlights political issues in West Bengal and discusses them with experts."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782919800000,
+    "stopTs": 1782923400000,
+    "title": "Naa Bollei Noy",
+    "desc": "The host highlights political issues in West Bengal and discusses them with experts."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782923400000,
+    "stopTs": 1782925200000,
+    "title": "Straight Cut",
+    "desc": "The host presents news stories pertaining to the current affairs of the nation."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782925200000,
+    "stopTs": 1782927000000,
+    "title": "News Top 9",
+    "desc": "The host highlights the nine most significant news stories of the day."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782927000000,
+    "stopTs": 1782930600000,
+    "title": "Naa Bollei Noy",
+    "desc": "The host highlights political issues in West Bengal and discusses them with experts."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782930600000,
+    "stopTs": 1782932400000,
+    "title": "Thontkata",
+    "desc": "The host presents analyses and reviews the latest updates on politics, business, entertainment, science, sports and current events in India."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782932400000,
+    "stopTs": 1782934200000,
+    "title": "Thontkata",
+    "desc": "The host presents analyses and reviews the latest updates on politics, business, entertainment, science, sports and current events in India."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782934200000,
+    "stopTs": 1782936000000,
+    "title": "Bengal Breaking",
+    "desc": "Bengal Breaking brings you the latest news and top stories from across West Bengal, covering politics, events, and local updates as they happen."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782936000000,
+    "stopTs": 1782937800000,
+    "title": "Bengal Breaking",
+    "desc": "Bengal Breaking brings you the latest news and top stories from across West Bengal, covering politics, events, and local updates as they happen."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782937800000,
+    "stopTs": 1782939600000,
+    "title": "Naa Bollei Noy",
+    "desc": "An entertainment based program."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782939600000,
+    "stopTs": 1782941400000,
+    "title": "Naa Bollei Noy",
+    "desc": "An entertainment based program."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782941400000,
+    "stopTs": 1782943200000,
+    "title": "Straight Cut",
+    "desc": "A straight-talking program that offers no-nonsense commentary on current events, societal issues, and trending topics, providing clear, direct insights into various matters."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782943200000,
+    "stopTs": 1782945000000,
+    "title": "Thontkata",
+    "desc": "The host presents analyses and reviews the latest updates on politics, business, entertainment, science, sports and current events in India."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782945000000,
+    "stopTs": 1782946800000,
+    "title": "Thontkata",
+    "desc": "The host presents analyses and reviews the latest updates on politics, business, entertainment, science, sports and current events in India."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782946800000,
+    "stopTs": 1782948600000,
+    "title": "Naa Bollei Noy",
+    "desc": "An entertainment based program."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782948600000,
+    "stopTs": 1782950400000,
+    "title": "Naa Bollei Noy",
+    "desc": "An entertainment based program."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782950400000,
+    "stopTs": 1782952200000,
+    "title": "Straight Cut",
+    "desc": "A straight-talking program that offers no-nonsense commentary on current events, societal issues, and trending topics, providing clear, direct insights into various matters."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782952200000,
+    "stopTs": 1782955800000,
+    "title": "Sakal Sakal Live News",
+    "desc": "A Bengali news show airing in the morning, delivering breaking stories, headlines, and updates from politics, society, and world events to keep viewers informed."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782955800000,
+    "stopTs": 1782957600000,
+    "title": "Morning Super Prime Time",
+    "desc": "The anchor presents the latest news and developments across various topics and fields, covering important updates from both state and national levels to keep viewers informed."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782957600000,
+    "stopTs": 1782959400000,
+    "title": "Morning Super Prime Time",
+    "desc": "The anchor presents the latest news and developments across various topics and fields, covering important updates from both state and national levels to keep viewers informed."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782959400000,
+    "stopTs": 1782961200000,
+    "title": "Morning Super Prime Time",
+    "desc": "The anchor presents the latest news and developments across various topics and fields, covering important updates from both state and national levels to keep viewers informed."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782961200000,
+    "stopTs": 1782963000000,
+    "title": "Morning Super Prime Time",
+    "desc": "The anchor presents the latest news and developments across various topics and fields, covering important updates from both state and national levels to keep viewers informed."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1782963000000,
+    "stopTs": 1782966600000,
+    "title": "Morning Super Prime Time",
+    "desc": "The anchor presents the latest news and developments across various topics and fields, covering important updates from both state and national levels to keep viewers informed."
   }
 ]
