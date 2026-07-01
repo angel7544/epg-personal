@@ -1,27 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "ManoramaNews.in",
-    "channelId": "ManoramaNews.in",
-    "channelName": "Manorama News",
-    "startTs": 1782874800000,
-    "stopTs": 1782876600000,
-    "title": "Nattu Vartha",
-    "desc": "The host highlights pressing local matters with stories from the ground."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "ManoramaNews.in",
-    "channelId": "ManoramaNews.in",
-    "channelName": "Manorama News",
-    "startTs": 1782876600000,
-    "stopTs": 1782880200000,
-    "title": "News Break",
-    "desc": "The host shares the latest news stories, updates and developments from different spheres."
-  },
-  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "ManoramaNews.in",
@@ -900,5 +878,16 @@
     "stopTs": 1783053000000,
     "title": "9:00Am News Break",
     "desc": "The host gives a clear, thorough news update, explaining the latest events and developments from around the region in simple, easy-to-understand language for all viewers worldwide."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "ManoramaNews.in",
+    "channelId": "ManoramaNews.in",
+    "channelName": "Manorama News",
+    "startTs": 1783053000000,
+    "stopTs": 1783056600000,
+    "title": "10.00 AM News Break",
+    "desc": "A fast-paced news update delivering top headlines, breaking stories, and important local and global developments."
   }
 ]

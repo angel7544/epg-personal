@@ -1,38 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "VTVNews.in",
-    "channelId": "VTVNews.in",
-    "channelName": "VTV Gujarati",
-    "startTs": 1782874800000,
-    "stopTs": 1782876600000,
-    "title": "Shakti upasana",
-    "desc": "A learned individual delivers insights on the topic of Shakti Upasana by explaining its regulations, significance and spiritual purpose."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "VTVNews.in",
-    "channelId": "VTVNews.in",
-    "channelName": "VTV Gujarati",
-    "startTs": 1782876600000,
-    "stopTs": 1782878400000,
-    "title": "Bhavishya Darshan",
-    "desc": "An astrologer provides predictions to the viewers based on their birth dates, sun signs and the positions of the planets."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "VTVNews.in",
-    "channelId": "VTVNews.in",
-    "channelName": "VTV Gujarati",
-    "startTs": 1782878400000,
-    "stopTs": 1782880200000,
-    "title": "Bhavishya Darshan",
-    "desc": "An astrologer provides predictions to the viewers based on their birth dates, sun signs and the positions of the planets."
-  },
-  {
     "start": "04:30",
     "stop": "05:00",
     "channel": "VTVNews.in",
@@ -40,8 +7,8 @@
     "channelName": "VTV Gujarati",
     "startTs": 1782880200000,
     "stopTs": 1782882000000,
-    "title": "Dev Darshan News",
-    "desc": "The news program shares updates on politics, society, economics, and sports. It covers important events happening across the country and around the world."
+    "title": "Breaking News",
+    "desc": "The host presents numerous top stories, latest happenings and significant updates from the national and international front."
   },
   {
     "start": "05:00",
@@ -1076,5 +1043,38 @@
     "stopTs": 1783051200000,
     "title": "Bhavishya Darshan",
     "desc": "An astrologer provides predictions to the viewers based on their birth dates, sun signs and the positions of the planets."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "VTVNews.in",
+    "channelId": "VTVNews.in",
+    "channelName": "VTV Gujarati",
+    "startTs": 1783051200000,
+    "stopTs": 1783053000000,
+    "title": "Bhavishya Darshan",
+    "desc": "An astrologer provides predictions to the viewers based on their birth dates, sun signs and the positions of the planets."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "VTVNews.in",
+    "channelId": "VTVNews.in",
+    "channelName": "VTV Gujarati",
+    "startTs": 1783053000000,
+    "stopTs": 1783054800000,
+    "title": "Breaking News",
+    "desc": "The host presents news about current affairs to help viewers arm themselves with crucial knowledge and be aware of the dangers and calamities that plague the nation."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "VTVNews.in",
+    "channelId": "VTVNews.in",
+    "channelName": "VTV Gujarati",
+    "startTs": 1783054800000,
+    "stopTs": 1783056600000,
+    "title": "Samachar Time",
+    "desc": "The host sheds light on the latest socio-economic as well political news updates and developments from across the country."
   }
 ]

@@ -1,38 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "TV5News.in",
-    "channelId": "TV5News.in",
-    "channelName": "TV5 Telugu",
-    "startTs": 1782874800000,
-    "stopTs": 1782876600000,
-    "title": "Business Breakfast",
-    "desc": "The host updates the viewers with the performance of the stock market indices and other business related matters across the country."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "TV5News.in",
-    "channelId": "TV5News.in",
-    "channelName": "TV5 Telugu",
-    "startTs": 1782876600000,
-    "stopTs": 1782878400000,
-    "title": "9 AM News",
-    "desc": "This is a news update. We will share the most recent news stories and important events that happened today. Stay informed with our quick and easy summary."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "TV5News.in",
-    "channelId": "TV5News.in",
-    "channelName": "TV5 Telugu",
-    "startTs": 1782878400000,
-    "stopTs": 1782880200000,
-    "title": "Favorite 5",
-    "desc": "This program revives classic movies. It showcases beloved films from the past, offering a fresh look for modern audiences to enjoy these timeless stories."
-  },
-  {
     "start": "04:30",
     "stop": "05:00",
     "channel": "TV5News.in",
@@ -41,7 +8,7 @@
     "startTs": 1782880200000,
     "stopTs": 1782882000000,
     "title": "10 AM News",
-    "desc": "A host talks with experts. They discuss problems happening all over the country. They try to understand these issues. The discussion aims to find solutions."
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "start": "05:00",
@@ -878,5 +845,38 @@
     "stopTs": 1783051200000,
     "title": "9 AM News",
     "desc": "This is a news update. We will share the most recent news stories and important events that happened today. Stay informed with our quick and easy summary."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "TV5News.in",
+    "channelId": "TV5News.in",
+    "channelName": "TV5 Telugu",
+    "startTs": 1783051200000,
+    "stopTs": 1783053000000,
+    "title": "Favorite 5",
+    "desc": "This program revives classic movies. It showcases beloved films from the past, offering a fresh look for modern audiences to enjoy these timeless stories."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "TV5News.in",
+    "channelId": "TV5News.in",
+    "channelName": "TV5 Telugu",
+    "startTs": 1783053000000,
+    "stopTs": 1783054800000,
+    "title": "10 AM News",
+    "desc": "A host talks with experts. They discuss problems happening all over the country. They try to understand these issues. The discussion aims to find solutions."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "TV5News.in",
+    "channelId": "TV5News.in",
+    "channelName": "TV5 Telugu",
+    "startTs": 1783054800000,
+    "stopTs": 1783056600000,
+    "title": "10 AM News",
+    "desc": "A host talks with experts. They discuss problems happening all over the country. They try to understand these issues. The discussion aims to find solutions."
   }
 ]

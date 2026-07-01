@@ -1,16 +1,5 @@
 [
   {
-    "start": "00:30",
-    "stop": "03:30",
-    "channel": "IndiaToday.in",
-    "channelId": "IndiaToday.in",
-    "channelName": "INDIA TODAY",
-    "startTs": 1782865800000,
-    "stopTs": 1782876600000,
-    "title": "News",
-    "desc": "The host provides a detailed report on the latest news and developments."
-  },
-  {
     "start": "03:30",
     "stop": "06:30",
     "channel": "IndiaToday.in",
@@ -20,28 +9,6 @@
     "stopTs": 1782887400000,
     "title": "News",
     "desc": "The host provides a detailed report on the latest news and developments."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "IndiaToday.in",
-    "channelId": "IndiaToday.in",
-    "channelName": "India Today",
-    "startTs": 1782878400000,
-    "stopTs": 1782880200000,
-    "title": "Burning Question",
-    "desc": "Follow a panel of renowned experts as they discuss some of the most pressing issues concerning the nation."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "IndiaToday.in",
-    "channelId": "IndiaToday.in",
-    "channelName": "India Today",
-    "startTs": 1782880200000,
-    "stopTs": 1782882000000,
-    "title": "India&apos;s Agenda",
-    "desc": "As news develops the host brings it first and set the news agenda for competition and India."
   },
   {
     "start": "05:00",
@@ -1076,5 +1043,38 @@
     "stopTs": 1783051200000,
     "title": "Burning Question",
     "desc": "Follow a panel of renowned experts as they discuss some of the most pressing issues concerning the nation."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "IndiaToday.in",
+    "channelId": "IndiaToday.in",
+    "channelName": "India Today",
+    "startTs": 1783051200000,
+    "stopTs": 1783053000000,
+    "title": "Burning Question",
+    "desc": "Follow a panel of renowned experts as they discuss some of the most pressing issues concerning the nation."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "IndiaToday.in",
+    "channelId": "IndiaToday.in",
+    "channelName": "India Today",
+    "startTs": 1783053000000,
+    "stopTs": 1783054800000,
+    "title": "India&apos;s Agenda",
+    "desc": "As news develops the host brings it first and set the news agenda for competition and India."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "IndiaToday.in",
+    "channelId": "IndiaToday.in",
+    "channelName": "India Today",
+    "startTs": 1783054800000,
+    "stopTs": 1783056600000,
+    "title": "India&apos;s Agenda",
+    "desc": "As news develops the host brings it first and set the news agenda for competition and India."
   }
 ]

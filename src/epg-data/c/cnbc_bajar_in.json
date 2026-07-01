@@ -1,38 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "CNBCBajar.in",
-    "channelId": "CNBCBajar.in",
-    "channelName": "CNBC Bajar",
-    "startTs": 1782874800000,
-    "stopTs": 1782876600000,
-    "title": "Morning Ticker",
-    "desc": "The host converses with experts who provide latest updates regarding stock trends and share critical tips to the viewers about finances."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "CNBCBajar.in",
-    "channelId": "CNBCBajar.in",
-    "channelName": "CNBC Bajar",
-    "startTs": 1782876600000,
-    "stopTs": 1782878400000,
-    "title": "Market Muhurat",
-    "desc": "A host presents top stories and headlines from markets, industries, government, entertainment, and sports, delivering clear, easy to understand updates for viewers about today&apos;s world."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "CNBCBajar.in",
-    "channelId": "CNBCBajar.in",
-    "channelName": "CNBC Bajar",
-    "startTs": 1782878400000,
-    "stopTs": 1782880200000,
-    "title": "Market Muhurat",
-    "desc": "A host presents top stories and headlines from markets, industries, government, entertainment, and sports, delivering clear, easy to understand updates for viewers about today&apos;s world."
-  },
-  {
     "start": "04:30",
     "stop": "05:00",
     "channel": "CNBCBajar.in",
@@ -41,7 +8,7 @@
     "startTs": 1782880200000,
     "stopTs": 1782882000000,
     "title": "Market Live",
-    "desc": "Tracks real-time stock market performance. Viewers get up-to-date financial data, live trading insights, and expert opinions as the market shifts throughout the day."
+    "desc": "The host provides a detailed report on the latest updates and developments pertaining to the stock market, business and finance, live."
   },
   {
     "start": "05:00",
@@ -1076,5 +1043,38 @@
     "stopTs": 1783051200000,
     "title": "Market Muhurat",
     "desc": "A host presents top stories and headlines from markets, industries, government, entertainment, and sports, delivering clear, easy to understand updates for viewers about today&apos;s world."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "CNBCBajar.in",
+    "channelId": "CNBCBajar.in",
+    "channelName": "CNBC Bajar",
+    "startTs": 1783051200000,
+    "stopTs": 1783053000000,
+    "title": "Market Muhurat",
+    "desc": "A host presents top stories and headlines from markets, industries, government, entertainment, and sports, delivering clear, easy to understand updates for viewers about today&apos;s world."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "CNBCBajar.in",
+    "channelId": "CNBCBajar.in",
+    "channelName": "CNBC Bajar",
+    "startTs": 1783053000000,
+    "stopTs": 1783054800000,
+    "title": "Market Live",
+    "desc": "Tracks real-time stock market performance. Viewers get up-to-date financial data, live trading insights, and expert opinions as the market shifts throughout the day."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "CNBCBajar.in",
+    "channelId": "CNBCBajar.in",
+    "channelName": "CNBC Bajar",
+    "startTs": 1783054800000,
+    "stopTs": 1783056600000,
+    "title": "Market Live",
+    "desc": "Tracks real-time stock market performance. Viewers get up-to-date financial data, live trading insights, and expert opinions as the market shifts throughout the day."
   }
 ]

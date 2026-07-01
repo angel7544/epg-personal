@@ -1,27 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "NewsLive.in",
-    "channelId": "NewsLive.in",
-    "channelName": "NEWS LIVE",
-    "startTs": 1782873000000,
-    "stopTs": 1782876600000,
-    "title": "Live At 8",
-    "desc": "The host provides the latest information and updates on various issues, live."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "NewsLive.in",
-    "channelId": "NewsLive.in",
-    "channelName": "NEWS LIVE",
-    "startTs": 1782876600000,
-    "stopTs": 1782880200000,
-    "title": "Good Morning Assam",
-    "desc": "The host presents the latest social, economic and political news from Assam."
-  },
-  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "NewsLive.in",
@@ -658,5 +636,16 @@
     "stopTs": 1783053000000,
     "title": "Good Morning Assam",
     "desc": "Morning news and updates with a focus on Assam&apos;s latest events and stories."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1783053000000,
+    "stopTs": 1783056600000,
+    "title": "Repeat Show",
+    "desc": "Rebroadcast of previously aired shows and episodes for viewers who missed them"
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782873000000,
-    "stopTs": 1782876600000,
-    "title": "Bazaar Morning Call",
-    "desc": "The hosts shed light on the condition of the stock market prior to its opening."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "CNBCTV18.in",
-    "channelId": "CNBCTV18.in",
-    "channelName": "CNBC TV18",
-    "startTs": 1782876600000,
-    "stopTs": 1782880200000,
-    "title": "Bazaar Open Exchange",
-    "desc": "The host provides the latest news and updates related to the stock markets."
-  },
-  {
     "start": "04:30",
     "stop": "05:00",
     "channel": "CNBCTV18.in",
@@ -790,5 +768,27 @@
     "stopTs": 1783053000000,
     "title": "Bazaar Open Exchange",
     "desc": "In-depth look at opening bell trends, market buzz, and stock picks. Tailored for investors eager to begin their trading day with sharp strategies."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1783053000000,
+    "stopTs": 1783054800000,
+    "title": "Bazaar Corporate Radar",
+    "desc": "Read into the minds of fund managers, global economists and sector analysts."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "CNBCTV18.in",
+    "channelId": "CNBCTV18.in",
+    "channelName": "CNBC TV18",
+    "startTs": 1783054800000,
+    "stopTs": 1783056600000,
+    "title": "Chartbusters",
+    "desc": "Viewers are guided with useful tips where and how to invest in stock markets."
   }
 ]

@@ -1,38 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK News",
-    "startTs": 1782873000000,
-    "stopTs": 1782876600000,
-    "title": "News",
-    "desc": "The host presents the latest news stories pertaining to various issues around the country."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK News",
-    "startTs": 1782876600000,
-    "stopTs": 1782880200000,
-    "title": "News",
-    "desc": "The host presents the latest news stories pertaining to various issues around the country."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1782878400000,
-    "stopTs": 1782880200000,
-    "title": "Special Drive",
-    "desc": "The host presents the latest news, updates and developments from across the nation and provides analyses on current affairs."
-  },
-  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "BRKNews.in",
@@ -1032,5 +999,38 @@
     "stopTs": 1783051200000,
     "title": "News Bulletin",
     "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1783051200000,
+    "stopTs": 1783053000000,
+    "title": "Special Drive",
+    "desc": "The host presents the latest news, updates and developments from across the nation and provides analyses on current affairs."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1783053000000,
+    "stopTs": 1783054800000,
+    "title": "News Bulletin",
+    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1783054800000,
+    "stopTs": 1783056600000,
+    "title": "Political Drive",
+    "desc": "District Political situation."
   }
 ]

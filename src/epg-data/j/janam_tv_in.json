@@ -1,16 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "Janam TV",
-    "startTs": 1782874800000,
-    "stopTs": 1782876600000,
-    "title": "Kadhakali",
-    "desc": "The host presents Kerala&apos;s latest political updates with a satirical twist."
-  },
-  {
     "start": "03:30",
     "stop": "08:30",
     "channel": "JanamTV.in",
@@ -823,5 +812,16 @@
     "stopTs": 1783053000000,
     "title": "Breaking Now @ 8.30",
     "desc": "Tune into an update of the latest regional news from Kerala."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1783053000000,
+    "stopTs": 1783056600000,
+    "title": "Happening Now @ 10AM - News",
+    "desc": "Take a look at the latest social, economic and political news of the day."
   }
 ]

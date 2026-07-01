@@ -1,27 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "CNNNews18.in",
-    "channelId": "CNNNews18.in",
-    "channelName": "CNN News18",
-    "startTs": 1782873000000,
-    "stopTs": 1782876600000,
-    "title": "The Breakfast Club",
-    "desc": "The host presents the latest developments surrounding news, lifestyle and entertainment."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "CNNNews18.in",
-    "channelId": "CNNNews18.in",
-    "channelName": "CNN News18",
-    "startTs": 1782876600000,
-    "stopTs": 1782880200000,
-    "title": "Breaking On News18",
-    "desc": "The host provides the latest updates and stories from around the world and country."
-  },
-  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "CNNNews18.in",
@@ -647,5 +625,16 @@
     "stopTs": 1783053000000,
     "title": "The Morning News",
     "desc": "Latest updates from sports, technology, stock market, entertainment and politics."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "CNNNews18.in",
+    "channelId": "CNNNews18.in",
+    "channelName": "CNN News18",
+    "startTs": 1783053000000,
+    "stopTs": 1783056600000,
+    "title": "Breaking On News18",
+    "desc": "The host presents the latest news in politics, social issues, economy and sports."
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "04:00",
-    "channel": "SudarshanNews.in",
-    "channelId": "SudarshanNews.in",
-    "channelName": "Sudarshan News",
-    "startTs": 1782874800000,
-    "stopTs": 1782878400000,
-    "title": "Jaago",
-    "desc": "The host presents a report of the latest news stories from the region."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "SudarshanNews.in",
-    "channelId": "SudarshanNews.in",
-    "channelName": "Sudarshan News",
-    "startTs": 1782878400000,
-    "stopTs": 1782880200000,
-    "title": "Superfast 100",
-    "desc": "The host presents the top 100 stories, updates and huge developments from the world."
-  },
-  {
     "start": "04:30",
     "stop": "04:35",
     "channel": "SudarshanNews.in",
@@ -977,5 +955,49 @@
     "stopTs": 1783051200000,
     "title": "Jansanvad",
     "desc": "The Host covers the latest news and updates on social issues and politics."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1783051200000,
+    "stopTs": 1783053000000,
+    "title": "Super Fast 100",
+    "desc": "The host shares the day&apos;s top 100 news stories in Super Fast 100."
+  },
+  {
+    "start": "04:30",
+    "stop": "04:35",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1783053000000,
+    "stopTs": 1783053300000,
+    "title": "5 Min 25 Khabar",
+    "desc": "Catch the latest news and developments in this fast-paced news module."
+  },
+  {
+    "start": "04:35",
+    "stop": "05:00",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1783053300000,
+    "stopTs": 1783054800000,
+    "title": "News Bulletin",
+    "desc": "Latest News and developments of the day."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:26",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1783054800000,
+    "stopTs": 1783056360000,
+    "title": "Promotional Content",
+    "desc": "A fun show featuring ads and promotions, hosted with flair and enthusiasm!"
   }
 ]

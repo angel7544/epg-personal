@@ -1,38 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "04:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "MEDIA ONE",
-    "startTs": 1782873000000,
-    "stopTs": 1782880200000,
-    "title": "News Morning",
-    "desc": "Start your day with the latest news updates-tune in now!"
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1782874800000,
-    "stopTs": 1782876600000,
-    "title": "Pandh Aura",
-    "desc": "."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1782876600000,
-    "stopTs": 1782880200000,
-    "title": "Morning News",
-    "desc": "The host presents the news on economics, social issues, politics and current events."
-  },
-  {
     "start": "04:30",
     "stop": "06:00",
     "channel": "MediaOne.in",
@@ -801,5 +768,16 @@
     "stopTs": 1783053000000,
     "title": "News Morning",
     "desc": "Start your day with the latest news updates-tune in now!"
+  },
+  {
+    "start": "04:30",
+    "stop": "06:00",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1783053000000,
+    "stopTs": 1783058400000,
+    "title": "Zero Hour",
+    "desc": "Telecast of the latest news and updates as well as expert analysis of the elections."
   }
 ]

@@ -1,58 +1,14 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "Argus",
-    "startTs": 1782874800000,
-    "stopTs": 1782876600000,
-    "title": "Ajira Atithi",
-    "desc": "The host holds an insightful conversation with a prominent personality, discussing his life journey and professional achievements."
-  },
-  {
-    "start": "03:30",
-    "stop": "03:55",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "ARGUS",
-    "startTs": 1782876600000,
-    "stopTs": 1782878100000,
-    "title": "Sakalara Bada Khabar",
-    "desc": "The latest top thirty news video for you."
-  },
-  {
-    "start": "03:55",
-    "stop": "04:00",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "ARGUS",
-    "startTs": 1782878100000,
-    "stopTs": 1782878400000,
-    "title": "5 Min 25 Khabar",
-    "desc": "The host presents the top 25 political and socio-economic news updates and developments from across India."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "ARGUS",
-    "startTs": 1782878400000,
-    "stopTs": 1782880200000,
-    "title": "Argus Special",
-    "desc": "Regional and national stories are covered, emphasizing relevance, accuracy, and public interest."
-  },
-  {
     "start": "04:30",
     "stop": "05:00",
     "channel": "ArgusNews.in",
     "channelId": "ArgusNews.in",
-    "channelName": "ARGUS",
+    "channelName": "Argus",
     "startTs": 1782880200000,
     "stopTs": 1782882000000,
-    "title": "Argus Big Breaking Live",
-    "desc": "Special news segments explore noteworthy stories, bringing context and expert insight to audiences."
+    "title": "Argus Update",
+    "desc": "The host presents some of the latest and important social, political and economic news stories and updates from all over the country."
   },
   {
     "start": "05:00",
@@ -1296,5 +1252,49 @@
     "stopTs": 1783050900000,
     "title": "Sakalara Bada Khabar",
     "desc": "The latest top thirty news video for you."
+  },
+  {
+    "start": "03:55",
+    "stop": "04:00",
+    "channel": "ArgusNews.in",
+    "channelId": "ArgusNews.in",
+    "channelName": "ARGUS",
+    "startTs": 1783050900000,
+    "stopTs": 1783051200000,
+    "title": "5 Min 25 Khabar",
+    "desc": "The host presents the top 25 political and socio-economic news updates and developments from across India."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "ArgusNews.in",
+    "channelId": "ArgusNews.in",
+    "channelName": "ARGUS",
+    "startTs": 1783051200000,
+    "stopTs": 1783053000000,
+    "title": "Argus Special",
+    "desc": "Regional and national stories are covered, emphasizing relevance, accuracy, and public interest."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "ArgusNews.in",
+    "channelId": "ArgusNews.in",
+    "channelName": "ARGUS",
+    "startTs": 1783053000000,
+    "stopTs": 1783054800000,
+    "title": "Argus Big Breaking Live",
+    "desc": "Special news segments explore noteworthy stories, bringing context and expert insight to audiences."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "ArgusNews.in",
+    "channelId": "ArgusNews.in",
+    "channelName": "ARGUS",
+    "startTs": 1783054800000,
+    "stopTs": 1783056600000,
+    "title": "Badasahara Badakhabar",
+    "desc": "Critical news updates offer insight into current affairs, policy changes, and developments affecting society."
   }
 ]

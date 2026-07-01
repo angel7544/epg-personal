@@ -1,47 +1,14 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
+    "start": "04:30",
+    "stop": "05:00",
     "channel": "LOKSHAHI.in",
     "channelId": "LOKSHAHI.in",
     "channelName": "LOKSHAHI",
-    "startTs": 1782874800000,
-    "stopTs": 1782876600000,
-    "title": "Top 10 / Headlines / Breaking News / Top 20 / Top 15",
-    "desc": "The host presents the top news stories surrounding various social, political and economic issues; the presenter provides the latest headlines on relevant current events."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "LokshahiNews.in",
-    "channelId": "LokshahiNews.in",
-    "channelName": "Lokshahi",
-    "startTs": 1782876600000,
-    "stopTs": 1782878400000,
-    "title": "Maharashtra Aaj",
-    "desc": "Covers major updates, political happenings, and social issues from across Maharashtra. A daily summary of stories that reflect the pulse and voice of the state."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "LokshahiNews.in",
-    "channelId": "LokshahiNews.in",
-    "channelName": "Lokshahi",
-    "startTs": 1782878400000,
-    "stopTs": 1782880200000,
-    "title": "25 Minitat 25 Batmya",
-    "desc": "The host reviews key news updates; stay informed with daily happenings!"
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "LokshahiNews.in",
-    "channelId": "LokshahiNews.in",
-    "channelName": "Lokshahi",
     "startTs": 1782880200000,
     "stopTs": 1782882000000,
-    "title": "Lokshahi Khabatbat",
-    "desc": "Comprehensive updates on current political and socio-economic affairs-watch now!"
+    "title": "5 Mins 25 Batmya / Headlines / Bulletin",
+    "desc": "The host delivers the latest headlines and updates in a timely manner; a presenter provides a quick and informative overview of key events as well as developments."
   },
   {
     "start": "05:00",
@@ -504,6 +471,17 @@
     "stopTs": 1782955800000,
     "title": "Jay Jay Maharashtra Maza Song",
     "desc": "Enjoy vibrant Maharashtra folk performances-watch and celebrate the rich culture!"
+  },
+  {
+    "start": "01:25",
+    "stop": "01:30",
+    "channel": "LOKSHAHI.in",
+    "channelId": "LOKSHAHI.in",
+    "channelName": "LOKSHAHI",
+    "startTs": 1782955500000,
+    "stopTs": 1782955800000,
+    "title": "Aarti",
+    "desc": "Hindu priests and devotees worship the deities by performing various religious rituals and singing devotional hymns."
   },
   {
     "start": "01:30",
@@ -1098,5 +1076,38 @@
     "stopTs": 1783051200000,
     "title": "Maharashtra Aaj",
     "desc": "Covers major updates, political happenings, and social issues from across Maharashtra. A daily summary of stories that reflect the pulse and voice of the state."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "LokshahiNews.in",
+    "channelId": "LokshahiNews.in",
+    "channelName": "Lokshahi",
+    "startTs": 1783051200000,
+    "stopTs": 1783053000000,
+    "title": "25 Minitat 25 Batmya",
+    "desc": "The host reviews key news updates; stay informed with daily happenings!"
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "LokshahiNews.in",
+    "channelId": "LokshahiNews.in",
+    "channelName": "Lokshahi",
+    "startTs": 1783053000000,
+    "stopTs": 1783054800000,
+    "title": "Lokshahi Khabatbat",
+    "desc": "Comprehensive updates on current political and socio-economic affairs-watch now!"
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "LokshahiNews.in",
+    "channelId": "LokshahiNews.in",
+    "channelName": "Lokshahi",
+    "startTs": 1783054800000,
+    "stopTs": 1783056600000,
+    "title": "Maharashtra Expres 100",
+    "desc": "This program is all about based on the Maharashtra Expres 100."
   }
 ]

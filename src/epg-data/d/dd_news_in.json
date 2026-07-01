@@ -1,38 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News",
-    "startTs": 1782873000000,
-    "stopTs": 1782876600000,
-    "title": "Naya Savera",
-    "desc": "Presents the latest social, economic and political updates with guests."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News",
-    "startTs": 1782876600000,
-    "stopTs": 1782878400000,
-    "title": "Express 100",
-    "desc": "Presents the latest breaking news and updates on various trending topics."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News",
-    "startTs": 1782878400000,
-    "stopTs": 1782880200000,
-    "title": "Creators Corner",
-    "desc": "Presents unique, informative, and inventive creations across India."
-  },
-  {
     "start": "04:30",
     "stop": "05:00",
     "channel": "DDNews.in",
@@ -746,5 +713,27 @@
     "stopTs": 1783051200000,
     "title": "Express100",
     "desc": "A quick, 30-minute collection of 100 current India-news stories across diverse topics, delivering fast, accessible updates."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News HD",
+    "startTs": 1783051200000,
+    "stopTs": 1783053000000,
+    "title": "Creators Corner",
+    "desc": "A creative hub highlighting digital creators, innovations, and original artistic expressions."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News HD",
+    "startTs": 1783053000000,
+    "stopTs": 1783056600000,
+    "title": "News Punch",
+    "desc": "News Punch delivers fast, detailed coverage of key national and global news using advanced visuals, offering balanced, engaging reports with deep rural reach."
   }
 ]

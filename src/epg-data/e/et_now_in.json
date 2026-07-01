@@ -1,16 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1782873000000,
-    "stopTs": 1782876600000,
-    "title": "The Market",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
     "start": "03:30",
     "stop": "05:00",
     "channel": "ETNow.in",
@@ -97,17 +86,6 @@
     "stopTs": 1782900000000,
     "title": "Closing Trades",
     "desc": "Nearing market closing time, the host provides latest updates of market-affecting events."
-  },
-  {
-    "start": "09:00",
-    "stop": "10:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1782896400000,
-    "stopTs": 1782900000000,
-    "title": "ET NOW Closing Trades",
-    "desc": "The hosts and subject-matter experts discuss comprehensive compilations of Sensex and Nifty numbers and market trends in the current economy."
   },
   {
     "start": "10:00",
@@ -955,5 +933,16 @@
     "stopTs": 1783054800000,
     "title": "First Trades",
     "desc": "A show that discusses stocks that have been highly volatile in trading while the stock markets open."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1783054800000,
+    "stopTs": 1783056600000,
+    "title": "Midcap Masala",
+    "desc": "Explores India&apos;s midcap stocks with expert analysis, top picks, and market trends, guiding investors toward high-growth opportunities."
   }
 ]

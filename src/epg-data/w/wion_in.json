@@ -1,38 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "WION.in",
-    "channelId": "WION.in",
-    "channelName": "WION",
-    "startTs": 1782874800000,
-    "stopTs": 1782876600000,
-    "title": "Speed News",
-    "desc": "The host presents a quick update on the top stories of the day."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "WION.in",
-    "channelId": "WION.in",
-    "channelName": "WION",
-    "startTs": 1782876600000,
-    "stopTs": 1782878400000,
-    "title": "Top Stories",
-    "desc": "The host presents some of the latest news stories, current affairs and developments."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "WION.in",
-    "channelId": "WION.in",
-    "channelName": "WION",
-    "startTs": 1782878400000,
-    "stopTs": 1782880200000,
-    "title": "World Business Watch",
-    "desc": "The host presents updates on the business and economic developments from around the world."
-  },
-  {
     "start": "04:30",
     "stop": "05:00",
     "channel": "WION.in",
@@ -1076,5 +1043,38 @@
     "stopTs": 1783051200000,
     "title": "Top Stories",
     "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "WION.in",
+    "channelId": "WION.in",
+    "channelName": "WION",
+    "startTs": 1783051200000,
+    "stopTs": 1783053000000,
+    "title": "World Business Watch",
+    "desc": "Join our host as they break down the latest business and economic news from around the globe, making sense of the headlines and keeping you in the loop."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "WION.in",
+    "channelId": "WION.in",
+    "channelName": "WION",
+    "startTs": 1783053000000,
+    "stopTs": 1783054800000,
+    "title": "Top Stories",
+    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "WION.in",
+    "channelId": "WION.in",
+    "channelName": "WION",
+    "startTs": 1783054800000,
+    "stopTs": 1783056600000,
+    "title": "Inside South Asia",
+    "desc": "Focusing on leading stories from South Asia covering the latest developments, major updates and important events reported from different parts of the region."
   }
 ]

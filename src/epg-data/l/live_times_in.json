@@ -1,38 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "LiveTimes.in",
-    "channelId": "LiveTimes.in",
-    "channelName": "Live Times",
-    "startTs": 1782873000000,
-    "stopTs": 1782876600000,
-    "title": "News Live",
-    "desc": "The host sheds light on the top news updates from across the nation and the world, live."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "LiveTimes.in",
-    "channelId": "LiveTimes.in",
-    "channelName": "Live Times",
-    "startTs": 1782876600000,
-    "stopTs": 1782878400000,
-    "title": "Alert Live",
-    "desc": "The host provides the latest updates and stories from around the country, live."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "LiveTimes.in",
-    "channelId": "LiveTimes.in",
-    "channelName": "Live Times",
-    "startTs": 1782878400000,
-    "stopTs": 1782880200000,
-    "title": "Express Live",
-    "desc": "The host presents the latest news updates and developments in quick succession, live."
-  },
-  {
     "start": "04:30",
     "stop": "07:30",
     "channel": "LiveTimes.in",
@@ -1053,6 +1020,39 @@
     "startTs": 1783049400000,
     "stopTs": 1783051200000,
     "title": "Live Alert",
+    "desc": "Latest updates on all the news and developments."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "LIVETIMES.in",
+    "channelId": "LIVETIMES.in",
+    "channelName": "LIVE TIMES",
+    "startTs": 1783051200000,
+    "stopTs": 1783053000000,
+    "title": "Live Express",
+    "desc": "Latest updates on all the news and developments."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "LIVETIMES.in",
+    "channelId": "LIVETIMES.in",
+    "channelName": "LIVE TIMES",
+    "startTs": 1783053000000,
+    "stopTs": 1783054800000,
+    "title": "Live Reporter",
+    "desc": "Latest updates on all the news and developments."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "LIVETIMES.in",
+    "channelId": "LIVETIMES.in",
+    "channelName": "LIVE TIMES",
+    "startTs": 1783054800000,
+    "stopTs": 1783056600000,
+    "title": "Live News",
     "desc": "Latest updates on all the news and developments."
   }
 ]

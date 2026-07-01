@@ -1,38 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1782874800000,
-    "stopTs": 1782876600000,
-    "title": "Top Agenda",
-    "desc": "The host presents the latest updates pertaining to the current affairs of the day."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1782876600000,
-    "stopTs": 1782878400000,
-    "title": "Breaking News/Special Bulletin",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1782878400000,
-    "stopTs": 1782880200000,
-    "title": "Breaking News/Special Bulletin",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
     "start": "04:30",
     "stop": "05:00",
     "channel": "News1India.in",
@@ -1032,5 +999,38 @@
     "stopTs": 1783051200000,
     "title": "Ground Report@ Reporter",
     "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across the world."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1783051200000,
+    "stopTs": 1783053000000,
+    "title": "Entertainment Tadka",
+    "desc": "An entertainment-based program."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1783053000000,
+    "stopTs": 1783054800000,
+    "title": "10 Ka Agenda",
+    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1783054800000,
+    "stopTs": 1783056600000,
+    "title": "10 Ka Agenda",
+    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
   }
 ]

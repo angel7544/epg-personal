@@ -1,27 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "SunNews.in",
-    "channelId": "SunNews.in",
-    "channelName": "Sun News",
-    "startTs": 1782874800000,
-    "stopTs": 1782876600000,
-    "title": "100 Speed News",
-    "desc": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "SunNews.in",
-    "channelId": "SunNews.in",
-    "channelName": "Sun News",
-    "startTs": 1782876600000,
-    "stopTs": 1782880200000,
-    "title": "9 Mani Seithigal",
-    "desc": "The host delivers live political developments and key socio-economic headlines, providing major updates, top stories, and important news from India and around the world in real time."
-  },
-  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "SunNews.in",
@@ -625,5 +603,16 @@
     "stopTs": 1783053000000,
     "title": "9 Mani Seithigal",
     "desc": "The host delivers live political developments and key socio-economic headlines, providing major updates, top stories, and important news from India and around the world in real time."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "SunNews.in",
+    "channelId": "SunNews.in",
+    "channelName": "Sun News",
+    "startTs": 1783053000000,
+    "stopTs": 1783056600000,
+    "title": "10 Mani Seithigal",
+    "desc": "The host covers live political developments and top socio-economic headlines, bringing key updates and important news from India and around the world as they happen."
   }
 ]

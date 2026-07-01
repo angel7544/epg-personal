@@ -1,38 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "CVRNews.in",
-    "channelId": "CVRNews.in",
-    "channelName": "CVR NEWS1",
-    "startTs": 1782876600000,
-    "stopTs": 1782878400000,
-    "title": "9AM News",
-    "desc": "The host highlights the latest news and developments on diverse global issues, providing updates on significant events and trends affecting various regions."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "CVRNews.in",
-    "channelId": "CVRNews.in",
-    "channelName": "CVR NEWS1",
-    "startTs": 1782878400000,
-    "stopTs": 1782880200000,
-    "title": "Big Story",
-    "desc": "The host presents the most significant news update of the current day."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "CVRNews.in",
-    "channelId": "CVRNews.in",
-    "channelName": "CVR NEWS1",
-    "startTs": 1782880200000,
-    "stopTs": 1782882000000,
-    "title": "10AM News",
-    "desc": "The anchor delivers the latest news updates across politics, economics, entertainment, and sports, keeping viewers informed on key developments in each area."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "CVRNews.in",
@@ -1043,5 +1010,38 @@
     "stopTs": 1783051200000,
     "title": "9AM News",
     "desc": "The host highlights the latest news and developments on diverse global issues, providing updates on significant events and trends affecting various regions."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "CVRNews.in",
+    "channelId": "CVRNews.in",
+    "channelName": "CVR NEWS1",
+    "startTs": 1783051200000,
+    "stopTs": 1783053000000,
+    "title": "Big Story",
+    "desc": "The host presents the most significant news update of the current day."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "CVRNews.in",
+    "channelId": "CVRNews.in",
+    "channelName": "CVR NEWS1",
+    "startTs": 1783053000000,
+    "stopTs": 1783054800000,
+    "title": "10AM News",
+    "desc": "The anchor delivers the latest news updates across politics, economics, entertainment, and sports, keeping viewers informed on key developments in each area."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "CVRNews.in",
+    "channelId": "CVRNews.in",
+    "channelName": "CVR NEWS1",
+    "startTs": 1783054800000,
+    "stopTs": 1783056600000,
+    "title": "News/Drive",
+    "desc": "The host discusses major news stories about the coronavirus outbreak, focusing on its developments and precautionary methods to keep the public informed and safe."
   }
 ]

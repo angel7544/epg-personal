@@ -1,38 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "SakshiTV.in",
-    "channelId": "SakshiTV.in",
-    "channelName": "Sakshi TV",
-    "startTs": 1782874800000,
-    "stopTs": 1782876600000,
-    "title": "Garam Garam Vartalu",
-    "desc": "The host presents a detailed report on the latest news and developments."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "SakshiTV.in",
-    "channelId": "SakshiTV.in",
-    "channelName": "Sakshi TV",
-    "startTs": 1782876600000,
-    "stopTs": 1782878400000,
-    "title": "News Express / Sakshi News",
-    "desc": "The presenter shares news updates of the day; the host presents the current affairs."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "SakshiTV.in",
-    "channelId": "SakshiTV.in",
-    "channelName": "Sakshi TV",
-    "startTs": 1782878400000,
-    "stopTs": 1782880200000,
-    "title": "Magazine Story",
-    "desc": "The host presents an in-depth analysis of the current state of affairs."
-  },
-  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "SakshiTV.in",
@@ -856,5 +823,27 @@
     "stopTs": 1783051200000,
     "title": "News Express / Sakshi News",
     "desc": "Brings key updates from political circles, party strategies, and exclusive stories about influential leaders and electoral battles."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "SakshiTV.in",
+    "channelId": "SakshiTV.in",
+    "channelName": "Sakshi TV",
+    "startTs": 1783051200000,
+    "stopTs": 1783053000000,
+    "title": "Magazine Story",
+    "desc": "An in-depth analysis of events and issues that attract public attention."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "SakshiTV.in",
+    "channelId": "SakshiTV.in",
+    "channelName": "Sakshi TV",
+    "startTs": 1783053000000,
+    "stopTs": 1783056600000,
+    "title": "News Express / Morning Prime Time",
+    "desc": "Senior journalists and political editors deliver sharp debates, ground reports and expert panels, covering breaking headlines and key developments from across the nation."
   }
 ]

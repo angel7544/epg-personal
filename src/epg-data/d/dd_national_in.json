@@ -1,16 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "DDNational.in",
-    "channelId": "DDNational.in",
-    "channelName": "DD National",
-    "startTs": 1782873000000,
-    "stopTs": 1782876600000,
-    "title": "Morning Show",
-    "desc": "Presents a refreshing burst of information for the viewers to kickstart the day on a positive note."
-  },
-  {
     "start": "03:30",
     "stop": "05:00",
     "channel": "DDNational.in",
@@ -20,17 +9,6 @@
     "stopTs": 1782882000000,
     "title": "KBC Sadabahar",
     "desc": "Contestants participate in a quiz competition to win cash prizes. S01 E27."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "DDNational.in",
-    "channelId": "DDNational.in",
-    "channelName": "DD National",
-    "startTs": 1782880200000,
-    "stopTs": 1782882000000,
-    "title": "Fillers",
-    "desc": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors is played sequentially."
   },
   {
     "start": "05:00",
@@ -878,5 +856,38 @@
     "stopTs": 1783053000000,
     "title": "Suron Ka Eklavya",
     "desc": "Contestants perform the works of legendary Indian musicians to impress a reputed panel of judges and win the competition."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "DDNational.in",
+    "channelId": "DDNational.in",
+    "channelName": "DD National",
+    "startTs": 1783051200000,
+    "stopTs": 1783053000000,
+    "title": "Himachal Se Olympics Tak",
+    "desc": "A brave girl from Himachal breaks every stereotype and fights every odd to represent India at the Olympics, proving that courage, dreams, and determination know no boundaries."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "DDNational.in",
+    "channelId": "DDNational.in",
+    "channelName": "DD National",
+    "startTs": 1783053000000,
+    "stopTs": 1783054800000,
+    "title": "Rajni 2.0",
+    "desc": "The show brings back Rajni, an iconic Indian TV heroine who inspired a generation with her fearless fight against corruption and social injustice."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "DDNational.in",
+    "channelId": "DDNational.in",
+    "channelName": "DD National",
+    "startTs": 1783054800000,
+    "stopTs": 1783056600000,
+    "title": "Mahima Gurudev Brihaspati Ki",
+    "desc": "Across the nation, a host journeys to isolated villages, exploring their unique origins and vibrant cultures, offering viewers an insightful glimpse."
   }
 ]

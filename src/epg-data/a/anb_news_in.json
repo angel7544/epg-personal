@@ -1,38 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "ANBNews.in",
-    "channelId": "ANBNews.in",
-    "channelName": "ANB NEWS",
-    "startTs": 1782874800000,
-    "stopTs": 1782876600000,
-    "title": "8:00 AM",
-    "desc": "The host provides the latest information on various political, economic and social issues."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "ANBNews.in",
-    "channelId": "ANBNews.in",
-    "channelName": "ANB NEWS",
-    "startTs": 1782876600000,
-    "stopTs": 1782878400000,
-    "title": "Bulletin Live",
-    "desc": "The host presents the latest social, economic and political top stories, live."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "ANBNews.in",
-    "channelId": "ANBNews.in",
-    "channelName": "ANB NEWS",
-    "startTs": 1782878400000,
-    "stopTs": 1782880200000,
-    "title": "News Dairy Live",
-    "desc": "The host presents the latest news regarding politics and current affairs, live."
-  },
-  {
     "start": "04:30",
     "stop": "05:00",
     "channel": "ANBNews.in",
@@ -944,5 +911,38 @@
     "stopTs": 1783051200000,
     "title": "Punjabi Bulletin Live",
     "desc": "In a live telecast, the host presents all the latest news updates and developments on noteworthy events and issues around the world."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "ANBNews.in",
+    "channelId": "ANBNews.in",
+    "channelName": "ANB News",
+    "startTs": 1783051200000,
+    "stopTs": 1783053000000,
+    "title": "Hindi Bulletin",
+    "desc": "News bulletin covering various events and incidents."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "ANBNews.in",
+    "channelId": "ANBNews.in",
+    "channelName": "ANB News",
+    "startTs": 1783053000000,
+    "stopTs": 1783054800000,
+    "title": "Hindi Bulletin Live",
+    "desc": "News bulletin covering various events and incidents."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "ANBNews.in",
+    "channelId": "ANBNews.in",
+    "channelName": "ANB News",
+    "startTs": 1783054800000,
+    "stopTs": 1783056600000,
+    "title": "Desi Tadka",
+    "desc": "The host churns out delicious and traditional dishes of local cuisine with a detailed demonstration and shares cooking tips."
   }
 ]

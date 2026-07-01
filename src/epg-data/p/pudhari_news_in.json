@@ -1,60 +1,5 @@
 [
   {
-    "start": "02:50",
-    "stop": "03:20",
-    "channel": "PudhariNews.in",
-    "channelId": "PudhariNews.in",
-    "channelName": "Pudhari News",
-    "startTs": 1782874200000,
-    "stopTs": 1782876000000,
-    "title": "Non Stop Headline",
-    "desc": "The host presents the latest news updates from around the state and the nation."
-  },
-  {
-    "start": "03:20",
-    "stop": "03:50",
-    "channel": "PudhariNews.in",
-    "channelId": "PudhariNews.in",
-    "channelName": "Pudhari News",
-    "startTs": 1782876000000,
-    "stopTs": 1782877800000,
-    "title": "General Bulletin",
-    "desc": "The host presents the latest developments on crucial matters affecting the nation."
-  },
-  {
-    "start": "03:24",
-    "stop": "03:54",
-    "channel": "PudhariNews.in",
-    "channelId": "PudhariNews.in",
-    "channelName": "Pudhari News",
-    "startTs": 1782876240000,
-    "stopTs": 1782878040000,
-    "title": "Mh 100",
-    "desc": "The news anchor shares the latest important stories in politics, society, and economy."
-  },
-  {
-    "start": "03:50",
-    "stop": "04:20",
-    "channel": "PudhariNews.in",
-    "channelId": "PudhariNews.in",
-    "channelName": "Pudhari News",
-    "startTs": 1782877800000,
-    "stopTs": 1782879600000,
-    "title": "MH 100",
-    "desc": "A compilation of 100 latest news stories from all around the region."
-  },
-  {
-    "start": "03:54",
-    "stop": "04:24",
-    "channel": "PudhariNews.in",
-    "channelId": "PudhariNews.in",
-    "channelName": "Pudhari News",
-    "startTs": 1782878040000,
-    "stopTs": 1782879840000,
-    "title": "Pudhari Live",
-    "desc": "The news anchor shares the latest important stories in politics, society, and economy."
-  },
-  {
     "start": "04:20",
     "stop": "04:50",
     "channel": "PudhariNews.in",
@@ -64,17 +9,6 @@
     "stopTs": 1782881400000,
     "title": "General Bulletin",
     "desc": "The host presents the latest developments on crucial matters affecting the nation."
-  },
-  {
-    "start": "04:24",
-    "stop": "04:54",
-    "channel": "PudhariNews.in",
-    "channelId": "PudhariNews.in",
-    "channelName": "Pudhari News",
-    "startTs": 1782879840000,
-    "stopTs": 1782881640000,
-    "title": "Aapla Shahar Batmya Shambhar",
-    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
   },
   {
     "start": "04:50",
@@ -1978,5 +1912,38 @@
     "stopTs": 1783050840000,
     "title": "Mh 100",
     "desc": "The news anchor shares the latest important stories in politics, society, and economy."
+  },
+  {
+    "start": "03:54",
+    "stop": "04:24",
+    "channel": "PudhariNews.in",
+    "channelId": "PudhariNews.in",
+    "channelName": "Pudhari News",
+    "startTs": 1783050840000,
+    "stopTs": 1783052640000,
+    "title": "Pudhari Live",
+    "desc": "The news anchor shares the latest important stories in politics, society, and economy."
+  },
+  {
+    "start": "04:24",
+    "stop": "04:54",
+    "channel": "PudhariNews.in",
+    "channelId": "PudhariNews.in",
+    "channelName": "Pudhari News",
+    "startTs": 1783052640000,
+    "stopTs": 1783054440000,
+    "title": "Aapla Shahar Batmya Shambhar",
+    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+  },
+  {
+    "start": "04:54",
+    "stop": "05:24",
+    "channel": "PudhariNews.in",
+    "channelId": "PudhariNews.in",
+    "channelName": "Pudhari News",
+    "startTs": 1783054440000,
+    "stopTs": 1783056240000,
+    "title": "Ardha Minute, Akkhi Batmi",
+    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
   }
 ]

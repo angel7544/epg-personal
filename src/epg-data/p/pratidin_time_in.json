@@ -1,27 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "PratidinTime.in",
-    "channelId": "PratidinTime.in",
-    "channelName": "Pratidin Time",
-    "startTs": 1782874800000,
-    "stopTs": 1782876600000,
-    "title": "Pratha Sangbad",
-    "desc": "The host presents the latest news stories, important developments and major updates that impact the people living in the state."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "PratidinTime.in",
-    "channelId": "PratidinTime.in",
-    "channelName": "Pratidin Time",
-    "startTs": 1782876600000,
-    "stopTs": 1782880200000,
-    "title": "Morning Prime",
-    "desc": "Your morning news bulletin to catch up on the main news stories of the day gone by."
-  },
-  {
     "start": "04:30",
     "stop": "05:00",
     "channel": "PratidinTime.in",
@@ -30,7 +8,7 @@
     "startTs": 1782880200000,
     "stopTs": 1782882000000,
     "title": "Jankar",
-    "desc": "Engaging news program providing insights into local happenings, politics, and community affairs."
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "start": "05:00",
@@ -636,5 +614,27 @@
     "stopTs": 1783053000000,
     "title": "Morning Prime",
     "desc": "Your morning news bulletin to catch up on the main news stories of the day gone by."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "PratidinTime.in",
+    "channelId": "PratidinTime.in",
+    "channelName": "Pratidin Time",
+    "startTs": 1783053000000,
+    "stopTs": 1783054800000,
+    "title": "Jhankar",
+    "desc": "Two men plan a condom campaign, but their employer&apos;s son joins in."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "PratidinTime.in",
+    "channelId": "PratidinTime.in",
+    "channelName": "Pratidin Time",
+    "startTs": 1783054800000,
+    "stopTs": 1783056600000,
+    "title": "Khobor Ek Nazar",
+    "desc": "A quick roundup of news headlines, events, and developments."
   }
 ]

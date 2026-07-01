@@ -1,82 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:15",
-    "channel": "NDTVMarathi.in",
-    "channelId": "NDTVMarathi.in",
-    "channelName": "NDTV MARATHI",
-    "startTs": 1782874800000,
-    "stopTs": 1782875700000,
-    "title": "Maharashtra Shahar Live",
-    "desc": "The host presents the latest news stories pertaining to issues in Maharashtra, live."
-  },
-  {
-    "start": "03:15",
-    "stop": "03:18",
-    "channel": "NDTVMarathi.in",
-    "channelId": "NDTVMarathi.in",
-    "channelName": "NDTV MARATHI",
-    "startTs": 1782875700000,
-    "stopTs": 1782875880000,
-    "title": "NDTV Special",
-    "desc": "The host presents the latest information on various national and international issues."
-  },
-  {
-    "start": "03:18",
-    "stop": "03:30",
-    "channel": "NDTVMarathi.in",
-    "channelId": "NDTVMarathi.in",
-    "channelName": "NDTV MARATHI",
-    "startTs": 1782875880000,
-    "stopTs": 1782876600000,
-    "title": "Kaamachya Baatmya",
-    "desc": "The host presents the latest news and updates on various issues from around the region."
-  },
-  {
-    "start": "03:30",
-    "stop": "03:35",
-    "channel": "NDTVMarathi.in",
-    "channelId": "NDTVMarathi.in",
-    "channelName": "NDTV MARATHI",
-    "startTs": 1782876600000,
-    "stopTs": 1782876900000,
-    "title": "Top 10",
-    "desc": "The host presents the top ten latest updates pertaining to current affairs of the day."
-  },
-  {
-    "start": "03:35",
-    "stop": "03:45",
-    "channel": "NDTVMarathi.in",
-    "channelId": "NDTVMarathi.in",
-    "channelName": "NDTV MARATHI",
-    "startTs": 1782876900000,
-    "stopTs": 1782877500000,
-    "title": "Big And Breaking",
-    "desc": "The host presents the latest breaking news stories on crucial issues from the country."
-  },
-  {
-    "start": "03:45",
-    "stop": "04:00",
-    "channel": "NDTVMarathi.in",
-    "channelId": "NDTVMarathi.in",
-    "channelName": "NDTV MARATHI",
-    "startTs": 1782877500000,
-    "stopTs": 1782878400000,
-    "title": "Mahanagar Fast",
-    "desc": "The host presents a fast-paced bulletin of news from across the metropolis."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "NDTVMarathi.in",
-    "channelId": "NDTVMarathi.in",
-    "channelName": "NDTV MARATHI",
-    "startTs": 1782878400000,
-    "stopTs": 1782880200000,
-    "title": "Thalak 100",
-    "desc": "The host presents a rapid roundup of key headlines, covering major developments."
-  },
-  {
     "start": "04:30",
     "stop": "04:45",
     "channel": "NDTVMarathi.in",
@@ -1394,6 +1317,61 @@
     "startTs": 1783049700000,
     "stopTs": 1783050300000,
     "title": "Big And Breaking",
+    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+  },
+  {
+    "start": "03:45",
+    "stop": "04:00",
+    "channel": "NDTVMarathi.in",
+    "channelId": "NDTVMarathi.in",
+    "channelName": "NDTV Marathi",
+    "startTs": 1783050300000,
+    "stopTs": 1783051200000,
+    "title": "Mahanagar Fast",
+    "desc": "A fast-paced Marathi news program highlighting updates from urban centers, capturing current issues, developments, and stories relevant to city audiences."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "NDTVMarathi.in",
+    "channelId": "NDTVMarathi.in",
+    "channelName": "NDTV Marathi",
+    "startTs": 1783051200000,
+    "stopTs": 1783053000000,
+    "title": "Thalak 100",
+    "desc": "A rapid-fire Marathi bulletin presenting 100 top news stories of the day in quick succession, covering politics, sports, entertainment, and more with unmatched speed."
+  },
+  {
+    "start": "04:30",
+    "stop": "04:45",
+    "channel": "NDTVMarathi.in",
+    "channelId": "NDTVMarathi.in",
+    "channelName": "NDTV Marathi",
+    "startTs": 1783053000000,
+    "stopTs": 1783053900000,
+    "title": "Big And Breaking",
+    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+  },
+  {
+    "start": "04:45",
+    "stop": "05:00",
+    "channel": "NDTVMarathi.in",
+    "channelId": "NDTVMarathi.in",
+    "channelName": "NDTV Marathi",
+    "startTs": 1783053900000,
+    "stopTs": 1783054800000,
+    "title": "Mothya Baatmya 50",
+    "desc": "A news bulletin presenting 50 major headlines across politics, society, economy, and global updates, providing comprehensive coverage in a compact, fast-paced format."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:15",
+    "channel": "NDTVMarathi.in",
+    "channelId": "NDTVMarathi.in",
+    "channelName": "NDTV Marathi",
+    "startTs": 1783054800000,
+    "stopTs": 1783055700000,
+    "title": "Gaav Khedyachya Baatmya",
     "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
   }
 ]

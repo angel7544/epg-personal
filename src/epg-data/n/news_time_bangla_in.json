@@ -1,82 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:27",
-    "channel": "NewsTimeBangla.in",
-    "channelId": "NewsTimeBangla.in",
-    "channelName": "News Time Bangla",
-    "startTs": 1782874800000,
-    "stopTs": 1782876420000,
-    "title": "Sports Time",
-    "desc": "The host presents recent sports updates and key moments from various events."
-  },
-  {
-    "start": "03:27",
-    "stop": "03:30",
-    "channel": "NewsTimeBangla.in",
-    "channelId": "NewsTimeBangla.in",
-    "channelName": "News Time Bangla",
-    "startTs": 1782876420000,
-    "stopTs": 1782876600000,
-    "title": "Top Story",
-    "desc": "The host brings critical updates and context on the most important headlines."
-  },
-  {
-    "start": "03:30",
-    "stop": "03:58",
-    "channel": "NewsTimeBangla.in",
-    "channelId": "NewsTimeBangla.in",
-    "channelName": "News Time Bangla",
-    "startTs": 1782876600000,
-    "stopTs": 1782878280000,
-    "title": "The Morning Alert",
-    "desc": "The host presents the latest updates on various pressing issues across the nation."
-  },
-  {
-    "start": "03:57",
-    "stop": "04:27",
-    "channel": "NewsTimeBangla.in",
-    "channelId": "NewsTimeBangla.in",
-    "channelName": "News Time Bangla",
-    "startTs": 1782878220000,
-    "stopTs": 1782880020000,
-    "title": "Teleshopping",
-    "desc": "Famous brands offer a wide range of home-deliverable products for convenience."
-  },
-  {
-    "start": "03:58",
-    "stop": "04:28",
-    "channel": "NewsTimeBangla.in",
-    "channelId": "NewsTimeBangla.in",
-    "channelName": "News Time Bangla",
-    "startTs": 1782878280000,
-    "stopTs": 1782880080000,
-    "title": "Teleshopping",
-    "desc": "The host highlights the features of a variety of products for purchase."
-  },
-  {
-    "start": "04:27",
-    "stop": "04:55",
-    "channel": "NewsTimeBangla.in",
-    "channelId": "NewsTimeBangla.in",
-    "channelName": "News Time Bangla",
-    "startTs": 1782880020000,
-    "stopTs": 1782881700000,
-    "title": "Sangbad Safar",
-    "desc": "Go on a journey through Bengal&apos;s landscape of change with this news feature that captures local stories, real voices, and regional transformations."
-  },
-  {
-    "start": "04:28",
-    "stop": "04:31",
-    "channel": "NewsTimeBangla.in",
-    "channelId": "NewsTimeBangla.in",
-    "channelName": "News Time Bangla",
-    "startTs": 1782880080000,
-    "stopTs": 1782880260000,
-    "title": "Top Story",
-    "desc": "The host brings critical updates and context on the most important headlines."
-  },
-  {
     "start": "04:31",
     "stop": "04:57",
     "channel": "NewsTimeBangla.in",
@@ -86,17 +9,6 @@
     "stopTs": 1782881820000,
     "title": "Samvaad Safar",
     "desc": "The host presents the latest news stories surrounding various issues around the country."
-  },
-  {
-    "start": "04:55",
-    "stop": "04:58",
-    "channel": "NewsTimeBangla.in",
-    "channelId": "NewsTimeBangla.in",
-    "channelName": "News Time Bangla",
-    "startTs": 1782881700000,
-    "stopTs": 1782881880000,
-    "title": "Top Story",
-    "desc": "Stay ahead with top news highlights curated from Bengal and beyond, with analysis and delivery tailored for evening and late-night viewers."
   },
   {
     "start": "04:57",
@@ -2517,5 +2429,49 @@
     "stopTs": 1783051020000,
     "title": "Morning Walk",
     "desc": "The host presents top stories, the latest happenings, and global updates."
+  },
+  {
+    "start": "03:57",
+    "stop": "04:27",
+    "channel": "NewsTimeBangla.in",
+    "channelId": "NewsTimeBangla.in",
+    "channelName": "News Time Bangla",
+    "startTs": 1783051020000,
+    "stopTs": 1783052820000,
+    "title": "Teleshopping",
+    "desc": "Famous brands offer a wide range of home-deliverable products for convenience."
+  },
+  {
+    "start": "04:27",
+    "stop": "04:55",
+    "channel": "NewsTimeBangla.in",
+    "channelId": "NewsTimeBangla.in",
+    "channelName": "News Time Bangla",
+    "startTs": 1783052820000,
+    "stopTs": 1783054500000,
+    "title": "Sangbad Safar",
+    "desc": "Go on a journey through Bengal&apos;s landscape of change with this news feature that captures local stories, real voices, and regional transformations."
+  },
+  {
+    "start": "04:55",
+    "stop": "04:58",
+    "channel": "NewsTimeBangla.in",
+    "channelId": "NewsTimeBangla.in",
+    "channelName": "News Time Bangla",
+    "startTs": 1783054500000,
+    "stopTs": 1783054680000,
+    "title": "Top Story",
+    "desc": "Stay ahead with top news highlights curated from Bengal and beyond, with analysis and delivery tailored for evening and late-night viewers."
+  },
+  {
+    "start": "04:58",
+    "stop": "05:30",
+    "channel": "NewsTimeBangla.in",
+    "channelId": "NewsTimeBangla.in",
+    "channelName": "News Time Bangla",
+    "startTs": 1783054680000,
+    "stopTs": 1783056600000,
+    "title": "Teleshopping",
+    "desc": "Famous brands offer a wide range of home-deliverable products for convenience."
   }
 ]

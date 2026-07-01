@@ -1,38 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "SansadTV1.in",
-    "channelId": "SansadTV1.in",
-    "channelName": "Sansad TV 1",
-    "startTs": 1782874800000,
-    "stopTs": 1782876600000,
-    "title": "Mudda Aapka",
-    "desc": "The host invites experts to participate in a debate on current affairs."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "SansadTV1.in",
-    "channelId": "SansadTV1.in",
-    "channelName": "Sansad TV 1",
-    "startTs": 1782876600000,
-    "stopTs": 1782878400000,
-    "title": "Aapke Saansad",
-    "desc": "The host sheds light on the latest updates about the members of the Parliament."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "SansadTV1.in",
-    "channelId": "SansadTV1.in",
-    "channelName": "Sansad TV 1",
-    "startTs": 1782878400000,
-    "stopTs": 1782880200000,
-    "title": "Perspective",
-    "desc": "."
-  },
-  {
     "start": "04:30",
     "stop": "05:00",
     "channel": "SansadTV1.in",
@@ -42,17 +9,6 @@
     "stopTs": 1782882000000,
     "title": "Documentary",
     "desc": "Bringing the best in television."
-  },
-  {
-    "start": "04:45",
-    "stop": "05:00",
-    "channel": "SansadTV1.in",
-    "channelId": "SansadTV1.in",
-    "channelName": "Sansad TV - 1",
-    "startTs": 1782881100000,
-    "stopTs": 1782882000000,
-    "title": "Documentary",
-    "desc": "CSPOC - Committee System in India"
   },
   {
     "start": "05:00",
@@ -1217,6 +1173,17 @@
     "channelName": "Sansad TV - 1",
     "startTs": 1783049400000,
     "stopTs": 1783053000000,
+    "title": "CSPOC Special",
+    "desc": "Global Journey of Parliamentary Democracy"
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "SansadTV1.in",
+    "channelId": "SansadTV1.in",
+    "channelName": "Sansad TV - 1",
+    "startTs": 1783053000000,
+    "stopTs": 1783056600000,
     "title": "CSPOC Special",
     "desc": "Global Journey of Parliamentary Democracy"
   }

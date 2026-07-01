@@ -1,38 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "BharatExpress.in",
-    "channelId": "BharatExpress.in",
-    "channelName": "Bharat Express",
-    "startTs": 1782874800000,
-    "stopTs": 1782876600000,
-    "title": "Bulletin",
-    "desc": "The host presents latest news highlights and updates from India and around the world."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "BharatExpress.in",
-    "channelId": "BharatExpress.in",
-    "channelName": "Bharat Express",
-    "startTs": 1782876600000,
-    "stopTs": 1782878400000,
-    "title": "Bulletin",
-    "desc": "The host presents latest news highlights and updates from India and around the world."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "BharatExpress.in",
-    "channelId": "BharatExpress.in",
-    "channelName": "Bharat Express",
-    "startTs": 1782878400000,
-    "stopTs": 1782880200000,
-    "title": "Express 100",
-    "desc": "The host sheds light on the top 100 news updates from across the nation and the world."
-  },
-  {
     "start": "04:30",
     "stop": "05:00",
     "channel": "BharatExpress.in",
@@ -1120,5 +1087,38 @@
     "stopTs": 1783051200000,
     "title": "Bulletin",
     "desc": "The anchor offers the latest news, current affairs, and socio-political updates."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "BharatExpress.in",
+    "channelId": "BharatExpress.in",
+    "channelName": "Bharat Express",
+    "startTs": 1783051200000,
+    "stopTs": 1783053000000,
+    "title": "Express 100",
+    "desc": "The anchor provides the latest political, economic, social, and sports updates and stories from around the world."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "BharatExpress.in",
+    "channelId": "BharatExpress.in",
+    "channelName": "Bharat Express",
+    "startTs": 1783053000000,
+    "stopTs": 1783054800000,
+    "title": "Bulletin",
+    "desc": "The anchor offers the latest news, current affairs, and socio-political updates."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "BharatExpress.in",
+    "channelId": "BharatExpress.in",
+    "channelName": "Bharat Express",
+    "startTs": 1783054800000,
+    "stopTs": 1783056600000,
+    "title": "Programe",
+    "desc": "Join the host as they dive into the latest updates on politics, society, economy, and sports, discussing all the recent developments shaping the country."
   }
 ]
