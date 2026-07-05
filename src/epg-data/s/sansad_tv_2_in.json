@@ -1,14 +1,25 @@
 [
   {
     "start": "02:00",
+    "stop": "02:28",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783216800000,
+    "stopTs": 1783218480000,
+    "title": "IDAM",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "02:28",
     "stop": "02:30",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
     "channelName": "Sansad TV 2",
-    "startTs": 1783130400000,
-    "stopTs": 1783132200000,
-    "title": "HVPI Speech",
-    "desc": "The Honourable Vice President of India delivers a speech on matters concerning the citizens."
+    "startTs": 1783218480000,
+    "stopTs": 1783218600000,
+    "title": "Birthday Wish",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "02:30",
@@ -16,813 +27,21 @@
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
     "channelName": "Sansad TV 2",
-    "startTs": 1783132200000,
-    "stopTs": 1783134000000,
-    "title": "Likhawat",
-    "desc": "The host invites a panel of creators and storytellers to talk about their process."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783134000000,
-    "stopTs": 1783135800000,
-    "title": "Perspective",
-    "desc": "The host invites prominent individuals from different fields to discuss their work."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783135800000,
-    "stopTs": 1783137600000,
-    "title": "Interview",
-    "desc": "The host engages global luminaries in discussions on diverse issues."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783137600000,
-    "stopTs": 1783139400000,
-    "title": "Mudda Aapka",
-    "desc": "The host conducts discussions with experts who shed light on important matters."
-  },
-  {
-    "start": "04:28",
-    "stop": "04:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
-    "startTs": 1783139280000,
-    "stopTs": 1783139400000,
-    "title": "Headlines @10:00",
-    "desc": "The host talks about today&apos;s important issues: social, economic, and political problems. They also give updates on what&apos;s happening in the world right now in an easy-to-understand way."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783139400000,
-    "stopTs": 1783141200000,
-    "title": "Documentary",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "04:45",
-    "stop": "05:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
-    "startTs": 1783140300000,
-    "stopTs": 1783141200000,
-    "title": "Yoda Day Special",
-    "desc": "Yoga Day Special - HVPI Yoga - 1"
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783141200000,
-    "stopTs": 1783143000000,
-    "title": "National Security Services",
-    "desc": "The host provides a comprehensive insight into the country&apos;s national security services."
-  },
-  {
-    "start": "05:25",
-    "stop": "05:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
-    "startTs": 1783142700000,
-    "stopTs": 1783143000000,
-    "title": "Vision For Bharat",
-    "desc": "The show gathers knowledgeable experts to share insights. It helps those preparing for the UPSC exam. They gain a better understanding of various topics and issues."
-  },
-  {
-    "start": "05:30",
-    "stop": "05:45",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783143000000,
-    "stopTs": 1783143900000,
-    "title": "Samvaad",
-    "desc": "The host interviews eminent personalities regarding their personal and professional life."
-  },
-  {
-    "start": "05:45",
-    "stop": "06:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783143900000,
-    "stopTs": 1783144800000,
-    "title": "Samvaad",
-    "desc": "The host interviews eminent personalities regarding their personal and professional life."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:15",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783144800000,
-    "stopTs": 1783145700000,
-    "title": "In Depth",
-    "desc": "The host presents the latest updates on a variety of important topics, discussing them in depth."
-  },
-  {
-    "start": "06:15",
-    "stop": "06:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783145700000,
-    "stopTs": 1783146600000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "06:30",
-    "stop": "06:45",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783146600000,
-    "stopTs": 1783147500000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "06:45",
-    "stop": "07:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783147500000,
-    "stopTs": 1783148400000,
-    "title": "Vishesh",
-    "desc": "The host presents the latest news and developments from around the world."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:15",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783148400000,
-    "stopTs": 1783149300000,
-    "title": "Vishesh",
-    "desc": "The host presents the latest news and developments from around the world."
-  },
-  {
-    "start": "07:15",
-    "stop": "07:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783149300000,
-    "stopTs": 1783150200000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783150200000,
-    "stopTs": 1783152000000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783152000000,
-    "stopTs": 1783153800000,
-    "title": "Unique Polling Station",
-    "desc": "The host explores unique polling stations across India and their historic stories."
-  },
-  {
-    "start": "08:28",
-    "stop": "08:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
-    "startTs": 1783153680000,
-    "stopTs": 1783153800000,
-    "title": "Headlines",
-    "desc": "HEADLINES @19:00"
-  },
-  {
-    "start": "08:30",
-    "stop": "08:45",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783153800000,
-    "stopTs": 1783154700000,
-    "title": "In Depth",
-    "desc": "The host presents the latest updates on a variety of important topics, discussing them in depth."
-  },
-  {
-    "start": "08:45",
-    "stop": "09:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783154700000,
-    "stopTs": 1783155600000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:15",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783155600000,
-    "stopTs": 1783156500000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "09:15",
-    "stop": "09:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783156500000,
-    "stopTs": 1783157400000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "09:25",
-    "stop": "09:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
-    "startTs": 1783157100000,
-    "stopTs": 1783157400000,
-    "title": "Vision For Bharat",
-    "desc": "The show gathers knowledgeable experts to share insights. It helps those preparing for the UPSC exam. They gain a better understanding of various topics and issues."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783157400000,
-    "stopTs": 1783159200000,
-    "title": "National Security Services",
-    "desc": "The host provides a comprehensive insight into the country&apos;s national security services."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:15",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783159200000,
-    "stopTs": 1783160100000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "10:15",
-    "stop": "10:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783160100000,
-    "stopTs": 1783161000000,
-    "title": "In Depth",
-    "desc": "The host presents the latest updates on a variety of important topics, discussing them in depth."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783161000000,
-    "stopTs": 1783162800000,
-    "title": "Likhawat",
-    "desc": "The host invites a panel of creators and storytellers to talk about their process."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783162800000,
-    "stopTs": 1783164600000,
-    "title": "In Depth",
-    "desc": "The host presents the latest updates on a variety of important topics, discussing them in depth."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783164600000,
-    "stopTs": 1783166400000,
-    "title": "Samvaad",
-    "desc": "The host interviews eminent personalities regarding their personal and professional life."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:15",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783166400000,
-    "stopTs": 1783167300000,
-    "title": "In Depth",
-    "desc": "The host presents the latest updates on a variety of important topics, discussing them in depth."
-  },
-  {
-    "start": "12:15",
-    "stop": "12:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783167300000,
-    "stopTs": 1783168200000,
-    "title": "National Security Services",
-    "desc": "The host provides a comprehensive insight into the country&apos;s national security services."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783168200000,
-    "stopTs": 1783170000000,
-    "title": "Documentary",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783170000000,
-    "stopTs": 1783171800000,
-    "title": "Seeking Direct Answers",
-    "desc": "The host invites renowned personalities to seek clear answers on several issues."
-  },
-  {
-    "start": "13:28",
-    "stop": "13:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
-    "startTs": 1783171680000,
-    "stopTs": 1783171800000,
-    "title": "Headlines",
-    "desc": "HEADLINES @19:00"
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783171800000,
-    "stopTs": 1783173600000,
-    "title": "Documentary",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "13:55",
-    "stop": "14:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
-    "startTs": 1783173300000,
-    "stopTs": 1783173600000,
-    "title": "Vision For Bharat",
-    "desc": "The show gathers knowledgeable experts to share insights. It helps those preparing for the UPSC exam. They gain a better understanding of various topics and issues."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783173600000,
-    "stopTs": 1783175400000,
-    "title": "In Depth",
-    "desc": "The host presents the latest updates on a variety of important topics, discussing them in depth."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783175400000,
-    "stopTs": 1783177200000,
-    "title": "National Security Services",
-    "desc": "The host provides a comprehensive insight into the country&apos;s national security services."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783177200000,
-    "stopTs": 1783179000000,
-    "title": "Unique Polling",
-    "desc": "A detailed report of the problems faced by the Election Commission of India."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783179000000,
-    "stopTs": 1783180800000,
-    "title": "National Security Services",
-    "desc": "The host provides a comprehensive insight into the country&apos;s national security services."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:15",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783180800000,
-    "stopTs": 1783181700000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "16:15",
-    "stop": "16:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783181700000,
-    "stopTs": 1783182600000,
-    "title": "In Depth",
-    "desc": "The host presents the latest updates on a variety of important topics, discussing them in depth."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783182600000,
-    "stopTs": 1783184400000,
-    "title": "Documentary",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:15",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783184400000,
-    "stopTs": 1783185300000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "17:15",
-    "stop": "17:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783185300000,
-    "stopTs": 1783186200000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783186200000,
-    "stopTs": 1783188000000,
-    "title": "Samvaad",
-    "desc": "The host interviews eminent personalities regarding their personal and professional life."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783188000000,
-    "stopTs": 1783189800000,
-    "title": "Likhawat",
-    "desc": "The host invites a panel of creators and storytellers to talk about their process."
-  },
-  {
-    "start": "18:30",
-    "stop": "18:45",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783189800000,
-    "stopTs": 1783190700000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "18:45",
-    "stop": "19:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783190700000,
-    "stopTs": 1783191600000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783191600000,
-    "stopTs": 1783193400000,
-    "title": "Documentary",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783193400000,
-    "stopTs": 1783195200000,
-    "title": "Likhawat",
-    "desc": "The host invites a panel of creators and storytellers to talk about their process."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783195200000,
-    "stopTs": 1783197000000,
-    "title": "National Security Services",
-    "desc": "The host provides a comprehensive insight into the country&apos;s national security services."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783197000000,
-    "stopTs": 1783198800000,
-    "title": "Unique Polling Station",
-    "desc": "The host explores unique polling stations across India and their historic stories."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783198800000,
-    "stopTs": 1783200600000,
-    "title": "Documentary",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "21:30",
-    "stop": "21:45",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783200600000,
-    "stopTs": 1783201500000,
-    "title": "National Security Services",
-    "desc": "The host provides a comprehensive insight into the country&apos;s national security services."
-  },
-  {
-    "start": "21:45",
-    "stop": "22:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783201500000,
-    "stopTs": 1783202400000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:15",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783202400000,
-    "stopTs": 1783203300000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "22:15",
-    "stop": "22:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783203300000,
-    "stopTs": 1783204200000,
-    "title": "In Depth",
-    "desc": "The host presents the latest updates on a variety of important topics, discussing them in depth."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783204200000,
-    "stopTs": 1783206000000,
-    "title": "Likhawat",
-    "desc": "The host invites a panel of creators and storytellers to talk about their process."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783206000000,
-    "stopTs": 1783207800000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783207800000,
-    "stopTs": 1783209600000,
-    "title": "Documentary",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783209600000,
-    "stopTs": 1783211400000,
-    "title": "National Security Services",
-    "desc": "The host provides a comprehensive insight into the country&apos;s national security services."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783211400000,
-    "stopTs": 1783213200000,
-    "title": "Ram Aarti",
-    "desc": "A compilation of melodious songs sung in praise of Lord Rama is played."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783213200000,
-    "stopTs": 1783215000000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783215000000,
-    "stopTs": 1783216800000,
-    "title": "Hello Zindagi",
-    "desc": "The host leads discussions on Ayurveda, yoga and holistic wellness practices."
-  },
-  {
-    "start": "01:45",
-    "stop": "01:55",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
-    "startTs": 1783215900000,
-    "stopTs": 1783216500000,
-    "title": "Kalpviraksh",
-    "desc": "Gurukul And Guru Tradition"
-  },
-  {
-    "start": "01:55",
-    "stop": "02:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
-    "startTs": 1783216500000,
-    "stopTs": 1783216800000,
-    "title": "Vision For Bharat",
-    "desc": "The show gathers knowledgeable experts to share insights. It helps those preparing for the UPSC exam. They gain a better understanding of various topics and issues."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:15",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783216800000,
-    "stopTs": 1783217700000,
-    "title": "Vishesh",
-    "desc": "The host presents the latest news and developments from around the world."
-  },
-  {
-    "start": "02:15",
-    "stop": "02:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783217700000,
-    "stopTs": 1783218600000,
-    "title": "In Depth",
-    "desc": "The host presents the latest updates on a variety of important topics, discussing them in depth."
-  },
-  {
-    "start": "02:28",
-    "stop": "02:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
-    "startTs": 1783218480000,
-    "stopTs": 1783218600000,
-    "title": "Birthday Wishes",
-    "desc": "Birthday Wishes - Shri Parimal Suklabaidya, Bharatiya Janata Party BJP, Silchar Assam"
-  },
-  {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
     "startTs": 1783218600000,
-    "stopTs": 1783222200000,
-    "title": "Surajya Sanhita",
-    "desc": "The filmmaker traces the history of governance from the Vedic age to the age of Vardhanas."
+    "stopTs": 1783220400000,
+    "title": "The Food Show",
+    "desc": "The presenter showcases nutritious eating habits and time-honoured culinary techniques."
   },
   {
     "start": "03:00",
     "stop": "03:30",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783220400000,
     "stopTs": 1783222200000,
-    "title": "Sahitya Sansaar",
-    "desc": "Malti Joshi"
+    "title": "Mudda Aapka",
+    "desc": "The host invites experts to participate in a debate on current affairs."
   },
   {
     "start": "03:30",
@@ -832,8 +51,8 @@
     "channelName": "Sansad TV 2",
     "startTs": 1783222200000,
     "stopTs": 1783224000000,
-    "title": "National Security Services",
-    "desc": "The host provides a comprehensive insight into the country&apos;s national security services."
+    "title": "Aapke Saansad",
+    "desc": "The host sheds light on the latest updates about the members of the Parliament."
   },
   {
     "start": "04:00",
@@ -843,8 +62,8 @@
     "channelName": "Sansad TV 2",
     "startTs": 1783224000000,
     "stopTs": 1783225800000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
+    "title": "Perspective",
+    "desc": "The host presents some of the latest news stories from all around the world."
   },
   {
     "start": "04:28",
@@ -865,30 +84,19 @@
     "channelName": "Sansad TV 2",
     "startTs": 1783225800000,
     "stopTs": 1783227600000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
+    "title": "Documentary",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "05:00",
-    "stop": "05:15",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783227600000,
-    "stopTs": 1783228500000,
-    "title": "Vishesh",
-    "desc": "The host presents the latest news and developments from around the world."
-  },
-  {
-    "start": "05:15",
     "stop": "05:30",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
     "channelName": "Sansad TV 2",
-    "startTs": 1783228500000,
+    "startTs": 1783227600000,
     "stopTs": 1783229400000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
+    "title": "Aapke Saansad",
+    "desc": "The host sheds light on the latest updates about the members of the Parliament."
   },
   {
     "start": "05:30",
@@ -898,8 +106,8 @@
     "channelName": "Sansad TV 2",
     "startTs": 1783229400000,
     "stopTs": 1783231200000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
+    "title": "Vishesh",
+    "desc": "The host presents the latest news and developments from around the world."
   },
   {
     "start": "05:50",
@@ -914,69 +122,47 @@
   },
   {
     "start": "06:00",
-    "stop": "06:30",
+    "stop": "06:28",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
     "channelName": "Sansad TV 2",
     "startTs": 1783231200000,
-    "stopTs": 1783233000000,
-    "title": "National Security Services",
-    "desc": "The host provides a comprehensive insight into the country&apos;s national security services."
+    "stopTs": 1783232880000,
+    "title": "Raag Neeti",
+    "desc": "Distinguished leaders and legendary creative professionals discuss their unique journeys."
   },
   {
     "start": "06:28",
     "stop": "06:30",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783232880000,
     "stopTs": 1783233000000,
-    "title": "Birthday Wishes",
-    "desc": "Birthday Wishes - Shri Parimal Suklabaidya, Bharatiya Janata Party BJP, Silchar Assam"
+    "title": "Birthday Wish",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "06:30",
-    "stop": "06:45",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783233000000,
-    "stopTs": 1783233900000,
-    "title": "Vishesh",
-    "desc": "The host presents the latest news and developments from around the world."
-  },
-  {
-    "start": "06:45",
     "stop": "07:00",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
     "channelName": "Sansad TV 2",
-    "startTs": 1783233900000,
+    "startTs": 1783233000000,
     "stopTs": 1783234800000,
-    "title": "National Security Services",
-    "desc": "The host provides a comprehensive insight into the country&apos;s national security services."
+    "title": "Saksham Bharat",
+    "desc": "The host invites guests and discusses some of the latest news stories."
   },
   {
     "start": "07:00",
-    "stop": "07:15",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783234800000,
-    "stopTs": 1783235700000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "07:15",
     "stop": "07:30",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
     "channelName": "Sansad TV 2",
-    "startTs": 1783235700000,
+    "startTs": 1783234800000,
     "stopTs": 1783236600000,
     "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
+    "desc": "The host speaks with experts regarding the latest news stories in the country."
   },
   {
     "start": "07:30",
@@ -986,8 +172,8 @@
     "channelName": "Sansad TV 2",
     "startTs": 1783236600000,
     "stopTs": 1783238400000,
-    "title": "Samvaad",
-    "desc": "The host interviews eminent personalities regarding their personal and professional life."
+    "title": "History Behind The Headlines",
+    "desc": "The host uncovers the hidden stories and roots behind history&apos;s pivotal moments."
   },
   {
     "start": "08:00",
@@ -997,8 +183,8 @@
     "channelName": "Sansad TV 2",
     "startTs": 1783238400000,
     "stopTs": 1783240200000,
-    "title": "Likhawat",
-    "desc": "The host invites a panel of creators and storytellers to talk about their process."
+    "title": "Documentary",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "08:28",
@@ -1013,25 +199,25 @@
   },
   {
     "start": "08:30",
-    "stop": "09:00",
+    "stop": "09:30",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
     "channelName": "Sansad TV 2",
     "startTs": 1783240200000,
-    "stopTs": 1783242000000,
-    "title": "Perspective",
-    "desc": "The host invites prominent individuals from different fields to discuss their work."
+    "stopTs": 1783243800000,
+    "title": "Apna Aasmaa",
+    "desc": "The host invites prominent female personalities and engages in a conversation with them."
   },
   {
     "start": "09:00",
     "stop": "09:30",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
+    "channelName": "Sansad TV - 2",
     "startTs": 1783242000000,
     "stopTs": 1783243800000,
-    "title": "National Security Services",
-    "desc": "The host provides a comprehensive insight into the country&apos;s national security services."
+    "title": "Viksit Bharat @2047",
+    "desc": "Towards a Healthy and Developed India"
   },
   {
     "start": "09:30",
@@ -1041,8 +227,8 @@
     "channelName": "Sansad TV 2",
     "startTs": 1783243800000,
     "stopTs": 1783245600000,
-    "title": "Samvaad",
-    "desc": "The host interviews eminent personalities regarding their personal and professional life."
+    "title": "Perspective",
+    "desc": "The host presents some of the latest news stories from all around the world."
   },
   {
     "start": "10:00",
@@ -1063,30 +249,19 @@
     "channelName": "Sansad TV 2",
     "startTs": 1783247400000,
     "stopTs": 1783249200000,
-    "title": "Samvaad",
-    "desc": "The host interviews eminent personalities regarding their personal and professional life."
+    "title": "Vishesh",
+    "desc": "The host presents the latest news and developments from around the world."
   },
   {
     "start": "11:00",
-    "stop": "11:15",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783249200000,
-    "stopTs": 1783250100000,
-    "title": "In Depth",
-    "desc": "The host presents the latest updates on a variety of important topics, discussing them in depth."
-  },
-  {
-    "start": "11:15",
     "stop": "11:30",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
     "channelName": "Sansad TV 2",
-    "startTs": 1783250100000,
+    "startTs": 1783249200000,
     "stopTs": 1783251000000,
-    "title": "Vishesh",
-    "desc": "The host presents the latest news and developments from around the world."
+    "title": "Aapke Saansad",
+    "desc": "The host sheds light on the latest updates about the members of the Parliament."
   },
   {
     "start": "11:30",
@@ -1096,8 +271,8 @@
     "channelName": "Sansad TV 2",
     "startTs": 1783251000000,
     "stopTs": 1783252800000,
-    "title": "Samvaad",
-    "desc": "The host interviews eminent personalities regarding their personal and professional life."
+    "title": "Yoddha",
+    "desc": "The host shares inspiring stories of bravery and dedication from the Indian Armed Forces."
   },
   {
     "start": "12:00",
@@ -1107,41 +282,30 @@
     "channelName": "Sansad TV 2",
     "startTs": 1783252800000,
     "stopTs": 1783254600000,
-    "title": "Documentary",
-    "desc": "Bringing the best in television."
+    "title": "Explained AI",
+    "desc": "The host engages in discussions with experts about a wide variety of topics related to AI."
   },
   {
     "start": "12:30",
-    "stop": "12:50",
+    "stop": "13:00",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
     "channelName": "Sansad TV 2",
     "startTs": 1783254600000,
-    "stopTs": 1783255800000,
-    "title": "In Depth",
-    "desc": "The host presents the latest updates on a variety of important topics, discussing them in depth."
-  },
-  {
-    "start": "12:50",
-    "stop": "13:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783255800000,
-    "stopTs": 1783258200000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
+    "stopTs": 1783256400000,
+    "title": "Raag Neeti",
+    "desc": "Distinguished leaders and legendary creative professionals discuss their unique journeys."
   },
   {
     "start": "13:00",
     "stop": "13:30",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783256400000,
     "stopTs": 1783258200000,
     "title": "Sanskriti Yatra",
-    "desc": "Three Special Events of IGNCA | Fireflies of Voices | Stars Shine | Cultural Jammu and Kashmir"
+    "desc": "Exploring India&apos;s rich tapestry, the host showcases its art, philosophy, and traditions."
   },
   {
     "start": "13:28",
@@ -1156,58 +320,36 @@
   },
   {
     "start": "13:30",
-    "stop": "13:45",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783258200000,
-    "stopTs": 1783259100000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "13:45",
     "stop": "14:00",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
     "channelName": "Sansad TV 2",
-    "startTs": 1783259100000,
+    "startTs": 1783258200000,
     "stopTs": 1783260000000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
+    "title": "Documentary",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "14:00",
-    "stop": "14:15",
+    "stop": "14:28",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
     "channelName": "Sansad TV 2",
     "startTs": 1783260000000,
-    "stopTs": 1783260900000,
+    "stopTs": 1783261680000,
     "title": "In Depth",
     "desc": "The host presents the latest updates on a variety of important topics, discussing them in depth."
-  },
-  {
-    "start": "14:15",
-    "stop": "14:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783260900000,
-    "stopTs": 1783261800000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
   },
   {
     "start": "14:28",
     "stop": "14:30",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783261680000,
     "stopTs": 1783261800000,
-    "title": "Birthday Wishes",
-    "desc": "Birthday Wishes - Shri Parimal Suklabaidya, Bharatiya Janata Party BJP, Silchar Assam"
+    "title": "Birthday Wish",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "14:30",
@@ -1228,8 +370,8 @@
     "channelName": "Sansad TV 2",
     "startTs": 1783263600000,
     "stopTs": 1783265400000,
-    "title": "Documentary",
-    "desc": "Bringing the best in television."
+    "title": "Smart Kheti",
+    "desc": "The host sheds light on innovative methods practised by farmers to maintain crops."
   },
   {
     "start": "15:30",
@@ -1239,30 +381,19 @@
     "channelName": "Sansad TV 2",
     "startTs": 1783265400000,
     "stopTs": 1783267200000,
-    "title": "National Security Services",
-    "desc": "The host provides a comprehensive insight into the country&apos;s national security services."
+    "title": "Bharat Ke Padma",
+    "desc": "."
   },
   {
     "start": "16:00",
-    "stop": "16:15",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2",
-    "startTs": 1783267200000,
-    "stopTs": 1783268100000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
-  },
-  {
-    "start": "16:15",
     "stop": "16:30",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
     "channelName": "Sansad TV 2",
-    "startTs": 1783268100000,
+    "startTs": 1783267200000,
     "stopTs": 1783269000000,
-    "title": "Samvaad",
-    "desc": "The host interviews eminent personalities regarding their personal and professional life."
+    "title": "Inderdhanushiye Sanskriti",
+    "desc": "The host offers an in-depth insight into India&apos;s rich cultural heritage."
   },
   {
     "start": "16:20",
@@ -1283,8 +414,8 @@
     "channelName": "Sansad TV 2",
     "startTs": 1783269000000,
     "stopTs": 1783270800000,
-    "title": "Unique Polling Station",
-    "desc": "The host explores unique polling stations across India and their historic stories."
+    "title": "Samvaad",
+    "desc": "The host interviews eminent personalities regarding their personal and professional life."
   },
   {
     "start": "17:00",
@@ -1294,8 +425,8 @@
     "channelName": "Sansad TV 2",
     "startTs": 1783270800000,
     "stopTs": 1783272600000,
-    "title": "Sansad TV Special",
-    "desc": "Politician Amit Shah talks about the challenges he faced in 20 years as a home minister."
+    "title": "Sarokaar",
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "17:30",
@@ -1316,63 +447,63 @@
     "channelName": "Sansad TV 2",
     "startTs": 1783274400000,
     "stopTs": 1783276200000,
-    "title": "Likhawat",
-    "desc": "The host invites a panel of creators and storytellers to talk about their process."
+    "title": "Insight",
+    "desc": "The host, along with a panel of experts, discusses issues about the current affairs of the nation."
   },
   {
     "start": "18:30",
     "stop": "19:00",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783276200000,
     "stopTs": 1783278000000,
-    "title": "Samvidhaan Aur Sansodhan",
-    "desc": "States Reorganisation Act 1956"
+    "title": "Perspective",
+    "desc": "The host presents some of the latest news stories from all around the world."
   },
   {
     "start": "19:00",
     "stop": "19:30",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783278000000,
     "stopTs": 1783279800000,
-    "title": "Explained Ai",
-    "desc": "Transforming India with AI"
+    "title": "Viksit Bharat @2047",
+    "desc": "The presenter provided a detailed report on the developmental and economic plans for 2047."
   },
   {
     "start": "19:30",
     "stop": "20:00",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783279800000,
     "stopTs": 1783281600000,
-    "title": "Hum Bharat Ke Log",
-    "desc": "The Journey of the Indian Constitution"
+    "title": "Explained AI",
+    "desc": "The host engages in discussions with experts about a wide variety of topics related to AI."
   },
   {
     "start": "20:00",
     "stop": "20:30",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783281600000,
     "stopTs": 1783283400000,
-    "title": "Aapke Saansad",
-    "desc": "Dr. Ashok Kumar Mittal, Member of Parliament Rajya Sabha"
+    "title": "Documentary",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "20:30",
-    "stop": "21:00",
+    "stop": "21:30",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783283400000,
-    "stopTs": 1783285200000,
-    "title": "Saksham Bharat",
-    "desc": "Indian Navy - Year Ender 2025"
+    "stopTs": 1783287000000,
+    "title": "Apna Aasmaa",
+    "desc": "The host invites prominent female personalities and engages in a conversation with them."
   },
   {
     "start": "21:00",
@@ -1390,99 +521,99 @@
     "stop": "22:00",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783287000000,
     "stopTs": 1783288800000,
-    "title": "Sarokaar",
-    "desc": "Work-Life Balance"
+    "title": "Samvaad",
+    "desc": "The host interviews eminent personalities regarding their personal and professional life."
   },
   {
     "start": "22:00",
     "stop": "22:30",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783288800000,
     "stopTs": 1783290600000,
-    "title": "Question Hour Plus",
-    "desc": "Welfare and Development of Tribal Communities"
+    "title": "Ulgulan Ki Pukaar",
+    "desc": "."
   },
   {
     "start": "22:30",
     "stop": "23:00",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783290600000,
     "stopTs": 1783292400000,
-    "title": "Sanskriti Yatra",
-    "desc": "Bhil Tribal Paintings | Vidushi Savita Devi | Jageshwar, Uttarakhand | Episode 72"
+    "title": "Raag Neeti",
+    "desc": "Distinguished leaders and legendary creative professionals discuss their unique journeys."
   },
   {
     "start": "23:00",
     "stop": "23:30",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783292400000,
     "stopTs": 1783294200000,
-    "title": "Documentary",
-    "desc": "Soul of the Mountain"
+    "title": "Sanskriti Yatra",
+    "desc": "Exploring India&apos;s rich tapestry, the host showcases its art, philosophy, and traditions."
   },
   {
     "start": "23:30",
     "stop": "00:00",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783294200000,
     "stopTs": 1783296000000,
     "title": "Abhivyakti",
-    "desc": "Chhau Dancer and Guru Shashadhar Acharya"
+    "desc": "The host interacts with renowned personalities from the field of art, dance and music."
   },
   {
     "start": "00:00",
     "stop": "00:30",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783296000000,
     "stopTs": 1783297800000,
-    "title": "Ekam Sat",
-    "desc": "Message of the Gita - Dr. Karan Singh"
+    "title": "Nature connection",
+    "desc": "The host interacts with experts to discuss environmental issues and raise awareness."
   },
   {
     "start": "00:30",
     "stop": "01:00",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783297800000,
     "stopTs": 1783299600000,
-    "title": "Kalpviraksh",
-    "desc": "Gurukul and the Guru Tradition"
+    "title": "Ekam Sat",
+    "desc": "Dr. Karan Singh explores religious unity across faiths through interreligious dialogue."
   },
   {
     "start": "01:00",
     "stop": "01:30",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783299600000,
     "stopTs": 1783301400000,
     "title": "Documentary",
-    "desc": "Ujjain - The Abode of Mahakaal"
+    "desc": "Bringing the best in television."
   },
   {
     "start": "01:30",
     "stop": "02:00",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783301400000,
     "stopTs": 1783303200000,
     "title": "Yog Se Nirog",
-    "desc": "Diabetes"
+    "desc": "Experts provide suggestions regarding how yoga can help one lead a healthy life."
   },
   {
     "start": "01:55",
@@ -1500,11 +631,605 @@
     "stop": "02:28",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2",
     "startTs": 1783303200000,
     "stopTs": 1783304880000,
     "title": "Sanskriti Yatra",
-    "desc": "Three Special Events of IGNCA | Fireflies of Voices | Stars Shine | Cultural Jammu and Kashmir"
+    "desc": "Exploring India&apos;s rich tapestry, the host showcases its art, philosophy, and traditions."
+  },
+  {
+    "start": "02:28",
+    "stop": "02:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783304880000,
+    "stopTs": 1783305000000,
+    "title": "Birthday Wish",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783305000000,
+    "stopTs": 1783306800000,
+    "title": "Suprabhat",
+    "desc": "The host covers daily social, economic and political issues, updating on current events."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783306800000,
+    "stopTs": 1783308600000,
+    "title": "Inderdhanushiye Sanskriti",
+    "desc": "The host offers an in-depth insight into India&apos;s rich cultural heritage."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783308600000,
+    "stopTs": 1783310400000,
+    "title": "History Behind The Headlines",
+    "desc": "The host uncovers the hidden stories and roots behind history&apos;s pivotal moments."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783310400000,
+    "stopTs": 1783312200000,
+    "title": "Saksham Bharat",
+    "desc": "The host invites guests and discusses some of the latest news stories."
+  },
+  {
+    "start": "04:28",
+    "stop": "04:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783312080000,
+    "stopTs": 1783312200000,
+    "title": "Headlines",
+    "desc": "Headlines @10:00"
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783312200000,
+    "stopTs": 1783314000000,
+    "title": "Documentary",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783314000000,
+    "stopTs": 1783315800000,
+    "title": "Documentary",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783315800000,
+    "stopTs": 1783317600000,
+    "title": "Aapka Kanoon",
+    "desc": "Legal experts discuss issues related to the rights of citizens and Indian justice system."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:28",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783317600000,
+    "stopTs": 1783319280000,
+    "title": "In Depth",
+    "desc": "The host presents the latest updates on a variety of important topics, discussing them in depth."
+  },
+  {
+    "start": "06:28",
+    "stop": "06:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783319280000,
+    "stopTs": 1783319400000,
+    "title": "Birthday Wish",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783319400000,
+    "stopTs": 1783321200000,
+    "title": "Update @ 12",
+    "desc": "The host presents the latest updates pertaining to the top stories and current affairs of the day."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783321200000,
+    "stopTs": 1783323000000,
+    "title": "Documentary",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783323000000,
+    "stopTs": 1783324800000,
+    "title": "Aapke Saansad",
+    "desc": "The host sheds light on the latest updates about the members of the Parliament."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783324800000,
+    "stopTs": 1783326600000,
+    "title": "Documentary",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783326600000,
+    "stopTs": 1783328400000,
+    "title": "Mudda Aapka",
+    "desc": "The host invites experts to participate in a debate on current affairs."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783328400000,
+    "stopTs": 1783330200000,
+    "title": "Bharat Ke Padma",
+    "desc": "."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783330200000,
+    "stopTs": 1783332000000,
+    "title": "Samvaad",
+    "desc": "The host interviews eminent personalities regarding their personal and professional life."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783332000000,
+    "stopTs": 1783333800000,
+    "title": "Documentary",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783333800000,
+    "stopTs": 1783335600000,
+    "title": "Saksham Bharat",
+    "desc": "The host invites guests and discusses some of the latest news stories."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783335600000,
+    "stopTs": 1783337400000,
+    "title": "Documentary",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783337400000,
+    "stopTs": 1783339200000,
+    "title": "Aayushmaan Bhav",
+    "desc": "The host invites a panel of health experts who discuss various ailments."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783339200000,
+    "stopTs": 1783341000000,
+    "title": "Nature connection",
+    "desc": "The host interacts with experts to discuss environmental issues and raise awareness."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783341000000,
+    "stopTs": 1783344600000,
+    "title": "Apna Aasmaa",
+    "desc": "The host invites prominent female personalities and engages in a conversation with them."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783342800000,
+    "stopTs": 1783344600000,
+    "title": "Documentary",
+    "desc": "Ujjain - The Abode of Mahakaal"
+  },
+  {
+    "start": "13:28",
+    "stop": "13:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783344480000,
+    "stopTs": 1783344600000,
+    "title": "Headlines",
+    "desc": "Headlines @10:00"
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783344600000,
+    "stopTs": 1783346400000,
+    "title": "Documentary",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:28",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783346400000,
+    "stopTs": 1783348080000,
+    "title": "Insight",
+    "desc": "The host, along with a panel of experts, discusses issues about the current affairs of the nation."
+  },
+  {
+    "start": "14:28",
+    "stop": "14:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783348080000,
+    "stopTs": 1783348200000,
+    "title": "Birthday Wish",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783348200000,
+    "stopTs": 1783350000000,
+    "title": "Aaj Ki Khaber",
+    "desc": "The host presents a detailed report on the latest news and developments."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783350000000,
+    "stopTs": 1783351800000,
+    "title": "Mudda Aapka",
+    "desc": "The host invites experts to participate in a debate on current affairs."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783351800000,
+    "stopTs": 1783353600000,
+    "title": "Bharat Ke Padma",
+    "desc": "."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783353600000,
+    "stopTs": 1783355400000,
+    "title": "Perspective",
+    "desc": "The host presents some of the latest news stories from all around the world."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783355400000,
+    "stopTs": 1783357200000,
+    "title": "Sports Dugout",
+    "desc": "The host presents the latest news and analysis from the world of sports."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783357200000,
+    "stopTs": 1783359000000,
+    "title": "Documentary",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783359000000,
+    "stopTs": 1783360800000,
+    "title": "Documentary",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "18:00",
+    "stop": "00:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV 2",
+    "startTs": 1783360800000,
+    "stopTs": 1783384200000,
+    "title": "Aapke Saansad",
+    "desc": "The host sheds light on the latest updates about the members of the Parliament."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783362600000,
+    "stopTs": 1783364400000,
+    "title": "Sansad Tv Special",
+    "desc": "75 Years of Constitutional Journey 1951-1970"
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783364400000,
+    "stopTs": 1783366200000,
+    "title": "Question Hour Plus",
+    "desc": "Welfare and Development of Tribal Communities"
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783366200000,
+    "stopTs": 1783368000000,
+    "title": "Hum Bharat Ke Log",
+    "desc": "The Journey of the Indian Constitution"
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783368000000,
+    "stopTs": 1783369800000,
+    "title": "Aapke Saansad",
+    "desc": "Dr. Ashok Kumar Mittal, Member of Parliament Rajya Sabha"
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783369800000,
+    "stopTs": 1783371600000,
+    "title": "Mudda Aapka",
+    "desc": "AIPOC Lucknow"
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783371600000,
+    "stopTs": 1783373400000,
+    "title": "Sansad Tv Special",
+    "desc": "75 Years of Constitutional Journey 1951-1970"
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783373400000,
+    "stopTs": 1783375200000,
+    "title": "Sarokaar",
+    "desc": "Digital Arrest"
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783375200000,
+    "stopTs": 1783377000000,
+    "title": "Insight",
+    "desc": "Maharashtra Municipal Election Results - Indications for State Politics"
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783377000000,
+    "stopTs": 1783378800000,
+    "title": "Sanskriti Yatra",
+    "desc": "Kathak Dancer &apos;Padma Shri&apos; Damayanti Joshi - Fragrance of the Soil, Kathautia, Bihar"
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783378800000,
+    "stopTs": 1783380600000,
+    "title": "Documentary",
+    "desc": "Soul of the Mountain"
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783380600000,
+    "stopTs": 1783382400000,
+    "title": "Abhivyakti",
+    "desc": "Pandit Vishwamohan Bhatt, Creator of the Mohan Veena and Padma Awardee."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783382400000,
+    "stopTs": 1783384200000,
+    "title": "Ekam Sat",
+    "desc": "Upanishad Message - Dr. Karan Singh"
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783384200000,
+    "stopTs": 1783386000000,
+    "title": "Kalpviraksh",
+    "desc": "Essence of the Gita"
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783386000000,
+    "stopTs": 1783387800000,
+    "title": "Nature And You",
+    "desc": "Migratory Birds"
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783387800000,
+    "stopTs": 1783389600000,
+    "title": "Yog Se Nirog",
+    "desc": "Yoga for Thyroid and Sinus Problems"
+  },
+  {
+    "start": "01:55",
+    "stop": "02:00",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783389300000,
+    "stopTs": 1783389600000,
+    "title": "Vision For Bharat",
+    "desc": "An insightful continuation highlighting key developmental plans and initiatives that aim to propel India toward sustainable and inclusive growth in the coming years."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:28",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783389600000,
+    "stopTs": 1783391280000,
+    "title": "Sanskriti Yatra",
+    "desc": "Bhil Tribal Paintings | Vidushi Savita Devi | Jageshwar, Uttarakhand | Episode 72"
   },
   {
     "start": "02:28",
@@ -1512,8 +1237,8 @@
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
     "channelName": "Sansad TV - 2",
-    "startTs": 1783304880000,
-    "stopTs": 1783305000000,
+    "startTs": 1783391280000,
+    "stopTs": 1783391400000,
     "title": "Birthday Wishes",
     "desc": "Birthday Wishes - Shri Parimal Suklabaidya, Bharatiya Janata Party BJP, Silchar Assam"
   },
@@ -1523,9 +1248,20 @@
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
     "channelName": "Sansad TV - 2",
-    "startTs": 1783305000000,
-    "stopTs": 1783306800000,
+    "startTs": 1783391400000,
+    "stopTs": 1783393200000,
     "title": "Suprabhat",
-    "desc": "SUPRABHAT - The Morning Show Fresh"
+    "desc": "SUPRABHAT - The Morning Show"
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1783393200000,
+    "stopTs": 1783395000000,
+    "title": "Mudda Aapka",
+    "desc": "AIPOC Lucknow"
   }
 ]
