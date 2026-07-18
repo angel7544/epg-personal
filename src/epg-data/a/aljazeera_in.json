@@ -1,12 +1,23 @@
 [
   {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "ALJAZEERA.in",
+    "channelId": "ALJAZEERA.in",
+    "channelName": "ALJAZEERA",
+    "startTs": 1784338200000,
+    "stopTs": 1784340000000,
+    "title": "101 East",
+    "desc": "101 East investigates the supply chain behind India&apos;s booming salt industry."
+  },
+  {
     "start": "02:00",
     "stop": "03:00",
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784253600000,
-    "stopTs": 1784257200000,
+    "startTs": 1784340000000,
+    "stopTs": 1784343600000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   },
@@ -16,32 +27,21 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784257200000,
-    "stopTs": 1784260800000,
+    "startTs": 1784343600000,
+    "stopTs": 1784347200000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   },
   {
     "start": "04:00",
-    "stop": "04:30",
-    "channel": "ALJAZEERA.in",
-    "channelId": "ALJAZEERA.in",
-    "channelName": "ALJAZEERA",
-    "startTs": 1784260800000,
-    "stopTs": 1784262600000,
-    "title": "News",
-    "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
-  },
-  {
-    "start": "04:30",
     "stop": "05:00",
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784262600000,
-    "stopTs": 1784264400000,
-    "title": "Witness",
-    "desc": "As Mexico co-hosts the World Cup, a mother confronts gender violence and seeks safety for her daughter through football."
+    "startTs": 1784347200000,
+    "stopTs": 1784350800000,
+    "title": "A Game of Double Standards",
+    "desc": "Qatar 2022 promised a World Cup like no other, but did scrutiny of the host country expose genuine abuses or simply global football&apos;s double standards?"
   },
   {
     "start": "05:00",
@@ -49,8 +49,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784264400000,
-    "stopTs": 1784266200000,
+    "startTs": 1784350800000,
+    "stopTs": 1784352600000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -60,8 +60,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784266200000,
-    "stopTs": 1784268000000,
+    "startTs": 1784352600000,
+    "stopTs": 1784354400000,
     "title": "Inside Story",
     "desc": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond."
   },
@@ -71,8 +71,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784268000000,
-    "stopTs": 1784269800000,
+    "startTs": 1784354400000,
+    "stopTs": 1784356200000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -82,10 +82,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784269800000,
-    "stopTs": 1784271600000,
-    "title": "Apocalypse Maybe",
-    "desc": "From doomsday tourism to eco-anxiety therapy and preppers, a look at how coping in the end times is developing."
+    "startTs": 1784356200000,
+    "stopTs": 1784358000000,
+    "title": "Counting the Cost",
+    "desc": "Presenting a weekly report on worldwide developments in business, finance, and economics, all while analysing their potential impact on the public."
   },
   {
     "start": "07:00",
@@ -93,8 +93,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784271600000,
-    "stopTs": 1784275200000,
+    "startTs": 1784358000000,
+    "stopTs": 1784361600000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   },
@@ -104,8 +104,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784275200000,
-    "stopTs": 1784277000000,
+    "startTs": 1784361600000,
+    "stopTs": 1784363400000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -115,21 +115,32 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784277000000,
-    "stopTs": 1784278800000,
-    "title": "101 East",
-    "desc": "101 East investigates the supply chain behind India&apos;s booming salt industry."
+    "startTs": 1784363400000,
+    "stopTs": 1784365200000,
+    "title": "UpFront",
+    "desc": "Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers."
   },
   {
     "start": "09:00",
+    "stop": "09:30",
+    "channel": "ALJAZEERA.in",
+    "channelId": "ALJAZEERA.in",
+    "channelName": "ALJAZEERA",
+    "startTs": 1784365200000,
+    "stopTs": 1784367000000,
+    "title": "News",
+    "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
+  },
+  {
+    "start": "09:30",
     "stop": "10:00",
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784278800000,
-    "stopTs": 1784282400000,
-    "title": "A Game of Double Standards",
-    "desc": "Qatar 2022 promised a World Cup like no other, but did scrutiny of the host country expose genuine abuses or simply global football&apos;s double standards?"
+    "startTs": 1784367000000,
+    "stopTs": 1784368800000,
+    "title": "Witness",
+    "desc": "As Mexico co-hosts the World Cup, a mother confronts gender violence and seeks safety for her daughter through football."
   },
   {
     "start": "10:00",
@@ -137,8 +148,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784282400000,
-    "stopTs": 1784286000000,
+    "startTs": 1784368800000,
+    "stopTs": 1784372400000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   },
@@ -148,8 +159,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784286000000,
-    "stopTs": 1784287800000,
+    "startTs": 1784372400000,
+    "stopTs": 1784374200000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -159,8 +170,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784287800000,
-    "stopTs": 1784289600000,
+    "startTs": 1784374200000,
+    "stopTs": 1784376000000,
     "title": "Inside Story",
     "desc": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond."
   },
@@ -170,8 +181,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784289600000,
-    "stopTs": 1784293200000,
+    "startTs": 1784376000000,
+    "stopTs": 1784379600000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   },
@@ -181,8 +192,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784293200000,
-    "stopTs": 1784296800000,
+    "startTs": 1784379600000,
+    "stopTs": 1784383200000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   },
@@ -192,8 +203,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784296800000,
-    "stopTs": 1784298600000,
+    "startTs": 1784383200000,
+    "stopTs": 1784385000000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -203,10 +214,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784298600000,
-    "stopTs": 1784300400000,
-    "title": "People and Power",
-    "desc": "Investigations over the real nature of power, what it is, who has it, and how it&apos;s being used."
+    "startTs": 1784385000000,
+    "stopTs": 1784386800000,
+    "title": "Counting the Cost",
+    "desc": "Presenting a weekly report on worldwide developments in business, finance, and economics, all while analysing their potential impact on the public."
   },
   {
     "start": "15:00",
@@ -214,8 +225,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1784300400000,
-    "stopTs": 1784304000000,
+    "startTs": 1784386800000,
+    "stopTs": 1784390400000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   }
