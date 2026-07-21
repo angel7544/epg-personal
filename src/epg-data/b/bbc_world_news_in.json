@@ -1,12 +1,23 @@
 [
   {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1784599200000,
+    "stopTs": 1784601000000,
+    "title": "Newsday",
+    "desc": "The latest international news from London and Singapore."
+  },
+  {
     "start": "02:30",
     "stop": "02:45",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784514600000,
-    "stopTs": 1784515500000,
+    "startTs": 1784601000000,
+    "stopTs": 1784601900000,
     "title": "Business Today",
     "desc": "This is News - News Bulletin Category."
   },
@@ -16,8 +27,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784515500000,
-    "stopTs": 1784516400000,
+    "startTs": 1784601900000,
+    "stopTs": 1784602800000,
     "title": "BBC Sport",
     "desc": "This is News - News Bulletin Category."
   },
@@ -27,8 +38,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784516400000,
-    "stopTs": 1784518200000,
+    "startTs": 1784602800000,
+    "stopTs": 1784604600000,
     "title": "Newsday",
     "desc": "The latest international news from London and Singapore."
   },
@@ -38,8 +49,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784518200000,
-    "stopTs": 1784519100000,
+    "startTs": 1784604600000,
+    "stopTs": 1784605500000,
     "title": "Business Today",
     "desc": "This is News - News Bulletin Category."
   },
@@ -49,8 +60,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784519100000,
-    "stopTs": 1784520000000,
+    "startTs": 1784605500000,
+    "stopTs": 1784606400000,
     "title": "BBC Sport",
     "desc": "This is News - News Bulletin Category."
   },
@@ -60,8 +71,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784520000000,
-    "stopTs": 1784521800000,
+    "startTs": 1784606400000,
+    "stopTs": 1784608200000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -71,8 +82,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784521800000,
-    "stopTs": 1784523600000,
+    "startTs": 1784608200000,
+    "stopTs": 1784610000000,
     "title": "Business Today",
     "desc": "This is News - News Bulletin Category."
   },
@@ -82,8 +93,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784523600000,
-    "stopTs": 1784525400000,
+    "startTs": 1784610000000,
+    "stopTs": 1784611800000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -93,8 +104,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784525400000,
-    "stopTs": 1784526900000,
+    "startTs": 1784611800000,
+    "stopTs": 1784613300000,
     "title": "Business Today",
     "desc": "This is News - News Bulletin Category."
   },
@@ -104,10 +115,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784526900000,
-    "stopTs": 1784527200000,
-    "title": "Tech Now",
-    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
+    "startTs": 1784613300000,
+    "stopTs": 1784613600000,
+    "title": "Ultimate Japan",
+    "desc": "Rajan Datar goes off the beaten track as he explores some of the ultimate cultural and natural highlights across Japan."
   },
   {
     "start": "06:00",
@@ -115,8 +126,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784527200000,
-    "stopTs": 1784529000000,
+    "startTs": 1784613600000,
+    "stopTs": 1784615400000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -126,8 +137,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784529000000,
-    "stopTs": 1784530500000,
+    "startTs": 1784615400000,
+    "stopTs": 1784616900000,
     "title": "Business Today",
     "desc": "This is News - News Bulletin Category."
   },
@@ -137,10 +148,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784530500000,
-    "stopTs": 1784530800000,
-    "title": "The SpeciaList",
-    "desc": "A travel guide to everywhere you want to be, with recommendations curated by celebrated local insiders."
+    "startTs": 1784616900000,
+    "stopTs": 1784617200000,
+    "title": "Ultimate Japan",
+    "desc": "Rajan Datar goes off the beaten track as he explores some of the ultimate cultural and natural highlights across Japan."
   },
   {
     "start": "07:00",
@@ -148,8 +159,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784530800000,
-    "stopTs": 1784532600000,
+    "startTs": 1784617200000,
+    "stopTs": 1784619000000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -159,8 +170,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784532600000,
-    "stopTs": 1784534400000,
+    "startTs": 1784619000000,
+    "stopTs": 1784620800000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -170,8 +181,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784534400000,
-    "stopTs": 1784536200000,
+    "startTs": 1784620800000,
+    "stopTs": 1784622600000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -181,8 +192,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784536200000,
-    "stopTs": 1784537700000,
+    "startTs": 1784622600000,
+    "stopTs": 1784624100000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -192,10 +203,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784537700000,
-    "stopTs": 1784538000000,
-    "title": "Tech Now",
-    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
+    "startTs": 1784624100000,
+    "stopTs": 1784624400000,
+    "title": "Ultimate Japan",
+    "desc": "Rajan Datar goes off the beaten track as he explores some of the ultimate cultural and natural highlights across Japan."
   },
   {
     "start": "09:00",
@@ -203,8 +214,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784538000000,
-    "stopTs": 1784539800000,
+    "startTs": 1784624400000,
+    "stopTs": 1784626200000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -214,8 +225,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784539800000,
-    "stopTs": 1784541600000,
+    "startTs": 1784626200000,
+    "stopTs": 1784628000000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -225,8 +236,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784541600000,
-    "stopTs": 1784543400000,
+    "startTs": 1784628000000,
+    "stopTs": 1784629800000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -236,8 +247,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784543400000,
-    "stopTs": 1784544300000,
+    "startTs": 1784629800000,
+    "stopTs": 1784630700000,
     "title": "Business Today",
     "desc": "This is News - News Bulletin Category."
   },
@@ -247,8 +258,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784544300000,
-    "stopTs": 1784544900000,
+    "startTs": 1784630700000,
+    "stopTs": 1784631300000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -258,10 +269,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784544900000,
-    "stopTs": 1784545200000,
-    "title": "The SpeciaList",
-    "desc": "A travel guide to everywhere you want to be, with recommendations curated by celebrated local insiders."
+    "startTs": 1784631300000,
+    "stopTs": 1784631600000,
+    "title": "Ultimate Japan",
+    "desc": "Rajan Datar goes off the beaten track as he explores some of the ultimate cultural and natural highlights across Japan."
   },
   {
     "start": "11:00",
@@ -269,8 +280,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784545200000,
-    "stopTs": 1784547000000,
+    "startTs": 1784631600000,
+    "stopTs": 1784633400000,
     "title": "BBC News Now",
     "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
@@ -280,8 +291,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784547000000,
-    "stopTs": 1784548800000,
+    "startTs": 1784633400000,
+    "stopTs": 1784635200000,
     "title": "BBC News Now",
     "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
@@ -291,8 +302,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784548800000,
-    "stopTs": 1784550600000,
+    "startTs": 1784635200000,
+    "stopTs": 1784637000000,
     "title": "BBC News Now",
     "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
@@ -302,8 +313,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784550600000,
-    "stopTs": 1784552100000,
+    "startTs": 1784637000000,
+    "stopTs": 1784638500000,
     "title": "BBC News Now",
     "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
@@ -313,10 +324,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784552100000,
-    "stopTs": 1784552400000,
-    "title": "Tech Now",
-    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
+    "startTs": 1784638500000,
+    "stopTs": 1784638800000,
+    "title": "Ultimate Japan",
+    "desc": "Rajan Datar goes off the beaten track as he explores some of the ultimate cultural and natural highlights across Japan."
   },
   {
     "start": "13:00",
@@ -324,10 +335,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784552400000,
-    "stopTs": 1784554200000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1784638800000,
+    "stopTs": 1784640600000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "13:30",
@@ -335,8 +346,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784554200000,
-    "stopTs": 1784555100000,
+    "startTs": 1784640600000,
+    "stopTs": 1784641500000,
     "title": "Business Today",
     "desc": "This is News - News Bulletin Category."
   },
@@ -346,10 +357,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784555100000,
-    "stopTs": 1784556000000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1784641500000,
+    "stopTs": 1784642400000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "14:00",
@@ -357,10 +368,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784556000000,
-    "stopTs": 1784557800000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1784642400000,
+    "stopTs": 1784644200000,
+    "title": "Verified Live",
+    "desc": "Matthew Amroliwala presents all the latest global and UK news, live from London."
   },
   {
     "start": "14:30",
@@ -368,10 +379,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784557800000,
-    "stopTs": 1784559600000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1784644200000,
+    "stopTs": 1784646000000,
+    "title": "Verified Live",
+    "desc": "Matthew Amroliwala presents all the latest global and UK news, live from London."
   },
   {
     "start": "15:00",
@@ -379,10 +390,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784559600000,
-    "stopTs": 1784561400000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1784646000000,
+    "stopTs": 1784647800000,
+    "title": "Verified Live",
+    "desc": "Matthew Amroliwala presents all the latest global and UK news, live from London."
   },
   {
     "start": "15:30",
@@ -390,8 +401,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1784561400000,
-    "stopTs": 1784562300000,
+    "startTs": 1784647800000,
+    "stopTs": 1784648700000,
     "title": "Business Today",
     "desc": "This is News - News Bulletin Category."
   }
