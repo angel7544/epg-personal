@@ -1,388 +1,58 @@
 [
   {
-    "start": "23:30",
-    "stop": "07:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "Mirror Now",
-    "startTs": 1784590200000,
-    "stopTs": 1784619000000,
-    "title": "9 PM Nation Tonight",
-    "desc": "The host presents a detailed report of the latest news stories about political, social, economic and cultural topics from around the region."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784601000000,
-    "stopTs": 1784604600000,
-    "title": "8 AM Metro Morning",
-    "desc": "The host sheds light on the latest news updates and top stories taking place in the country with footage."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784604600000,
-    "stopTs": 1784608200000,
-    "title": "The Morning News",
-    "desc": "The host sheds light on the latest socio-economic and political news, updates, and developments worldwide."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784608200000,
-    "stopTs": 1784611800000,
-    "title": "10 AM Ground Reality",
-    "desc": "The host provides detailed information on social issues and developments, along with public engagements."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784611800000,
-    "stopTs": 1784615400000,
-    "title": "11 AM Big Story",
-    "desc": "The anchor presents an in-depth analysis of important updates that matter to people."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784615400000,
-    "stopTs": 1784619000000,
-    "title": "12 PM Ground Reality",
-    "desc": "The host provides detailed information on social issues and developments, along with public engagements."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784619000000,
-    "stopTs": 1784622600000,
-    "title": "Mirror @1 PM",
-    "desc": "The host sheds light on the latest news updates and top stories taking place in the country with footage."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784622600000,
-    "stopTs": 1784624400000,
-    "title": "2 PM Mirror @2 PM",
-    "desc": "The host provides insight into the political, social, and economic events and trends grabbing international headlines."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784624400000,
-    "stopTs": 1784626200000,
-    "title": "2 PM Mirror @2 PM",
-    "desc": "The host provides insight into the political, social, and economic events and trends grabbing international headlines."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784626200000,
-    "stopTs": 1784629800000,
-    "title": "3 PM Big Story",
-    "desc": "The host provides a thorough analysis and insight into the most important news from around the nation."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784629800000,
-    "stopTs": 1784631600000,
-    "title": "Mirror Live",
-    "desc": "The host sheds light on the latest news updates and top stories taking place in the country with footage."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784631600000,
-    "stopTs": 1784633400000,
-    "title": "4:30 Pm-Superfast News English",
-    "desc": "Host covers all major national politics, society, and economy news updates."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784633400000,
-    "stopTs": 1784635200000,
-    "title": "5 PM Mirror Live",
-    "desc": "Host delivers major news updates on politics, society, and economy from across the country."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784635200000,
-    "stopTs": 1784637000000,
-    "title": "5:30 PM Mirror Live",
-    "desc": "The host presents all the major news updates and developments pertaining to politics, society and the economy."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784637000000,
-    "stopTs": 1784640600000,
-    "title": "Daily Mirror",
-    "desc": "The host brings you the latest morning headlines, breaking news, business, sport and weather updates."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784640600000,
-    "stopTs": 1784642400000,
-    "title": "News@7",
-    "desc": "The host sheds light on the latest socio-economic and political news, updates, and developments worldwide."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784642400000,
-    "stopTs": 1784644200000,
-    "title": "Mirror Prime",
-    "desc": "A premium news segment delivering prime-time analysis of current events, offering intelligent perspectives and in-depth coverage of issues that matter most."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784644200000,
-    "stopTs": 1784647800000,
-    "title": "The Urban Debate",
-    "desc": "Debates on vital topics of the day. Listen to the most influential people in business, government, and urban planning."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784647800000,
-    "stopTs": 1784651400000,
-    "title": "9 PM Nation Tonight",
-    "desc": "A round-up of latest news on politics, current affairs and happenings across the world."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784651400000,
-    "stopTs": 1784655000000,
-    "title": "Beyond The Headline",
-    "desc": "A comprehensive look at the true stories behind some of the biggest headlines, with exclusive interviews."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784655000000,
-    "stopTs": 1784656800000,
-    "title": "9 PM Nation Tonight",
-    "desc": "A round-up of latest news on politics, current affairs and happenings across the world."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784656800000,
-    "stopTs": 1784658600000,
-    "title": "News For Hearing Impaired",
-    "desc": "Join our host as they break down the latest global news, covering everything from economic shifts to political happenings and social trends. Stay informed and engaged!"
-  },
-  {
-    "start": "18:30",
-    "stop": "19:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784658600000,
-    "stopTs": 1784662200000,
-    "title": "The Urban Debate",
-    "desc": "Debates on vital topics of the day. Listen to the most influential people in business, government, and urban planning."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784662200000,
-    "stopTs": 1784665800000,
-    "title": "Beyond The Headline",
-    "desc": "A comprehensive look at the true stories behind some of the biggest headlines, with exclusive interviews."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784665800000,
-    "stopTs": 1784669400000,
-    "title": "The Urban Debate",
-    "desc": "Debates on vital topics of the day. Listen to the most influential people in business, government, and urban planning."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784669400000,
-    "stopTs": 1784673000000,
-    "title": "9 PM Nation Tonight",
-    "desc": "A round-up of latest news on politics, current affairs and happenings across the world."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784673000000,
-    "stopTs": 1784676600000,
-    "title": "Beyond The Headline",
-    "desc": "A comprehensive look at the true stories behind some of the biggest headlines, with exclusive interviews."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784676600000,
-    "stopTs": 1784680200000,
-    "title": "9 PM Nation Tonight",
-    "desc": "A round-up of latest news on politics, current affairs and happenings across the world."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784680200000,
-    "stopTs": 1784683800000,
-    "title": "Urban Debate",
-    "desc": "A flagship news program tackling urban India&apos;s pressing social and political issues, shedding light on governance shortcomings and their citizen impact."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1784683800000,
-    "stopTs": 1784685600000,
-    "title": "The Morning News",
-    "desc": "The host sheds light on the latest socio-economic and political news, updates, and developments worldwide."
-  },
-  {
     "start": "02:00",
     "stop": "02:30",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784685600000,
     "stopTs": 1784687400000,
     "title": "The Morning News",
-    "desc": "The host sheds light on the latest socio-economic and political news, updates, and developments worldwide."
+    "desc": "The host presents some of the key developing stories of the day and newsworthy events."
   },
   {
     "start": "02:30",
     "stop": "03:30",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784687400000,
     "stopTs": 1784691000000,
     "title": "8 AM Metro Morning",
-    "desc": "The host sheds light on the latest news updates and top stories taking place in the country with footage."
+    "desc": "The host sheds light on the latest news stories that impact people around the world."
   },
   {
     "start": "03:30",
     "stop": "04:30",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784691000000,
     "stopTs": 1784694600000,
     "title": "The Morning News",
-    "desc": "The host sheds light on the latest socio-economic and political news, updates, and developments worldwide."
+    "desc": "The host presents some of the key developing stories of the day and newsworthy events."
   },
   {
     "start": "04:30",
     "stop": "05:30",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784694600000,
     "stopTs": 1784698200000,
     "title": "10 AM Ground Reality",
-    "desc": "The host provides detailed information on social issues and developments, along with public engagements."
+    "desc": "The host presents news updates and the latest information on various issues."
   },
   {
     "start": "05:30",
-    "stop": "06:30",
+    "stop": "06:00",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784698200000,
-    "stopTs": 1784701800000,
+    "stopTs": 1784700000000,
     "title": "11 AM Big Story",
-    "desc": "The anchor presents an in-depth analysis of important updates that matter to people."
+    "desc": "The host presents important issues and provides updates on current events."
   },
   {
     "start": "06:00",
@@ -393,18 +63,18 @@
     "startTs": 1784700000000,
     "stopTs": 1784701800000,
     "title": "Speak Easy",
-    "desc": "The host invites prominent personalities and engages them in a fascinating conversation about their personal and professional lives."
+    "desc": "The host invites prominent personalities and engages them in a fascinating conversation."
   },
   {
     "start": "06:30",
-    "stop": "07:30",
+    "stop": "07:00",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784701800000,
-    "stopTs": 1784705400000,
+    "stopTs": 1784703600000,
     "title": "12 PM Ground Reality",
-    "desc": "The host provides detailed information on social issues and developments, along with public engagements."
+    "desc": "The host presents detailed reports of various issues prevalent around the country."
   },
   {
     "start": "07:00",
@@ -415,51 +85,51 @@
     "startTs": 1784703600000,
     "stopTs": 1784705400000,
     "title": "Speak Easy",
-    "desc": "The host invites prominent personalities and engages them in a fascinating conversation about their personal and professional lives."
+    "desc": "The host invites prominent personalities and engages them in a fascinating conversation."
   },
   {
     "start": "07:30",
     "stop": "08:30",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784705400000,
     "stopTs": 1784709000000,
-    "title": "Mirror @1 PM",
-    "desc": "The host sheds light on the latest news updates and top stories taking place in the country with footage."
+    "title": "Mirror @ 1 PM",
+    "desc": "The host presents the latest updates on various pressing issues across the nation."
   },
   {
     "start": "08:30",
     "stop": "09:00",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784709000000,
     "stopTs": 1784710800000,
-    "title": "2 PM Mirror @2 PM",
-    "desc": "The host provides insight into the political, social, and economic events and trends grabbing international headlines."
+    "title": "2 PM Mirror @ 2 PM",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
   },
   {
     "start": "09:00",
     "stop": "09:30",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784710800000,
     "stopTs": 1784712600000,
-    "title": "2 PM Mirror @2 PM",
-    "desc": "The host provides insight into the political, social, and economic events and trends grabbing international headlines."
+    "title": "Kiccha Sudeep Exclusive",
+    "desc": "The host converses with South Indian actor Sudeep about his life and career."
   },
   {
     "start": "09:30",
-    "stop": "10:30",
+    "stop": "10:00",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784712600000,
-    "stopTs": 1784716200000,
+    "stopTs": 1784714400000,
     "title": "3 PM Big Story",
-    "desc": "The host provides a thorough analysis and insight into the most important news from around the nation."
+    "desc": "The host presents important issues and provides updates on current events."
   },
   {
     "start": "10:00",
@@ -470,95 +140,95 @@
     "startTs": 1784714400000,
     "stopTs": 1784716200000,
     "title": "Speak Easy",
-    "desc": "The host invites prominent personalities and engages them in a fascinating conversation about their personal and professional lives."
+    "desc": "The host invites prominent personalities and engages them in a fascinating conversation."
   },
   {
     "start": "10:30",
     "stop": "11:00",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784716200000,
     "stopTs": 1784718000000,
     "title": "Mirror Live",
-    "desc": "The host sheds light on the latest news updates and top stories taking place in the country with footage."
+    "desc": "The host presents important issues and provides updates on current events, live."
   },
   {
     "start": "11:00",
     "stop": "11:30",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784718000000,
     "stopTs": 1784719800000,
-    "title": "4:30 Pm-Superfast News English",
-    "desc": "Host covers all major national politics, society, and economy news updates."
+    "title": "Best Directors of 2024",
+    "desc": "The host facilitates an engaging panel discussion with various directors in 2024."
   },
   {
     "start": "11:30",
     "stop": "12:00",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784719800000,
     "stopTs": 1784721600000,
     "title": "5 PM Mirror Live",
-    "desc": "Host delivers major news updates on politics, society, and economy from across the country."
+    "desc": "Journalists report the latest news stories and interview those connected to them, live."
   },
   {
     "start": "12:00",
     "stop": "12:30",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784721600000,
     "stopTs": 1784723400000,
-    "title": "5:30 PM Mirror Live",
-    "desc": "The host presents all the major news updates and developments pertaining to politics, society and the economy."
+    "title": "BTH Weekend Special",
+    "desc": "The host provides viewers with a comprehensive overview of emerging trends."
   },
   {
     "start": "12:30",
     "stop": "13:30",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784723400000,
     "stopTs": 1784727000000,
     "title": "Daily Mirror",
-    "desc": "The host brings you the latest morning headlines, breaking news, business, sport and weather updates."
+    "desc": "The host sheds light on the latest news stories concerning various fields."
   },
   {
     "start": "13:30",
     "stop": "14:00",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784727000000,
     "stopTs": 1784728800000,
-    "title": "News@7",
-    "desc": "The host sheds light on the latest socio-economic and political news, updates, and developments worldwide."
+    "title": "News At 7",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "14:00",
     "stop": "14:30",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784728800000,
     "stopTs": 1784730600000,
-    "title": "Mirror Prime",
-    "desc": "A premium news segment delivering prime-time analysis of current events, offering intelligent perspectives and in-depth coverage of issues that matter most."
+    "title": "Best Male Performances 2024",
+    "desc": "The host interacts with the best male performers of 2024 from Hindi entertainment industry."
   },
   {
     "start": "14:30",
-    "stop": "15:30",
+    "stop": "15:00",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784730600000,
-    "stopTs": 1784734200000,
+    "stopTs": 1784732400000,
     "title": "The Urban Debate",
-    "desc": "Debates on vital topics of the day. Listen to the most influential people in business, government, and urban planning."
+    "desc": "The host interacts with experts to seek insights into various socio-political matters."
   },
   {
     "start": "15:00",
@@ -576,44 +246,385 @@
     "stop": "16:30",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784734200000,
     "stopTs": 1784737800000,
     "title": "9 PM Nation Tonight",
-    "desc": "A round-up of latest news on politics, current affairs and happenings across the world."
+    "desc": "The host presents a detailed report of the latest news stories from around the region."
   },
   {
     "start": "16:30",
     "stop": "17:30",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784737800000,
     "stopTs": 1784741400000,
     "title": "Beyond The Headline",
-    "desc": "A comprehensive look at the true stories behind some of the biggest headlines, with exclusive interviews."
+    "desc": "The host presents the latest news stories and updates taking place all over the country."
   },
   {
     "start": "17:30",
     "stop": "18:00",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784741400000,
     "stopTs": 1784743200000,
     "title": "9 PM Nation Tonight",
-    "desc": "A round-up of latest news on politics, current affairs and happenings across the world."
+    "desc": "The host presents a detailed report of the latest news stories from around the region."
   },
   {
     "start": "18:00",
     "stop": "18:30",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1784743200000,
     "stopTs": 1784745000000,
-    "title": "News For Hearing Impaired",
-    "desc": "Join our host as they break down the latest global news, covering everything from economic shifts to political happenings and social trends. Stay informed and engaged!"
+    "title": "News for Hearing Impaired",
+    "desc": "The host presents the latest socio-economic news and updates in sign language."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784745000000,
+    "stopTs": 1784748600000,
+    "title": "The Urban Debate",
+    "desc": "The host interacts with experts to seek insights into various socio-political matters."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784748600000,
+    "stopTs": 1784752200000,
+    "title": "Beyond The Headline",
+    "desc": "The host presents the latest news stories and updates taking place all over the country."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784752200000,
+    "stopTs": 1784755800000,
+    "title": "The Urban Debate",
+    "desc": "The host interacts with experts to seek insights into various socio-political matters."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784755800000,
+    "stopTs": 1784759400000,
+    "title": "9 PM Nation Tonight",
+    "desc": "The host presents a detailed report of the latest news stories from around the region."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784759400000,
+    "stopTs": 1784763000000,
+    "title": "Beyond The Headline",
+    "desc": "The host presents the latest news stories and updates taking place all over the country."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784763000000,
+    "stopTs": 1784766600000,
+    "title": "9 PM Nation Tonight",
+    "desc": "The host presents a detailed report of the latest news stories from around the region."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784766600000,
+    "stopTs": 1784768400000,
+    "title": "The Morning News",
+    "desc": "The host presents some of the key developing stories of the day and newsworthy events."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784768400000,
+    "stopTs": 1784770200000,
+    "title": "The Morning News",
+    "desc": "The host presents some of the key developing stories of the day and newsworthy events."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784770200000,
+    "stopTs": 1784772000000,
+    "title": "The Morning News",
+    "desc": "The host presents some of the key developing stories of the day and newsworthy events."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784772000000,
+    "stopTs": 1784773800000,
+    "title": "The Morning News",
+    "desc": "The host presents some of the key developing stories of the day and newsworthy events."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784773800000,
+    "stopTs": 1784777400000,
+    "title": "8 AM Metro Morning",
+    "desc": "The host sheds light on the latest news stories that impact people around the world."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784777400000,
+    "stopTs": 1784781000000,
+    "title": "The Morning News",
+    "desc": "The host presents some of the key developing stories of the day and newsworthy events."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784781000000,
+    "stopTs": 1784784600000,
+    "title": "10 AM Ground Reality",
+    "desc": "The host presents news updates and the latest information on various issues."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784784600000,
+    "stopTs": 1784788200000,
+    "title": "11 AM Big Story",
+    "desc": "The host presents important issues and provides updates on current events."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784788200000,
+    "stopTs": 1784791800000,
+    "title": "12 PM Ground Reality",
+    "desc": "The host presents detailed reports of various issues prevalent around the country."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784791800000,
+    "stopTs": 1784795400000,
+    "title": "Mirror @ 1 PM",
+    "desc": "The host presents the latest updates on various pressing issues across the nation."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784795400000,
+    "stopTs": 1784797200000,
+    "title": "2 PM Mirror @ 2 PM",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784797200000,
+    "stopTs": 1784799000000,
+    "title": "2 PM Mirror @ 2 PM",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784799000000,
+    "stopTs": 1784802600000,
+    "title": "3 PM Big Story",
+    "desc": "The host presents important issues and provides updates on current events."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784802600000,
+    "stopTs": 1784804400000,
+    "title": "Mirror Live",
+    "desc": "The host presents important issues and provides updates on current events, live."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784804400000,
+    "stopTs": 1784806200000,
+    "title": "4:30 PM Superfast News",
+    "desc": "The host presents a round-up of the latest news from around the world and the country."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784806200000,
+    "stopTs": 1784808000000,
+    "title": "5 PM Mirror Live",
+    "desc": "Journalists report the latest news stories and interview those connected to them, live."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784808000000,
+    "stopTs": 1784809800000,
+    "title": "5:30 PM Mirror Live",
+    "desc": "The host presents important events and provides updates on various issues, live."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784809800000,
+    "stopTs": 1784813400000,
+    "title": "Daily Mirror",
+    "desc": "The host sheds light on the latest news stories concerning various fields."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784813400000,
+    "stopTs": 1784815200000,
+    "title": "News At 7",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784815200000,
+    "stopTs": 1784817000000,
+    "title": "Mirror Prime",
+    "desc": "The host presents the latest updates on sports, politics and entertainment."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784817000000,
+    "stopTs": 1784820600000,
+    "title": "The Urban Debate",
+    "desc": "The host interacts with experts to seek insights into various socio-political matters."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784820600000,
+    "stopTs": 1784824200000,
+    "title": "9 PM Nation Tonight",
+    "desc": "The host presents a detailed report of the latest news stories from around the region."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784824200000,
+    "stopTs": 1784827800000,
+    "title": "Beyond The Headline",
+    "desc": "The host presents the latest news stories and updates taking place all over the country."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784827800000,
+    "stopTs": 1784829600000,
+    "title": "9 PM Nation Tonight",
+    "desc": "The host presents a detailed report of the latest news stories from around the region."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "Mirror Now",
+    "startTs": 1784829600000,
+    "stopTs": 1784831400000,
+    "title": "News for Hearing Impaired",
+    "desc": "The host presents the latest socio-economic news and updates in sign language."
   },
   {
     "start": "18:30",
@@ -621,8 +632,8 @@
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
     "channelName": "MIRROR NOW",
-    "startTs": 1784745000000,
-    "stopTs": 1784748600000,
+    "startTs": 1784831400000,
+    "stopTs": 1784835000000,
     "title": "The Urban Debate",
     "desc": "Debates on vital topics of the day. Listen to the most influential people in business, government, and urban planning."
   },
@@ -632,8 +643,8 @@
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
     "channelName": "MIRROR NOW",
-    "startTs": 1784748600000,
-    "stopTs": 1784752200000,
+    "startTs": 1784835000000,
+    "stopTs": 1784838600000,
     "title": "Beyond The Headline",
     "desc": "A comprehensive look at the true stories behind some of the biggest headlines, with exclusive interviews."
   },
@@ -643,8 +654,8 @@
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
     "channelName": "MIRROR NOW",
-    "startTs": 1784752200000,
-    "stopTs": 1784755800000,
+    "startTs": 1784838600000,
+    "stopTs": 1784842200000,
     "title": "The Urban Debate",
     "desc": "Debates on vital topics of the day. Listen to the most influential people in business, government, and urban planning."
   },
@@ -654,8 +665,8 @@
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
     "channelName": "MIRROR NOW",
-    "startTs": 1784755800000,
-    "stopTs": 1784759400000,
+    "startTs": 1784842200000,
+    "stopTs": 1784845800000,
     "title": "9 PM Nation Tonight",
     "desc": "A round-up of latest news on politics, current affairs and happenings across the world."
   },
@@ -665,8 +676,8 @@
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
     "channelName": "MIRROR NOW",
-    "startTs": 1784759400000,
-    "stopTs": 1784763000000,
+    "startTs": 1784845800000,
+    "stopTs": 1784849400000,
     "title": "Beyond The Headline",
     "desc": "A comprehensive look at the true stories behind some of the biggest headlines, with exclusive interviews."
   },
@@ -676,8 +687,8 @@
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
     "channelName": "MIRROR NOW",
-    "startTs": 1784763000000,
-    "stopTs": 1784766600000,
+    "startTs": 1784849400000,
+    "stopTs": 1784853000000,
     "title": "9 PM Nation Tonight",
     "desc": "A round-up of latest news on politics, current affairs and happenings across the world."
   },
@@ -687,8 +698,8 @@
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
     "channelName": "MIRROR NOW",
-    "startTs": 1784766600000,
-    "stopTs": 1784770200000,
+    "startTs": 1784853000000,
+    "stopTs": 1784856600000,
     "title": "Urban Debate",
     "desc": "A flagship news program tackling urban India&apos;s pressing social and political issues, shedding light on governance shortcomings and their citizen impact."
   },
@@ -698,8 +709,8 @@
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
     "channelName": "MIRROR NOW",
-    "startTs": 1784770200000,
-    "stopTs": 1784772000000,
+    "startTs": 1784856600000,
+    "stopTs": 1784858400000,
     "title": "The Morning News",
     "desc": "The host sheds light on the latest socio-economic and political news, updates, and developments worldwide."
   },
@@ -709,8 +720,8 @@
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
     "channelName": "MIRROR NOW",
-    "startTs": 1784772000000,
-    "stopTs": 1784773800000,
+    "startTs": 1784858400000,
+    "stopTs": 1784860200000,
     "title": "The Morning News",
     "desc": "The host sheds light on the latest socio-economic and political news, updates, and developments worldwide."
   },
@@ -720,8 +731,8 @@
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
     "channelName": "MIRROR NOW",
-    "startTs": 1784773800000,
-    "stopTs": 1784777400000,
+    "startTs": 1784860200000,
+    "stopTs": 1784863800000,
     "title": "8 AM Metro Morning",
     "desc": "The host sheds light on the latest news updates and top stories taking place in the country with footage."
   }
