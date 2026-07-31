@@ -1,190 +1,14 @@
 [
   {
-    "start": "00:00",
-    "stop": "02:00",
+    "start": "02:00",
+    "stop": "02:30",
     "channel": "Eurosport.in",
     "channelId": "Eurosport.in",
     "channelName": "EUROSPORT",
-    "startTs": 1785369600000,
-    "stopTs": 1785376800000,
-    "title": "Live - AEW Dynamite",
-    "desc": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "Eurosport.in",
-    "channelId": "Eurosport.in",
-    "channelName": "Eurosport",
-    "startTs": 1785376800000,
-    "stopTs": 1785378600000,
-    "title": "T100 Triathlon World Tour",
-    "desc": "Experience T100 Triathlon World Tour at Hyde Park, London, England, where elite athletes compete in swimming, cycling, and running disciplines."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "Eurosport.in",
-    "channelId": "Eurosport.in",
-    "channelName": "Eurosport",
-    "startTs": 1785378600000,
-    "stopTs": 1785382200000,
-    "title": "Impact In 60",
-    "desc": "Each hour-long episode highlights a major IMPACT Wrestling star, showcasing iconic matches, memorable moments, and rare pay-per-view bouts, some never seen on TV before."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "Eurosport.in",
-    "channelId": "Eurosport.in",
-    "channelName": "Eurosport",
-    "startTs": 1785382200000,
-    "stopTs": 1785385800000,
-    "title": "TNA Wrestling: Pehalwani Patakha",
-    "desc": "Pehlwani Patakha showcases top highlights from TNA&apos;s flagship series TNA iMPACT!, as well as iconic moments from TNA&apos;s storied legacy spanning more than two decades."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "Eurosport.in",
-    "channelId": "Eurosport.in",
-    "channelName": "Eurosport",
-    "startTs": 1785385800000,
-    "stopTs": 1785389400000,
-    "title": "TNA Unfinished Business",
-    "desc": "Some of the world&apos;s leading wrestlers compete to demonstrate their prowess."
-  },
-  {
-    "start": "05:30",
-    "stop": "07:30",
-    "channel": "Eurosport.in",
-    "channelId": "Eurosport.in",
-    "channelName": "Eurosport",
-    "startTs": 1785389400000,
-    "stopTs": 1785396600000,
-    "title": "MLS Soccer",
-    "desc": "MLS Soccer brings live action from major league soccer, featuring exciting matches and star players competing for victory across various teams in the U.S. and Canada."
-  },
-  {
-    "start": "07:30",
-    "stop": "10:30",
-    "channel": "Eurosport.in",
-    "channelId": "Eurosport.in",
-    "channelName": "Eurosport",
-    "startTs": 1785396600000,
-    "stopTs": 1785407400000,
-    "title": "Professional Fighters League",
-    "desc": "Professional fighters compete against each other in a prestigious tournament to win."
-  },
-  {
-    "start": "10:30",
-    "stop": "12:00",
-    "channel": "Eurosport.in",
-    "channelId": "Eurosport.in",
-    "channelName": "Eurosport",
-    "startTs": 1785407400000,
-    "stopTs": 1785412800000,
-    "title": "WTT Star Contender Table Tennis",
-    "desc": "Tune in to elite table-tennis battles as top stars like Oh Junsung, Ovtcharov and Manav Thakkar clash in Chennai at the Tamil Nadu Sports University from Feb 10-15, 2026."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "Eurosport.in",
-    "channelId": "Eurosport.in",
-    "channelName": "Eurosport",
-    "startTs": 1785412800000,
-    "stopTs": 1785414600000,
-    "title": "Golden Trail World Series",
-    "desc": "Explore Golden Trail World Series from Chamonix, France, where top runners compete across scenic yet challenging mountain trails."
-  },
-  {
-    "start": "12:30",
-    "stop": "14:30",
-    "channel": "Eurosport.in",
-    "channelId": "Eurosport.in",
-    "channelName": "Eurosport",
-    "startTs": 1785414600000,
-    "stopTs": 1785421800000,
-    "title": "AEW Dynamite",
-    "desc": "Catch all the excitement of AEW Dynamite, where high-octane wrestling, thrilling rivalries, and unforgettable moments collide every week. Don&apos;t miss out on the action-packed fun!"
-  },
-  {
-    "start": "14:30",
-    "stop": "16:30",
-    "channel": "Eurosport.in",
-    "channelId": "Eurosport.in",
-    "channelName": "Eurosport",
-    "startTs": 1785421800000,
-    "stopTs": 1785429000000,
-    "title": "Eredivisie Soccer",
-    "desc": "Professional football clubs compete to emerge victorious in the Eredivisie."
-  },
-  {
-    "start": "16:30",
-    "stop": "18:30",
-    "channel": "Eurosport.in",
-    "channelId": "Eurosport.in",
-    "channelName": "Eurosport",
-    "startTs": 1785429000000,
-    "stopTs": 1785436200000,
-    "title": "TNA Impact",
-    "desc": "In the thrilling 2025 TNA Impact, professional wrestlers battle it out each week, showcasing their skills and determination to claim victory in the ultimate wrestling showdown."
-  },
-  {
-    "start": "18:30",
-    "stop": "20:30",
-    "channel": "Eurosport.in",
-    "channelId": "Eurosport.in",
-    "channelName": "Eurosport",
-    "startTs": 1785436200000,
-    "stopTs": 1785443400000,
-    "title": "World Pickleball League",
-    "desc": "Players from different parts of the world participate in the World Pickleball League."
-  },
-  {
-    "start": "20:30",
-    "stop": "22:15",
-    "channel": "Eurosport.in",
-    "channelId": "Eurosport.in",
-    "channelName": "Eurosport",
-    "startTs": 1785443400000,
-    "stopTs": 1785449700000,
-    "title": "FIM Speedway Grand Prix Series",
-    "desc": "The 2025 FIM Speedway Grand Prix Series marks the 30th anniversary of the competition, featuring ten rounds across seven countries."
-  },
-  {
-    "start": "22:15",
-    "stop": "00:00",
-    "channel": "Eurosport.in",
-    "channelId": "Eurosport.in",
-    "channelName": "Eurosport",
-    "startTs": 1785449700000,
-    "stopTs": 1785456000000,
-    "title": "World Pickleball League",
-    "desc": "Players from different parts of the world participate in the World Pickleball League."
-  },
-  {
-    "start": "00:00",
-    "stop": "02:00",
-    "channel": "Eurosport.in",
-    "channelId": "Eurosport.in",
-    "channelName": "Eurosport",
-    "startTs": 1785456000000,
-    "stopTs": 1785463200000,
-    "title": "AEW Collision",
-    "desc": "In AEW Collision, pro wrestlers face off in thrilling matches, battling it out for glory and the ultimate championship title. Who will rise to the top? Tune in!"
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "Eurosport.in",
-    "channelId": "Eurosport.in",
-    "channelName": "Eurosport",
     "startTs": 1785463200000,
     "stopTs": 1785465000000,
     "title": "Golden Trail World Series",
-    "desc": "Explore Golden Trail World Series from Chamonix, France, where top runners compete across scenic yet challenging mountain trails."
+    "desc": "The Golden Trail World Series debuts in Canada over a demanding and technical course. Samwel Kiprotich and Madalina Florea deliver standout performances to claim hard-fought victories."
   },
   {
     "start": "02:30",
@@ -206,7 +30,7 @@
     "startTs": 1785472200000,
     "stopTs": 1785475800000,
     "title": "Professional Fighters League",
-    "desc": "Witness Professional Fighters League as combatants face off at Rogers Arena, Vancouver, British Columbia, Canada, delivering hard-hitting action and fierce competition."
+    "desc": "Catch Professional Fighters League bouts featuring elite fighters at Accor Arena, Paris, Ile-de-France, France, showcasing power, strategy and thrilling finishes."
   },
   {
     "start": "05:30",
@@ -228,7 +52,7 @@
     "startTs": 1785483000000,
     "stopTs": 1785494700000,
     "title": "Professional Fighters League",
-    "desc": "Professional fighters compete against each other in a prestigious tournament to win."
+    "desc": "Experience the thrill of mixed martial arts with the Professional Fighters League. Catch intense matchups, elite athletes, and unforgettable moments as top fighters compete for ultimate championship glory."
   },
   {
     "start": "10:45",
@@ -272,7 +96,7 @@
     "startTs": 1785504600000,
     "stopTs": 1785508200000,
     "title": "TNA Wrestling: Pehalwani Patakha",
-    "desc": "Pehlwani Patakha showcases top highlights from TNA&apos;s flagship series TNA iMPACT!, as well as iconic moments from TNA&apos;s storied legacy spanning more than two decades."
+    "desc": "Experience thrilling wrestling action with powerful matches, skilled performers, and intense battles as athletes compete for victory in the ring."
   },
   {
     "start": "14:30",
@@ -283,7 +107,7 @@
     "startTs": 1785508200000,
     "stopTs": 1785515400000,
     "title": "Eredivisie Soccer",
-    "desc": "Professional football clubs compete to emerge victorious in the Eredivisie."
+    "desc": "Enjoy top football action from the Dutch Eredivisie, featuring an exciting game of the week with skilled teams competing for victory."
   },
   {
     "start": "16:30",
@@ -294,7 +118,7 @@
     "startTs": 1785515400000,
     "stopTs": 1785516300000,
     "title": "MotoGP 2026 Inside Czech Republic GP",
-    "desc": "MotoGP 2026 Inside Czech Republic GP"
+    "desc": "Experience the speed, excitement, and behind-the-scenes moments of the MotoGP 2026 Czech Republic GP, featuring thrilling races and intense competition."
   },
   {
     "start": "16:45",
@@ -327,7 +151,7 @@
     "startTs": 1785528000000,
     "stopTs": 1785546000000,
     "title": "Professional Fighters League",
-    "desc": "Professional fighters compete against each other in a prestigious tournament to win."
+    "desc": "Experience the thrill of mixed martial arts with the Professional Fighters League. Catch intense matchups, elite athletes, and unforgettable moments as top fighters compete for ultimate championship glory."
   },
   {
     "start": "01:00",
@@ -350,5 +174,203 @@
     "stopTs": 1785551400000,
     "title": "AEW: WrestleDream",
     "desc": "Watch AEW: WrestleDream, featuring top All Elite Wrestling superstars in thrilling matches, intense rivalries, and unforgettable moments inside the ring."
+  },
+  {
+    "start": "02:30",
+    "stop": "04:30",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1785551400000,
+    "stopTs": 1785558600000,
+    "title": "TNA Impact",
+    "desc": "In the thrilling 2025 TNA Impact, professional wrestlers battle it out each week, showcasing their skills and determination to claim victory in the ultimate wrestling showdown."
+  },
+  {
+    "start": "04:30",
+    "stop": "06:30",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1785558600000,
+    "stopTs": 1785565800000,
+    "title": "Major League Soccer",
+    "desc": "America&apos;s top football league featuring global stars, intense rivalries and spectacular goals as teams battle for the MLS Cup in live and highlight action."
+  },
+  {
+    "start": "06:30",
+    "stop": "09:45",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1785565800000,
+    "stopTs": 1785577500000,
+    "title": "TNA Genesis",
+    "desc": "Watch thrilling wrestling action from TNA Genesis as top competitors collide in high-energy bouts, dramatic moments, and hard-hitting drama. Don&apos;t miss the intense, action-packed event."
+  },
+  {
+    "start": "09:00",
+    "stop": "12:15",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "EUROSPORT",
+    "startTs": 1785574800000,
+    "stopTs": 1785586500000,
+    "title": "Live - GTWS Pitz Alpine Glacier Trail; Trail World Series",
+    "desc": "This is Sport - Athletics Category"
+  },
+  {
+    "start": "09:45",
+    "stop": "12:00",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1785577500000,
+    "stopTs": 1785585600000,
+    "title": "Trail World Series",
+    "desc": "Discover Trail World Series from Swiss Alps, Switzerland, where athletes race through breathtaking and demanding terrains."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1785585600000,
+    "stopTs": 1785587400000,
+    "title": "Ultimate Cricket Challenge",
+    "desc": "Experience the excitement of the Ultimate Cricket Challenge, featuring thrilling matches, competitive moments, and the passion of players battling for victory."
+  },
+  {
+    "start": "12:15",
+    "stop": "12:30",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "EUROSPORT",
+    "startTs": 1785586500000,
+    "stopTs": 1785587400000,
+    "title": "Showtime with Rohit Sharma",
+    "desc": "The host has a conversation with professional cricketer Rohit Sharma regarding his history and fondest memories with the franchise of Mumbai Indians."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:30",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1785587400000,
+    "stopTs": 1785591000000,
+    "title": "TNA Wrestling: Legends",
+    "desc": "A nostalgic tribute revisits the legendary icons of TNA Wrestling, highlighting their unforgettable matches, rivalries, and lasting impact on the sport&apos;s history."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:30",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1785591000000,
+    "stopTs": 1785594600000,
+    "title": "WWE LFG",
+    "desc": "Step into the world of WWE LFG featuring larger-than-life superstars, intense rivalries, and high-impact entertainment from packed arenas across the globe."
+  },
+  {
+    "start": "14:30",
+    "stop": "16:00",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1785594600000,
+    "stopTs": 1785600000000,
+    "title": "British Superbike Championship Series",
+    "desc": "Watch riders battle for supremacy in the British Superbike Championship. Feel the adrenaline, speed, and intensity as champions race toward victory. Catch the action now!"
+  },
+  {
+    "start": "16:00",
+    "stop": "17:00",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1785600000000,
+    "stopTs": 1785603600000,
+    "title": "Professional Fighters League",
+    "desc": "Catch elite MMA fighters battling it out in the Professional Fighters League, where skill, determination and high-stakes matchups define the journey to championship glory."
+  },
+  {
+    "start": "17:00",
+    "stop": "18:30",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1785603600000,
+    "stopTs": 1785609000000,
+    "title": "FIM Speedway Grand Prix Series",
+    "desc": "Experience the high-speed thrills and intense competition of the FIM Speedway Grand Prix Series, where elite riders battle handlebar-to-handlebar on heavy, brake-free motorcycles across world-class tracks."
+  },
+  {
+    "start": "18:30",
+    "stop": "20:00",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1785609000000,
+    "stopTs": 1785614400000,
+    "title": "FIM Speedway Grand Prix Series",
+    "desc": "Experience the high-speed thrills and intense competition of the FIM Speedway Grand Prix Series, where elite riders battle handlebar-to-handlebar on heavy, brake-free motorcycles across world-class tracks."
+  },
+  {
+    "start": "20:00",
+    "stop": "22:00",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1785614400000,
+    "stopTs": 1785621600000,
+    "title": "World Pickleball League",
+    "desc": "Enjoy fast-paced pickleball action as talented players compete in exciting matches, showcasing skill, teamwork, and thrilling moments on the court."
+  },
+  {
+    "start": "22:00",
+    "stop": "23:45",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1785621600000,
+    "stopTs": 1785627900000,
+    "title": "FIM Speedway Grand Prix Series",
+    "desc": "Experience the high-speed thrills and intense competition of the FIM Speedway Grand Prix Series, where elite riders battle handlebar-to-handlebar on heavy, brake-free motorcycles across world-class tracks."
+  },
+  {
+    "start": "23:45",
+    "stop": "01:30",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1785627900000,
+    "stopTs": 1785634200000,
+    "title": "World Pickleball League",
+    "desc": "Enjoy fast-paced pickleball action as talented players compete in exciting matches, showcasing skill, teamwork, and thrilling moments on the court."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:30",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1785634200000,
+    "stopTs": 1785637800000,
+    "title": "Impact In 60",
+    "desc": "This film follows Beer Money, a wrestling duo, showcasing their exciting matches, struggles, and rise to fame, capturing the journey from humble beginnings to athletic success."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1785637800000,
+    "stopTs": 1785641400000,
+    "title": "TNA Unfinished Business",
+    "desc": "Enjoy the thrilling action of TNA Unfinished Business, featuring intense matches, fierce competition, and unforgettable moments from the world of wrestling."
   }
 ]

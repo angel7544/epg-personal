@@ -1,443 +1,58 @@
 [
   {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News",
-    "startTs": 1785375000000,
-    "stopTs": 1785376800000,
-    "title": "Suprabhatam",
-    "desc": "Provides a comprehensive insight into India&apos;s rich cultural heritage while offering practical guidance for a healthy lifestyle."
-  },
-  {
     "start": "02:00",
     "stop": "02:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785376800000,
-    "stopTs": 1785378600000,
+    "channelName": "DD News",
+    "startTs": 1785463200000,
+    "stopTs": 1785465000000,
     "title": "Samachar",
-    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
+    "desc": "Presents recent news, updates and developments from across the world."
   },
   {
     "start": "02:30",
     "stop": "03:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785378600000,
-    "stopTs": 1785382200000,
+    "channelName": "DD News",
+    "startTs": 1785465000000,
+    "stopTs": 1785468600000,
     "title": "Naya Savera",
-    "desc": "Covers the most recent headlines, government updates, and important developments, offering a fresh start to the day with key national and global stories."
+    "desc": "Presents the latest social, economic and political updates with guests."
   },
   {
     "start": "03:30",
     "stop": "04:00",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785382200000,
-    "stopTs": 1785384000000,
-    "title": "Express100",
-    "desc": "A quick, 30-minute collection of 100 current India-news stories across diverse topics, delivering fast, accessible updates."
+    "channelName": "DD News",
+    "startTs": 1785468600000,
+    "stopTs": 1785470400000,
+    "title": "Express 100",
+    "desc": "Presents the latest breaking news and updates on various trending topics."
   },
   {
     "start": "04:00",
     "stop": "04:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785384000000,
-    "stopTs": 1785385800000,
+    "channelName": "DD News",
+    "startTs": 1785470400000,
+    "stopTs": 1785472200000,
     "title": "Creators Corner",
-    "desc": "A creative hub highlighting digital creators, innovations, and original artistic expressions."
+    "desc": "Presents unique, informative and inventive creations across India."
   },
   {
     "start": "04:30",
     "stop": "05:00",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785385800000,
-    "stopTs": 1785387600000,
-    "title": "News@10",
-    "desc": "News@10 delivers comprehensive prime-time updates on breaking news, politics, society, and economy from India and globally, providing viewers with reliable and balanced coverage."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785387600000,
-    "stopTs": 1785389400000,
-    "title": "News Punch",
-    "desc": "News Punch delivers fast, detailed coverage of key national and global news using advanced visuals, offering balanced, engaging reports with deep rural reach."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785389400000,
-    "stopTs": 1785393000000,
-    "title": "11 Baje Ka Live",
-    "desc": "11 Baje Ka Live"
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785393000000,
-    "stopTs": 1785394800000,
-    "title": "Samachar",
-    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785394800000,
-    "stopTs": 1785396600000,
-    "title": "Express100",
-    "desc": "A quick, 30-minute collection of 100 current India-news stories across diverse topics, delivering fast, accessible updates."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785396600000,
-    "stopTs": 1785400200000,
-    "title": "Mid Day Prime Hindi",
-    "desc": "The host presents the latest and most important political, socio-economic and sports news updates and developments from across the world."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785400200000,
-    "stopTs": 1785402000000,
-    "title": "News Punch",
-    "desc": "News Punch delivers fast, detailed coverage of key national and global news using advanced visuals, offering balanced, engaging reports with deep rural reach."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785402000000,
-    "stopTs": 1785403800000,
-    "title": "Next Gen Bharat",
-    "desc": "A host gathers experts from different fields to discuss simple strategies and practical solutions for improving the welfare of minority communities in India today together."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785403800000,
-    "stopTs": 1785407400000,
-    "title": "Iss Waqt",
-    "desc": "At this time: The SP government had stopped the SC-ST scholarship and the unemployed of Rajasthan appealed to Priyanka"
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785407400000,
-    "stopTs": 1785409200000,
-    "title": "Samachar",
-    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785409200000,
-    "stopTs": 1785411000000,
-    "title": "Samachar",
-    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785411000000,
-    "stopTs": 1785414600000,
-    "title": "Paanch Ki Panchayat",
-    "desc": "Informative program exploring grassroots governance and rural development. Highlights key issues, solutions, and community initiatives engagingly and educationally."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785414600000,
-    "stopTs": 1785416400000,
-    "title": "Charcha Mein",
-    "desc": "Audience interactive programme on a wide variety of subjects."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785416400000,
-    "stopTs": 1785418200000,
-    "title": "Khabhar Duniya Ki",
-    "desc": "News program delivering national and international updates. Covers politics, business, society, and events with concise reporting and analytical insights for viewers."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785418200000,
-    "stopTs": 1785420000000,
-    "title": "Creators Corner",
-    "desc": "A creative hub highlighting digital creators, innovations, and original artistic expressions."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785420000000,
-    "stopTs": 1785421800000,
-    "title": "Pura Sach",
-    "desc": "Investigative show exposing truths behind political claims and social issues with fact-checking, delivering authentic and balanced reports."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785421800000,
-    "stopTs": 1785425400000,
-    "title": "News Night",
-    "desc": "Tune into the latest economic, political and social updates from India and across the globe."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785425400000,
-    "stopTs": 1785429000000,
-    "title": "Decode",
-    "desc": "The news show covers important updates. It includes politics, sports, crime, and business news. The host reports on major events in each area. Stay informed on key world happenings."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785429000000,
-    "stopTs": 1785432600000,
-    "title": "Do Took",
-    "desc": "A special program &apos;Do Took&apos; - Discussion on various social and political issues."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785432600000,
-    "stopTs": 1785436200000,
-    "title": "Samachar",
-    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785436200000,
-    "stopTs": 1785439800000,
-    "title": "Decode",
-    "desc": "The news show covers important updates. It includes politics, sports, crime, and business news. The host reports on major events in each area. Stay informed on key world happenings."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785439800000,
-    "stopTs": 1785443400000,
-    "title": "News Night",
-    "desc": "Tune into the latest economic, political and social updates from India and across the globe."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785443400000,
-    "stopTs": 1785447000000,
-    "title": "Do Took",
-    "desc": "A special program &apos;Do Took&apos; - Discussion on various social and political issues."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785447000000,
-    "stopTs": 1785450600000,
-    "title": "Decode",
-    "desc": "The news show covers important updates. It includes politics, sports, crime, and business news. The host reports on major events in each area. Stay informed on key world happenings."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785450600000,
-    "stopTs": 1785454200000,
-    "title": "News Night",
-    "desc": "Tune into the latest economic, political and social updates from India and across the globe."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785454200000,
-    "stopTs": 1785457800000,
-    "title": "Do Took",
-    "desc": "A special program &apos;Do Took&apos; - Discussion on various social and political issues."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785457800000,
-    "stopTs": 1785459600000,
-    "title": "Rang Tarang",
-    "desc": "Latest updates about art, culture, special events and celebrities."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:15",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785459600000,
-    "stopTs": 1785460500000,
-    "title": "Sanskrit Vaarta Samachar",
-    "desc": "Sanskrit Vaarta Samachar delivers the latest news and updates in Sanskrit, covering political, social, economic, and cultural developments, keeping viewers informed with a traditional touch."
-  },
-  {
-    "start": "01:15",
-    "stop": "01:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785460500000,
-    "stopTs": 1785461400000,
-    "title": "Samachar With Hi",
-    "desc": "The host presents a round-up of the latest social, political and economic news updates and developments from across the country."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785461400000,
-    "stopTs": 1785463200000,
-    "title": "Suprabhatam",
-    "desc": "Suprabhatam explores Indian culture, heritage, ancient knowledge, arts, and healthy lifestyle traditions, highlighting the nation&apos;s rich legacy and wellness practices."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785463200000,
-    "stopTs": 1785465000000,
-    "title": "Samachar",
-    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785465000000,
-    "stopTs": 1785468600000,
-    "title": "Naya Savera",
-    "desc": "Covers the most recent headlines, government updates, and important developments, offering a fresh start to the day with key national and global stories."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785468600000,
-    "stopTs": 1785470400000,
-    "title": "Express100",
-    "desc": "A quick, 30-minute collection of 100 current India-news stories across diverse topics, delivering fast, accessible updates."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1785470400000,
-    "stopTs": 1785472200000,
-    "title": "Creators Corner",
-    "desc": "A creative hub highlighting digital creators, innovations, and original artistic expressions."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785472200000,
-    "stopTs": 1785475800000,
-    "title": "News Punch",
-    "desc": "News Punch delivers fast, detailed coverage of key national and global news using advanced visuals, offering balanced, engaging reports with deep rural reach."
+    "stopTs": 1785474000000,
+    "title": "News @ 10",
+    "desc": "Explores the latest socio-economic and political updates of the day."
   },
   {
     "start": "05:00",
@@ -448,271 +63,634 @@
     "startTs": 1785474000000,
     "stopTs": 1785475800000,
     "title": "News Punch",
-    "desc": "Presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "Presents information about the social, economic and political issues of the day."
   },
   {
     "start": "05:30",
     "stop": "06:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785475800000,
     "stopTs": 1785479400000,
     "title": "Samachar",
-    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
+    "desc": "Presents recent news, updates and developments from across the world."
   },
   {
     "start": "06:30",
     "stop": "07:00",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785479400000,
     "stopTs": 1785481200000,
     "title": "Samachar",
-    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
+    "desc": "Presents recent news, updates and developments from across the world."
   },
   {
     "start": "07:00",
     "stop": "07:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785481200000,
     "stopTs": 1785483000000,
-    "title": "Express100",
-    "desc": "A quick, 30-minute collection of 100 current India-news stories across diverse topics, delivering fast, accessible updates."
+    "title": "Express 100",
+    "desc": "Presents the latest breaking news and updates on various trending topics."
   },
   {
     "start": "07:30",
     "stop": "08:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785483000000,
     "stopTs": 1785486600000,
-    "title": "Mid Day Prime Hindi",
-    "desc": "The host presents the latest and most important political, socio-economic and sports news updates and developments from across the world."
+    "title": "Mid Day Prime",
+    "desc": "A comprehensive news update from all over India and discussions on matters of concern."
   },
   {
     "start": "08:30",
     "stop": "09:00",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785486600000,
     "stopTs": 1785488400000,
     "title": "News Punch",
-    "desc": "News Punch delivers fast, detailed coverage of key national and global news using advanced visuals, offering balanced, engaging reports with deep rural reach."
+    "desc": "Presents information about the social, economic and political issues of the day."
   },
   {
     "start": "09:00",
     "stop": "09:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785488400000,
     "stopTs": 1785490200000,
-    "title": "Samachar",
-    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
+    "title": "Next Gen Bharat",
+    "desc": "Presents the latest updates on India&apos;s technological advancements."
   },
   {
     "start": "09:30",
     "stop": "10:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785490200000,
     "stopTs": 1785493800000,
     "title": "Iss Waqt",
-    "desc": "At this time: The SP government had stopped the SC-ST scholarship and the unemployed of Rajasthan appealed to Priyanka"
+    "desc": "Presents updates and analysis on news stories covering several topics from all over the globe."
   },
   {
     "start": "10:30",
     "stop": "11:00",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785493800000,
     "stopTs": 1785495600000,
     "title": "Samachar",
-    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
+    "desc": "Presents recent news, updates and developments from across the world."
   },
   {
     "start": "11:00",
     "stop": "11:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785495600000,
     "stopTs": 1785497400000,
-    "title": "Samachar",
-    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
+    "title": "Samachar / Sign Language",
+    "desc": "."
   },
   {
     "start": "11:30",
     "stop": "12:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785497400000,
     "stopTs": 1785501000000,
-    "title": "Paanch Ki Panchayat",
-    "desc": "Informative program exploring grassroots governance and rural development. Highlights key issues, solutions, and community initiatives engagingly and educationally."
+    "title": "Panch Ki Panchayat",
+    "desc": "Presents the latest social, political and economic updates from all over the globe."
   },
   {
     "start": "12:30",
     "stop": "13:00",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785501000000,
     "stopTs": 1785502800000,
     "title": "Charcha Mein",
-    "desc": "Audience interactive programme on a wide variety of subjects."
+    "desc": "The host in conversation with a panel of guests, on a chosen topic related to current affairs."
   },
   {
     "start": "13:00",
     "stop": "13:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785502800000,
     "stopTs": 1785504600000,
-    "title": "Khabhar Duniya Ki",
-    "desc": "News program delivering national and international updates. Covers politics, business, society, and events with concise reporting and analytical insights for viewers."
+    "title": "Khabar Duniya Ki",
+    "desc": "Explores the latest events, developments, inventions and discoveries from around the world."
   },
   {
     "start": "13:30",
     "stop": "14:00",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785504600000,
     "stopTs": 1785506400000,
     "title": "Creators Corner",
-    "desc": "A creative hub highlighting digital creators, innovations, and original artistic expressions."
+    "desc": "Presents unique, informative and inventive creations across India."
   },
   {
     "start": "14:00",
     "stop": "14:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785506400000,
     "stopTs": 1785508200000,
     "title": "Pura Sach",
-    "desc": "Investigative show exposing truths behind political claims and social issues with fact-checking, delivering authentic and balanced reports."
+    "desc": "Delivers comprehensive reports on the latest news and developments."
   },
   {
     "start": "14:30",
     "stop": "15:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785508200000,
     "stopTs": 1785511800000,
-    "title": "News Night",
-    "desc": "Tune into the latest economic, political and social updates from India and across the globe."
+    "title": "News Night in Hindi",
+    "desc": "Delivers current affairs about commerce, athletics, governance and social matters globally."
   },
   {
     "start": "15:30",
     "stop": "16:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785511800000,
     "stopTs": 1785515400000,
     "title": "Decode",
-    "desc": "The news show covers important updates. It includes politics, sports, crime, and business news. The host reports on major events in each area. Stay informed on key world happenings."
+    "desc": "Presents the latest news stories about political, economic, social and cultural issues."
   },
   {
     "start": "16:30",
     "stop": "17:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785515400000,
     "stopTs": 1785519000000,
     "title": "Do Took",
-    "desc": "A special program &apos;Do Took&apos; - Discussion on various social and political issues."
+    "desc": "Important figures come together to discuss political and social topics from India."
   },
   {
     "start": "17:30",
     "stop": "18:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785519000000,
     "stopTs": 1785522600000,
     "title": "Samachar",
-    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
+    "desc": "Presents recent news, updates and developments from across the world."
   },
   {
     "start": "18:30",
     "stop": "19:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785522600000,
     "stopTs": 1785526200000,
-    "title": "Decode",
-    "desc": "The news show covers important updates. It includes politics, sports, crime, and business news. The host reports on major events in each area. Stay informed on key world happenings."
+    "title": "Samachar",
+    "desc": "Presents recent news, updates and developments from across the world."
   },
   {
     "start": "19:30",
     "stop": "20:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785526200000,
     "stopTs": 1785529800000,
-    "title": "News Night",
-    "desc": "Tune into the latest economic, political and social updates from India and across the globe."
+    "title": "Do Took",
+    "desc": "Important figures come together to discuss political and social topics from India."
   },
   {
     "start": "20:30",
     "stop": "21:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785529800000,
     "stopTs": 1785533400000,
-    "title": "Do Took",
-    "desc": "A special program &apos;Do Took&apos; - Discussion on various social and political issues."
+    "title": "Samachar",
+    "desc": "Presents recent news, updates and developments from across the world."
   },
   {
     "start": "21:30",
     "stop": "22:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785533400000,
     "stopTs": 1785537000000,
-    "title": "Decode",
-    "desc": "The news show covers important updates. It includes politics, sports, crime, and business news. The host reports on major events in each area. Stay informed on key world happenings."
+    "title": "Do Took",
+    "desc": "Important figures come together to discuss political and social topics from India."
   },
   {
     "start": "22:30",
     "stop": "23:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785537000000,
     "stopTs": 1785540600000,
-    "title": "News Night",
-    "desc": "Tune into the latest economic, political and social updates from India and across the globe."
+    "title": "Samachar",
+    "desc": "Presents recent news, updates and developments from across the world."
   },
   {
     "start": "23:30",
     "stop": "00:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1785540600000,
     "stopTs": 1785544200000,
     "title": "Do Took",
-    "desc": "A special program &apos;Do Took&apos; - Discussion on various social and political issues."
+    "desc": "Important figures come together to discuss political and social topics from India."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785544200000,
+    "stopTs": 1785546000000,
+    "title": "Live Aarti From Ram Mandir Ayodhya Ji",
+    "desc": "Priests and devotees chant sacred verses and perform rituals to seek the blessings of Balak Ram."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:15",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785546000000,
+    "stopTs": 1785546900000,
+    "title": "Sanskrit Vaarta",
+    "desc": "Presents the latest news updates on politics and the economy in Sanskrit."
+  },
+  {
+    "start": "01:15",
+    "stop": "01:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785546900000,
+    "stopTs": 1785547800000,
+    "title": "Samachar With HI",
+    "desc": "Presents updates on a variety of topics from all over the globe."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785547800000,
+    "stopTs": 1785549600000,
+    "title": "Total Health Podcast",
+    "desc": "Explores diverse medical topics and treatments with a healthcare expert."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785549600000,
+    "stopTs": 1785551400000,
+    "title": "Samachar",
+    "desc": "Presents recent news, updates and developments from across the world."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785551400000,
+    "stopTs": 1785555000000,
+    "title": "Naya Savera",
+    "desc": "Presents the latest social, economic and political updates with guests."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785555000000,
+    "stopTs": 1785556800000,
+    "title": "Money Mantra",
+    "desc": "Presents money-related advice and various investment strategies."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785556800000,
+    "stopTs": 1785558600000,
+    "title": "Creators Corner",
+    "desc": "Presents unique, informative and inventive creations across India."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785558600000,
+    "stopTs": 1785560400000,
+    "title": "News @ 10",
+    "desc": "Explores the latest socio-economic and political updates of the day."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785560400000,
+    "stopTs": 1785562200000,
+    "title": "News Punch",
+    "desc": "Presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785562200000,
+    "stopTs": 1785564000000,
+    "title": "Vande Bharat",
+    "desc": "Presents the latest news on the Vande Bharat Express, Indian Railways&apos; high-speed electric train."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785564000000,
+    "stopTs": 1785565800000,
+    "title": "Samachar",
+    "desc": "Presents recent news, updates and developments from across the world."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785565800000,
+    "stopTs": 1785567600000,
+    "title": "Samachar",
+    "desc": "Presents recent news, updates and developments from across the world."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785567600000,
+    "stopTs": 1785569400000,
+    "title": "Express 100",
+    "desc": "Presents the latest breaking news and updates on various trending topics."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785569400000,
+    "stopTs": 1785573000000,
+    "title": "Mid Day Prime",
+    "desc": "A comprehensive news update from all over India and discussions on matters of concern."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785573000000,
+    "stopTs": 1785574800000,
+    "title": "News Punch",
+    "desc": "Presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785574800000,
+    "stopTs": 1785576600000,
+    "title": "Rangtarang",
+    "desc": "Features news and updates on special events, celebrities and culture."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785576600000,
+    "stopTs": 1785578400000,
+    "title": "Nation To Nation",
+    "desc": "Presents in-depth coverage and analysis of major world news events."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785578400000,
+    "stopTs": 1785580200000,
+    "title": "Ek Bharat Shreshtha Bharat",
+    "desc": "Explores cultural topics related to traditions, tourism and cuisines."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785580200000,
+    "stopTs": 1785582000000,
+    "title": "Samachar",
+    "desc": "Presents recent news, updates and developments from across the world."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785582000000,
+    "stopTs": 1785583800000,
+    "title": "Samachar / Sign Language",
+    "desc": "."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785583800000,
+    "stopTs": 1785587400000,
+    "title": "Rashtra Manch",
+    "desc": "Delivers comprehensive news and key developments from across India."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785587400000,
+    "stopTs": 1785589200000,
+    "title": "Charcha Mein",
+    "desc": "The host in conversation with a panel of guests, on a chosen topic related to current affairs."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785589200000,
+    "stopTs": 1785591000000,
+    "title": "Game On",
+    "desc": "Experts discuss major sports events and updates, covering tournaments and player performances."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785591000000,
+    "stopTs": 1785592800000,
+    "title": "Defence Dynamics",
+    "desc": "Presents the latest update and news stories on matters of defence and military technology."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785592800000,
+    "stopTs": 1785594600000,
+    "title": "Vaartavali",
+    "desc": "Presents important updates and analysis on social, economic and health-related stories."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785594600000,
+    "stopTs": 1785598200000,
+    "title": "News Night in Hindi",
+    "desc": "Delivers current affairs about commerce, athletics, governance and social matters globally."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785598200000,
+    "stopTs": 1785601800000,
+    "title": "Decode",
+    "desc": "Presents the latest news stories about political, economic, social and cultural issues."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785601800000,
+    "stopTs": 1785603600000,
+    "title": "Cyber Alert",
+    "desc": "Explores the cases related to cybercrimes to raise awareness among the citizens."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785603600000,
+    "stopTs": 1785605400000,
+    "title": "Science Spark",
+    "desc": "Presents an in-depth analysis of the latest fascinating scientific advancements and concepts."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News",
+    "startTs": 1785605400000,
+    "stopTs": 1785609000000,
+    "title": "Samachar",
+    "desc": "Presents recent news, updates and developments from across the world."
+  },
+  {
+    "start": "18:30",
+    "stop": "21:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News HD",
+    "startTs": 1785609000000,
+    "stopTs": 1785619800000,
+    "title": "Samachar",
+    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
+  },
+  {
+    "start": "21:30",
+    "stop": "00:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News HD",
+    "startTs": 1785619800000,
+    "stopTs": 1785630600000,
+    "title": "Samachar",
+    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
   },
   {
     "start": "00:30",
@@ -720,8 +698,8 @@
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
     "channelName": "DD News HD",
-    "startTs": 1785544200000,
-    "stopTs": 1785546000000,
+    "startTs": 1785630600000,
+    "stopTs": 1785632400000,
     "title": "Live Aarti From Ram Mandir Ayodhya Ji",
     "desc": "At the Ram Mandir in Ayodhya, priests and devotees pray to Balak Ram. They sing holy songs and do rituals hoping for blessings and good fortune."
   },
@@ -731,8 +709,8 @@
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
     "channelName": "DD News HD",
-    "startTs": 1785546000000,
-    "stopTs": 1785546900000,
+    "startTs": 1785632400000,
+    "stopTs": 1785633300000,
     "title": "Sanskrit Vaarta Samachar",
     "desc": "Sanskrit Vaarta Samachar delivers the latest news and updates in Sanskrit, covering political, social, economic, and cultural developments, keeping viewers informed with a traditional touch."
   },
@@ -742,8 +720,8 @@
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
     "channelName": "DD News HD",
-    "startTs": 1785546900000,
-    "stopTs": 1785547800000,
+    "startTs": 1785633300000,
+    "stopTs": 1785634200000,
     "title": "Samachar With Hi",
     "desc": "The host presents a round-up of the latest social, political and economic news updates and developments from across the country."
   },
@@ -753,10 +731,10 @@
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
     "channelName": "DD News HD",
-    "startTs": 1785547800000,
-    "stopTs": 1785549600000,
-    "title": "Total Health Podcast",
-    "desc": "A host shares practical fitness tips and routines to boost health, emphasizing how a nutritious diet supports an active lifestyle and overall well-being."
+    "startTs": 1785634200000,
+    "stopTs": 1785636000000,
+    "title": "Samachar",
+    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
   },
   {
     "start": "02:00",
@@ -764,9 +742,20 @@
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
     "channelName": "DD News HD",
-    "startTs": 1785549600000,
-    "stopTs": 1785551400000,
-    "title": "Samachar",
-    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
+    "startTs": 1785636000000,
+    "stopTs": 1785637800000,
+    "title": "Vaartavali",
+    "desc": "The newsreader presents a detailed report on some of the latest and most important news stories and updates from around the world in the Sanskrit language."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News HD",
+    "startTs": 1785637800000,
+    "stopTs": 1785641400000,
+    "title": "Naya Savera",
+    "desc": "Covers the most recent headlines, government updates, and important developments, offering a fresh start to the day with key national and global stories."
   }
 ]
