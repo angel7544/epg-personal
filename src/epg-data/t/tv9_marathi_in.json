@@ -1,38 +1,5 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "TV9Marathi.in",
-    "channelId": "TV9Marathi.in",
-    "channelName": "TV9 Marathi",
-    "startTs": 1785549600000,
-    "stopTs": 1785551400000,
-    "title": "Superfast 50",
-    "desc": "The host presents the top 50 news and developments pertaining to various social, political and economic issues in quick succession."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "TV9Marathi.in",
-    "channelId": "TV9Marathi.in",
-    "channelName": "TV9 Marathi",
-    "startTs": 1785551400000,
-    "stopTs": 1785553200000,
-    "title": "Superfast 100",
-    "desc": "This is a news update. We will share the most recent news stories and important events that happened today. Stay informed with our quick and easy summary."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "TV9Marathi.in",
-    "channelId": "TV9Marathi.in",
-    "channelName": "TV9 Marathi",
-    "startTs": 1785553200000,
-    "stopTs": 1785555000000,
-    "title": "36 Jilhe 72 Batmya",
-    "desc": "The host presents a detailed report on the top nine latest and important news stories and updates from around the world."
-  },
-  {
     "start": "03:30",
     "stop": "04:00",
     "channel": "TV9Marathi.in",
@@ -41,7 +8,7 @@
     "startTs": 1785555000000,
     "stopTs": 1785556800000,
     "title": "News Top 9",
-    "desc": "This is a news update. We will share the most recent news stories and important events that happened today. Stay informed with our quick and easy summary."
+    "desc": "The host highlights the nine most significant news stories of the day, offering concise, accurate and insightful coverage of national as well as global events."
   },
   {
     "start": "04:00",
@@ -1054,5 +1021,38 @@
     "stopTs": 1785726000000,
     "title": "Superfast 100",
     "desc": "This is a news update. We will share the most recent news stories and important events that happened today. Stay informed with our quick and easy summary."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "TV9Marathi.in",
+    "channelId": "TV9Marathi.in",
+    "channelName": "TV9 Marathi",
+    "startTs": 1785726000000,
+    "stopTs": 1785727800000,
+    "title": "36 Jilhe 72 Batmya",
+    "desc": "The host presents a detailed report on the top nine latest and important news stories and updates from around the world."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "TV9Marathi.in",
+    "channelId": "TV9Marathi.in",
+    "channelName": "TV9 Marathi",
+    "startTs": 1785727800000,
+    "stopTs": 1785729600000,
+    "title": "News Top 9",
+    "desc": "This is a news update. We will share the most recent news stories and important events that happened today. Stay informed with our quick and easy summary."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "TV9Marathi.in",
+    "channelId": "TV9Marathi.in",
+    "channelName": "TV9 Marathi",
+    "startTs": 1785729600000,
+    "stopTs": 1785731400000,
+    "title": "Tv9 Bulletin",
+    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economy, politics, sports and entertainment."
   }
 ]

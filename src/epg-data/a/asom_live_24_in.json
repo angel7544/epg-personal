@@ -1,47 +1,36 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
-    "startTs": 1785551400000,
-    "stopTs": 1785555000000,
-    "title": "Pratah Khabar",
-    "desc": "The host delivers updates on social, economic, and political matters, covering the latest news stories and developments for the audience."
-  },
-  {
     "start": "03:30",
     "stop": "04:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785555000000,
     "stopTs": 1785558600000,
-    "title": "Asom Live @ 9",
-    "desc": "A prime-time news program delivering the latest updates from Assam, covering politics, society, culture, and current events with sharp analysis and engaging reporting."
+    "title": "9 AM Morning News",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
   },
   {
     "start": "04:30",
     "stop": "05:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785558600000,
     "stopTs": 1785562200000,
-    "title": "Asom Live @ 9",
-    "desc": "A prime-time news program delivering the latest updates from Assam, covering politics, society, culture, and current events with sharp analysis and engaging reporting."
+    "title": "10 AM News Breaking",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
   },
   {
     "start": "05:30",
-    "stop": "06:00",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "stop": "06:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785562200000,
-    "stopTs": 1785564000000,
-    "title": "11Am News",
-    "desc": "The anchor presents the latest news updates from the world of politics, economics, entertainment and sports."
+    "stopTs": 1785565800000,
+    "title": "11 AM News",
+    "desc": "The host provides a detailed analysis on the latest developments on key issues."
   },
   {
     "start": "06:00",
@@ -56,14 +45,14 @@
   },
   {
     "start": "06:30",
-    "stop": "07:00",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "stop": "07:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785565800000,
-    "stopTs": 1785567600000,
-    "title": "Superfast Asom",
-    "desc": "A fast-paced bulletin delivering quick updates on top stories from Assam and beyond, offering viewers concise news, events, and analysis in an engaging, dynamic format."
+    "stopTs": 1785569400000,
+    "title": "Duporor Khobor",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
   },
   {
     "start": "07:00",
@@ -79,24 +68,24 @@
   {
     "start": "07:30",
     "stop": "08:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785569400000,
     "stopTs": 1785573000000,
-    "title": "Suria Samay",
-    "desc": "A regional news program providing timely updates, stories, and insights into Assam&apos;s culture, politics, and society, keeping viewers informed with sharp reporting."
+    "title": "Dinlipi",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
   },
   {
     "start": "08:30",
-    "stop": "09:00",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "stop": "09:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785573000000,
-    "stopTs": 1785574800000,
-    "title": "Superfast Asom",
-    "desc": "A fast-paced bulletin delivering quick updates on top stories from Assam and beyond, offering viewers concise news, events, and analysis in an engaging, dynamic format."
+    "stopTs": 1785576600000,
+    "title": "2 PM News",
+    "desc": "The host discusses the latest socio-economic and political news, updates and developments."
   },
   {
     "start": "09:00",
@@ -111,25 +100,36 @@
   },
   {
     "start": "09:30",
-    "stop": "10:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "stop": "10:00",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785576600000,
+    "stopTs": 1785578400000,
+    "title": "3 PM News",
+    "desc": "The host discusses the latest socio-economic and political news, updates and developments."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
+    "startTs": 1785578400000,
     "stopTs": 1785580200000,
-    "title": "Zilar Khabar",
-    "desc": "The host covers the latest political, socio-economic stories, and state-wide updates."
+    "title": "3 PM News",
+    "desc": "The host discusses the latest socio-economic and political news, updates and developments."
   },
   {
     "start": "10:30",
-    "stop": "11:00",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "stop": "11:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785580200000,
-    "stopTs": 1785582000000,
-    "title": "Khabar Abtak",
-    "desc": "A leading news show presenting top stories from across India and the world, with updates, analysis, and discussions that keep viewers informed of vital developments."
+    "stopTs": 1785583800000,
+    "title": "Dinlipi",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
   },
   {
     "start": "11:00",
@@ -145,68 +145,68 @@
   {
     "start": "11:30",
     "stop": "12:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785583800000,
     "stopTs": 1785587400000,
-    "title": "Five @ 5",
-    "desc": "Catch the top five headlines at 5 PM! Essential news and impactful stories get delivered to keep you updated. Don&apos;t miss it!"
+    "title": "Aaji",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
   },
   {
     "start": "12:30",
     "stop": "13:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785587400000,
     "stopTs": 1785591000000,
-    "title": "Prime Time",
-    "desc": "The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues."
+    "title": "News & Views",
+    "desc": "The host analyses news updates and headlines with a panel of guests."
   },
   {
     "start": "13:30",
     "stop": "14:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785591000000,
     "stopTs": 1785594600000,
     "title": "Prime Time",
-    "desc": "The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues."
+    "desc": "The host sheds light on the latest news stories impacting people around the country."
   },
   {
     "start": "14:30",
     "stop": "15:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785594600000,
     "stopTs": 1785598200000,
-    "title": "Shilpir Prithibi",
-    "desc": "A show celebrating creativity and art, featuring performances, artists, and cultural discussions, highlighting imagination and diverse forms of artistic expression."
+    "title": "Eight @ 8",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
   },
   {
     "start": "15:30",
     "stop": "16:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785598200000,
     "stopTs": 1785601800000,
-    "title": "Asom Aamar Rupohi",
-    "desc": "A cultural program celebrating Assam&apos;s traditions, music, dance, and scenic heritage, reflecting the state&apos;s beauty and spirit while highlighting diverse folk expressions."
+    "title": "NB Special",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
   },
   {
     "start": "16:30",
-    "stop": "17:00",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "stop": "17:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785601800000,
-    "stopTs": 1785603600000,
-    "title": "Superfast Asom",
-    "desc": "A fast-paced bulletin delivering quick updates on top stories from Assam and beyond, offering viewers concise news, events, and analysis in an engaging, dynamic format."
+    "stopTs": 1785605400000,
+    "title": "10 PM News Breaking",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
   },
   {
     "start": "17:00",
@@ -220,6 +220,17 @@
     "desc": "A news program highlighting significant events in Assam, presenting stories on politics, culture, society, and developments that matter to local and regional audiences."
   },
   {
+    "start": "17:30",
+    "stop": "18:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
+    "startTs": 1785605400000,
+    "stopTs": 1785609000000,
+    "title": "NB Special",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
+  },
+  {
     "start": "18:00",
     "stop": "19:00",
     "channel": "ASOMLive24.in",
@@ -229,6 +240,17 @@
     "stopTs": 1785610800000,
     "title": "Shilpir Prithibi",
     "desc": "A show celebrating creativity and art, featuring performances, artists, and cultural discussions, highlighting imagination and diverse forms of artistic expression."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
+    "startTs": 1785609000000,
+    "stopTs": 1785612600000,
+    "title": "News & Views",
+    "desc": "The host analyses news updates and headlines with a panel of guests."
   },
   {
     "start": "19:00",
@@ -242,6 +264,28 @@
     "desc": "The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues."
   },
   {
+    "start": "19:30",
+    "stop": "20:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
+    "startTs": 1785612600000,
+    "stopTs": 1785616200000,
+    "title": "Aaji",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
+    "startTs": 1785616200000,
+    "stopTs": 1785619800000,
+    "title": "Eight @ 8",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
+  },
+  {
     "start": "21:00",
     "stop": "22:00",
     "channel": "ASOMLive24.in",
@@ -251,6 +295,17 @@
     "stopTs": 1785621600000,
     "title": "Suria Samay",
     "desc": "A regional news program providing timely updates, stories, and insights into Assam&apos;s culture, politics, and society, keeping viewers informed with sharp reporting."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
+    "startTs": 1785619800000,
+    "stopTs": 1785623400000,
+    "title": "Prime Time",
+    "desc": "The host sheds light on the latest news stories impacting people around the country."
   },
   {
     "start": "22:00",
@@ -266,24 +321,24 @@
   {
     "start": "22:30",
     "stop": "23:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785623400000,
     "stopTs": 1785627000000,
-    "title": "Noisha Asom",
-    "desc": "A news program highlighting significant events in Assam, presenting stories on politics, culture, society, and developments that matter to local and regional audiences."
+    "title": "10 PM News",
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "23:30",
-    "stop": "00:00",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "stop": "00:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785627000000,
-    "stopTs": 1785628800000,
-    "title": "Suria Samay",
-    "desc": "A regional news program providing timely updates, stories, and insights into Assam&apos;s culture, politics, and society, keeping viewers informed with sharp reporting."
+    "stopTs": 1785630600000,
+    "title": "News & Views",
+    "desc": "The host analyses news updates and headlines with a panel of guests."
   },
   {
     "start": "00:00",
@@ -298,14 +353,14 @@
   },
   {
     "start": "00:30",
-    "stop": "01:00",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "stop": "01:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785630600000,
-    "stopTs": 1785632400000,
-    "title": "Prime News",
-    "desc": "The host presents some of the latest news stories, updates and developments pertaining to social, economic and political issues."
+    "stopTs": 1785634200000,
+    "title": "News",
+    "desc": "The host presents the latest news updates from around the nation and the world."
   },
   {
     "start": "01:00",
@@ -320,14 +375,14 @@
   },
   {
     "start": "01:30",
-    "stop": "02:00",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "stop": "02:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785634200000,
-    "stopTs": 1785636000000,
-    "title": "Supravat Asom",
-    "desc": "A morning news program from Assam offering top updates, headlines, and discussions on local, regional, and national stories to keep viewers informed and connected."
+    "stopTs": 1785637800000,
+    "title": "Suprobhat - Bgeet",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "02:00",
@@ -343,46 +398,46 @@
   {
     "start": "02:30",
     "stop": "03:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785637800000,
     "stopTs": 1785641400000,
-    "title": "Pratah Khabar",
-    "desc": "The host delivers updates on social, economic, and political matters, covering the latest news stories and developments for the audience."
+    "title": "8 AM Morning News",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
   },
   {
     "start": "03:30",
     "stop": "04:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785641400000,
     "stopTs": 1785645000000,
-    "title": "Asom Live @ 9",
-    "desc": "A prime-time news program delivering the latest updates from Assam, covering politics, society, culture, and current events with sharp analysis and engaging reporting."
+    "title": "9 AM Morning News",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
   },
   {
     "start": "04:30",
     "stop": "05:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785645000000,
     "stopTs": 1785648600000,
-    "title": "Asom Amar Rupohi",
-    "desc": "A cultural program celebrating Assam&apos;s traditions, music, dance, and scenic heritage, reflecting the state&apos;s beauty and spirit while highlighting diverse folk expressions."
+    "title": "10 AM News Breaking",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
   },
   {
     "start": "05:30",
-    "stop": "06:00",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "stop": "06:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785648600000,
-    "stopTs": 1785650400000,
-    "title": "11Am News",
-    "desc": "The anchor presents the latest news updates from the world of politics, economics, entertainment and sports."
+    "stopTs": 1785652200000,
+    "title": "11 AM News",
+    "desc": "The host provides a detailed analysis on the latest developments on key issues."
   },
   {
     "start": "06:00",
@@ -397,14 +452,14 @@
   },
   {
     "start": "06:30",
-    "stop": "07:00",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "stop": "07:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785652200000,
-    "stopTs": 1785654000000,
-    "title": "Superfast Asom",
-    "desc": "A fast-paced bulletin delivering quick updates on top stories from Assam and beyond, offering viewers concise news, events, and analysis in an engaging, dynamic format."
+    "stopTs": 1785655800000,
+    "title": "Duporor Khobor",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
   },
   {
     "start": "07:00",
@@ -420,24 +475,24 @@
   {
     "start": "07:30",
     "stop": "08:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785655800000,
     "stopTs": 1785659400000,
-    "title": "Suria Samay",
-    "desc": "A regional news program providing timely updates, stories, and insights into Assam&apos;s culture, politics, and society, keeping viewers informed with sharp reporting."
+    "title": "NB Special",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
   },
   {
     "start": "08:30",
-    "stop": "09:00",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "stop": "09:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785659400000,
-    "stopTs": 1785661200000,
-    "title": "Superfast Asom",
-    "desc": "A fast-paced bulletin delivering quick updates on top stories from Assam and beyond, offering viewers concise news, events, and analysis in an engaging, dynamic format."
+    "stopTs": 1785663000000,
+    "title": "2 PM News",
+    "desc": "The host discusses the latest socio-economic and political news, updates and developments."
   },
   {
     "start": "09:00",
@@ -452,25 +507,36 @@
   },
   {
     "start": "09:30",
-    "stop": "10:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "stop": "10:00",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785663000000,
+    "stopTs": 1785664800000,
+    "title": "3 PM News",
+    "desc": "The host discusses the latest socio-economic and political news, updates and developments."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
+    "startTs": 1785664800000,
     "stopTs": 1785666600000,
-    "title": "Zilar Khabar",
-    "desc": "The host covers the latest political, socio-economic stories, and state-wide updates."
+    "title": "Bastu",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "10:30",
-    "stop": "11:00",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "stop": "11:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785666600000,
-    "stopTs": 1785668400000,
-    "title": "Khabar Abtak",
-    "desc": "A leading news show presenting top stories from across India and the world, with updates, analysis, and discussions that keep viewers informed of vital developments."
+    "stopTs": 1785670200000,
+    "title": "Song Program",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "11:00",
@@ -486,68 +552,68 @@
   {
     "start": "11:30",
     "stop": "12:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785670200000,
     "stopTs": 1785673800000,
-    "title": "Five @ 5",
-    "desc": "Catch the top five headlines at 5 PM! Essential news and impactful stories get delivered to keep you updated. Don&apos;t miss it!"
+    "title": "NB Special",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
   },
   {
     "start": "12:30",
     "stop": "13:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785673800000,
     "stopTs": 1785677400000,
-    "title": "Prime Time",
-    "desc": "The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues."
+    "title": "News & Views",
+    "desc": "The host analyses news updates and headlines with a panel of guests."
   },
   {
     "start": "13:30",
     "stop": "14:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785677400000,
     "stopTs": 1785681000000,
     "title": "Prime Time",
-    "desc": "The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues."
+    "desc": "The host sheds light on the latest news stories impacting people around the country."
   },
   {
     "start": "14:30",
     "stop": "15:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785681000000,
     "stopTs": 1785684600000,
-    "title": "Mukta Barta",
-    "desc": "A news and discussion show covering key updates, social issues, and current events, encouraging awareness, thoughtful engagement, and informed participation."
+    "title": "Eight @ 8",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
   },
   {
     "start": "15:30",
     "stop": "16:30",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785684600000,
     "stopTs": 1785688200000,
-    "title": "Sadinor Bhumandol",
-    "desc": "Stay updated with the latest entertainment, financial, political, regional, and global news."
+    "title": "Podcast",
+    "desc": "The host converses with guests about current events by offering expert analysis and commentary."
   },
   {
     "start": "16:30",
-    "stop": "17:00",
-    "channel": "ASOMLive24.in",
-    "channelId": "ASOMLive24.in",
-    "channelName": "ASOM Live 24",
+    "stop": "17:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
     "startTs": 1785688200000,
-    "stopTs": 1785690000000,
-    "title": "Superfast Asom",
-    "desc": "A fast-paced bulletin delivering quick updates on top stories from Assam and beyond, offering viewers concise news, events, and analysis in an engaging, dynamic format."
+    "stopTs": 1785691800000,
+    "title": "10 PM News Breaking",
+    "desc": "The host presents the latest updates on various social, economic and political issues."
   },
   {
     "start": "17:00",
@@ -559,6 +625,17 @@
     "stopTs": 1785693600000,
     "title": "Noisha Asom",
     "desc": "A news program highlighting significant events in Assam, presenting stories on politics, culture, society, and developments that matter to local and regional audiences."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:30",
+    "channel": "AsomLive24.in",
+    "channelId": "AsomLive24.in",
+    "channelName": "Asom Live 24",
+    "startTs": 1785691800000,
+    "stopTs": 1785695400000,
+    "title": "Podcast",
+    "desc": "The host converses with guests about current events by offering expert analysis and commentary."
   },
   {
     "start": "18:00",
@@ -691,5 +768,16 @@
     "stopTs": 1785727800000,
     "title": "Pratah Khabar",
     "desc": "The host delivers updates on social, economic, and political matters, covering the latest news stories and developments for the audience."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "ASOMLive24.in",
+    "channelId": "ASOMLive24.in",
+    "channelName": "ASOM Live 24",
+    "startTs": 1785727800000,
+    "stopTs": 1785731400000,
+    "title": "Asom Live @ 9",
+    "desc": "A prime-time news program delivering the latest updates from Assam, covering politics, society, culture, and current events with sharp analysis and engaging reporting."
   }
 ]

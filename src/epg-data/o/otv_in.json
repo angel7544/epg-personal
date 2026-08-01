@@ -1,38 +1,5 @@
 [
   {
-    "start": "01:30",
-    "stop": "02:30",
-    "channel": "OdishaTV.in",
-    "channelId": "OdishaTV.in",
-    "channelName": "OTV",
-    "startTs": 1785547800000,
-    "stopTs": 1785551400000,
-    "title": "Good Morning Odisha",
-    "desc": "The host presents insights into the latest updates and developments in social welfare, politics, sports and finance across Odisha."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "OdishaTV.in",
-    "channelId": "OdishaTV.in",
-    "channelName": "OTV",
-    "startTs": 1785551400000,
-    "stopTs": 1785553200000,
-    "title": "Ajira Sakal",
-    "desc": "Begin your morning with fresh headlines, weather updates, engaging discussions, and informative stories that prepare you for the day ahead."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "OdishaTV.in",
-    "channelId": "OdishaTV.in",
-    "channelName": "OTV",
-    "startTs": 1785553200000,
-    "stopTs": 1785555000000,
-    "title": "Doctor Doctor",
-    "desc": "Get useful health advice, medical information, and expert guidance on diseases, treatments, and healthy living for better everyday wellbeing."
-  },
-  {
     "start": "03:30",
     "stop": "04:00",
     "channel": "OdishaTV.in",
@@ -40,8 +7,8 @@
     "channelName": "OTV",
     "startTs": 1785555000000,
     "stopTs": 1785556800000,
-    "title": "Otv Live",
-    "desc": "Follow live coverage of breaking news, major events, and developing stories with real-time updates throughout the day."
+    "title": "Morning Roundup Live",
+    "desc": "The host presents the latest news updates and developments pertaining to social, political and economic issues around the nation, live."
   },
   {
     "start": "04:00",
@@ -1076,5 +1043,38 @@
     "stopTs": 1785726000000,
     "title": "Ajira Sakal",
     "desc": "Begin your morning with fresh headlines, weather updates, engaging discussions, and informative stories that prepare you for the day ahead."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "OdishaTV.in",
+    "channelId": "OdishaTV.in",
+    "channelName": "OTV",
+    "startTs": 1785726000000,
+    "stopTs": 1785727800000,
+    "title": "Jatra Dhamaka.",
+    "desc": "Enjoy lively performances, music, comedy, and festive entertainment celebrating Odisha&apos;s vibrant Jatra tradition and rich folk theatre culture."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "OdishaTV.in",
+    "channelId": "OdishaTV.in",
+    "channelName": "OTV",
+    "startTs": 1785727800000,
+    "stopTs": 1785729600000,
+    "title": "Otv Live",
+    "desc": "Follow live coverage of breaking news, major events, and developing stories with real-time updates throughout the day."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "OdishaTV.in",
+    "channelId": "OdishaTV.in",
+    "channelName": "OTV",
+    "startTs": 1785729600000,
+    "stopTs": 1785731400000,
+    "title": "Debate At Morning",
+    "desc": "Watch experts discuss current affairs, political developments, and social issues while sharing different perspectives on important topics affecting everyday life."
   }
 ]

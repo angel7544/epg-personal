@@ -1,38 +1,5 @@
 [
   {
-    "start": "01:56",
-    "stop": "02:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News24",
-    "startTs": 1785549360000,
-    "stopTs": 1785551160000,
-    "title": "Special Report",
-    "desc": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally."
-  },
-  {
-    "start": "02:26",
-    "stop": "02:56",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News24",
-    "startTs": 1785551160000,
-    "stopTs": 1785552960000,
-    "title": "Aapka Sahar Aapki Khabar",
-    "desc": "Get the latest news and updates from your city, covering local events, developments, and issues that matter to you."
-  },
-  {
-    "start": "02:56",
-    "stop": "03:20",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News24",
-    "startTs": 1785552960000,
-    "stopTs": 1785554400000,
-    "title": "Special Report",
-    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
-  },
-  {
     "start": "03:20",
     "stop": "03:56",
     "channel": "News24.in",
@@ -41,7 +8,7 @@
     "startTs": 1785554400000,
     "stopTs": 1785556560000,
     "title": "Kalchakra",
-    "desc": "A renowned astrologer offers future predictions by interpreting horoscopes and zodiac signs, guiding viewers through insights related to their personal and professional lives."
+    "desc": "An astrologer studies planetary motions and zodiac signs to provide insightful future predictions of individuals&apos; lives."
   },
   {
     "start": "03:56",
@@ -1076,5 +1043,38 @@
     "stopTs": 1785725760000,
     "title": "Aapka Sahar Aapki Khabar",
     "desc": "Get the latest news and updates from your city, covering local events, developments, and issues that matter to you."
+  },
+  {
+    "start": "02:56",
+    "stop": "03:20",
+    "channel": "News24.in",
+    "channelId": "News24.in",
+    "channelName": "News24",
+    "startTs": 1785725760000,
+    "stopTs": 1785727200000,
+    "title": "Special Report",
+    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+  },
+  {
+    "start": "03:20",
+    "stop": "03:56",
+    "channel": "News24.in",
+    "channelId": "News24.in",
+    "channelName": "News24",
+    "startTs": 1785727200000,
+    "stopTs": 1785729360000,
+    "title": "Kalchakra",
+    "desc": "A renowned astrologer offers future predictions by interpreting horoscopes and zodiac signs, guiding viewers through insights related to their personal and professional lives."
+  },
+  {
+    "start": "03:56",
+    "stop": "04:26",
+    "channel": "News24.in",
+    "channelId": "News24.in",
+    "channelName": "News24",
+    "startTs": 1785729360000,
+    "stopTs": 1785731160000,
+    "title": "Kalchakra",
+    "desc": "A renowned astrologer offers future predictions by interpreting horoscopes and zodiac signs, guiding viewers through insights related to their personal and professional lives."
   }
 ]

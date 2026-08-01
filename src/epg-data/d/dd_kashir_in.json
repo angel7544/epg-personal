@@ -1,38 +1,5 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:28",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1785549600000,
-    "stopTs": 1785551280000,
-    "title": "Jahan Been",
-    "desc": "The host pays a visit to various shopping markets, exploring the latest trends and products and interacting with customers and sellers to get their perspective."
-  },
-  {
-    "start": "02:28",
-    "stop": "02:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1785551280000,
-    "stopTs": 1785551400000,
-    "title": "Programme Highlights",
-    "desc": "A compilation of information about the major programmes scheduled to air throughout the day that provides the latest updates from the television world."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1785551400000,
-    "stopTs": 1785555000000,
-    "title": "Good Morning J&K",
-    "desc": "Drama show portraying powerful human experiences, exploring emotional bonds, decisions, and consequences through touching stories and well-developed characters."
-  },
-  {
     "start": "03:30",
     "stop": "03:40",
     "channel": "DDKashir.in",
@@ -40,19 +7,19 @@
     "channelName": "DD Kashir",
     "startTs": 1785555000000,
     "stopTs": 1785555600000,
-    "title": "News Kashmiri & Urdu",
-    "desc": "The host and the reporters compile the latest Kashmir news, developments and updates ranging from politics to economics."
+    "title": "News Kashmiri / Urdu",
+    "desc": "An anchor reports the latest social, political and economic news stories and updates from the state of Jammu and Kashmir."
   },
   {
     "start": "03:40",
-    "stop": "04:00",
+    "stop": "04:10",
     "channel": "DDKashir.in",
     "channelId": "DDKashir.in",
     "channelName": "DD Kashir",
     "startTs": 1785555600000,
-    "stopTs": 1785556800000,
-    "title": "Kashmiri Forests",
-    "desc": "A fun program designed to help you boost your knowledge and skills!"
+    "stopTs": 1785557400000,
+    "title": "Khel Aur Khiladi",
+    "desc": "The host presents the latest and important news and updates on the various sporting events held in the Indian state of Uttar Pradesh."
   },
   {
     "start": "04:00",
@@ -1494,5 +1461,27 @@
     "stopTs": 1785727800000,
     "title": "Good Morning J&K",
     "desc": "Drama show portraying powerful human experiences, exploring emotional bonds, decisions, and consequences through touching stories and well-developed characters."
+  },
+  {
+    "start": "03:30",
+    "stop": "03:40",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1785727800000,
+    "stopTs": 1785728400000,
+    "title": "News Kashmiri & Urdu",
+    "desc": "The host and the reporters compile the latest Kashmir news, developments and updates ranging from politics to economics."
+  },
+  {
+    "start": "03:40",
+    "stop": "04:40",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1785728400000,
+    "stopTs": 1785732000000,
+    "title": "Doctor On Line",
+    "desc": "The host invites a doctor holding a specialisation in a specific field of medicine, to answer various medical issues and offer health tips, live."
   }
 ]

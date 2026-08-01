@@ -1,47 +1,14 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "Mirror Now",
-    "startTs": 1785549600000,
-    "stopTs": 1785551400000,
-    "title": "News",
-    "desc": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1785551400000,
-    "stopTs": 1785553200000,
-    "title": "The News",
-    "desc": "Timely updates and reports on major national and international events, crafted to keep viewers informed, engaged, and aware of what&apos;s unfolding around them."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1785553200000,
-    "stopTs": 1785555000000,
-    "title": "The News",
-    "desc": "Timely updates and reports on major national and international events, crafted to keep viewers informed, engaged, and aware of what&apos;s unfolding around them."
-  },
-  {
     "start": "03:30",
     "stop": "04:00",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1785555000000,
     "stopTs": 1785556800000,
-    "title": "The News",
-    "desc": "Timely updates and reports on major national and international events, crafted to keep viewers informed, engaged, and aware of what&apos;s unfolding around them."
+    "title": "News",
+    "desc": "The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
   },
   {
     "start": "04:00",
@@ -1043,5 +1010,16 @@
     "stopTs": 1785727800000,
     "title": "Metro Morning",
     "desc": "Exploring real stories behind major headlines, featuring exclusive interviews."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "MIRROR NOW",
+    "startTs": 1785727800000,
+    "stopTs": 1785731400000,
+    "title": "The Morning News",
+    "desc": "The host sheds light on the latest socio-economic and political news, updates, and developments worldwide."
   }
 ]

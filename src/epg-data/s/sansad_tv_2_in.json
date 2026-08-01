@@ -1,47 +1,14 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV 2 HD",
-    "startTs": 1785549600000,
-    "stopTs": 1785551400000,
-    "title": "HVPI Speech",
-    "desc": "The Honourable Vice President of India delivers key messages during speeches addressing important matters concerning the citizens."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
-    "startTs": 1785551400000,
-    "stopTs": 1785553200000,
-    "title": "Parivartan",
-    "desc": "Parivartan highlights inspiring stories of social reform and innovation, showing how individuals and communities drive progress and positive change."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "SansadTV2.in",
-    "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
-    "startTs": 1785553200000,
-    "stopTs": 1785555000000,
-    "title": "Sanskriti Yatra",
-    "desc": "Gotipua Dance, Sarod Performance by Ayaan Ali Bangash, and the Story of Aralam Village"
-  },
-  {
     "start": "03:30",
     "stop": "04:00",
     "channel": "SansadTV2.in",
     "channelId": "SansadTV2.in",
-    "channelName": "Sansad TV - 2",
+    "channelName": "Sansad TV 2 HD",
     "startTs": 1785555000000,
     "stopTs": 1785556800000,
-    "title": "Perspective",
-    "desc": "Perspective examines economic, social, and political themes, engaging experts to provide clear and balanced interpretations for viewers."
+    "title": "Interview",
+    "desc": "The host engages in discussions with renowned personalities from around the world on diverse issues, exploring their perspectives and insights."
   },
   {
     "start": "04:00",
@@ -1527,5 +1494,38 @@
     "stopTs": 1785726000000,
     "title": "Suprabhat",
     "desc": "SUPRABHAT - The Morning Show Fresh"
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1785726000000,
+    "stopTs": 1785727800000,
+    "title": "Sansad Tv Special",
+    "desc": "Railways - Speed of the Nation"
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1785727800000,
+    "stopTs": 1785731400000,
+    "title": "CSPOC Special",
+    "desc": "Global Journey of Parliamentary Democracy"
+  },
+  {
+    "start": "04:00",
+    "stop": "04:28",
+    "channel": "SansadTV2.in",
+    "channelId": "SansadTV2.in",
+    "channelName": "Sansad TV - 2",
+    "startTs": 1785729600000,
+    "stopTs": 1785731280000,
+    "title": "Perspective",
+    "desc": "Parliament Monsoon Session"
   }
 ]

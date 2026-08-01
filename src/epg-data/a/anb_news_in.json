@@ -1,38 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "ANBNews.in",
-    "channelId": "ANBNews.in",
-    "channelName": "ANB News",
-    "startTs": 1785551400000,
-    "stopTs": 1785553200000,
-    "title": "Hindi Bulletin Live",
-    "desc": "News bulletin covering various events and incidents."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "ANBNews.in",
-    "channelId": "ANBNews.in",
-    "channelName": "ANB News",
-    "startTs": 1785553200000,
-    "stopTs": 1785555000000,
-    "title": "Ajab Gajab",
-    "desc": "The host presents information and lesser known facts about several topics including history, contemporary issues or unusual news."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "ANBNews.in",
-    "channelId": "ANBNews.in",
-    "channelName": "ANB News",
-    "startTs": 1785555000000,
-    "stopTs": 1785556800000,
-    "title": "Punjabi Bulletin Live",
-    "desc": "In a live telecast, the host presents all the latest news updates and developments on noteworthy events and issues around the world."
-  },
-  {
     "start": "04:00",
     "stop": "04:30",
     "channel": "ANBNews.in",
@@ -734,6 +701,39 @@
     "startTs": 1785724200000,
     "stopTs": 1785726000000,
     "title": "Hindi Bulletin Live",
+    "desc": "News bulletin covering various events and incidents."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "ANBNews.in",
+    "channelId": "ANBNews.in",
+    "channelName": "ANB News",
+    "startTs": 1785726000000,
+    "stopTs": 1785727800000,
+    "title": "Ajab Gajab",
+    "desc": "The host presents information and lesser known facts about several topics including history, contemporary issues or unusual news."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "ANBNews.in",
+    "channelId": "ANBNews.in",
+    "channelName": "ANB News",
+    "startTs": 1785727800000,
+    "stopTs": 1785729600000,
+    "title": "Punjabi Bulletin Live",
+    "desc": "In a live telecast, the host presents all the latest news updates and developments on noteworthy events and issues around the world."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "ANBNews.in",
+    "channelId": "ANBNews.in",
+    "channelName": "ANB News",
+    "startTs": 1785729600000,
+    "stopTs": 1785731400000,
+    "title": "Hindi Bulletin",
     "desc": "News bulletin covering various events and incidents."
   }
 ]

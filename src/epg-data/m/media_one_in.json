@@ -1,16 +1,5 @@
 [
   {
-    "start": "01:30",
-    "stop": "03:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "MEDIA ONE",
-    "startTs": 1785547800000,
-    "stopTs": 1785555000000,
-    "title": "News Morning",
-    "desc": "Start your day with the latest news updates-tune in now!"
-  },
-  {
     "start": "03:30",
     "stop": "04:30",
     "channel": "MediaOne.in",
@@ -757,5 +746,16 @@
     "stopTs": 1785727800000,
     "title": "News Morning",
     "desc": "Start your day with the latest news updates-tune in now!"
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1785727800000,
+    "stopTs": 1785731400000,
+    "title": "News @ 9",
+    "desc": "News @ 9"
   }
 ]

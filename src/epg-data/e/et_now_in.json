@@ -1,47 +1,14 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET Now",
-    "startTs": 1785549600000,
-    "stopTs": 1785551400000,
-    "title": "BTS",
-    "desc": "This is Business And Finance - Special Report Category"
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1785551400000,
-    "stopTs": 1785553200000,
-    "title": "All About Your Company",
-    "desc": "Market-focused shows explore investment opportunities, corporate news, and financial strategies."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1785553200000,
-    "stopTs": 1785555000000,
-    "title": "Brandverse",
-    "desc": "Corporate and financial analysis offers expert insights into business and market dynamics."
-  },
-  {
     "start": "03:30",
     "stop": "04:00",
     "channel": "ETNow.in",
     "channelId": "ETNow.in",
-    "channelName": "ET NOW",
+    "channelName": "ET Now",
     "startTs": 1785555000000,
     "stopTs": 1785556800000,
     "title": "Insurance Mantra",
-    "desc": "Insurance Mantra features industry leaders praising a move. Bigwigs give a thumbs up, calling it a good step, as LIC&apos;s R Dora expresses appreciation publicly."
+    "desc": "The host elaborates on various insurance policies, explaining coverage options, benefits and strategies to help viewers make informed decisions about their financial protection."
   },
   {
     "start": "04:00",
@@ -1076,5 +1043,16 @@
     "stopTs": 1785727800000,
     "title": "The Market",
     "desc": "The best guide for making serious money, with top fundamental ideas and tec hinical recommendations"
+  },
+  {
+    "start": "03:30",
+    "stop": "05:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1785727800000,
+    "stopTs": 1785733200000,
+    "title": "First Trades",
+    "desc": "A show that discusses stocks that have been highly volatile in trading while the stock markets open."
   }
 ]

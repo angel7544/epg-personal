@@ -1,16 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "WelcomeChannel.in",
-    "channelId": "WelcomeChannel.in",
-    "channelName": "Welcome Channel",
-    "startTs": 1785551400000,
-    "stopTs": 1785555000000,
-    "title": "Important Information for our Customers",
-    "desc": "Important Information for our Customers."
-  },
-  {
     "start": "03:30",
     "stop": "04:30",
     "channel": "WelcomeChannel.in",
@@ -535,6 +524,17 @@
     "channelName": "Welcome Channel",
     "startTs": 1785724200000,
     "stopTs": 1785727800000,
+    "title": "Important Information for our Customers",
+    "desc": "Important Information for our Customers."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "WelcomeChannel.in",
+    "channelId": "WelcomeChannel.in",
+    "channelName": "Welcome Channel",
+    "startTs": 1785727800000,
+    "stopTs": 1785731400000,
     "title": "Important Information for our Customers",
     "desc": "Important Information for our Customers."
   }

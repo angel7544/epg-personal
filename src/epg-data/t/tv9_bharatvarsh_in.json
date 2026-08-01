@@ -1,38 +1,5 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1785549600000,
-    "stopTs": 1785551400000,
-    "title": "Agenda Full & final",
-    "desc": "The host presents a detailed report on the latest news from across the country and interacts with experts who put forth their opinions."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1785551400000,
-    "stopTs": 1785553200000,
-    "title": "News 100",
-    "desc": "A host shares 100 top news updates from India and worldwide, covering politics, society, economy, and sports, delivering a concise daily briefing."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1785553200000,
-    "stopTs": 1785555000000,
-    "title": "60 Second Mein Khabar",
-    "desc": "The host shares the latest updates on economics, politics, and social issues, covering current affairs, trends, and important developments for a clear, easy-to-understand overview today."
-  },
-  {
     "start": "03:30",
     "stop": "04:00",
     "channel": "TV9Bharatvarsh.in",
@@ -41,7 +8,7 @@
     "startTs": 1785555000000,
     "stopTs": 1785556800000,
     "title": "News 100",
-    "desc": "A host shares 100 top news updates from India and worldwide, covering politics, society, economy, and sports, delivering a concise daily briefing."
+    "desc": "The host presents the top 100 news updates pertaining to the political, social, economic and sports fronts from around the country and the world."
   },
   {
     "start": "04:00",
@@ -955,5 +922,38 @@
     "stopTs": 1785726000000,
     "title": "News 100",
     "desc": "A host shares 100 top news updates from India and worldwide, covering politics, society, economy, and sports, delivering a concise daily briefing."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1785726000000,
+    "stopTs": 1785727800000,
+    "title": "60 Second Mein Khabar",
+    "desc": "The host shares the latest updates on economics, politics, and social issues, covering current affairs, trends, and important developments for a clear, easy-to-understand overview today."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1785727800000,
+    "stopTs": 1785729600000,
+    "title": "News 100",
+    "desc": "A host shares 100 top news updates from India and worldwide, covering politics, society, economy, and sports, delivering a concise daily briefing."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1785729600000,
+    "stopTs": 1785731400000,
+    "title": "Morning Breaking",
+    "desc": "The host presents the latest political, social and economic news updates and speaks about the recent developments from around the globe."
   }
 ]

@@ -1,38 +1,5 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "NDTV24x7.in",
-    "channelId": "NDTV24x7.in",
-    "channelName": "NDTV 24x7",
-    "startTs": 1785549600000,
-    "stopTs": 1785551400000,
-    "title": "Fault Lines",
-    "desc": "The host invites experts to engage in an insightful conversation about current events as they share their opinions on the matter."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "NDTV24x7.in",
-    "channelId": "NDTV24x7.in",
-    "channelName": "NDTV 24x7",
-    "startTs": 1785551400000,
-    "stopTs": 1785553200000,
-    "title": "The Breakfast Show",
-    "desc": "The breakfast show that sets the agenda for the day. Join our reporters for news updates and get all the updates on what happened overnight."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "NDTV24x7.in",
-    "channelId": "NDTV24x7.in",
-    "channelName": "NDTV 24x7",
-    "startTs": 1785553200000,
-    "stopTs": 1785555000000,
-    "title": "India Ascends",
-    "desc": "A forward-looking feature capturing national progress across technology, economy, and innovation, spotlighting achievements and ambitions driving the country&apos;s upward trajectory."
-  },
-  {
     "start": "03:30",
     "stop": "04:00",
     "channel": "NDTV24x7.in",
@@ -41,7 +8,7 @@
     "startTs": 1785555000000,
     "stopTs": 1785556800000,
     "title": "News",
-    "desc": "When you want to know what happened in India and around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up to date."
+    "desc": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
   },
   {
     "start": "04:00",
@@ -1076,5 +1043,38 @@
     "stopTs": 1785726000000,
     "title": "The Breakfast Show",
     "desc": "The breakfast show that sets the agenda for the day. Join our reporters for news updates and get all the updates on what happened overnight."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "NDTV24x7.in",
+    "channelId": "NDTV24x7.in",
+    "channelName": "NDTV 24x7",
+    "startTs": 1785726000000,
+    "stopTs": 1785727800000,
+    "title": "The Breakfast Show",
+    "desc": "The breakfast show that sets the agenda for the day. Join our reporters for news updates and get all the updates on what happened overnight."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "NDTV24x7.in",
+    "channelId": "NDTV24x7.in",
+    "channelName": "NDTV 24x7",
+    "startTs": 1785727800000,
+    "stopTs": 1785729600000,
+    "title": "News",
+    "desc": "When you want to know what happened in India and around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up to date."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "NDTV24x7.in",
+    "channelId": "NDTV24x7.in",
+    "channelName": "NDTV 24x7",
+    "startTs": 1785729600000,
+    "stopTs": 1785731400000,
+    "title": "News",
+    "desc": "When you want to know what happened in India and around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up to date."
   }
 ]

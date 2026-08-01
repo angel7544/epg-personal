@@ -1,27 +1,5 @@
 [
   {
-    "start": "02:00",
-    "stop": "03:00",
-    "channel": "SakshiTV.in",
-    "channelId": "SakshiTV.in",
-    "channelName": "Sakshi TV",
-    "startTs": 1785549600000,
-    "stopTs": 1785553200000,
-    "title": "Ksr Live Show",
-    "desc": "Follow Kommineni Srinivasa Rao, a renowned journalist presenting the latest news stories that are making it to the headlines."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "SakshiTV.in",
-    "channelId": "SakshiTV.in",
-    "channelName": "Sakshi TV",
-    "startTs": 1785553200000,
-    "stopTs": 1785555000000,
-    "title": "Garam Garam Vartalu",
-    "desc": "A satirical yet informative look at trending headlines, politics, and public issues delivered in a humorous and quirky format."
-  },
-  {
     "start": "03:30",
     "stop": "04:00",
     "channel": "SakshiTV.in",
@@ -30,7 +8,7 @@
     "startTs": 1785555000000,
     "stopTs": 1785556800000,
     "title": "News Express / Sakshi News",
-    "desc": "Brings key updates from political circles, party strategies, and exclusive stories about influential leaders and electoral battles."
+    "desc": "The presenter shares news updates of the day on priority basis; the host presents the latest developments, current affairs and headlines."
   },
   {
     "start": "04:00",
@@ -911,5 +889,38 @@
     "stopTs": 1785726000000,
     "title": "Ksr Live Show",
     "desc": "Follow Kommineni Srinivasa Rao, a renowned journalist presenting the latest news stories that are making it to the headlines."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "SakshiTV.in",
+    "channelId": "SakshiTV.in",
+    "channelName": "Sakshi TV",
+    "startTs": 1785726000000,
+    "stopTs": 1785727800000,
+    "title": "Garam Garam Vartalu",
+    "desc": "A satirical yet informative look at trending headlines, politics, and public issues delivered in a humorous and quirky format."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "SakshiTV.in",
+    "channelId": "SakshiTV.in",
+    "channelName": "Sakshi TV",
+    "startTs": 1785727800000,
+    "stopTs": 1785729600000,
+    "title": "News Express / Sakshi News",
+    "desc": "Brings key updates from political circles, party strategies, and exclusive stories about influential leaders and electoral battles."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "SakshiTV.in",
+    "channelId": "SakshiTV.in",
+    "channelName": "Sakshi TV",
+    "startTs": 1785729600000,
+    "stopTs": 1785731400000,
+    "title": "Film Nagar",
+    "desc": "Get the latest updates and gossip from the vibrant Telugu film industry."
   }
 ]

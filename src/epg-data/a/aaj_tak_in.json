@@ -1,102 +1,25 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "AajTak.in",
-    "channelId": "AajTak.in",
-    "channelName": "Aaj Tak",
-    "startTs": 1785549600000,
-    "stopTs": 1785551400000,
-    "title": "100 Shahar 100 Khabar",
-    "desc": "The host presents the latest political, social, economic and sports news updates and speaks about the recent developments in the country."
-  },
-  {
-    "start": "02:30",
-    "stop": "02:50",
-    "channel": "AajTak.in",
-    "channelId": "AajTak.in",
-    "channelName": "Aaj Tak HD",
-    "startTs": 1785551400000,
-    "stopTs": 1785552600000,
-    "title": "News",
-    "desc": "The host presents the latest political, social, sports and economic news updates and speaks about the recent developments from around the world."
-  },
-  {
-    "start": "02:50",
-    "stop": "03:00",
-    "channel": "AajTak.in",
-    "channelId": "AajTak.in",
-    "channelName": "Aaj Tak HD",
-    "startTs": 1785552600000,
-    "stopTs": 1785553200000,
-    "title": "News",
-    "desc": "The host presents the latest political, social, sports and economic news updates and speaks about the recent developments from around the world."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:15",
-    "channel": "AajTak.in",
-    "channelId": "AajTak.in",
-    "channelName": "Aaj Tak HD",
-    "startTs": 1785553200000,
-    "stopTs": 1785554100000,
-    "title": "Non-Stop 100",
-    "desc": "The host collates and presents some of the latest and most important news and updates from across the world in quick succession."
-  },
-  {
-    "start": "03:15",
-    "stop": "03:30",
-    "channel": "AajTak.in",
-    "channelId": "AajTak.in",
-    "channelName": "Aaj Tak HD",
-    "startTs": 1785554100000,
-    "stopTs": 1785555000000,
-    "title": "Astro Show",
-    "desc": "An astrologer uses birth dates, sun signs, and planet positions to make predictions for viewers. This helps people understand their future and make informed decisions."
-  },
-  {
-    "start": "03:20",
-    "stop": "03:35",
-    "channel": "AajTak.in",
-    "channelId": "AajTak.in",
-    "channelName": "Aaj Tak HD",
-    "startTs": 1785554400000,
-    "stopTs": 1785555300000,
-    "title": "Non-Stop 100",
-    "desc": "The host collates and presents some of the latest and most important news and updates from across the world in quick succession."
-  },
-  {
-    "start": "03:30",
-    "stop": "03:55",
-    "channel": "AajTak.in",
-    "channelId": "AajTak.in",
-    "channelName": "Aaj Tak HD",
-    "startTs": 1785555000000,
-    "stopTs": 1785556500000,
-    "title": "Astro Show",
-    "desc": "An astrologer uses birth dates, sun signs, and planet positions to make predictions for viewers. This helps people understand their future and make informed decisions."
-  },
-  {
     "start": "03:35",
     "stop": "03:55",
     "channel": "AajTak.in",
     "channelId": "AajTak.in",
-    "channelName": "Aaj Tak HD",
+    "channelName": "Aaj Tak",
     "startTs": 1785555300000,
     "stopTs": 1785556500000,
     "title": "Bhagya Chakra",
-    "desc": "An astrologer uses your birthdate, zodiac sign, and planet positions to forecast your future. They offer insights and predictions to viewers seeking guidance. Discover what the stars may hold."
+    "desc": "A renowned astrologer provides remedial measures for various problems people face based on their zodiac signs and the position of the planets."
   },
   {
     "start": "03:55",
     "stop": "04:10",
     "channel": "AajTak.in",
     "channelId": "AajTak.in",
-    "channelName": "Aaj Tak HD",
+    "channelName": "Aaj Tak",
     "startTs": 1785556500000,
     "stopTs": 1785557400000,
-    "title": "100 Shahar 100 Khabar",
-    "desc": "Stay updated with the latest top 100 news stories from 100 cities across India, covering key developments in politics, society, economy, and more."
+    "title": "Bhagya Chakra",
+    "desc": "A renowned astrologer provides remedial measures for various problems people face based on their zodiac signs and the position of the planets."
   },
   {
     "start": "04:10",
@@ -1769,5 +1692,82 @@
     "stopTs": 1785726000000,
     "title": "News",
     "desc": "The host presents the latest political, social, sports and economic news updates and speaks about the recent developments from around the world."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:15",
+    "channel": "AajTak.in",
+    "channelId": "AajTak.in",
+    "channelName": "Aaj Tak HD",
+    "startTs": 1785726000000,
+    "stopTs": 1785726900000,
+    "title": "Non-Stop 100",
+    "desc": "The host collates and presents some of the latest and most important news and updates from across the world in quick succession."
+  },
+  {
+    "start": "03:15",
+    "stop": "03:30",
+    "channel": "AajTak.in",
+    "channelId": "AajTak.in",
+    "channelName": "Aaj Tak HD",
+    "startTs": 1785726900000,
+    "stopTs": 1785727800000,
+    "title": "Astro Show",
+    "desc": "An astrologer uses birth dates, sun signs, and planet positions to make predictions for viewers. This helps people understand their future and make informed decisions."
+  },
+  {
+    "start": "03:20",
+    "stop": "03:35",
+    "channel": "AajTak.in",
+    "channelId": "AajTak.in",
+    "channelName": "Aaj Tak HD",
+    "startTs": 1785727200000,
+    "stopTs": 1785728100000,
+    "title": "Bhagya Chakra",
+    "desc": "An astrologer uses your birthdate, zodiac sign, and planet positions to forecast your future. They offer insights and predictions to viewers seeking guidance. Discover what the stars may hold."
+  },
+  {
+    "start": "03:30",
+    "stop": "03:55",
+    "channel": "AajTak.in",
+    "channelId": "AajTak.in",
+    "channelName": "Aaj Tak HD",
+    "startTs": 1785727800000,
+    "stopTs": 1785729300000,
+    "title": "9 Baj Gaye",
+    "desc": "The host presents the latest social, economic and political news updates and speaks about the recent developments from around the world."
+  },
+  {
+    "start": "03:35",
+    "stop": "03:55",
+    "channel": "AajTak.in",
+    "channelId": "AajTak.in",
+    "channelName": "Aaj Tak HD",
+    "startTs": 1785728100000,
+    "stopTs": 1785729300000,
+    "title": "9 Baj Gaye",
+    "desc": "The host presents the latest social, economic and political news updates and speaks about the recent developments from around the world."
+  },
+  {
+    "start": "03:55",
+    "stop": "04:10",
+    "channel": "AajTak.in",
+    "channelId": "AajTak.in",
+    "channelName": "Aaj Tak HD",
+    "startTs": 1785729300000,
+    "stopTs": 1785730200000,
+    "title": "100 Shahar 100 Khabar",
+    "desc": "Stay updated with the latest top 100 news stories from 100 cities across India, covering key developments in politics, society, economy, and more."
+  },
+  {
+    "start": "04:10",
+    "stop": "04:25",
+    "channel": "AajTak.in",
+    "channelId": "AajTak.in",
+    "channelName": "Aaj Tak HD",
+    "startTs": 1785730200000,
+    "stopTs": 1785731100000,
+    "title": "9 Baj Gaye",
+    "desc": "The host presents the latest social, economic and political news updates and speaks about the recent developments from around the world."
   }
 ]

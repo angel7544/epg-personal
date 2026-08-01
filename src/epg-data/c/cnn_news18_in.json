@@ -1,47 +1,14 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "CNNNews18.in",
-    "channelId": "CNNNews18.in",
-    "channelName": "CNN-News18",
-    "startTs": 1785549600000,
-    "stopTs": 1785551400000,
-    "title": "The CNN Hour",
-    "desc": "The host presents the latest information, advancements and developments on various significant issues affecting the lives of many individuals."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "CNNNews18.in",
-    "channelId": "CNNNews18.in",
-    "channelName": "CNN News18",
-    "startTs": 1785551400000,
-    "stopTs": 1785553200000,
-    "title": "The Morning News",
-    "desc": "Latest updates from sports, technology, stock market, entertainment and politics."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "CNNNews18.in",
-    "channelId": "CNNNews18.in",
-    "channelName": "CNN News18",
-    "startTs": 1785553200000,
-    "stopTs": 1785555000000,
-    "title": "The Morning News",
-    "desc": "Latest updates from sports, technology, stock market, entertainment and politics."
-  },
-  {
     "start": "03:30",
     "stop": "04:00",
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
-    "channelName": "CNN News18",
+    "channelName": "CNN-News18",
     "startTs": 1785555000000,
     "stopTs": 1785556800000,
     "title": "The Morning News",
-    "desc": "Latest updates from sports, technology, stock market, entertainment and politics."
+    "desc": "The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs."
   },
   {
     "start": "04:00",
@@ -1043,5 +1010,16 @@
     "stopTs": 1785727800000,
     "title": "The Breakfast Club",
     "desc": "The Breakfast Club showcases DJ Envy, Angela Yee, and Charlamagne Tha God, top radio personalities."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "CNNNews18.in",
+    "channelId": "CNNNews18.in",
+    "channelName": "CNN News18",
+    "startTs": 1785727800000,
+    "stopTs": 1785731400000,
+    "title": "The Morning News",
+    "desc": "Latest updates from sports, technology, stock market, entertainment and politics."
   }
 ]

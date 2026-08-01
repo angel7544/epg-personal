@@ -1,38 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1785551400000,
-    "stopTs": 1785553200000,
-    "title": "Bulletin Live @ 8",
-    "desc": "Live news coverage focusing on prime-time updates."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1785553200000,
-    "stopTs": 1785555000000,
-    "title": "Aaj Ki Khabar",
-    "desc": "Daily news roundup presenting the day&apos;s important happenings."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1785555000000,
-    "stopTs": 1785556800000,
-    "title": "Bulletin",
-    "desc": "Bulletin."
-  },
-  {
     "start": "04:00",
     "stop": "04:30",
     "channel": "SadhnaPrimeNews.in",
@@ -1032,5 +999,38 @@
     "stopTs": 1785726000000,
     "title": "Bulletin Live @ 8",
     "desc": "Live news coverage focusing on prime-time updates."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1785726000000,
+    "stopTs": 1785727800000,
+    "title": "NIS",
+    "desc": "News Information Service delivering timely reports and bulletins."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1785727800000,
+    "stopTs": 1785729600000,
+    "title": "Bulletin",
+    "desc": "Bulletin."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1785729600000,
+    "stopTs": 1785731400000,
+    "title": "Bulletin",
+    "desc": "Bulletin."
   }
 ]

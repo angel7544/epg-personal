@@ -1,27 +1,5 @@
 [
   {
-    "start": "02:00",
-    "stop": "03:00",
-    "channel": "DDGirnar.in",
-    "channelId": "DDGirnar.in",
-    "channelName": "DD Girnar",
-    "startTs": 1785549600000,
-    "stopTs": 1785553200000,
-    "title": "Spon. Prog. Sukh Nu Science",
-    "desc": "Tune in to a sponsored program exploring the science behind happiness and well being."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "DDGirnar.in",
-    "channelId": "DDGirnar.in",
-    "channelName": "DD Girnar",
-    "startTs": 1785553200000,
-    "stopTs": 1785555000000,
-    "title": "Samachar",
-    "desc": "The host presents the latest headlines and developments pertaining to politics, sports, entertainment and finance from across the globe."
-  },
-  {
     "start": "03:30",
     "stop": "04:00",
     "channel": "DDGirnar.in",
@@ -29,8 +7,8 @@
     "channelName": "DD Girnar",
     "startTs": 1785555000000,
     "stopTs": 1785556800000,
-    "title": "Spon. Educational Prog",
-    "desc": "This program focuses on enhancing education through engaging methods, making learning fun and accessible for everyone. It aims to empower students and educators alike!"
+    "title": "Tirth",
+    "desc": "The host visits the many Hindu places of worship within India and provides information on their religious and spiritual significance."
   },
   {
     "start": "04:00",
@@ -1230,5 +1208,38 @@
     "stopTs": 1785726000000,
     "title": "Sukh Ni Science",
     "desc": "&apos;Sukh Ni Science&apos; explores the fusion of happiness and science, revealing how scientific principles can enhance our well-being and improve our daily lives in fun ways."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "DDGirnar.in",
+    "channelId": "DDGirnar.in",
+    "channelName": "DD Girnar",
+    "startTs": 1785726000000,
+    "stopTs": 1785727800000,
+    "title": "News",
+    "desc": "The host presents numerous top stories, latest happenings and significant updates from the national and international front."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "DDGirnar.in",
+    "channelId": "DDGirnar.in",
+    "channelName": "DD Girnar",
+    "startTs": 1785727800000,
+    "stopTs": 1785729600000,
+    "title": "Home Learning",
+    "desc": "&apos;Home Learning by Educational Programme Sponsored&apos; offers fun and engaging resources for kids to learn from home, making education enjoyable and accessible for everyone."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "DDGirnar.in",
+    "channelId": "DDGirnar.in",
+    "channelName": "DD Girnar",
+    "startTs": 1785729600000,
+    "stopTs": 1785731400000,
+    "title": "Home Learning",
+    "desc": "&apos;Home Learning by Educational Programme Sponsored&apos; offers fun and engaging resources for kids to learn from home, making education enjoyable and accessible for everyone."
   }
 ]

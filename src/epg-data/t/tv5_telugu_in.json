@@ -1,27 +1,5 @@
 [
   {
-    "start": "02:00",
-    "stop": "03:00",
-    "channel": "TV5News.in",
-    "channelId": "TV5News.in",
-    "channelName": "TV5 Telugu",
-    "startTs": 1785549600000,
-    "stopTs": 1785553200000,
-    "title": "News Scan",
-    "desc": "This live program gives a glimpse of all the important headlines in all the newspapers of the day."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "TV5News.in",
-    "channelId": "TV5News.in",
-    "channelName": "TV5 Telugu",
-    "startTs": 1785553200000,
-    "stopTs": 1785555000000,
-    "title": "Business Weekend",
-    "desc": "This is a news update. We will share the most recent news stories and important events that happened today. Stay informed with our quick and easy summary."
-  },
-  {
     "start": "03:30",
     "stop": "04:00",
     "channel": "TV5News.in",
@@ -30,7 +8,7 @@
     "startTs": 1785555000000,
     "stopTs": 1785556800000,
     "title": "9 AM News",
-    "desc": "This is a news update. We will share the most recent news stories and important events that happened today. Stay informed with our quick and easy summary."
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "start": "04:00",
@@ -889,5 +867,38 @@
     "stopTs": 1785726000000,
     "title": "News Scan",
     "desc": "This live program gives a glimpse of all the important headlines in all the newspapers of the day."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "TV5News.in",
+    "channelId": "TV5News.in",
+    "channelName": "TV5 Telugu",
+    "startTs": 1785726000000,
+    "stopTs": 1785727800000,
+    "title": "Business Breakfast",
+    "desc": "This is a news update. We will share the most recent news stories and important events that happened today. Stay informed with our quick and easy summary."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "TV5News.in",
+    "channelId": "TV5News.in",
+    "channelName": "TV5 Telugu",
+    "startTs": 1785727800000,
+    "stopTs": 1785729600000,
+    "title": "9 AM News",
+    "desc": "This is a news update. We will share the most recent news stories and important events that happened today. Stay informed with our quick and easy summary."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "TV5News.in",
+    "channelId": "TV5News.in",
+    "channelName": "TV5 Telugu",
+    "startTs": 1785729600000,
+    "stopTs": 1785731400000,
+    "title": "Favorite 5",
+    "desc": "This program revives classic movies. It showcases beloved films from the past, offering a fresh look for modern audiences to enjoy these timeless stories."
   }
 ]

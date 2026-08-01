@@ -1,49 +1,5 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "10TV.in",
-    "channelId": "10TV.in",
-    "channelName": "10TV",
-    "startTs": 1785549600000,
-    "stopTs": 1785551400000,
-    "title": "Special Focus",
-    "desc": "The host presents an in-depth analysis of important political and economic news stories that impact the lives of common citizens."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "10TV.in",
-    "channelId": "10TV.in",
-    "channelName": "10TV",
-    "startTs": 1785551400000,
-    "stopTs": 1785553200000,
-    "title": "Super Fast 100",
-    "desc": "Stay informed with the latest news. Get fast updates on important headlines and breaking stories. Don&apos;t miss out on what&apos;s happening in the world around you."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:27",
-    "channel": "10TV.in",
-    "channelId": "10TV.in",
-    "channelName": "10TV",
-    "startTs": 1785553200000,
-    "stopTs": 1785554820000,
-    "title": "Patas News",
-    "desc": "The hosts delve deeper into the latest news updates as well as developments from across the world with the help of satire."
-  },
-  {
-    "start": "03:27",
-    "stop": "03:30",
-    "channel": "10TV.in",
-    "channelId": "10TV.in",
-    "channelName": "10TV",
-    "startTs": 1785554820000,
-    "stopTs": 1785555000000,
-    "title": "2 Minutes 12 Headlines",
-    "desc": "The host collates and presents some of the most important news, updates and developments of the day in quick succession."
-  },
-  {
     "start": "03:30",
     "stop": "04:00",
     "channel": "10TV.in",
@@ -52,7 +8,7 @@
     "startTs": 1785555000000,
     "stopTs": 1785556800000,
     "title": "9 AM News",
-    "desc": "The host presents the top news headlines and developments surrounding various socio-economic and political issues and provides updates on current events."
+    "desc": "The host sheds light on the latest news, updates and developments ranging across diverse issues happening around the country."
   },
   {
     "start": "04:00",
@@ -1230,5 +1186,49 @@
     "stopTs": 1785726000000,
     "title": "Super Fast 100",
     "desc": "Stay informed with the latest news. Get fast updates on important headlines and breaking stories. Don&apos;t miss out on what&apos;s happening in the world around you."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:27",
+    "channel": "10TV.in",
+    "channelId": "10TV.in",
+    "channelName": "10TV",
+    "startTs": 1785726000000,
+    "stopTs": 1785727620000,
+    "title": "Patas News",
+    "desc": "The hosts delve deeper into the latest news updates as well as developments from across the world with the help of satire."
+  },
+  {
+    "start": "03:27",
+    "stop": "03:30",
+    "channel": "10TV.in",
+    "channelId": "10TV.in",
+    "channelName": "10TV",
+    "startTs": 1785727620000,
+    "stopTs": 1785727800000,
+    "title": "2 Minutes 12 Headlines",
+    "desc": "The host collates and presents some of the most important news, updates and developments of the day in quick succession."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "10TV.in",
+    "channelId": "10TV.in",
+    "channelName": "10TV",
+    "startTs": 1785727800000,
+    "stopTs": 1785729600000,
+    "title": "9 AM News",
+    "desc": "The host presents the top news headlines and developments surrounding various socio-economic and political issues and provides updates on current events."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:27",
+    "channel": "10TV.in",
+    "channelId": "10TV.in",
+    "channelName": "10TV",
+    "startTs": 1785729600000,
+    "stopTs": 1785731220000,
+    "title": "Big Story",
+    "desc": "A news anchor reports the day&apos;s important national stories. They cover politics, the economy, and other key events from across the country, providing a detailed look."
   }
 ]

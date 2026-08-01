@@ -1,93 +1,5 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:15",
-    "channel": "NDTVMarathi.in",
-    "channelId": "NDTVMarathi.in",
-    "channelName": "NDTV Marathi",
-    "startTs": 1785549600000,
-    "stopTs": 1785550500000,
-    "title": "Gaav Khedyachya Baatmya",
-    "desc": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "start": "02:15",
-    "stop": "02:30",
-    "channel": "NDTVMarathi.in",
-    "channelId": "NDTVMarathi.in",
-    "channelName": "NDTV Marathi",
-    "startTs": 1785550500000,
-    "stopTs": 1785551400000,
-    "title": "NDTV Special",
-    "desc": "The host presents the latest information and developments on various national and international issues and provides an update on current events."
-  },
-  {
-    "start": "02:30",
-    "stop": "02:45",
-    "channel": "NDTVMarathi.in",
-    "channelId": "NDTVMarathi.in",
-    "channelName": "NDTV Marathi",
-    "startTs": 1785551400000,
-    "stopTs": 1785552300000,
-    "title": "Rashifal Diwali Special",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "02:45",
-    "stop": "03:00",
-    "channel": "NDTVMarathi.in",
-    "channelId": "NDTVMarathi.in",
-    "channelName": "NDTV Marathi",
-    "startTs": 1785552300000,
-    "stopTs": 1785553200000,
-    "title": "Desh Videsh 50",
-    "desc": "A comprehensive news program delivering 50 national and international updates, highlighting global affairs, politics, economy, and events in a fast-paced format."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:15",
-    "channel": "NDTVMarathi.in",
-    "channelId": "NDTVMarathi.in",
-    "channelName": "NDTV Marathi",
-    "startTs": 1785553200000,
-    "stopTs": 1785554100000,
-    "title": "Maharashtra Shahar Live",
-    "desc": "The host presents the latest updates on the different crimes taking place in the neighbourhood and in the Maharastra state."
-  },
-  {
-    "start": "03:15",
-    "stop": "03:18",
-    "channel": "NDTVMarathi.in",
-    "channelId": "NDTVMarathi.in",
-    "channelName": "NDTV Marathi",
-    "startTs": 1785554100000,
-    "stopTs": 1785554280000,
-    "title": "NDTV Special",
-    "desc": "Special feature highlighting stories of cultural, political, and social relevance with unique regional insights and compelling on-ground narratives."
-  },
-  {
-    "start": "03:18",
-    "stop": "03:30",
-    "channel": "NDTVMarathi.in",
-    "channelId": "NDTVMarathi.in",
-    "channelName": "NDTV Marathi",
-    "startTs": 1785554280000,
-    "stopTs": 1785555000000,
-    "title": "Kaamachya Baatmya",
-    "desc": "A regional Marathi bulletin focusing on employment-related news, government policies, and work opportunities, crafted to inform viewers about jobs and labor issues."
-  },
-  {
-    "start": "03:30",
-    "stop": "03:35",
-    "channel": "NDTVMarathi.in",
-    "channelId": "NDTVMarathi.in",
-    "channelName": "NDTV Marathi",
-    "startTs": 1785555000000,
-    "stopTs": 1785555300000,
-    "title": "Top 10",
-    "desc": "A crisp news bulletin presenting the day&apos;s top 10 headlines, giving viewers quick updates on the most important national, regional, and global developments."
-  },
-  {
     "start": "03:35",
     "stop": "03:45",
     "channel": "NDTVMarathi.in",
@@ -96,7 +8,7 @@
     "startTs": 1785555300000,
     "stopTs": 1785555900000,
     "title": "Big And Breaking",
-    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+    "desc": "The host presents the latest breaking news stories and recent updates on crucial matters such as governance, economics, and social and political issues from the country."
   },
   {
     "start": "03:45",
@@ -107,7 +19,7 @@
     "startTs": 1785555900000,
     "stopTs": 1785556800000,
     "title": "Mahanagar Fast",
-    "desc": "A fast-paced Marathi news program highlighting updates from urban centers, capturing current issues, developments, and stories relevant to city audiences."
+    "desc": "The host presents a fast-paced bulletin of news from across the metropolis, providing a quick and comprehensive update on all the day&apos;s major headlines."
   },
   {
     "start": "04:00",
@@ -1384,5 +1296,82 @@
     "stopTs": 1785726000000,
     "title": "Desh Videsh 50",
     "desc": "A comprehensive news program delivering 50 national and international updates, highlighting global affairs, politics, economy, and events in a fast-paced format."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:15",
+    "channel": "NDTVMarathi.in",
+    "channelId": "NDTVMarathi.in",
+    "channelName": "NDTV Marathi",
+    "startTs": 1785726000000,
+    "stopTs": 1785726900000,
+    "title": "Maharashtra Shahar Live",
+    "desc": "The host presents the latest updates on the different crimes taking place in the neighbourhood and in the Maharastra state."
+  },
+  {
+    "start": "03:15",
+    "stop": "03:18",
+    "channel": "NDTVMarathi.in",
+    "channelId": "NDTVMarathi.in",
+    "channelName": "NDTV Marathi",
+    "startTs": 1785726900000,
+    "stopTs": 1785727080000,
+    "title": "NDTV Special",
+    "desc": "Special feature highlighting stories of cultural, political, and social relevance with unique regional insights and compelling on-ground narratives."
+  },
+  {
+    "start": "03:18",
+    "stop": "03:30",
+    "channel": "NDTVMarathi.in",
+    "channelId": "NDTVMarathi.in",
+    "channelName": "NDTV Marathi",
+    "startTs": 1785727080000,
+    "stopTs": 1785727800000,
+    "title": "Kaamachya Baatmya",
+    "desc": "A regional Marathi bulletin focusing on employment-related news, government policies, and work opportunities, crafted to inform viewers about jobs and labor issues."
+  },
+  {
+    "start": "03:30",
+    "stop": "03:35",
+    "channel": "NDTVMarathi.in",
+    "channelId": "NDTVMarathi.in",
+    "channelName": "NDTV Marathi",
+    "startTs": 1785727800000,
+    "stopTs": 1785728100000,
+    "title": "Top 10",
+    "desc": "A crisp news bulletin presenting the day&apos;s top 10 headlines, giving viewers quick updates on the most important national, regional, and global developments."
+  },
+  {
+    "start": "03:35",
+    "stop": "03:45",
+    "channel": "NDTVMarathi.in",
+    "channelId": "NDTVMarathi.in",
+    "channelName": "NDTV Marathi",
+    "startTs": 1785728100000,
+    "stopTs": 1785728700000,
+    "title": "Big And Breaking",
+    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+  },
+  {
+    "start": "03:45",
+    "stop": "04:00",
+    "channel": "NDTVMarathi.in",
+    "channelId": "NDTVMarathi.in",
+    "channelName": "NDTV Marathi",
+    "startTs": 1785728700000,
+    "stopTs": 1785729600000,
+    "title": "Mahanagar Fast",
+    "desc": "A fast-paced Marathi news program highlighting updates from urban centers, capturing current issues, developments, and stories relevant to city audiences."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "NDTVMarathi.in",
+    "channelId": "NDTVMarathi.in",
+    "channelName": "NDTV Marathi",
+    "startTs": 1785729600000,
+    "stopTs": 1785731400000,
+    "title": "Thalak 100",
+    "desc": "A rapid-fire Marathi bulletin presenting 100 top news stories of the day in quick succession, covering politics, sports, entertainment, and more with unmatched speed."
   }
 ]

@@ -1,38 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "AMVNetwork.in",
-    "channelId": "AMVNetwork.in",
-    "channelName": "AMV Network",
-    "startTs": 1785551400000,
-    "stopTs": 1785553200000,
-    "title": "Shubh Savera",
-    "desc": "A mixed-news broadcast that informs viewers about current events."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "AMVNetwork.in",
-    "channelId": "AMVNetwork.in",
-    "channelName": "AMV Network",
-    "startTs": 1785553200000,
-    "stopTs": 1785555000000,
-    "title": "Kuch To Hai",
-    "desc": "Watch for intriguing stories and mysteries that keep you hooked."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "AMVNetwork.in",
-    "channelId": "AMVNetwork.in",
-    "channelName": "AMV Network",
-    "startTs": 1785555000000,
-    "stopTs": 1785556800000,
-    "title": "Straight From State",
-    "desc": "A special news program."
-  },
-  {
     "start": "04:00",
     "stop": "04:30",
     "channel": "AMVNetwork.in",
@@ -1065,5 +1032,38 @@
     "stopTs": 1785726000000,
     "title": "Shubh Savera",
     "desc": "A mixed-news broadcast that informs viewers about current events."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "AMVNetwork.in",
+    "channelId": "AMVNetwork.in",
+    "channelName": "AMV Network",
+    "startTs": 1785726000000,
+    "stopTs": 1785727800000,
+    "title": "Kuch To Hai",
+    "desc": "Watch for intriguing stories and mysteries that keep you hooked."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "AMVNetwork.in",
+    "channelId": "AMVNetwork.in",
+    "channelName": "AMV Network",
+    "startTs": 1785727800000,
+    "stopTs": 1785729600000,
+    "title": "Straight From State",
+    "desc": "A special news program."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "AMVNetwork.in",
+    "channelId": "AMVNetwork.in",
+    "channelName": "AMV Network",
+    "startTs": 1785729600000,
+    "stopTs": 1785731400000,
+    "title": "Straight From State",
+    "desc": "A special news program."
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "start": "01:30",
-    "stop": "02:30",
-    "channel": "ShowBox.in",
-    "channelId": "ShowBox.in",
-    "channelName": "Showbox",
-    "startTs": 1785547800000,
-    "stopTs": 1785551400000,
-    "title": "Astro Tunes",
-    "desc": "A compilation of music and songs plays back to back while viewers receive their daily horoscopes through an astro wheel that spins and stops at each sign."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "ShowBox.in",
-    "channelId": "ShowBox.in",
-    "channelName": "Showbox",
-    "startTs": 1785551400000,
-    "stopTs": 1785555000000,
-    "title": "Breakless Breakfast",
-    "desc": "Breakless Breakfast"
-  },
-  {
     "start": "03:30",
     "stop": "04:30",
     "channel": "ShowBox.in",
@@ -845,5 +823,16 @@
     "stopTs": 1785727800000,
     "title": "Breakless Breakfast",
     "desc": "Breakless Breakfast"
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "ShowBox.in",
+    "channelId": "ShowBox.in",
+    "channelName": "Showbox",
+    "startTs": 1785727800000,
+    "stopTs": 1785731400000,
+    "title": "Reel Top 10",
+    "desc": "A countdown show featuring the top 10 trending film songs, scenes, and stars of the week, offering quick entertainment for cinema lovers."
   }
 ]

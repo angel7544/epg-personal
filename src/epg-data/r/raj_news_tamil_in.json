@@ -1,47 +1,14 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:30",
+    "start": "03:30",
+    "stop": "04:00",
     "channel": "RAJNEWSTAMIL.in",
     "channelId": "RAJNEWSTAMIL.in",
     "channelName": "RAJ NEWS TAMIL",
-    "startTs": 1785549600000,
-    "stopTs": 1785551400000,
-    "title": "Fast News",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "RajNews.in",
-    "channelId": "RajNews.in",
-    "channelName": "Raj News Tamil",
-    "startTs": 1785551400000,
-    "stopTs": 1785553200000,
-    "title": "Mukkiya Seithikal",
-    "desc": "Detailed reports on major news stories and important updates throughout the day."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "RajNews.in",
-    "channelId": "RajNews.in",
-    "channelName": "Raj News Tamil",
-    "startTs": 1785553200000,
-    "stopTs": 1785555000000,
-    "title": "Medical Programe",
-    "desc": "A health-based program offering expert advice on maintaining well-being, lifestyle, and treatment options for various medical conditions, ensuring a balanced and healthy life."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "RajNews.in",
-    "channelId": "RajNews.in",
-    "channelName": "Raj News Tamil",
     "startTs": 1785555000000,
     "stopTs": 1785556800000,
-    "title": "Morning News",
-    "desc": "The host summarizes the latest social, economic and political news nationally and globally."
+    "title": "Mukkiya Seithigal",
+    "desc": "The host provides the latest information, advancements and developments regarding various political, economic and social issues."
   },
   {
     "start": "04:00",
@@ -900,5 +867,38 @@
     "stopTs": 1785726000000,
     "title": "Mukkiya Seithikal",
     "desc": "Detailed reports on major news stories and important updates throughout the day."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "RajNews.in",
+    "channelId": "RajNews.in",
+    "channelName": "Raj News Tamil",
+    "startTs": 1785726000000,
+    "stopTs": 1785727800000,
+    "title": "Medical Programe",
+    "desc": "A health-based program offering expert advice on maintaining well-being, lifestyle, and treatment options for various medical conditions, ensuring a balanced and healthy life."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "RajNews.in",
+    "channelId": "RajNews.in",
+    "channelName": "Raj News Tamil",
+    "startTs": 1785727800000,
+    "stopTs": 1785729600000,
+    "title": "Morning News",
+    "desc": "The host summarizes the latest social, economic and political news nationally and globally."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "RajNews.in",
+    "channelId": "RajNews.in",
+    "channelName": "Raj News Tamil",
+    "startTs": 1785729600000,
+    "stopTs": 1785731400000,
+    "title": "Morning News",
+    "desc": "The host summarizes the latest social, economic and political news nationally and globally."
   }
 ]

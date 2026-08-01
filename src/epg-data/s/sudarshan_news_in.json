@@ -1,60 +1,5 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "SudarshanNews.in",
-    "channelId": "SudarshanNews.in",
-    "channelName": "Sudarshan News",
-    "startTs": 1785549600000,
-    "stopTs": 1785551400000,
-    "title": "SHATAK",
-    "desc": "The host presents the top 100 latest news stories and updates pertaining to various political and socio-economic issues across the country."
-  },
-  {
-    "start": "02:28",
-    "stop": "02:52",
-    "channel": "SudarshanNews.in",
-    "channelId": "SudarshanNews.in",
-    "channelName": "Sudarshan News",
-    "startTs": 1785551280000,
-    "stopTs": 1785552720000,
-    "title": "Suprabhat Hindustan",
-    "desc": "The Host covers the latest news and updates on social issues and politics."
-  },
-  {
-    "start": "02:30",
-    "stop": "02:35",
-    "channel": "SudarshanNews.in",
-    "channelId": "SudarshanNews.in",
-    "channelName": "Sudarshan News",
-    "startTs": 1785551400000,
-    "stopTs": 1785551700000,
-    "title": "5 Min 25 Khabar",
-    "desc": "The host presents a comprehensive and detailed coverage of the top twenty-five latest news and developments in five minutes."
-  },
-  {
-    "start": "02:35",
-    "stop": "03:00",
-    "channel": "SudarshanNews.in",
-    "channelId": "SudarshanNews.in",
-    "channelName": "Sudarshan News",
-    "startTs": 1785551700000,
-    "stopTs": 1785553200000,
-    "title": "News Bulletin",
-    "desc": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the globe."
-  },
-  {
-    "start": "02:52",
-    "stop": "03:00",
-    "channel": "SudarshanNews.in",
-    "channelId": "SudarshanNews.in",
-    "channelName": "Sudarshan News",
-    "startTs": 1785552720000,
-    "stopTs": 1785553200000,
-    "title": "5 Min 25 Khabar",
-    "desc": "Catch the latest news and developments in this fast-paced news module."
-  },
-  {
     "start": "03:00",
     "stop": "04:00",
     "channel": "SudarshanNews.in",
@@ -63,7 +8,7 @@
     "startTs": 1785553200000,
     "stopTs": 1785556800000,
     "title": "Bindas Bol",
-    "desc": "&apos;Bindas Bol&apos; features the host discussing news stories in a candid, engaging style."
+    "desc": "The host invites a panel of guests to engage in an insightful conversation surrounding matters that are of local and national significance."
   },
   {
     "start": "04:00",
@@ -1538,5 +1483,38 @@
     "stopTs": 1785725520000,
     "title": "Suprabhat Hindustan",
     "desc": "The Host covers the latest news and updates on social issues and politics."
+  },
+  {
+    "start": "02:52",
+    "stop": "03:00",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1785725520000,
+    "stopTs": 1785726000000,
+    "title": "5 Min 25 Khabar",
+    "desc": "Catch the latest news and developments in this fast-paced news module."
+  },
+  {
+    "start": "03:00",
+    "stop": "04:00",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1785726000000,
+    "stopTs": 1785729600000,
+    "title": "Bindas Bol",
+    "desc": "&apos;Bindas Bol&apos; features the host discussing news stories in a candid, engaging style."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "SudarshanNews.in",
+    "channelId": "SudarshanNews.in",
+    "channelName": "Sudarshan News",
+    "startTs": 1785729600000,
+    "stopTs": 1785731400000,
+    "title": "Super Fast 100",
+    "desc": "The host shares the day&apos;s top 100 news stories in Super Fast 100."
   }
 ]

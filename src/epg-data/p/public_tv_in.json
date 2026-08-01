@@ -1,38 +1,5 @@
 [
   {
-    "start": "02:00",
-    "stop": "03:00",
-    "channel": "PublicTV.in",
-    "channelId": "PublicTV.in",
-    "channelName": "Public TV",
-    "startTs": 1785549600000,
-    "stopTs": 1785553200000,
-    "title": "News Cafe",
-    "desc": "The host delivers the latest big headlines and key updates on various issues."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "PublicTV.in",
-    "channelId": "PublicTV.in",
-    "channelName": "Public TV",
-    "startTs": 1785551400000,
-    "stopTs": 1785553200000,
-    "title": "News Cafe Live",
-    "desc": "A special report on the regional top stories, events, important incidents and recent happenings from around the world."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "PublicTV.in",
-    "channelId": "PublicTV.in",
-    "channelName": "Public TV",
-    "startTs": 1785553200000,
-    "stopTs": 1785555000000,
-    "title": "Cini Adda",
-    "desc": "The host presents the latest updates from the Kannada entertainment industry."
-  },
-  {
     "start": "03:30",
     "stop": "05:00",
     "channel": "PublicTV.in",
@@ -1098,5 +1065,38 @@
     "stopTs": 1785726000000,
     "title": "News Cafe Live",
     "desc": "A special report on the regional top stories, events, important incidents and recent happenings from around the world."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "PublicTV.in",
+    "channelId": "PublicTV.in",
+    "channelName": "Public TV",
+    "startTs": 1785726000000,
+    "stopTs": 1785727800000,
+    "title": "Cine Adda",
+    "desc": "The host presents a compilation of movie reviews, live audience responses and the latest updates from the Kannada film industry."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "PublicTV.in",
+    "channelId": "PublicTV.in",
+    "channelName": "Public TV",
+    "startTs": 1785727800000,
+    "stopTs": 1785729600000,
+    "title": "Public News Live",
+    "desc": "Get real-time updates on major social, political, and economic events with expert analysis and diverse perspectives to keep you informed as the news unfolds."
+  },
+  {
+    "start": "04:00",
+    "stop": "05:15",
+    "channel": "PublicTV.in",
+    "channelId": "PublicTV.in",
+    "channelName": "Public TV",
+    "startTs": 1785729600000,
+    "stopTs": 1785734100000,
+    "title": "Zindagi Fresh",
+    "desc": "Enjoy lively discussions, lifestyle tips, and entertainment for a refreshing experience."
   }
 ]

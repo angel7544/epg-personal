@@ -1,71 +1,5 @@
 [
   {
-    "start": "01:55",
-    "stop": "02:20",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "Argus",
-    "startTs": 1785549300000,
-    "stopTs": 1785550800000,
-    "title": "Kuni Prabachak",
-    "desc": "This is News - News Bulletin Category"
-  },
-  {
-    "start": "02:20",
-    "stop": "02:25",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "Argus",
-    "startTs": 1785550800000,
-    "stopTs": 1785551100000,
-    "title": "Top 5 Viral",
-    "desc": "The host collates and showcases a selective compilation catering to the viewers&apos; interests and provides insights through the top five countdown."
-  },
-  {
-    "start": "02:25",
-    "stop": "02:55",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "Argus",
-    "startTs": 1785551100000,
-    "stopTs": 1785552900000,
-    "title": "30 Mint 30 Khabar",
-    "desc": "This is News - News Bulletin Category"
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "ARGUS",
-    "startTs": 1785551400000,
-    "stopTs": 1785553200000,
-    "title": "30 Minute 100 Khabar",
-    "desc": "Rapid news coverage highlights important events, social issues, and developments across communities."
-  },
-  {
-    "start": "02:55",
-    "stop": "03:25",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "Argus",
-    "startTs": 1785552900000,
-    "stopTs": 1785554700000,
-    "title": "Argus Reporters Live",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "ARGUS",
-    "startTs": 1785553200000,
-    "stopTs": 1785555000000,
-    "title": "Argus Reporters Live",
-    "desc": "Investigative reporting uncovers facts behind events, providing detailed and comprehensive analysis."
-  },
-  {
     "start": "03:25",
     "stop": "03:50",
     "channel": "ArgusNews.in",
@@ -75,17 +9,6 @@
     "stopTs": 1785556200000,
     "title": "Sakalara Bada Khabar",
     "desc": "The host presents a detailed insight into latest updates pertaining to socio-political issues and current affairs from around the country."
-  },
-  {
-    "start": "03:30",
-    "stop": "03:55",
-    "channel": "ArgusNews.in",
-    "channelId": "ArgusNews.in",
-    "channelName": "ARGUS",
-    "startTs": 1785555000000,
-    "stopTs": 1785556500000,
-    "title": "Sakalara Bada Khabar",
-    "desc": "The latest top thirty news video for you."
   },
   {
     "start": "03:50",
@@ -100,14 +23,14 @@
   },
   {
     "start": "03:55",
-    "stop": "04:00",
+    "stop": "04:25",
     "channel": "ArgusNews.in",
     "channelId": "ArgusNews.in",
-    "channelName": "ARGUS",
+    "channelName": "Argus",
     "startTs": 1785556500000,
-    "stopTs": 1785556800000,
-    "title": "5 Min 25 Khabar",
-    "desc": "The host presents the top 25 political and socio-economic news updates and developments from across India."
+    "stopTs": 1785558300000,
+    "title": "Argus Special",
+    "desc": "The host picks the best info to entertain and teach quickly, while the other element sorts through lots of news to give short, useful stories."
   },
   {
     "start": "04:00",
@@ -1637,5 +1560,49 @@
     "stopTs": 1785726000000,
     "title": "30 Minute 100 Khabar",
     "desc": "Rapid news coverage highlights important events, social issues, and developments across communities."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "ArgusNews.in",
+    "channelId": "ArgusNews.in",
+    "channelName": "ARGUS",
+    "startTs": 1785726000000,
+    "stopTs": 1785727800000,
+    "title": "Argus Reporters Live",
+    "desc": "Investigative reporting uncovers facts behind events, providing detailed and comprehensive analysis."
+  },
+  {
+    "start": "03:30",
+    "stop": "03:55",
+    "channel": "ArgusNews.in",
+    "channelId": "ArgusNews.in",
+    "channelName": "ARGUS",
+    "startTs": 1785727800000,
+    "stopTs": 1785729300000,
+    "title": "Sakalara Bada Khabar",
+    "desc": "The latest top thirty news video for you."
+  },
+  {
+    "start": "03:55",
+    "stop": "04:00",
+    "channel": "ArgusNews.in",
+    "channelId": "ArgusNews.in",
+    "channelName": "ARGUS",
+    "startTs": 1785729300000,
+    "stopTs": 1785729600000,
+    "title": "5 Min 25 Khabar",
+    "desc": "The host presents the top 25 political and socio-economic news updates and developments from across India."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "ArgusNews.in",
+    "channelId": "ArgusNews.in",
+    "channelName": "ARGUS",
+    "startTs": 1785729600000,
+    "stopTs": 1785731400000,
+    "title": "Mahapanchayat",
+    "desc": "The host interacts with common people of Odisha and asks their opinion on various trending news topics."
   }
 ]
