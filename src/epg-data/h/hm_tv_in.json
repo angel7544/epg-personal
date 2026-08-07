@@ -1,25 +1,14 @@
 [
   {
-    "start": "01:25",
-    "stop": "02:00",
-    "channel": "HMTV.in",
-    "channelId": "HMTV.in",
-    "channelName": "HM TV",
-    "startTs": 1785979500000,
-    "stopTs": 1785981600000,
-    "title": "News @ 7am",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
     "start": "02:00",
     "stop": "02:30",
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1785981600000,
-    "stopTs": 1785983400000,
+    "startTs": 1786068000000,
+    "stopTs": 1786069800000,
     "title": "News Analysis",
-    "desc": "The host digs deep into the latest news headlines and presents an in-depth analysis to help viewers gain a better understanding."
+    "desc": "The host digs deep into the latest news headlines and presents an in-depth analysis."
   },
   {
     "start": "02:30",
@@ -27,10 +16,10 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1785983400000,
-    "stopTs": 1785985200000,
+    "startTs": 1786069800000,
+    "stopTs": 1786071600000,
     "title": "News Analysis",
-    "desc": "The host digs deep into the latest news headlines and presents an in-depth analysis to help viewers gain a better understanding."
+    "desc": "The host digs deep into the latest news headlines and presents an in-depth analysis."
   },
   {
     "start": "03:00",
@@ -38,21 +27,21 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1785985200000,
-    "stopTs": 1785987000000,
+    "startTs": 1786071600000,
+    "stopTs": 1786073400000,
     "title": "Jordar Varthalu",
-    "desc": "The anchor provides the latest news and updates with a twist of humor, engaging in lively conversations with the reporter on the ground."
+    "desc": "The anchor provides the latest news stories, engaging in conversations with the reporter."
   },
   {
     "start": "03:30",
-    "stop": "03:55",
+    "stop": "04:00",
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1785987000000,
-    "stopTs": 1785988500000,
+    "startTs": 1786073400000,
+    "stopTs": 1786075200000,
     "title": "News @ 9am",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "03:55",
@@ -60,8 +49,8 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1785988500000,
-    "stopTs": 1785988800000,
+    "startTs": 1786074900000,
+    "stopTs": 1786075200000,
     "title": "Kapil",
     "desc": "Bringing the best in television."
   },
@@ -71,10 +60,10 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1785988800000,
-    "stopTs": 1785990600000,
-    "title": "Burning Topic",
-    "desc": "The host presents the latest news updates and developments pertaining to various pressing matters across different fronts of the nation."
+    "startTs": 1786075200000,
+    "stopTs": 1786077000000,
+    "title": "Otr",
+    "desc": "The host presents the latest news and developments surrounding various issues."
   },
   {
     "start": "04:30",
@@ -82,10 +71,10 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1785990600000,
-    "stopTs": 1785992400000,
-    "title": "News @ 10am",
-    "desc": "The host presents the latest news stories and information about the governance, social issues, economics, sports, and political matters."
+    "startTs": 1786077000000,
+    "stopTs": 1786078800000,
+    "title": "Express News + News @ 10am",
+    "desc": "."
   },
   {
     "start": "05:00",
@@ -93,21 +82,32 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1785992400000,
-    "stopTs": 1785994200000,
-    "title": "Commercial",
-    "desc": "The host shares information about a wide selection of products that can be purchased from the comfort of the consumer&apos;s home."
+    "startTs": 1786078800000,
+    "stopTs": 1786080600000,
+    "title": "Commercial (RJR Hospital)",
+    "desc": "A medical professional discusses treatments offered at a healthcare centre."
   },
   {
     "start": "05:30",
+    "stop": "05:55",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786080600000,
+    "stopTs": 1786082100000,
+    "title": "5 Mints 25 Headlines + News @11am",
+    "desc": "."
+  },
+  {
+    "start": "05:55",
     "stop": "06:00",
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1785994200000,
-    "stopTs": 1785996000000,
-    "title": "News @ 11am",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues."
+    "startTs": 1786082100000,
+    "stopTs": 1786082400000,
+    "title": "Kapil",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "06:00",
@@ -115,10 +115,10 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1785996000000,
-    "stopTs": 1785997800000,
-    "title": "Mata Pata",
-    "desc": "A comprehensive compilation of Telugu film songs is played back to back in order to entertain and enthrall the audience."
+    "startTs": 1786082400000,
+    "stopTs": 1786084200000,
+    "title": "Burning Topic",
+    "desc": "The host presents the latest news updates on various pressing issues of the nation."
   },
   {
     "start": "06:30",
@@ -126,10 +126,10 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1785997800000,
-    "stopTs": 1785999600000,
+    "startTs": 1786084200000,
+    "stopTs": 1786086000000,
     "title": "NEWS @ 12PM",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues."
+    "desc": "The host presents some of the latest updates, current affairs and developments."
   },
   {
     "start": "07:00",
@@ -137,10 +137,10 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1785999600000,
-    "stopTs": 1786001400000,
-    "title": "Otr",
-    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events."
+    "startTs": 1786086000000,
+    "stopTs": 1786087800000,
+    "title": "Business Pulse",
+    "desc": "."
   },
   {
     "start": "07:30",
@@ -148,10 +148,10 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1786001400000,
-    "stopTs": 1786003200000,
+    "startTs": 1786087800000,
+    "stopTs": 1786089600000,
     "title": "News @ 1pm",
-    "desc": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
+    "desc": "The host presents a detailed report on the latest news and developments."
   },
   {
     "start": "08:00",
@@ -159,9 +159,9 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1786003200000,
-    "stopTs": 1786005000000,
-    "title": "Mamaa",
+    "startTs": 1786089600000,
+    "stopTs": 1786091400000,
+    "title": "Film Flash",
     "desc": "Bringing the best in television."
   },
   {
@@ -170,10 +170,10 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1786005000000,
-    "stopTs": 1786006800000,
-    "title": "News @2pm",
-    "desc": "The host provides the latest information, advancements and developments regarding various political, economic and social issues."
+    "startTs": 1786091400000,
+    "stopTs": 1786093200000,
+    "title": "Express News + News @2pm",
+    "desc": "The host presents news and updates in quick succession; the host presents latest updates."
   },
   {
     "start": "09:00",
@@ -181,10 +181,10 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1786006800000,
-    "stopTs": 1786008600000,
-    "title": "Jordar Varthalu",
-    "desc": "The anchor provides the latest news and updates with a twist of humor, engaging in lively conversations with the reporter on the ground."
+    "startTs": 1786093200000,
+    "stopTs": 1786095000000,
+    "title": "Health 360",
+    "desc": "The host sheds light on how to lead a healthy lifestyle and keep diseases at bay."
   },
   {
     "start": "09:30",
@@ -192,21 +192,21 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1786008600000,
-    "stopTs": 1786010400000,
-    "title": "News @3pm",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues."
+    "startTs": 1786095000000,
+    "stopTs": 1786096800000,
+    "title": "5 Mints 25 Headlines + News @ 3pm",
+    "desc": "."
   },
   {
     "start": "10:00",
-    "stop": "10:25",
+    "stop": "10:30",
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1786010400000,
-    "stopTs": 1786011900000,
-    "title": "Show Time",
-    "desc": "The host invites prominent personalities and engages in insightful conversations surrounding various aspects of their lives."
+    "startTs": 1786096800000,
+    "stopTs": 1786098600000,
+    "title": "Debate",
+    "desc": "The host invites a few experts to share their views on the latest developments in society."
   },
   {
     "start": "10:25",
@@ -214,10 +214,21 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1786011900000,
-    "stopTs": 1786014000000,
+    "startTs": 1786098300000,
+    "stopTs": 1786100400000,
+    "title": "Arogyam",
+    "desc": "Health experts shed light on the symptoms and cure of various ailments and suggest techniques to lead a happy and healthy life."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786098600000,
+    "stopTs": 1786100400000,
     "title": "News @ 4pm",
-    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues."
+    "desc": "The host presents some of the latest updates, current affairs and developments."
   },
   {
     "start": "11:00",
@@ -225,10 +236,10 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1786014000000,
-    "stopTs": 1786015800000,
-    "title": "Live Report",
-    "desc": "The host delivers essential bulletin stories and crucial developments on various social, economic and political issues, live."
+    "startTs": 1786100400000,
+    "stopTs": 1786102200000,
+    "title": "Movie Interview",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "11:30",
@@ -236,10 +247,10 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1786015800000,
-    "stopTs": 1786017600000,
-    "title": "News @5pm",
-    "desc": "The host provides the latest information, advancements and developments regarding various political, economic and social issues."
+    "startTs": 1786102200000,
+    "stopTs": 1786104000000,
+    "title": "Express News / News @ 5 PM",
+    "desc": "The host presents the latest news updates pertaining to various trending topics."
   },
   {
     "start": "12:00",
@@ -247,10 +258,10 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1786017600000,
-    "stopTs": 1786019400000,
-    "title": "Bhairavam Team Interview",
-    "desc": "The host converses with the cast and crew behind the making of the 2025 Telugu movie &apos;Bhaivaram&apos; to learn about their experiences and their process."
+    "startTs": 1786104000000,
+    "stopTs": 1786105800000,
+    "title": "Divya Dhamam",
+    "desc": "Various religious leaders sing hymns and recite prayers in praise of Hindu Gods."
   },
   {
     "start": "12:30",
@@ -258,10 +269,10 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1786019400000,
-    "stopTs": 1786020000000,
+    "startTs": 1786105800000,
+    "stopTs": 1786106400000,
     "title": "BBC",
-    "desc": "The host provides the latest information, advancements and developments regarding various political, economic and social issues."
+    "desc": "The host provides the latest updates on various political, economic and social issues."
   },
   {
     "start": "12:40",
@@ -269,10 +280,10 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1786020000000,
-    "stopTs": 1786021200000,
+    "startTs": 1786106400000,
+    "stopTs": 1786107600000,
     "title": "News @6pm",
-    "desc": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
+    "desc": "The host presents a detailed report on the latest news and developments."
   },
   {
     "start": "13:00",
@@ -280,21 +291,32 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1786021200000,
-    "stopTs": 1786023000000,
+    "startTs": 1786107600000,
+    "stopTs": 1786109400000,
     "title": "Nelathalli",
-    "desc": "The host explores the recent developments in the agricultural sector, highlighting the struggles and grievances of the farming community."
+    "desc": "The host explores the recent developments in the agricultural sector."
   },
   {
     "start": "13:30",
+    "stop": "13:35",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786109400000,
+    "stopTs": 1786109700000,
+    "title": "5 Minutes 25 Headlines",
+    "desc": "The host presents the top news stories in quick succession, covering various issues."
+  },
+  {
+    "start": "13:35",
     "stop": "14:00",
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1786023000000,
-    "stopTs": 1786024800000,
+    "startTs": 1786109700000,
+    "stopTs": 1786111200000,
     "title": "Big Debate",
-    "desc": "The host moderates a debate among a panel of experts from various fields on the ongoing political and social issues of the nation."
+    "desc": "The host moderates a debate among experts on the ongoing issues of the nation."
   },
   {
     "start": "14:00",
@@ -302,10 +324,10 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1786024800000,
-    "stopTs": 1786026600000,
+    "startTs": 1786111200000,
+    "stopTs": 1786113000000,
     "title": "Big Debate",
-    "desc": "The host moderates a debate among a panel of experts from various fields on the ongoing political and social issues of the nation."
+    "desc": "The host moderates a debate among experts on the ongoing issues of the nation."
   },
   {
     "start": "14:30",
@@ -313,10 +335,10 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1786026600000,
-    "stopTs": 1786028400000,
+    "startTs": 1786113000000,
+    "stopTs": 1786114800000,
     "title": "Otr",
-    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events."
+    "desc": "The host presents the latest news and developments surrounding various issues."
   },
   {
     "start": "15:00",
@@ -324,10 +346,10 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1786028400000,
-    "stopTs": 1786030200000,
+    "startTs": 1786114800000,
+    "stopTs": 1786116600000,
     "title": "Jordar Varthalu",
-    "desc": "The anchor provides the latest news and updates with a twist of humor, engaging in lively conversations with the reporter on the ground."
+    "desc": "The anchor provides the latest news stories, engaging in conversations with the reporter."
   },
   {
     "start": "15:30",
@@ -335,9 +357,471 @@
     "channel": "HMTV.in",
     "channelId": "HMTV.in",
     "channelName": "HM TV",
-    "startTs": 1786030200000,
-    "stopTs": 1786032000000,
+    "startTs": 1786116600000,
+    "stopTs": 1786118400000,
     "title": "9 PM Prime Time",
-    "desc": "The host presents the latest news stories, updates and developments regarding social, political and economic issues from various parts of the country and the world."
+    "desc": "The host shares the latest news stories from various parts of the country and the world."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786118400000,
+    "stopTs": 1786120200000,
+    "title": "Burning Topic",
+    "desc": "The host presents the latest news updates on various pressing issues of the nation."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786120200000,
+    "stopTs": 1786122000000,
+    "title": "Pakka Hyderabadi",
+    "desc": "The host discusses the social, economic and political issues of Hyderabad."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:25",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786122000000,
+    "stopTs": 1786123500000,
+    "title": "Film Flash",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "17:25",
+    "stop": "18:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786123500000,
+    "stopTs": 1786125600000,
+    "title": "News @11PM",
+    "desc": "The host presents the latest news stories and information on various issues."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786125600000,
+    "stopTs": 1786127400000,
+    "title": "Burning Topic",
+    "desc": "The host presents the latest news updates on various pressing issues of the nation."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:25",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786147200000,
+    "stopTs": 1786148700000,
+    "title": "Yoga",
+    "desc": "A yoga expert shares wellness tips to improve strength and achieve mental clarity."
+  },
+  {
+    "start": "00:25",
+    "stop": "00:30",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786148700000,
+    "stopTs": 1786149000000,
+    "title": "5/25 Heads",
+    "desc": "The host presents 25 headlines regarding the latest news updates in five minutes."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786149000000,
+    "stopTs": 1786150800000,
+    "title": "News @6am",
+    "desc": "The host presents a detailed report on the latest news and developments."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:25",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786150800000,
+    "stopTs": 1786152300000,
+    "title": "Divya Dhamam",
+    "desc": "Various religious leaders sing hymns and recite prayers in praise of Hindu Gods."
+  },
+  {
+    "start": "01:25",
+    "stop": "02:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786152300000,
+    "stopTs": 1786154400000,
+    "title": "News @ 7am",
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "02:00",
+    "stop": "03:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786154400000,
+    "stopTs": 1786158000000,
+    "title": "News Analysis",
+    "desc": "The host digs deep into the latest news headlines and presents an in-depth analysis."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786158000000,
+    "stopTs": 1786159800000,
+    "title": "Yuva Keratalu",
+    "desc": "The anchor asks young political leaders to discuss critical socio-political issues."
+  },
+  {
+    "start": "03:30",
+    "stop": "03:55",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786159800000,
+    "stopTs": 1786161300000,
+    "title": "News @ 9am",
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "03:55",
+    "stop": "04:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786161300000,
+    "stopTs": 1786161600000,
+    "title": "Kapil",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786161600000,
+    "stopTs": 1786163400000,
+    "title": "Commercial(Rasik Jems)",
+    "desc": "An exploration into Rasik Gems, showcasing exquisite gemstones and unique designs."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786163400000,
+    "stopTs": 1786165200000,
+    "title": "News @ 10am",
+    "desc": "The host presents the latest news stories and information on various issues."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786165200000,
+    "stopTs": 1786167000000,
+    "title": "Commercial (RJR Hospital)",
+    "desc": "A medical professional discusses treatments offered at a healthcare centre."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786167000000,
+    "stopTs": 1786168800000,
+    "title": "News @ 11am",
+    "desc": "The host presents some of the latest updates, current affairs and developments."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786168800000,
+    "stopTs": 1786170600000,
+    "title": "Burning Topic",
+    "desc": "A panel of experts offers insights on global social, economic and political events."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786170600000,
+    "stopTs": 1786172400000,
+    "title": "NEWS @ 12PM",
+    "desc": "The host presents some of the latest updates, current affairs and developments."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786172400000,
+    "stopTs": 1786174200000,
+    "title": "Otr",
+    "desc": "The host presents the latest news and developments surrounding various issues."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786174200000,
+    "stopTs": 1786176000000,
+    "title": "News @ 1pm",
+    "desc": "The host presents a detailed report on the latest news and developments."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786176000000,
+    "stopTs": 1786177800000,
+    "title": "Commercial",
+    "desc": "The host promotes a range of products that can be bought from the comfort of one&apos;s home."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786177800000,
+    "stopTs": 1786179600000,
+    "title": "News @2pm",
+    "desc": "The host provides the latest on various political, economic and social issues."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786179600000,
+    "stopTs": 1786181400000,
+    "title": "Jordar",
+    "desc": "The host presents the latest news and developments surrounding various issues."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786181400000,
+    "stopTs": 1786183200000,
+    "title": "News @3pm",
+    "desc": "The host presents some of the latest updates, current affairs and developments."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786183200000,
+    "stopTs": 1786185000000,
+    "title": "Daaku Maharaj@ Special",
+    "desc": "The host presents a detailed report pertaining to the 2025 film &apos;Daaku Maharaja&apos;."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786185000000,
+    "stopTs": 1786186800000,
+    "title": "News @ 4pm",
+    "desc": "The host presents some of the latest updates, current affairs and developments."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:25",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786186800000,
+    "stopTs": 1786188300000,
+    "title": "Show Time",
+    "desc": "The host talks to prominent personalities and discuss various aspects of life."
+  },
+  {
+    "start": "11:25",
+    "stop": "12:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786188300000,
+    "stopTs": 1786190400000,
+    "title": "News @5pm",
+    "desc": "The host provides the latest updates on political, economic and social issues."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786190400000,
+    "stopTs": 1786192200000,
+    "title": "Divya Dhamam",
+    "desc": "Various religious leaders sing hymns and recite prayers in praise of Hindu Gods."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786192200000,
+    "stopTs": 1786194000000,
+    "title": "News @6pm",
+    "desc": "The host presents a detailed report on the latest news and developments."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786194000000,
+    "stopTs": 1786195800000,
+    "title": "Maha Kumbhamela Special",
+    "desc": "Devout Hindus gather to partake in the Maha Kumbh pilgrimage."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:30",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786195800000,
+    "stopTs": 1786199400000,
+    "title": "Jagore Jago",
+    "desc": "The hosts discuss significant issues existing in the society in a satirical manner."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786199400000,
+    "stopTs": 1786201200000,
+    "title": "Jagore Jago",
+    "desc": "The hosts discuss significant issues existing in the society in a satirical manner."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786201200000,
+    "stopTs": 1786203000000,
+    "title": "Jordar Varthalu",
+    "desc": "The anchor provides the latest news stories, engaging in conversations with the reporter."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786203000000,
+    "stopTs": 1786204800000,
+    "title": "9 PM Prime Time",
+    "desc": "The host shares the latest news stories from various parts of the country and the world."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786204800000,
+    "stopTs": 1786206600000,
+    "title": "Burning Topic",
+    "desc": "A panel of experts offers insights on global social, economic and political events."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786206600000,
+    "stopTs": 1786208400000,
+    "title": "Pakka Hyderabadi",
+    "desc": "The host discusses the social, economic and political issues of Hyderabad."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:25",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786208400000,
+    "stopTs": 1786209900000,
+    "title": "Show Time",
+    "desc": "The host talks to prominent personalities and discuss various aspects of life."
+  },
+  {
+    "start": "17:25",
+    "stop": "18:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786209900000,
+    "stopTs": 1786212000000,
+    "title": "News @11PM",
+    "desc": "The host presents the latest news stories and information on various issues."
+  },
+  {
+    "start": "18:00",
+    "stop": "00:00",
+    "channel": "HMTV.in",
+    "channelId": "HMTV.in",
+    "channelName": "HM TV",
+    "startTs": 1786212000000,
+    "stopTs": 1786233600000,
+    "title": "Burning Topic",
+    "desc": "A panel of experts offers insights on global social, economic and political events."
   }
 ]
