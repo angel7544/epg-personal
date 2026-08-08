@@ -1,707 +1,36 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:28",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786068000000,
-    "stopTs": 1786069680000,
-    "title": "Bazun",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "02:28",
-    "stop": "02:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786069680000,
-    "stopTs": 1786069800000,
-    "title": "Programme Highlights",
-    "desc": "A compilation of information about the major programmes scheduled to air throughout the day that provides the latest updates from the television world."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786069800000,
-    "stopTs": 1786073400000,
-    "title": "Morning Show Good Morning J&K",
-    "desc": "The host presents the latest political, economic and social updates, top stories and leading developments from Jammu and Kashmir."
-  },
-  {
-    "start": "03:30",
-    "stop": "03:40",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786073400000,
-    "stopTs": 1786074000000,
-    "title": "News Kashmiri & Urdu",
-    "desc": "The host and the reporters compile the latest Kashmir news, developments and updates ranging from politics to economics."
-  },
-  {
-    "start": "03:40",
-    "stop": "04:10",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786074000000,
-    "stopTs": 1786075800000,
-    "title": "Hello Kissan",
-    "desc": "The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry."
-  },
-  {
-    "start": "04:10",
-    "stop": "04:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786075800000,
-    "stopTs": 1786077000000,
-    "title": "Sadai-E-Saaz",
-    "desc": "A magazine program offers a mix of articles, features, and segments covering various topics."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786077000000,
-    "stopTs": 1786078800000,
-    "title": "Pakistan Reporter",
-    "desc": "Segment showcasing the best of Kashmiri music programs, highlighting classical and folk melodies that represent the region&apos;s rich musical heritage."
-  },
-  {
-    "start": "04:40",
-    "stop": "05:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786077600000,
-    "stopTs": 1786078800000,
-    "title": "Pakistan Reporter",
-    "desc": "The hosts deliver the latest news headlines and updates related to politics, current affairs and socio-economic issues in Pakistan and around the world."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786078800000,
-    "stopTs": 1786080600000,
-    "title": "Dugar De Rang",
-    "desc": "A colourful cultural show exploring regional traditions, folk music and artistic expressions, bringing viewers closer to the vibrant heritage and everyday life of the Duggar region."
-  },
-  {
-    "start": "05:30",
-    "stop": "05:40",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786080600000,
-    "stopTs": 1786081200000,
-    "title": "News Kashmiri & Urdu",
-    "desc": "The host and the reporters compile the latest Kashmir news, developments and updates ranging from politics to economics."
-  },
-  {
-    "start": "05:40",
-    "stop": "06:10",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786081200000,
-    "stopTs": 1786083000000,
-    "title": "Aath Kamin Aath Rout",
-    "desc": "Kashmiri cultural drama portraying traditions, relationships, and community life through emotional storytelling, highlighting values, heritage, and everyday experiences of people."
-  },
-  {
-    "start": "06:08",
-    "stop": "06:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786082880000,
-    "stopTs": 1786084200000,
-    "title": "Zam Zam-E-Naat",
-    "desc": "Singers take the stage to perform devotional songs sung and composed by talented artists, invoking the spirit of devotion."
-  },
-  {
-    "start": "06:10",
-    "stop": "06:35",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786083000000,
-    "stopTs": 1786084500000,
-    "title": "Cham No Mai Mashan",
-    "desc": "Serial K &apos;Cham No Mai Mashan&apos;"
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786084200000,
-    "stopTs": 1786086000000,
-    "title": "Talash",
-    "desc": "Shankarlal Srivastava passes by the village that was the last known location of his long-lost friend. He visits the village to learn more about his friend&apos;s disappearance."
-  },
-  {
-    "start": "06:35",
-    "stop": "07:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786084500000,
-    "stopTs": 1786086000000,
-    "title": "Ekta",
-    "desc": "An entertainment-based programme."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786086000000,
-    "stopTs": 1786087800000,
-    "title": "Mizraab",
-    "desc": "A melodious musical presentation showcasing classical and contemporary instrumental performances, where skilled artists create enchanting rhythms and soulful tunes."
-  },
-  {
-    "start": "07:30",
-    "stop": "07:40",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786087800000,
-    "stopTs": 1786088400000,
-    "title": "News Kashmiri & Urdu",
-    "desc": "The host and the reporters compile the latest Kashmir news, developments and updates ranging from politics to economics."
-  },
-  {
-    "start": "07:40",
-    "stop": "08:10",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786088400000,
-    "stopTs": 1786090200000,
-    "title": "Zam Zama-E-Naat",
-    "desc": "A refreshing compilation of devotional songs performed by several different artists is played back to back."
-  },
-  {
-    "start": "08:05",
-    "stop": "08:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786089900000,
-    "stopTs": 1786091400000,
-    "title": "Gashi Taruk",
-    "desc": "A girl marries her lover but soon discovers that he has fallen out of love with her. The girl&apos;s marriage becomes further strained because of her in-laws and her husband&apos;s adultery."
-  },
-  {
-    "start": "08:10",
-    "stop": "08:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786090200000,
-    "stopTs": 1786091400000,
-    "title": "Virasat Ke Satoon",
-    "desc": "Virasat Ke Satoon"
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786091400000,
-    "stopTs": 1786093200000,
-    "title": "Date Line Kashmir",
-    "desc": "Tune in to a program providing updates and in depth analysis of current affairs in the region."
-  },
-  {
-    "start": "08:59",
-    "stop": "09:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786093140000,
-    "stopTs": 1786093200000,
-    "title": "Caption Over To DDK Leh",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786093200000,
-    "stopTs": 1786095000000,
-    "title": "Ladakhi Transmission",
-    "desc": "An entertainment show, possibly featuring interesting guests, cultural stories, or creative performances, is meant to entertain viewers with vibrant and enjoyable segments."
-  },
-  {
-    "start": "09:05",
-    "stop": "09:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786093500000,
-    "stopTs": 1786095000000,
-    "title": "Ladakhi Programme",
-    "desc": "This is Documentary - Others Category."
-  },
-  {
-    "start": "09:30",
-    "stop": "09:40",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786095000000,
-    "stopTs": 1786095600000,
-    "title": "News Kashmiri & Urdu",
-    "desc": "The host and the reporters compile the latest Kashmir news, developments and updates ranging from politics to economics."
-  },
-  {
-    "start": "09:40",
-    "stop": "10:05",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786095600000,
-    "stopTs": 1786097100000,
-    "title": "Gul Gulshan Gulfam",
-    "desc": "Gul Gulshan Gulfam"
-  },
-  {
-    "start": "10:05",
-    "stop": "10:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786097100000,
-    "stopTs": 1786098600000,
-    "title": "Sadai-E-Saaz",
-    "desc": "A magazine program offers a mix of articles, features, and segments covering various topics."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786098600000,
-    "stopTs": 1786100400000,
-    "title": "Lala Saiban Baithak",
-    "desc": "A dramatic show features intense storylines and emotional performances to captivate viewers."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:10",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786100400000,
-    "stopTs": 1786101000000,
-    "title": "News Kashmiri & Urdu",
-    "desc": "The host and the reporters compile the latest Kashmir news, developments and updates ranging from politics to economics."
-  },
-  {
-    "start": "11:10",
-    "stop": "11:15",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786101000000,
-    "stopTs": 1786101300000,
-    "title": "Photo Filler",
-    "desc": "A creative show featuring photography highlights, visual storytelling, and photo-based competitions."
-  },
-  {
-    "start": "11:15",
-    "stop": "11:45",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786101300000,
-    "stopTs": 1786103100000,
-    "title": "Khel Aur Khiladi",
-    "desc": "The host presents the latest and important news and updates on the various sporting events held in the Indian state of Uttar Pradesh."
-  },
-  {
-    "start": "11:35",
-    "stop": "12:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786102500000,
-    "stopTs": 1786104000000,
-    "title": "Winter In Kashmir",
-    "desc": "The filmmaker embarks on a journey to Kashmir, India, to explore its scenic mountains, picturesque valleys, local attractions and activities during the winter."
-  },
-  {
-    "start": "11:45",
-    "stop": "12:15",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786103100000,
-    "stopTs": 1786104900000,
-    "title": "Punar",
-    "desc": "Punner SheenaProg"
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786104000000,
-    "stopTs": 1786105800000,
-    "title": "Krishi Darshan",
-    "desc": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers."
-  },
-  {
-    "start": "12:15",
-    "stop": "12:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786104900000,
-    "stopTs": 1786105800000,
-    "title": "Looke Aalow",
-    "desc": "Tune into a collection of songs that are topping the charts."
-  },
-  {
-    "start": "12:29",
-    "stop": "12:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786105740000,
-    "stopTs": 1786105800000,
-    "title": "Caption Over To Ddk Jammu",
-    "desc": "The latest updates are shared regarding ongoing matters of socio-economic, political and cultural concerns transpiring in regions of Jammu and Kashmir."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786105800000,
-    "stopTs": 1786107600000,
-    "title": "Dogri Transmission",
-    "desc": "The host and reporters compile the latest news, developments, and updates from Kashmir, covering politics to economics."
-  },
-  {
-    "start": "12:59",
-    "stop": "13:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786107540000,
-    "stopTs": 1786107600000,
-    "title": "Caption Over To DDK Leh",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786107600000,
-    "stopTs": 1786109400000,
-    "title": "Ladakhi Transmission",
-    "desc": "An entertainment show, possibly featuring interesting guests, cultural stories, or creative performances, is meant to entertain viewers with vibrant and enjoyable segments."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786109400000,
-    "stopTs": 1786111200000,
-    "title": "News Kashmiri & Urdu",
-    "desc": "The host and the reporters compile the latest Kashmir news, developments and updates ranging from politics to economics."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786111200000,
-    "stopTs": 1786113000000,
-    "title": "Jahan Been",
-    "desc": "The host explores shopping markets, discovers trending products, and engages with shoppers and sellers for lively interactions."
-  },
-  {
-    "start": "14:28",
-    "stop": "14:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786112880000,
-    "stopTs": 1786113000000,
-    "title": "Programme Highlights",
-    "desc": "A compilation of information about the major programmes scheduled to air throughout the day that provides the latest updates from the television world."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786113000000,
-    "stopTs": 1786114800000,
-    "title": "Naar",
-    "desc": "&apos;Naar&apos; explores captivating stories and local culture."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786114800000,
-    "stopTs": 1786116600000,
-    "title": "Kayennat",
-    "desc": "Singing Star Of JandK showcases local musical talent through a competition that promotes regional songs and emerging artists from Jammu and Kashmir."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786116600000,
-    "stopTs": 1786118400000,
-    "title": "Hamare Khwab",
-    "desc": "Join us for a fun-filled entertainment program packed with laughter, games, and exciting segments that will keep you entertained and engaged. Perfect for a relaxing time!"
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786118400000,
-    "stopTs": 1786120200000,
-    "title": "Mera Kasoor Kya Ha",
-    "desc": "Mera Kasoor Kya Ha"
-  },
-  {
-    "start": "16:30",
-    "stop": "16:40",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786120200000,
-    "stopTs": 1786120800000,
-    "title": "News Kashmiri & Urdu",
-    "desc": "The host and the reporters compile the latest Kashmir news, developments and updates ranging from politics to economics."
-  },
-  {
-    "start": "16:40",
-    "stop": "17:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786120800000,
-    "stopTs": 1786122000000,
-    "title": "Sadai-E-Saaz",
-    "desc": "A magazine program offers a mix of articles, features, and segments covering various topics."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786122000000,
-    "stopTs": 1786123800000,
-    "title": "Dugar De Rang",
-    "desc": "A colourful cultural show exploring regional traditions, folk music and artistic expressions, bringing viewers closer to the vibrant heritage and everyday life of the Duggar region."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786123800000,
-    "stopTs": 1786125600000,
-    "title": "Ek Paheli",
-    "desc": "An entertainment-based programme."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786125600000,
-    "stopTs": 1786127400000,
-    "title": "Gashi-E-Taruk",
-    "desc": "An entertainment-based programme."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786127400000,
-    "stopTs": 1786129200000,
-    "title": "Roshni",
-    "desc": "The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786129200000,
-    "stopTs": 1786131000000,
-    "title": "Hamsoos",
-    "desc": "Witness powerful stories that delve into emotions, relationships, and life&apos;s complexities, offering a moving and introspective experience."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786131000000,
-    "stopTs": 1786132800000,
-    "title": "Sadai-E-Saaz",
-    "desc": "A magazine program offers a mix of articles, features, and segments covering various topics."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786132800000,
-    "stopTs": 1786134600000,
-    "title": "Pakistan Reporter",
-    "desc": "Segment showcasing the best of Kashmiri music programs, highlighting classical and folk melodies that represent the region&apos;s rich musical heritage."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786134600000,
-    "stopTs": 1786136400000,
-    "title": "Cham No Mai Mashan",
-    "desc": "Serial K &apos;Cham No Mai Mashan&apos;"
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786136400000,
-    "stopTs": 1786138200000,
-    "title": "Ekta",
-    "desc": "An entertainment-based programme."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786138200000,
-    "stopTs": 1786140000000,
-    "title": "Mizraab",
-    "desc": "A melodious musical presentation showcasing classical and contemporary instrumental performances, where skilled artists create enchanting rhythms and soulful tunes."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786140000000,
-    "stopTs": 1786141800000,
-    "title": "Virasat Ke Satoon",
-    "desc": "Virasat Ke Satoon"
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786141800000,
-    "stopTs": 1786143600000,
-    "title": "Date Line Kashmir",
-    "desc": "Tune in to a program providing updates and in depth analysis of current affairs in the region."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786143600000,
-    "stopTs": 1786145400000,
-    "title": "Lala Saiban Baithak",
-    "desc": "A dramatic show features intense storylines and emotional performances to captivate viewers."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786145400000,
-    "stopTs": 1786147200000,
-    "title": "Ek Paheli",
-    "desc": "An entertainment-based programme."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "DDKashir.in",
-    "channelId": "DDKashir.in",
-    "channelName": "DD Kashir",
-    "startTs": 1786147200000,
-    "stopTs": 1786149000000,
-    "title": "Gashi-E-Taruk",
-    "desc": "An entertainment-based programme."
-  },
-  {
     "start": "00:30",
-    "stop": "01:00",
+    "stop": "00:58",
     "channel": "DDKashir.in",
     "channelId": "DDKashir.in",
     "channelName": "DD Kashir",
     "startTs": 1786149000000,
-    "stopTs": 1786150800000,
+    "stopTs": 1786150680000,
     "title": "Roshni",
-    "desc": "The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry."
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "00:58",
+    "stop": "00:59",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786150680000,
+    "stopTs": 1786150740000,
+    "title": "Promo Of DD Kashir",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "00:59",
+    "stop": "01:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786150740000,
+    "stopTs": 1786150800000,
+    "title": "Caption Over To DD News",
+    "desc": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation."
   },
   {
     "start": "01:00",
@@ -712,7 +41,7 @@
     "startTs": 1786150800000,
     "stopTs": 1786151700000,
     "title": "Sanskrit News",
-    "desc": "The host presents updates on the latest news, current affairs, religious and cultural events and happenings presented in Sanskrit."
+    "desc": "The host presents the latest updates pertaining to various important current affairs, religious and cultural events in Sanskrit."
   },
   {
     "start": "01:15",
@@ -737,6 +66,17 @@
     "desc": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back."
   },
   {
+    "start": "01:39",
+    "stop": "02:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786153140000,
+    "stopTs": 1786154400000,
+    "title": "Kashmiri Badhu Bashee",
+    "desc": "A vibrant entertainment show celebrating Kashmiri culture, traditions and stories, showcasing the rich heritage of the valley."
+  },
+  {
     "start": "01:45",
     "stop": "02:00",
     "channel": "DDKashir.in",
@@ -757,6 +97,17 @@
     "stopTs": 1786156200000,
     "title": "Halat-e-Hazira",
     "desc": "The host interacts with renowned personalities, who analyse and discuss various issues that affect the people of Jammu and Kashmir."
+  },
+  {
+    "start": "02:28",
+    "stop": "02:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786156080000,
+    "stopTs": 1786156200000,
+    "title": "Programme Highlights",
+    "desc": "A compilation of information about the major programmes scheduled to air throughout the day that provides the latest updates from the television world."
   },
   {
     "start": "02:30",
@@ -801,6 +152,17 @@
     "stopTs": 1786163400000,
     "title": "Sadai-E-Saaz",
     "desc": "A magazine program offers a mix of articles, features, and segments covering various topics."
+  },
+  {
+    "start": "04:10",
+    "stop": "04:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786162200000,
+    "stopTs": 1786163400000,
+    "title": "Ranga Rang",
+    "desc": "This is TV Show - Entertainment Category"
   },
   {
     "start": "04:30",
@@ -869,6 +231,17 @@
     "desc": "A prominent singer sings some of the most popular folk songs local to the state of Kashmir, along with his fellow musicians."
   },
   {
+    "start": "06:10",
+    "stop": "06:35",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786169400000,
+    "stopTs": 1786170900000,
+    "title": "Phootuj",
+    "desc": "This is TV Show - Drama Category"
+  },
+  {
     "start": "06:30",
     "stop": "07:00",
     "channel": "DDKashir.in",
@@ -878,6 +251,17 @@
     "stopTs": 1786172400000,
     "title": "Lok Rang",
     "desc": "Lok Rang showcases vibrant cultural performances and traditions."
+  },
+  {
+    "start": "06:35",
+    "stop": "07:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786170900000,
+    "stopTs": 1786172400000,
+    "title": "Virasat Kay Satoon",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "07:00",
@@ -920,7 +304,7 @@
     "channelName": "DD Kashir",
     "startTs": 1786176000000,
     "stopTs": 1786177800000,
-    "title": "Takaza",
+    "title": "Virasat",
     "desc": "Bringing the best in television."
   },
   {
@@ -944,6 +328,17 @@
     "stopTs": 1786179600000,
     "title": "Kashmir Nama",
     "desc": "The host delivers reports on a variety of important developments taking place across the Indian state of Jammu and Kashmir."
+  },
+  {
+    "start": "08:59",
+    "stop": "09:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786179540000,
+    "stopTs": 1786179600000,
+    "title": "Caption Over To DDK Leh",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "09:00",
@@ -991,14 +386,14 @@
   },
   {
     "start": "10:05",
-    "stop": "10:30",
+    "stop": "10:35",
     "channel": "DDKashir.in",
     "channelId": "DDKashir.in",
     "channelName": "DD Kashir",
     "startTs": 1786183500000,
-    "stopTs": 1786185000000,
-    "title": "Chiraag",
-    "desc": "A young orphaned girl works and eventually gets hired in the royal palace to become the first female physician of the king."
+    "stopTs": 1786185300000,
+    "title": "Saqafat",
+    "desc": "This is TV Show - Entertainment Category"
   },
   {
     "start": "10:10",
@@ -1021,6 +416,17 @@
     "stopTs": 1786186800000,
     "title": "TaIash-e-Massarat",
     "desc": "A fun magazine show with diverse articles and features on everything cool!"
+  },
+  {
+    "start": "10:35",
+    "stop": "11:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786185300000,
+    "stopTs": 1786186800000,
+    "title": "Diary",
+    "desc": "This is TV Show - Entertainment Category"
   },
   {
     "start": "11:00",
@@ -1067,6 +473,17 @@
     "desc": "A fun magazine show with diverse articles and features on everything cool!"
   },
   {
+    "start": "12:29",
+    "stop": "12:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786192140000,
+    "stopTs": 1786192200000,
+    "title": "Caption Over To Ddk Jammu",
+    "desc": "The latest updates are shared regarding ongoing matters of socio-economic, political and cultural concerns transpiring in regions of Jammu and Kashmir."
+  },
+  {
     "start": "12:30",
     "stop": "13:00",
     "channel": "DDKashir.in",
@@ -1076,6 +493,17 @@
     "stopTs": 1786194000000,
     "title": "Dogri Transmission",
     "desc": "The host and reporters compile the latest news, developments, and updates from Kashmir, covering politics to economics."
+  },
+  {
+    "start": "12:59",
+    "stop": "13:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786193940000,
+    "stopTs": 1786194000000,
+    "title": "Caption Over To DDK Leh",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "13:00",
@@ -1111,6 +539,17 @@
     "desc": "Tune in to featuring messages and updates from various political parties in Kashmir."
   },
   {
+    "start": "14:28",
+    "stop": "14:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786199280000,
+    "stopTs": 1786199400000,
+    "title": "Programme Highlights",
+    "desc": "A compilation of information about the major programmes scheduled to air throughout the day that provides the latest updates from the television world."
+  },
+  {
     "start": "14:30",
     "stop": "15:00",
     "channel": "DDKashir.in",
@@ -1118,8 +557,8 @@
     "channelName": "DD Kashir",
     "startTs": 1786199400000,
     "stopTs": 1786201200000,
-    "title": "Folk Music",
-    "desc": "A compilation of popular folk songs from different parts of India, performed by various artists and musicians, is played back-to-back."
+    "title": "Pakwan",
+    "desc": "This is TV Show - Cooking Category"
   },
   {
     "start": "15:00",
@@ -1129,8 +568,8 @@
     "channelName": "DD Kashir",
     "startTs": 1786201200000,
     "stopTs": 1786203000000,
-    "title": "Vaartavali",
-    "desc": "The host presents the latest news, updates and developments on areas like politics, socio-economic issues and current affairs from across the nation."
+    "title": "Meri Awaz Suno",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "15:30",
@@ -1140,8 +579,8 @@
     "channelName": "DD Kashir",
     "startTs": 1786203000000,
     "stopTs": 1786204800000,
-    "title": "Sakoon",
-    "desc": "An expert on mental-health issues gives valuable tips and advice on how to keep stress at bay during the COVID-19 pandemic."
+    "title": "Safar Fark Se Fakra Tak",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "16:00",
@@ -1342,6 +781,17 @@
     "desc": "An entertainment-based programme."
   },
   {
+    "start": "00:29",
+    "stop": "00:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786235340000,
+    "stopTs": 1786235400000,
+    "title": "Linking Caption for Terrestrial Service",
+    "desc": "Bringing the best in television."
+  },
+  {
     "start": "00:30",
     "stop": "01:00",
     "channel": "DDKashir.in",
@@ -1351,6 +801,28 @@
     "stopTs": 1786237200000,
     "title": "Roshni",
     "desc": "The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry."
+  },
+  {
+    "start": "00:58",
+    "stop": "00:59",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786237080000,
+    "stopTs": 1786237140000,
+    "title": "Promo Of DD Kashir",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "00:59",
+    "stop": "01:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786237140000,
+    "stopTs": 1786237200000,
+    "title": "Caption Over To DD News",
+    "desc": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation."
   },
   {
     "start": "01:00",
@@ -1375,6 +847,17 @@
     "desc": "Mir Sayyid Ali Hamadani, an eighth-century Persian scholar, is known for his philosophies and teachings which greatly influenced the growth of Islam throughout Kashmir."
   },
   {
+    "start": "01:40",
+    "stop": "02:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786239600000,
+    "stopTs": 1786240800000,
+    "title": "Aalow",
+    "desc": "This is Music - Music Category"
+  },
+  {
     "start": "01:45",
     "stop": "02:00",
     "channel": "DDKashir.in",
@@ -1397,6 +880,17 @@
     "desc": "The host presents the latest news updates and developments from across the nation."
   },
   {
+    "start": "02:28",
+    "stop": "02:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786242480000,
+    "stopTs": 1786242600000,
+    "title": "Programme Highlights",
+    "desc": "A compilation of information about the major programmes scheduled to air throughout the day that provides the latest updates from the television world."
+  },
+  {
     "start": "02:30",
     "stop": "03:30",
     "channel": "DDKashir.in",
@@ -1406,5 +900,654 @@
     "stopTs": 1786246200000,
     "title": "Morning Show Good Morning J&K",
     "desc": "The host presents the latest political, economic and social updates, top stories and leading developments from Jammu and Kashmir."
+  },
+  {
+    "start": "03:30",
+    "stop": "03:40",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786246200000,
+    "stopTs": 1786246800000,
+    "title": "News Kashmiri & Urdu",
+    "desc": "The host and the reporters compile the latest Kashmir news, developments and updates ranging from politics to economics."
+  },
+  {
+    "start": "03:40",
+    "stop": "04:10",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786246800000,
+    "stopTs": 1786248600000,
+    "title": "Pakwaan",
+    "desc": "The host gives an introduction to the rich cultural heritage, customs and lifestyle of different communities in Kashmir."
+  },
+  {
+    "start": "04:10",
+    "stop": "04:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786248600000,
+    "stopTs": 1786249800000,
+    "title": "Sadai-E-Saaz",
+    "desc": "A magazine program offers a mix of articles, features, and segments covering various topics."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786249800000,
+    "stopTs": 1786251600000,
+    "title": "Kashmir Nama",
+    "desc": "The host delivers reports on a variety of important developments taking place across the Indian state of Jammu and Kashmir."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786251600000,
+    "stopTs": 1786253400000,
+    "title": "Dugar De Rang",
+    "desc": "A colourful cultural show exploring regional traditions, folk music and artistic expressions, bringing viewers closer to the vibrant heritage and everyday life of the Duggar region."
+  },
+  {
+    "start": "05:30",
+    "stop": "05:42",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786253400000,
+    "stopTs": 1786254120000,
+    "title": "Azadi Ka Amrit Mahotsav",
+    "desc": "Celebrations of independence and cultural pride showcase traditions, stories, and local heroes in a tribute to freedom and heritage."
+  },
+  {
+    "start": "05:40",
+    "stop": "05:55",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786254000000,
+    "stopTs": 1786254900000,
+    "title": "Azadi Ka Amrit Mahotsav",
+    "desc": "The host sheds light on India and its cultural diversity, known for countless legends and traditions, while highlighting the country&apos;s advancements in various fields."
+  },
+  {
+    "start": "05:42",
+    "stop": "05:54",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786254120000,
+    "stopTs": 1786254840000,
+    "title": "Azadi Ka Amrit Mahotsav",
+    "desc": "Celebrations of independence and cultural pride showcase traditions, stories, and local heroes in a tribute to freedom and heritage."
+  },
+  {
+    "start": "05:54",
+    "stop": "06:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786254840000,
+    "stopTs": 1786255200000,
+    "title": "Song",
+    "desc": "Tune into a collection of songs that are topping the charts."
+  },
+  {
+    "start": "05:55",
+    "stop": "06:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786254900000,
+    "stopTs": 1786255200000,
+    "title": "Song",
+    "desc": "A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786255200000,
+    "stopTs": 1786257000000,
+    "title": "Funkar",
+    "desc": "Entertainment program presenting emotional, dramatic stories with themes rooted in everyday life, cultural settings, and human relationships that connect deeply with viewers."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786257000000,
+    "stopTs": 1786258800000,
+    "title": "Waris",
+    "desc": "A broad collection of documentaries and TV shows explores unusual topics across many genres, showcased in a simple, clear way for broad audiences to watch."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786258800000,
+    "stopTs": 1786260600000,
+    "title": "Jeewan Moalayoon Ki Pathshala",
+    "desc": "A dramatic show filled with humor, emotions, and daily life scenarios told through relatable characters navigating situations with charm and wit."
+  },
+  {
+    "start": "07:30",
+    "stop": "07:40",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786260600000,
+    "stopTs": 1786261200000,
+    "title": "News Kashmiri & Urdu",
+    "desc": "The host and the reporters compile the latest Kashmir news, developments and updates ranging from politics to economics."
+  },
+  {
+    "start": "07:40",
+    "stop": "08:05",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786261200000,
+    "stopTs": 1786262700000,
+    "title": "Sadai-E-Saaz",
+    "desc": "A magazine program offers a mix of articles, features, and segments covering various topics."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786262400000,
+    "stopTs": 1786264200000,
+    "title": "Pinjre Ka Qaidi",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "08:05",
+    "stop": "08:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786262700000,
+    "stopTs": 1786264200000,
+    "title": "Movie",
+    "desc": "Program offering regular updates and news about current events in Pakistan, including politics, international relations, and social developments."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786264200000,
+    "stopTs": 1786266000000,
+    "title": "Sarhad Ke Do Rukh",
+    "desc": "The host presents the latest new stories, updates and developments pertaining to the field of economics, politics and sports."
+  },
+  {
+    "start": "08:59",
+    "stop": "09:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786265940000,
+    "stopTs": 1786266000000,
+    "title": "Caption Over To DDK Leh",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786266000000,
+    "stopTs": 1786267800000,
+    "title": "Ladakhi Transmission",
+    "desc": "An entertainment show, possibly featuring interesting guests, cultural stories, or creative performances, is meant to entertain viewers with vibrant and enjoyable segments."
+  },
+  {
+    "start": "09:30",
+    "stop": "09:40",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786267800000,
+    "stopTs": 1786268400000,
+    "title": "News Kashmiri & Urdu",
+    "desc": "The host and the reporters compile the latest Kashmir news, developments and updates ranging from politics to economics."
+  },
+  {
+    "start": "09:40",
+    "stop": "10:10",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786268400000,
+    "stopTs": 1786270200000,
+    "title": "Sadai-E-Saaz",
+    "desc": "A magazine program offers a mix of articles, features, and segments covering various topics."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786269600000,
+    "stopTs": 1786271400000,
+    "title": "Virasat Ke Satoon",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "10:10",
+    "stop": "10:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786270200000,
+    "stopTs": 1786271400000,
+    "title": "Series Of Shrines",
+    "desc": "A shrine is a sacred place containing something significant, like the tomb or relic of a religious figure."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786271400000,
+    "stopTs": 1786273200000,
+    "title": "Bazm-E-Khawateen",
+    "desc": "The host invites various women on different occasions to present their views regarding several topics and showcase their talents."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:10",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786273200000,
+    "stopTs": 1786273800000,
+    "title": "News Kashmiri & Urdu",
+    "desc": "The host and the reporters compile the latest Kashmir news, developments and updates ranging from politics to economics."
+  },
+  {
+    "start": "11:10",
+    "stop": "11:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786273800000,
+    "stopTs": 1786275000000,
+    "title": "Aabshaar",
+    "desc": "A drama show that dives into emotional, legal, or societal issues through gripping narratives that unfold across each dramatic and thought-provoking episode."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786275000000,
+    "stopTs": 1786278600000,
+    "title": "Doctor On Line",
+    "desc": "The host invites a doctor holding a specialisation in a specific field of medicine, to answer various medical issues and offer health tips, live."
+  },
+  {
+    "start": "12:29",
+    "stop": "12:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786278540000,
+    "stopTs": 1786278600000,
+    "title": "Caption Over To Ddk Jammu",
+    "desc": "The latest updates are shared regarding ongoing matters of socio-economic, political and cultural concerns transpiring in regions of Jammu and Kashmir."
+  },
+  {
+    "start": "12:30",
+    "stop": "12:59",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786278600000,
+    "stopTs": 1786280340000,
+    "title": "Dogri Transmission",
+    "desc": "The host and reporters compile the latest news, developments, and updates from Kashmir, covering politics to economics."
+  },
+  {
+    "start": "12:59",
+    "stop": "13:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786280340000,
+    "stopTs": 1786280400000,
+    "title": "Caption Over To Ddk Leh",
+    "desc": "Discover the rich cultural heritage, stunning landscapes, and vibrant traditions of Ladakh. Explore the unique beauty of the region through captivating visuals and inspiring stories of its people."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786280400000,
+    "stopTs": 1786282200000,
+    "title": "Ladakhi Transmission",
+    "desc": "An entertainment show, possibly featuring interesting guests, cultural stories, or creative performances, is meant to entertain viewers with vibrant and enjoyable segments."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786282200000,
+    "stopTs": 1786284000000,
+    "title": "News Kashmiri & Urdu",
+    "desc": "The host and the reporters compile the latest Kashmir news, developments and updates ranging from politics to economics."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786284000000,
+    "stopTs": 1786285800000,
+    "title": "Skuast-K Magazine",
+    "desc": "A host outlines daily social, economic, and political issues and gives ongoing updates on Kashmir, offering clear, accessible context for viewers seeking current events insight."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786285800000,
+    "stopTs": 1786287600000,
+    "title": "Assi -Gaya-Lassi -Dar",
+    "desc": "Serial K: &apos;Assi -Gaya-Lassi -Dar&apos; Ep: 1st"
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786287600000,
+    "stopTs": 1786289400000,
+    "title": "Ru-Ba-Ru",
+    "desc": "The host invites various eminent personalities from different fields to discuss their personal lives, careers and achievements."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:01",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786289400000,
+    "stopTs": 1786291260000,
+    "title": "Sufi-Sada",
+    "desc": "A soulful musical journey through Sufi poetry and melodies that celebrate love, devotion, peace, and spiritual connection."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786291200000,
+    "stopTs": 1786293000000,
+    "title": "DDK Podcast",
+    "desc": "This is TV Show - Education (Adult) Category"
+  },
+  {
+    "start": "16:01",
+    "stop": "16:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786291260000,
+    "stopTs": 1786293000000,
+    "title": "Aine",
+    "desc": "A news anchor presents the social, political, and economic updates from Jammu and Kashmir, keeping viewers informed with clear, straightforward coverage of events in the region."
+  },
+  {
+    "start": "16:30",
+    "stop": "16:40",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786293000000,
+    "stopTs": 1786293600000,
+    "title": "News Kashmiri & Urdu",
+    "desc": "The host and the reporters compile the latest Kashmir news, developments and updates ranging from politics to economics."
+  },
+  {
+    "start": "16:40",
+    "stop": "17:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786293600000,
+    "stopTs": 1786294800000,
+    "title": "Sadai-E-Saaz",
+    "desc": "A magazine program offers a mix of articles, features, and segments covering various topics."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786294800000,
+    "stopTs": 1786296600000,
+    "title": "Dugar De Rang",
+    "desc": "A colourful cultural show exploring regional traditions, folk music and artistic expressions, bringing viewers closer to the vibrant heritage and everyday life of the Duggar region."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786296600000,
+    "stopTs": 1786298400000,
+    "title": "Sohni Dharti",
+    "desc": "An entertainment program based around Iftaar and Dua, presenting cultural reflections, festive rituals, and moments of spiritual significance during the holy month."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786298400000,
+    "stopTs": 1786300200000,
+    "title": "Zar Zan Zameen",
+    "desc": "Zar Zan Zameen explores themes of wealth, women, and land, weaving a powerful narrative that reflects social realities, cultural values, and human resilience."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786300200000,
+    "stopTs": 1786302000000,
+    "title": "Roshni",
+    "desc": "The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786302000000,
+    "stopTs": 1786303800000,
+    "title": "Nalla-E-Afreen",
+    "desc": "Mir Sayyid Ali Hamadani, an eighth-century Persian scholar, is known for his philosophies and teachings which greatly influenced the growth of Islam throughout Kashmir."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786303800000,
+    "stopTs": 1786305600000,
+    "title": "Madanwar",
+    "desc": "Musical Prog. &apos;Madanwar&apos; Source: DDK Srinagar."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786305600000,
+    "stopTs": 1786307400000,
+    "title": "Sadai-E-Saaz",
+    "desc": "A magazine program offers a mix of articles, features, and segments covering various topics."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786307400000,
+    "stopTs": 1786309200000,
+    "title": "Kashmir Nama",
+    "desc": "The host delivers reports on a variety of important developments taking place across the Indian state of Jammu and Kashmir."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786309200000,
+    "stopTs": 1786311000000,
+    "title": "Funkar",
+    "desc": "Entertainment program presenting emotional, dramatic stories with themes rooted in everyday life, cultural settings, and human relationships that connect deeply with viewers."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786311000000,
+    "stopTs": 1786312800000,
+    "title": "Waris",
+    "desc": "A broad collection of documentaries and TV shows explores unusual topics across many genres, showcased in a simple, clear way for broad audiences to watch."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786312800000,
+    "stopTs": 1786314600000,
+    "title": "Sadai-E-Saaz",
+    "desc": "A magazine program offers a mix of articles, features, and segments covering various topics."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786314600000,
+    "stopTs": 1786316400000,
+    "title": "Movie",
+    "desc": "Program offering regular updates and news about current events in Pakistan, including politics, international relations, and social developments."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786316400000,
+    "stopTs": 1786318200000,
+    "title": "Sarhad Ke Do Rukh",
+    "desc": "The host presents the latest new stories, updates and developments pertaining to the field of economics, politics and sports."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786318200000,
+    "stopTs": 1786320000000,
+    "title": "Aine",
+    "desc": "A news anchor presents the social, political, and economic updates from Jammu and Kashmir, keeping viewers informed with clear, straightforward coverage of events in the region."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786320000000,
+    "stopTs": 1786321800000,
+    "title": "Zar Zan Zameen",
+    "desc": "Zar Zan Zameen explores themes of wealth, women, and land, weaving a powerful narrative that reflects social realities, cultural values, and human resilience."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786321800000,
+    "stopTs": 1786323600000,
+    "title": "Roshni",
+    "desc": "The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:15",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786323600000,
+    "stopTs": 1786324500000,
+    "title": "Sanskrit News",
+    "desc": "The host presents updates on the latest news, current affairs, religious and cultural events and happenings presented in Sanskrit."
+  },
+  {
+    "start": "01:15",
+    "stop": "01:40",
+    "channel": "DDKashir.in",
+    "channelId": "DDKashir.in",
+    "channelName": "DD Kashir",
+    "startTs": 1786324500000,
+    "stopTs": 1786326000000,
+    "title": "Paradise Of World",
+    "desc": "Kashmir is located in the northernmost part of India and lies near the Himalayan mountain ranges. The beautiful scenic location has led to this place being widely recognised as paradise on Earth."
   }
 ]
