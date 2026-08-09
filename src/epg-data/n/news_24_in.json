@@ -1,926 +1,332 @@
 [
   {
-    "start": "00:22",
-    "stop": "00:55",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786148520000,
-    "stopTs": 1786150500000,
-    "title": "News",
-    "desc": "."
-  },
-  {
     "start": "00:55",
     "stop": "01:26",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786150500000,
-    "stopTs": 1786152360000,
-    "title": "Good Morning Superfast",
-    "desc": "The host presents important issues and provides updates on current events."
-  },
-  {
-    "start": "01:26",
-    "stop": "01:56",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786152360000,
-    "stopTs": 1786154160000,
-    "title": "Tejas 24",
-    "desc": "The host provides the latest updates and stories from around the world and country."
-  },
-  {
-    "start": "01:56",
-    "stop": "02:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786154160000,
-    "stopTs": 1786155960000,
-    "title": "Special Report",
-    "desc": "The host offers in-depth coverage and analysis of major news stories."
-  },
-  {
-    "start": "02:26",
-    "stop": "02:56",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786155960000,
-    "stopTs": 1786157760000,
-    "title": "Aapka Sahar Aapki Khabar",
-    "desc": "The host presents a detailed report on the latest news and developments."
-  },
-  {
-    "start": "02:56",
-    "stop": "03:20",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786157760000,
-    "stopTs": 1786159200000,
-    "title": "Special Report",
-    "desc": "The host offers in-depth coverage and analysis of major news stories."
-  },
-  {
-    "start": "03:20",
-    "stop": "03:56",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786159200000,
-    "stopTs": 1786161360000,
-    "title": "Kalchakra",
-    "desc": "An astrologer studies planetary motions and zodiac signs to provide future predictions."
-  },
-  {
-    "start": "03:56",
-    "stop": "04:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786161360000,
-    "stopTs": 1786163160000,
-    "title": "Kalchakra",
-    "desc": "An astrologer studies planetary motions and zodiac signs to provide future predictions."
-  },
-  {
-    "start": "04:26",
-    "stop": "04:56",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786163160000,
-    "stopTs": 1786164960000,
-    "title": "Beroktok",
-    "desc": "The host provides the latest national news on politics, crime and socioeconomic issues."
-  },
-  {
-    "start": "04:56",
-    "stop": "05:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786164960000,
-    "stopTs": 1786166760000,
-    "title": "Beroktok",
-    "desc": "The host provides the latest national news on politics, crime and socioeconomic issues."
-  },
-  {
-    "start": "05:26",
-    "stop": "05:56",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786166760000,
-    "stopTs": 1786168560000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "05:56",
-    "stop": "06:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786168560000,
-    "stopTs": 1786170360000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "06:26",
-    "stop": "06:56",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786170360000,
-    "stopTs": 1786172160000,
-    "title": "News 100",
-    "desc": "The host presents the top 100 news updates from around the country and the world."
-  },
-  {
-    "start": "06:56",
-    "stop": "07:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786172160000,
-    "stopTs": 1786173960000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "07:26",
-    "stop": "07:56",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786173960000,
-    "stopTs": 1786175760000,
-    "title": "Ek Minute Ek Khabar",
-    "desc": "The host presents news pertaining to various trending topics in a quick succession."
-  },
-  {
-    "start": "07:56",
-    "stop": "08:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786175760000,
-    "stopTs": 1786177560000,
-    "title": "Ek Minute Ek Khabar",
-    "desc": "The host presents news pertaining to various trending topics in a quick succession."
-  },
-  {
-    "start": "08:26",
-    "stop": "08:56",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786177560000,
-    "stopTs": 1786179360000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "08:56",
-    "stop": "09:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786179360000,
-    "stopTs": 1786181160000,
-    "title": "Sanjeevani",
-    "desc": "The host invites a health expert who shares tips and insights for living a healthier life."
-  },
-  {
-    "start": "09:26",
-    "stop": "09:56",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786181160000,
-    "stopTs": 1786182960000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "09:56",
-    "stop": "10:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786182960000,
-    "stopTs": 1786184760000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "10:26",
-    "stop": "10:56",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786184760000,
-    "stopTs": 1786186560000,
-    "title": "4 Baje 24 Reporter",
-    "desc": "The host presents the latest updates on various social, economic and political issues."
-  },
-  {
-    "start": "10:56",
-    "stop": "11:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786186560000,
-    "stopTs": 1786188360000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "11:26",
-    "stop": "11:56",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786188360000,
-    "stopTs": 1786190160000,
-    "title": "Rashtra Ki Baat",
-    "desc": "The host presents the latest news updates from around the nation."
-  },
-  {
-    "start": "11:56",
-    "stop": "12:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786190160000,
-    "stopTs": 1786191960000,
-    "title": "Rashtra Ki Baat",
-    "desc": "The host presents the latest news updates from around the nation."
-  },
-  {
-    "start": "12:26",
-    "stop": "12:56",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786191960000,
-    "stopTs": 1786193760000,
-    "title": "Mahaul Kya Hai",
-    "desc": "The host sheds light on topics of public interest, focusing on firsthand reports."
-  },
-  {
-    "start": "12:56",
-    "stop": "13:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786193760000,
-    "stopTs": 1786195560000,
-    "title": "Mahaul Kya Hai",
-    "desc": "The host sheds light on topics of public interest, focusing on firsthand reports."
-  },
-  {
-    "start": "13:26",
-    "stop": "14:00",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786195560000,
-    "stopTs": 1786197600000,
-    "title": "Sabse Bada Sawal",
-    "desc": "Experts debate the various issues and developments affecting people across the country."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786197600000,
-    "stopTs": 1786199160000,
-    "title": "Sabse Bada Sawal",
-    "desc": "Experts debate the various issues and developments affecting people across the country."
-  },
-  {
-    "start": "14:26",
-    "stop": "15:00",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786199160000,
-    "stopTs": 1786201200000,
-    "title": "Prime Time Exclusive",
-    "desc": "The host provides a detailed report on the latest news and developments."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786201200000,
-    "stopTs": 1786202760000,
-    "title": "Prime Time Exclusive",
-    "desc": "The host provides a detailed report on the latest news and developments."
-  },
-  {
-    "start": "15:26",
-    "stop": "15:56",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786202760000,
-    "stopTs": 1786204560000,
-    "title": "Special Programme",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "15:56",
-    "stop": "16:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786204560000,
-    "stopTs": 1786206360000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "16:26",
-    "stop": "16:56",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786206360000,
-    "stopTs": 1786208160000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "16:56",
-    "stop": "17:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786208160000,
-    "stopTs": 1786209960000,
-    "title": "Special Report",
-    "desc": "The host offers in-depth coverage and analysis of major news stories."
-  },
-  {
-    "start": "17:26",
-    "stop": "17:56",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786209960000,
-    "stopTs": 1786211760000,
-    "title": "Mahaul Kya Hai",
-    "desc": "The host sheds light on topics of public interest, focusing on firsthand reports."
-  },
-  {
-    "start": "17:56",
-    "stop": "18:30",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786211760000,
-    "stopTs": 1786213800000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786213800000,
-    "stopTs": 1786215600000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786215600000,
-    "stopTs": 1786217400000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786217400000,
-    "stopTs": 1786219200000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786219200000,
-    "stopTs": 1786221000000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786221000000,
-    "stopTs": 1786222800000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786222800000,
-    "stopTs": 1786224600000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786224600000,
-    "stopTs": 1786226400000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786226400000,
-    "stopTs": 1786228200000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786228200000,
-    "stopTs": 1786230000000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786230000000,
-    "stopTs": 1786231800000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786231800000,
-    "stopTs": 1786233600000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:22",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786233600000,
-    "stopTs": 1786234920000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "00:22",
-    "stop": "00:55",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786234920000,
-    "stopTs": 1786236900000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "00:55",
-    "stop": "01:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786236900000,
     "stopTs": 1786238760000,
     "title": "Good Morning Superfast",
-    "desc": "The host presents important issues and provides updates on current events."
+    "desc": "The host presents information on important social, political and economic issues from around the world and provides updates on current events."
   },
   {
     "start": "01:26",
     "stop": "01:56",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786238760000,
     "stopTs": 1786240560000,
     "title": "Tejas 24",
-    "desc": "The host provides the latest updates and stories from around the world and country."
+    "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
   },
   {
     "start": "01:56",
     "stop": "02:26",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786240560000,
     "stopTs": 1786242360000,
     "title": "Special Report",
-    "desc": "The host offers in-depth coverage and analysis of major news stories."
+    "desc": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally."
   },
   {
     "start": "02:26",
     "stop": "02:56",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786242360000,
     "stopTs": 1786244160000,
     "title": "Aapka Sahar Aapki Khabar",
-    "desc": "The host presents a detailed report on the latest news and developments."
+    "desc": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
   },
   {
     "start": "02:56",
     "stop": "03:20",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786244160000,
     "stopTs": 1786245600000,
     "title": "Special Report",
-    "desc": "The host offers in-depth coverage and analysis of major news stories."
+    "desc": "The host offers in-depth coverage and analysis of major news stories, providing exclusive insights into current events both locally and globally."
   },
   {
     "start": "03:20",
     "stop": "03:56",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786245600000,
     "stopTs": 1786247760000,
     "title": "Kalchakra",
-    "desc": "An astrologer studies planetary motions and zodiac signs to provide future predictions."
+    "desc": "An astrologer studies planetary motions and zodiac signs to provide insightful future predictions of individuals&apos; lives."
   },
   {
     "start": "03:56",
     "stop": "04:26",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786247760000,
     "stopTs": 1786249560000,
     "title": "Kalchakra",
-    "desc": "An astrologer studies planetary motions and zodiac signs to provide future predictions."
+    "desc": "An astrologer studies planetary motions and zodiac signs to provide insightful future predictions of individuals&apos; lives."
   },
   {
     "start": "04:26",
     "stop": "04:56",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786249560000,
     "stopTs": 1786251360000,
     "title": "Beroktok",
-    "desc": "The host provides the latest national news on politics, crime and socioeconomic issues."
+    "desc": "The host provides the latest national news and updates pertaining to politics, socioeconomic issues, crime and current affairs."
   },
   {
     "start": "04:56",
     "stop": "05:26",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786251360000,
     "stopTs": 1786253160000,
     "title": "Beroktok",
-    "desc": "The host provides the latest national news on politics, crime and socioeconomic issues."
+    "desc": "The host provides the latest national news and updates pertaining to politics, socioeconomic issues, crime and current affairs."
   },
   {
     "start": "05:26",
     "stop": "05:56",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786253160000,
     "stopTs": 1786254960000,
     "title": "News",
-    "desc": "."
+    "desc": "This is News - News Bulletin Category."
   },
   {
     "start": "05:56",
     "stop": "06:26",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786254960000,
     "stopTs": 1786256760000,
     "title": "News",
-    "desc": "."
+    "desc": "This is News - News Bulletin Category."
   },
   {
     "start": "06:26",
     "stop": "06:56",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786256760000,
     "stopTs": 1786258560000,
     "title": "News 100",
-    "desc": "The host presents the top 100 news updates from around the country and the world."
+    "desc": "The host presents the top 100 news updates pertaining to the political, social, economic and sports fronts from around the country and the world."
   },
   {
     "start": "06:56",
     "stop": "07:26",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786258560000,
     "stopTs": 1786260360000,
     "title": "News",
-    "desc": "."
+    "desc": "This is News - News Bulletin Category."
   },
   {
     "start": "07:26",
     "stop": "07:56",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786260360000,
     "stopTs": 1786262160000,
     "title": "Ek Minute Ek Khabar",
-    "desc": "The host presents news pertaining to various trending topics in a quick succession."
+    "desc": "The host presents the latest news updates and developments pertaining to various socio-political and economic topics in a quick succession."
   },
   {
     "start": "07:56",
     "stop": "08:26",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786262160000,
     "stopTs": 1786263960000,
     "title": "Ek Minute Ek Khabar",
-    "desc": "The host presents news pertaining to various trending topics in a quick succession."
+    "desc": "The host presents the latest news updates and developments pertaining to various socio-political and economic topics in a quick succession."
   },
   {
     "start": "08:26",
     "stop": "08:56",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786263960000,
     "stopTs": 1786265760000,
     "title": "News",
-    "desc": "."
+    "desc": "This is News - News Bulletin Category."
   },
   {
     "start": "08:56",
     "stop": "09:26",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786265760000,
     "stopTs": 1786267560000,
     "title": "Sanjeevani",
-    "desc": "The host invites a health expert who shares tips and insights for living a healthier life."
+    "desc": "The host invites a health expert who offers practical tips and insights to help viewers lead a healthier, balanced lifestyle."
   },
   {
     "start": "09:26",
     "stop": "09:56",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786267560000,
     "stopTs": 1786269360000,
     "title": "Health 24",
-    "desc": "The host invites health experts to discuss different ailments and their treatment."
+    "desc": "The host invites health experts to discuss various physical and mental ailments and the possible course of treatment for their cure."
   },
   {
     "start": "09:56",
     "stop": "10:26",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786269360000,
     "stopTs": 1786271160000,
     "title": "News",
-    "desc": "."
+    "desc": "This is News - News Bulletin Category."
   },
   {
     "start": "10:26",
     "stop": "10:56",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786271160000,
     "stopTs": 1786272960000,
     "title": "4 Baje 24 Reporter",
-    "desc": "The host presents the latest updates on various social, economic and political issues."
+    "desc": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
   },
   {
     "start": "10:56",
     "stop": "11:26",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786272960000,
     "stopTs": 1786274760000,
     "title": "News",
-    "desc": "."
+    "desc": "This is News - News Bulletin Category."
   },
   {
     "start": "11:26",
     "stop": "11:56",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786274760000,
     "stopTs": 1786276560000,
     "title": "Rashtra Ki Baat",
-    "desc": "The host presents the latest news updates from around the nation."
+    "desc": "The host presents the latest news updates concerning the political, social, economic and sports fronts from around the nation."
   },
   {
     "start": "11:56",
     "stop": "12:26",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786276560000,
     "stopTs": 1786278360000,
     "title": "Rashtra Ki Baat",
-    "desc": "The host presents the latest news updates from around the nation."
+    "desc": "The host presents the latest news updates concerning the political, social, economic and sports fronts from around the nation."
   },
   {
     "start": "12:26",
     "stop": "12:56",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786278360000,
     "stopTs": 1786280160000,
     "title": "Mahaul Kya Hai",
-    "desc": "The host sheds light on topics of public interest, focusing on firsthand reports."
+    "desc": "The host sheds light on important events and updates on a wide range of topics of public interest, focusing on firsthand reports from the source of each story."
   },
   {
     "start": "12:56",
     "stop": "13:26",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786280160000,
     "stopTs": 1786281960000,
     "title": "Mahaul Kya Hai",
-    "desc": "The host sheds light on topics of public interest, focusing on firsthand reports."
+    "desc": "The host sheds light on important events and updates on a wide range of topics of public interest, focusing on firsthand reports from the source of each story."
   },
   {
     "start": "13:26",
     "stop": "14:00",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786281960000,
     "stopTs": 1786284000000,
     "title": "Sabse Bada Sawal",
-    "desc": "Experts debate the various issues and developments affecting people across the country."
+    "desc": "Experts from different walks of life debate the latest issues, top news updates and major developments affecting people in different parts of the country."
   },
   {
     "start": "14:00",
     "stop": "14:26",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786284000000,
     "stopTs": 1786285560000,
     "title": "Sabse Bada Sawal",
-    "desc": "Experts debate the various issues and developments affecting people across the country."
+    "desc": "Experts from different walks of life debate the latest issues, top news updates and major developments affecting people in different parts of the country."
   },
   {
     "start": "14:26",
     "stop": "15:00",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786285560000,
     "stopTs": 1786287600000,
     "title": "Prime Time Exclusive",
-    "desc": "The host provides a detailed report on the latest news and developments."
+    "desc": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
   },
   {
     "start": "15:00",
     "stop": "15:26",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786287600000,
     "stopTs": 1786289160000,
     "title": "Prime Time Exclusive",
-    "desc": "The host provides a detailed report on the latest news and developments."
+    "desc": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
   },
   {
     "start": "15:26",
     "stop": "15:56",
     "channel": "News24.in",
     "channelId": "News24.in",
-    "channelName": "News 24",
+    "channelName": "NEWS 24",
     "startTs": 1786289160000,
     "stopTs": 1786290960000,
     "title": "Special Programme",
     "desc": "Bringing the best in television."
-  },
-  {
-    "start": "15:56",
-    "stop": "16:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786290960000,
-    "stopTs": 1786292760000,
-    "title": "News",
-    "desc": "."
-  },
-  {
-    "start": "16:26",
-    "stop": "16:56",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786292760000,
-    "stopTs": 1786294560000,
-    "title": "Special Report",
-    "desc": "The host offers in-depth coverage and analysis of major news stories."
-  },
-  {
-    "start": "16:56",
-    "stop": "17:26",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786294560000,
-    "stopTs": 1786296360000,
-    "title": "Special Report",
-    "desc": "The host offers in-depth coverage and analysis of major news stories."
-  },
-  {
-    "start": "17:26",
-    "stop": "17:56",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786296360000,
-    "stopTs": 1786298160000,
-    "title": "Mahaul Kya Hai",
-    "desc": "The host sheds light on topics of public interest, focusing on firsthand reports."
-  },
-  {
-    "start": "17:56",
-    "stop": "18:30",
-    "channel": "News24.in",
-    "channelId": "News24.in",
-    "channelName": "News 24",
-    "startTs": 1786298160000,
-    "stopTs": 1786300200000,
-    "title": "News",
-    "desc": "."
   }
 ]
