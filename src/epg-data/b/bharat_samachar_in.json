@@ -1,531 +1,14 @@
 [
   {
-    "start": "01:45",
-    "stop": "02:00",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786239900000,
-    "stopTs": 1786240800000,
-    "title": "Superfast",
-    "desc": "Superfast"
-  },
-  {
-    "start": "02:00",
+    "start": "00:25",
     "stop": "02:30",
     "channel": "BharatSamachar.in",
     "channelId": "BharatSamachar.in",
     "channelName": "Bharat Samachar",
-    "startTs": 1786240800000,
-    "stopTs": 1786242600000,
-    "title": "Hl+Bulletin",
-    "desc": "Hl+Bulletin"
-  },
-  {
-    "start": "02:30",
-    "stop": "02:55",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786242600000,
-    "stopTs": 1786244100000,
-    "title": "Kavi War",
-    "desc": "Kavi War"
-  },
-  {
-    "start": "02:55",
-    "stop": "03:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786244100000,
-    "stopTs": 1786245900000,
-    "title": "Bulletin+Nakshatra",
-    "desc": "Bulletin+Nakshatra"
-  },
-  {
-    "start": "03:25",
-    "stop": "03:55",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786245900000,
-    "stopTs": 1786247700000,
-    "title": "Superfast",
-    "desc": "Superfast"
-  },
-  {
-    "start": "03:55",
-    "stop": "04:30",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786247700000,
-    "stopTs": 1786249800000,
-    "title": "Power Center+Special",
-    "desc": "Power Center+Special"
-  },
-  {
-    "start": "04:30",
-    "stop": "04:55",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786249800000,
-    "stopTs": 1786251300000,
-    "title": "3Min 33 Khabre+Up Live",
-    "desc": "3Min 33 Khabre+Up Live"
-  },
-  {
-    "start": "04:55",
-    "stop": "05:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786251300000,
-    "stopTs": 1786253100000,
-    "title": "Superfast+Cutting Chai",
-    "desc": "Superfast+Cutting Chai"
-  },
-  {
-    "start": "05:25",
-    "stop": "05:55",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786253100000,
-    "stopTs": 1786254900000,
-    "title": "Up Live",
-    "desc": "Up Live"
-  },
-  {
-    "start": "05:55",
-    "stop": "06:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786254900000,
-    "stopTs": 1786256700000,
-    "title": "Jungle",
-    "desc": "Jungle"
-  },
-  {
-    "start": "06:25",
-    "stop": "07:00",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786256700000,
-    "stopTs": 1786258800000,
-    "title": "Up Live",
-    "desc": "Up Live"
-  },
-  {
-    "start": "07:00",
-    "stop": "07:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786258800000,
-    "stopTs": 1786260300000,
-    "title": "Hukumat",
-    "desc": "Hukumat"
-  },
-  {
-    "start": "07:25",
-    "stop": "08:00",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786260300000,
-    "stopTs": 1786262400000,
-    "title": "Kavi War",
-    "desc": "Kavi War"
-  },
-  {
-    "start": "08:00",
-    "stop": "08:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786262400000,
-    "stopTs": 1786263900000,
-    "title": "Dophar War",
-    "desc": "Dophar War"
-  },
-  {
-    "start": "08:25",
-    "stop": "08:55",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786263900000,
-    "stopTs": 1786265700000,
-    "title": "CMS Commercial",
-    "desc": "CMS Commercial"
-  },
-  {
-    "start": "08:55",
-    "stop": "09:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786265700000,
-    "stopTs": 1786267500000,
-    "title": "Superfast",
-    "desc": "Superfast"
-  },
-  {
-    "start": "09:25",
-    "stop": "10:01",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786267500000,
-    "stopTs": 1786269660000,
-    "title": "3 PM Badi Khabar",
-    "desc": "3 PM Badi Khabar"
-  },
-  {
-    "start": "10:01",
-    "stop": "10:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786269660000,
-    "stopTs": 1786271100000,
-    "title": "Anhoni+3@33+Cutting Chai",
-    "desc": "Anhoni+333+Cutting Chai"
-  },
-  {
-    "start": "10:25",
-    "stop": "10:30",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786271100000,
-    "stopTs": 1786271400000,
-    "title": "Up Top 15",
-    "desc": "Up Top 15"
-  },
-  {
-    "start": "10:30",
-    "stop": "10:55",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786271400000,
-    "stopTs": 1786272900000,
-    "title": "Up Live",
-    "desc": "Up Live"
-  },
-  {
-    "start": "10:55",
-    "stop": "11:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786272900000,
-    "stopTs": 1786274700000,
-    "title": "Superfast",
-    "desc": "Superfast"
-  },
-  {
-    "start": "11:25",
-    "stop": "12:00",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786274700000,
-    "stopTs": 1786276800000,
-    "title": "5Badi Khabre",
-    "desc": "5Badi Khabre"
-  },
-  {
-    "start": "12:00",
-    "stop": "12:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786276800000,
-    "stopTs": 1786278300000,
-    "title": "Jungle",
-    "desc": "Jungle"
-  },
-  {
-    "start": "12:25",
-    "stop": "13:00",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786278300000,
-    "stopTs": 1786280400000,
-    "title": "Akhada",
-    "desc": "Akhada"
-  },
-  {
-    "start": "13:00",
-    "stop": "13:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786280400000,
-    "stopTs": 1786281900000,
-    "title": "Superfast+Cutting Chai",
-    "desc": "Superfast+Cutting Chai"
-  },
-  {
-    "start": "13:25",
-    "stop": "13:57",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786281900000,
-    "stopTs": 1786283820000,
-    "title": "Maha Bulletin",
-    "desc": "Maha Bulletin"
-  },
-  {
-    "start": "13:57",
-    "stop": "14:13",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786283820000,
-    "stopTs": 1786284780000,
-    "title": "HL+Special+3@33",
-    "desc": "HL+Special+333"
-  },
-  {
-    "start": "14:13",
-    "stop": "14:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786284780000,
-    "stopTs": 1786285500000,
-    "title": "Cutting Chai",
-    "desc": "Cutting Chai"
-  },
-  {
-    "start": "14:25",
-    "stop": "15:30",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786285500000,
-    "stopTs": 1786289400000,
-    "title": "Power Center +Special",
-    "desc": "Power Center +Special"
-  },
-  {
-    "start": "15:30",
-    "stop": "15:55",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786289400000,
-    "stopTs": 1786290900000,
-    "title": "Superfast",
-    "desc": "Superfast"
-  },
-  {
-    "start": "15:55",
-    "stop": "16:31",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786290900000,
-    "stopTs": 1786293060000,
-    "title": "Power Center+Special",
-    "desc": "Power Center+Special"
-  },
-  {
-    "start": "16:31",
-    "stop": "17:00",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786293060000,
-    "stopTs": 1786294800000,
-    "title": "3@33+Full & Final Bulletin",
-    "desc": "333+Full and Final Bulletin"
-  },
-  {
-    "start": "17:00",
-    "stop": "17:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786294800000,
-    "stopTs": 1786296300000,
-    "title": "Jungle",
-    "desc": "Jungle"
-  },
-  {
-    "start": "17:25",
-    "stop": "18:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786296300000,
-    "stopTs": 1786299900000,
-    "title": "Anhoni+Crime+SF+Power CE",
-    "desc": "Anhoni+Crime+SF+Power CE"
-  },
-  {
-    "start": "18:25",
-    "stop": "18:55",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786299900000,
-    "stopTs": 1786301700000,
-    "title": "Full & Final Bulletin",
-    "desc": "Full and Final Bulletin"
-  },
-  {
-    "start": "18:55",
-    "stop": "19:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786301700000,
-    "stopTs": 1786303500000,
-    "title": "Anhoni+Crime+SF",
-    "desc": "Anhoni+Crime+SF"
-  },
-  {
-    "start": "19:25",
-    "stop": "19:55",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786303500000,
-    "stopTs": 1786305300000,
-    "title": "Full & Final Bulletin",
-    "desc": "Full and Final Bulletin"
-  },
-  {
-    "start": "19:55",
-    "stop": "20:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786305300000,
-    "stopTs": 1786307100000,
-    "title": "Jungle",
-    "desc": "Jungle"
-  },
-  {
-    "start": "20:25",
-    "stop": "20:55",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786307100000,
-    "stopTs": 1786308900000,
-    "title": "Full & Final Bulletin",
-    "desc": "Full and Final Bulletin"
-  },
-  {
-    "start": "20:55",
-    "stop": "21:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786308900000,
-    "stopTs": 1786310700000,
-    "title": "Anhoni+Crime+SF",
-    "desc": "Anhoni+Crime+SF"
-  },
-  {
-    "start": "21:25",
-    "stop": "21:55",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786310700000,
-    "stopTs": 1786312500000,
-    "title": "Full & Final Bulletin",
-    "desc": "Full and Final Bulletin"
-  },
-  {
-    "start": "21:55",
-    "stop": "22:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786312500000,
-    "stopTs": 1786314300000,
-    "title": "Jungle",
-    "desc": "Jungle"
-  },
-  {
-    "start": "22:25",
-    "stop": "22:55",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786314300000,
-    "stopTs": 1786316100000,
-    "title": "Full & Final Bulletin",
-    "desc": "Full and Final Bulletin"
-  },
-  {
-    "start": "22:55",
-    "stop": "23:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786316100000,
-    "stopTs": 1786317900000,
-    "title": "Anhoni+Crime+SF",
-    "desc": "Anhoni+Crime+SF"
-  },
-  {
-    "start": "23:25",
-    "stop": "23:55",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786317900000,
-    "stopTs": 1786319700000,
-    "title": "Full & Final Bulletin",
-    "desc": "Full and Final Bulletin"
-  },
-  {
-    "start": "23:55",
-    "stop": "00:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786319700000,
-    "stopTs": 1786321500000,
-    "title": "Teleshopping",
-    "desc": "The host illustrates a wide selection of products ranging from home decor to kitchenware that can be purchased from the comforts of one&apos;s home."
-  },
-  {
-    "start": "00:25",
-    "stop": "00:55",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
     "startTs": 1786321500000,
-    "stopTs": 1786323300000,
-    "title": "Teleshopping",
-    "desc": "The host illustrates a wide selection of products ranging from home decor to kitchenware that can be purchased from the comforts of one&apos;s home."
-  },
-  {
-    "start": "00:55",
-    "stop": "01:25",
-    "channel": "BharatSamachar.in",
-    "channelId": "BharatSamachar.in",
-    "channelName": "Bharat Samachar",
-    "startTs": 1786323300000,
-    "stopTs": 1786325100000,
-    "title": "CMS Commercial",
-    "desc": "CMS Commercial"
+    "stopTs": 1786329000000,
+    "title": "TVC",
+    "desc": "The host presents a wide selection of products across different categories."
   },
   {
     "start": "01:25",
@@ -557,8 +40,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786329000000,
     "stopTs": 1786330500000,
-    "title": "Bulletin",
-    "desc": "Bulletin"
+    "title": "100 Samachar",
+    "desc": "The host presents the top 100 news stories on different topics in quick succession."
   },
   {
     "start": "02:55",
@@ -568,8 +51,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786330500000,
     "stopTs": 1786332300000,
-    "title": "Bulletin+Nakshatra",
-    "desc": "Bulletin+Nakshatra"
+    "title": "Bulletin / Nakshatra",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "03:25",
@@ -579,8 +62,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786332300000,
     "stopTs": 1786334100000,
-    "title": "Anhoni+Superfast",
-    "desc": "Anhoni+Superfast"
+    "title": "100 Samachar",
+    "desc": "The host presents the top 100 news stories on different topics in quick succession."
   },
   {
     "start": "03:55",
@@ -590,8 +73,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786334100000,
     "stopTs": 1786336200000,
-    "title": "Akhada",
-    "desc": "Akhada"
+    "title": "Special Story",
+    "desc": "The host presents fresh updates relating to the current affairs of the country and Punjab."
   },
   {
     "start": "04:30",
@@ -601,8 +84,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786336200000,
     "stopTs": 1786337700000,
-    "title": "3Min 33 Khabre+Up Live",
-    "desc": "3Min 33 Khabre+Up Live"
+    "title": "Breaking News",
+    "desc": "The host presents numerous top stories, latest happenings and significant updates."
   },
   {
     "start": "04:55",
@@ -612,8 +95,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786337700000,
     "stopTs": 1786339500000,
-    "title": "CMS Commercial",
-    "desc": "CMS Commercial"
+    "title": "100 Samachar + Cutting Chai",
+    "desc": "The host presents the top 100 global news stories, highlighting major civic issues."
   },
   {
     "start": "05:25",
@@ -623,8 +106,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786339500000,
     "stopTs": 1786341300000,
-    "title": "Up Live",
-    "desc": "Up Live"
+    "title": "Breaking News",
+    "desc": "The host presents numerous top stories, latest happenings and significant updates."
   },
   {
     "start": "05:55",
@@ -634,8 +117,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786341300000,
     "stopTs": 1786343100000,
-    "title": "CMS Commercial",
-    "desc": "CMS Commercial"
+    "title": "Power Center With Virendra Singh / Special",
+    "desc": "The host presents an in-depth analysis on the field of politics and governance."
   },
   {
     "start": "06:25",
@@ -645,8 +128,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786343100000,
     "stopTs": 1786345200000,
-    "title": "Up Live + Cutting Chai",
-    "desc": "Up Live + Cutting Chai"
+    "title": "Breaking News",
+    "desc": "The host presents numerous top stories, latest happenings and significant updates."
   },
   {
     "start": "07:00",
@@ -656,8 +139,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786345200000,
     "stopTs": 1786346700000,
-    "title": "Superfast",
-    "desc": "Superfast"
+    "title": "100 Samachar",
+    "desc": "The host presents the top 100 news stories on different topics in quick succession."
   },
   {
     "start": "07:25",
@@ -667,8 +150,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786346700000,
     "stopTs": 1786348800000,
-    "title": "Up Live",
-    "desc": "Up Live"
+    "title": "Breaking News",
+    "desc": "The host presents numerous top stories, latest happenings and significant updates."
   },
   {
     "start": "08:00",
@@ -678,8 +161,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786348800000,
     "stopTs": 1786350300000,
-    "title": "Dophar War",
-    "desc": "Dophar War"
+    "title": "100 Samachar",
+    "desc": "The host presents the top 100 news stories on different topics in quick succession."
   },
   {
     "start": "08:25",
@@ -690,7 +173,7 @@
     "startTs": 1786350300000,
     "stopTs": 1786352100000,
     "title": "CMS Commercial",
-    "desc": "CMS Commercial"
+    "desc": "Bringing the best in television."
   },
   {
     "start": "08:55",
@@ -700,19 +183,19 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786352100000,
     "stopTs": 1786353900000,
-    "title": "Superfast",
-    "desc": "Superfast"
+    "title": "100 Samachar",
+    "desc": "The host presents the top 100 news stories on different topics in quick succession."
   },
   {
     "start": "09:25",
-    "stop": "10:01",
+    "stop": "10:30",
     "channel": "BharatSamachar.in",
     "channelId": "BharatSamachar.in",
     "channelName": "Bharat Samachar",
     "startTs": 1786353900000,
-    "stopTs": 1786356060000,
-    "title": "3 PM Badi Khabar",
-    "desc": "3 PM Badi Khabar"
+    "stopTs": 1786357800000,
+    "title": "3 Pm Badi Khabar",
+    "desc": "The host presents major news stories that are making headlines on significant matters in India."
   },
   {
     "start": "10:01",
@@ -744,8 +227,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786357800000,
     "stopTs": 1786359300000,
-    "title": "Up Live",
-    "desc": "Up Live"
+    "title": "Breaking News",
+    "desc": "The host presents numerous top stories, latest happenings and significant updates."
   },
   {
     "start": "10:55",
@@ -755,8 +238,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786359300000,
     "stopTs": 1786361100000,
-    "title": "Superfast",
-    "desc": "Superfast"
+    "title": "100 Samachar",
+    "desc": "The host presents the top 100 news stories on different topics in quick succession."
   },
   {
     "start": "11:25",
@@ -766,8 +249,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786361100000,
     "stopTs": 1786363200000,
-    "title": "5Badi Khabre",
-    "desc": "5Badi Khabre"
+    "title": "5 Pm Badi Khabar",
+    "desc": "The host presents the top stories of the day from across the country."
   },
   {
     "start": "12:00",
@@ -777,8 +260,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786363200000,
     "stopTs": 1786364700000,
-    "title": "Jungle",
-    "desc": "Jungle"
+    "title": "Camera Sab Dekhta Hai",
+    "desc": "The host presents significant news events captured on camera from various parts of India."
   },
   {
     "start": "12:25",
@@ -788,8 +271,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786364700000,
     "stopTs": 1786366800000,
-    "title": "Akhada",
-    "desc": "Akhada"
+    "title": "Dood Ka Dood Live",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "13:00",
@@ -799,8 +282,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786366800000,
     "stopTs": 1786368300000,
-    "title": "Superfast+Cutting Chai",
-    "desc": "Superfast+Cutting Chai"
+    "title": "100 Samachar + Cutting Chai",
+    "desc": "The host presents the top 100 global news stories, highlighting major civic issues."
   },
   {
     "start": "13:25",
@@ -811,7 +294,7 @@
     "startTs": 1786368300000,
     "stopTs": 1786370220000,
     "title": "Maha Bulletin",
-    "desc": "Maha Bulletin"
+    "desc": "The host offers in-depth coverage and analysis of significant national and global events."
   },
   {
     "start": "13:57",
@@ -821,8 +304,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786370220000,
     "stopTs": 1786371180000,
-    "title": "HL+Special+3@33",
-    "desc": "HL+Special+333"
+    "title": "HL / Special",
+    "desc": "The host presents the latest news stories from all around the region."
   },
   {
     "start": "14:13",
@@ -833,7 +316,7 @@
     "startTs": 1786371180000,
     "stopTs": 1786371900000,
     "title": "Cutting Chai",
-    "desc": "Cutting Chai"
+    "desc": "The presenter asks local residents about their views on various national issues."
   },
   {
     "start": "14:25",
@@ -844,7 +327,7 @@
     "startTs": 1786371900000,
     "stopTs": 1786375800000,
     "title": "The Debate With Brajesh Mishra",
-    "desc": "The Debate With Brajesh Mishra"
+    "desc": "Political leaders and experts from different fields debate on various burning issues."
   },
   {
     "start": "15:30",
@@ -854,8 +337,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786375800000,
     "stopTs": 1786377300000,
-    "title": "Superfast",
-    "desc": "Superfast"
+    "title": "100 Samachar",
+    "desc": "The host presents the top 100 news stories on different topics in quick succession."
   },
   {
     "start": "15:55",
@@ -865,8 +348,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786377300000,
     "stopTs": 1786379460000,
-    "title": "Hukumat 2019",
-    "desc": "Hukumat 2019"
+    "title": "Special Story",
+    "desc": "The host presents fresh updates relating to the current affairs of the country and Punjab."
   },
   {
     "start": "16:31",
@@ -876,8 +359,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786379460000,
     "stopTs": 1786381200000,
-    "title": "3@33+Full & Final Bulletin",
-    "desc": "333+Full and Final Bulletin"
+    "title": "Full & Final Bulletin",
+    "desc": "The host presents some of the latest news stories, current affairs and developments."
   },
   {
     "start": "17:00",
@@ -887,8 +370,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786381200000,
     "stopTs": 1786382700000,
-    "title": "Jungle",
-    "desc": "Jungle"
+    "title": "100 Samachar + Cutting Chai",
+    "desc": "The host presents the top 100 global news stories, highlighting major civic issues."
   },
   {
     "start": "17:25",
@@ -898,8 +381,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786382700000,
     "stopTs": 1786384500000,
-    "title": "Anhoni+Crime+SF",
-    "desc": "Anhoni+Crime+SF"
+    "title": "Anhoni / Crime / SF",
+    "desc": "The host presents report on untoward incidents; the presenter sheds light on to some crime reports."
   },
   {
     "start": "17:55",
@@ -910,18 +393,29 @@
     "startTs": 1786384500000,
     "stopTs": 1786386300000,
     "title": "The Debate With Brajesh Mishra",
-    "desc": "The Debate With Brajesh Mishra"
+    "desc": "Political leaders and experts from different fields debate on various burning issues."
   },
   {
     "start": "18:25",
-    "stop": "18:55",
+    "stop": "18:30",
     "channel": "BharatSamachar.in",
     "channelId": "BharatSamachar.in",
     "channelName": "Bharat Samachar",
     "startTs": 1786386300000,
+    "stopTs": 1786386600000,
+    "title": "Full & Final Bulletin",
+    "desc": "The host presents some of the latest news stories, current affairs and developments."
+  },
+  {
+    "start": "18:30",
+    "stop": "18:55",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786386600000,
     "stopTs": 1786388100000,
     "title": "Full & Final Bulletin",
-    "desc": "Full and Final Bulletin"
+    "desc": "The host presents some of the latest news stories, current affairs and developments."
   },
   {
     "start": "18:55",
@@ -931,8 +425,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786388100000,
     "stopTs": 1786389900000,
-    "title": "Anhoni+Crime+SF",
-    "desc": "Anhoni+Crime+SF"
+    "title": "Anhoni / Crime / SF",
+    "desc": "The host presents report on untoward incidents; the presenter sheds light on to some crime reports."
   },
   {
     "start": "19:25",
@@ -943,7 +437,7 @@
     "startTs": 1786389900000,
     "stopTs": 1786391700000,
     "title": "Full & Final Bulletin",
-    "desc": "Full and Final Bulletin"
+    "desc": "The host presents some of the latest news stories, current affairs and developments."
   },
   {
     "start": "19:55",
@@ -953,8 +447,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786391700000,
     "stopTs": 1786393500000,
-    "title": "Jungle",
-    "desc": "Jungle"
+    "title": "100 Samachar",
+    "desc": "The host presents the top 100 news stories on different topics in quick succession."
   },
   {
     "start": "20:25",
@@ -965,7 +459,7 @@
     "startTs": 1786393500000,
     "stopTs": 1786395300000,
     "title": "Full & Final Bulletin",
-    "desc": "Full and Final Bulletin"
+    "desc": "The host presents some of the latest news stories, current affairs and developments."
   },
   {
     "start": "20:55",
@@ -975,8 +469,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786395300000,
     "stopTs": 1786397100000,
-    "title": "Anhoni+Crime+SF",
-    "desc": "Anhoni+Crime+SF"
+    "title": "Anhoni / Crime / SF",
+    "desc": "The host presents report on untoward incidents; the presenter sheds light on to some crime reports."
   },
   {
     "start": "21:25",
@@ -987,7 +481,7 @@
     "startTs": 1786397100000,
     "stopTs": 1786398900000,
     "title": "Full & Final Bulletin",
-    "desc": "Full and Final Bulletin"
+    "desc": "The host presents some of the latest news stories, current affairs and developments."
   },
   {
     "start": "21:55",
@@ -997,8 +491,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786398900000,
     "stopTs": 1786400700000,
-    "title": "Jungle",
-    "desc": "Jungle"
+    "title": "100 Samachar",
+    "desc": "The host presents the top 100 news stories on different topics in quick succession."
   },
   {
     "start": "22:25",
@@ -1009,7 +503,7 @@
     "startTs": 1786400700000,
     "stopTs": 1786402500000,
     "title": "Full & Final Bulletin",
-    "desc": "Full and Final Bulletin"
+    "desc": "The host presents some of the latest news stories, current affairs and developments."
   },
   {
     "start": "22:55",
@@ -1019,8 +513,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786402500000,
     "stopTs": 1786404300000,
-    "title": "Anhoni+Crime+SF",
-    "desc": "Anhoni+Crime+SF"
+    "title": "Anhoni / Crime / SF",
+    "desc": "The host presents report on untoward incidents; the presenter sheds light on to some crime reports."
   },
   {
     "start": "23:25",
@@ -1031,7 +525,7 @@
     "startTs": 1786404300000,
     "stopTs": 1786406100000,
     "title": "Full & Final Bulletin",
-    "desc": "Full and Final Bulletin"
+    "desc": "The host presents some of the latest news stories, current affairs and developments."
   },
   {
     "start": "23:55",
@@ -1041,8 +535,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786406100000,
     "stopTs": 1786407900000,
-    "title": "Teleshopping",
-    "desc": "The host illustrates a wide selection of products ranging from home decor to kitchenware that can be purchased from the comforts of one&apos;s home."
+    "title": "TVC",
+    "desc": "The host presents a wide selection of products across different categories."
   },
   {
     "start": "00:25",
@@ -1052,8 +546,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786407900000,
     "stopTs": 1786409700000,
-    "title": "Teleshopping",
-    "desc": "The host illustrates a wide selection of products ranging from home decor to kitchenware that can be purchased from the comforts of one&apos;s home."
+    "title": "TVC",
+    "desc": "The host presents a wide selection of products across different categories."
   },
   {
     "start": "00:55",
@@ -1063,8 +557,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786409700000,
     "stopTs": 1786411500000,
-    "title": "Superfast",
-    "desc": "Superfast"
+    "title": "100 Samachar",
+    "desc": "The host presents the top 100 news stories on different topics in quick succession."
   },
   {
     "start": "01:25",
@@ -1074,8 +568,8 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786411500000,
     "stopTs": 1786412700000,
-    "title": "CMS Commercial",
-    "desc": "CMS Commercial"
+    "title": "Commercial",
+    "desc": "The host promotes a range of products that can be bought from the comfort of one&apos;s home."
   },
   {
     "start": "01:45",
@@ -1085,7 +579,546 @@
     "channelName": "Bharat Samachar",
     "startTs": 1786412700000,
     "stopTs": 1786413600000,
+    "title": "100 Samachar",
+    "desc": "The host presents the top 100 news stories on different topics in quick succession."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786413600000,
+    "stopTs": 1786415400000,
+    "title": "HL / Bulletin",
+    "desc": "Journalists report the latest news stories and current events in Uttar Pradesh."
+  },
+  {
+    "start": "02:30",
+    "stop": "02:55",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786415400000,
+    "stopTs": 1786416900000,
+    "title": "100 Samachar",
+    "desc": "The host presents the top 100 news stories on different topics in quick succession."
+  },
+  {
+    "start": "02:55",
+    "stop": "03:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786416900000,
+    "stopTs": 1786418700000,
+    "title": "Bulletin / Nakshatra",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "03:25",
+    "stop": "03:55",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786418700000,
+    "stopTs": 1786420500000,
+    "title": "100 Samachar",
+    "desc": "The host presents the top 100 news stories on different topics in quick succession."
+  },
+  {
+    "start": "03:55",
+    "stop": "04:30",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786420500000,
+    "stopTs": 1786422600000,
+    "title": "Special Story",
+    "desc": "The host presents fresh updates relating to the current affairs of the country and Punjab."
+  },
+  {
+    "start": "04:30",
+    "stop": "04:55",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786422600000,
+    "stopTs": 1786424100000,
+    "title": "Breaking News",
+    "desc": "The host presents numerous top stories, latest happenings and significant updates."
+  },
+  {
+    "start": "04:55",
+    "stop": "05:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786424100000,
+    "stopTs": 1786425900000,
+    "title": "100 Samachar + Cutting Chai",
+    "desc": "The host presents the top 100 global news stories, highlighting major civic issues."
+  },
+  {
+    "start": "05:25",
+    "stop": "05:55",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786425900000,
+    "stopTs": 1786427700000,
+    "title": "Breaking News",
+    "desc": "The host presents numerous top stories, latest happenings and significant updates."
+  },
+  {
+    "start": "05:55",
+    "stop": "06:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786427700000,
+    "stopTs": 1786429500000,
+    "title": "Camera Sab Dekhta Hai",
+    "desc": "The host presents significant news events captured on camera from various parts of India."
+  },
+  {
+    "start": "06:25",
+    "stop": "07:00",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786429500000,
+    "stopTs": 1786431600000,
+    "title": "Breaking News",
+    "desc": "The host presents numerous top stories, latest happenings and significant updates."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786431600000,
+    "stopTs": 1786433100000,
+    "title": "100 Samachar",
+    "desc": "The host presents the top 100 news stories on different topics in quick succession."
+  },
+  {
+    "start": "07:25",
+    "stop": "08:00",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786433100000,
+    "stopTs": 1786435200000,
+    "title": "Breaking News",
+    "desc": "The host presents numerous top stories, latest happenings and significant updates."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786435200000,
+    "stopTs": 1786436700000,
+    "title": "100 Samachar",
+    "desc": "The host presents the top 100 news stories on different topics in quick succession."
+  },
+  {
+    "start": "08:25",
+    "stop": "08:55",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786436700000,
+    "stopTs": 1786438500000,
+    "title": "CMS Commercial",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "08:55",
+    "stop": "09:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786438500000,
+    "stopTs": 1786440300000,
+    "title": "100 Samachar",
+    "desc": "The host presents the top 100 news stories on different topics in quick succession."
+  },
+  {
+    "start": "09:25",
+    "stop": "10:01",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786440300000,
+    "stopTs": 1786442460000,
+    "title": "3 Pm Badi Khabar",
+    "desc": "The host presents major news stories that are making headlines on significant matters in India."
+  },
+  {
+    "start": "10:01",
+    "stop": "10:30",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786442460000,
+    "stopTs": 1786444200000,
+    "title": "Anhoni / Crime Cutting",
+    "desc": "The host sheds light on the latest crime stories from different parts of the country."
+  },
+  {
+    "start": "10:25",
+    "stop": "10:30",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786443900000,
+    "stopTs": 1786444200000,
+    "title": "Up Top 15",
+    "desc": "Up Top 15"
+  },
+  {
+    "start": "10:30",
+    "stop": "10:55",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786444200000,
+    "stopTs": 1786445700000,
+    "title": "Breaking News",
+    "desc": "The host presents numerous top stories, latest happenings and significant updates."
+  },
+  {
+    "start": "10:55",
+    "stop": "11:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786445700000,
+    "stopTs": 1786447500000,
+    "title": "100 Samachar",
+    "desc": "The host presents the top 100 news stories on different topics in quick succession."
+  },
+  {
+    "start": "11:25",
+    "stop": "12:00",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786447500000,
+    "stopTs": 1786449600000,
+    "title": "5 Pm Badi Khabar",
+    "desc": "The host presents the top stories of the day from across the country."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786449600000,
+    "stopTs": 1786451100000,
+    "title": "UP Diary",
+    "desc": "The host discusses the contributions of various people to the growth of Uttar Pradesh."
+  },
+  {
+    "start": "12:25",
+    "stop": "13:00",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786451100000,
+    "stopTs": 1786453200000,
+    "title": "Dood Ka Dood Live",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786453200000,
+    "stopTs": 1786454700000,
+    "title": "100 Samachar + Cutting Chai",
+    "desc": "The host presents the top 100 global news stories, highlighting major civic issues."
+  },
+  {
+    "start": "13:25",
+    "stop": "13:57",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786454700000,
+    "stopTs": 1786456620000,
+    "title": "Maha Bulletin",
+    "desc": "The host offers in-depth coverage and analysis of significant national and global events."
+  },
+  {
+    "start": "13:57",
+    "stop": "14:13",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786456620000,
+    "stopTs": 1786457580000,
+    "title": "HL / Special",
+    "desc": "The host presents the latest news stories from all around the region."
+  },
+  {
+    "start": "14:13",
+    "stop": "14:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786457580000,
+    "stopTs": 1786458300000,
+    "title": "Cutting Chai",
+    "desc": "The presenter asks local residents about their views on various national issues."
+  },
+  {
+    "start": "14:25",
+    "stop": "15:30",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786458300000,
+    "stopTs": 1786462200000,
+    "title": "Power Center / Special",
+    "desc": "The host provides a thorough dissection of the latest updates on Indian politics."
+  },
+  {
+    "start": "15:30",
+    "stop": "15:55",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786462200000,
+    "stopTs": 1786463700000,
+    "title": "100 Samachar",
+    "desc": "The host presents the top 100 news stories on different topics in quick succession."
+  },
+  {
+    "start": "15:55",
+    "stop": "16:31",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786463700000,
+    "stopTs": 1786465860000,
+    "title": "Power Center / Special",
+    "desc": "The host provides a thorough dissection of the latest updates on Indian politics."
+  },
+  {
+    "start": "16:31",
+    "stop": "17:00",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786465860000,
+    "stopTs": 1786467600000,
+    "title": "Full & Final Bulletin",
+    "desc": "The host presents some of the latest news stories, current affairs and developments."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786467600000,
+    "stopTs": 1786469100000,
+    "title": "100 Samachar + Cutting Chai",
+    "desc": "The host presents the top 100 global news stories, highlighting major civic issues."
+  },
+  {
+    "start": "17:25",
+    "stop": "18:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786469100000,
+    "stopTs": 1786472700000,
+    "title": "Anhoni / Crime / SF / Power CE",
+    "desc": "The host presents a report of shocking events; the host presents the latest news."
+  },
+  {
+    "start": "17:55",
+    "stop": "18:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786470900000,
+    "stopTs": 1786472700000,
+    "title": "The Debate With Brajesh Mishra",
+    "desc": "The Debate With Brajesh Mishra"
+  },
+  {
+    "start": "18:25",
+    "stop": "18:30",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786472700000,
+    "stopTs": 1786473000000,
+    "title": "Full & Final Bulletin",
+    "desc": "The host presents some of the latest news stories, current affairs and developments."
+  },
+  {
+    "start": "18:55",
+    "stop": "19:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786474500000,
+    "stopTs": 1786476300000,
+    "title": "Anhoni+Crime+SF",
+    "desc": "Anhoni+Crime+SF"
+  },
+  {
+    "start": "19:25",
+    "stop": "19:55",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786476300000,
+    "stopTs": 1786478100000,
+    "title": "Full & Final Bulletin",
+    "desc": "Full and Final Bulletin"
+  },
+  {
+    "start": "19:55",
+    "stop": "20:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786478100000,
+    "stopTs": 1786479900000,
+    "title": "Jungle",
+    "desc": "Jungle"
+  },
+  {
+    "start": "20:25",
+    "stop": "20:55",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786479900000,
+    "stopTs": 1786481700000,
+    "title": "Full & Final Bulletin",
+    "desc": "Full and Final Bulletin"
+  },
+  {
+    "start": "20:55",
+    "stop": "21:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786481700000,
+    "stopTs": 1786483500000,
+    "title": "Anhoni+Crime+SF",
+    "desc": "Anhoni+Crime+SF"
+  },
+  {
+    "start": "21:25",
+    "stop": "21:55",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786483500000,
+    "stopTs": 1786485300000,
+    "title": "Full & Final Bulletin",
+    "desc": "Full and Final Bulletin"
+  },
+  {
+    "start": "21:55",
+    "stop": "22:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786485300000,
+    "stopTs": 1786487100000,
+    "title": "Jungle",
+    "desc": "Jungle"
+  },
+  {
+    "start": "22:25",
+    "stop": "22:55",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786487100000,
+    "stopTs": 1786488900000,
+    "title": "Full & Final Bulletin",
+    "desc": "Full and Final Bulletin"
+  },
+  {
+    "start": "22:55",
+    "stop": "23:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786488900000,
+    "stopTs": 1786490700000,
+    "title": "Anhoni+Crime+SF",
+    "desc": "Anhoni+Crime+SF"
+  },
+  {
+    "start": "23:25",
+    "stop": "23:55",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786490700000,
+    "stopTs": 1786492500000,
+    "title": "Full & Final Bulletin",
+    "desc": "Full and Final Bulletin"
+  },
+  {
+    "start": "23:55",
+    "stop": "00:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786492500000,
+    "stopTs": 1786494300000,
+    "title": "Teleshopping",
+    "desc": "The host illustrates a wide selection of products ranging from home decor to kitchenware that can be purchased from the comforts of one&apos;s home."
+  },
+  {
+    "start": "00:25",
+    "stop": "00:55",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786494300000,
+    "stopTs": 1786496100000,
+    "title": "Teleshopping",
+    "desc": "The host illustrates a wide selection of products ranging from home decor to kitchenware that can be purchased from the comforts of one&apos;s home."
+  },
+  {
+    "start": "00:55",
+    "stop": "01:25",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786496100000,
+    "stopTs": 1786497900000,
     "title": "Superfast",
     "desc": "Superfast"
+  },
+  {
+    "start": "01:25",
+    "stop": "01:45",
+    "channel": "BharatSamachar.in",
+    "channelId": "BharatSamachar.in",
+    "channelName": "Bharat Samachar",
+    "startTs": 1786497900000,
+    "stopTs": 1786499100000,
+    "title": "CMS Commercial",
+    "desc": "CMS Commercial"
   }
 ]
