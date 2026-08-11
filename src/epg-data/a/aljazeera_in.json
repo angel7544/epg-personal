@@ -1,12 +1,23 @@
 [
   {
+    "start": "00:00",
+    "stop": "01:00",
+    "channel": "ALJAZEERA.in",
+    "channelId": "ALJAZEERA.in",
+    "channelName": "ALJAZEERA",
+    "startTs": 1786406400000,
+    "stopTs": 1786410000000,
+    "title": "Newshour",
+    "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
+  },
+  {
     "start": "01:00",
     "stop": "01:30",
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786323600000,
-    "stopTs": 1786325400000,
+    "startTs": 1786410000000,
+    "stopTs": 1786411800000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -16,10 +27,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786325400000,
-    "stopTs": 1786327200000,
-    "title": "The Bottom Line",
-    "desc": "Discussions on US politics and policies."
+    "startTs": 1786411800000,
+    "stopTs": 1786413600000,
+    "title": "Studio B: The AI Series",
+    "desc": "AI experts Camille Francois and Meredith Whittaker discuss how to break up Big Tech and build a safe and ethical AI."
   },
   {
     "start": "02:00",
@@ -27,8 +38,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786327200000,
-    "stopTs": 1786330800000,
+    "startTs": 1786413600000,
+    "stopTs": 1786417200000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   },
@@ -38,8 +49,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786330800000,
-    "stopTs": 1786332600000,
+    "startTs": 1786417200000,
+    "stopTs": 1786419000000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -49,10 +60,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786332600000,
-    "stopTs": 1786334400000,
-    "title": "Counting the Cost",
-    "desc": "The show features the economical stories that shape our world and has an effect on the lives of the common human beings."
+    "startTs": 1786419000000,
+    "stopTs": 1786420800000,
+    "title": "A Changing World?",
+    "desc": "Ro Khanna joins Sreenivasan Jain on U.S. support for Israel, foreign policy failures, and Washington&apos;s global credibility."
   },
   {
     "start": "04:00",
@@ -60,8 +71,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786334400000,
-    "stopTs": 1786336200000,
+    "startTs": 1786420800000,
+    "stopTs": 1786422600000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -71,10 +82,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786336200000,
-    "stopTs": 1786338000000,
-    "title": "101 East",
-    "desc": "101 East reports on the people and events shaping the Asia Pacific region. ."
+    "startTs": 1786422600000,
+    "stopTs": 1786424400000,
+    "title": "The Silencing of Anas Al Sharif",
+    "desc": "This is News - News Bulletin Category."
   },
   {
     "start": "05:00",
@@ -82,8 +93,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786338000000,
-    "stopTs": 1786339800000,
+    "startTs": 1786424400000,
+    "stopTs": 1786426200000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -93,8 +104,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786339800000,
-    "stopTs": 1786341600000,
+    "startTs": 1786426200000,
+    "stopTs": 1786428000000,
     "title": "Inside Story",
     "desc": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond."
   },
@@ -104,8 +115,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786341600000,
-    "stopTs": 1786343400000,
+    "startTs": 1786428000000,
+    "stopTs": 1786429800000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -115,10 +126,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786343400000,
-    "stopTs": 1786345200000,
-    "title": "Talk to Al Jazeera",
-    "desc": "One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times."
+    "startTs": 1786429800000,
+    "stopTs": 1786431600000,
+    "title": "Boycott",
+    "desc": "A new series about US anti boycott laws and their implications for freedom of speech. Part One introduces three landmark cases that challenge the legislation."
   },
   {
     "start": "07:00",
@@ -126,8 +137,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786345200000,
-    "stopTs": 1786348800000,
+    "startTs": 1786431600000,
+    "stopTs": 1786435200000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   },
@@ -137,8 +148,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786348800000,
-    "stopTs": 1786350600000,
+    "startTs": 1786435200000,
+    "stopTs": 1786437000000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -148,10 +159,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786350600000,
-    "stopTs": 1786352400000,
-    "title": "Studio B: The AI Series",
-    "desc": "AI experts Camille Francois and Meredith Whittaker discuss how to break up Big Tech and build a safe and ethical AI."
+    "startTs": 1786437000000,
+    "stopTs": 1786438800000,
+    "title": "Witness",
+    "desc": "A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart."
   },
   {
     "start": "09:00",
@@ -159,8 +170,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786352400000,
-    "stopTs": 1786354200000,
+    "startTs": 1786438800000,
+    "stopTs": 1786440600000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -170,10 +181,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786354200000,
-    "stopTs": 1786356000000,
-    "title": "A Changing World?",
-    "desc": "Ro Khanna joins Sreenivasan Jain on U.S. support for Israel, foreign policy failures, and Washington&apos;s global credibility."
+    "startTs": 1786440600000,
+    "stopTs": 1786442400000,
+    "title": "Talk to Al Jazeera",
+    "desc": "One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times."
   },
   {
     "start": "10:00",
@@ -181,8 +192,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786356000000,
-    "stopTs": 1786359600000,
+    "startTs": 1786442400000,
+    "stopTs": 1786446000000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   },
@@ -192,8 +203,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786359600000,
-    "stopTs": 1786361400000,
+    "startTs": 1786446000000,
+    "stopTs": 1786447800000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -203,8 +214,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786361400000,
-    "stopTs": 1786363200000,
+    "startTs": 1786447800000,
+    "stopTs": 1786449600000,
     "title": "Inside Story",
     "desc": "Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond."
   },
@@ -214,8 +225,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786363200000,
-    "stopTs": 1786366800000,
+    "startTs": 1786449600000,
+    "stopTs": 1786453200000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   },
@@ -225,8 +236,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786366800000,
-    "stopTs": 1786370400000,
+    "startTs": 1786453200000,
+    "stopTs": 1786456800000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   },
@@ -236,8 +247,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786370400000,
-    "stopTs": 1786372200000,
+    "startTs": 1786456800000,
+    "stopTs": 1786458600000,
     "title": "News",
     "desc": "The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world."
   },
@@ -247,10 +258,10 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786372200000,
-    "stopTs": 1786374000000,
-    "title": "Talk to Al Jazeera",
-    "desc": "One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times."
+    "startTs": 1786458600000,
+    "stopTs": 1786460400000,
+    "title": "Boycott",
+    "desc": "A new series about US anti boycott laws and their implications for freedom of speech. Part One introduces three landmark cases that challenge the legislation."
   },
   {
     "start": "15:00",
@@ -258,8 +269,8 @@
     "channel": "ALJAZEERA.in",
     "channelId": "ALJAZEERA.in",
     "channelName": "ALJAZEERA",
-    "startTs": 1786374000000,
-    "stopTs": 1786377600000,
+    "startTs": 1786460400000,
+    "stopTs": 1786464000000,
     "title": "Newshour",
     "desc": "A closer look at international news, events, current affairs, and exclusive stories from around the world."
   }

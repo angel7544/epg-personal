@@ -1,234 +1,135 @@
 [
   {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1786408200000,
+    "stopTs": 1786410000000,
+    "title": "Yoga Based Programme",
+    "desc": "Yoga experts showcase various postures and meditation methods, offering practical tools for managing everyday stress and improving wellbeing."
+  },
+  {
     "start": "01:00",
     "stop": "01:30",
     "channel": "ETVCinema.in",
     "channelId": "ETVCinema.in",
     "channelName": "ETV Cinema",
-    "startTs": 1786323600000,
-    "stopTs": 1786325400000,
+    "startTs": 1786410000000,
+    "stopTs": 1786411800000,
     "title": "Madhurimalu",
     "desc": "A chef shares some kitchen secrets, simple dessert recipes and demonstrates how to whip up mouthwatering treats in an easy-to-understand manner."
   },
   {
     "start": "01:30",
-    "stop": "04:22",
+    "stop": "04:15",
     "channel": "ETVCinema.in",
     "channelId": "ETVCinema.in",
     "channelName": "ETV Cinema",
-    "startTs": 1786325400000,
-    "stopTs": 1786335720000,
-    "title": "Veedhi",
-    "desc": "A reporter is on the lookout for a mafia leader. She tries to track the gangster"
-  },
-  {
-    "start": "04:22",
-    "stop": "04:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema",
-    "startTs": 1786335720000,
-    "stopTs": 1786336200000,
-    "title": "Telugu Hits",
-    "desc": "Telugu Hits brings you a collection of timeless Telugu classics, featuring unforgettable music, drama, and performances that define the essence of Telugu cinema."
-  },
-  {
-    "start": "04:30",
-    "stop": "07:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema",
-    "startTs": 1786336200000,
-    "stopTs": 1786347000000,
-    "title": "Gudi Gantalu",
-    "desc": "Vasu and Hari are friends. Both love Maya. Hari tells her to forgo their relation."
-  },
-  {
-    "start": "07:30",
-    "stop": "10:19",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema",
-    "startTs": 1786347000000,
-    "stopTs": 1786357140000,
-    "title": "Muddula Krishnaiah",
-    "desc": "In this engaging village tale, Krishnayya navigates family drama, jealousy, and love when he marries Radha but is drawn to the mysterious Shanti, leading to unexpected reunions."
-  },
-  {
-    "start": "10:19",
-    "stop": "10:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema",
-    "startTs": 1786357140000,
-    "stopTs": 1786357800000,
-    "title": "Telugu Hits",
-    "desc": "Telugu Hits brings you a collection of timeless Telugu classics, featuring unforgettable music, drama, and performances that define the essence of Telugu cinema."
-  },
-  {
-    "start": "10:30",
-    "stop": "13:22",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema",
-    "startTs": 1786357800000,
-    "stopTs": 1786368120000,
-    "title": "Repati Pourulu",
-    "desc": "Saraswati&apos;s fiance killed exposing corruption and students seek justice."
-  },
-  {
-    "start": "13:22",
-    "stop": "13:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema",
-    "startTs": 1786368120000,
-    "stopTs": 1786368600000,
-    "title": "Telugu Hits",
-    "desc": "Telugu Hits brings you a collection of timeless Telugu classics, featuring unforgettable music, drama, and performances that define the essence of Telugu cinema."
-  },
-  {
-    "start": "13:30",
-    "stop": "16:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema",
-    "startTs": 1786368600000,
-    "stopTs": 1786379400000,
-    "title": "Vaarasudocchadu",
-    "desc": "At a hospital, Bose meets Raghu, who is dying, and agrees to take his place in the village. Once there, Bose discovers Raghu&apos;s family scheming for property, exposing hidden greed."
-  },
-  {
-    "start": "16:30",
-    "stop": "19:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema",
-    "startTs": 1786379400000,
-    "stopTs": 1786390200000,
-    "title": "Maa Aayana Sundarayya",
-    "desc": "A lorry driver saves an amnesic woman, brings her home, and they marry with a child. Her parents uncover the truth and take her back."
-  },
-  {
-    "start": "19:30",
-    "stop": "22:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1786390200000,
-    "stopTs": 1786401000000,
-    "title": "Veedhi",
-    "desc": "A young news reporter seeks the help of Surya and his friends to catch a mafia leader."
-  },
-  {
-    "start": "22:30",
-    "stop": "00:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1786401000000,
-    "stopTs": 1786408200000,
-    "title": "Songs",
-    "desc": "A comprehensive compilation of popular songs is played in rapid succession."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1786408200000,
-    "stopTs": 1786410000000,
-    "title": "Yoga Based Programme",
-    "desc": "Yoga experts showcase various postures and meditation methods."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1786410000000,
-    "stopTs": 1786411800000,
-    "title": "Madhurimalu",
-    "desc": "A chef shares some kitchen secrets and simple dessert recipes."
-  },
-  {
-    "start": "01:30",
-    "stop": "04:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
     "startTs": 1786411800000,
-    "stopTs": 1786422600000,
+    "stopTs": 1786421700000,
     "title": "Raaga Deepam",
-    "desc": "A man sacrifices his love so that he can marry his teacher&apos;s daughter."
+    "desc": "A man falls for a wealthy girl and dreams of marriage, but his teacher insists he wed his daughter. Unable to refuse, he sacrifices his true love, torn between duty and desire."
+  },
+  {
+    "start": "04:15",
+    "stop": "04:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1786421700000,
+    "stopTs": 1786422600000,
+    "title": "Telugu Hits",
+    "desc": "Telugu Hits brings you a collection of timeless Telugu classics, featuring unforgettable music, drama, and performances that define the essence of Telugu cinema."
   },
   {
     "start": "04:30",
     "stop": "07:30",
     "channel": "ETVCinema.in",
     "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
+    "channelName": "ETV Cinema",
     "startTs": 1786422600000,
     "stopTs": 1786433400000,
-    "title": "Gudachari 116",
-    "desc": "Agent 116 sets out on a mission to unearth the truth about his colleague&apos;s murder."
+    "title": "Goodachari 116",
+    "desc": "After Agent 303&apos;s death, Agent 116 seeks the truth about a crime gang."
   },
   {
     "start": "07:30",
+    "stop": "10:10",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1786433400000,
+    "stopTs": 1786443000000,
+    "title": "Saindhav",
+    "desc": "Saindhav, a devoted single father, lives peacefully with his daughter until he learns about her serious illness. Determined, he does everything in his power to save her."
+  },
+  {
+    "start": "10:10",
     "stop": "10:30",
     "channel": "ETVCinema.in",
     "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1786433400000,
+    "channelName": "ETV Cinema",
+    "startTs": 1786443000000,
     "stopTs": 1786444200000,
-    "title": "Saindhav",
-    "desc": "A man is compelled to encounter a crime boss so that he can rescue his ailing daughter."
+    "title": "Telugu Hits",
+    "desc": "Telugu Hits brings you a collection of timeless Telugu classics, featuring unforgettable music, drama, and performances that define the essence of Telugu cinema."
   },
   {
     "start": "10:30",
-    "stop": "13:00",
+    "stop": "13:05",
     "channel": "ETVCinema.in",
     "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
+    "channelName": "ETV Cinema",
     "startTs": 1786444200000,
-    "stopTs": 1786453200000,
+    "stopTs": 1786453500000,
     "title": "Brahma",
-    "desc": "Impressed by his talent, a rich man takes an orphan boy under his wings."
+    "desc": "Gangster Brahma flees to Malaysia and falls in love with Pranitha."
   },
   {
     "start": "13:00",
+    "stop": "13:05",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1786453200000,
+    "stopTs": 1786453500000,
+    "title": "Raagam Thanam Pallavi",
+    "desc": "Music lovers enjoy a beautiful array of traditional melodies and popular film soundtracks that keep everyone highly entertained and feeling incredibly nostalgic."
+  },
+  {
+    "start": "13:05",
     "stop": "13:30",
     "channel": "ETVCinema.in",
     "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1786453200000,
+    "channelName": "ETV Cinema",
+    "startTs": 1786453500000,
     "stopTs": 1786455000000,
-    "title": "Raagam Thanam Pallavi",
-    "desc": "Music lovers enjoy a beautiful array of timeless soundtracks."
+    "title": "Film Based Programme",
+    "desc": "A special film based entertainment program where the host conducts exclusive interviews withcelebrities."
   },
   {
     "start": "13:30",
-    "stop": "16:30",
+    "stop": "16:35",
     "channel": "ETVCinema.in",
     "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
+    "channelName": "ETV Cinema",
     "startTs": 1786455000000,
-    "stopTs": 1786465800000,
+    "stopTs": 1786466100000,
     "title": "Sakutumba Saparivaara Sametham",
-    "desc": "Disgusted by the habits of his family members, a young man decides to remain a bachelor."
+    "desc": "Vamsi, a troubled man, faces a dishonest family and pressures; with Vasanti&apos;s love and Janakiramayya&apos;s guidance, he reforms, marries, and finds true happiness."
   },
   {
-    "start": "16:30",
+    "start": "16:35",
     "stop": "19:30",
     "channel": "ETVCinema.in",
     "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1786465800000,
+    "channelName": "ETV Cinema",
+    "startTs": 1786466100000,
     "stopTs": 1786476600000,
-    "title": "Neram Nadi Kadu",
-    "desc": "A startling mystery unfolds after a young man is charged with a murder he did not commit."
+    "title": "Neram Naadhi kadhu",
+    "desc": "After murdering Suman&apos;s wife, the criminal is caught. A stranger helps him."
   },
   {
     "start": "19:30",
@@ -284,5 +185,115 @@
     "stopTs": 1786509000000,
     "title": "Prema Pallaki",
     "desc": "Marriage blends two people raised differently, forming a strong, unbreakable bond beyond their differences, showing that love can unite lives from diverse backgrounds in any circumstance."
+  },
+  {
+    "start": "04:30",
+    "stop": "07:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1786509000000,
+    "stopTs": 1786519800000,
+    "title": "Panthalu Pattimpulu",
+    "desc": "Murali is a dancer. He teaches dance to the daughters of Mallanna who opposes it"
+  },
+  {
+    "start": "07:30",
+    "stop": "10:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1786519800000,
+    "stopTs": 1786530600000,
+    "title": "Abbaigaru",
+    "desc": "A widower marries a woman thinking that she&apos;ll take care of his son."
+  },
+  {
+    "start": "10:30",
+    "stop": "13:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1786530600000,
+    "stopTs": 1786541400000,
+    "title": "Appula Apparao",
+    "desc": "Appa Rao falls for Subbu. An astrologer predicts her death if she marries him."
+  },
+  {
+    "start": "13:30",
+    "stop": "16:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1786541400000,
+    "stopTs": 1786552200000,
+    "title": "Potti Pleader",
+    "desc": "A dramatic narrative following a determined character navigating challenges and conflicts, blending emotion and storytelling to present an engaging and memorable cinematic experience."
+  },
+  {
+    "start": "16:30",
+    "stop": "19:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1786552200000,
+    "stopTs": 1786563000000,
+    "title": "Pellichesi Chudu",
+    "desc": "Raja, a teacher, refuses to marry his uncle Govindayya&apos;s daughter, Chitti. Thereafter, Govindayya decides to seek revenge by causing problems during Raja&apos;s sister&apos;s wedding."
+  },
+  {
+    "start": "19:30",
+    "stop": "22:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1786563000000,
+    "stopTs": 1786573800000,
+    "title": "Prema Pallaki",
+    "desc": "Marriage blends two people raised differently, forming a strong, unbreakable bond beyond their differences, showing that love can unite lives from diverse backgrounds in any circumstance."
+  },
+  {
+    "start": "22:30",
+    "stop": "00:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1786573800000,
+    "stopTs": 1786581000000,
+    "title": "Songs",
+    "desc": "This collection gathers upbeat tunes in one handy playlist, offering listeners a wide, enjoyable mix of catchy songs that are easy to sing along and share."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1786581000000,
+    "stopTs": 1786582800000,
+    "title": "Yoga Based Prog",
+    "desc": "Yoga Based Prog guides viewers with postures, breathing, and meditation to enhance physical fitness, mental peace, and spiritual balance for overall well-being."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1786582800000,
+    "stopTs": 1786584600000,
+    "title": "Madhurimalu",
+    "desc": "The film follows ordinary people at a government hospital who bond and support each other. The director presents many characters, each with happiness and hardship."
+  },
+  {
+    "start": "01:30",
+    "stop": "04:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1786584600000,
+    "stopTs": 1786595400000,
+    "title": "Krishnarjunulu",
+    "desc": "Krishna and Arjun, once best friends, reunite after a lost briefcase brings them together. However, complications arise when Krishna discovers shocking secrets about Arjun&apos;s profession."
   }
 ]
