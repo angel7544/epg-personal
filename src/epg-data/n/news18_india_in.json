@@ -1,390 +1,5 @@
 [
   {
-    "start": "00:30",
-    "stop": "03:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786581000000,
-    "stopTs": 1786591800000,
-    "title": "Aaj Ka Mudda",
-    "desc": "A program that highlights the latest national news and key events, keeping viewers informed about important developments from across the country."
-  },
-  {
-    "start": "01:00",
-    "stop": "03:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786582800000,
-    "stopTs": 1786590000000,
-    "title": "Sulagtey Sawaal",
-    "desc": "The host sheds light on brewing topics from both national and international front and invites experts who engage in a debate on them."
-  },
-  {
-    "start": "03:00",
-    "stop": "04:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786590000000,
-    "stopTs": 1786593600000,
-    "title": "Bhaiya Ji Kahin",
-    "desc": "The host interacts with the common people of India to learn about their views and opinions on various trending issues in the country."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786591800000,
-    "stopTs": 1786595400000,
-    "title": "Akhaada",
-    "desc": "The host reports important news stories and updates of the day and conducts debates between major political parties on important issues."
-  },
-  {
-    "start": "04:00",
-    "stop": "05:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786593600000,
-    "stopTs": 1786597200000,
-    "title": "Aar Paar",
-    "desc": "The host discusses the social and political issues of the day with a panel of experts and provides updates on current events."
-  },
-  {
-    "start": "04:30",
-    "stop": "06:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786595400000,
-    "stopTs": 1786602600000,
-    "title": "Mudda Garam Hai",
-    "desc": "The host analyses some of the hottest news updates regarding current social, economic and political developments."
-  },
-  {
-    "start": "05:00",
-    "stop": "06:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786597200000,
-    "stopTs": 1786600800000,
-    "title": "Desh Nahi Jhukne Dengey",
-    "desc": "The host presents in-depth information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "start": "06:00",
-    "stop": "07:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786600800000,
-    "stopTs": 1786604400000,
-    "title": "Sau Baat Ki Ek Baat",
-    "desc": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights."
-  },
-  {
-    "start": "06:30",
-    "stop": "08:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786602600000,
-    "stopTs": 1786609800000,
-    "title": "Sulagtey Sawaal",
-    "desc": "Dive into lively talks about today&apos;s top issues and heated debates, exploring different viewpoints, informing opinions, and sparking thoughtful conversations for curious minds."
-  },
-  {
-    "start": "07:00",
-    "stop": "08:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786604400000,
-    "stopTs": 1786608000000,
-    "title": "Katcha Chittha",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "start": "08:00",
-    "stop": "09:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786608000000,
-    "stopTs": 1786611600000,
-    "title": "Sau Baat Ki Ek Baat",
-    "desc": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786609800000,
-    "stopTs": 1786613400000,
-    "title": "Bhaiya Ji Kahin",
-    "desc": "The host interacts with common citizens to understand their views and concerns, offering insights into India&apos;s current political atmosphere."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786611600000,
-    "stopTs": 1786613400000,
-    "title": "Sau Baat Ki Ek Baat",
-    "desc": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786613400000,
-    "stopTs": 1786617000000,
-    "title": "Aar Paar",
-    "desc": "Experts come together to discuss and analyze urgent political and social issues, offering insights and solutions on matters impacting the nation."
-  },
-  {
-    "start": "10:00",
-    "stop": "11:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786615200000,
-    "stopTs": 1786618800000,
-    "title": "Aar Paar",
-    "desc": "The host discusses the social and political issues of the day with a panel of experts and provides updates on current events."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786617000000,
-    "stopTs": 1786620600000,
-    "title": "Desh Nahi Jhukne Dengey",
-    "desc": "&apos;Desh Nahi Jhunjon Denge&apos; launches its first show from Srinagar&apos;s iconic Lal Chowk, bringing ground reports and public voices from the heart of Kashmir."
-  },
-  {
-    "start": "11:00",
-    "stop": "12:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786618800000,
-    "stopTs": 1786622400000,
-    "title": "Desh Nahi Jhukne Dengey",
-    "desc": "The host presents in-depth information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786620600000,
-    "stopTs": 1786624200000,
-    "title": "Sau Baat Ki Ek Baat",
-    "desc": "Get an in-depth report on the day&apos;s top news stories, as the host offers valuable insights and analysis on the latest developments shaping the national and global landscape."
-  },
-  {
-    "start": "12:00",
-    "stop": "13:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786622400000,
-    "stopTs": 1786626000000,
-    "title": "Sau Baat Ki Ek Baat",
-    "desc": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786624200000,
-    "stopTs": 1786627800000,
-    "title": "Katcha Chittha",
-    "desc": "Uncover hidden truths and shocking revelations with this gripping docu-drama. Stay tuned for eye-opening stories-watch now!"
-  },
-  {
-    "start": "13:00",
-    "stop": "14:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786626000000,
-    "stopTs": 1786629600000,
-    "title": "Katcha Chittha",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786627800000,
-    "stopTs": 1786631400000,
-    "title": "Sau Baat Ki Ek Baat",
-    "desc": "Get an in-depth report on the day&apos;s top news stories, as the host offers valuable insights and analysis on the latest developments shaping the national and global landscape."
-  },
-  {
-    "start": "14:00",
-    "stop": "15:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786629600000,
-    "stopTs": 1786633200000,
-    "title": "Sponsored Show",
-    "desc": "A moderator leads a panel of experts in a dynamic debate, exploring diverse perspectives on complex topics to inform and enlighten viewers."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786631400000,
-    "stopTs": 1786633200000,
-    "title": "Sau Baat Ki Ek Baat",
-    "desc": "Get an in-depth report on the day&apos;s top news stories, as the host offers valuable insights and analysis on the latest developments shaping the national and global landscape."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786633200000,
-    "stopTs": 1786635000000,
-    "title": "Katcha Chittha",
-    "desc": "Uncover hidden truths and shocking revelations with this gripping docu-drama. Stay tuned for eye-opening stories-watch now!"
-  },
-  {
-    "start": "15:30",
-    "stop": "16:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786635000000,
-    "stopTs": 1786638600000,
-    "title": "Aar Paar",
-    "desc": "Experts come together to discuss and analyze urgent political and social issues, offering insights and solutions on matters impacting the nation."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786638600000,
-    "stopTs": 1786642200000,
-    "title": "Desh Nahi Jhukne Dengey",
-    "desc": "&apos;Desh Nahi Jhunjon Denge&apos; launches its first show from Srinagar&apos;s iconic Lal Chowk, bringing ground reports and public voices from the heart of Kashmir."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786642200000,
-    "stopTs": 1786645800000,
-    "title": "Sau Baat Ki Ek Baat",
-    "desc": "Get an in-depth report on the day&apos;s top news stories, as the host offers valuable insights and analysis on the latest developments shaping the national and global landscape."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786645800000,
-    "stopTs": 1786649400000,
-    "title": "Katcha Chittha",
-    "desc": "Uncover hidden truths and shocking revelations with this gripping docu-drama. Stay tuned for eye-opening stories-watch now!"
-  },
-  {
-    "start": "19:00",
-    "stop": "22:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786647600000,
-    "stopTs": 1786658400000,
-    "title": "Aaj Ka Mudda",
-    "desc": "The host converses with experts about the social, economic and political issues of the day and holds debates on important issues."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786649400000,
-    "stopTs": 1786653000000,
-    "title": "Sponsored Show",
-    "desc": "Tune in for exciting sponsored content featuring a variety of informative and entertaining segments. Don&apos;t miss out-watch now!"
-  },
-  {
-    "start": "20:30",
-    "stop": "00:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786653000000,
-    "stopTs": 1786667400000,
-    "title": "Aaj Ki Taza Khabar",
-    "desc": "Stay updated with breaking headlines and current affairs. Get the latest news and stay informed-tune in now for timely updates and essential insights."
-  },
-  {
-    "start": "22:00",
-    "stop": "23:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786658400000,
-    "stopTs": 1786662000000,
-    "title": "Akhaada",
-    "desc": "The host presents information about the social, economic and political issues of the day and holds debates on important issues."
-  },
-  {
-    "start": "23:00",
-    "stop": "00:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786662000000,
-    "stopTs": 1786667400000,
-    "title": "Mudda Garam Hai",
-    "desc": "The host presents a detailed analysis of the latest and the most raging news updates, developments and happenings in the nation."
-  },
-  {
-    "start": "00:30",
-    "stop": "03:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786667400000,
-    "stopTs": 1786678200000,
-    "title": "Aaj Ka Mudda",
-    "desc": "A program that highlights the latest national news and key events, keeping viewers informed about important developments from across the country."
-  },
-  {
     "start": "01:00",
     "stop": "03:00",
     "channel": "News18India.in",
@@ -393,7 +8,7 @@
     "startTs": 1786669200000,
     "stopTs": 1786676400000,
     "title": "Sulagtey Sawaal",
-    "desc": "The host sheds light on brewing topics from both national and international front and invites experts who engage in a debate on them."
+    "desc": "The host sheds light on brewing topics and invites experts who engage in a debate on them."
   },
   {
     "start": "03:00",
@@ -404,18 +19,7 @@
     "startTs": 1786676400000,
     "stopTs": 1786680000000,
     "title": "Bhaiya Ji Kahin",
-    "desc": "The host interacts with the common people of India to learn about their views and opinions on various trending issues in the country."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786678200000,
-    "stopTs": 1786681800000,
-    "title": "Akhaada",
-    "desc": "The host reports important news stories and updates of the day and conducts debates between major political parties on important issues."
+    "desc": "The host talks to people and learns about their opinions on various trending issues."
   },
   {
     "start": "04:00",
@@ -426,18 +30,7 @@
     "startTs": 1786680000000,
     "stopTs": 1786683600000,
     "title": "Aar Paar",
-    "desc": "The host discusses the social and political issues of the day with a panel of experts and provides updates on current events."
-  },
-  {
-    "start": "04:30",
-    "stop": "06:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786681800000,
-    "stopTs": 1786687200000,
-    "title": "Mudda Garam Hai",
-    "desc": "The host analyses some of the hottest news updates regarding current social, economic and political developments."
+    "desc": "The host discusses the social and political issues of the day with a panel of experts."
   },
   {
     "start": "05:00",
@@ -448,29 +41,18 @@
     "startTs": 1786683600000,
     "stopTs": 1786687200000,
     "title": "Desh Nahi Jhukne Dengey",
-    "desc": "The host presents in-depth information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "06:00",
-    "stop": "06:30",
+    "stop": "07:00",
     "channel": "News18India.in",
     "channelId": "News18India.in",
     "channelName": "News18 India",
     "startTs": 1786687200000,
-    "stopTs": 1786689000000,
-    "title": "Speed 100",
-    "desc": "The presenter shares updates on communal, political, and economic issues. They discuss progress and effects of these issues across the nation in simple language."
-  },
-  {
-    "start": "06:30",
-    "stop": "08:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786689000000,
-    "stopTs": 1786696200000,
-    "title": "Sulagtey Sawaal",
-    "desc": "Dive into lively talks about today&apos;s top issues and heated debates, exploring different viewpoints, informing opinions, and sparking thoughtful conversations for curious minds."
+    "stopTs": 1786690800000,
+    "title": "Sau Baat Ki Ek Baat",
+    "desc": "The host shares an in-depth analysis on pressing topics and gives his insights."
   },
   {
     "start": "07:00",
@@ -481,7 +63,7 @@
     "startTs": 1786690800000,
     "stopTs": 1786694400000,
     "title": "Katcha Chittha",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "08:00",
@@ -492,18 +74,7 @@
     "startTs": 1786694400000,
     "stopTs": 1786698000000,
     "title": "Sau Baat Ki Ek Baat",
-    "desc": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786696200000,
-    "stopTs": 1786699800000,
-    "title": "Bhaiya Ji Kahin",
-    "desc": "The host interacts with common citizens to understand their views and concerns, offering insights into India&apos;s current political atmosphere."
+    "desc": "The host shares an in-depth analysis on pressing topics and gives his insights."
   },
   {
     "start": "09:00",
@@ -514,18 +85,18 @@
     "startTs": 1786698000000,
     "stopTs": 1786699800000,
     "title": "Sau Baat Ki Ek Baat",
-    "desc": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights."
+    "desc": "The host shares an in-depth analysis on pressing topics and gives his insights."
   },
   {
     "start": "09:30",
-    "stop": "10:30",
+    "stop": "10:00",
     "channel": "News18India.in",
     "channelId": "News18India.in",
     "channelName": "News18 India",
     "startTs": 1786699800000,
-    "stopTs": 1786703400000,
-    "title": "Aar Paar",
-    "desc": "Experts come together to discuss and analyze urgent political and social issues, offering insights and solutions on matters impacting the nation."
+    "stopTs": 1786701600000,
+    "title": "Katcha Chittha",
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "10:00",
@@ -536,18 +107,7 @@
     "startTs": 1786701600000,
     "stopTs": 1786705200000,
     "title": "Aar Paar",
-    "desc": "The host discusses the social and political issues of the day with a panel of experts and provides updates on current events."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786703400000,
-    "stopTs": 1786707000000,
-    "title": "Desh Nahi Jhukne Dengey",
-    "desc": "&apos;Desh Nahi Jhunjon Denge&apos; launches its first show from Srinagar&apos;s iconic Lal Chowk, bringing ground reports and public voices from the heart of Kashmir."
+    "desc": "The host discusses the social and political issues of the day with a panel of experts."
   },
   {
     "start": "11:00",
@@ -558,18 +118,7 @@
     "startTs": 1786705200000,
     "stopTs": 1786708800000,
     "title": "Desh Nahi Jhukne Dengey",
-    "desc": "The host presents in-depth information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786707000000,
-    "stopTs": 1786710600000,
-    "title": "Sau Baat Ki Ek Baat",
-    "desc": "Get an in-depth report on the day&apos;s top news stories, as the host offers valuable insights and analysis on the latest developments shaping the national and global landscape."
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "12:00",
@@ -580,18 +129,7 @@
     "startTs": 1786708800000,
     "stopTs": 1786712400000,
     "title": "Sau Baat Ki Ek Baat",
-    "desc": "The host presents a detailed analysis on various pressing topics and issues that concern the public and provides his valuable insights."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786710600000,
-    "stopTs": 1786714200000,
-    "title": "Katcha Chittha",
-    "desc": "Uncover hidden truths and shocking revelations with this gripping docu-drama. Stay tuned for eye-opening stories-watch now!"
+    "desc": "The host shares an in-depth analysis on pressing topics and gives his insights."
   },
   {
     "start": "13:00",
@@ -602,18 +140,7 @@
     "startTs": 1786712400000,
     "stopTs": 1786716000000,
     "title": "Katcha Chittha",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786714200000,
-    "stopTs": 1786717800000,
-    "title": "Sau Baat Ki Ek Baat",
-    "desc": "Get an in-depth report on the day&apos;s top news stories, as the host offers valuable insights and analysis on the latest developments shaping the national and global landscape."
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "14:00",
@@ -624,105 +151,248 @@
     "startTs": 1786716000000,
     "stopTs": 1786719600000,
     "title": "Sponsored Show",
-    "desc": "A moderator leads a panel of experts in a dynamic debate, exploring diverse perspectives on complex topics to inform and enlighten viewers."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786717800000,
-    "stopTs": 1786719600000,
-    "title": "Sau Baat Ki Ek Baat",
-    "desc": "Get an in-depth report on the day&apos;s top news stories, as the host offers valuable insights and analysis on the latest developments shaping the national and global landscape."
+    "desc": "Bringing the best in television."
   },
   {
     "start": "15:00",
-    "stop": "15:30",
+    "stop": "19:00",
     "channel": "News18India.in",
     "channelId": "News18India.in",
     "channelName": "News18 India",
     "startTs": 1786719600000,
-    "stopTs": 1786721400000,
-    "title": "Katcha Chittha",
-    "desc": "Uncover hidden truths and shocking revelations with this gripping docu-drama. Stay tuned for eye-opening stories-watch now!"
+    "stopTs": 1786734000000,
+    "title": "Aaj Ki Taza Khabar",
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
-    "start": "15:30",
-    "stop": "16:30",
+    "start": "19:00",
+    "stop": "23:00",
     "channel": "News18India.in",
     "channelId": "News18India.in",
     "channelName": "News18 India",
-    "startTs": 1786721400000,
-    "stopTs": 1786725000000,
-    "title": "Aar Paar",
-    "desc": "Experts come together to discuss and analyze urgent political and social issues, offering insights and solutions on matters impacting the nation."
+    "startTs": 1786734000000,
+    "stopTs": 1786748400000,
+    "title": "Aaj Ka Mudda",
+    "desc": "A program that highlights the latest national news and key events, keeping viewers informed about important developments from across the country."
   },
   {
-    "start": "16:30",
-    "stop": "17:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786725000000,
-    "stopTs": 1786728600000,
-    "title": "Desh Nahi Jhukne Dengey",
-    "desc": "&apos;Desh Nahi Jhunjon Denge&apos; launches its first show from Srinagar&apos;s iconic Lal Chowk, bringing ground reports and public voices from the heart of Kashmir."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786728600000,
-    "stopTs": 1786732200000,
-    "title": "Sau Baat Ki Ek Baat",
-    "desc": "Get an in-depth report on the day&apos;s top news stories, as the host offers valuable insights and analysis on the latest developments shaping the national and global landscape."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786732200000,
-    "stopTs": 1786735800000,
-    "title": "Katcha Chittha",
-    "desc": "Uncover hidden truths and shocking revelations with this gripping docu-drama. Stay tuned for eye-opening stories-watch now!"
-  },
-  {
-    "start": "19:30",
-    "stop": "20:30",
-    "channel": "News18India.in",
-    "channelId": "News18India.in",
-    "channelName": "News18 India",
-    "startTs": 1786735800000,
-    "stopTs": 1786739400000,
-    "title": "Sponsored Show",
-    "desc": "Tune in for exciting sponsored content featuring a variety of informative and entertaining segments. Don&apos;t miss out-watch now!"
-  },
-  {
-    "start": "20:30",
+    "start": "23:00",
     "stop": "00:30",
     "channel": "News18India.in",
     "channelId": "News18India.in",
     "channelName": "News18 India",
-    "startTs": 1786739400000,
+    "startTs": 1786748400000,
     "stopTs": 1786753800000,
-    "title": "Aaj Ki Taza Khabar",
-    "desc": "Stay updated with breaking headlines and current affairs. Get the latest news and stay informed-tune in now for timely updates and essential insights."
+    "title": "Mudda Garam Hai",
+    "desc": "The host analyses some of the hottest news updates regarding current social, economic and political developments."
   },
   {
     "start": "00:30",
-    "stop": "04:30",
+    "stop": "01:30",
     "channel": "News18India.in",
     "channelId": "News18India.in",
     "channelName": "News18 India",
     "startTs": 1786753800000,
-    "stopTs": 1786768200000,
+    "stopTs": 1786757400000,
+    "title": "Aadhi Haqeeqat Aadha Fasana",
+    "desc": "Get to know some of the most intriguing stories that have become the subject of deep interest and research due to their mysterious nature."
+  },
+  {
+    "start": "01:30",
+    "stop": "03:00",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1786757400000,
+    "stopTs": 1786762800000,
+    "title": "Sulagtey Sawaal",
+    "desc": "Dive into lively talks about today&apos;s top issues and heated debates, exploring different viewpoints, informing opinions, and sparking thoughtful conversations for curious minds."
+  },
+  {
+    "start": "03:00",
+    "stop": "04:00",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1786762800000,
+    "stopTs": 1786766400000,
+    "title": "Desh Ko Jawab Do",
+    "desc": "Host Sumit Awasthi hosts a debate between prominent politicians as they present their respective ideologies regarding the top issues of the week."
+  },
+  {
+    "start": "04:00",
+    "stop": "05:00",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1786766400000,
+    "stopTs": 1786770000000,
+    "title": "News18 India",
+    "desc": "Stay updated with all the major news, top headlines, and key developments of the day from across the nation and around the world, delivered in a concise format."
+  },
+  {
+    "start": "05:00",
+    "stop": "06:00",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1786770000000,
+    "stopTs": 1786773600000,
+    "title": "Lapete Mei Netaji",
+    "desc": "The host and invited experts participate in conversations and debates regarding politics, the government and state of current affairs."
+  },
+  {
+    "start": "06:00",
+    "stop": "07:00",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1786773600000,
+    "stopTs": 1786777200000,
+    "title": "Aadhi Haqeeqat Aadha Fasana",
+    "desc": "Get to know some of the most intriguing stories that have become the subject of deep interest and research due to their mysterious nature."
+  },
+  {
+    "start": "07:00",
+    "stop": "08:00",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1786777200000,
+    "stopTs": 1786780800000,
+    "title": "Sazish",
+    "desc": "Stay informed with the latest reports and updates on criminal activities from across the country, featuring detailed insights and developments."
+  },
+  {
+    "start": "08:00",
+    "stop": "09:00",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1786780800000,
+    "stopTs": 1786784400000,
+    "title": "Aadhi Haqeeqat Aadha Fasana",
+    "desc": "Get to know some of the most intriguing stories that have become the subject of deep interest and research due to their mysterious nature."
+  },
+  {
+    "start": "09:00",
+    "stop": "10:00",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1786784400000,
+    "stopTs": 1786788000000,
+    "title": "Lapete Mei Netaji",
+    "desc": "The host and invited experts participate in conversations and debates regarding politics, the government and state of current affairs."
+  },
+  {
+    "start": "10:00",
+    "stop": "11:00",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1786788000000,
+    "stopTs": 1786791600000,
+    "title": "News18 India",
+    "desc": "Stay updated with all the major news, top headlines, and key developments of the day from across the nation and around the world, delivered in a concise format."
+  },
+  {
+    "start": "11:00",
+    "stop": "12:00",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1786791600000,
+    "stopTs": 1786795200000,
+    "title": "Aadhi Haqeeqat Aadha Fasana",
+    "desc": "Get to know some of the most intriguing stories that have become the subject of deep interest and research due to their mysterious nature."
+  },
+  {
+    "start": "12:00",
+    "stop": "13:00",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1786795200000,
+    "stopTs": 1786798800000,
+    "title": "Sazish",
+    "desc": "Stay informed with the latest reports and updates on criminal activities from across the country, featuring detailed insights and developments."
+  },
+  {
+    "start": "13:00",
+    "stop": "14:00",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1786798800000,
+    "stopTs": 1786802400000,
+    "title": "Desh Ko Jawab Do",
+    "desc": "Host Sumit Awasthi hosts a debate between prominent politicians as they present their respective ideologies regarding the top issues of the week."
+  },
+  {
+    "start": "14:00",
+    "stop": "15:00",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1786802400000,
+    "stopTs": 1786806000000,
+    "title": "Sponsored Show",
+    "desc": "Tune in for exciting sponsored content featuring a variety of informative and entertaining segments. Don&apos;t miss out-watch now!"
+  },
+  {
+    "start": "15:00",
+    "stop": "19:00",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1786806000000,
+    "stopTs": 1786820400000,
+    "title": "Aaj Ki Taza Khabar",
+    "desc": "Stay updated with breaking headlines and current affairs. Get the latest news and stay informed-tune in now for timely updates and essential insights."
+  },
+  {
+    "start": "19:00",
+    "stop": "23:00",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1786820400000,
+    "stopTs": 1786834800000,
     "title": "Aaj Ka Mudda",
     "desc": "A program that highlights the latest national news and key events, keeping viewers informed about important developments from across the country."
+  },
+  {
+    "start": "23:00",
+    "stop": "00:30",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1786834800000,
+    "stopTs": 1786840200000,
+    "title": "Mudda Garam Hai",
+    "desc": "The host analyses some of the hottest news updates regarding current social, economic and political developments."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:30",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1786840200000,
+    "stopTs": 1786843800000,
+    "title": "Aadhi Haqeeqat Aadha Fasana",
+    "desc": "Get to know some of the most intriguing stories that have become the subject of deep interest and research due to their mysterious nature."
+  },
+  {
+    "start": "01:30",
+    "stop": "03:00",
+    "channel": "News18India.in",
+    "channelId": "News18India.in",
+    "channelName": "News18 India",
+    "startTs": 1786843800000,
+    "stopTs": 1786849200000,
+    "title": "Sulagtey Sawaal",
+    "desc": "Dive into lively talks about today&apos;s top issues and heated debates, exploring different viewpoints, informing opinions, and sparking thoughtful conversations for curious minds."
   }
 ]
