@@ -1,36 +1,47 @@
 [
   {
+    "start": "01:15",
+    "stop": "01:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1786842900000,
+    "stopTs": 1786843800000,
+    "title": "Showtime with Rohit Sharma",
+    "desc": "The host has a conversation with professional cricketer Rohit Sharma regarding his history and fondest memories with the franchise of Mumbai Indians."
+  },
+  {
     "start": "01:30",
     "stop": "02:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1786757400000,
-    "stopTs": 1786761000000,
-    "title": "Steel Asylum; IMPACT in 60",
+    "startTs": 1786843800000,
+    "stopTs": 1786847400000,
+    "title": "Scott Hall; IMPACT in 60",
     "desc": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling."
   },
   {
     "start": "02:30",
-    "stop": "04:30",
+    "stop": "03:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1786761000000,
-    "stopTs": 1786768200000,
-    "title": "TNA Impact",
-    "desc": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win."
+    "startTs": 1786847400000,
+    "stopTs": 1786851000000,
+    "title": "Best of Knockouts; TNA Epics",
+    "desc": "The host presents an exciting compilation of classic professional wrestling matches, highlighting legendary athletes and unforgettable moments from the history of the sport."
   },
   {
-    "start": "04:30",
+    "start": "03:30",
     "stop": "05:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1786768200000,
-    "stopTs": 1786771800000,
-    "title": "King Of The Mountain Part 1; TNA Epics",
-    "desc": "The host presents an exciting compilation of classic professional wrestling matches, highlighting legendary athletes and unforgettable moments from the history of the sport."
+    "startTs": 1786851000000,
+    "stopTs": 1786858200000,
+    "title": "AEW Dynamite",
+    "desc": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title."
   },
   {
     "start": "05:30",
@@ -38,41 +49,52 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1786771800000,
-    "stopTs": 1786773600000,
-    "title": "Golden Trail World Series",
-    "desc": "This is TV Show - Adventure Category."
+    "startTs": 1786858200000,
+    "stopTs": 1786860000000,
+    "title": "Bhaichung Bhutia; Playing With Purpose",
+    "desc": "This is Sport - Talk Show Category."
   },
   {
     "start": "06:00",
-    "stop": "07:00",
+    "stop": "08:00",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1786773600000,
-    "stopTs": 1786777200000,
-    "title": "Rolex 6 Hours of São Paulo; FIA World Endurance Championship Highlights",
-    "desc": "Highlights of professional drivers competing in the FIA World Endurance Championship to emerge victorious and win the title."
+    "startTs": 1786860000000,
+    "stopTs": 1786867200000,
+    "title": "Portland Timbers vs. Inter Miami CF; Major League Soccer",
+    "desc": "Professional football players compete against each other in the MLS Soccer."
   },
   {
-    "start": "07:00",
-    "stop": "10:30",
+    "start": "08:00",
+    "stop": "09:00",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1786777200000,
-    "stopTs": 1786789800000,
-    "title": "PFL Africa: Nigeria",
-    "desc": "This is Sport - Martial Arts Category."
+    "startTs": 1786867200000,
+    "stopTs": 1786870800000,
+    "title": "Liqui Moly Grand Prix of Germany; MotoGP Highlights",
+    "desc": "This is Sport - Racing Category."
   },
   {
-    "start": "10:30",
+    "start": "09:00",
+    "stop": "10:00",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1786870800000,
+    "stopTs": 1786874400000,
+    "title": "TNA Xplosion",
+    "desc": "Professional wrestlers from all around the world compete against each other in the TNA Xplosion in order to win the coveted title."
+  },
+  {
+    "start": "10:00",
     "stop": "12:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1786789800000,
-    "stopTs": 1786797000000,
+    "startTs": 1786874400000,
+    "stopTs": 1786883400000,
     "title": "Europe Smash - Sweden; WTT Grand Smash",
     "desc": "This is Sport - Table Tennis Category."
   },
@@ -82,31 +104,20 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1786797000000,
-    "stopTs": 1786804200000,
-    "title": "Round 7 Thruxton - Day 1; British Superbike Championship Series",
-    "desc": "This is Sport - Racing Category."
+    "startTs": 1786883400000,
+    "stopTs": 1786890600000,
+    "title": "AEW Collision",
+    "desc": "Popular pro-wrestlers from the AEW Roster compete against each other in fights every Saturday to win the championship title."
   },
   {
     "start": "14:30",
-    "stop": "15:00",
+    "stop": "16:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1786804200000,
-    "stopTs": 1786806000000,
-    "title": "Bhaichung Bhutia; Playing With Purpose",
-    "desc": "This is Sport - Talk Show Category."
-  },
-  {
-    "start": "15:00",
-    "stop": "16:00",
-    "channel": "EUROSPORTSHD.in",
-    "channelId": "EUROSPORTSHD.in",
-    "channelName": "EUROSPORTS HD",
-    "startTs": 1786806000000,
-    "stopTs": 1786809600000,
-    "title": "WWE LFG",
-    "desc": "An inside look at what it truly takes to become a part of the WWE."
+    "startTs": 1786890600000,
+    "stopTs": 1786897800000,
+    "title": "Ajax vs. sc Heerenveen; Eredivisie Soccer",
+    "desc": "Professional football teams compete against each other in order to emerge victorious in the Eredivisie, a premier football tournament in the Netherlands."
   }
 ]
