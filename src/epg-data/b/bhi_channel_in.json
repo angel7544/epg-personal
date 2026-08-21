@@ -1,14 +1,80 @@
 [
   {
+    "start": "18:30",
+    "stop": "19:30",
+    "channel": "BHIChannel.in",
+    "channelId": "BHIChannel.in",
+    "channelName": "BHI Channel",
+    "startTs": 1787337000000,
+    "stopTs": 1787340600000,
+    "title": "News Update",
+    "desc": "The presenter shares the most recent news updates from the region."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:30",
+    "channel": "BHIChannel.in",
+    "channelId": "BHIChannel.in",
+    "channelName": "BHI Channel",
+    "startTs": 1787340600000,
+    "stopTs": 1787344200000,
+    "title": "Khabar Din Bhar",
+    "desc": "The host presents information on various social, economic and political issues."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:30",
+    "channel": "BHIChannel.in",
+    "channelId": "BHIChannel.in",
+    "channelName": "BHI Channel",
+    "startTs": 1787344200000,
+    "stopTs": 1787347800000,
+    "title": "Ground Report",
+    "desc": "A journalist provides on-the-ground coverage of newsworthy events in India."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:30",
+    "channel": "BHIChannel.in",
+    "channelId": "BHIChannel.in",
+    "channelName": "BHI Channel",
+    "startTs": 1787347800000,
+    "stopTs": 1787351400000,
+    "title": "Special Report",
+    "desc": "The host offers in-depth coverage and analysis of major news stories."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:30",
+    "channel": "BHIChannel.in",
+    "channelId": "BHIChannel.in",
+    "channelName": "BHI Channel",
+    "startTs": 1787351400000,
+    "stopTs": 1787355000000,
+    "title": "Khas Mulakat",
+    "desc": "The host conducts an insightful interaction with prominent personalities."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:30",
+    "channel": "BHIChannel.in",
+    "channelId": "BHIChannel.in",
+    "channelName": "BHI Channel",
+    "startTs": 1787355000000,
+    "stopTs": 1787358600000,
+    "title": "Filmi Galiyara",
+    "desc": "The host explores the latest updates about the film industry and its personalities."
+  },
+  {
     "start": "00:30",
     "stop": "01:30",
     "channel": "BHIChannel.in",
     "channelId": "BHIChannel.in",
     "channelName": "BHI Channel",
-    "startTs": 1787013000000,
-    "stopTs": 1787016600000,
-    "title": "Devotional",
-    "desc": "A comprehensive compilation of popular devotional songs is played in quick succession."
+    "startTs": 1787358600000,
+    "stopTs": 1787362200000,
+    "title": "Divya Darshan",
+    "desc": "The host provides insights into the latest news updates concerning faith and religion."
   },
   {
     "start": "01:30",
@@ -16,10 +82,10 @@
     "channel": "BHIChannel.in",
     "channelId": "BHIChannel.in",
     "channelName": "BHI Channel",
-    "startTs": 1787016600000,
-    "stopTs": 1787020200000,
-    "title": "News",
-    "desc": "The hosts cover the latest news stories and events from different parts of the world."
+    "startTs": 1787362200000,
+    "stopTs": 1787365800000,
+    "title": "Mudde Ki Baat",
+    "desc": "The host conducts discussions with experts on matters of national importance."
   },
   {
     "start": "02:30",
@@ -27,10 +93,10 @@
     "channel": "BHIChannel.in",
     "channelId": "BHIChannel.in",
     "channelName": "BHI Channel",
-    "startTs": 1787020200000,
-    "stopTs": 1787023800000,
-    "title": "News",
-    "desc": "The hosts cover the latest news stories and events from different parts of the world."
+    "startTs": 1787365800000,
+    "stopTs": 1787369400000,
+    "title": "News Express",
+    "desc": "The host presents a detailed report on the latest news and developments."
   },
   {
     "start": "03:30",
@@ -38,10 +104,10 @@
     "channel": "BHIChannel.in",
     "channelId": "BHIChannel.in",
     "channelName": "BHI Channel",
-    "startTs": 1787023800000,
-    "stopTs": 1787027400000,
-    "title": "News",
-    "desc": "The hosts cover the latest news stories and events from different parts of the world."
+    "startTs": 1787369400000,
+    "stopTs": 1787373000000,
+    "title": "Hello Doctor",
+    "desc": "Experts attend to the call-in viewers and demystify the recipe for a hale and hearty life."
   },
   {
     "start": "04:30",
@@ -49,10 +115,10 @@
     "channel": "BHIChannel.in",
     "channelId": "BHIChannel.in",
     "channelName": "BHI Channel",
-    "startTs": 1787027400000,
-    "stopTs": 1787031000000,
-    "title": "Chakraviyush",
-    "desc": "The host invites an expert to discuss current political updates in the country."
+    "startTs": 1787373000000,
+    "stopTs": 1787376600000,
+    "title": "UP News",
+    "desc": "The host presents some of the latest news stories and developments from Uttar Pradesh."
   },
   {
     "start": "05:30",
@@ -60,10 +126,10 @@
     "channel": "BHIChannel.in",
     "channelId": "BHIChannel.in",
     "channelName": "BHI Channel",
-    "startTs": 1787031000000,
-    "stopTs": 1787034600000,
-    "title": "News",
-    "desc": "The hosts cover the latest news stories and events from different parts of the world."
+    "startTs": 1787376600000,
+    "stopTs": 1787380200000,
+    "title": "MP News",
+    "desc": "The host presents information and updates on current affairs from Madhya Pradesh."
   },
   {
     "start": "06:30",
@@ -71,10 +137,10 @@
     "channel": "BHIChannel.in",
     "channelId": "BHIChannel.in",
     "channelName": "BHI Channel",
-    "startTs": 1787034600000,
-    "stopTs": 1787038200000,
-    "title": "News @12",
-    "desc": "The host presents the latest updates on various social, political and economic issues."
+    "startTs": 1787380200000,
+    "stopTs": 1787383800000,
+    "title": "News Update",
+    "desc": "The presenter shares the most recent news updates from the region."
   },
   {
     "start": "07:30",
@@ -82,10 +148,10 @@
     "channel": "BHIChannel.in",
     "channelId": "BHIChannel.in",
     "channelName": "BHI Channel",
-    "startTs": 1787038200000,
-    "stopTs": 1787041800000,
-    "title": "News",
-    "desc": "The hosts cover the latest news stories and events from different parts of the world."
+    "startTs": 1787383800000,
+    "stopTs": 1787387400000,
+    "title": "Khabar Din Bhar",
+    "desc": "The host presents information on various social, economic and political issues."
   },
   {
     "start": "08:30",
@@ -93,10 +159,10 @@
     "channel": "BHIChannel.in",
     "channelId": "BHIChannel.in",
     "channelName": "BHI Channel",
-    "startTs": 1787041800000,
-    "stopTs": 1787045400000,
-    "title": "News",
-    "desc": "The hosts cover the latest news stories and events from different parts of the world."
+    "startTs": 1787387400000,
+    "stopTs": 1787391000000,
+    "title": "Ground Report",
+    "desc": "A journalist provides on-the-ground coverage of newsworthy events in India."
   },
   {
     "start": "09:30",
@@ -104,10 +170,10 @@
     "channel": "BHIChannel.in",
     "channelId": "BHIChannel.in",
     "channelName": "BHI Channel",
-    "startTs": 1787045400000,
-    "stopTs": 1787049000000,
-    "title": "News In Lunch Time",
-    "desc": "The host presents the latest updates on various pressing issues across the nation."
+    "startTs": 1787391000000,
+    "stopTs": 1787394600000,
+    "title": "Special Report",
+    "desc": "The host offers in-depth coverage and analysis of major news stories."
   },
   {
     "start": "10:30",
@@ -115,10 +181,10 @@
     "channel": "BHIChannel.in",
     "channelId": "BHIChannel.in",
     "channelName": "BHI Channel",
-    "startTs": 1787049000000,
-    "stopTs": 1787052600000,
-    "title": "News",
-    "desc": "The hosts cover the latest news stories and events from different parts of the world."
+    "startTs": 1787394600000,
+    "stopTs": 1787398200000,
+    "title": "Khas Mulakat",
+    "desc": "The host conducts an insightful interaction with prominent personalities."
   },
   {
     "start": "11:30",
@@ -126,10 +192,10 @@
     "channel": "BHIChannel.in",
     "channelId": "BHIChannel.in",
     "channelName": "BHI Channel",
-    "startTs": 1787052600000,
-    "stopTs": 1787056200000,
-    "title": "Chunavi Charcha",
-    "desc": "The host invites a panel of guests to discuss matters surrounding elections."
+    "startTs": 1787398200000,
+    "stopTs": 1787401800000,
+    "title": "Filmi Galiyara",
+    "desc": "The host explores the latest updates about the film industry and its personalities."
   },
   {
     "start": "12:30",
@@ -137,10 +203,10 @@
     "channel": "BHIChannel.in",
     "channelId": "BHIChannel.in",
     "channelName": "BHI Channel",
-    "startTs": 1787056200000,
-    "stopTs": 1787059800000,
-    "title": "Mahabahas",
-    "desc": "The host holds debates about the social and political issues of the day."
+    "startTs": 1787401800000,
+    "stopTs": 1787405400000,
+    "title": "Divya Darshan",
+    "desc": "The host provides insights into the latest news updates concerning faith and religion."
   },
   {
     "start": "13:30",
@@ -148,10 +214,10 @@
     "channel": "BHIChannel.in",
     "channelId": "BHIChannel.in",
     "channelName": "BHI Channel",
-    "startTs": 1787059800000,
-    "stopTs": 1787063400000,
-    "title": "News",
-    "desc": "The hosts cover the latest news stories and events from different parts of the world."
+    "startTs": 1787405400000,
+    "stopTs": 1787409000000,
+    "title": "Mudde Ki Baat",
+    "desc": "The host conducts discussions with experts on matters of national importance."
   },
   {
     "start": "14:30",
@@ -159,10 +225,10 @@
     "channel": "BHIChannel.in",
     "channelId": "BHIChannel.in",
     "channelName": "BHI Channel",
-    "startTs": 1787063400000,
-    "stopTs": 1787067000000,
-    "title": "News 8 PM",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world."
+    "startTs": 1787409000000,
+    "stopTs": 1787412600000,
+    "title": "News Express",
+    "desc": "The host presents a detailed report on the latest news and developments."
   },
   {
     "start": "15:30",
@@ -170,8 +236,8 @@
     "channel": "BHIChannel.in",
     "channelId": "BHIChannel.in",
     "channelName": "BHI Channel",
-    "startTs": 1787067000000,
-    "stopTs": 1787070600000,
+    "startTs": 1787412600000,
+    "stopTs": 1787416200000,
     "title": "Prime Debets",
     "desc": "Bringing the best in television."
   },
@@ -181,10 +247,10 @@
     "channel": "BHIChannel.in",
     "channelId": "BHIChannel.in",
     "channelName": "BHI Channel",
-    "startTs": 1787070600000,
-    "stopTs": 1787074200000,
-    "title": "News",
-    "desc": "The hosts cover the latest news stories and events from different parts of the world."
+    "startTs": 1787416200000,
+    "stopTs": 1787419800000,
+    "title": "Hello Doctor",
+    "desc": "Experts attend to the call-in viewers and demystify the recipe for a hale and hearty life."
   },
   {
     "start": "17:30",
@@ -192,9 +258,9 @@
     "channel": "BHIChannel.in",
     "channelId": "BHIChannel.in",
     "channelName": "BHI Channel",
-    "startTs": 1787074200000,
-    "stopTs": 1787077800000,
-    "title": "Chakraviyush",
-    "desc": "The host invites an expert to discuss current political updates in the country."
+    "startTs": 1787419800000,
+    "stopTs": 1787423400000,
+    "title": "Bengali News",
+    "desc": "The host delivers the latest news headlines on various issues across the country."
   }
 ]
