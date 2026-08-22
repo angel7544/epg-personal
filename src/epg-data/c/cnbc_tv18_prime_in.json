@@ -1,311 +1,14 @@
 [
   {
-    "start": "23:00",
-    "stop": "02:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787266800000,
-    "stopTs": 1787277600000,
-    "title": "Squawk Box Asia",
-    "desc": "Asia&apos;s essential business program providing real-time market updates, global economic analysis, and expert perspectives shaping decisions for investors, leaders, and businesses."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787277600000,
-    "stopTs": 1787279400000,
-    "title": "Global Lens",
-    "desc": "The presenter provides information on the top news headlines from across the globe."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787279400000,
-    "stopTs": 1787283000000,
-    "title": "Bazaar Morning Call",
-    "desc": "Catch Bazaar, India&apos;s award-winning market show, setting the tone for millions of investors daily."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787283000000,
-    "stopTs": 1787286600000,
-    "title": "Bazaar Open Exchange",
-    "desc": "Top market experts and CEOs analyse the market scenario and discuss the stocks of the companies."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787286600000,
-    "stopTs": 1787288400000,
-    "title": "Bazaar Corporate Radar",
-    "desc": "Tune in to Mitali Mukherjee&apos;s show for insights from top CEOs, economists, and analysts."
-  },
-  {
-    "start": "05:00",
-    "stop": "06:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787288400000,
-    "stopTs": 1787292000000,
-    "title": "Europe Early Edition",
-    "desc": "Covers early financial news and European market activity. The show sets the tone for investors by reporting morning updates from across the Eurozone."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787292000000,
-    "stopTs": 1787293800000,
-    "title": "Squawk Box Europe",
-    "desc": "CNBC&apos;s show provides three hours of lively, unscripted market debate. It prepares viewers for the start of the European trading day with dynamic financial insights."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787293800000,
-    "stopTs": 1787295600000,
-    "title": "The Global Reset",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787295600000,
-    "stopTs": 1787297400000,
-    "title": "Squawk Box Europe",
-    "desc": "CNBC&apos;s show provides three hours of lively, unscripted market debate. It prepares viewers for the start of the European trading day with dynamic financial insights."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787297400000,
-    "stopTs": 1787299200000,
-    "title": "The Big C",
-    "desc": "A bold series that tackles cancer with humor and heart, portraying a woman&apos;s journey through illness, resilience, and redefining life in unexpected, inspiring ways."
-  },
-  {
-    "start": "08:00",
-    "stop": "09:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787299200000,
-    "stopTs": 1787302800000,
-    "title": "Squawk Box Europe",
-    "desc": "CNBC&apos;s show provides three hours of lively, unscripted market debate. It prepares viewers for the start of the European trading day with dynamic financial insights."
-  },
-  {
-    "start": "09:00",
-    "stop": "10:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787302800000,
-    "stopTs": 1787306400000,
-    "title": "NSE Closing Bell",
-    "desc": "The show that kicks off when markets shut shop - discover the real reasons for the day&apos;s developments."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787306400000,
-    "stopTs": 1787308200000,
-    "title": "Markets Forward",
-    "desc": "Looks ahead to market strategies, forecasts, and sector-specific updates. Offers insights on how the day may end and what could shape tomorrow&apos;s trading."
-  },
-  {
-    "start": "10:30",
-    "stop": "13:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787308200000,
-    "stopTs": 1787317200000,
-    "title": "US Squawk Box",
-    "desc": "Start your day with &apos;Squawk Box,&apos; where big names share their top business and political stories."
-  },
-  {
-    "start": "13:00",
-    "stop": "15:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787317200000,
-    "stopTs": 1787324400000,
-    "title": "Squawk On The Street",
-    "desc": "Get real-time updates from major markets worldwide, live from the New York Stock Exchange."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787324400000,
-    "stopTs": 1787326200000,
-    "title": "Global Lens",
-    "desc": "The presenter provides information on the top news headlines from across the globe."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787326200000,
-    "stopTs": 1787328000000,
-    "title": "Money Movers",
-    "desc": "It offers real-time analysis of market movers and features interviews with key figures driving financial movements."
-  },
-  {
-    "start": "16:00",
-    "stop": "17:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787328000000,
-    "stopTs": 1787331600000,
-    "title": "Half Time Report",
-    "desc": "Midday recap of market movements, trading actions, and investor trends. The program helps viewers reassess their positions and plan for the second half of the day."
-  },
-  {
-    "start": "17:00",
-    "stop": "18:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787331600000,
-    "stopTs": 1787335200000,
-    "title": "The Exchange",
-    "desc": "In the 1980s, in Kuwait, two women aimed to disrupt the corrupt boys club in the stock market."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787335200000,
-    "stopTs": 1787337000000,
-    "title": "Power Lunch",
-    "desc": "Brings the viewer corporate updates and minute by minute market moves, all rolled into 90 minutes of prime time show."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787337000000,
-    "stopTs": 1787338800000,
-    "title": "The Exchange",
-    "desc": "In the 1980s, in Kuwait, two women aimed to disrupt the corrupt boys club in the stock market."
-  },
-  {
-    "start": "19:00",
-    "stop": "20:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787338800000,
-    "stopTs": 1787342400000,
-    "title": "Power Lunch",
-    "desc": "Brings the viewer corporate updates and minute by minute market moves, all rolled into 90 minutes of prime time show."
-  },
-  {
-    "start": "20:00",
-    "stop": "21:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787342400000,
-    "stopTs": 1787346000000,
-    "title": "Closing Bell",
-    "desc": "Join us after market close for a look at today&apos;s moves and tomorrow&apos;s prospects."
-  },
-  {
-    "start": "21:00",
-    "stop": "22:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787346000000,
-    "stopTs": 1787349600000,
-    "title": "Closing Bell: Overtime",
-    "desc": "Stay tuned for &apos;Closing Bell: Overtime,&apos; covering after-hours trading, news, and corporate earnings."
-  },
-  {
-    "start": "22:00",
-    "stop": "23:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787349600000,
-    "stopTs": 1787353200000,
-    "title": "Fast Money",
-    "desc": "&apos;Fast Money&apos; traders share insider knowledge to help you make profitable decisions."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787353200000,
-    "stopTs": 1787355000000,
-    "title": "Sustain. Future",
-    "desc": "The host invites guests to engage in a discussion about the sustainability of the future."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1787355000000,
-    "stopTs": 1787356800000,
-    "title": "Managing Asia",
-    "desc": "Managing Asia is a highly distinguished business program that features views of top business leaders."
-  },
-  {
     "start": "00:00",
     "stop": "01:00",
     "channel": "CNBCTV18PrimeHD.in",
     "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
+    "channelName": "CNBC TV18 Prime",
     "startTs": 1787356800000,
     "stopTs": 1787360400000,
-    "title": "Millennial Money",
-    "desc": "Engage with millennials&apos; influence on marketing; understand their unique perspectives now!"
+    "title": "Closing Bell: Overtime",
+    "desc": "The host invites a renowned industry expert to discuss the trending and most talked-about market developments and investors&apos; reactions to them."
   },
   {
     "start": "01:00",
@@ -405,6 +108,17 @@
     "stopTs": 1787380200000,
     "title": "CNBC-TV18 FFF",
     "desc": "A focused program on finance, fundamentals, and future trends, offering insights into markets, investments, economic shifts, and strategies to help viewers make informed decisions."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 Prime",
+    "startTs": 1787378400000,
+    "stopTs": 1787380200000,
+    "title": "Market Forum",
+    "desc": "This is News - News Bulletin Category"
   },
   {
     "start": "06:30",
@@ -528,6 +242,17 @@
     "desc": "The host talks to entrepreneurs and startup founders about their professional journeys."
   },
   {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 Prime",
+    "startTs": 1787401800000,
+    "stopTs": 1787403600000,
+    "title": "The Global Reset",
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
     "start": "13:00",
     "stop": "13:30",
     "channel": "CNBCTV18PrimeHD.in",
@@ -616,6 +341,17 @@
     "desc": "A focused program on finance, fundamentals, and future trends, offering insights into markets, investments, economic shifts, and strategies to help viewers make informed decisions."
   },
   {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 Prime",
+    "startTs": 1787418000000,
+    "stopTs": 1787419800000,
+    "title": "Banking Transformation Summit",
+    "desc": "Industry experts illuminate innovative strategies, enhancing their collective knowledge and appreciating the essence of tech camaraderie."
+  },
+  {
     "start": "17:30",
     "stop": "18:00",
     "channel": "CNBCTV18PrimeHD.in",
@@ -638,6 +374,17 @@
     "desc": "Experience the action, luxury and excitement with the Overdrive team as we comb the halls of Pragati Maidan."
   },
   {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 Prime",
+    "startTs": 1787423400000,
+    "stopTs": 1787425200000,
+    "title": "On The Record",
+    "desc": "The host discusses the latest updates and developments in their organisation and the economy with experts from the business field."
+  },
+  {
     "start": "19:00",
     "stop": "20:00",
     "channel": "CNBCTV18PrimeHD.in",
@@ -647,6 +394,17 @@
     "stopTs": 1787428800000,
     "title": "Unlocked",
     "desc": "CIA interrogator Alice Racine is tricked into helping terrorists plan a devastating biological attack on London, forcing her to race against time to stop the deadly impending plot."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 Prime",
+    "startTs": 1787427000000,
+    "stopTs": 1787428800000,
+    "title": "On The Record",
+    "desc": "The host discusses the latest updates and developments in their organisation and the economy with experts from the business field."
   },
   {
     "start": "20:00",
@@ -693,6 +451,17 @@
     "desc": "When unemployment strikes, Stephen Trantel shifts from broker to bank robber to support his family."
   },
   {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 Prime",
+    "startTs": 1787437800000,
+    "stopTs": 1787439600000,
+    "title": "CNBC Explains",
+    "desc": "The narrator explains complicated economics of the world, ranging from stocks and corporate balance sheets to government policies, in a simple manner."
+  },
+  {
     "start": "23:00",
     "stop": "00:00",
     "channel": "CNBCTV18PrimeHD.in",
@@ -702,6 +471,17 @@
     "stopTs": 1787443200000,
     "title": "American Greed",
     "desc": "When unemployment strikes, Stephen Trantel shifts from broker to bank robber to support his family."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 Prime",
+    "startTs": 1787441400000,
+    "stopTs": 1787443200000,
+    "title": "On The Record",
+    "desc": "The host discusses the latest updates and developments in their organisation and the economy with experts from the business field."
   },
   {
     "start": "00:00",
@@ -724,5 +504,456 @@
     "stopTs": 1787450400000,
     "title": "American Greed",
     "desc": "When unemployment strikes, Stephen Trantel shifts from broker to bank robber to support his family."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 Prime",
+    "startTs": 1787448600000,
+    "stopTs": 1787450400000,
+    "title": "CNBC Explains",
+    "desc": "The narrator explains complicated economics of the world, ranging from stocks and corporate balance sheets to government policies, in a simple manner."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787450400000,
+    "stopTs": 1787452200000,
+    "title": "On Assignment",
+    "desc": "Reports from the field, offering detailed coverage and insights into important events, issues and developments through on-location reporting, interviews and expert perspectives."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787452200000,
+    "stopTs": 1787455800000,
+    "title": "CNBC-TV18 FFF",
+    "desc": "A focused program on finance, fundamentals, and future trends, offering insights into markets, investments, economic shifts, and strategies to help viewers make informed decisions."
+  },
+  {
+    "start": "03:00",
+    "stop": "04:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 Prime",
+    "startTs": 1787454000000,
+    "stopTs": 1787457600000,
+    "title": "American Greed",
+    "desc": "The host sheds light on some of the biggest white collar crimes committed in the USA and also takes a look at the menace of common financial crimes affecting the average American citizen."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787455800000,
+    "stopTs": 1787457600000,
+    "title": "CNBC-TV18 Market Editor",
+    "desc": "The host invites experts to discuss the performance of financial instruments."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787457600000,
+    "stopTs": 1787459400000,
+    "title": "Editors&apos; Roundtable",
+    "desc": "Experts share investment tips and recommend popular stocks for buying and selling."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787459400000,
+    "stopTs": 1787461200000,
+    "title": "Let&apos;s Talk Money",
+    "desc": "Leading financial experts join the host to share actionable insights, breakdown smart money management strategies, and navigate lucrative investment and real estate opportunities."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787461200000,
+    "stopTs": 1787463000000,
+    "title": "CNBC-TV18 Market Masters",
+    "desc": "The host moderates a panel wherein experts from the field of finance discuss and analyse the frequent market fluctuations."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787463000000,
+    "stopTs": 1787464800000,
+    "title": "Indianomics",
+    "desc": "Hosted by Latha Venkatesh, Indianomics gives viewers an insight into the latest in the Indian economy."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787464800000,
+    "stopTs": 1787466600000,
+    "title": "Storyboard18",
+    "desc": "Significant brand makeovers, media shifts, and key events in advertising and marketing sector."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787466600000,
+    "stopTs": 1787468400000,
+    "title": "CNBC-TV18 FFF",
+    "desc": "A focused program on finance, fundamentals, and future trends, offering insights into markets, investments, economic shifts, and strategies to help viewers make informed decisions."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787468400000,
+    "stopTs": 1787470200000,
+    "title": "Overdrive",
+    "desc": "Experience the action, luxury and excitement with the Overdrive team as we comb the halls of Pragati Maidan."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787470200000,
+    "stopTs": 1787473800000,
+    "title": "Young Turks Reloaded",
+    "desc": "The host talks to entrepreneurs and startup founders about their professional journeys."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 Prime",
+    "startTs": 1787472000000,
+    "stopTs": 1787473800000,
+    "title": "Banking Transformation Summit",
+    "desc": "Industry experts illuminate innovative strategies, enhancing their collective knowledge and appreciating the essence of tech camaraderie."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787473800000,
+    "stopTs": 1787475600000,
+    "title": "Storyboard18",
+    "desc": "Significant brand makeovers, media shifts, and key events in advertising and marketing sector."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787475600000,
+    "stopTs": 1787477400000,
+    "title": "Indianomics",
+    "desc": "Hosted by Latha Venkatesh, Indianomics gives viewers an insight into the latest in the Indian economy."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787477400000,
+    "stopTs": 1787479200000,
+    "title": "On Assignment",
+    "desc": "Reports from the field, offering detailed coverage and insights into important events, issues and developments through on-location reporting, interviews and expert perspectives."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787479200000,
+    "stopTs": 1787481000000,
+    "title": "Editors&apos; Roundtable",
+    "desc": "Experts share investment tips and recommend popular stocks for buying and selling."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787481000000,
+    "stopTs": 1787484600000,
+    "title": "American Greed",
+    "desc": "When unemployment strikes, Stephen Trantel shifts from broker to bank robber to support his family."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 Prime",
+    "startTs": 1787482800000,
+    "stopTs": 1787484600000,
+    "title": "Managing Middle East",
+    "desc": "This is News - News Bulletin Category"
+  },
+  {
+    "start": "11:30",
+    "stop": "12:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787484600000,
+    "stopTs": 1787488200000,
+    "title": "Unlocked",
+    "desc": "CIA interrogator Alice Racine is tricked into helping terrorists plan a devastating biological attack on London, forcing her to race against time to stop the deadly impending plot."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 Prime",
+    "startTs": 1787486400000,
+    "stopTs": 1787488200000,
+    "title": "The Global Reset",
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787488200000,
+    "stopTs": 1787491800000,
+    "title": "American Greed",
+    "desc": "When unemployment strikes, Stephen Trantel shifts from broker to bank robber to support his family."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 Prime",
+    "startTs": 1787490000000,
+    "stopTs": 1787491800000,
+    "title": "Market Forum",
+    "desc": "This is News - News Bulletin Category"
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787491800000,
+    "stopTs": 1787493600000,
+    "title": "The Global Eye",
+    "desc": "A comprehensive show covering international developments, global economy, markets, and geopolitical issues with expert opinions and updates shaping worldwide perspectives."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787493600000,
+    "stopTs": 1787495400000,
+    "title": "Tokenomics",
+    "desc": "An engaging show decoding cryptocurrency, blockchain, and token-based economies, examining innovations, risks, regulations, and opportunities in the fast-evolving digital landscape."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787495400000,
+    "stopTs": 1787497200000,
+    "title": "Overdrive",
+    "desc": "Experience the action, luxury and excitement with the Overdrive team as we comb the halls of Pragati Maidan."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787497200000,
+    "stopTs": 1787499000000,
+    "title": "Indianomics",
+    "desc": "Hosted by Latha Venkatesh, Indianomics gives viewers an insight into the latest in the Indian economy."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787499000000,
+    "stopTs": 1787502600000,
+    "title": "CNBC-TV18 FFF",
+    "desc": "A focused program on finance, fundamentals, and future trends, offering insights into markets, investments, economic shifts, and strategies to help viewers make informed decisions."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 Prime",
+    "startTs": 1787500800000,
+    "stopTs": 1787502600000,
+    "title": "Editors&apos; Playbook",
+    "desc": "Experts share insights on key market trends, while deep-diving into business shifts and strategic analysis to understand what&apos;s driving the economy each week."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787502600000,
+    "stopTs": 1787504400000,
+    "title": "CNBC-TV18 Market Masters",
+    "desc": "The host moderates a panel wherein experts from the field of finance discuss and analyse the frequent market fluctuations."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787504400000,
+    "stopTs": 1787506200000,
+    "title": "Media Dialogues With Storyboard18",
+    "desc": "Experts compare MRP and MSP, offering insights on inflation implications."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787506200000,
+    "stopTs": 1787508000000,
+    "title": "Editors&apos; Roundtable",
+    "desc": "Experts share investment tips and recommend popular stocks for buying and selling."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787508000000,
+    "stopTs": 1787509800000,
+    "title": "Let&apos;s Talk Money",
+    "desc": "Leading financial experts join the host to share actionable insights, breakdown smart money management strategies, and navigate lucrative investment and real estate opportunities."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787509800000,
+    "stopTs": 1787511600000,
+    "title": "Overdrive",
+    "desc": "Experience the action, luxury and excitement with the Overdrive team as we comb the halls of Pragati Maidan."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787511600000,
+    "stopTs": 1787513400000,
+    "title": "Converge Live",
+    "desc": "Live discussions with industry leaders and market experts. Offers in-depth analysis of global business trends, corporate strategies, and real-time developments as they unfold."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787513400000,
+    "stopTs": 1787515200000,
+    "title": "On Assignment",
+    "desc": "Reports from the field, offering detailed coverage and insights into important events, issues and developments through on-location reporting, interviews and expert perspectives."
+  },
+  {
+    "start": "20:00",
+    "stop": "21:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787515200000,
+    "stopTs": 1787518800000,
+    "title": "Unlocked",
+    "desc": "CIA interrogator Alice Racine is tricked into helping terrorists plan a devastating biological attack on London, forcing her to race against time to stop the deadly impending plot."
+  },
+  {
+    "start": "21:00",
+    "stop": "22:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787518800000,
+    "stopTs": 1787522400000,
+    "title": "American Greed",
+    "desc": "When unemployment strikes, Stephen Trantel shifts from broker to bank robber to support his family."
+  },
+  {
+    "start": "22:00",
+    "stop": "01:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787522400000,
+    "stopTs": 1787533200000,
+    "title": "Squawk Box Asia",
+    "desc": "Asia&apos;s essential business program providing real-time market updates, global economic analysis, and expert perspectives shaping decisions for investors, leaders, and businesses."
+  },
+  {
+    "start": "01:00",
+    "stop": "02:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1787533200000,
+    "stopTs": 1787538600000,
+    "title": "Street Signs Asia",
+    "desc": "Live news and updates from the Asian financial markets. Features business reports, investor sentiment, and economic analysis across countries in the Asia-Pacific region."
   }
 ]

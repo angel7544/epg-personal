@@ -4,627 +4,264 @@
     "stop": "01:00",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787272200000,
-    "stopTs": 1787274000000,
-    "title": "News Update",
-    "desc": "The presenter shares the most recent news updates from the region."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787274000000,
-    "stopTs": 1787275800000,
-    "title": "Fast News",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "01:30",
-    "stop": "03:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787275800000,
-    "stopTs": 1787283000000,
-    "title": "Morning News",
-    "desc": "The host presents the news on economics, social issues, politics and current events."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787283000000,
-    "stopTs": 1787286600000,
-    "title": "Morning News",
-    "desc": "The host presents the news on economics, social issues, politics and current events."
-  },
-  {
-    "start": "04:30",
-    "stop": "06:00",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787286600000,
-    "stopTs": 1787292000000,
-    "title": "Zero Hour",
-    "desc": "The host presents a roundup of the latest news updates from across the country."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787292000000,
-    "stopTs": 1787293800000,
-    "title": "Fast News",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787293800000,
-    "stopTs": 1787297400000,
-    "title": "Zero Hour",
-    "desc": "The host presents a roundup of the latest news updates from across the country."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787297400000,
-    "stopTs": 1787299200000,
-    "title": "First Round Up",
-    "desc": "The host provides a round up of the latest news and updates in the country."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787299200000,
-    "stopTs": 1787301000000,
-    "title": "Fast News",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787301000000,
-    "stopTs": 1787302800000,
-    "title": "News Update",
-    "desc": "The presenter shares the most recent news updates from the region."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787302800000,
-    "stopTs": 1787304600000,
-    "title": "Fast News",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787304600000,
-    "stopTs": 1787306400000,
-    "title": "News Update",
-    "desc": "The presenter shares the most recent news updates from the region."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787306400000,
-    "stopTs": 1787308200000,
-    "title": "Fast News",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "10:30",
-    "stop": "12:00",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787308200000,
-    "stopTs": 1787313600000,
-    "title": "Evening Edition",
-    "desc": "The host gives a detailed report of the latest news and updates in the country."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787313600000,
-    "stopTs": 1787315400000,
-    "title": "Fast News",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787315400000,
-    "stopTs": 1787317200000,
-    "title": "Evening News",
-    "desc": "The host presents important issues and provides updates on current events."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787317200000,
-    "stopTs": 1787319000000,
-    "title": "Fast News",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787319000000,
-    "stopTs": 1787322600000,
-    "title": "Final Argument",
-    "desc": "The host invites a panel of experts to deliberate on a variety of significant issues."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787322600000,
-    "stopTs": 1787326200000,
-    "title": "Special Edition",
-    "desc": "The hosts interact with various personalities to discuss the recent news from Egypt."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787326200000,
-    "stopTs": 1787328000000,
-    "title": "News Decode",
-    "desc": "The anchor delves into in-depth reports on the latest state and national issues."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787328000000,
-    "stopTs": 1787329800000,
-    "title": "Out Of Focus",
-    "desc": "The host sits down with experts from various fields to discuss current affairs in depth. S01 E1478."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787329800000,
-    "stopTs": 1787331600000,
-    "title": "Sharp 10",
-    "desc": "The host presents some of the latest news on a range of issues of public interest."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787331600000,
-    "stopTs": 1787333400000,
-    "title": "Night Report",
-    "desc": "The host presents a detailed report of some of the latest news stories."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787333400000,
-    "stopTs": 1787337000000,
-    "title": "Mid East Hour",
-    "desc": "The host presents a detailed report on the crucial matters across the world."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787337000000,
-    "stopTs": 1787338800000,
-    "title": "Out Of Focus",
-    "desc": "The host sits down with experts from various fields to discuss current affairs in depth. S01 E1478."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787338800000,
-    "stopTs": 1787340600000,
-    "title": "World With Us",
-    "desc": "The host presents a detailed report of some of the latest news stories. S01 E694."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787340600000,
-    "stopTs": 1787344200000,
-    "title": "Special Edition",
-    "desc": "The hosts interact with various personalities to discuss the recent news from Egypt. S01 E4133."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787344200000,
-    "stopTs": 1787347800000,
-    "title": "Mid East Hour",
-    "desc": "The host presents a detailed report on the crucial matters across the world. S01 E4129."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787347800000,
-    "stopTs": 1787349600000,
-    "title": "Weekend Arabia",
-    "desc": "The host explores cultural events, sports and key stories from the Gulf region. S01 E693."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787349600000,
-    "stopTs": 1787351400000,
-    "title": "Media Scan",
-    "desc": "The host analyses the latest news presented on different forms of media around the world. S01 E684."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787351400000,
-    "stopTs": 1787355000000,
-    "title": "Special Edition",
-    "desc": "The hosts interact with various personalities to discuss the recent news from Egypt. S01 E4133."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787355000000,
-    "stopTs": 1787356800000,
-    "title": "Out Of Focus",
-    "desc": "The host sits down with experts from various fields to discuss current affairs in depth."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
-    "startTs": 1787356800000,
-    "stopTs": 1787358600000,
-    "title": "News Decode",
-    "desc": "The anchor delves into in-depth reports on the latest state and national issues. S01 E1066."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787358600000,
     "stopTs": 1787360400000,
     "title": "News Update",
-    "desc": "The presenter shares the most recent news updates from the region."
+    "desc": "The presenter shares the most recent news stories and updates regarding politics, crime, and daily events happening in the region."
   },
   {
     "start": "01:00",
     "stop": "01:30",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787360400000,
     "stopTs": 1787362200000,
     "title": "Fast News",
-    "desc": "The host presents information about the social, economic and political issues of the day."
+    "desc": "Stay updated with quick headlines and essential breaking stories from across the state, covering politics, civic issues, local crime reports, and community developments in a concise bulletin."
   },
   {
     "start": "01:30",
     "stop": "03:30",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787362200000,
     "stopTs": 1787369400000,
-    "title": "Morning News",
-    "desc": "The host presents the news on economics, social issues, politics and current events."
+    "title": "News Morning",
+    "desc": "Start your day with the latest news updates, top national headlines, breaking global stories, market trends, weather forecasts, and in-depth expert analysis to keep you informed all day."
   },
   {
     "start": "03:30",
     "stop": "04:30",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787369400000,
     "stopTs": 1787373000000,
-    "title": "Morning News",
-    "desc": "The host presents the news on economics, social issues, politics and current events."
+    "title": "News Morning",
+    "desc": "Start your day with the latest news updates, top national headlines, breaking global stories, market trends, weather forecasts, and in-depth expert analysis to keep you informed all day."
   },
   {
     "start": "04:30",
     "stop": "06:00",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787373000000,
     "stopTs": 1787378400000,
     "title": "Zero Hour",
-    "desc": "The host presents a roundup of the latest news updates from across the country."
+    "desc": "Telecast of the latest news and updates as well as expert analysis of the elections."
   },
   {
     "start": "06:00",
     "stop": "06:30",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787378400000,
     "stopTs": 1787380200000,
     "title": "Fast News",
-    "desc": "The host presents information about the social, economic and political issues of the day."
+    "desc": "Stay updated with quick headlines and essential breaking stories from across the state, covering politics, civic issues, local crime reports, and community developments in a concise bulletin."
   },
   {
     "start": "06:30",
     "stop": "07:30",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787380200000,
     "stopTs": 1787383800000,
     "title": "Zero Hour",
-    "desc": "The host presents a roundup of the latest news updates from across the country."
+    "desc": "Telecast of the latest news and updates as well as expert analysis of the elections."
   },
   {
     "start": "07:30",
     "stop": "08:00",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787383800000,
     "stopTs": 1787385600000,
     "title": "First Round Up",
-    "desc": "The host provides a round up of the latest news and updates in the country."
+    "desc": "A captivating show featuring engaging topics, diverse stories, and fascinating content from various fields, providing entertainment and thought-provoking insights for all viewers."
   },
   {
     "start": "08:00",
     "stop": "08:30",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787385600000,
     "stopTs": 1787387400000,
     "title": "Fast News",
-    "desc": "The host presents information about the social, economic and political issues of the day."
+    "desc": "Stay updated with quick headlines and essential breaking stories from across the state, covering politics, civic issues, local crime reports, and community developments in a concise bulletin."
   },
   {
     "start": "08:30",
     "stop": "09:00",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787387400000,
     "stopTs": 1787389200000,
     "title": "News Update",
-    "desc": "The presenter shares the most recent news updates from the region."
+    "desc": "Get updates on the latest events, developments, inventions, discoveries and happenings around the world."
   },
   {
     "start": "09:00",
     "stop": "09:30",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787389200000,
     "stopTs": 1787391000000,
     "title": "Media Scan",
-    "desc": "The host analyses the latest news presented on different forms of media around the world. S01 E685."
+    "desc": "The host analyzes major news reports, print stories, and digital narratives across media channels, critically evaluating journalistic objectivity, bias, and socio-political discourses."
   },
   {
     "start": "09:30",
     "stop": "10:00",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787391000000,
     "stopTs": 1787392800000,
     "title": "News Update",
-    "desc": "The presenter shares the most recent news updates from the region."
+    "desc": "Get updates on the latest events, developments, inventions, discoveries and happenings around the world."
   },
   {
     "start": "10:00",
     "stop": "10:30",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787392800000,
     "stopTs": 1787394600000,
     "title": "Fast News",
-    "desc": "The host presents information about the social, economic and political issues of the day."
+    "desc": "Stay updated with quick headlines and essential breaking stories from across the state, covering politics, civic issues, local crime reports, and community developments in a concise bulletin."
   },
   {
     "start": "10:30",
     "stop": "12:00",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787394600000,
     "stopTs": 1787400000000,
     "title": "Evening Edition",
-    "desc": "The host gives a detailed report of the latest news and updates in the country."
+    "desc": "Catch today&apos;s top social, political, and cultural news on Evening Edition!"
   },
   {
     "start": "12:00",
     "stop": "12:30",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787400000000,
     "stopTs": 1787401800000,
     "title": "Fast News",
-    "desc": "The host presents information about the social, economic and political issues of the day."
+    "desc": "Stay updated with quick headlines and essential breaking stories from across the state, covering politics, civic issues, local crime reports, and community developments in a concise bulletin."
   },
   {
     "start": "12:30",
     "stop": "13:00",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787401800000,
     "stopTs": 1787403600000,
     "title": "Evening News",
-    "desc": "The host presents important issues and provides updates on current events."
+    "desc": "Covers key national and global news stories of the day. Stay updated with developments that matter in politics, society, and everyday life through an informative evening bulletin."
   },
   {
     "start": "13:00",
     "stop": "13:30",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787403600000,
     "stopTs": 1787405400000,
     "title": "Fast News",
-    "desc": "The host presents information about the social, economic and political issues of the day."
+    "desc": "Stay updated with quick headlines and essential breaking stories from across the state, covering politics, civic issues, local crime reports, and community developments in a concise bulletin."
   },
   {
     "start": "13:30",
     "stop": "14:30",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787405400000,
     "stopTs": 1787409000000,
     "title": "News Update",
-    "desc": "The presenter shares the most recent news updates from the region."
+    "desc": "Get updates on the latest events, developments, inventions, discoveries and happenings around the world."
   },
   {
     "start": "14:30",
     "stop": "15:30",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787409000000,
     "stopTs": 1787412600000,
     "title": "Special Edition",
-    "desc": "The hosts interact with various personalities to discuss the recent news from Egypt."
+    "desc": "This is a special news edition, dedicated to deliver an in-depth report on a particular issue that is debated."
   },
   {
     "start": "15:30",
     "stop": "16:00",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787412600000,
     "stopTs": 1787414400000,
     "title": "News Decode",
-    "desc": "The anchor delves into in-depth reports on the latest state and national issues."
+    "desc": "Get the latest state and national updates on pressing issues in this detailed report. Tune in now for the latest developments!"
   },
   {
     "start": "16:00",
     "stop": "16:30",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787414400000,
     "stopTs": 1787416200000,
     "title": "Out Of Focus",
-    "desc": "The host sits down with experts from various fields to discuss current affairs in depth. S01 E1479."
+    "desc": "Experts dive into current affairs and intriguing issues-join the conversation!"
   },
   {
     "start": "16:30",
     "stop": "17:00",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787416200000,
     "stopTs": 1787418000000,
     "title": "Sharp 10",
-    "desc": "The host presents some of the latest news on a range of issues of public interest."
+    "desc": "Stay informed with daily updates on social, economic, and political issues. Catch all the important stories-watch now for crucial insights!"
   },
   {
     "start": "17:00",
     "stop": "17:30",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787418000000,
     "stopTs": 1787419800000,
     "title": "Weekend Arabia",
-    "desc": "The host explores cultural events, sports and key stories from the Gulf region. S01 E694."
+    "desc": "A show that focuses on festival celebrations across diverse cultures, exploring sacred rituals, colorful traditions, joyous community feasts, and the timeless spirit of unity and harmony."
   },
   {
     "start": "17:30",
     "stop": "18:30",
     "channel": "MediaOne.in",
     "channelId": "MediaOne.in",
-    "channelName": "Media One",
+    "channelName": "MEDIA ONE",
     "startTs": 1787419800000,
     "stopTs": 1787423400000,
     "title": "Mid East Hour",
-    "desc": "The host presents a detailed report on the crucial matters across the world."
+    "desc": "Take a look at the latest updates and developments in the countries of the Middle East."
   },
   {
     "start": "18:30",
@@ -757,5 +394,357 @@
     "stopTs": 1787455800000,
     "title": "News Morning",
     "desc": "Start your day with the latest news updates, top national headlines, breaking global stories, market trends, weather forecasts, and in-depth expert analysis to keep you informed all day."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787455800000,
+    "stopTs": 1787459400000,
+    "title": "News Morning",
+    "desc": "Start your day with the latest news updates, top national headlines, breaking global stories, market trends, weather forecasts, and in-depth expert analysis to keep you informed all day."
+  },
+  {
+    "start": "04:30",
+    "stop": "06:00",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787459400000,
+    "stopTs": 1787464800000,
+    "title": "Zero Hour",
+    "desc": "Telecast of the latest news and updates as well as expert analysis of the elections."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787464800000,
+    "stopTs": 1787466600000,
+    "title": "Fast News",
+    "desc": "Stay updated with quick headlines and essential breaking stories from across the state, covering politics, civic issues, local crime reports, and community developments in a concise bulletin."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787466600000,
+    "stopTs": 1787470200000,
+    "title": "Zero Hour",
+    "desc": "Telecast of the latest news and updates as well as expert analysis of the elections."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787470200000,
+    "stopTs": 1787472000000,
+    "title": "First Round Up",
+    "desc": "A captivating show featuring engaging topics, diverse stories, and fascinating content from various fields, providing entertainment and thought-provoking insights for all viewers."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787472000000,
+    "stopTs": 1787473800000,
+    "title": "Fast News",
+    "desc": "Stay updated with quick headlines and essential breaking stories from across the state, covering politics, civic issues, local crime reports, and community developments in a concise bulletin."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787473800000,
+    "stopTs": 1787475600000,
+    "title": "News Update",
+    "desc": "Get updates on the latest events, developments, inventions, discoveries and happenings around the world."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787475600000,
+    "stopTs": 1787477400000,
+    "title": "Fast News",
+    "desc": "Stay updated with quick headlines and essential breaking stories from across the state, covering politics, civic issues, local crime reports, and community developments in a concise bulletin."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787477400000,
+    "stopTs": 1787479200000,
+    "title": "News Update",
+    "desc": "Get updates on the latest events, developments, inventions, discoveries and happenings around the world."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787479200000,
+    "stopTs": 1787481000000,
+    "title": "Fast News",
+    "desc": "Stay updated with quick headlines and essential breaking stories from across the state, covering politics, civic issues, local crime reports, and community developments in a concise bulletin."
+  },
+  {
+    "start": "10:30",
+    "stop": "12:00",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787481000000,
+    "stopTs": 1787486400000,
+    "title": "Evening Edition",
+    "desc": "Catch today&apos;s top social, political, and cultural news on Evening Edition!"
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787486400000,
+    "stopTs": 1787488200000,
+    "title": "Fast News",
+    "desc": "Stay updated with quick headlines and essential breaking stories from across the state, covering politics, civic issues, local crime reports, and community developments in a concise bulletin."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787488200000,
+    "stopTs": 1787490000000,
+    "title": "Evening News",
+    "desc": "Covers key national and global news stories of the day. Stay updated with developments that matter in politics, society, and everyday life through an informative evening bulletin."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787490000000,
+    "stopTs": 1787491800000,
+    "title": "Fast News",
+    "desc": "Stay updated with quick headlines and essential breaking stories from across the state, covering politics, civic issues, local crime reports, and community developments in a concise bulletin."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787491800000,
+    "stopTs": 1787495400000,
+    "title": "News Update",
+    "desc": "Get updates on the latest events, developments, inventions, discoveries and happenings around the world."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787495400000,
+    "stopTs": 1787499000000,
+    "title": "Special Edition",
+    "desc": "This is a special news edition, dedicated to deliver an in-depth report on a particular issue that is debated."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787499000000,
+    "stopTs": 1787500800000,
+    "title": "News Update",
+    "desc": "Get updates on the latest events, developments, inventions, discoveries and happenings around the world."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787500800000,
+    "stopTs": 1787502600000,
+    "title": "World With US",
+    "desc": "A special show that brings forth recent political issues, their causes and effects."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787502600000,
+    "stopTs": 1787504400000,
+    "title": "Sharp 10",
+    "desc": "Stay informed with daily updates on social, economic, and political issues. Catch all the important stories-watch now for crucial insights!"
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787504400000,
+    "stopTs": 1787506200000,
+    "title": "Saudy Story",
+    "desc": "Stay informed with weekly news updates and in-depth analyses from Saudi Arabia. Catch all the crucial stories-watch now!"
+  },
+  {
+    "start": "17:30",
+    "stop": "18:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787506200000,
+    "stopTs": 1787509800000,
+    "title": "Mid East Hour",
+    "desc": "Take a look at the latest updates and developments in the countries of the Middle East."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787509800000,
+    "stopTs": 1787511600000,
+    "title": "Saudy Story",
+    "desc": "Stay informed with weekly news updates and in-depth analyses from Saudi Arabia. Catch all the crucial stories-watch now!"
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787511600000,
+    "stopTs": 1787513400000,
+    "title": "World With US",
+    "desc": "A special show that brings forth recent political issues, their causes and effects."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787513400000,
+    "stopTs": 1787517000000,
+    "title": "Special Edition",
+    "desc": "This is a special news edition, dedicated to deliver an in-depth report on a particular issue that is debated."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787517000000,
+    "stopTs": 1787520600000,
+    "title": "Mid East Hour",
+    "desc": "Take a look at the latest updates and developments in the countries of the Middle East."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787520600000,
+    "stopTs": 1787522400000,
+    "title": "Weekend Arabia",
+    "desc": "A show that focuses on festival celebrations across diverse cultures, exploring sacred rituals, colorful traditions, joyous community feasts, and the timeless spirit of unity and harmony."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787522400000,
+    "stopTs": 1787524200000,
+    "title": "Saudy Story",
+    "desc": "Stay informed with weekly news updates and in-depth analyses from Saudi Arabia. Catch all the crucial stories-watch now!"
+  },
+  {
+    "start": "22:30",
+    "stop": "23:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787524200000,
+    "stopTs": 1787527800000,
+    "title": "Special Edition",
+    "desc": "This is a special news edition, dedicated to deliver an in-depth report on a particular issue that is debated."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787527800000,
+    "stopTs": 1787529600000,
+    "title": "World With US",
+    "desc": "A special show that brings forth recent political issues, their causes and effects."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787529600000,
+    "stopTs": 1787531400000,
+    "title": "Media Scan",
+    "desc": "The host analyzes major news reports, print stories, and digital narratives across media channels, critically evaluating journalistic objectivity, bias, and socio-political discourses."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787531400000,
+    "stopTs": 1787533200000,
+    "title": "News Update",
+    "desc": "Get updates on the latest events, developments, inventions, discoveries and happenings around the world."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1787533200000,
+    "stopTs": 1787535000000,
+    "title": "News Update",
+    "desc": "Get updates on the latest events, developments, inventions, discoveries and happenings around the world."
   }
 ]
