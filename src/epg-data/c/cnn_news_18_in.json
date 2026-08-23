@@ -1,14 +1,25 @@
 [
   {
     "start": "00:30",
+    "stop": "01:00",
+    "channel": "CNNNews18.in",
+    "channelId": "CNNNews18.in",
+    "channelName": "CNN NEWS 18",
+    "startTs": 1787445000000,
+    "stopTs": 1787446800000,
+    "title": "Super Saturday Debate",
+    "desc": "With the moderation of a host, personalities from different backgrounds discuss and debate their views on important issues and current events."
+  },
+  {
+    "start": "01:00",
     "stop": "01:30",
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787358600000,
-    "stopTs": 1787362200000,
-    "title": "The Right Stand",
-    "desc": "The host discusses various urgent issues plaguing the country with a panel of experts who debate on the matter in order to answer the burning questions."
+    "startTs": 1787446800000,
+    "stopTs": 1787448600000,
+    "title": "Super Saturday Debate",
+    "desc": "With the moderation of a host, personalities from different backgrounds discuss and debate their views on important issues and current events."
   },
   {
     "start": "01:30",
@@ -16,8 +27,8 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787362200000,
-    "stopTs": 1787364000000,
+    "startTs": 1787448600000,
+    "stopTs": 1787450400000,
     "title": "The Morning News",
     "desc": "The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs."
   },
@@ -27,10 +38,10 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787364000000,
-    "stopTs": 1787365800000,
-    "title": "Medicine Box - Health Matters",
-    "desc": "The host sheds light on various matters concerning health and all one needs to know about it to take precautionary measures."
+    "startTs": 1787450400000,
+    "stopTs": 1787452200000,
+    "title": "The Morning News",
+    "desc": "The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs."
   },
   {
     "start": "02:30",
@@ -38,8 +49,8 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787365800000,
-    "stopTs": 1787367600000,
+    "startTs": 1787452200000,
+    "stopTs": 1787454000000,
     "title": "The Morning News",
     "desc": "The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs."
   },
@@ -49,10 +60,10 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787367600000,
-    "stopTs": 1787369400000,
-    "title": "The Right Perspective",
-    "desc": "The host provides an unbiased and non-partisan perspective on various issues that are plaguing India in order to help the ordinary Indian understand the situation the country is in."
+    "startTs": 1787454000000,
+    "stopTs": 1787455800000,
+    "title": "Reporters Project",
+    "desc": "Reporters travel to several villages and constituencies in an attempt to talk to people regarding their views on issues that affect society."
   },
   {
     "start": "03:30",
@@ -60,8 +71,8 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787369400000,
-    "stopTs": 1787371200000,
+    "startTs": 1787455800000,
+    "stopTs": 1787457600000,
     "title": "The Morning News",
     "desc": "The presenter sheds light on some of the key developing stories of the day and newsworthy events pertaining to political and social affairs."
   },
@@ -71,32 +82,21 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787371200000,
-    "stopTs": 1787373000000,
-    "title": "Now Showing",
-    "desc": "The host presents news related to the Hindi film industry, reviews of the Bollywood and Hollywood films, interviews with actors and actresses as well as Hollywood gossip."
+    "startTs": 1787457600000,
+    "stopTs": 1787459400000,
+    "title": "World 360",
+    "desc": "Anchors and journalists present and discuss the latest news stories, updates and reports regarding events from around the world."
   },
   {
     "start": "04:30",
-    "stop": "05:00",
-    "channel": "CNNNews18.in",
-    "channelId": "CNNNews18.in",
-    "channelName": "CNN NEWS 18",
-    "startTs": 1787373000000,
-    "stopTs": 1787374800000,
-    "title": "Breaking On News18",
-    "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
-  },
-  {
-    "start": "05:00",
     "stop": "05:30",
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787374800000,
-    "stopTs": 1787376600000,
-    "title": "Reporters Project",
-    "desc": "Reporters travel to several villages and constituencies in an attempt to talk to people regarding their views on issues that affect society."
+    "startTs": 1787459400000,
+    "stopTs": 1787463000000,
+    "title": "Breaking On News18",
+    "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
   },
   {
     "start": "05:30",
@@ -104,8 +104,8 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787376600000,
-    "stopTs": 1787378400000,
+    "startTs": 1787463000000,
+    "stopTs": 1787464800000,
     "title": "Breaking On News18",
     "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
   },
@@ -115,32 +115,54 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787378400000,
-    "stopTs": 1787380200000,
-    "title": "Entertainment T20",
-    "desc": "The host interacts with prominent celebrities from the Indian film and television industry and discusses their major struggles and extraordinary achievements."
+    "startTs": 1787464800000,
+    "stopTs": 1787466600000,
+    "title": "Now Showing",
+    "desc": "The host presents news related to the Hindi film industry, reviews of the Bollywood and Hollywood films, interviews with actors and actresses as well as Hollywood gossip."
   },
   {
     "start": "06:30",
+    "stop": "07:00",
+    "channel": "CNNNews18.in",
+    "channelId": "CNNNews18.in",
+    "channelName": "CNN NEWS 18",
+    "startTs": 1787466600000,
+    "stopTs": 1787468400000,
+    "title": "Crux of the Matter",
+    "desc": "The host delves into the core of a particular news story for the day from amongst various social, political and economic news events that have caught the public&apos;s attention."
+  },
+  {
+    "start": "07:00",
     "stop": "07:30",
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787380200000,
-    "stopTs": 1787383800000,
+    "startTs": 1787468400000,
+    "stopTs": 1787470200000,
+    "title": "Crux of the Matter",
+    "desc": "The host delves into the core of a particular news story for the day from amongst various social, political and economic news events that have caught the public&apos;s attention."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "CNNNews18.in",
+    "channelId": "CNNNews18.in",
+    "channelName": "CNN NEWS 18",
+    "startTs": 1787470200000,
+    "stopTs": 1787472000000,
     "title": "Breaking On News18",
     "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
   },
   {
-    "start": "07:30",
+    "start": "08:00",
     "stop": "08:30",
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787383800000,
-    "stopTs": 1787387400000,
-    "title": "Breaking On News18",
-    "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
+    "startTs": 1787472000000,
+    "stopTs": 1787473800000,
+    "title": "Reporters Project",
+    "desc": "Reporters travel to several villages and constituencies in an attempt to talk to people regarding their views on issues that affect society."
   },
   {
     "start": "08:30",
@@ -148,8 +170,8 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787387400000,
-    "stopTs": 1787389200000,
+    "startTs": 1787473800000,
+    "stopTs": 1787475600000,
     "title": "Breaking On News18",
     "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
   },
@@ -159,10 +181,10 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787389200000,
-    "stopTs": 1787391000000,
-    "title": "Now Showing",
-    "desc": "The host presents news related to the Hindi film industry, reviews of the Bollywood and Hollywood films, interviews with actors and actresses as well as Hollywood gossip."
+    "startTs": 1787475600000,
+    "stopTs": 1787477400000,
+    "title": "Entertainment T20",
+    "desc": "The host interacts with prominent celebrities from the Indian film and television industry and discusses their major struggles and extraordinary achievements."
   },
   {
     "start": "09:30",
@@ -170,8 +192,8 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787391000000,
-    "stopTs": 1787392800000,
+    "startTs": 1787477400000,
+    "stopTs": 1787479200000,
     "title": "Breaking On News18",
     "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
   },
@@ -181,10 +203,10 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787392800000,
-    "stopTs": 1787394600000,
-    "title": "Breaking On News18",
-    "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
+    "startTs": 1787479200000,
+    "stopTs": 1787481000000,
+    "title": "Now Showing",
+    "desc": "The host presents news related to the Hindi film industry, reviews of the Bollywood and Hollywood films, interviews with actors and actresses as well as Hollywood gossip."
   },
   {
     "start": "10:30",
@@ -192,8 +214,8 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787394600000,
-    "stopTs": 1787396400000,
+    "startTs": 1787481000000,
+    "stopTs": 1787482800000,
     "title": "Breaking On News18",
     "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
   },
@@ -203,10 +225,10 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787396400000,
-    "stopTs": 1787398200000,
-    "title": "Breaking On News18",
-    "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
+    "startTs": 1787482800000,
+    "stopTs": 1787484600000,
+    "title": "The Right Perspective",
+    "desc": "The host provides an unbiased and non-partisan perspective on various issues that are plaguing India in order to help the ordinary Indian understand the situation the country is in."
   },
   {
     "start": "11:30",
@@ -214,8 +236,8 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787398200000,
-    "stopTs": 1787400000000,
+    "startTs": 1787484600000,
+    "stopTs": 1787486400000,
     "title": "Breaking On News18",
     "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
   },
@@ -225,10 +247,10 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787400000000,
-    "stopTs": 1787401800000,
-    "title": "Breaking On News18",
-    "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
+    "startTs": 1787486400000,
+    "stopTs": 1787488200000,
+    "title": "Sensational South",
+    "desc": "The host provides detailed insights into the latest news stories and significant updates concerning various fields from South India."
   },
   {
     "start": "12:30",
@@ -236,8 +258,8 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787401800000,
-    "stopTs": 1787403600000,
+    "startTs": 1787488200000,
+    "stopTs": 1787490000000,
     "title": "Breaking On News18",
     "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
   },
@@ -247,8 +269,8 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787403600000,
-    "stopTs": 1787405400000,
+    "startTs": 1787490000000,
+    "stopTs": 1787491800000,
     "title": "World 360",
     "desc": "Anchors and journalists present and discuss the latest news stories, updates and reports regarding events from around the world."
   },
@@ -258,10 +280,10 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787405400000,
-    "stopTs": 1787407200000,
-    "title": "Reporters Project",
-    "desc": "Reporters travel to several villages and constituencies in an attempt to talk to people regarding their views on issues that affect society."
+    "startTs": 1787491800000,
+    "stopTs": 1787493600000,
+    "title": "Breaking On News18",
+    "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
   },
   {
     "start": "14:00",
@@ -269,10 +291,10 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787407200000,
-    "stopTs": 1787409000000,
-    "title": "Now Showing",
-    "desc": "The host presents news related to the Hindi film industry, reviews of the Bollywood and Hollywood films, interviews with actors and actresses as well as Hollywood gossip."
+    "startTs": 1787493600000,
+    "stopTs": 1787495400000,
+    "title": "The Right Perspective",
+    "desc": "The host provides an unbiased and non-partisan perspective on various issues that are plaguing India in order to help the ordinary Indian understand the situation the country is in."
   },
   {
     "start": "14:30",
@@ -280,10 +302,10 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787409000000,
-    "stopTs": 1787410800000,
-    "title": "The Right Perspective",
-    "desc": "The host provides an unbiased and non-partisan perspective on various issues that are plaguing India in order to help the ordinary Indian understand the situation the country is in."
+    "startTs": 1787495400000,
+    "stopTs": 1787497200000,
+    "title": "Reporters Project",
+    "desc": "Reporters travel to several villages and constituencies in an attempt to talk to people regarding their views on issues that affect society."
   },
   {
     "start": "15:00",
@@ -291,10 +313,10 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787410800000,
-    "stopTs": 1787412600000,
-    "title": "Reporters Project",
-    "desc": "Reporters travel to several villages and constituencies in an attempt to talk to people regarding their views on issues that affect society."
+    "startTs": 1787497200000,
+    "stopTs": 1787499000000,
+    "title": "Now Showing",
+    "desc": "The host presents news related to the Hindi film industry, reviews of the Bollywood and Hollywood films, interviews with actors and actresses as well as Hollywood gossip."
   },
   {
     "start": "15:30",
@@ -302,9 +324,9 @@
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
     "channelName": "CNN NEWS 18",
-    "startTs": 1787412600000,
-    "stopTs": 1787414400000,
-    "title": "Super Saturday Debate",
-    "desc": "With the moderation of a host, personalities from different backgrounds discuss and debate their views on important issues and current events."
+    "startTs": 1787499000000,
+    "stopTs": 1787500800000,
+    "title": "Explosive Weekend Debate",
+    "desc": "The host mediates a debate between various personalities from different fields about the latest news stories and current events in India."
   }
 ]
