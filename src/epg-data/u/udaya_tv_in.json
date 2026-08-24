@@ -1,464 +1,706 @@
 [
   {
     "start": "00:30",
-    "stop": "03:30",
-    "channel": "UdayaTV.in",
-    "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
-    "startTs": 1787445000000,
-    "stopTs": 1787455800000,
-    "title": "Huchcha",
-    "desc": "Sachidananda, a violent college student, falls in love with a conservative Brahmin girl."
-  },
-  {
-    "start": "03:30",
-    "stop": "06:30",
-    "channel": "UdayaTV.in",
-    "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
-    "startTs": 1787455800000,
-    "stopTs": 1787466600000,
-    "title": "Mane Devru",
-    "desc": "A remorseful husband hatches a clever plot to reconcile with his estranged wife."
-  },
-  {
-    "start": "06:30",
-    "stop": "09:30",
-    "channel": "UdayaTV.in",
-    "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
-    "startTs": 1787466600000,
-    "stopTs": 1787477400000,
-    "title": "Hrudayavantha",
-    "desc": "Anu decides to investigate her poor brother&apos;s huge source of income."
-  },
-  {
-    "start": "09:30",
-    "stop": "12:30",
-    "channel": "UdayaTV.in",
-    "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
-    "startTs": 1787477400000,
-    "stopTs": 1787488200000,
-    "title": "Namma Annayya",
-    "desc": "A man goes to great lengths in order to protect his sister from the clutches of a don."
-  },
-  {
-    "start": "12:30",
-    "stop": "15:30",
-    "channel": "UdayaTV.in",
-    "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
-    "startTs": 1787488200000,
-    "stopTs": 1787499000000,
-    "title": "Kiss",
-    "desc": "As Nandini tries to compensate for damaging Arjun&apos;s car, she ends up falling in love with him."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:30",
-    "channel": "UdayaTV.in",
-    "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
-    "startTs": 1787499000000,
-    "stopTs": 1787502600000,
-    "title": "Ratha Sapthami",
-    "desc": "The conflicting worlds of a young man and a woman unexpectedly align when fate intervenes."
-  },
-  {
-    "start": "16:30",
-    "stop": "19:30",
-    "channel": "UdayaTV.in",
-    "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
-    "startTs": 1787502600000,
-    "stopTs": 1787513400000,
-    "title": "Majestic",
-    "desc": "Gangster Dassa falls in love with a rival&apos;s daughter who helps him instead of her father."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:30",
-    "channel": "UdayaTV.in",
-    "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
-    "startTs": 1787513400000,
-    "stopTs": 1787517000000,
-    "title": "Nandini",
-    "desc": "Two sisters with special powers embark on a revenge killing spree. S02 E720."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "UdayaTV.in",
-    "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
-    "startTs": 1787517000000,
-    "stopTs": 1787518800000,
-    "title": "Bhagyavantharu",
-    "desc": "Janani must navigate marital duties while fighting to keep her ambitions alive. S01 E42."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "UdayaTV.in",
-    "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
-    "startTs": 1787518800000,
-    "stopTs": 1787520600000,
-    "title": "Ratha Sapthami",
-    "desc": "The conflicting worlds of a young man and a woman unexpectedly align when fate intervenes."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "UdayaTV.in",
-    "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
-    "startTs": 1787520600000,
-    "stopTs": 1787522400000,
-    "title": "Shanti Nivasa",
-    "desc": "While leading a happy life, Shanthi falls victim to the vengeance of Manthra. S01 E670."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "UdayaTV.in",
-    "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
-    "startTs": 1787522400000,
-    "stopTs": 1787524200000,
-    "title": "Mangalya",
-    "desc": "Mayuri fulfills her duties for a wealthy family and their son Tarak marries her. S01 E311."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "UdayaTV.in",
-    "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
-    "startTs": 1787524200000,
-    "stopTs": 1787526000000,
-    "title": "Krishna Vamshi",
-    "desc": "Vamshika, who always yearned for a close-knit family, marries into a bustling household. S01 E154."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "UdayaTV.in",
-    "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
-    "startTs": 1787526000000,
-    "stopTs": 1787527800000,
-    "title": "Myna",
-    "desc": "Myna leaves her home to carve a better future, fighting against all odds for her family. S01 E853."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "UdayaTV.in",
-    "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
-    "startTs": 1787527800000,
-    "stopTs": 1787529600000,
-    "title": "Sindhu Bhairavi",
-    "desc": "Sindhu, a brave and fierce woman, fights injustice in society. S01 E450."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "UdayaTV.in",
-    "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
-    "startTs": 1787529600000,
-    "stopTs": 1787531400000,
-    "title": "Myna",
-    "desc": "Myna leaves her home to carve a better future, fighting against all odds for her family. S01 E146."
-  },
-  {
-    "start": "00:30",
     "stop": "01:00",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787531400000,
     "stopTs": 1787533200000,
     "title": "Bhakti Sudhe",
-    "desc": "The host informs the viewers about various temples which are known for their rich heritage. S01 E300."
+    "desc": "The host presents information on various temples that are considered to have a profound cultural and sentimental significance."
   },
   {
     "start": "01:00",
     "stop": "01:30",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787533200000,
     "stopTs": 1787535000000,
     "title": "Teleshopping",
-    "desc": "The host highlights the features of a variety of products for purchase."
+    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home."
   },
   {
     "start": "01:30",
     "stop": "02:00",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787535000000,
     "stopTs": 1787536800000,
     "title": "Bhakti Sudhe",
-    "desc": "The host informs the viewers about various temples which are known for their rich heritage. S01 E301."
+    "desc": "The host presents information on various temples that are considered to have a profound cultural and sentimental significance."
   },
   {
     "start": "02:00",
     "stop": "02:30",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787536800000,
     "stopTs": 1787538600000,
     "title": "Nandini",
-    "desc": "Two sisters with special powers embark on a revenge killing spree. S01 E287."
+    "desc": "A man marries a shape-shifting serpent and they have two daughters. Later, the sisters embark on a revenge killing spree."
   },
   {
     "start": "02:30",
     "stop": "03:00",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787538600000,
     "stopTs": 1787540400000,
     "title": "Vitala Vitala Panduranga",
-    "desc": "A believer&apos;s faith in Lord Vithala Panduranga propels her towards divinity. S01 E234."
+    "desc": "Despite the trials and tribulations she faces, Sakhu, a devout believer, finds her faith in Lord Vithala Panduranga propelling her towards divinity."
   },
   {
     "start": "03:00",
     "stop": "03:30",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787540400000,
     "stopTs": 1787542200000,
     "title": "Bhagyavantharu",
-    "desc": "Janani must navigate marital duties while fighting to keep her ambitions alive. S01 E42."
+    "desc": "Janani aspires to have a career, but life takes a major turn when she marries into a traditional family. Now, she must navigate household duties while fighting to keep her ambitions alive."
   },
   {
     "start": "03:30",
     "stop": "06:30",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787542200000,
     "stopTs": 1787553000000,
     "title": "Darshan Shastri",
-    "desc": "Shastri turns into a criminal and helps the poor, but Kanaka&apos;s arrival creates problems."
+    "desc": "Shastri, a medical student, turns to crime due to circumstances. He uses his illegal earnings to help the poor, but Kanaka&apos;s arrival complicates his double life."
   },
   {
     "start": "06:30",
     "stop": "07:00",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787553000000,
     "stopTs": 1787554800000,
     "title": "Nandini",
-    "desc": "Two sisters with special powers embark on a revenge killing spree. S02 E721."
+    "desc": "A man marries a shape-shifting serpent and they have two daughters. Later, the sisters embark on a revenge killing spree."
   },
   {
     "start": "07:00",
     "stop": "07:30",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787554800000,
     "stopTs": 1787556600000,
     "title": "Mahalakshmi Maduve",
-    "desc": "Mahalakshmi marries Hari under a specific condition to support her domestic family. S01 E72."
+    "desc": "Mahalakshmi marries Hari under a specific condition to support her domestic family. However, hidden truths and unexpected challenges later threaten their initial happiness."
   },
   {
     "start": "07:30",
     "stop": "08:00",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787556600000,
     "stopTs": 1787558400000,
     "title": "Aduge Mane",
-    "desc": "Culinary experts prepare medicinal and village-style dishes alongside celebrity guests. S01 E79."
+    "desc": "Culinary professionals and celebrity guests showcase their chef-inspired dishes, medicinal recipes and traditional village delicacies."
   },
   {
     "start": "08:00",
     "stop": "08:30",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787558400000,
     "stopTs": 1787560200000,
     "title": "Vitala Vitala Panduranga",
-    "desc": "A believer&apos;s faith in Lord Vithala Panduranga propels her towards divinity. S01 E235."
+    "desc": "Despite the trials and tribulations she faces, Sakhu, a devout believer, finds her faith in Lord Vithala Panduranga propelling her towards divinity."
   },
   {
     "start": "08:30",
     "stop": "09:00",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787560200000,
     "stopTs": 1787562000000,
     "title": "Mugguti Malli",
-    "desc": "A woman with culinary expertise meets a man who falls in love with her at first sight. S01 E132."
+    "desc": "A woman with unparalleled culinary expertise works in a large household and crosses paths with a man who falls in love with her at first sight."
   },
   {
     "start": "09:00",
     "stop": "12:00",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787562000000,
     "stopTs": 1787572800000,
     "title": "Power",
-    "desc": "A politician wakes up from a coma to find his responsible son taking care of his legacy."
+    "desc": "A politician falls into a coma after an attack by criminals. He wakes up several years later to find his son has taken over his responsibilities. However, things are not what they seem to be."
   },
   {
     "start": "12:00",
     "stop": "12:30",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787572800000,
     "stopTs": 1787574600000,
     "title": "Parijatha",
-    "desc": "Parijatha values family, while Sarojadevi prioritises social status, leading to conflict. S01 E150."
+    "desc": "Parijatha values family and empathy, while Sarojadevi prioritises social status. Subsequently, their contrasting beliefs lead to a dynamic where Parijatha faces trials to defend her principles."
   },
   {
     "start": "12:30",
     "stop": "13:00",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787574600000,
     "stopTs": 1787576400000,
     "title": "Ratha Sapthami",
-    "desc": "The conflicting worlds of a young man and a woman unexpectedly align when fate intervenes. S01 E234."
+    "desc": "As Sapthami&apos;s selflessness breeds complications, Sreemanth&apos;s self-centeredness erodes family bonds. However, soon fate plays a hand, intertwining their opposing lives."
   },
   {
     "start": "13:00",
     "stop": "13:30",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787576400000,
     "stopTs": 1787578200000,
     "title": "Mahalakshmi Maduve",
-    "desc": "Mahalakshmi marries Hari under a specific condition to support her domestic family. S01 E73."
+    "desc": "Mahalakshmi marries Hari under a specific condition to support her domestic family. However, hidden truths and unexpected challenges later threaten their initial happiness."
   },
   {
     "start": "13:30",
     "stop": "14:00",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787578200000,
     "stopTs": 1787580000000,
     "title": "Gelathi Gayathri",
-    "desc": "."
+    "desc": "Childhood companions Gayathri and Kaveri reunite after spending many years apart. However, severe personal hardships and unexpected difficulties threaten their bond."
   },
   {
     "start": "14:00",
     "stop": "14:30",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787580000000,
     "stopTs": 1787581800000,
     "title": "Bhagyavantharu",
-    "desc": "Janani must navigate marital duties while fighting to keep her ambitions alive. S01 E43."
+    "desc": "Janani aspires to have a career, but life takes a major turn when she marries into a traditional family. Now, she must navigate household duties while fighting to keep her ambitions alive."
   },
   {
     "start": "14:30",
     "stop": "15:00",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787581800000,
     "stopTs": 1787583600000,
     "title": "Mugguti Malli",
-    "desc": "A woman with culinary expertise meets a man who falls in love with her at first sight. S01 E133."
+    "desc": "A woman with unparalleled culinary expertise works in a large household and crosses paths with a man who falls in love with her at first sight."
   },
   {
     "start": "15:00",
     "stop": "15:30",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787583600000,
     "stopTs": 1787585400000,
     "title": "Shanti Nivasa",
-    "desc": "While leading a happy life, Shanthi falls victim to the vengeance of Manthra. S01 E671."
+    "desc": "While leading a happy life, as the ideal daughter-in-law of a reputed family, Shanthi falls victim to the vengeance of Manthra."
   },
   {
     "start": "15:30",
     "stop": "16:00",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787585400000,
     "stopTs": 1787587200000,
     "title": "Mangalya",
-    "desc": "Mayuri fulfills her duties for a wealthy family and their son Tarak marries her. S01 E312."
+    "desc": "Mayuri, a bold girl raised in poverty, fulfills her duties for a wealthy family as one of their own. However, things become complicated when Tarak, the family&apos;s alcoholic son, marries her."
   },
   {
     "start": "16:00",
     "stop": "16:30",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787587200000,
     "stopTs": 1787589000000,
     "title": "Krishna Vamshi",
-    "desc": "Vamshika, who always yearned for a close-knit family, marries into a bustling household. S01 E155."
+    "desc": "Vamshika, who always yearned for a close-knit family, marries into a bustling household. Subsequently, she navigates various challenges and traditions to win the hearts of her new in-laws."
   },
   {
     "start": "16:30",
     "stop": "17:00",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787589000000,
     "stopTs": 1787590800000,
     "title": "Myna",
-    "desc": "Myna leaves her home to carve a better future, fighting against all odds for her family. S01 E854."
+    "desc": "Born into a life of hardship, Myna faces familial and financial struggles. Subsequently, she leaves her home to carve a better future, fighting against all odds for her family&apos;s sake."
   },
   {
     "start": "17:00",
     "stop": "17:30",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787590800000,
     "stopTs": 1787592600000,
     "title": "Sindhu Bhairavi",
-    "desc": "Sindhu, a brave and fierce woman, fights injustice in society. S01 E451."
+    "desc": "Sindhu, a brave young woman, loves to spread happiness and cheer all around. However, on witnessing injustice, Sindhu takes matters into her own hands."
   },
   {
     "start": "17:30",
     "stop": "18:00",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787592600000,
     "stopTs": 1787594400000,
     "title": "Gelathi Gayathri",
-    "desc": "."
+    "desc": "Childhood companions Gayathri and Kaveri reunite after spending many years apart. However, severe personal hardships and unexpected difficulties threaten their bond."
   },
   {
     "start": "18:00",
     "stop": "18:30",
     "channel": "UdayaTV.in",
     "channelId": "UdayaTV.in",
-    "channelName": "Udaya TV HD",
+    "channelName": "Udaya TV",
     "startTs": 1787594400000,
     "stopTs": 1787596200000,
     "title": "Mangalya",
-    "desc": "Mayuri fulfills her duties for a wealthy family and their son Tarak marries her. S01 E312."
+    "desc": "Mayuri, a bold girl raised in poverty, fulfills her duties for a wealthy family as one of their own. However, things become complicated when Tarak, the family&apos;s alcoholic son, marries her."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787596200000,
+    "stopTs": 1787598000000,
+    "title": "Myna",
+    "desc": "Born into a life of hardship, Myna faces familial and financial struggles. Subsequently, she leaves her home to carve a better future, fighting against all odds for her family&apos;s sake."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787598000000,
+    "stopTs": 1787599800000,
+    "title": "Myna",
+    "desc": "Born into a life of hardship, Myna faces familial and financial struggles. Subsequently, she leaves her home to carve a better future, fighting against all odds for her family&apos;s sake."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787599800000,
+    "stopTs": 1787601600000,
+    "title": "Nandini",
+    "desc": "A man marries a shape-shifting serpent and they have two daughters. Later, the sisters embark on a revenge killing spree."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787601600000,
+    "stopTs": 1787603400000,
+    "title": "Ratha Sapthami",
+    "desc": "As Sapthami&apos;s selflessness breeds complications, Sreemanth&apos;s self-centeredness erodes family bonds. However, soon fate plays a hand, intertwining their opposing lives."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787603400000,
+    "stopTs": 1787605200000,
+    "title": "Bhagyavantharu",
+    "desc": "Janani aspires to have a career, but life takes a major turn when she marries into a traditional family. Now, she must navigate household duties while fighting to keep her ambitions alive."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787605200000,
+    "stopTs": 1787607000000,
+    "title": "Myna",
+    "desc": "Born into a life of hardship, Myna faces familial and financial struggles. Subsequently, she leaves her home to carve a better future, fighting against all odds for her family&apos;s sake."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787607000000,
+    "stopTs": 1787608800000,
+    "title": "Shanti Nivasa",
+    "desc": "While leading a happy life, as the ideal daughter-in-law of a reputed family, Shanthi falls victim to the vengeance of Manthra."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787608800000,
+    "stopTs": 1787610600000,
+    "title": "Mangalya",
+    "desc": "Mayuri, a bold girl raised in poverty, fulfills her duties for a wealthy family as one of their own. However, things become complicated when Tarak, the family&apos;s alcoholic son, marries her."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787610600000,
+    "stopTs": 1787612400000,
+    "title": "Krishna Vamshi",
+    "desc": "Vamshika, who always yearned for a close-knit family, marries into a bustling household. Subsequently, she navigates various challenges and traditions to win the hearts of her new in-laws."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787612400000,
+    "stopTs": 1787614200000,
+    "title": "Myna",
+    "desc": "Born into a life of hardship, Myna faces familial and financial struggles. Subsequently, she leaves her home to carve a better future, fighting against all odds for her family&apos;s sake."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787614200000,
+    "stopTs": 1787616000000,
+    "title": "Sindhu Bhairavi",
+    "desc": "Sindhu, a brave young woman, loves to spread happiness and cheer all around. However, on witnessing injustice, Sindhu takes matters into her own hands."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787616000000,
+    "stopTs": 1787617800000,
+    "title": "Myna",
+    "desc": "Born into a life of hardship, Myna faces familial and financial struggles. Subsequently, she leaves her home to carve a better future, fighting against all odds for her family&apos;s sake."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787617800000,
+    "stopTs": 1787619600000,
+    "title": "Bhakti Sudhe",
+    "desc": "The host presents information on various temples that are considered to have a profound cultural and sentimental significance."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787619600000,
+    "stopTs": 1787621400000,
+    "title": "Teleshopping",
+    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787621400000,
+    "stopTs": 1787623200000,
+    "title": "Bhakti Sudhe",
+    "desc": "The host presents information on various temples that are considered to have a profound cultural and sentimental significance."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787623200000,
+    "stopTs": 1787625000000,
+    "title": "Nandini",
+    "desc": "A man marries a shape-shifting serpent and they have two daughters. Later, the sisters embark on a revenge killing spree."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787625000000,
+    "stopTs": 1787626800000,
+    "title": "Vitala Vitala Panduranga",
+    "desc": "Despite the trials and tribulations she faces, Sakhu, a devout believer, finds her faith in Lord Vithala Panduranga propelling her towards divinity."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787626800000,
+    "stopTs": 1787628600000,
+    "title": "Bhagyavantharu",
+    "desc": "Janani aspires to have a career, but life takes a major turn when she marries into a traditional family. Now, she must navigate household duties while fighting to keep her ambitions alive."
+  },
+  {
+    "start": "03:30",
+    "stop": "06:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787628600000,
+    "stopTs": 1787639400000,
+    "title": "DSP",
+    "desc": "After being forced to leave his family due to an altercation with a goon, a man returns as the DSP of his hometown to seek revenge."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787639400000,
+    "stopTs": 1787641200000,
+    "title": "Nandini",
+    "desc": "A man marries a shape-shifting serpent and they have two daughters. Later, the sisters embark on a revenge killing spree."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787641200000,
+    "stopTs": 1787643000000,
+    "title": "Mahalakshmi Maduve",
+    "desc": "Mahalakshmi marries Hari under a specific condition to support her domestic family. However, hidden truths and unexpected challenges later threaten their initial happiness."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787643000000,
+    "stopTs": 1787644800000,
+    "title": "Aduge Mane",
+    "desc": "Culinary professionals and celebrity guests showcase their chef-inspired dishes, medicinal recipes and traditional village delicacies."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787644800000,
+    "stopTs": 1787646600000,
+    "title": "Vitala Vitala Panduranga",
+    "desc": "Despite the trials and tribulations she faces, Sakhu, a devout believer, finds her faith in Lord Vithala Panduranga propelling her towards divinity."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787646600000,
+    "stopTs": 1787648400000,
+    "title": "Mugguti Malli",
+    "desc": "A woman with unparalleled culinary expertise works in a large household and crosses paths with a man who falls in love with her at first sight."
+  },
+  {
+    "start": "09:00",
+    "stop": "12:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787648400000,
+    "stopTs": 1787659200000,
+    "title": "Raj Vishnu",
+    "desc": "Rajini, the unemployed grandson of a wealthy man, tries to woo his childhood friend following the advice of an astrologer. However, his antics lead to hilarious situations."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787659200000,
+    "stopTs": 1787661000000,
+    "title": "Parijatha",
+    "desc": "Parijatha values family and empathy, while Sarojadevi prioritises social status. Subsequently, their contrasting beliefs lead to a dynamic where Parijatha faces trials to defend her principles."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787661000000,
+    "stopTs": 1787662800000,
+    "title": "Ratha Sapthami",
+    "desc": "As Sapthami&apos;s selflessness breeds complications, Sreemanth&apos;s self-centeredness erodes family bonds. However, soon fate plays a hand, intertwining their opposing lives."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787662800000,
+    "stopTs": 1787664600000,
+    "title": "Mahalakshmi Maduve",
+    "desc": "Mahalakshmi marries Hari under a specific condition to support her domestic family. However, hidden truths and unexpected challenges later threaten their initial happiness."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787664600000,
+    "stopTs": 1787666400000,
+    "title": "Gelathi Gayathri",
+    "desc": "Childhood companions Gayathri and Kaveri reunite after spending many years apart. However, severe personal hardships and unexpected difficulties threaten their bond."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787666400000,
+    "stopTs": 1787668200000,
+    "title": "Bhagyavantharu",
+    "desc": "Janani aspires to have a career, but life takes a major turn when she marries into a traditional family. Now, she must navigate household duties while fighting to keep her ambitions alive."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787668200000,
+    "stopTs": 1787670000000,
+    "title": "Mugguti Malli",
+    "desc": "A woman with unparalleled culinary expertise works in a large household and crosses paths with a man who falls in love with her at first sight."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787670000000,
+    "stopTs": 1787671800000,
+    "title": "Shanti Nivasa",
+    "desc": "While leading a happy life, as the ideal daughter-in-law of a reputed family, Shanthi falls victim to the vengeance of Manthra."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787671800000,
+    "stopTs": 1787673600000,
+    "title": "Mangalya",
+    "desc": "Mayuri, a bold girl raised in poverty, fulfills her duties for a wealthy family as one of their own. However, things become complicated when Tarak, the family&apos;s alcoholic son, marries her."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787673600000,
+    "stopTs": 1787675400000,
+    "title": "Krishna Vamshi",
+    "desc": "Vamshika, who always yearned for a close-knit family, marries into a bustling household. Subsequently, she navigates various challenges and traditions to win the hearts of her new in-laws."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787675400000,
+    "stopTs": 1787677200000,
+    "title": "Myna",
+    "desc": "Born into a life of hardship, Myna faces familial and financial struggles. Subsequently, she leaves her home to carve a better future, fighting against all odds for her family&apos;s sake."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787677200000,
+    "stopTs": 1787679000000,
+    "title": "Sindhu Bhairavi",
+    "desc": "Sindhu, a brave young woman, loves to spread happiness and cheer all around. However, on witnessing injustice, Sindhu takes matters into her own hands."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787679000000,
+    "stopTs": 1787680800000,
+    "title": "Gelathi Gayathri",
+    "desc": "Childhood companions Gayathri and Kaveri reunite after spending many years apart. However, severe personal hardships and unexpected difficulties threaten their bond."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "UdayaTV.in",
+    "channelId": "UdayaTV.in",
+    "channelName": "Udaya TV",
+    "startTs": 1787680800000,
+    "stopTs": 1787682600000,
+    "title": "Mangalya",
+    "desc": "Mayuri, a bold girl raised in poverty, fulfills her duties for a wealthy family as one of their own. However, things become complicated when Tarak, the family&apos;s alcoholic son, marries her."
   }
 ]
