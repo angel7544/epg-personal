@@ -1,918 +1,5 @@
 [
   {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787812200000,
-    "stopTs": 1787814000000,
-    "title": "Corporate Radar",
-    "desc": "Experts share their insights on recent developments in the stock market and its impact."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787814000000,
-    "stopTs": 1787815800000,
-    "title": "Superfast Futures",
-    "desc": "The host invites renowned experts who share their opinions regarding the stock markets."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787815800000,
-    "stopTs": 1787817600000,
-    "title": "Midcap Bazaar",
-    "desc": "Covering mid-cap stocks, the host engages with experts and takes live calls."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787817600000,
-    "stopTs": 1787819400000,
-    "title": "Market Radar",
-    "desc": "The host, joined by market experts, analyses trends and shares key insights."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787819400000,
-    "stopTs": 1787821200000,
-    "title": "Final Trade",
-    "desc": "The host provides deeper insights into the closing values of the financial markets."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787821200000,
-    "stopTs": 1787823000000,
-    "title": "Final Trade",
-    "desc": "The host provides deeper insights into the closing values of the financial markets."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787823000000,
-    "stopTs": 1787824800000,
-    "title": "Final Trade",
-    "desc": "The host provides deeper insights into the closing values of the financial markets."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787824800000,
-    "stopTs": 1787826600000,
-    "title": "Commodity Superfast",
-    "desc": "The host presents the latest news about the stock market and interacts with an expert."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787826600000,
-    "stopTs": 1787828400000,
-    "title": "News Live",
-    "desc": "The host sheds light on the top news updates from across the nation and the world, live."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787828400000,
-    "stopTs": 1787830200000,
-    "title": "Baat Duniya Ki",
-    "desc": "The host presents a discussion on the latest political or socio-economic news update."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787830200000,
-    "stopTs": 1787832000000,
-    "title": "Aapki Khabar, Aapka Fayda",
-    "desc": "The host highlights key financial issues and offers expert guidance on finances."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787832000000,
-    "stopTs": 1787833800000,
-    "title": "Commodities Live",
-    "desc": "The host invites experts to discuss the current state of commodity markets, live."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787833800000,
-    "stopTs": 1787835600000,
-    "title": "News Live",
-    "desc": "The host sheds light on the top news updates from across the nation and the world, live."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787835600000,
-    "stopTs": 1787837400000,
-    "title": "Money Guru",
-    "desc": "The host gives tips on financial planning, budgeting and investment options."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787837400000,
-    "stopTs": 1787839200000,
-    "title": "Khabar Chalisa",
-    "desc": "The host presents daily social, economic, political issues and current event updates."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787839200000,
-    "stopTs": 1787841000000,
-    "title": "Bazar Aaj Aur Kal",
-    "desc": "An expert analyses the performance of financial instruments in the market."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787841000000,
-    "stopTs": 1787842800000,
-    "title": "India 360",
-    "desc": "The host sheds light on the latest news and developments from across the region."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787842800000,
-    "stopTs": 1787844600000,
-    "title": "India 360",
-    "desc": "The host sheds light on the latest news and developments from across the region."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787844600000,
-    "stopTs": 1787846400000,
-    "title": "Khabar Chalisa",
-    "desc": "The host presents daily social, economic, political issues and current event updates."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787846400000,
-    "stopTs": 1787848200000,
-    "title": "Bazar Aaj Aur Kal",
-    "desc": "An expert analyses the performance of financial instruments in the market."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787848200000,
-    "stopTs": 1787850000000,
-    "title": "Money Guru",
-    "desc": "The host gives tips on financial planning, budgeting and investment options."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787850000000,
-    "stopTs": 1787851800000,
-    "title": "Aapki Khabar, Aapka Fayda",
-    "desc": "The host highlights key financial issues and offers expert guidance on finances."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787851800000,
-    "stopTs": 1787853600000,
-    "title": "India 360",
-    "desc": "The host sheds light on the latest news and developments from across the region."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787853600000,
-    "stopTs": 1787855400000,
-    "title": "India 360",
-    "desc": "The host sheds light on the latest news and developments from across the region."
-  },
-  {
-    "start": "18:26",
-    "stop": "18:56",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787855160000,
-    "stopTs": 1787856960000,
-    "title": "Khabar Chalisa",
-    "desc": "The presenter presents the latest news and updates of the day that have been making headlines and also affecting the people."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787855400000,
-    "stopTs": 1787857200000,
-    "title": "Aapki Khabar, Aapka Fayda",
-    "desc": "The host highlights key financial issues and offers expert guidance on finances."
-  },
-  {
-    "start": "18:56",
-    "stop": "19:26",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787856960000,
-    "stopTs": 1787858760000,
-    "title": "Money Guru",
-    "desc": "Join our lively host as they bring you the latest news, important events, and major updates from across the country, all served up fresh and live! Don&apos;t miss out!"
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787857200000,
-    "stopTs": 1787859000000,
-    "title": "Money Guru",
-    "desc": "The host gives tips on financial planning, budgeting and investment options."
-  },
-  {
-    "start": "19:26",
-    "stop": "19:56",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787858760000,
-    "stopTs": 1787860560000,
-    "title": "India 360",
-    "desc": "The host presents the latest news updates and developments pertaining to social issues, business and politics from all over India."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787859000000,
-    "stopTs": 1787860800000,
-    "title": "India 360",
-    "desc": "The host sheds light on the latest news and developments from across the region."
-  },
-  {
-    "start": "19:56",
-    "stop": "20:26",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787860560000,
-    "stopTs": 1787862360000,
-    "title": "India 360",
-    "desc": "The host presents the latest news updates and developments pertaining to social issues, business and politics from all over India."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787860800000,
-    "stopTs": 1787862600000,
-    "title": "India 360",
-    "desc": "The host sheds light on the latest news and developments from across the region."
-  },
-  {
-    "start": "20:26",
-    "stop": "20:56",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787862360000,
-    "stopTs": 1787864160000,
-    "title": "Khabar Chalisa",
-    "desc": "The presenter presents the latest news and updates of the day that have been making headlines and also affecting the people."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787862600000,
-    "stopTs": 1787864400000,
-    "title": "Money Guru",
-    "desc": "The host gives tips on financial planning, budgeting and investment options."
-  },
-  {
-    "start": "20:56",
-    "stop": "21:26",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787864160000,
-    "stopTs": 1787865960000,
-    "title": "Bazar Agle Hafte",
-    "desc": "The host presents an overview of stocks and commodities markets&apos; performance for the week and what can be expected from the markets in the coming week."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787864400000,
-    "stopTs": 1787866200000,
-    "title": "Bazar Aaj Aur Kal",
-    "desc": "An expert analyses the performance of financial instruments in the market."
-  },
-  {
-    "start": "21:26",
-    "stop": "21:56",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787865960000,
-    "stopTs": 1787867760000,
-    "title": "Aapki Khabar, Aapka Fayda",
-    "desc": "The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787866200000,
-    "stopTs": 1787868000000,
-    "title": "Aapki Khabar, Aapka Fayda",
-    "desc": "The host highlights key financial issues and offers expert guidance on finances."
-  },
-  {
-    "start": "21:56",
-    "stop": "22:26",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787867760000,
-    "stopTs": 1787869560000,
-    "title": "India 360",
-    "desc": "The host presents the latest news updates and developments pertaining to social issues, business and politics from all over India."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787868000000,
-    "stopTs": 1787869800000,
-    "title": "India 360",
-    "desc": "The host sheds light on the latest news and developments from across the region."
-  },
-  {
-    "start": "22:26",
-    "stop": "22:56",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787869560000,
-    "stopTs": 1787871360000,
-    "title": "India 360",
-    "desc": "The host presents the latest news updates and developments pertaining to social issues, business and politics from all over India."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787869800000,
-    "stopTs": 1787871600000,
-    "title": "India 360",
-    "desc": "The host sheds light on the latest news and developments from across the region."
-  },
-  {
-    "start": "22:56",
-    "stop": "23:26",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787871360000,
-    "stopTs": 1787873160000,
-    "title": "Bazar Agle Hafte",
-    "desc": "The host presents an overview of stocks and commodities markets&apos; performance for the week and what can be expected from the markets in the coming week."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787871600000,
-    "stopTs": 1787873400000,
-    "title": "Bazar Aaj Aur Kal",
-    "desc": "An expert analyses the performance of financial instruments in the market."
-  },
-  {
-    "start": "23:26",
-    "stop": "23:56",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787873160000,
-    "stopTs": 1787874960000,
-    "title": "Money Guru",
-    "desc": "Join our lively host as they bring you the latest news, important events, and major updates from across the country, all served up fresh and live! Don&apos;t miss out!"
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787873400000,
-    "stopTs": 1787875200000,
-    "title": "Money Guru",
-    "desc": "The host gives tips on financial planning, budgeting and investment options."
-  },
-  {
-    "start": "23:56",
-    "stop": "00:26",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787874960000,
-    "stopTs": 1787876760000,
-    "title": "Aapki Khabar, Aapka Fayda",
-    "desc": "The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787875200000,
-    "stopTs": 1787877000000,
-    "title": "Aapki Khabar, Aapka Fayda",
-    "desc": "The host highlights key financial issues and offers expert guidance on finances."
-  },
-  {
-    "start": "00:26",
-    "stop": "00:56",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787876760000,
-    "stopTs": 1787878560000,
-    "title": "Bazar Agle Hafte",
-    "desc": "The host presents an overview of stocks and commodities markets&apos; performance for the week and what can be expected from the markets in the coming week."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787877000000,
-    "stopTs": 1787878800000,
-    "title": "Bazar Aaj Aur Kal",
-    "desc": "An expert analyses the performance of financial instruments in the market."
-  },
-  {
-    "start": "00:56",
-    "stop": "01:26",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787878560000,
-    "stopTs": 1787880360000,
-    "title": "Money Guru",
-    "desc": "Join our lively host as they bring you the latest news, important events, and major updates from across the country, all served up fresh and live! Don&apos;t miss out!"
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787878800000,
-    "stopTs": 1787880600000,
-    "title": "Money Guru",
-    "desc": "The host gives tips on financial planning, budgeting and investment options."
-  },
-  {
-    "start": "01:26",
-    "stop": "01:56",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787880360000,
-    "stopTs": 1787882160000,
-    "title": "India 360",
-    "desc": "The host presents the latest news updates and developments pertaining to social issues, business and politics from all over India."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787880600000,
-    "stopTs": 1787882400000,
-    "title": "Power Breakfast",
-    "desc": "The hosts analyse the current state and trends of the stock market."
-  },
-  {
-    "start": "01:56",
-    "stop": "02:26",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787882160000,
-    "stopTs": 1787883960000,
-    "title": "India 360",
-    "desc": "The host presents the latest news updates and developments pertaining to social issues, business and politics from all over India."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787882400000,
-    "stopTs": 1787884200000,
-    "title": "Traders&apos; Diary",
-    "desc": "The host interacts with experts who provide guidance related to the stock market."
-  },
-  {
-    "start": "02:26",
-    "stop": "02:56",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787883960000,
-    "stopTs": 1787885760000,
-    "title": "Khabar Chalisa",
-    "desc": "The presenter presents the latest news and updates of the day that have been making headlines and also affecting the people."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787884200000,
-    "stopTs": 1787886000000,
-    "title": "Share Bazaar Live",
-    "desc": "The host invites experts and discusses the latest trends in the stock market, live."
-  },
-  {
-    "start": "02:56",
-    "stop": "03:26",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787885760000,
-    "stopTs": 1787887560000,
-    "title": "Bazar Agle Hafte",
-    "desc": "The host presents an overview of stocks and commodities markets&apos; performance for the week and what can be expected from the markets in the coming week."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787886000000,
-    "stopTs": 1787887800000,
-    "title": "Share Bazaar Live",
-    "desc": "The host invites experts and discusses the latest trends in the stock market, live."
-  },
-  {
-    "start": "03:26",
-    "stop": "03:56",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787887560000,
-    "stopTs": 1787889360000,
-    "title": "Money Guru",
-    "desc": "Join our lively host as they bring you the latest news, important events, and major updates from across the country, all served up fresh and live! Don&apos;t miss out!"
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787887800000,
-    "stopTs": 1787889600000,
-    "title": "First Trade",
-    "desc": "The host provides tips and latest updates from the stock market."
-  },
-  {
-    "start": "03:56",
-    "stop": "04:26",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787889360000,
-    "stopTs": 1787891160000,
-    "title": "Aapki Khabar, Aapka Fayda",
-    "desc": "The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787889600000,
-    "stopTs": 1787891400000,
-    "title": "First Trade",
-    "desc": "The host provides tips and latest updates from the stock market."
-  },
-  {
-    "start": "04:26",
-    "stop": "04:56",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787891160000,
-    "stopTs": 1787892960000,
-    "title": "India 360",
-    "desc": "The host presents the latest news updates and developments pertaining to social issues, business and politics from all over India."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787891400000,
-    "stopTs": 1787893200000,
-    "title": "10 Ki Kamai",
-    "desc": "Financial experts provide stock tips and insights for smart investing."
-  },
-  {
-    "start": "04:56",
-    "stop": "05:26",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787892960000,
-    "stopTs": 1787894760000,
-    "title": "India 360",
-    "desc": "The host presents the latest news updates and developments pertaining to social issues, business and politics from all over India."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787893200000,
-    "stopTs": 1787895000000,
-    "title": "Short Positional Long Midcap Stocks",
-    "desc": "The host invites experts to carry out an in-depth analysis of various mid-cap stocks."
-  },
-  {
-    "start": "05:26",
-    "stop": "05:56",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787894760000,
-    "stopTs": 1787896560000,
-    "title": "Aapki Khabar, Aapka Fayda",
-    "desc": "The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787895000000,
-    "stopTs": 1787896800000,
-    "title": "Stocks Social",
-    "desc": "The host interacts with experts who provide guidance related to the stock market."
-  },
-  {
-    "start": "05:56",
-    "stop": "06:26",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787896560000,
-    "stopTs": 1787898360000,
-    "title": "Money Guru",
-    "desc": "Join our lively host as they bring you the latest news, important events, and major updates from across the country, all served up fresh and live! Don&apos;t miss out!"
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787896800000,
-    "stopTs": 1787898600000,
-    "title": "Commodities Live",
-    "desc": "The host invites experts to discuss the current state of commodity markets, live."
-  },
-  {
-    "start": "06:26",
-    "stop": "06:56",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787898360000,
-    "stopTs": 1787900160000,
-    "title": "Aapki Khabar, Aapka Fayda",
-    "desc": "The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787898600000,
-    "stopTs": 1787900400000,
-    "title": "Corporate Radar",
-    "desc": "Experts share their insights on recent developments in the stock market and its impact."
-  },
-  {
-    "start": "06:56",
-    "stop": "07:26",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787900160000,
-    "stopTs": 1787901960000,
-    "title": "Property Plus",
-    "desc": "Take a look at the latest and popular trends in the real estate industry as well as get helpful tips regarding property loans."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787900400000,
-    "stopTs": 1787902200000,
-    "title": "Superfast Futures",
-    "desc": "The host invites renowned experts who share their opinions regarding the stock markets."
-  },
-  {
-    "start": "07:26",
-    "stop": "07:56",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787901960000,
-    "stopTs": 1787903760000,
-    "title": "Aapki Khabar, Aapka Fayda",
-    "desc": "The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787902200000,
-    "stopTs": 1787904000000,
-    "title": "Midcap Bazaar",
-    "desc": "Covering mid-cap stocks, the host engages with experts and takes live calls."
-  },
-  {
-    "start": "07:56",
-    "stop": "08:26",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787903760000,
-    "stopTs": 1787905560000,
-    "title": "Money Guru",
-    "desc": "Join our lively host as they bring you the latest news, important events, and major updates from across the country, all served up fresh and live! Don&apos;t miss out!"
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787904000000,
-    "stopTs": 1787905800000,
-    "title": "Market Radar",
-    "desc": "The host, joined by market experts, analyses trends and shares key insights."
-  },
-  {
-    "start": "08:26",
-    "stop": "08:56",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787905560000,
-    "stopTs": 1787907360000,
-    "title": "News Live",
-    "desc": "The host presents the latest political and socio-economic news, business updates and developments taking place around the country."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787905800000,
-    "stopTs": 1787907600000,
-    "title": "Final Trade",
-    "desc": "The host provides deeper insights into the closing values of the financial markets."
-  },
-  {
-    "start": "08:56",
-    "stop": "09:26",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787907360000,
-    "stopTs": 1787909160000,
-    "title": "Sme Express",
-    "desc": "The host invites a financial expert who discusses smart investment options that can help one manage money and build savings."
-  },
-  {
     "start": "09:00",
     "stop": "09:30",
     "channel": "ZeeBusiness.in",
@@ -921,7 +8,7 @@
     "startTs": 1787907600000,
     "stopTs": 1787909400000,
     "title": "Final Trade",
-    "desc": "The host provides deeper insights into the closing values of the financial markets."
+    "desc": "The host provides deeper insights into the closing values and status of the financial markets captured during the day&apos;s final trading minutes."
   },
   {
     "start": "09:26",
@@ -943,7 +30,7 @@
     "startTs": 1787909400000,
     "stopTs": 1787911200000,
     "title": "Final Trade",
-    "desc": "The host provides deeper insights into the closing values of the financial markets."
+    "desc": "The host provides deeper insights into the closing values and status of the financial markets captured during the day&apos;s final trading minutes."
   },
   {
     "start": "09:56",
@@ -965,7 +52,7 @@
     "startTs": 1787911200000,
     "stopTs": 1787913000000,
     "title": "Commodity Superfast",
-    "desc": "The host presents the latest news about the stock market and interacts with an expert."
+    "desc": "The host presents the latest news and developments regarding the stock market and an expert addresses the concerns of callers."
   },
   {
     "start": "10:26",
@@ -987,7 +74,7 @@
     "startTs": 1787913000000,
     "stopTs": 1787914800000,
     "title": "News Live",
-    "desc": "The host sheds light on the top news updates from across the nation and the world, live."
+    "desc": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world, live."
   },
   {
     "start": "10:56",
@@ -1009,7 +96,7 @@
     "startTs": 1787914800000,
     "stopTs": 1787916600000,
     "title": "Commodity Roundup- Weekend SPL",
-    "desc": "The host presents the latest value and updates on various commodities and currencies."
+    "desc": "The host presents the latest value and updates on various commodities and currencies as well as discusses their current status with experts."
   },
   {
     "start": "11:26",
@@ -1031,7 +118,7 @@
     "startTs": 1787916600000,
     "stopTs": 1787918400000,
     "title": "Aapki Khabar, Aapka Fayda",
-    "desc": "The host highlights key financial issues and offers expert guidance on finances."
+    "desc": "The host highlights key financial issues, discusses their impact on everyday life and offers expert guidance on managing money, securing savings and maximising benefits."
   },
   {
     "start": "11:56",
@@ -1053,7 +140,7 @@
     "startTs": 1787918400000,
     "stopTs": 1787920200000,
     "title": "Commodities Live",
-    "desc": "The host invites experts to discuss the current state of commodity markets, live."
+    "desc": "The host invites financial experts to shed light on the current state of commodity markets and business opportunities that may interest prospective investors, live."
   },
   {
     "start": "12:26",
@@ -1075,7 +162,7 @@
     "startTs": 1787920200000,
     "stopTs": 1787922000000,
     "title": "News Live",
-    "desc": "The host sheds light on the top news updates from across the nation and the world, live."
+    "desc": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world, live."
   },
   {
     "start": "12:56",
@@ -1097,7 +184,7 @@
     "startTs": 1787922000000,
     "stopTs": 1787923800000,
     "title": "Money Guru",
-    "desc": "The host gives tips on financial planning, budgeting and investment options."
+    "desc": "The host gives tips and insights on financial planning, reviewing of expenses, budgeting, retirement plans and investment options that one can benefit from."
   },
   {
     "start": "13:26",
@@ -1119,7 +206,7 @@
     "startTs": 1787923800000,
     "stopTs": 1787925600000,
     "title": "Khabar Chalisa",
-    "desc": "The host presents daily social, economic, political issues and current event updates."
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "start": "13:56",
@@ -1141,7 +228,7 @@
     "startTs": 1787925600000,
     "stopTs": 1787927400000,
     "title": "Bazar Agle Hafte",
-    "desc": "The host talks to experts about next week&apos;s stock market predictions and performance."
+    "desc": "The host interacts with business experts to discuss stock market performance and predictions, as well as investment opportunities for the week ahead."
   },
   {
     "start": "14:26",
@@ -1163,7 +250,7 @@
     "startTs": 1787927400000,
     "stopTs": 1787929200000,
     "title": "India 360",
-    "desc": "The host sheds light on the latest news and developments from across the region."
+    "desc": "The host delivers a detailed report on the latest news stories and recent updates on crucial matters such as governance, economics, socio-political issues across India."
   },
   {
     "start": "14:56",
@@ -1185,7 +272,7 @@
     "startTs": 1787929200000,
     "stopTs": 1787931000000,
     "title": "India 360",
-    "desc": "The host sheds light on the latest news and developments from across the region."
+    "desc": "The host delivers a detailed report on the latest news stories and recent updates on crucial matters such as governance, economics, socio-political issues across India."
   },
   {
     "start": "15:26",
@@ -1207,7 +294,7 @@
     "startTs": 1787931000000,
     "stopTs": 1787932800000,
     "title": "Khabar Chalisa",
-    "desc": "The host presents daily social, economic, political issues and current event updates."
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "start": "15:56",
@@ -1229,7 +316,7 @@
     "startTs": 1787932800000,
     "stopTs": 1787934600000,
     "title": "Bazar Agle Hafte",
-    "desc": "The host talks to experts about next week&apos;s stock market predictions and performance."
+    "desc": "The host interacts with business experts to discuss stock market performance and predictions, as well as investment opportunities for the week ahead."
   },
   {
     "start": "16:26",
@@ -1251,7 +338,7 @@
     "startTs": 1787934600000,
     "stopTs": 1787936400000,
     "title": "Money Guru",
-    "desc": "The host gives tips on financial planning, budgeting and investment options."
+    "desc": "The host gives tips and insights on financial planning, reviewing of expenses, budgeting, retirement plans and investment options that one can benefit from."
   },
   {
     "start": "16:56",
@@ -1273,7 +360,7 @@
     "startTs": 1787936400000,
     "stopTs": 1787938200000,
     "title": "Aapki Khabar, Aapka Fayda",
-    "desc": "The host highlights key financial issues and offers expert guidance on finances."
+    "desc": "The host highlights key financial issues, discusses their impact on everyday life and offers expert guidance on managing money, securing savings and maximising benefits."
   },
   {
     "start": "17:26",
@@ -1288,14 +375,14 @@
   },
   {
     "start": "17:30",
-    "stop": "18:00",
+    "stop": "18:26",
     "channel": "ZeeBusiness.in",
     "channelId": "ZeeBusiness.in",
     "channelName": "Zee Business",
     "startTs": 1787938200000,
-    "stopTs": 1787940000000,
+    "stopTs": 1787941560000,
     "title": "India 360",
-    "desc": "The host sheds light on the latest news and developments from across the region."
+    "desc": "The host delivers a detailed report on the latest news stories and recent updates on crucial matters such as governance, economics, socio-political issues across India."
   },
   {
     "start": "17:56",
@@ -1307,17 +394,6 @@
     "stopTs": 1787941560000,
     "title": "India 360",
     "desc": "The host presents the latest news updates and developments pertaining to social issues, business and politics from all over India."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "ZeeBusiness.in",
-    "channelId": "ZeeBusiness.in",
-    "channelName": "Zee Business",
-    "startTs": 1787940000000,
-    "stopTs": 1787941800000,
-    "title": "India 360",
-    "desc": "The host sheds light on the latest news and developments from across the region."
   },
   {
     "start": "18:26",
@@ -1613,6 +689,578 @@
     "channelName": "Zee Business",
     "startTs": 1787988360000,
     "stopTs": 1787990160000,
+    "title": "News Live",
+    "desc": "The host presents the latest political and socio-economic news, business updates and developments taking place around the country."
+  },
+  {
+    "start": "07:56",
+    "stop": "08:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1787990160000,
+    "stopTs": 1787991960000,
+    "title": "Aapki Khabar, Aapka Fayda",
+    "desc": "The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man."
+  },
+  {
+    "start": "08:26",
+    "stop": "08:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1787991960000,
+    "stopTs": 1787993760000,
+    "title": "Money Guru",
+    "desc": "Join our lively host as they bring you the latest news, important events, and major updates from across the country, all served up fresh and live! Don&apos;t miss out!"
+  },
+  {
+    "start": "08:56",
+    "stop": "09:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1787993760000,
+    "stopTs": 1787995560000,
+    "title": "Bazar Agle Hafte",
+    "desc": "The host presents an overview of stocks and commodities markets&apos; performance for the week and what can be expected from the markets in the coming week."
+  },
+  {
+    "start": "09:26",
+    "stop": "09:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1787995560000,
+    "stopTs": 1787997360000,
+    "title": "News Live",
+    "desc": "The host presents the latest political and socio-economic news, business updates and developments taking place around the country."
+  },
+  {
+    "start": "09:56",
+    "stop": "10:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1787997360000,
+    "stopTs": 1787999160000,
+    "title": "Aapki Khabar, Aapka Fayda",
+    "desc": "The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man."
+  },
+  {
+    "start": "10:26",
+    "stop": "10:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1787999160000,
+    "stopTs": 1788000960000,
+    "title": "Money Guru",
+    "desc": "Join our lively host as they bring you the latest news, important events, and major updates from across the country, all served up fresh and live! Don&apos;t miss out!"
+  },
+  {
+    "start": "10:56",
+    "stop": "11:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788000960000,
+    "stopTs": 1788002760000,
+    "title": "Sme Express",
+    "desc": "The host invites a financial expert who discusses smart investment options that can help one manage money and build savings."
+  },
+  {
+    "start": "11:26",
+    "stop": "11:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788002760000,
+    "stopTs": 1788004560000,
+    "title": "News Live",
+    "desc": "The host presents the latest political and socio-economic news, business updates and developments taking place around the country."
+  },
+  {
+    "start": "11:56",
+    "stop": "12:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788004560000,
+    "stopTs": 1788006360000,
+    "title": "Grip: Visionary Leaders",
+    "desc": "Special Programme"
+  },
+  {
+    "start": "12:26",
+    "stop": "12:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788006360000,
+    "stopTs": 1788008160000,
+    "title": "Zeegnition",
+    "desc": "The host presents the most recent news and updates from the world of automobiles with a focus on the latest models of bikes and cars."
+  },
+  {
+    "start": "12:56",
+    "stop": "13:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788008160000,
+    "stopTs": 1788009960000,
+    "title": "Jito: Pagariya Jbn Mahakumbh",
+    "desc": "Special Programme"
+  },
+  {
+    "start": "13:26",
+    "stop": "13:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788009960000,
+    "stopTs": 1788011760000,
+    "title": "News Live",
+    "desc": "The host presents the latest political and socio-economic news, business updates and developments taking place around the country."
+  },
+  {
+    "start": "13:56",
+    "stop": "14:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788011760000,
+    "stopTs": 1788013560000,
+    "title": "Commodity Roundup",
+    "desc": "A daily commodity special brings out all the action from the world of commodities, from edible commodities to metals to crude oil and more."
+  },
+  {
+    "start": "14:26",
+    "stop": "14:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788013560000,
+    "stopTs": 1788015360000,
+    "title": "Sme Express",
+    "desc": "The host invites a financial expert who discusses smart investment options that can help one manage money and build savings."
+  },
+  {
+    "start": "14:56",
+    "stop": "15:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788015360000,
+    "stopTs": 1788017160000,
+    "title": "Aapki Khabar, Aapka Fayda",
+    "desc": "The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man."
+  },
+  {
+    "start": "15:26",
+    "stop": "15:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788017160000,
+    "stopTs": 1788018960000,
+    "title": "Zeegnition",
+    "desc": "The host presents the most recent news and updates from the world of automobiles with a focus on the latest models of bikes and cars."
+  },
+  {
+    "start": "15:56",
+    "stop": "16:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788018960000,
+    "stopTs": 1788020760000,
+    "title": "Bazar Agle Hafte",
+    "desc": "The host presents an overview of stocks and commodities markets&apos; performance for the week and what can be expected from the markets in the coming week."
+  },
+  {
+    "start": "16:26",
+    "stop": "16:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788020760000,
+    "stopTs": 1788022560000,
+    "title": "Money Guru",
+    "desc": "Join our lively host as they bring you the latest news, important events, and major updates from across the country, all served up fresh and live! Don&apos;t miss out!"
+  },
+  {
+    "start": "16:56",
+    "stop": "17:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788022560000,
+    "stopTs": 1788024360000,
+    "title": "Baat Duniya Ki",
+    "desc": "The host presents a detailed discussion and analysis on the latest and the most important political or socio-economic news update from around the world."
+  },
+  {
+    "start": "17:26",
+    "stop": "17:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788024360000,
+    "stopTs": 1788026160000,
+    "title": "Property Plus",
+    "desc": "Take a look at the latest and popular trends in the real estate industry as well as get helpful tips regarding property loans."
+  },
+  {
+    "start": "17:56",
+    "stop": "18:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788026160000,
+    "stopTs": 1788027960000,
+    "title": "Money Guru",
+    "desc": "Join our lively host as they bring you the latest news, important events, and major updates from across the country, all served up fresh and live! Don&apos;t miss out!"
+  },
+  {
+    "start": "18:26",
+    "stop": "18:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788027960000,
+    "stopTs": 1788029760000,
+    "title": "Khabar Chalisa",
+    "desc": "The presenter presents the latest news and updates of the day that have been making headlines and also affecting the people."
+  },
+  {
+    "start": "18:56",
+    "stop": "19:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788029760000,
+    "stopTs": 1788031560000,
+    "title": "Zeegnition",
+    "desc": "The host presents the most recent news and updates from the world of automobiles with a focus on the latest models of bikes and cars."
+  },
+  {
+    "start": "19:26",
+    "stop": "19:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788031560000,
+    "stopTs": 1788033360000,
+    "title": "Baat Duniya Ki",
+    "desc": "The host presents a detailed discussion and analysis on the latest and the most important political or socio-economic news update from around the world."
+  },
+  {
+    "start": "19:56",
+    "stop": "20:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788033360000,
+    "stopTs": 1788035160000,
+    "title": "Bazar Agle Hafte",
+    "desc": "The host presents an overview of stocks and commodities markets&apos; performance for the week and what can be expected from the markets in the coming week."
+  },
+  {
+    "start": "20:26",
+    "stop": "20:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788035160000,
+    "stopTs": 1788036960000,
+    "title": "Property Plus",
+    "desc": "Take a look at the latest and popular trends in the real estate industry as well as get helpful tips regarding property loans."
+  },
+  {
+    "start": "20:56",
+    "stop": "21:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788036960000,
+    "stopTs": 1788038760000,
+    "title": "Aapki Khabar, Aapka Fayda",
+    "desc": "The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man."
+  },
+  {
+    "start": "21:26",
+    "stop": "21:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788038760000,
+    "stopTs": 1788040560000,
+    "title": "Money Guru",
+    "desc": "Join our lively host as they bring you the latest news, important events, and major updates from across the country, all served up fresh and live! Don&apos;t miss out!"
+  },
+  {
+    "start": "21:56",
+    "stop": "22:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788040560000,
+    "stopTs": 1788042360000,
+    "title": "Aapki Khabar, Aapka Fayda",
+    "desc": "The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man."
+  },
+  {
+    "start": "22:26",
+    "stop": "22:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788042360000,
+    "stopTs": 1788044160000,
+    "title": "Zeegnition",
+    "desc": "The host presents the most recent news and updates from the world of automobiles with a focus on the latest models of bikes and cars."
+  },
+  {
+    "start": "22:56",
+    "stop": "23:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788044160000,
+    "stopTs": 1788045960000,
+    "title": "Bazar Agle Hafte",
+    "desc": "The host presents an overview of stocks and commodities markets&apos; performance for the week and what can be expected from the markets in the coming week."
+  },
+  {
+    "start": "23:26",
+    "stop": "23:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788045960000,
+    "stopTs": 1788047760000,
+    "title": "Baat Duniya Ki",
+    "desc": "The host presents a detailed discussion and analysis on the latest and the most important political or socio-economic news update from around the world."
+  },
+  {
+    "start": "23:56",
+    "stop": "00:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788047760000,
+    "stopTs": 1788049560000,
+    "title": "Aapki Khabar, Aapka Fayda",
+    "desc": "The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man."
+  },
+  {
+    "start": "00:26",
+    "stop": "00:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788049560000,
+    "stopTs": 1788051360000,
+    "title": "Sme Express",
+    "desc": "The host invites a financial expert who discusses smart investment options that can help one manage money and build savings."
+  },
+  {
+    "start": "00:56",
+    "stop": "01:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788051360000,
+    "stopTs": 1788053160000,
+    "title": "Property Plus",
+    "desc": "Take a look at the latest and popular trends in the real estate industry as well as get helpful tips regarding property loans."
+  },
+  {
+    "start": "01:26",
+    "stop": "01:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788053160000,
+    "stopTs": 1788054960000,
+    "title": "Money Guru",
+    "desc": "Join our lively host as they bring you the latest news, important events, and major updates from across the country, all served up fresh and live! Don&apos;t miss out!"
+  },
+  {
+    "start": "01:56",
+    "stop": "02:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788054960000,
+    "stopTs": 1788056760000,
+    "title": "Zeegnition",
+    "desc": "The host presents the most recent news and updates from the world of automobiles with a focus on the latest models of bikes and cars."
+  },
+  {
+    "start": "02:26",
+    "stop": "02:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788056760000,
+    "stopTs": 1788058560000,
+    "title": "Sme Express",
+    "desc": "The host invites a financial expert who discusses smart investment options that can help one manage money and build savings."
+  },
+  {
+    "start": "02:56",
+    "stop": "03:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788058560000,
+    "stopTs": 1788060360000,
+    "title": "Commodity Roundup",
+    "desc": "A daily commodity special brings out all the action from the world of commodities, from edible commodities to metals to crude oil and more."
+  },
+  {
+    "start": "03:26",
+    "stop": "03:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788060360000,
+    "stopTs": 1788062160000,
+    "title": "Property Plus",
+    "desc": "Take a look at the latest and popular trends in the real estate industry as well as get helpful tips regarding property loans."
+  },
+  {
+    "start": "03:56",
+    "stop": "04:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788062160000,
+    "stopTs": 1788063960000,
+    "title": "Jito: Pagariya Jbn Mahakumbh",
+    "desc": "Special Programme"
+  },
+  {
+    "start": "04:26",
+    "stop": "04:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788063960000,
+    "stopTs": 1788065760000,
+    "title": "Money Guru",
+    "desc": "Join our lively host as they bring you the latest news, important events, and major updates from across the country, all served up fresh and live! Don&apos;t miss out!"
+  },
+  {
+    "start": "04:56",
+    "stop": "05:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788065760000,
+    "stopTs": 1788067560000,
+    "title": "Bazar Agle Hafte",
+    "desc": "The host presents an overview of stocks and commodities markets&apos; performance for the week and what can be expected from the markets in the coming week."
+  },
+  {
+    "start": "05:26",
+    "stop": "05:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788067560000,
+    "stopTs": 1788069360000,
+    "title": "News Live",
+    "desc": "The host presents the latest political and socio-economic news, business updates and developments taking place around the country."
+  },
+  {
+    "start": "05:56",
+    "stop": "06:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788069360000,
+    "stopTs": 1788071160000,
+    "title": "Icai: Cfo Forum",
+    "desc": "A host chats with business experts about stock market trends, forecasts, and smart investment chances for the upcoming week, aimed at helping viewers decide wisely."
+  },
+  {
+    "start": "06:26",
+    "stop": "06:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788071160000,
+    "stopTs": 1788072960000,
+    "title": "Property Plus",
+    "desc": "Take a look at the latest and popular trends in the real estate industry as well as get helpful tips regarding property loans."
+  },
+  {
+    "start": "06:56",
+    "stop": "07:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788072960000,
+    "stopTs": 1788074760000,
+    "title": "Baat Duniya Ki",
+    "desc": "The host presents a detailed discussion and analysis on the latest and the most important political or socio-economic news update from around the world."
+  },
+  {
+    "start": "07:26",
+    "stop": "07:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788074760000,
+    "stopTs": 1788076560000,
+    "title": "News Live",
+    "desc": "The host presents the latest political and socio-economic news, business updates and developments taking place around the country."
+  },
+  {
+    "start": "07:56",
+    "stop": "08:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788076560000,
+    "stopTs": 1788078360000,
+    "title": "Money Guru",
+    "desc": "Join our lively host as they bring you the latest news, important events, and major updates from across the country, all served up fresh and live! Don&apos;t miss out!"
+  },
+  {
+    "start": "08:26",
+    "stop": "08:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788078360000,
+    "stopTs": 1788080160000,
+    "title": "Aapki Khabar, Aapka Fayda",
+    "desc": "The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man."
+  },
+  {
+    "start": "08:56",
+    "stop": "09:26",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788080160000,
+    "stopTs": 1788081960000,
+    "title": "Property Plus",
+    "desc": "Take a look at the latest and popular trends in the real estate industry as well as get helpful tips regarding property loans."
+  },
+  {
+    "start": "09:26",
+    "stop": "09:56",
+    "channel": "ZeeBusiness.in",
+    "channelId": "ZeeBusiness.in",
+    "channelName": "Zee Business",
+    "startTs": 1788081960000,
+    "stopTs": 1788083760000,
     "title": "News Live",
     "desc": "The host presents the latest political and socio-economic news, business updates and developments taking place around the country."
   }
