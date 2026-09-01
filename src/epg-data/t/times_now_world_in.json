@@ -1,38 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World HD",
-    "startTs": 1788231600000,
-    "stopTs": 1788233400000,
-    "title": "The Morning Newshour",
-    "desc": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World HD",
-    "startTs": 1788233400000,
-    "stopTs": 1788237000000,
-    "title": "The Morning Newshour",
-    "desc": "The host presents the latest news updates and happenings related to various topics along with hard facts."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World HD",
-    "startTs": 1788235200000,
-    "stopTs": 1788237000000,
-    "title": "The Morning Newshour",
-    "desc": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world."
-  },
-  {
     "start": "04:30",
     "stop": "06:00",
     "channel": "TimesNowWorld.in",
@@ -900,5 +867,16 @@
     "stopTs": 1788409800000,
     "title": "The Morning Newshour",
     "desc": "The host presents the latest news updates and happenings related to various topics along with hard facts."
+  },
+  {
+    "start": "04:30",
+    "stop": "06:00",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1788409800000,
+    "stopTs": 1788415200000,
+    "title": "Times Now Live",
+    "desc": "A live show covering news from different region."
   }
 ]

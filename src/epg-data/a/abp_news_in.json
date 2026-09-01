@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1788231600000,
-    "stopTs": 1788233400000,
-    "title": "Namaste Bharat",
-    "desc": "Presenting the latest updates and developments on various pressing issues from across the country, including the people behind them."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1788233400000,
-    "stopTs": 1788235200000,
-    "title": "9 Second Mein News",
-    "desc": "The host delivers breaking news along with the latest political and socio-economic updates, providing a quick and comprehensive snapshot of current events."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1788235200000,
-    "stopTs": 1788237000000,
-    "title": "9 Second Mein News",
-    "desc": "The host delivers breaking news along with the latest political and socio-economic updates, providing a quick and comprehensive snapshot of current events."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1788237000000,
-    "stopTs": 1788238800000,
-    "title": "Aagey Ka Agenda",
-    "desc": "The host presents a detailed report on prevailing socio-political issues, exploring their impact, root causes, and the discourse surrounding them."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "ABPNews.in",
@@ -52,7 +8,7 @@
     "startTs": 1788238800000,
     "stopTs": 1788240600000,
     "title": "Aagey Ka Agenda",
-    "desc": "The host presents a detailed report on prevailing socio-political issues, exploring their impact, root causes, and the discourse surrounding them."
+    "desc": "Presents analysis on recent political affairs as well as special interviews."
   },
   {
     "start": "05:30",
@@ -1109,5 +1065,49 @@
     "stopTs": 1788408000000,
     "title": "9 Second Mein News",
     "desc": "The host delivers breaking news along with the latest political and socio-economic updates, providing a quick and comprehensive snapshot of current events."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1788408000000,
+    "stopTs": 1788409800000,
+    "title": "9 Second Mein News",
+    "desc": "The host delivers breaking news along with the latest political and socio-economic updates, providing a quick and comprehensive snapshot of current events."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1788409800000,
+    "stopTs": 1788411600000,
+    "title": "Aagey Ka Agenda",
+    "desc": "The host presents a detailed report on prevailing socio-political issues, exploring their impact, root causes, and the discourse surrounding them."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1788411600000,
+    "stopTs": 1788413400000,
+    "title": "Aagey Ka Agenda",
+    "desc": "The host presents a detailed report on prevailing socio-political issues, exploring their impact, root causes, and the discourse surrounding them."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1788413400000,
+    "stopTs": 1788415200000,
+    "title": "ABP Reporter",
+    "desc": "A two-anchor news show where stories are presented with a clear agenda, focusing on in-depth coverage, analysis, and diverse viewpoints on current events."
   }
 ]

@@ -1,38 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "PratidinTime.in",
-    "channelId": "PratidinTime.in",
-    "channelName": "Pratidin Time",
-    "startTs": 1788231600000,
-    "stopTs": 1788233400000,
-    "title": "Pratha Sangbad",
-    "desc": "The host presents the latest news stories, important developments and major updates that impact the people living in the state."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "PratidinTime.in",
-    "channelId": "PratidinTime.in",
-    "channelName": "Pratidin Time",
-    "startTs": 1788233400000,
-    "stopTs": 1788237000000,
-    "title": "Morning Prime",
-    "desc": "Your morning news bulletin to catch up on the main news stories of the day gone by."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "PratidinTime.in",
-    "channelId": "PratidinTime.in",
-    "channelName": "Pratidin Time",
-    "startTs": 1788237000000,
-    "stopTs": 1788238800000,
-    "title": "Special Programme",
-    "desc": "Exclusive coverage on significant topics, offering in-depth insights and analysis for viewers&apos; understanding."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "PratidinTime.in",
@@ -41,7 +8,7 @@
     "startTs": 1788238800000,
     "stopTs": 1788240600000,
     "title": "Khobor Ek Nazar",
-    "desc": "A quick roundup of news headlines, evening bulletins, dynamic political updates, market snapshots, and essential global stories summarized rapidly for audiences on the move every day."
+    "desc": "The host presents the latest updates and developments pertaining to various political and socio-economic issues across the nation."
   },
   {
     "start": "05:30",
@@ -680,5 +647,38 @@
     "stopTs": 1788409800000,
     "title": "Morning Prime",
     "desc": "Your morning news bulletin to catch up on the main news stories of the day gone by."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "PratidinTime.in",
+    "channelId": "PratidinTime.in",
+    "channelName": "Pratidin Time",
+    "startTs": 1788409800000,
+    "stopTs": 1788411600000,
+    "title": "Jankar",
+    "desc": "Engaging news program providing insights into local happenings, politics, and community affairs."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "PratidinTime.in",
+    "channelId": "PratidinTime.in",
+    "channelName": "Pratidin Time",
+    "startTs": 1788411600000,
+    "stopTs": 1788413400000,
+    "title": "Khobor Ek Nazar",
+    "desc": "A quick roundup of news headlines, evening bulletins, dynamic political updates, market snapshots, and essential global stories summarized rapidly for audiences on the move every day."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "PratidinTime.in",
+    "channelId": "PratidinTime.in",
+    "channelName": "Pratidin Time",
+    "startTs": 1788413400000,
+    "stopTs": 1788417000000,
+    "title": "Khabor Eakghonta",
+    "desc": "Hourly news bulletin offering concise updates on various topics and events in Assamese."
   }
 ]

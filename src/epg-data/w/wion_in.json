@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "WION.in",
-    "channelId": "WION.in",
-    "channelName": "WION",
-    "startTs": 1788231600000,
-    "stopTs": 1788233400000,
-    "title": "Speed News",
-    "desc": "The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "WION.in",
-    "channelId": "WION.in",
-    "channelName": "WION",
-    "startTs": 1788233400000,
-    "stopTs": 1788235200000,
-    "title": "Top Stories",
-    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "WION.in",
-    "channelId": "WION.in",
-    "channelName": "WION",
-    "startTs": 1788235200000,
-    "stopTs": 1788237000000,
-    "title": "World Business Watch",
-    "desc": "Join our host as they break down the latest business and economic news from around the globe, making sense of the headlines and keeping you in the loop."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "WION.in",
-    "channelId": "WION.in",
-    "channelName": "WION",
-    "startTs": 1788237000000,
-    "stopTs": 1788238800000,
-    "title": "Top Stories",
-    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "WION.in",
@@ -51,8 +7,8 @@
     "channelName": "WION",
     "startTs": 1788238800000,
     "stopTs": 1788240600000,
-    "title": "World At War",
-    "desc": "The host discusses the ongoing Ukraine war and global unrest, examining its impact on governments and the public, and the broader implications for international stability."
+    "title": "World at War",
+    "desc": "The host sheds light on various uprisings and instances of unrest by discussing its effects on government and the public."
   },
   {
     "start": "05:30",
@@ -1076,5 +1032,49 @@
     "stopTs": 1788408000000,
     "title": "Top Stories",
     "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "WION.in",
+    "channelId": "WION.in",
+    "channelName": "WION",
+    "startTs": 1788408000000,
+    "stopTs": 1788409800000,
+    "title": "World Business Watch",
+    "desc": "Join our host as they break down the latest business and economic news from around the globe, making sense of the headlines and keeping you in the loop."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "WION.in",
+    "channelId": "WION.in",
+    "channelName": "WION",
+    "startTs": 1788409800000,
+    "stopTs": 1788411600000,
+    "title": "Top Stories",
+    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "WION.in",
+    "channelId": "WION.in",
+    "channelName": "WION",
+    "startTs": 1788411600000,
+    "stopTs": 1788413400000,
+    "title": "Wion Wideangle",
+    "desc": "The host presents an in-depth analysis of a particular issue that has been raising concerns within the state and talks to the locals to get their take on the matter."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "WION.in",
+    "channelId": "WION.in",
+    "channelName": "WION",
+    "startTs": 1788413400000,
+    "stopTs": 1788415200000,
+    "title": "Newspoint",
+    "desc": "Tune in as the host shares the latest updates and highlights from around the globe, keeping you in the loop on all the important happenings you won&apos;t want to miss!"
   }
 ]

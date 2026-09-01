@@ -1,38 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1788231600000,
-    "stopTs": 1788233400000,
-    "title": "Morning Super Prime Time",
-    "desc": "The host presents the latest news stories and major developments in governance, social, economic, sports, and political matters that impact people worldwide."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1788233400000,
-    "stopTs": 1788237000000,
-    "title": "Morning Super Prime Time",
-    "desc": "The anchor presents the latest news and developments across various topics and fields, covering important updates from both state and national levels to keep viewers informed."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "TV9Bangla.in",
-    "channelId": "TV9Bangla.in",
-    "channelName": "TV9 Bangla",
-    "startTs": 1788237000000,
-    "stopTs": 1788238800000,
-    "title": "Damdar Dosh",
-    "desc": "A news bulletin highlighting the most important political, social, and regional events. Stay updated with top stories and breaking news from across Bengal and beyond."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "TV9Bangla.in",
@@ -41,7 +8,7 @@
     "startTs": 1788238800000,
     "stopTs": 1788240600000,
     "title": "Morning Super Prime Time",
-    "desc": "The anchor presents the latest news and developments across various topics and fields, covering important updates from both state and national levels to keep viewers informed."
+    "desc": "The host presents the latest news stories and major developments in governance, social, economic, sports, and political matters that impact people worldwide."
   },
   {
     "start": "05:30",
@@ -975,6 +942,39 @@
     "channelName": "TV9 Bangla",
     "startTs": 1788406200000,
     "stopTs": 1788409800000,
+    "title": "Morning Super Prime Time",
+    "desc": "The anchor presents the latest news and developments across various topics and fields, covering important updates from both state and national levels to keep viewers informed."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1788409800000,
+    "stopTs": 1788411600000,
+    "title": "Damdar Dosh",
+    "desc": "A news bulletin highlighting the most important political, social, and regional events. Stay updated with top stories and breaking news from across Bengal and beyond."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1788411600000,
+    "stopTs": 1788413400000,
+    "title": "Morning Super Prime Time",
+    "desc": "The anchor presents the latest news and developments across various topics and fields, covering important updates from both state and national levels to keep viewers informed."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "TV9Bangla.in",
+    "channelId": "TV9Bangla.in",
+    "channelName": "TV9 Bangla",
+    "startTs": 1788413400000,
+    "stopTs": 1788415200000,
     "title": "Morning Super Prime Time",
     "desc": "The anchor presents the latest news and developments across various topics and fields, covering important updates from both state and national levels to keep viewers informed."
   }

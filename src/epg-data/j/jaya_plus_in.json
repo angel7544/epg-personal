@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1788231600000,
-    "stopTs": 1788233400000,
-    "title": "Achum Asalum",
-    "desc": "The host engages in conversation with various guests to discuss political debates, social issues and major news events centred on Tamil Nadu politics."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1788233400000,
-    "stopTs": 1788235200000,
-    "title": "9 Am News",
-    "desc": "The host presents the most recent news, updates and developments from India and around the world at 9am."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1788235200000,
-    "stopTs": 1788237000000,
-    "title": "9 Am News",
-    "desc": "The host presents the most recent news, updates and developments from India and around the world at 9am."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "JayaPlus.in",
-    "channelId": "JayaPlus.in",
-    "channelName": "Jaya Plus",
-    "startTs": 1788237000000,
-    "stopTs": 1788238800000,
-    "title": "10 Am News",
-    "desc": "The presenter provides a round-up of recent news stories, events, updates and developments on current issues."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "JayaPlus.in",
@@ -51,8 +7,8 @@
     "channelName": "Jaya Plus",
     "startTs": 1788238800000,
     "stopTs": 1788240600000,
-    "title": "10 Am News",
-    "desc": "The presenter provides a round-up of recent news stories, events, updates and developments on current issues."
+    "title": "10 AM News",
+    "desc": "The anchor presents the latest news updates from the world of politics, economics, entertainment and sports in a detailed manner."
   },
   {
     "start": "05:30",
@@ -1076,5 +1032,49 @@
     "stopTs": 1788408000000,
     "title": "9 Am News",
     "desc": "The host presents the most recent news, updates and developments from India and around the world at 9am."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1788408000000,
+    "stopTs": 1788409800000,
+    "title": "9 Am News",
+    "desc": "The host presents the most recent news, updates and developments from India and around the world at 9am."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1788409800000,
+    "stopTs": 1788411600000,
+    "title": "10 Am News",
+    "desc": "The presenter provides a round-up of recent news stories, events, updates and developments on current issues."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1788411600000,
+    "stopTs": 1788413400000,
+    "title": "10 Am News",
+    "desc": "The presenter provides a round-up of recent news stories, events, updates and developments on current issues."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "JayaPlus.in",
+    "channelId": "JayaPlus.in",
+    "channelName": "Jaya Plus",
+    "startTs": 1788413400000,
+    "stopTs": 1788415200000,
+    "title": "11 Am News",
+    "desc": "The host presents the most recent news, updates and developments from India and around the world at 11am."
   }
 ]

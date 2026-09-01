@@ -1,27 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "04:30",
-    "channel": "ShowBox.in",
-    "channelId": "ShowBox.in",
-    "channelName": "Showbox",
-    "startTs": 1788229800000,
-    "stopTs": 1788237000000,
-    "title": "Superhit Mornings",
-    "desc": "Popular songs by some of the most talented singers and music artists are played in quick succession for music enthusiasts."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "ShowBox.in",
-    "channelId": "ShowBox.in",
-    "channelName": "Showbox",
-    "startTs": 1788233400000,
-    "stopTs": 1788237000000,
-    "title": "Morning Dil Se",
-    "desc": "A soulful morning broadcast blending powerful orchestral harmonies with heartfelt melodies, setting an inspiring and uplifting tone to energize listeners at the start of every new day."
-  },
-  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "ShowBox.in",
@@ -29,8 +7,8 @@
     "channelName": "Showbox",
     "startTs": 1788237000000,
     "stopTs": 1788240600000,
-    "title": "Breakless Breakfast",
-    "desc": "An energizing morning musical show featuring a continuous, uninterrupted lineup of popular chartbusters and foot-tapping tracks to kickstart your day on a lively note."
+    "title": "Superhit Mornings",
+    "desc": "Popular songs by some of the most talented singers and music artists are played in quick succession for music enthusiasts."
   },
   {
     "start": "05:30",
@@ -856,5 +834,38 @@
     "stopTs": 1788408000000,
     "title": "Morning Dil Se",
     "desc": "A soulful morning broadcast blending powerful orchestral harmonies with heartfelt melodies, setting an inspiring and uplifting tone to energize listeners at the start of every new day."
+  },
+  {
+    "start": "04:00",
+    "stop": "05:00",
+    "channel": "ShowBox.in",
+    "channelId": "ShowBox.in",
+    "channelName": "Showbox",
+    "startTs": 1788408000000,
+    "stopTs": 1788411600000,
+    "title": "Reel Top 10",
+    "desc": "A countdown show featuring the top 10 trending film songs, scenes, and stars of the week, offering quick entertainment for cinema lovers."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "ShowBox.in",
+    "channelId": "ShowBox.in",
+    "channelName": "Showbox",
+    "startTs": 1788411600000,
+    "stopTs": 1788413400000,
+    "title": "Breakless Breakfast",
+    "desc": "An energizing morning musical show featuring a continuous, uninterrupted lineup of popular chartbusters and foot-tapping tracks to kickstart your day on a lively note."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "ShowBox.in",
+    "channelId": "ShowBox.in",
+    "channelName": "Showbox",
+    "startTs": 1788413400000,
+    "stopTs": 1788417000000,
+    "title": "Sunrise 90&apos;s",
+    "desc": "A nostalgic musical journey revisiting the iconic hits, chart-topping melodies, and golden soundtracks of the 90s, celebrating the unforgettable era of vibrant rhythms and timeless songs."
   }
 ]

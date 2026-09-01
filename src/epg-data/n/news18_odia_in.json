@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "News18Odia.in",
-    "channelId": "News18Odia.in",
-    "channelName": "News18 Odia",
-    "startTs": 1788231600000,
-    "stopTs": 1788233400000,
-    "title": "Khabar Fatafat",
-    "desc": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "News18Odia.in",
-    "channelId": "News18Odia.in",
-    "channelName": "News18 Odia",
-    "startTs": 1788233400000,
-    "stopTs": 1788235200000,
-    "title": "Aamari Odisha",
-    "desc": "Explore Odisha&apos;s charm with Aamari Odisha&apos;s cultural highlights and stories."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "News18Odia.in",
-    "channelId": "News18Odia.in",
-    "channelName": "News18 Odia",
-    "startTs": 1788235200000,
-    "stopTs": 1788237000000,
-    "title": "Khabar Fatafat",
-    "desc": "A quick, no-nonsense bulletin delivering the top headlines from politics, business, sports, and entertainment in a fast-paced format."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "News18Odia.in",
-    "channelId": "News18Odia.in",
-    "channelName": "News18 Odia",
-    "startTs": 1788237000000,
-    "stopTs": 1788238800000,
-    "title": "News18 Live",
-    "desc": "Delivers uninterrupted live coverage of breaking news, major headlines, and viral developments, keeping viewers updated with real-time information nationwide."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "News18Odia.in",
@@ -51,8 +7,8 @@
     "channelName": "News18 Odia",
     "startTs": 1788238800000,
     "stopTs": 1788240600000,
-    "title": "Special Report",
-    "desc": "Exclusive insights and updates featured in today&apos;s Special Report segment."
+    "title": "Bhauja Tamaku Duru Juhar",
+    "desc": "The host provides humorous commentaries on the latest news stories regarding political issues in the country and around the world."
   },
   {
     "start": "05:30",
@@ -1076,5 +1032,49 @@
     "stopTs": 1788408000000,
     "title": "Aamari Odisha",
     "desc": "Explore Odisha&apos;s charm with Aamari Odisha&apos;s cultural highlights and stories."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "News18Odia.in",
+    "channelId": "News18Odia.in",
+    "channelName": "News18 Odia",
+    "startTs": 1788408000000,
+    "stopTs": 1788409800000,
+    "title": "Khabar Fatafat",
+    "desc": "A quick, no-nonsense bulletin delivering the top headlines from politics, business, sports, and entertainment in a fast-paced format."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "News18Odia.in",
+    "channelId": "News18Odia.in",
+    "channelName": "News18 Odia",
+    "startTs": 1788409800000,
+    "stopTs": 1788411600000,
+    "title": "News18 Live",
+    "desc": "Delivers uninterrupted live coverage of breaking news, major headlines, and viral developments, keeping viewers updated with real-time information nationwide."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "News18Odia.in",
+    "channelId": "News18Odia.in",
+    "channelName": "News18 Odia",
+    "startTs": 1788411600000,
+    "stopTs": 1788413400000,
+    "title": "Special Report",
+    "desc": "Exclusive insights and updates featured in today&apos;s Special Report segment."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "News18Odia.in",
+    "channelId": "News18Odia.in",
+    "channelName": "News18 Odia",
+    "startTs": 1788413400000,
+    "stopTs": 1788415200000,
+    "title": "Big Breaking News",
+    "desc": "Delivers major breaking news from across the country with real-time updates, live coverage, and expert opinions on key developments."
   }
 ]

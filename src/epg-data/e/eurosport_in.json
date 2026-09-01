@@ -1,25 +1,14 @@
 [
   {
-    "start": "02:30",
-    "stop": "04:30",
-    "channel": "Eurosport.in",
-    "channelId": "Eurosport.in",
-    "channelName": "Eurosport",
-    "startTs": 1788229800000,
-    "stopTs": 1788237000000,
-    "title": "TNA Impact",
-    "desc": "In the thrilling 2025 TNA Impact, professional wrestlers battle it out each week, showcasing their skills and determination to claim victory in the ultimate wrestling showdown."
-  },
-  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "Eurosport.in",
     "channelId": "Eurosport.in",
-    "channelName": "Eurosport",
+    "channelName": "EUROSPORT",
     "startTs": 1788237000000,
     "stopTs": 1788240600000,
     "title": "TNA British Boot Camp",
-    "desc": "Tune into TNA British Boot Camp as rising pro wrestling talent compete under elite mentors at SSE Hydro, Glasgow, Scotland, United Kingdom shaping future stars."
+    "desc": "This is Sport - Wrestling Category"
   },
   {
     "start": "05:30",
@@ -350,5 +339,27 @@
     "stopTs": 1788409800000,
     "title": "TNA Xplosion",
     "desc": "Features exclusive rematch, historical matches, pop culture roundtable discussions, plus recaps of Impact Wrestling."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1788409800000,
+    "stopTs": 1788413400000,
+    "title": "TNA British Boot Camp",
+    "desc": "Tune into TNA British Boot Camp as rising pro wrestling talent compete under elite mentors at SSE Hydro, Glasgow, Scotland, United Kingdom shaping future stars."
+  },
+  {
+    "start": "05:30",
+    "stop": "07:30",
+    "channel": "Eurosport.in",
+    "channelId": "Eurosport.in",
+    "channelName": "Eurosport",
+    "startTs": 1788413400000,
+    "stopTs": 1788420600000,
+    "title": "Eredivisie Soccer",
+    "desc": "Professional football clubs compete to emerge victorious in the Eredivisie."
   }
 ]

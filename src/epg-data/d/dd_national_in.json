@@ -1,38 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "DDNational.in",
-    "channelId": "DDNational.in",
-    "channelName": "DD National",
-    "startTs": 1788229800000,
-    "stopTs": 1788233400000,
-    "title": "Morning Show",
-    "desc": "This is News - News Bulletin Category"
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "DDNational.in",
-    "channelId": "DDNational.in",
-    "channelName": "DD National",
-    "startTs": 1788233400000,
-    "stopTs": 1788237000000,
-    "title": "KBC Sadabahar S14",
-    "desc": "KBC Sadabahar S14"
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "DDNational.in",
-    "channelId": "DDNational.in",
-    "channelName": "DD National",
-    "startTs": 1788237000000,
-    "stopTs": 1788238800000,
-    "title": "Jaanki",
-    "desc": "It is a story about fulfilling the dream of an educated woman, Janaki. She dreamt of being an IPS officer. She got married to a partially educated man Ramachandra / Rama."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "DDNational.in",
@@ -40,8 +7,8 @@
     "channelName": "DD National",
     "startTs": 1788238800000,
     "stopTs": 1788240600000,
-    "title": "Zamana Badal Gaya S02",
-    "desc": "&apos;Zamana Badal Gaya - 2&apos; follows a family where different generations face changing views and lifestyles, blending laughter, conflicts and memorable moments in a heartwarming journey."
+    "title": "Zamana Badal Gaya",
+    "desc": "A family deal with generation gaps, shifting lifestyle standards, and the amusing double standards of family members who preach for change but resist it at home."
   },
   {
     "start": "05:30",
@@ -141,17 +108,6 @@
     "stopTs": 1788269400000,
     "title": "Jai Bharati",
     "desc": "Stay informed with this impactful news show presenting major stories and special reports from across the country in a direct, clear format."
-  },
-  {
-    "start": "13:25",
-    "stop": "13:30",
-    "channel": "DDNational.in",
-    "channelId": "DDNational.in",
-    "channelName": "DD National",
-    "startTs": 1788269100000,
-    "stopTs": 1788269400000,
-    "title": "Himanshu Chhabra; SOS",
-    "desc": "The host facilitates a discussion that focuses on children&apos;s rights, concerns and needs by inviting a representative from SOS Children&apos;s Village, an Indian non-profit organisation."
   },
   {
     "start": "13:30",
@@ -900,5 +856,49 @@
     "stopTs": 1788409800000,
     "title": "KBC Sadabahar",
     "desc": "Relive the most iconic moments from Kaun Banega Crorepati, featuring legendary contestants, unforgettable questions, and the brilliance of a show that forever changed Indian television history."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "DDNational.in",
+    "channelId": "DDNational.in",
+    "channelName": "DD National",
+    "startTs": 1788408000000,
+    "stopTs": 1788409800000,
+    "title": "Himachal Se Olympics Tak",
+    "desc": "A brave girl from Himachal breaks every stereotype and fights every odd to represent India at the Olympics, proving that courage, dreams, and determination know no boundaries."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "DDNational.in",
+    "channelId": "DDNational.in",
+    "channelName": "DD National",
+    "startTs": 1788409800000,
+    "stopTs": 1788411600000,
+    "title": "Jaanki",
+    "desc": "It is a story about fulfilling the dream of an educated woman, Janaki. She dreamt of being an IPS officer. She got married to a partially educated man Ramachandra / Rama."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "DDNational.in",
+    "channelId": "DDNational.in",
+    "channelName": "DD National",
+    "startTs": 1788411600000,
+    "stopTs": 1788413400000,
+    "title": "Zamana Badal Gaya S02",
+    "desc": "&apos;Zamana Badal Gaya - 2&apos; follows a family where different generations face changing views and lifestyles, blending laughter, conflicts and memorable moments in a heartwarming journey."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "DDNational.in",
+    "channelId": "DDNational.in",
+    "channelName": "DD National",
+    "startTs": 1788413400000,
+    "stopTs": 1788415200000,
+    "title": "Chotaki Chatanki S02",
+    "desc": "Fun-filled adventures featuring lovable characters who entertain young viewers with humor, excitement, and valuable lessons."
   }
 ]

@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:05",
-    "stop": "03:30",
-    "channel": "GulistanNews.in",
-    "channelId": "GulistanNews.in",
-    "channelName": "Gulistan News",
-    "startTs": 1788231900000,
-    "stopTs": 1788233400000,
-    "title": "Salam JK",
-    "desc": "The host presents the latest social, economic and political news from around the world and provides information on relevant current events."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "GulistanNews.in",
-    "channelId": "GulistanNews.in",
-    "channelName": "Gulistan News",
-    "startTs": 1788233400000,
-    "stopTs": 1788235200000,
-    "title": "Salam JK",
-    "desc": "Start your day with Salam JK, delivering real-time morning news bulletins, ground-level regional updates, political developments, and key civic stories across Jammu, Kashmir, and Ladakh."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "GulistanNews.in",
-    "channelId": "GulistanNews.in",
-    "channelName": "Gulistan News",
-    "startTs": 1788235200000,
-    "stopTs": 1788237000000,
-    "title": "Salam JK",
-    "desc": "Start your day with Salam JK, delivering real-time morning news bulletins, ground-level regional updates, political developments, and key civic stories across Jammu, Kashmir, and Ladakh."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "GulistanNews.in",
-    "channelId": "GulistanNews.in",
-    "channelName": "Gulistan News",
-    "startTs": 1788237000000,
-    "stopTs": 1788238800000,
-    "title": "Uk News Hindi",
-    "desc": "Get the latest updates from the United Kingdom in Hindi, with key news, events, and insights tailored for Hindi-speaking audiences interested in international affairs and global happenings."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "GulistanNews.in",
@@ -51,8 +7,8 @@
     "channelName": "Gulistan News",
     "startTs": 1788238800000,
     "stopTs": 1788240600000,
-    "title": "Breaking News",
-    "desc": "Breaking News delivers fast, reliable updates on global and local events, blending headlines, analysis, and human stories to keep audiences informed and engaged in real time."
+    "title": "Ground Report",
+    "desc": "A journalist provides on-the-ground coverage of various newsworthy events and socio-political developments occurring in India."
   },
   {
     "start": "05:30",
@@ -1186,5 +1142,49 @@
     "stopTs": 1788408000000,
     "title": "Salam JK",
     "desc": "Start your day with Salam JK, delivering real-time morning news bulletins, ground-level regional updates, political developments, and key civic stories across Jammu, Kashmir, and Ladakh."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "GulistanNews.in",
+    "channelId": "GulistanNews.in",
+    "channelName": "Gulistan News",
+    "startTs": 1788408000000,
+    "stopTs": 1788409800000,
+    "title": "Salam JK",
+    "desc": "Start your day with Salam JK, delivering real-time morning news bulletins, ground-level regional updates, political developments, and key civic stories across Jammu, Kashmir, and Ladakh."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "GulistanNews.in",
+    "channelId": "GulistanNews.in",
+    "channelName": "Gulistan News",
+    "startTs": 1788409800000,
+    "stopTs": 1788411600000,
+    "title": "Uk News Hindi",
+    "desc": "Get the latest updates from the United Kingdom in Hindi, with key news, events, and insights tailored for Hindi-speaking audiences interested in international affairs and global happenings."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "GulistanNews.in",
+    "channelId": "GulistanNews.in",
+    "channelName": "Gulistan News",
+    "startTs": 1788411600000,
+    "stopTs": 1788413400000,
+    "title": "Breaking News",
+    "desc": "Breaking News delivers fast, reliable updates on global and local events, blending headlines, analysis, and human stories to keep audiences informed and engaged in real time."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "GulistanNews.in",
+    "channelId": "GulistanNews.in",
+    "channelName": "Gulistan News",
+    "startTs": 1788413400000,
+    "stopTs": 1788415200000,
+    "title": "News Room Live",
+    "desc": "News Room Live brings live coverage of ongoing events, offering real-time updates, expert commentary, and analysis on national and global news stories."
   }
 ]

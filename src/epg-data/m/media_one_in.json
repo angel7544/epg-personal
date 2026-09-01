@@ -1,27 +1,5 @@
 [
   {
-    "start": "01:30",
-    "stop": "03:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "MEDIA ONE",
-    "startTs": 1788226200000,
-    "stopTs": 1788233400000,
-    "title": "Morning News",
-    "desc": "The host presents detailed information and in-depth insights on various news of economics, social issues, politics and current events."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "MediaOne.in",
-    "channelId": "MediaOne.in",
-    "channelName": "MEDIA ONE",
-    "startTs": 1788233400000,
-    "stopTs": 1788237000000,
-    "title": "News Morning",
-    "desc": "Start your day with the latest news updates, top national headlines, breaking global stories, market trends, weather forecasts, and in-depth expert analysis to keep you informed all day."
-  },
-  {
     "start": "04:30",
     "stop": "06:00",
     "channel": "MediaOne.in",
@@ -746,5 +724,16 @@
     "stopTs": 1788409800000,
     "title": "News Morning",
     "desc": "Start your day with the latest news updates, top national headlines, breaking global stories, market trends, weather forecasts, and in-depth expert analysis to keep you informed all day."
+  },
+  {
+    "start": "04:30",
+    "stop": "06:00",
+    "channel": "MediaOne.in",
+    "channelId": "MediaOne.in",
+    "channelName": "MEDIA ONE",
+    "startTs": 1788409800000,
+    "stopTs": 1788415200000,
+    "title": "Zero Hour",
+    "desc": "Telecast of the latest news and updates as well as expert analysis of the elections."
   }
 ]

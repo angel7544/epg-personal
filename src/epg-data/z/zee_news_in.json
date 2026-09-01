@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "ZeeNews.in",
-    "channelId": "ZeeNews.in",
-    "channelName": "Zee News",
-    "startTs": 1788231600000,
-    "stopTs": 1788233400000,
-    "title": "Morning Zee",
-    "desc": "Presents quick updates about global sports, the weather, and international politics to start the day."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "ZeeNews.in",
-    "channelId": "ZeeNews.in",
-    "channelName": "Zee News",
-    "startTs": 1788233400000,
-    "stopTs": 1788235200000,
-    "title": "9 Ki News",
-    "desc": "The host presents the latest news updates and developments of the day pertaining to politics, the economy, society, sports and more."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "ZeeNews.in",
-    "channelId": "ZeeNews.in",
-    "channelName": "Zee News",
-    "startTs": 1788235200000,
-    "stopTs": 1788237000000,
-    "title": "9 Ki News",
-    "desc": "The host presents the latest news updates and developments of the day pertaining to politics, the economy, society, sports and more."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "ZeeNews.in",
-    "channelId": "ZeeNews.in",
-    "channelName": "Zee News",
-    "startTs": 1788237000000,
-    "stopTs": 1788238800000,
-    "title": "To The Point",
-    "desc": "The host brings together experts from diverse fields to discuss and share their views on important current issues."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "ZeeNews.in",
@@ -51,8 +7,8 @@
     "channelName": "Zee News",
     "startTs": 1788238800000,
     "stopTs": 1788240600000,
-    "title": "Din Ki Baat",
-    "desc": "Stay in the loop with the latest global and national news covering politics, sports, and more. Get all the info you need, right at your fingertips!"
+    "title": "To The Point",
+    "desc": "The host analyses the latest developments and important updates that concern people living in different parts of the country."
   },
   {
     "start": "05:30",
@@ -1076,5 +1032,49 @@
     "stopTs": 1788408000000,
     "title": "9 Ki News",
     "desc": "The host presents the latest news updates and developments of the day pertaining to politics, the economy, society, sports and more."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "ZeeNews.in",
+    "channelId": "ZeeNews.in",
+    "channelName": "Zee News",
+    "startTs": 1788408000000,
+    "stopTs": 1788409800000,
+    "title": "9 Ki News",
+    "desc": "The host presents the latest news updates and developments of the day pertaining to politics, the economy, society, sports and more."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "ZeeNews.in",
+    "channelId": "ZeeNews.in",
+    "channelName": "Zee News",
+    "startTs": 1788409800000,
+    "stopTs": 1788411600000,
+    "title": "To The Point",
+    "desc": "The host brings together experts from diverse fields to discuss and share their views on important current issues."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "ZeeNews.in",
+    "channelId": "ZeeNews.in",
+    "channelName": "Zee News",
+    "startTs": 1788411600000,
+    "stopTs": 1788413400000,
+    "title": "To The Point",
+    "desc": "The host brings together experts from diverse fields to discuss and share their views on important current issues."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "ZeeNews.in",
+    "channelId": "ZeeNews.in",
+    "channelName": "Zee News",
+    "startTs": 1788413400000,
+    "stopTs": 1788415200000,
+    "title": "Battleground",
+    "desc": "A concise roundup of current national and international news, covering politics, world events, entertainment, sports, finance, and weather for a broad audience."
   }
 ]

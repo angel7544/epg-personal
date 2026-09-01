@@ -1,60 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD INDIA",
-    "startTs": 1788229800000,
-    "stopTs": 1788233400000,
-    "title": "DD India News Hour",
-    "desc": "he host presents latest updates and developments from across the globe pertaining to current affairs, the economy, business and more."
-  },
-  {
-    "start": "03:00",
-    "stop": "05:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India",
-    "startTs": 1788231600000,
-    "stopTs": 1788238800000,
-    "title": "26th Shanghai Cooperation Organisation (SCO) Summit",
-    "desc": "."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1788233400000,
-    "stopTs": 1788237000000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD INDIA",
-    "startTs": 1788235200000,
-    "stopTs": 1788237000000,
-    "title": "The Economic Brief",
-    "desc": "The host discusses the key developments of the Indian economy, and its consequences which help shape the country both nationally and internationally."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1788237000000,
-    "stopTs": 1788240600000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "DDIndia.in",
@@ -326,8 +271,8 @@
     "channelName": "DD India",
     "startTs": 1788287400000,
     "stopTs": 1788289200000,
-    "title": "55th International Film Festival of India-2024 (IFFI)",
-    "desc": "Personalities from the film industry attend the 55th International Film Festival of India."
+    "title": "Defence Dynamics",
+    "desc": "The host presents the latest news stories pertaining to India&apos;s defence systems."
   },
   {
     "start": "19:00",
@@ -337,8 +282,8 @@
     "channelName": "DD India",
     "startTs": 1788289200000,
     "stopTs": 1788291000000,
-    "title": "Defence Dynamics",
-    "desc": "The host presents the latest news stories pertaining to India&apos;s defence systems."
+    "title": "The Economic Brief",
+    "desc": "The host discusses the key developments of the Indian economy and its impacts."
   },
   {
     "start": "19:30",
@@ -370,8 +315,8 @@
     "channelName": "DD India",
     "startTs": 1788296400000,
     "stopTs": 1788298200000,
-    "title": "In Conversation With",
-    "desc": "The host engages in a conversation with experts and political leaders."
+    "title": "Connecting the Dots",
+    "desc": "The host presents a detailed report on the pressing global issues and current affairs."
   },
   {
     "start": "21:30",
@@ -392,8 +337,8 @@
     "channelName": "DD India",
     "startTs": 1788301800000,
     "stopTs": 1788303600000,
-    "title": "Wellness Watch",
-    "desc": "The host explores the latest trends in health and wellness, offering practical tips."
+    "title": "Voice of the Global South",
+    "desc": "Akshay Dongare presents a range of stories from different parts of the world."
   },
   {
     "start": "23:00",
@@ -403,8 +348,8 @@
     "channelName": "DD India",
     "startTs": 1788303600000,
     "stopTs": 1788305400000,
-    "title": "The Economic Brief",
-    "desc": "The host discusses the key developments of the Indian economy and its impacts."
+    "title": "Indian Diplomacy",
+    "desc": "The host discusses the matters of India&apos;s foreign affairs and diplomatic relations."
   },
   {
     "start": "23:30",
@@ -416,17 +361,6 @@
     "stopTs": 1788309000000,
     "title": "DD India News Hour",
     "desc": "The host presents latest updates and top stories across the globe."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1788307200000,
-    "stopTs": 1788309000000,
-    "title": "Explorer Of The Misty Mountains",
-    "desc": "The host explores the natural landscapes and local cultures of north-eastern India, embarking on a journey of discovery."
   },
   {
     "start": "00:30",
@@ -484,6 +418,17 @@
     "desc": "The host presents latest updates and top stories across the globe."
   },
   {
+    "start": "03:00",
+    "stop": "05:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1788318000000,
+    "stopTs": 1788325200000,
+    "title": "26Th Shanghai Cooperation Organisation (Sco) Summit",
+    "desc": "26Th Shanghai Cooperation Organisation Sco Summit"
+  },
+  {
     "start": "03:30",
     "stop": "04:00",
     "channel": "DDIndia.in",
@@ -517,6 +462,17 @@
     "desc": "The host presents latest updates and top stories across the globe."
   },
   {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1788325200000,
+    "stopTs": 1788327000000,
+    "title": "Defence Dynamics",
+    "desc": "Defence Dynamics on DD India explores military strategies and innovations."
+  },
+  {
     "start": "05:30",
     "stop": "06:30",
     "channel": "DDIndia.in",
@@ -526,6 +482,17 @@
     "stopTs": 1788330600000,
     "title": "DD India News Hour",
     "desc": "The host presents latest updates and top stories across the globe."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1788328800000,
+    "stopTs": 1788330600000,
+    "title": "INDIAN DIPLOMACY-Boundary Talks with China and the Future of China-India Relations",
+    "desc": "INDIAN DIPLOMACY-Boundary Talks with China and the Future of China-India Relations"
   },
   {
     "start": "06:30",
@@ -920,6 +887,28 @@
     "channelName": "DD India HD",
     "startTs": 1788406200000,
     "stopTs": 1788409800000,
+    "title": "Dd-India News Hour",
+    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1788409800000,
+    "stopTs": 1788413400000,
+    "title": "Dd-India News Hour",
+    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1788413400000,
+    "stopTs": 1788417000000,
     "title": "Dd-India News Hour",
     "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
   }

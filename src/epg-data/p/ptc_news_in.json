@@ -1,60 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "PTCNews.in",
-    "channelId": "PTCNews.in",
-    "channelName": "PTC News",
-    "startTs": 1788229800000,
-    "stopTs": 1788233400000,
-    "title": "Good Morning Punjab",
-    "desc": "The host presents the latest news stories and recent developments on significant matters from the state of Punjab, including governance, social issues, economics, sports, and political affairs."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "PTCNews.in",
-    "channelId": "PTCNews.in",
-    "channelName": "PTC News",
-    "startTs": 1788233400000,
-    "stopTs": 1788235200000,
-    "title": "Astro Show/Teleshop",
-    "desc": "Discover insights into astrology, daily horoscopes and spiritual guidance, along with featured products and special offers designed to support your lifestyle and well-being."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "PTCNews.in",
-    "channelId": "PTCNews.in",
-    "channelName": "PTC News",
-    "startTs": 1788235200000,
-    "stopTs": 1788237000000,
-    "title": "News Bulletin",
-    "desc": "Stay informed with the latest updates on socio-economic and political news from Punjab, Haryana, and Himachal Pradesh. Tune in to News Bulletin for crucial regional insights!"
-  },
-  {
-    "start": "04:30",
-    "stop": "04:55",
-    "channel": "PTCNews.in",
-    "channelId": "PTCNews.in",
-    "channelName": "PTC News",
-    "startTs": 1788237000000,
-    "stopTs": 1788238500000,
-    "title": "News Bulletin",
-    "desc": "Stay informed with the latest updates on socio-economic and political news from Punjab, Haryana, and Himachal Pradesh. Tune in to News Bulletin for crucial regional insights!"
-  },
-  {
-    "start": "04:55",
-    "stop": "05:00",
-    "channel": "PTCNews.in",
-    "channelId": "PTCNews.in",
-    "channelName": "PTC News",
-    "startTs": 1788238500000,
-    "stopTs": 1788238800000,
-    "title": "Haryana Diary Hindi",
-    "desc": "Delve into compelling stories that explore India&apos;s political landscape, rich cultural heritage and evolving society. The host brings insightful perspectives, developments and narratives."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "PTCNews.in",
@@ -62,8 +7,8 @@
     "channelName": "PTC News",
     "startTs": 1788238800000,
     "stopTs": 1788240600000,
-    "title": "PTC News",
-    "desc": "The presenter delivers comprehensive breaking news, regional updates across Punjab, and in-depth analyses of pressing national socio-political affairs and civic issues impacting citizens."
+    "title": "PTC News Bulletin",
+    "desc": "The anchor sheds light on information regarding updates on several incidents during a day in an extremely detailed manner."
   },
   {
     "start": "05:30",
@@ -889,5 +834,71 @@
     "stopTs": 1788408000000,
     "title": "Astro Show/Teleshop",
     "desc": "Discover insights into astrology, daily horoscopes and spiritual guidance, along with featured products and special offers designed to support your lifestyle and well-being."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "PTCNews.in",
+    "channelId": "PTCNews.in",
+    "channelName": "PTC News",
+    "startTs": 1788408000000,
+    "stopTs": 1788409800000,
+    "title": "News Bulletin",
+    "desc": "Stay informed with the latest updates on socio-economic and political news from Punjab, Haryana, and Himachal Pradesh. Tune in to News Bulletin for crucial regional insights!"
+  },
+  {
+    "start": "04:30",
+    "stop": "04:55",
+    "channel": "PTCNews.in",
+    "channelId": "PTCNews.in",
+    "channelName": "PTC News",
+    "startTs": 1788409800000,
+    "stopTs": 1788411300000,
+    "title": "News Bulletin",
+    "desc": "Stay informed with the latest updates on socio-economic and political news from Punjab, Haryana, and Himachal Pradesh. Tune in to News Bulletin for crucial regional insights!"
+  },
+  {
+    "start": "04:55",
+    "stop": "05:00",
+    "channel": "PTCNews.in",
+    "channelId": "PTCNews.in",
+    "channelName": "PTC News",
+    "startTs": 1788411300000,
+    "stopTs": 1788411600000,
+    "title": "Haryana Diary Hindi",
+    "desc": "Delve into compelling stories that explore India&apos;s political landscape, rich cultural heritage and evolving society. The host brings insightful perspectives, developments and narratives."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "PTCNews.in",
+    "channelId": "PTCNews.in",
+    "channelName": "PTC News",
+    "startTs": 1788411600000,
+    "stopTs": 1788413400000,
+    "title": "PTC News",
+    "desc": "The presenter delivers comprehensive breaking news, regional updates across Punjab, and in-depth analyses of pressing national socio-political affairs and civic issues impacting citizens."
+  },
+  {
+    "start": "05:30",
+    "stop": "05:50",
+    "channel": "PTCNews.in",
+    "channelId": "PTCNews.in",
+    "channelName": "PTC News",
+    "startTs": 1788413400000,
+    "stopTs": 1788414600000,
+    "title": "News Bulletin",
+    "desc": "Stay informed with the latest updates on socio-economic and political news from Punjab, Haryana, and Himachal Pradesh. Tune in to News Bulletin for crucial regional insights!"
+  },
+  {
+    "start": "05:50",
+    "stop": "06:00",
+    "channel": "PTCNews.in",
+    "channelId": "PTCNews.in",
+    "channelName": "PTC News",
+    "startTs": 1788414600000,
+    "stopTs": 1788415200000,
+    "title": "Haryana Diary Punjabi",
+    "desc": "Delve into compelling stories that explore India&apos;s political landscape, rich cultural heritage and evolving society. The host brings insightful perspectives, developments and narratives."
   }
 ]

@@ -1,16 +1,5 @@
 [
   {
-    "start": "01:30",
-    "stop": "05:30",
-    "channel": "ReporterTV.in",
-    "channelId": "ReporterTV.in",
-    "channelName": "REPORTER TV",
-    "startTs": 1788226200000,
-    "stopTs": 1788240600000,
-    "title": "Coffee With Arun",
-    "desc": "Join Arun for exclusive interviews and lively discussions on current topics."
-  },
-  {
     "start": "05:30",
     "stop": "07:30",
     "channel": "ReporterTV.in",
@@ -471,5 +460,16 @@
     "stopTs": 1788413400000,
     "title": "Coffee With Arun",
     "desc": "Join Arun for exclusive interviews and lively discussions on current topics."
+  },
+  {
+    "start": "05:30",
+    "stop": "07:30",
+    "channel": "ReporterTV.in",
+    "channelId": "ReporterTV.in",
+    "channelName": "REPORTER TV",
+    "startTs": 1788413400000,
+    "stopTs": 1788420600000,
+    "title": "Breaking Hours",
+    "desc": "The host analyzes and discusses key news updates and current affairs affecting citizens."
   }
 ]

@@ -1,38 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "News18TamilNadu.in",
-    "channelId": "News18TamilNadu.in",
-    "channelName": "News18 Tamil Nadu",
-    "startTs": 1788231600000,
-    "stopTs": 1788233400000,
-    "title": "Super 60 News",
-    "desc": "The host presents the latest top 60 news updates, stories and developments from various spheres including business and politics."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "News18TamilNadu.in",
-    "channelId": "News18TamilNadu.in",
-    "channelName": "News18 Tamil Nadu",
-    "startTs": 1788233400000,
-    "stopTs": 1788235200000,
-    "title": "Vanakkam Tamilnadu",
-    "desc": "Catch the latest updates on news, current events, and socio-political happenings!"
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "News18TamilNadu.in",
-    "channelId": "News18TamilNadu.in",
-    "channelName": "News18 Tamil Nadu",
-    "startTs": 1788235200000,
-    "stopTs": 1788237000000,
-    "title": "18 Dharbar",
-    "desc": "In-depth discussions on the latest political issues and government policies."
-  },
-  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "News18TamilNadu.in",
@@ -41,7 +8,7 @@
     "startTs": 1788237000000,
     "stopTs": 1788240600000,
     "title": "10 Mani Seithigal",
-    "desc": "Get the latest political, social, and sports news from India and globally."
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "start": "05:30",
@@ -680,5 +647,38 @@
     "stopTs": 1788408000000,
     "title": "Vanakkam Tamilnadu",
     "desc": "Catch the latest updates on news, current events, and socio-political happenings!"
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "News18TamilNadu.in",
+    "channelId": "News18TamilNadu.in",
+    "channelName": "News18 Tamil Nadu",
+    "startTs": 1788408000000,
+    "stopTs": 1788409800000,
+    "title": "18 Dharbar",
+    "desc": "In-depth discussions on the latest political issues and government policies."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "News18TamilNadu.in",
+    "channelId": "News18TamilNadu.in",
+    "channelName": "News18 Tamil Nadu",
+    "startTs": 1788409800000,
+    "stopTs": 1788413400000,
+    "title": "10 Mani Seithigal",
+    "desc": "Get the latest political, social, and sports news from India and globally."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "News18TamilNadu.in",
+    "channelId": "News18TamilNadu.in",
+    "channelName": "News18 Tamil Nadu",
+    "startTs": 1788413400000,
+    "stopTs": 1788417000000,
+    "title": "11 Mani Seithigal",
+    "desc": "Get the latest political, social, and sports news from India and globally."
   }
 ]

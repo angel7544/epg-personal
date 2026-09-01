@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "CNBCBajar.in",
-    "channelId": "CNBCBajar.in",
-    "channelName": "CNBC Bajar",
-    "startTs": 1788231600000,
-    "stopTs": 1788233400000,
-    "title": "Morning Ticker",
-    "desc": "The host converses with experts who provide latest updates regarding stock trends and share critical tips to the viewers about finances."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "CNBCBajar.in",
-    "channelId": "CNBCBajar.in",
-    "channelName": "CNBC Bajar",
-    "startTs": 1788233400000,
-    "stopTs": 1788235200000,
-    "title": "Market Muhurat",
-    "desc": "A host presents top stories and headlines from markets, industries, government, entertainment, and sports, delivering clear, easy to understand updates for viewers about today&apos;s world."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "CNBCBajar.in",
-    "channelId": "CNBCBajar.in",
-    "channelName": "CNBC Bajar",
-    "startTs": 1788235200000,
-    "stopTs": 1788237000000,
-    "title": "Market Muhurat",
-    "desc": "A host presents top stories and headlines from markets, industries, government, entertainment, and sports, delivering clear, easy to understand updates for viewers about today&apos;s world."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "CNBCBajar.in",
-    "channelId": "CNBCBajar.in",
-    "channelName": "CNBC Bajar",
-    "startTs": 1788237000000,
-    "stopTs": 1788238800000,
-    "title": "Market Live",
-    "desc": "Tracks real-time stock market performance. Viewers get up-to-date financial data, live trading insights, and expert opinions as the market shifts throughout the day."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "CNBCBajar.in",
@@ -52,7 +8,7 @@
     "startTs": 1788238800000,
     "stopTs": 1788240600000,
     "title": "Market Live",
-    "desc": "Tracks real-time stock market performance. Viewers get up-to-date financial data, live trading insights, and expert opinions as the market shifts throughout the day."
+    "desc": "The host provides a detailed report on the latest updates and developments pertaining to the stock market, business and finance, live."
   },
   {
     "start": "05:30",
@@ -1075,6 +1031,50 @@
     "startTs": 1788406200000,
     "stopTs": 1788408000000,
     "title": "Market Muhurat",
+    "desc": "A host presents top stories and headlines from markets, industries, government, entertainment, and sports, delivering clear, easy to understand updates for viewers about today&apos;s world."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "CNBCBajar.in",
+    "channelId": "CNBCBajar.in",
+    "channelName": "CNBC Bajar",
+    "startTs": 1788408000000,
+    "stopTs": 1788409800000,
+    "title": "Market Muhurat",
+    "desc": "A host presents top stories and headlines from markets, industries, government, entertainment, and sports, delivering clear, easy to understand updates for viewers about today&apos;s world."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "CNBCBajar.in",
+    "channelId": "CNBCBajar.in",
+    "channelName": "CNBC Bajar",
+    "startTs": 1788409800000,
+    "stopTs": 1788411600000,
+    "title": "Market Live",
+    "desc": "Tracks real-time stock market performance. Viewers get up-to-date financial data, live trading insights, and expert opinions as the market shifts throughout the day."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "CNBCBajar.in",
+    "channelId": "CNBCBajar.in",
+    "channelName": "CNBC Bajar",
+    "startTs": 1788411600000,
+    "stopTs": 1788413400000,
+    "title": "Market Live",
+    "desc": "Tracks real-time stock market performance. Viewers get up-to-date financial data, live trading insights, and expert opinions as the market shifts throughout the day."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "CNBCBajar.in",
+    "channelId": "CNBCBajar.in",
+    "channelName": "CNBC Bajar",
+    "startTs": 1788413400000,
+    "stopTs": 1788415200000,
+    "title": "Commodity Live",
     "desc": "A host presents top stories and headlines from markets, industries, government, entertainment, and sports, delivering clear, easy to understand updates for viewers about today&apos;s world."
   }
 ]

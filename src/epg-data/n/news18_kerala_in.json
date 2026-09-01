@@ -1,27 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1788231600000,
-    "stopTs": 1788233400000,
-    "title": "Ithu Kando",
-    "desc": "The hosts present a compilation of interesting news stories, funny videos and entertaining skits trending on social media."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1788233400000,
-    "stopTs": 1788237000000,
-    "title": "Vartharambham",
-    "desc": "Stay updated with breaking news and global affairs-engaging insights await you!"
-  },
-  {
     "start": "04:30",
     "stop": "06:30",
     "channel": "News18Kerala.in",
@@ -823,5 +801,16 @@
     "stopTs": 1788409800000,
     "title": "Vartharambham",
     "desc": "Stay updated with breaking news and global affairs-engaging insights await you!"
+  },
+  {
+    "start": "04:30",
+    "stop": "06:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1788409800000,
+    "stopTs": 1788417000000,
+    "title": "News Trends",
+    "desc": "Join the host for the latest buzz on news, entertainment, and politics!"
   }
 ]

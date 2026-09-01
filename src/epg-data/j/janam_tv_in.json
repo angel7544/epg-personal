@@ -1,16 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "04:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788231600000,
-    "stopTs": 1788237000000,
-    "title": "Breaking Now @ 8.30",
-    "desc": "Tune into an update of the latest regional news from Kerala."
-  },
-  {
     "start": "03:30",
     "stop": "08:30",
     "channel": "JanamTV.in",
@@ -20,17 +9,6 @@
     "stopTs": 1788251400000,
     "title": "Live News",
     "desc": "The host collates and presents some of the most important news and latest updates that cater to the interests of the people, live."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788237000000,
-    "stopTs": 1788240600000,
-    "title": "Happening Now @ 10AM - News",
-    "desc": "Take a look at the latest social, economic and political news of the day."
   },
   {
     "start": "05:30",
@@ -812,5 +790,27 @@
     "stopTs": 1788409800000,
     "title": "Breaking Now @ 8.30",
     "desc": "Tune into an update of the latest regional news from Kerala."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788409800000,
+    "stopTs": 1788413400000,
+    "title": "Happening Now @ 10AM - News",
+    "desc": "Take a look at the latest social, economic and political news of the day."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788413400000,
+    "stopTs": 1788417000000,
+    "title": "Happening Now @ 11AM - News",
+    "desc": "Take a look at the latest social, economic and political news of the day."
   }
 ]

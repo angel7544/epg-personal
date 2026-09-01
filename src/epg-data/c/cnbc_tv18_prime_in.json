@@ -1,38 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 Prime",
-    "startTs": 1788229800000,
-    "stopTs": 1788233400000,
-    "title": "Bazaar Morning Call",
-    "desc": "The hosts shed light on the condition of the stock market prior to its opening and provide quick tips to people investing in the market."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1788233400000,
-    "stopTs": 1788237000000,
-    "title": "Bazaar Open Exchange",
-    "desc": "Top market experts and CEOs analyse the market scenario and discuss the stocks of the companies."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1788237000000,
-    "stopTs": 1788238800000,
-    "title": "Bazaar Corporate Radar",
-    "desc": "Tune in to Mitali Mukherjee&apos;s show for insights from top CEOs, economists, and analysts."
-  },
-  {
     "start": "05:00",
     "stop": "06:00",
     "channel": "CNBCTV18PrimeHD.in",
@@ -570,5 +537,27 @@
     "stopTs": 1788409800000,
     "title": "Bazaar Open Exchange",
     "desc": "Top market experts and CEOs analyse the market scenario and discuss the stocks of the companies."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1788409800000,
+    "stopTs": 1788411600000,
+    "title": "Bazaar Corporate Radar",
+    "desc": "Tune in to Mitali Mukherjee&apos;s show for insights from top CEOs, economists, and analysts."
+  },
+  {
+    "start": "05:00",
+    "stop": "06:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1788411600000,
+    "stopTs": 1788415200000,
+    "title": "Europe Early Edition",
+    "desc": "Covers early financial news and European market activity. The show sets the tone for investors by reporting morning updates from across the Eurozone."
   }
 ]

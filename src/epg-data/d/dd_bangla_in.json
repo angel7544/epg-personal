@@ -1,38 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "DDBangla.in",
-    "channelId": "DDBangla.in",
-    "channelName": "DD Bangla",
-    "startTs": 1788231600000,
-    "stopTs": 1788233400000,
-    "title": "Sambad",
-    "desc": "The host provides the latest socio-economic and political news, updates and developments from various parts of the world."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "DDBangla.in",
-    "channelId": "DDBangla.in",
-    "channelName": "DD Bangla",
-    "startTs": 1788233400000,
-    "stopTs": 1788237000000,
-    "title": "Suswasthya",
-    "desc": "Suswasthya is a health programme that shares tips for better living. It covers nutrition, fitness, mental wellness, and medical advice to help people lead healthier, happier lives every day."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "DDBangla.in",
-    "channelId": "DDBangla.in",
-    "channelName": "DD Bangla",
-    "startTs": 1788237000000,
-    "stopTs": 1788238800000,
-    "title": "Saptarangi",
-    "desc": "This program is in the Nepali language. It shows music, culture, news, and more for Nepali-speaking viewers. A nice way to feel close to home."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "DDBangla.in",
@@ -40,8 +7,8 @@
     "channelName": "DD Bangla",
     "startTs": 1788238800000,
     "stopTs": 1788240600000,
-    "title": "Shantiniketan Theke",
-    "desc": "A music and TV report show from DDK Santiniketan. It shares cultural news, local performances, and updates from the land of Tagore."
+    "title": "Swarnajuger Gaan",
+    "desc": "A comprehensive compilation of the most popular and melodious evergreen songs from vintage movies in the Bengali film industry."
   },
   {
     "start": "05:30",
@@ -52,7 +19,7 @@
     "startTs": 1788240600000,
     "stopTs": 1788240900000,
     "title": "5 Minute-E 15Ti Khabar",
-    "desc": "A quick and informative news program delivering the top 15 headlines in just 5 minutes. Stay updated with the latest happenings in the world, presented concisely and efficiently for your convenience."
+    "desc": "The host presents the best 15 news updates and developments based on social, political, sports and economic issues from around the world in five minutes."
   },
   {
     "start": "05:35",
@@ -220,17 +187,6 @@
     "desc": "Doctors race against time to save lives, facing emergencies, emotional challenges, and personal struggles inside a busy hospital."
   },
   {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "DDBangla.in",
-    "channelId": "DDBangla.in",
-    "channelName": "DD Bangla",
-    "startTs": 1788267600000,
-    "stopTs": 1788269400000,
-    "title": "Light Music",
-    "desc": "A comprehensive collection of songs that are light and soothing in style and tone in order to calm and relax discerning listeners."
-  },
-  {
     "start": "13:30",
     "stop": "13:45",
     "channel": "DDBangla.in",
@@ -262,28 +218,6 @@
     "stopTs": 1788274800000,
     "title": "Janadesh 2026",
     "desc": "Discussion prog. on Assembly Election LIVE"
-  },
-  {
-    "start": "14:30",
-    "stop": "14:32",
-    "channel": "DDBangla.in",
-    "channelId": "DDBangla.in",
-    "channelName": "DD Bangla",
-    "startTs": 1788273000000,
-    "stopTs": 1788273120000,
-    "title": "Sambad Ek Najare",
-    "desc": "The host presents the latest political, socio-economic, cultural, educational and sports news updates from across the state."
-  },
-  {
-    "start": "14:32",
-    "stop": "15:00",
-    "channel": "DDBangla.in",
-    "channelId": "DDBangla.in",
-    "channelName": "DD Bangla",
-    "startTs": 1788273120000,
-    "stopTs": 1788274800000,
-    "title": "Sham-E-Ghazal",
-    "desc": "Talented singers and musicians showcase their musical prowess by performing melodious renditions of various renowned &apos;ghazals&apos; to entertain the listeners."
   },
   {
     "start": "15:00",
@@ -911,5 +845,49 @@
     "stopTs": 1788409800000,
     "title": "Suswasthya",
     "desc": "Suswasthya is a health programme that shares tips for better living. It covers nutrition, fitness, mental wellness, and medical advice to help people lead healthier, happier lives every day."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "DDBangla.in",
+    "channelId": "DDBangla.in",
+    "channelName": "DD Bangla",
+    "startTs": 1788409800000,
+    "stopTs": 1788411600000,
+    "title": "Santarai Akhra",
+    "desc": "A show in the Santhali language. It shares local stories, songs, and cultural talks from the tribal community. A great way to hear their voice."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "DDBangla.in",
+    "channelId": "DDBangla.in",
+    "channelName": "DD Bangla",
+    "startTs": 1788411600000,
+    "stopTs": 1788413400000,
+    "title": "Jato Kando Social Mediay",
+    "desc": "Programme on Social Media Influencer"
+  },
+  {
+    "start": "05:30",
+    "stop": "05:35",
+    "channel": "DDBangla.in",
+    "channelId": "DDBangla.in",
+    "channelName": "DD Bangla",
+    "startTs": 1788413400000,
+    "stopTs": 1788413700000,
+    "title": "Sambad : 5 Minute-E-15 Ti Khabor",
+    "desc": "The host presents the latest news updates and developments pertaining to the economy, society, politics, business and sports from across the world."
+  },
+  {
+    "start": "05:35",
+    "stop": "06:30",
+    "channel": "DDBangla.in",
+    "channelId": "DDBangla.in",
+    "channelName": "DD Bangla",
+    "startTs": 1788413700000,
+    "stopTs": 1788417000000,
+    "title": "Dd Banglar Sangraha Theke",
+    "desc": "Programme from DD Archive"
   }
 ]

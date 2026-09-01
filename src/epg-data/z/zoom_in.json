@@ -1,16 +1,5 @@
 [
   {
-    "start": "02:30",
-    "stop": "04:30",
-    "channel": "Zoom.in",
-    "channelId": "Zoom.in",
-    "channelName": "Zoom",
-    "startTs": 1788229800000,
-    "stopTs": 1788237000000,
-    "title": "Sunrise Hits",
-    "desc": "Start your day with Bollywood! SUNRISE HITS brings you the perfect daily dose of upbeat Bollywood music. Get energized and set a positive tone for your day."
-  },
-  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "Zoom.in",
@@ -19,7 +8,7 @@
     "startTs": 1788237000000,
     "stopTs": 1788240600000,
     "title": "Likes Bajao",
-    "desc": "Listeners can request songs to be played! These songs should bring joy and help people relax. The goal is to create a happier, more enjoyable experience for everyone."
+    "desc": "Viewers from across the country vote for some of their most favourite songs on social media, which are played back to back."
   },
   {
     "start": "05:30",
@@ -350,5 +339,27 @@
     "stopTs": 1788409800000,
     "title": "Sunrise Hits",
     "desc": "Start your day with Bollywood! SUNRISE HITS brings you the perfect daily dose of upbeat Bollywood music. Get energized and set a positive tone for your day."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "Zoom.in",
+    "channelId": "Zoom.in",
+    "channelName": "Zoom",
+    "startTs": 1788409800000,
+    "stopTs": 1788413400000,
+    "title": "Likes Bajao",
+    "desc": "Listeners can request songs to be played! These songs should bring joy and help people relax. The goal is to create a happier, more enjoyable experience for everyone."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "Zoom.in",
+    "channelId": "Zoom.in",
+    "channelName": "Zoom",
+    "startTs": 1788413400000,
+    "stopTs": 1788417000000,
+    "title": "Pyaar Hits",
+    "desc": "Enjoy a delightful collection of iconic love songs, composed and performed by popular artists and musicians, bringing timeless romance and melodies to life in an unforgettable musical journey."
   }
 ]

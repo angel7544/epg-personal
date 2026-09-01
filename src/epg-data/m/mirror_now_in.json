@@ -1,36 +1,14 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "Mirror Now",
-    "startTs": 1788231600000,
-    "stopTs": 1788233400000,
-    "title": "Explosive Exclusive",
-    "desc": "This is News - News Bulletin Category"
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "MirrorNow.in",
-    "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
-    "startTs": 1788233400000,
-    "stopTs": 1788237000000,
-    "title": "The Morning News",
-    "desc": "The host sheds light on the latest socio-economic and political news, updates, and developments worldwide."
-  },
-  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "MirrorNow.in",
     "channelId": "MirrorNow.in",
-    "channelName": "MIRROR NOW",
+    "channelName": "Mirror Now",
     "startTs": 1788237000000,
     "stopTs": 1788240600000,
-    "title": "10 AM Ground Reality",
-    "desc": "The host provides detailed information on social issues and developments, along with public engagements."
+    "title": "NH 9",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "05:30",
@@ -779,5 +757,27 @@
     "stopTs": 1788409800000,
     "title": "The Morning News",
     "desc": "The host sheds light on the latest socio-economic and political news, updates, and developments worldwide."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "MIRROR NOW",
+    "startTs": 1788409800000,
+    "stopTs": 1788413400000,
+    "title": "10 AM Ground Reality",
+    "desc": "The host provides detailed information on social issues and developments, along with public engagements."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "MirrorNow.in",
+    "channelId": "MirrorNow.in",
+    "channelName": "MIRROR NOW",
+    "startTs": 1788413400000,
+    "stopTs": 1788417000000,
+    "title": "11 AM Big Story",
+    "desc": "The anchor presents an in-depth analysis of important updates that matter to people."
   }
 ]
