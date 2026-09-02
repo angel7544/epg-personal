@@ -1,302 +1,5 @@
 [
   {
-    "start": "05:00",
-    "stop": "06:00",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788238800000,
-    "stopTs": 1788242400000,
-    "title": "Kayal",
-    "desc": "Selfless Kayal, abandoned by her father and dealing with an alcoholic brother, works as a nurse for her family."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788242400000,
-    "stopTs": 1788244200000,
-    "title": "Kitchen Gallatta",
-    "desc": "A cookery based show, wherein popular personalities try their hand at preparing their favourite dishes."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788244200000,
-    "stopTs": 1788246000000,
-    "title": "Poongodi",
-    "desc": "Poongodi defies her father&apos;s chauvinism to pursue her college dreams. Her path intertwines with Saravanan, a naive youth misled by his cunning stepmother, as fate tests their bond."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788246000000,
-    "stopTs": 1788247800000,
-    "title": "Thulasi",
-    "desc": "Tulasi, an educated man, struggles to control his violent nature for his wife and baby. An enemy pushes him to act, breaking his family&apos;s trust."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:30",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788247800000,
-    "stopTs": 1788251400000,
-    "title": "Puthu Vasantham",
-    "desc": "Selvi, a single child, longs for a joint family, and her dream comes true when she gets married to a large family."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788251400000,
-    "stopTs": 1788253200000,
-    "title": "Siragugal",
-    "desc": "An Indian woman finds herself alone in an alien land when her husband begins an affair and she has to care for her two girls. A kind-hearted man helps her regain her confidence and she finds succes."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788253200000,
-    "stopTs": 1788255000000,
-    "title": "Iru Malargal",
-    "desc": "Iru Malargal - New Serial"
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788255000000,
-    "stopTs": 1788256800000,
-    "title": "Lakshmi",
-    "desc": "Maha, her family&apos;s main supporter, wishes to continue helping them after marrying Selvam. But challenges arise that test their marriage and the strength of family bonds."
-  },
-  {
-    "start": "10:00",
-    "stop": "12:30",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788256800000,
-    "stopTs": 1788265800000,
-    "title": "Thangathin Thangam",
-    "desc": "Movie name is still to be announced by this channel."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788265800000,
-    "stopTs": 1788267600000,
-    "title": "News",
-    "desc": "Stay updated with the latest headlines, breaking stories, and key developments from around the world, keeping viewers informed every day."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788267600000,
-    "stopTs": 1788269400000,
-    "title": "Annam",
-    "desc": "Exuding warmth and courage, self-reliant Annam, living with an estranged father and a cruel stepmother, longs for a loving bond to escape her home. Will she find the love she seeks?"
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788269400000,
-    "stopTs": 1788271200000,
-    "title": "Kayal",
-    "desc": "Selfless Kayal, abandoned by her father and dealing with an alcoholic brother, works as a nurse for her family."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788271200000,
-    "stopTs": 1788273000000,
-    "title": "Kayal",
-    "desc": "Selfless Kayal, abandoned by her father and dealing with an alcoholic brother, works as a nurse for her family."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788273000000,
-    "stopTs": 1788274800000,
-    "title": "Marumagal",
-    "desc": "Aathirai&apos;s love for helping others gets her into trouble, while Prabhu&apos;s selfishness threatens his family. Their chaotic paths intertwine in an unexpected marriage."
-  },
-  {
-    "start": "15:00",
-    "stop": "16:00",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788274800000,
-    "stopTs": 1788278400000,
-    "title": "Moondru Mudichu",
-    "desc": "Nandini values family above all, while Surya thrives on stirring up trouble. Can their contrasting priorities lead to chaos or unexpected unity? Find out what happens!"
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788278400000,
-    "stopTs": 1788280200000,
-    "title": "Singapenne",
-    "desc": "Born into a humble, troubled home, Anandhi leaves to secure a better life for her family. With brave, determined resolve, she faces life&apos;s harsh odds and pushes forward with unwavering spirit."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788280200000,
-    "stopTs": 1788282000000,
-    "title": "Ethirneechal Thodargiradhu",
-    "desc": "The Ethir Neechal family story continues as Janani and her co-sisters break barriers, strive for understanding, and protect relationships in an empowering journey."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788282000000,
-    "stopTs": 1788283800000,
-    "title": "Malli",
-    "desc": "Malli is a village belle who wants to fulfil her dreams in the big city. Though Aravind poses a threat to her initially, he, later, aids her aspirations."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788283800000,
-    "stopTs": 1788285600000,
-    "title": "Iru Malargal",
-    "desc": "Iru Malargal - New Serial"
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788285600000,
-    "stopTs": 1788287400000,
-    "title": "Puthu Vasantham",
-    "desc": "Selvi, a single child, longs for a joint family, and her dream comes true when she gets married to a large family."
-  },
-  {
-    "start": "18:30",
-    "stop": "21:30",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788287400000,
-    "stopTs": 1788298200000,
-    "title": "Nagaichuvai Galatta",
-    "desc": "A complete collection of the funniest and most entertaining comedy scenes, videos, and moments from popular Tamil movies, guaranteed to bring laughter and joy to viewers of all ages."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:30",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788298200000,
-    "stopTs": 1788301800000,
-    "title": "Thirai Thendral",
-    "desc": "The host connects with viewers through warm, meaningful conversations while playing their requested Tamil movie songs, creating an engaging and interactive musical experience."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:30",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788301800000,
-    "stopTs": 1788305400000,
-    "title": "Sugamana Ragangal",
-    "desc": "A curated collection of popular melodious songs, featuring compositions and performances by renowned artists, presented back-to-back for an enchanting musical experience."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:30",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788305400000,
-    "stopTs": 1788309000000,
-    "title": "Bakthi Paadalgal",
-    "desc": "A rich compilation of melodious songs, sung and composed by talented artists, designed to inspire devotion, uplift the spirit, and create a serene, spiritually enriching experience for listeners."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788309000000,
-    "stopTs": 1788310800000,
-    "title": "Aalaya Vazhipadu",
-    "desc": "A religious leader highlights the significance of worship, explaining how devotion and spiritual practices bring peace, happiness, and harmony into the lives of individuals and communities."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:15",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788310800000,
-    "stopTs": 1788311700000,
-    "title": "Aanmeega Kadhaigal",
-    "desc": "The host presents spiritual discourses, narrating stories and teachings from religious texts to inspire viewers to live a righteous, virtuous life filled with faith and moral values."
-  },
-  {
-    "start": "01:15",
-    "stop": "02:00",
-    "channel": "SunTV.in",
-    "channelId": "SunTV.in",
-    "channelName": "Sun TV",
-    "startTs": 1788311700000,
-    "stopTs": 1788314400000,
-    "title": "Nalla Kaalam Pirakuthu",
-    "desc": "An astrologer offers daily forecasts and insightful predictions for people of all sun signs, interpreting life events and guidance through the principles of the 27 nakshatras."
-  },
-  {
     "start": "02:00",
     "stop": "02:30",
     "channel": "SunTV.in",
@@ -305,7 +8,7 @@
     "startTs": 1788314400000,
     "stopTs": 1788316200000,
     "title": "News",
-    "desc": "Stay updated with the latest headlines, breaking stories, and key developments from around the world, keeping viewers informed every day."
+    "desc": "The host provides the latest information, advancements, and developments regarding various political, economic and social issues."
   },
   {
     "start": "02:30",
@@ -316,7 +19,7 @@
     "startTs": 1788316200000,
     "stopTs": 1788318000000,
     "title": "Vanakkam Thamizha",
-    "desc": "A morning talk show featuring celebrities and experts from diverse fields who share insights on various topics, offering viewers an engaging and informative start to their day."
+    "desc": "The hosts interact with renowned personalities and also present the latest updates from across the globe, ranging from entertainment to technology."
   },
   {
     "start": "03:00",
@@ -338,7 +41,7 @@
     "startTs": 1788321600000,
     "stopTs": 1788325200000,
     "title": "Ethirneechal",
-    "desc": "A show that dramatic nature."
+    "desc": "Kunjithapadham is embarrassed by his name and has low self-confidence as well. When his lover, Geeta, a schoolteacher, motivates him to prove himself, he participates in the Chennai Marathon."
   },
   {
     "start": "05:00",
@@ -348,8 +51,8 @@
     "channelName": "Sun TV",
     "startTs": 1788325200000,
     "stopTs": 1788328800000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "title": "Kayal",
+    "desc": "Selfless Kayal, abandoned by her father and dealing with an alcoholic brother, works as a nurse for her family."
   },
   {
     "start": "06:00",
@@ -414,8 +117,8 @@
     "channelName": "Sun TV",
     "startTs": 1788337800000,
     "stopTs": 1788339600000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "title": "Siragugal",
+    "desc": "An Indian woman finds herself alone in an alien land when her husband begins an affair and she has to care for her two girls. A kind-hearted man helps her regain her confidence and she finds succes."
   },
   {
     "start": "09:00",
@@ -447,8 +150,8 @@
     "channelName": "Sun TV",
     "startTs": 1788343200000,
     "stopTs": 1788352200000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "title": "Pallikoodam",
+    "desc": "An ailing school in a village faces demolition, but old students rally to prevent its closure, showing the power of community and nostalgia in preserving what matters most."
   },
   {
     "start": "12:30",
@@ -480,8 +183,8 @@
     "channelName": "Sun TV",
     "startTs": 1788355800000,
     "stopTs": 1788359400000,
-    "title": "Movie",
-    "desc": "Movie name is still to be announced by this channel."
+    "title": "Kayal",
+    "desc": "Selfless Kayal, abandoned by her father and dealing with an alcoholic brother, works as a nurse for her family."
   },
   {
     "start": "14:30",
@@ -679,7 +382,7 @@
     "startTs": 1788408000000,
     "stopTs": 1788411600000,
     "title": "Ethirneechal",
-    "desc": "Kunjithapadham is embarrassed by his name and has low self-confidence as well. When his lover, Geeta, a schoolteacher, motivates him to prove himself, he participates in the Chennai Marathon."
+    "desc": "A show that dramatic nature."
   },
   {
     "start": "05:00",
@@ -691,5 +394,324 @@
     "stopTs": 1788415200000,
     "title": "Movie",
     "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788415200000,
+    "stopTs": 1788417000000,
+    "title": "Kitchen Gallatta",
+    "desc": "A cookery based show, wherein popular personalities try their hand at preparing their favourite dishes."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788417000000,
+    "stopTs": 1788418800000,
+    "title": "Poongodi",
+    "desc": "Poongodi defies her father&apos;s chauvinism to pursue her college dreams. Her path intertwines with Saravanan, a naive youth misled by his cunning stepmother, as fate tests their bond."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788418800000,
+    "stopTs": 1788420600000,
+    "title": "Thulasi",
+    "desc": "Tulasi, an educated man, struggles to control his violent nature for his wife and baby. An enemy pushes him to act, breaking his family&apos;s trust."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788420600000,
+    "stopTs": 1788422400000,
+    "title": "Vinodhini",
+    "desc": "When her soldier husband goes missing, Vinothini holds on to hope. As a single mother, she supports his family and faces every hardship with strength and love."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788422400000,
+    "stopTs": 1788424200000,
+    "title": "Puthu Vasantham",
+    "desc": "Selvi, a single child, longs for a joint family, and her dream comes true when she gets married to a large family."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788424200000,
+    "stopTs": 1788426000000,
+    "title": "Siragugal",
+    "desc": "An Indian woman finds herself alone in an alien land when her husband begins an affair and she has to care for her two girls. A kind-hearted man helps her regain her confidence and she finds succes."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788426000000,
+    "stopTs": 1788427800000,
+    "title": "Iru Malargal",
+    "desc": "Iru Malargal - New Serial"
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788427800000,
+    "stopTs": 1788429600000,
+    "title": "Lakshmi",
+    "desc": "Maha, her family&apos;s main supporter, wishes to continue helping them after marrying Selvam. But challenges arise that test their marriage and the strength of family bonds."
+  },
+  {
+    "start": "10:00",
+    "stop": "12:30",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788429600000,
+    "stopTs": 1788438600000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788438600000,
+    "stopTs": 1788440400000,
+    "title": "News",
+    "desc": "Stay updated with the latest headlines, breaking stories, and key developments from around the world, keeping viewers informed every day."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788440400000,
+    "stopTs": 1788442200000,
+    "title": "Annam",
+    "desc": "Exuding warmth and courage, self-reliant Annam, living with an estranged father and a cruel stepmother, longs for a loving bond to escape her home. Will she find the love she seeks?"
+  },
+  {
+    "start": "13:30",
+    "stop": "14:30",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788442200000,
+    "stopTs": 1788445800000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788445800000,
+    "stopTs": 1788447600000,
+    "title": "Marumagal",
+    "desc": "Aathirai&apos;s love for helping others gets her into trouble, while Prabhu&apos;s selfishness threatens his family. Their chaotic paths intertwine in an unexpected marriage."
+  },
+  {
+    "start": "15:00",
+    "stop": "16:00",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788447600000,
+    "stopTs": 1788451200000,
+    "title": "Moondru Mudichu",
+    "desc": "Nandini values family above all, while Surya thrives on stirring up trouble. Can their contrasting priorities lead to chaos or unexpected unity? Find out what happens!"
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788451200000,
+    "stopTs": 1788453000000,
+    "title": "Singapenne",
+    "desc": "Born into a humble, troubled home, Anandhi leaves to secure a better life for her family. With brave, determined resolve, she faces life&apos;s harsh odds and pushes forward with unwavering spirit."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788453000000,
+    "stopTs": 1788454800000,
+    "title": "Ethirneechal Thodargiradhu",
+    "desc": "The Ethir Neechal family story continues as Janani and her co-sisters break barriers, strive for understanding, and protect relationships in an empowering journey."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788454800000,
+    "stopTs": 1788456600000,
+    "title": "Malli",
+    "desc": "Malli is a village belle who wants to fulfil her dreams in the big city. Though Aravind poses a threat to her initially, he, later, aids her aspirations."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788456600000,
+    "stopTs": 1788458400000,
+    "title": "Iru Malargal",
+    "desc": "Iru Malargal - New Serial"
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788458400000,
+    "stopTs": 1788460200000,
+    "title": "Puthu Vasantham",
+    "desc": "Selvi, a single child, longs for a joint family, and her dream comes true when she gets married to a large family."
+  },
+  {
+    "start": "18:30",
+    "stop": "21:30",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788460200000,
+    "stopTs": 1788471000000,
+    "title": "Nagaichuvai Galata",
+    "desc": "A complete collection of the funniest and most entertaining comedy scenes, videos, and moments from popular Tamil movies, guaranteed to bring laughter and joy to viewers of all ages."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:30",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788471000000,
+    "stopTs": 1788474600000,
+    "title": "Thirai Thendral",
+    "desc": "The host connects with viewers through warm, meaningful conversations while playing their requested Tamil movie songs, creating an engaging and interactive musical experience."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:30",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788474600000,
+    "stopTs": 1788478200000,
+    "title": "Sugamana Ragangal",
+    "desc": "A curated collection of popular melodious songs, featuring compositions and performances by renowned artists, presented back-to-back for an enchanting musical experience."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:30",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788478200000,
+    "stopTs": 1788481800000,
+    "title": "Bakthi Paadalgal",
+    "desc": "A rich compilation of melodious songs, sung and composed by talented artists, designed to inspire devotion, uplift the spirit, and create a serene, spiritually enriching experience for listeners."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788481800000,
+    "stopTs": 1788483600000,
+    "title": "Aalaya Vazhipadu",
+    "desc": "A religious leader highlights the significance of worship, explaining how devotion and spiritual practices bring peace, happiness, and harmony into the lives of individuals and communities."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:15",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788483600000,
+    "stopTs": 1788484500000,
+    "title": "Aanmeega Kadhaigal",
+    "desc": "The host presents spiritual discourses, narrating stories and teachings from religious texts to inspire viewers to live a righteous, virtuous life filled with faith and moral values."
+  },
+  {
+    "start": "01:15",
+    "stop": "02:00",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788484500000,
+    "stopTs": 1788487200000,
+    "title": "Nalla Kaalam Pirakkudhu",
+    "desc": "An astrologer offers daily forecasts and insightful predictions for people of all sun signs, interpreting life events and guidance through the principles of the 27 nakshatras."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788487200000,
+    "stopTs": 1788489000000,
+    "title": "News",
+    "desc": "Stay updated with the latest headlines, breaking stories, and key developments from around the world, keeping viewers informed every day."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788489000000,
+    "stopTs": 1788490800000,
+    "title": "Vanakkam Thamizha",
+    "desc": "A morning talk show featuring celebrities and experts from diverse fields who share insights on various topics, offering viewers an engaging and informative start to their day."
+  },
+  {
+    "start": "03:00",
+    "stop": "04:00",
+    "channel": "SunTV.in",
+    "channelId": "SunTV.in",
+    "channelName": "Sun TV",
+    "startTs": 1788490800000,
+    "stopTs": 1788494400000,
+    "title": "Ramayanam",
+    "desc": "Prince Rama of Ayodhya, honoring his father&apos;s promise, enters exile. When Ravana kidnaps Sita, Rama wages war to rescue her, returning triumphant to be crowned king of Ayodhya."
   }
 ]

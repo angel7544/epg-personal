@@ -1,410 +1,36 @@
 [
   {
-    "start": "03:30",
-    "stop": "08:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "Janam TV",
-    "startTs": 1788233400000,
-    "stopTs": 1788251400000,
-    "title": "Live News",
-    "desc": "The host collates and presents some of the most important news and latest updates that cater to the interests of the people, live."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788240600000,
-    "stopTs": 1788244200000,
-    "title": "Happening Now @ 11AM - News",
-    "desc": "Take a look at the latest social, economic and political news of the day."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788244200000,
-    "stopTs": 1788247800000,
-    "title": "Happening Now @ 12 Pm",
-    "desc": "Tune into the latest social, economic and political news of the day."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788247800000,
-    "stopTs": 1788251400000,
-    "title": "Janam News @ 1",
-    "desc": "Take a look at the latest political, social and economic news and updates from the country and around the world."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788251400000,
-    "stopTs": 1788255000000,
-    "title": "News @ 2 Pm",
-    "desc": "Tune into the most recent developments with respect to local, national and international news."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788255000000,
-    "stopTs": 1788258600000,
-    "title": "Keralam @3PM",
-    "desc": "Tune into the updates on the latest news, events and developments in the state of Kerala."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "Janam TV",
-    "startTs": 1788256800000,
-    "stopTs": 1788258600000,
-    "title": "Polichezhuthu",
-    "desc": "The host analyses the latest state political updates, offering insights and observations of the impact on everyday citizens."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788258600000,
-    "stopTs": 1788262200000,
-    "title": "News @ 4 Pm",
-    "desc": "Catch the latest news from the fields of politics, finance, society, crime and sports from around the country."
-  },
-  {
-    "start": "11:15",
-    "stop": "11:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "Janam TV",
-    "startTs": 1788261300000,
-    "stopTs": 1788262200000,
-    "title": "Sanskrit News",
-    "desc": "The host presents the latest developments on socio-political, economic and sports-related issues of national and global significance in Sanskrit."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788262200000,
-    "stopTs": 1788265800000,
-    "title": "Cm Press Meet Live",
-    "desc": "The chief minister of Kerala interacts with the journalists. He is expected to talk about the present covid-19 cases, deaths etc."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788265800000,
-    "stopTs": 1788269400000,
-    "title": "Vartha Neram - News",
-    "desc": "Catch the latest news and events from the state of Kerala."
-  },
-  {
-    "start": "13:00",
-    "stop": "14:00",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "Janam TV",
-    "startTs": 1788267600000,
-    "stopTs": 1788271200000,
-    "title": "Live News",
-    "desc": "The host collates and presents some of the most important news and latest updates that cater to the interests of the people, live."
-  },
-  {
-    "start": "13:30",
-    "stop": "15:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788269400000,
-    "stopTs": 1788276600000,
-    "title": "Janasabha - Debate",
-    "desc": "The host moderates a panel where the general public and political leaders participate to debate the current issues in the state."
-  },
-  {
-    "start": "14:00",
-    "stop": "15:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "Janam TV",
-    "startTs": 1788271200000,
-    "stopTs": 1788276600000,
-    "title": "Janam Debate",
-    "desc": "The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788276600000,
-    "stopTs": 1788280200000,
-    "title": "Janam Tonight - News",
-    "desc": "In this show experts discuss various social issue and share their opinion."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "Janam TV",
-    "startTs": 1788278400000,
-    "stopTs": 1788280200000,
-    "title": "Nattu Varambu",
-    "desc": "The host sheds light on a number of small-scale, home-grown businesses run by people from rural regions and studies the way they operate their enterprises."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788280200000,
-    "stopTs": 1788282000000,
-    "title": "Vaazhve Maayam",
-    "desc": "Rich Raja falls in love with Devi, a beautiful air hostess. She agrees to marry him, but just before their wedding, Raja learns that he has Cancer."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788282000000,
-    "stopTs": 1788283800000,
-    "title": "News",
-    "desc": "Brings you verified updates, breaking stories, and key headlines of the day, helping you stay connected with what&apos;s happening around you. Stay informed."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788283800000,
-    "stopTs": 1788285600000,
-    "title": "Pravasineram",
-    "desc": "Catch the latest news and developments regarding important issues and events pertaining to the Indians settled in the Middle East."
-  },
-  {
-    "start": "18:00",
-    "stop": "19:00",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788285600000,
-    "stopTs": 1788289200000,
-    "title": "Pravasikal Parayatte",
-    "desc": "The host presents a report on current affairs and interacts with the Keralite diaspora to learn more about their issues."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "Janam TV",
-    "startTs": 1788287400000,
-    "stopTs": 1788289200000,
-    "title": "Janam Debate",
-    "desc": "The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society."
-  },
-  {
-    "start": "19:00",
-    "stop": "20:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788289200000,
-    "stopTs": 1788294600000,
-    "title": "Janam Debate",
-    "desc": "This program features a panel discussion about the main news that hit the headline for the day."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "Janam TV",
-    "startTs": 1788291000000,
-    "stopTs": 1788292800000,
-    "title": "Janam Tonight",
-    "desc": "The host collates and presents the latest updates and key developments pertaining to the socio-political and economic matters of the day."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "Janam TV",
-    "startTs": 1788292800000,
-    "stopTs": 1788294600000,
-    "title": "Polichezhuthu",
-    "desc": "The host analyses the latest state political updates, offering insights and observations of the impact on everyday citizens."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788294600000,
-    "stopTs": 1788296400000,
-    "title": "Vaazhve Maayam",
-    "desc": "Rich Raja falls in love with Devi, a beautiful air hostess. She agrees to marry him, but just before their wedding, Raja learns that he has Cancer."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788296400000,
-    "stopTs": 1788298200000,
-    "title": "Life Line",
-    "desc": "In this show doctors and health experts discuss various topic related to health."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788298200000,
-    "stopTs": 1788300000000,
-    "title": "Malabar Manual",
-    "desc": "Tune into the latest social and political happenings from the Malabar region of Kerala."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788300000000,
-    "stopTs": 1788301800000,
-    "title": "Kadhakali",
-    "desc": "The host explains the current political situation in Kerala in a satirical tone."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788301800000,
-    "stopTs": 1788303600000,
-    "title": "Bakkipathram",
-    "desc": "This program chronicles various sensational issues that have happened across Kerala."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788303600000,
-    "stopTs": 1788305400000,
-    "title": "Vaazhve Maayam",
-    "desc": "Rich Raja falls in love with Devi, a beautiful air hostess. She agrees to marry him, but just before their wedding, Raja learns that he has Cancer."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788305400000,
-    "stopTs": 1788307200000,
-    "title": "Marupadi",
-    "desc": "Eminent personalities from different walks of life share their career experiences."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788307200000,
-    "stopTs": 1788309000000,
-    "title": "Deeparadhana",
-    "desc": "Religious leaders and devotees come together to worship the Almighty and seek blessings."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788309000000,
-    "stopTs": 1788310800000,
-    "title": "Chaithanyamrutham",
-    "desc": "An engaging entertainment-based program featuring positive stories, performances, and culture-driven content that uplifts and connects with the audience. A refreshing watch for your day."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788310800000,
-    "stopTs": 1788312600000,
-    "title": "Koronayil Karuthalode",
-    "desc": "The host presents a report on the latest updates pertaining to the coronavirus disease outbreak, along with statistics and precautionary measures."
-  },
-  {
     "start": "01:30",
     "stop": "02:30",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788312600000,
     "stopTs": 1788316200000,
-    "title": "Varthapulari - News",
-    "desc": "Catch the latest trending news stories in Kerala related to politics, culture, sports and entertainment."
+    "title": "Live News",
+    "desc": "The host collates and presents some of the most important news and latest updates, live."
   },
   {
     "start": "02:30",
     "stop": "03:00",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788316200000,
     "stopTs": 1788318000000,
-    "title": "Koronayil Karuthalode",
-    "desc": "The host presents a report on the latest updates pertaining to the coronavirus disease outbreak, along with statistics and precautionary measures."
+    "title": "Natuvishesham",
+    "desc": "The host collates and presents the latest news and developments from across the nation."
   },
   {
     "start": "03:00",
-    "stop": "04:30",
+    "stop": "03:30",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788318000000,
-    "stopTs": 1788323400000,
-    "title": "Breaking Now @ 8.30",
-    "desc": "Tune into an update of the latest regional news from Kerala."
+    "stopTs": 1788319800000,
+    "title": "Kadhakali",
+    "desc": "The host presents Kerala&apos;s latest political updates with a satirical twist."
   },
   {
     "start": "03:30",
@@ -415,7 +41,7 @@
     "startTs": 1788319800000,
     "stopTs": 1788337800000,
     "title": "Live News",
-    "desc": "The host collates and presents some of the most important news and latest updates that cater to the interests of the people, live."
+    "desc": "The host collates and presents some of the most important news and latest updates, live."
   },
   {
     "start": "04:30",
@@ -466,22 +92,22 @@
     "stop": "09:30",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788337800000,
     "stopTs": 1788341400000,
-    "title": "News @ 2 Pm",
-    "desc": "Tune into the most recent developments with respect to local, national and international news."
+    "title": "News At 2 PM",
+    "desc": "The host presents the latest news regarding politics, current affairs and economic issues."
   },
   {
     "start": "09:30",
-    "stop": "10:30",
+    "stop": "10:00",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788341400000,
-    "stopTs": 1788345000000,
-    "title": "Keralam @3PM",
-    "desc": "Tune into the updates on the latest news, events and developments in the state of Kerala."
+    "stopTs": 1788343200000,
+    "title": "Live News",
+    "desc": "The host collates and presents some of the most important news and latest updates, live."
   },
   {
     "start": "10:00",
@@ -492,18 +118,18 @@
     "startTs": 1788343200000,
     "stopTs": 1788345000000,
     "title": "Polichezhuthu",
-    "desc": "The host analyses the latest state political updates, offering insights and observations of the impact on everyday citizens."
+    "desc": "The host analyses the latest state political updates, offering insights and observations."
   },
   {
     "start": "10:30",
-    "stop": "11:30",
+    "stop": "11:15",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788345000000,
-    "stopTs": 1788348600000,
-    "title": "News @ 4 Pm",
-    "desc": "Catch the latest news from the fields of politics, finance, society, crime and sports from around the country."
+    "stopTs": 1788347700000,
+    "title": "News @ 4 PM",
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "11:15",
@@ -514,29 +140,29 @@
     "startTs": 1788347700000,
     "stopTs": 1788348600000,
     "title": "Sanskrit News",
-    "desc": "The host presents the latest developments on socio-political, economic and sports-related issues of national and global significance in Sanskrit."
+    "desc": "The host sheds light on the issues of national and global significance in Sanskrit."
   },
   {
     "start": "11:30",
     "stop": "12:30",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788348600000,
     "stopTs": 1788352200000,
-    "title": "Cm Press Meet Live",
-    "desc": "The chief minister of Kerala interacts with the journalists. He is expected to talk about the present covid-19 cases, deaths etc."
+    "title": "Live News",
+    "desc": "The host collates and presents some of the most important news and latest updates, live."
   },
   {
     "start": "12:30",
-    "stop": "13:30",
+    "stop": "13:00",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788352200000,
-    "stopTs": 1788355800000,
-    "title": "Vartha Neram - News",
-    "desc": "Catch the latest news and events from the state of Kerala."
+    "stopTs": 1788354000000,
+    "title": "Vartha Neram",
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "13:00",
@@ -547,7 +173,7 @@
     "startTs": 1788354000000,
     "stopTs": 1788357600000,
     "title": "Live News",
-    "desc": "The host collates and presents some of the most important news and latest updates that cater to the interests of the people, live."
+    "desc": "The host collates and presents some of the most important news and latest updates, live."
   },
   {
     "start": "13:30",
@@ -569,18 +195,18 @@
     "startTs": 1788357600000,
     "stopTs": 1788363000000,
     "title": "Janam Debate",
-    "desc": "The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society."
+    "desc": "Eminent personalities from various walks of life discuss and debate current issues."
   },
   {
     "start": "15:30",
-    "stop": "16:30",
+    "stop": "16:00",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788363000000,
-    "stopTs": 1788366600000,
-    "title": "Janam Tonight - News",
-    "desc": "In this show experts discuss various social issue and share their opinion."
+    "stopTs": 1788364800000,
+    "title": "Janam Tonight",
+    "desc": "The host collates and presents the latest updates pertaining tot the current affairs of the day."
   },
   {
     "start": "16:00",
@@ -591,205 +217,249 @@
     "startTs": 1788364800000,
     "stopTs": 1788366600000,
     "title": "Nattu Varambu",
-    "desc": "The host sheds light on a number of small-scale, home-grown businesses run by people from rural regions and studies the way they operate their enterprises."
+    "desc": "The host sheds light on small-scale businesses operated by people from rural regions."
   },
   {
     "start": "16:30",
     "stop": "17:00",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788366600000,
     "stopTs": 1788368400000,
-    "title": "Vaazhve Maayam",
-    "desc": "Rich Raja falls in love with Devi, a beautiful air hostess. She agrees to marry him, but just before their wedding, Raja learns that he has Cancer."
+    "title": "Live News",
+    "desc": "The host collates and presents some of the most important news and latest updates, live."
   },
   {
     "start": "17:00",
     "stop": "17:30",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788368400000,
     "stopTs": 1788370200000,
-    "title": "News",
-    "desc": "Brings you verified updates, breaking stories, and key headlines of the day, helping you stay connected with what&apos;s happening around you. Stay informed."
+    "title": "Ratnasastra",
+    "desc": "An expert on astrology makes some predictions based on the placement of celestial bodies."
   },
   {
     "start": "17:30",
     "stop": "18:00",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788370200000,
     "stopTs": 1788372000000,
     "title": "Pravasineram",
-    "desc": "Catch the latest news and developments regarding important issues and events pertaining to the Indians settled in the Middle East."
+    "desc": "The host gives a concise roundup of recent global events, highlighting key developments."
   },
   {
     "start": "18:00",
+    "stop": "18:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788372000000,
+    "stopTs": 1788373800000,
+    "title": "Namasthe Arabia",
+    "desc": "The host travels to the land of Arabia and highlights some of the most fascinating facts."
+  },
+  {
+    "start": "18:30",
     "stop": "19:00",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788372000000,
+    "channelName": "Janam TV",
+    "startTs": 1788373800000,
     "stopTs": 1788375600000,
-    "title": "Pravasikal Parayatte",
-    "desc": "The host presents a report on current affairs and interacts with the Keralite diaspora to learn more about their issues."
+    "title": "Janam Debate",
+    "desc": "Eminent personalities from various walks of life discuss and debate current issues."
   },
   {
     "start": "19:00",
+    "stop": "19:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788375600000,
+    "stopTs": 1788377400000,
+    "title": "Janam Debate",
+    "desc": "Eminent personalities from various walks of life discuss and debate current issues."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788377400000,
+    "stopTs": 1788379200000,
+    "title": "Janam Tonight",
+    "desc": "The host collates and presents the latest updates pertaining tot the current affairs of the day."
+  },
+  {
+    "start": "20:00",
     "stop": "20:30",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1788375600000,
+    "channelName": "Janam TV",
+    "startTs": 1788379200000,
     "stopTs": 1788381000000,
-    "title": "Janam Debate",
-    "desc": "This program features a panel discussion about the main news that hit the headline for the day."
+    "title": "Marupadi",
+    "desc": "The host talks to personalities to learn about their personal and professional lives."
   },
   {
     "start": "20:30",
     "stop": "21:00",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788381000000,
     "stopTs": 1788382800000,
-    "title": "Vaazhve Maayam",
-    "desc": "Rich Raja falls in love with Devi, a beautiful air hostess. She agrees to marry him, but just before their wedding, Raja learns that he has Cancer."
+    "title": "Kadhakali",
+    "desc": "The host presents Kerala&apos;s latest political updates with a satirical twist."
   },
   {
     "start": "21:00",
     "stop": "21:30",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788382800000,
     "stopTs": 1788384600000,
-    "title": "Life Line",
-    "desc": "In this show doctors and health experts discuss various topic related to health."
+    "title": "Polichezhuthu",
+    "desc": "The host analyses the latest state political updates, offering insights and observations."
   },
   {
     "start": "21:30",
     "stop": "22:00",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788384600000,
     "stopTs": 1788386400000,
-    "title": "Malabar Manual",
-    "desc": "Tune into the latest social and political happenings from the Malabar region of Kerala."
+    "title": "Nattu Varambu",
+    "desc": "The host sheds light on small-scale businesses operated by people from rural regions."
   },
   {
     "start": "22:00",
     "stop": "22:30",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788386400000,
     "stopTs": 1788388200000,
-    "title": "Polichezhuthu",
-    "desc": "Show features the major issues that hit the headlines are analyzed in detail."
+    "title": "Janam Debate",
+    "desc": "Eminent personalities from various walks of life discuss and debate current issues."
   },
   {
     "start": "22:30",
     "stop": "23:00",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788388200000,
     "stopTs": 1788390000000,
-    "title": "Nattu Varambu",
-    "desc": "The presenter highlights small-scale, rural businesses, exploring their operations and the challenges they face."
+    "title": "Janam Debate",
+    "desc": "Eminent personalities from various walks of life discuss and debate current issues."
   },
   {
     "start": "23:00",
     "stop": "23:30",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788390000000,
     "stopTs": 1788391800000,
-    "title": "Vaazhve Maayam",
-    "desc": "Rich Raja falls in love with Devi, a beautiful air hostess. She agrees to marry him, but just before their wedding, Raja learns that he has Cancer."
+    "title": "Janam Tonight",
+    "desc": "The host collates and presents the latest updates pertaining tot the current affairs of the day."
   },
   {
     "start": "23:30",
     "stop": "00:00",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788391800000,
     "stopTs": 1788393600000,
     "title": "Marupadi",
-    "desc": "Eminent personalities from different walks of life share their career experiences."
+    "desc": "The host talks to personalities to learn about their personal and professional lives."
   },
   {
     "start": "00:00",
     "stop": "00:30",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788393600000,
     "stopTs": 1788395400000,
-    "title": "Deeparadhana",
-    "desc": "Religious leaders and devotees come together to worship the Almighty and seek blessings."
+    "title": "Kadhakali",
+    "desc": "The host presents Kerala&apos;s latest political updates with a satirical twist."
   },
   {
     "start": "00:30",
     "stop": "01:00",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788395400000,
     "stopTs": 1788397200000,
-    "title": "Chaithanyamrutham",
-    "desc": "An engaging entertainment-based program featuring positive stories, performances, and culture-driven content that uplifts and connects with the audience. A refreshing watch for your day."
+    "title": "Live News",
+    "desc": "The host collates and presents some of the most important news and latest updates, live."
   },
   {
     "start": "01:00",
     "stop": "01:30",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788397200000,
     "stopTs": 1788399000000,
-    "title": "Koronayil Karuthalode",
-    "desc": "The host presents a report on the latest updates pertaining to the coronavirus disease outbreak, along with statistics and precautionary measures."
+    "title": "Nattu Varambu",
+    "desc": "The host sheds light on small-scale businesses operated by people from rural regions."
   },
   {
     "start": "01:30",
     "stop": "02:30",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788399000000,
     "stopTs": 1788402600000,
-    "title": "Varthapulari - News",
-    "desc": "Catch the latest trending news stories in Kerala related to politics, culture, sports and entertainment."
+    "title": "Live News",
+    "desc": "The host collates and presents some of the most important news and latest updates, live."
   },
   {
     "start": "02:30",
     "stop": "03:00",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788402600000,
     "stopTs": 1788404400000,
-    "title": "Koronayil Karuthalode",
-    "desc": "The host presents a report on the latest updates pertaining to the coronavirus disease outbreak, along with statistics and precautionary measures."
+    "title": "Natuvishesham",
+    "desc": "The host collates and presents the latest news and developments from across the nation."
   },
   {
     "start": "03:00",
-    "stop": "04:30",
+    "stop": "03:30",
     "channel": "JanamTV.in",
     "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
+    "channelName": "Janam TV",
     "startTs": 1788404400000,
-    "stopTs": 1788409800000,
-    "title": "Breaking Now @ 8.30",
-    "desc": "Tune into an update of the latest regional news from Kerala."
+    "stopTs": 1788406200000,
+    "title": "Around The World",
+    "desc": "The host provides updates on various stories and major events that occur around the world."
+  },
+  {
+    "start": "03:30",
+    "stop": "08:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788406200000,
+    "stopTs": 1788424200000,
+    "title": "Live News",
+    "desc": "The host collates and presents some of the most important news and latest updates, live."
   },
   {
     "start": "04:30",
@@ -812,5 +482,368 @@
     "stopTs": 1788417000000,
     "title": "Happening Now @ 11AM - News",
     "desc": "Take a look at the latest social, economic and political news of the day."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788417000000,
+    "stopTs": 1788420600000,
+    "title": "Happening Now @ 12 Pm",
+    "desc": "Tune into the latest social, economic and political news of the day."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788420600000,
+    "stopTs": 1788424200000,
+    "title": "Janam News @ 1",
+    "desc": "Take a look at the latest political, social and economic news and updates from the country and around the world."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788424200000,
+    "stopTs": 1788427800000,
+    "title": "News At 2 PM",
+    "desc": "The host presents the latest news regarding politics, current affairs and economic issues."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788427800000,
+    "stopTs": 1788429600000,
+    "title": "Live News",
+    "desc": "The host collates and presents some of the most important news and latest updates, live."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788429600000,
+    "stopTs": 1788431400000,
+    "title": "Slot",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:15",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788431400000,
+    "stopTs": 1788434100000,
+    "title": "News @ 4 PM",
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "11:15",
+    "stop": "11:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788434100000,
+    "stopTs": 1788435000000,
+    "title": "Sanskrit News",
+    "desc": "The host sheds light on the issues of national and global significance in Sanskrit."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788435000000,
+    "stopTs": 1788438600000,
+    "title": "Live News",
+    "desc": "The host collates and presents some of the most important news and latest updates, live."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788438600000,
+    "stopTs": 1788440400000,
+    "title": "Vartha Neram",
+    "desc": "The host presents information about the social, economic and political issues of the day."
+  },
+  {
+    "start": "13:00",
+    "stop": "14:00",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788440400000,
+    "stopTs": 1788444000000,
+    "title": "Live News",
+    "desc": "The host collates and presents some of the most important news and latest updates, live."
+  },
+  {
+    "start": "13:30",
+    "stop": "15:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788442200000,
+    "stopTs": 1788449400000,
+    "title": "Janasabha - Debate",
+    "desc": "The host moderates a panel where the general public and political leaders participate to debate the current issues in the state."
+  },
+  {
+    "start": "14:00",
+    "stop": "15:00",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788444000000,
+    "stopTs": 1788447600000,
+    "title": "Janam Debate",
+    "desc": "Eminent personalities from various walks of life discuss and debate current issues."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788447600000,
+    "stopTs": 1788449400000,
+    "title": "Polichezhuthu",
+    "desc": "The host analyses the latest state political updates, offering insights and observations."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788449400000,
+    "stopTs": 1788451200000,
+    "title": "Janam Tonight",
+    "desc": "The host collates and presents the latest updates pertaining tot the current affairs of the day."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788451200000,
+    "stopTs": 1788453000000,
+    "title": "Marupadi",
+    "desc": "The host talks to personalities to learn about their personal and professional lives."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788453000000,
+    "stopTs": 1788456600000,
+    "title": "Live News",
+    "desc": "The host collates and presents some of the most important news and latest updates, live."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788454800000,
+    "stopTs": 1788456600000,
+    "title": "News",
+    "desc": "Brings you verified updates, breaking stories, and key headlines of the day, helping you stay connected with what&apos;s happening around you. Stay informed."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788456600000,
+    "stopTs": 1788458400000,
+    "title": "Pravasineram",
+    "desc": "The host gives a concise roundup of recent global events, highlighting key developments."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "Janam TV",
+    "startTs": 1788458400000,
+    "stopTs": 1788460200000,
+    "title": "Live News",
+    "desc": "The host collates and presents some of the most important news and latest updates, live."
+  },
+  {
+    "start": "19:00",
+    "stop": "20:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788462000000,
+    "stopTs": 1788467400000,
+    "title": "Janam Debate",
+    "desc": "This program features a panel discussion about the main news that hit the headline for the day."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788467400000,
+    "stopTs": 1788469200000,
+    "title": "Vaazhve Maayam",
+    "desc": "Rich Raja falls in love with Devi, a beautiful air hostess. She agrees to marry him, but just before their wedding, Raja learns that he has Cancer."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788469200000,
+    "stopTs": 1788471000000,
+    "title": "Life Line",
+    "desc": "In this show doctors and health experts discuss various topic related to health."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788471000000,
+    "stopTs": 1788472800000,
+    "title": "Nattu Varambu",
+    "desc": "The presenter highlights small-scale, rural businesses, exploring their operations and the challenges they face."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788472800000,
+    "stopTs": 1788474600000,
+    "title": "Bakkipathram",
+    "desc": "This program chronicles various sensational issues that have happened across Kerala."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788474600000,
+    "stopTs": 1788476400000,
+    "title": "Marupadi",
+    "desc": "Eminent personalities from different walks of life share their career experiences."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788476400000,
+    "stopTs": 1788478200000,
+    "title": "Vaazhve Maayam",
+    "desc": "Rich Raja falls in love with Devi, a beautiful air hostess. She agrees to marry him, but just before their wedding, Raja learns that he has Cancer."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788478200000,
+    "stopTs": 1788480000000,
+    "title": "Polichezhuthu",
+    "desc": "Show features the major issues that hit the headlines are analyzed in detail."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788480000000,
+    "stopTs": 1788481800000,
+    "title": "Deeparadhana",
+    "desc": "Religious leaders and devotees come together to worship the Almighty and seek blessings."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788481800000,
+    "stopTs": 1788483600000,
+    "title": "Chaithanyamrutham",
+    "desc": "An engaging entertainment-based program featuring positive stories, performances, and culture-driven content that uplifts and connects with the audience. A refreshing watch for your day."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788483600000,
+    "stopTs": 1788485400000,
+    "title": "Koronayil Karuthalode",
+    "desc": "The host presents a report on the latest updates pertaining to the coronavirus disease outbreak, along with statistics and precautionary measures."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788485400000,
+    "stopTs": 1788489000000,
+    "title": "Varthapulari - News",
+    "desc": "Catch the latest trending news stories in Kerala related to politics, culture, sports and entertainment."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788489000000,
+    "stopTs": 1788490800000,
+    "title": "Koronayil Karuthalode",
+    "desc": "The host presents a report on the latest updates pertaining to the coronavirus disease outbreak, along with statistics and precautionary measures."
+  },
+  {
+    "start": "03:00",
+    "stop": "04:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1788490800000,
+    "stopTs": 1788496200000,
+    "title": "Breaking Now @ 8.30",
+    "desc": "Tune into an update of the latest regional news from Kerala."
   }
 ]
