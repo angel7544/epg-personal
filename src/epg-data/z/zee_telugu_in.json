@@ -1,505 +1,76 @@
 [
   {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788746400000,
-    "stopTs": 1788748200000,
-    "title": "Srikaram Subhakaram",
-    "desc": "A renowned astrologer gives out daily horoscopes and predicts the outcomes and changes in an individual&apos;s life based on planetary positions."
-  },
-  {
     "start": "02:30",
     "stop": "03:00",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788748200000,
-    "stopTs": 1788750000000,
-    "title": "Omkaram",
-    "desc": "Join a famous astrologer as they share practical remedies to help viewers navigate personal and professional challenges, guiding you toward solutions and a brighter, more balanced life!"
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788750000000,
-    "stopTs": 1788751800000,
-    "title": "Aarogyame Mahayogam",
-    "desc": "An expert offers valuable guidance on maintaining health and fitness by following a balanced diet and practicing simple, effective exercises suitable for everyday life."
-  },
-  {
-    "start": "03:30",
-    "stop": "06:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788751800000,
-    "stopTs": 1788762600000,
-    "title": "Preyasi Rave",
-    "desc": "Vamsi gives his everything to win the love of Mahalakshmi. However, when Mahalakshmi is married to someone else by deception, he has to make a final sacrifice for her happiness."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788762600000,
-    "stopTs": 1788764400000,
-    "title": "Mukku Pudaka",
-    "desc": "Abhiram, a widower with twin daughters, and Vasundhara, a divorced mother with a son, find a second chance at love and parenting while navigating emotional and family conflicts together."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788764400000,
-    "stopTs": 1788766200000,
-    "title": "Ummadi Kutumbam",
-    "desc": "Ananda Bhairavi&apos;s quest for a value-driven daughter-in-law sparks tension in her family as she strives to balance tradition and unity in a rapidly changing household."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788766200000,
-    "stopTs": 1788768000000,
-    "title": "Deergha Sumangali Bhava",
-    "desc": "Ahalya loves Indra, a soldier, but he dies. Heartbroken, she faces a new path. Gowtham, Indra&apos;s brother, enters her life. She must decide her future with him."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788768000000,
-    "stopTs": 1788769800000,
-    "title": "Gundamma Katha",
-    "desc": "Gundamma favors her own kids, neglecting her kind stepdaughter. She wants to marry her daughters to rich men. Two brothers plot to expose her hypocrisy and teach her a lesson on kindness and family."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788769800000,
-    "stopTs": 1788771600000,
-    "title": "Kalavaari Kodalu Kanakamahalakshmi",
-    "desc": "Kanakamahalakshmi&apos;s quest becomes chaotic as she battles to honor her father&apos;s wishes amidst deceitful schemes. Watch her navigate through challenges to secure her future."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788771600000,
-    "stopTs": 1788773400000,
-    "title": "Ennallo Vechina Hrudayam",
-    "desc": "Tripura and Bala navigate a forest escape, only to be chased by goons who tie him up. Meanwhile, Anantakrishna and Vasudev are on a frantic search for him."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788773400000,
-    "stopTs": 1788777000000,
-    "title": "Kongu Bangaram",
-    "desc": "Jhansi Devi reforms her grandson Ravi with Bangari&apos;s help, hoping he will lead her business empire. Their clash grows into a fight over the family&apos;s destiny."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788777000000,
-    "stopTs": 1788778800000,
-    "title": "Premabhishekam",
-    "desc": "Rajesh falls in love with Devi and plans to marry her. Days before their wedding, he discovers he has cancer and distances himself, hoping she will move on and marry someone else."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788778800000,
-    "stopTs": 1788780600000,
-    "title": "Prema Yuddham",
-    "desc": "Kalyan teaches dance and falls in love with his student. Their love faces many hurdles, but they fight to stay together."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788780600000,
-    "stopTs": 1788784200000,
-    "title": "Ugram",
-    "desc": "Ugram"
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788784200000,
-    "stopTs": 1788786000000,
-    "title": "Nindu Noorella Saavasam",
-    "desc": "After Arundhati&apos;s death, her grieving family struggles to cope. Their loyal caretaker Bhagamathi steps up, offering warmth and support to heal the emotional void left behind."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788786000000,
-    "stopTs": 1788787800000,
-    "title": "Lakshmi Nivasam",
-    "desc": "Subbayya works tirelessly to provide for his family, but his efforts go unnoticed as they recklessly spend all his hard-earned money, indulging in a lavish and extravagant lifestyle."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788787800000,
-    "stopTs": 1788789600000,
-    "title": "Runanubandham",
-    "desc": "Vowing to raise her dying mistress&apos;s son Raghu as her own, Lakshmi works tirelessly to put him through medical school until past secrets surface."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788789600000,
-    "stopTs": 1788791400000,
-    "title": "Megha Sandesham",
-    "desc": "Balagopal learns late that Rosy loved him. However, chaotic trouble begins when Rosy&apos;s jealous ghost returns from the grave to target his new lover, Anjali."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788791400000,
-    "stopTs": 1788793200000,
-    "title": "Chamanthi",
-    "desc": "Raja, a wealthy young man, falls for Chembaruthi, a maid in his grandmother&apos;s home. Their love faces rejection from his family due to their social differences."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788793200000,
-    "stopTs": 1788795000000,
-    "title": "Jayam",
-    "desc": "Venky loves Sujatha, but her father wants her to marry Raghu. Venky promises to marry Sujatha. After fighting and chasing, Venky wins Sujatha and her father&apos;s approval. They marry."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:15",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788795000000,
-    "stopTs": 1788797700000,
-    "title": "Jagadhatri",
-    "desc": "Srividya&apos;s only desire is to marry an educator so she can fulfil her dream to finish her studies. Soon, she crosses paths with schoolteacher Ganapati but is hiding a secret about his work."
-  },
-  {
-    "start": "16:13",
-    "stop": "17:00",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788797580000,
-    "stopTs": 1788800400000,
-    "title": "Autovijayashanthi",
-    "desc": "An infotainment program about the automobile world, offering viewers news, reviews, discussions, and updates on vehicles and industry developments with lively presentation."
-  },
-  {
-    "start": "16:15",
-    "stop": "17:00",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788797700000,
-    "stopTs": 1788800400000,
-    "title": "Auto Vijayashanthi",
-    "desc": "Arjun kills Bhanu&apos;s family, but Chiru is blamed. Bhanu marries Arjun for revenge, but her sister loves Chiru. Despite hatred, love tries to heal the rift."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788800400000,
-    "stopTs": 1788802200000,
-    "title": "Karna",
-    "desc": "An epic tale of a legendary warrior who faces betrayal, destiny and moral dilemmas while striving to uphold honor and righteousness."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788802200000,
-    "stopTs": 1788804000000,
-    "title": "Padamati Sandhya Ragam",
-    "desc": "Chaitra and her sister set out on a pursuit of reuniting with their estranged mother, Seetharatnam. In this journey, Chaitra meets Viraj, a rockstar and heir to Seetharatnam&apos;s shelter home."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:33",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788804000000,
-    "stopTs": 1788805980000,
-    "title": "Gundamma Katha",
-    "desc": "Gundamma favors her own kids, neglecting her kind stepdaughter. She wants to marry her daughters to rich men. Two brothers plot to expose her hypocrisy and teach her a lesson on kindness and family."
-  },
-  {
-    "start": "18:30",
-    "stop": "20:42",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788805800000,
-    "stopTs": 1788813720000,
-    "title": "Preyasi Rave",
-    "desc": "Vamsi sacrifices everything for Mahalakshmi&apos;s happiness when she is deceived into marrying another."
-  },
-  {
-    "start": "18:33",
-    "stop": "20:44",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788805980000,
-    "stopTs": 1788813840000,
-    "title": "Preyasi Rave",
-    "desc": "Vamsi gives his everything to win the love of Mahalakshmi. However, when Mahalakshmi is married to someone else by deception, he has to make a final sacrifice for her happiness."
-  },
-  {
-    "start": "20:42",
-    "stop": "21:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788813720000,
-    "stopTs": 1788816600000,
-    "title": "Filler",
-    "desc": "Watch promos and fillers back to back."
-  },
-  {
-    "start": "20:44",
-    "stop": "21:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788813840000,
-    "stopTs": 1788816600000,
-    "title": "Filler",
-    "desc": "Catch all the excitement with non-stop promos and fillers! Dive into a seamless viewing experience where you won&apos;t miss a beat of the latest highlights and sneak peeks."
-  },
-  {
-    "start": "21:30",
-    "stop": "23:44",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788816600000,
-    "stopTs": 1788824640000,
-    "title": "Bimbisara",
-    "desc": "A royal protagonist unexpectedly time travels from his ancient kingdom to the modern world. The story unravels the mysterious reasons behind his journey and the challenges he faces in a new era."
-  },
-  {
-    "start": "23:41",
-    "stop": "00:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788824460000,
-    "stopTs": 1788827400000,
-    "title": "Filler",
-    "desc": "Watch promos and fillers back to back."
-  },
-  {
-    "start": "23:42",
-    "stop": "00:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788824520000,
-    "stopTs": 1788827400000,
-    "title": "Fillers",
-    "desc": "A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors is played sequentially."
-  },
-  {
-    "start": "23:43",
-    "stop": "00:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788824580000,
-    "stopTs": 1788827400000,
-    "title": "Filler",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "23:44",
-    "stop": "00:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788824640000,
-    "stopTs": 1788827400000,
-    "title": "Filler",
-    "desc": "Catch all the excitement with non-stop promos and fillers! Dive into a seamless viewing experience where you won&apos;t miss a beat of the latest highlights and sneak peeks."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788827400000,
-    "stopTs": 1788829200000,
-    "title": "Twr Premdhara",
-    "desc": "Get ready to indulge in the ultimate shopping experience from your couch! This show is perfect for all you shopaholics who love scoring deals without leaving home."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788829200000,
-    "stopTs": 1788831000000,
-    "title": "Calvary Swar",
-    "desc": "In a gripping tale, a kind-hearted priest faces sinister threats after a confession, forcing him to confront dark forces and fight for his faith and safety."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788831000000,
-    "stopTs": 1788832800000,
-    "title": "Mukku Pudaka",
-    "desc": "Abhiram, a widower with twin daughters, and Vasundhara, a divorced mother with a son, find a second chance at love and parenting while navigating emotional and family conflicts together."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
-    "startTs": 1788832800000,
-    "stopTs": 1788834600000,
-    "title": "Srikaram Subhakaram",
-    "desc": "An astrologer provides predictions based on viewers&apos; planetary positions in the horoscope and provides solutions to solve problems."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "ZeeTelugu.in",
-    "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788834600000,
     "stopTs": 1788836400000,
     "title": "Omkaram",
-    "desc": "Join a famous astrologer as they share practical remedies to help viewers navigate personal and professional challenges, guiding you toward solutions and a brighter, more balanced life!"
+    "desc": "A renowned astrologer predicts the future of the people and offers remedies to viewers suffering from problems in their personal and professional lives."
   },
   {
     "start": "03:00",
     "stop": "03:30",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788836400000,
     "stopTs": 1788838200000,
     "title": "Aarogyame Mahayogam",
-    "desc": "An expert offers valuable guidance on maintaining health and fitness by following a balanced diet and practicing simple, effective exercises suitable for everyday life."
+    "desc": "An expert offers practical advice on maintaining a balanced diet and recommends simple yet effective fitness routines to improve overall health, energy, and long-term well-being."
   },
   {
     "start": "03:30",
     "stop": "06:30",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788838200000,
     "stopTs": 1788849000000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "title": "Aravindha Sametha Veera Raghav",
+    "desc": "Raghava goes back to his village to find his family has gone through a terrible tragedy. He gets caught in the middle of a local fight and tries to find peace for everyone."
   },
   {
     "start": "06:30",
     "stop": "07:00",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788849000000,
     "stopTs": 1788850800000,
     "title": "Mukku Pudaka",
-    "desc": "Abhiram, a widower with twin daughters, and Vasundhara, a divorced mother with a son, find a second chance at love and parenting while navigating emotional and family conflicts together."
+    "desc": "Srikar marries Avani despite his mom&apos;s objections. As Avani navigates the ups and downs of their relationship, she must prove herself and earn her place in Srikar&apos;s family."
   },
   {
     "start": "07:00",
     "stop": "07:30",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788850800000,
     "stopTs": 1788852600000,
     "title": "Ummadi Kutumbam",
-    "desc": "Ananda Bhairavi&apos;s quest for a value-driven daughter-in-law sparks tension in her family as she strives to balance tradition and unity in a rapidly changing household."
+    "desc": "Three brothers enjoy a close-knit life until misunderstandings shake their bond. To restore their happiness, they must confront their issues and learn the importance of family unity once more."
   },
   {
     "start": "07:30",
     "stop": "08:00",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788852600000,
     "stopTs": 1788854400000,
     "title": "Deergha Sumangali Bhava",
-    "desc": "Ahalya loves Indra, a soldier, but he dies. Heartbroken, she faces a new path. Gowtham, Indra&apos;s brother, enters her life. She must decide her future with him."
+    "desc": "Vani marries Ramarao, believing he&apos;s wealthy. Despite accepting her new life and having a baby, her greed for money drives her to abandon them for a film career."
   },
   {
     "start": "08:00",
     "stop": "08:30",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788854400000,
     "stopTs": 1788856200000,
     "title": "Gundamma Katha",
@@ -510,18 +81,18 @@
     "stop": "09:00",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788856200000,
     "stopTs": 1788858000000,
     "title": "Kalavaari Kodalu Kanakamahalakshmi",
-    "desc": "Kanakamahalakshmi&apos;s quest becomes chaotic as she battles to honor her father&apos;s wishes amidst deceitful schemes. Watch her navigate through challenges to secure her future."
+    "desc": "Kanaka Mahalakshmi faces rejection from her NRI relatives and is pressured into an unwanted marriage. How will she confront these challenges and navigate her way to a better future?"
   },
   {
     "start": "09:00",
     "stop": "09:30",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788858000000,
     "stopTs": 1788859800000,
     "title": "Ennallo Vechina Hrudayam",
@@ -532,7 +103,7 @@
     "stop": "10:00",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788859800000,
     "stopTs": 1788861600000,
     "title": "Kongu Bangaram",
@@ -543,7 +114,7 @@
     "stop": "10:30",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788861600000,
     "stopTs": 1788863400000,
     "title": "Kongu Bangaram",
@@ -554,18 +125,18 @@
     "stop": "11:00",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788863400000,
     "stopTs": 1788865200000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "title": "Premabhishekam",
+    "desc": "Rajesh falls in love with Devi and plans to marry her. Days before their wedding, he discovers he has cancer and distances himself, hoping she will move on and marry someone else."
   },
   {
     "start": "11:00",
     "stop": "11:30",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788865200000,
     "stopTs": 1788867000000,
     "title": "Prema Yuddham",
@@ -576,29 +147,29 @@
     "stop": "12:30",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788867000000,
     "stopTs": 1788870600000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "title": "Writer Padmabhushan",
+    "desc": "25 year old Padmabhushan and his family experience a thrilling journey with innocent fun and soft emotions."
   },
   {
     "start": "12:30",
     "stop": "13:00",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788870600000,
     "stopTs": 1788872400000,
     "title": "Nindu Noorella Saavasam",
-    "desc": "After Arundhati&apos;s death, her grieving family struggles to cope. Their loyal caretaker Bhagamathi steps up, offering warmth and support to heal the emotional void left behind."
+    "desc": "After Arundhati&apos;s unexpected death, her family is left heartbroken. Can Bhagamathi, the devoted caretaker, rise to the occasion and provide the support they desperately need during this tough time?"
   },
   {
     "start": "13:00",
     "stop": "13:30",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788872400000,
     "stopTs": 1788874200000,
     "title": "Lakshmi Nivasam",
@@ -609,7 +180,7 @@
     "stop": "14:00",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788874200000,
     "stopTs": 1788876000000,
     "title": "Runanubandham",
@@ -620,18 +191,18 @@
     "stop": "14:30",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788876000000,
     "stopTs": 1788877800000,
     "title": "Meghasandesham",
-    "desc": "Poet Ravindra Babu&apos;s life takes unexpected turns when he falls for someone new, creating tension in his marriage. Discover the unfolding drama and surprising shifts in his personal life."
+    "desc": "Renowned poet Ravindra Babu&apos;s life is upended by a new romantic interest, causing turbulence in his marriage. Watch as love and drama unfold, complicating his personal and professional world."
   },
   {
     "start": "14:30",
     "stop": "15:00",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788877800000,
     "stopTs": 1788879600000,
     "title": "Chamanthi",
@@ -642,7 +213,7 @@
     "stop": "15:30",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788879600000,
     "stopTs": 1788881400000,
     "title": "Jayam",
@@ -653,53 +224,64 @@
     "stop": "16:15",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788881400000,
     "stopTs": 1788884100000,
     "title": "Jagadhatri",
-    "desc": "Srividya&apos;s only desire is to marry an educator so she can fulfil her dream to finish her studies. Soon, she crosses paths with schoolteacher Ganapati but is hiding a secret about his work."
+    "desc": "Jagadhatr is an NGO worker who secretly serves as an undercover intelligence officer, using his unique skills to connect with and protect hearing and speech-impaired children in need."
   },
   {
     "start": "16:15",
     "stop": "17:00",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788884100000,
     "stopTs": 1788886800000,
-    "title": "Auto Vijayashanthi",
-    "desc": "Arjun kills Bhanu&apos;s family, but Chiru is blamed. Bhanu marries Arjun for revenge, but her sister loves Chiru. Despite hatred, love tries to heal the rift."
+    "title": "Autovijayashanthi",
+    "desc": "An infotainment program about the automobile world, offering viewers news, reviews, discussions, and updates on vehicles and industry developments with lively presentation."
   },
   {
     "start": "17:00",
     "stop": "17:30",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788886800000,
     "stopTs": 1788888600000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "title": "Karna",
+    "desc": "Forced into a manipulative marriage, gynaecologist Karna battles his hostile stepfamily while finding genuine hope and deep comfort in his loyal friend, Nidhi."
   },
   {
     "start": "17:30",
     "stop": "18:00",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788888600000,
     "stopTs": 1788890400000,
-    "title": "Gharana Mogudu",
-    "desc": "Venkatesh is chosen to inherit the family business, but his cunning aunt schemes against him. He secretly devises a plan to outsmart her while loyally supporting his mother."
+    "title": "Padamati Sandyaraagam",
+    "desc": "After losing her mom, Aadhya navigates challenges living with disapproving relatives while her aunt tries to support her."
   },
   {
     "start": "18:00",
     "stop": "18:30",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788890400000,
     "stopTs": 1788892200000,
+    "title": "Gundamma Katha",
+    "desc": "Gundamma favors her own kids, neglecting her kind stepdaughter. She wants to marry her daughters to rich men. Two brothers plot to expose her hypocrisy and teach her a lesson on kindness and family."
+  },
+  {
+    "start": "18:01",
+    "stop": "18:28",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu",
+    "startTs": 1788890460000,
+    "stopTs": 1788892080000,
     "title": "Gundamma Katha",
     "desc": "Gundamma favors her own kids, neglecting her kind stepdaughter. She wants to marry her daughters to rich men. Two brothers plot to expose her hypocrisy and teach her a lesson on kindness and family."
   },
@@ -708,11 +290,22 @@
     "stop": "18:30",
     "channel": "ZeeTelugu.in",
     "channelId": "ZeeTelugu.in",
-    "channelName": "Zee Telugu HD",
+    "channelName": "Zee Telugu",
     "startTs": 1788891900000,
     "stopTs": 1788892200000,
     "title": "Filler",
     "desc": "Bringing the best in television."
+  },
+  {
+    "start": "18:28",
+    "stop": "18:31",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu",
+    "startTs": 1788892080000,
+    "stopTs": 1788892260000,
+    "title": "Fillers",
+    "desc": "Enjoy a light-hearted segment offering brief, engaging content that bridges program transitions with humor, intriguing snippets, and delightful unexpected moments for a seamless viewing experience."
   },
   {
     "start": "18:30",
@@ -723,7 +316,29 @@
     "startTs": 1788892200000,
     "stopTs": 1788903000000,
     "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "18:31",
+    "stop": "20:43",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu",
+    "startTs": 1788892260000,
+    "stopTs": 1788900180000,
+    "title": "Aravindha Sametha Veera Raghava",
+    "desc": "A young scion of a powerful family with a long history of violence decides to put an end to the bloodshed which leads him to a path of self discovery."
+  },
+  {
+    "start": "20:43",
+    "stop": "21:32",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu",
+    "startTs": 1788900180000,
+    "stopTs": 1788903120000,
+    "title": "Filler",
+    "desc": "Watch promos and fillers back to back."
   },
   {
     "start": "21:30",
@@ -734,7 +349,40 @@
     "startTs": 1788903000000,
     "stopTs": 1788913800000,
     "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "21:32",
+    "stop": "23:33",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu",
+    "startTs": 1788903120000,
+    "stopTs": 1788910380000,
+    "title": "Middle Class",
+    "desc": "A family drama exploring everyday struggles, aspirations, and emotional bonds of a middle-class household facing life&apos;s challenges."
+  },
+  {
+    "start": "23:31",
+    "stop": "00:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu",
+    "startTs": 1788910260000,
+    "stopTs": 1788913800000,
+    "title": "Fillers",
+    "desc": "Enjoy a light-hearted segment offering brief, engaging content that bridges program transitions with humor, intriguing snippets, and delightful unexpected moments for a seamless viewing experience."
+  },
+  {
+    "start": "23:33",
+    "stop": "00:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu",
+    "startTs": 1788910380000,
+    "stopTs": 1788913800000,
+    "title": "Filler",
+    "desc": "Watch promos and fillers back to back."
   },
   {
     "start": "00:30",
@@ -745,7 +393,7 @@
     "startTs": 1788913800000,
     "stopTs": 1788915600000,
     "title": "Teleshopping",
-    "desc": "Get ready to indulge in the ultimate shopping experience from your couch! This show is perfect for all you shopaholics who love scoring deals without leaving home."
+    "desc": "The host highlights the features of a variety of products for purchase."
   },
   {
     "start": "01:00",
@@ -755,8 +403,8 @@
     "channelName": "Zee Telugu HD",
     "startTs": 1788915600000,
     "stopTs": 1788917400000,
-    "title": "Aarogyame Mahayogam",
-    "desc": "An expert offers valuable guidance on maintaining health and fitness by following a balanced diet and practicing simple, effective exercises suitable for everyday life."
+    "title": "Teleshopping",
+    "desc": "The host highlights the features of a variety of products for purchase."
   },
   {
     "start": "01:30",
@@ -767,7 +415,7 @@
     "startTs": 1788917400000,
     "stopTs": 1788919200000,
     "title": "Mukku Pudaka",
-    "desc": "Abhiram, a widower with twin daughters, and Vasundhara, a divorced mother with a son, find a second chance at love and parenting while navigating emotional and family conflicts together."
+    "desc": "A clever Vedavathi secretly gives the adulterated sweet to Akshaya. S01 E1283."
   },
   {
     "start": "02:00",
@@ -778,7 +426,7 @@
     "startTs": 1788919200000,
     "stopTs": 1788921000000,
     "title": "Srikaram Subhakaram",
-    "desc": "An astrologer provides predictions based on viewers&apos; planetary positions in the horoscope and provides solutions to solve problems."
+    "desc": "A renowned astrologer gives out predictions based on planetary positions. S01 E4786."
   },
   {
     "start": "02:30",
@@ -789,7 +437,7 @@
     "startTs": 1788921000000,
     "stopTs": 1788922800000,
     "title": "Omkaram",
-    "desc": "Join a famous astrologer as they share practical remedies to help viewers navigate personal and professional challenges, guiding you toward solutions and a brighter, more balanced life!"
+    "desc": "A renowned astrologer offers remedies to viewers suffering from problems in their lives. S01 E3841."
   },
   {
     "start": "03:00",
@@ -800,6 +448,347 @@
     "startTs": 1788922800000,
     "stopTs": 1788924600000,
     "title": "Aarogyame Mahayogam",
-    "desc": "An expert offers valuable guidance on maintaining health and fitness by following a balanced diet and practicing simple, effective exercises suitable for everyday life."
+    "desc": "The host interacts with an expert who shares insightful tips and suggestions. S01 E1775."
+  },
+  {
+    "start": "03:30",
+    "stop": "06:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788924600000,
+    "stopTs": 1788935400000,
+    "title": "Movie",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788935400000,
+    "stopTs": 1788937200000,
+    "title": "Mukku Pudaka",
+    "desc": "Avani does not wear a nose ring, but her future mother-in-law wants her to wear it. S01 E1296."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788937200000,
+    "stopTs": 1788939000000,
+    "title": "Ummadi Kutumbam",
+    "desc": "Ananda Bhairavi finds Saranya to be a perfect bride for her son. S01 E571."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788939000000,
+    "stopTs": 1788940800000,
+    "title": "Deergha Sumangali Bhava",
+    "desc": "Ahalya&apos;s love for fallen soldier Indra leads to an unexpected future with his brother. S01 E441."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788940800000,
+    "stopTs": 1788942600000,
+    "title": "Gundamma Katha",
+    "desc": "Geetha, ridiculed for being overweight, tries to win her husband&apos;s heart. S01 E2508."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788942600000,
+    "stopTs": 1788944400000,
+    "title": "Kalavari Kodalu Kanaka Mahalakshmi",
+    "desc": "A girl faces challenges after being forced into a marriage by her father. S01 E650."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788944400000,
+    "stopTs": 1788946200000,
+    "title": "Ennallo Vechina Hrudayam",
+    "desc": "A teacher cares for a businessman with brain damage, forming a life-changing bond. S01 E500."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788946200000,
+    "stopTs": 1788948000000,
+    "title": "Kongu Bangaram",
+    "desc": "A clash of personalities soon turns to a battle for a family&apos;s future. S01 E316."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788948000000,
+    "stopTs": 1788949800000,
+    "title": "Kongu Bangaram",
+    "desc": "A clash of personalities soon turns to a battle for a family&apos;s future. S01 E317."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788949800000,
+    "stopTs": 1788951600000,
+    "title": "Movie",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788951600000,
+    "stopTs": 1788953400000,
+    "title": "Prema Yuddham",
+    "desc": "Reetu&apos;s conviction clashes with Raghav&apos;s fierceness in what is a marriage of obligation. S01 E248."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788953400000,
+    "stopTs": 1788957000000,
+    "title": "Movie",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788957000000,
+    "stopTs": 1788958800000,
+    "title": "Nindu Noorella Saavasam",
+    "desc": "When an army major&apos;s wife dies, her spirit stays in the house, concerned about her kids. S01 E980."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788958800000,
+    "stopTs": 1788960600000,
+    "title": "Lakshmi Nivasam",
+    "desc": "Keerthi discovers a secret pact and hears the full truth from Tulasi. S01 E478."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788960600000,
+    "stopTs": 1788962400000,
+    "title": "Runanubandham",
+    "desc": "Deserted by her rich family, Dharani enters opulence ignorant of her heritage. S01 E63."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788962400000,
+    "stopTs": 1788964200000,
+    "title": "Meghasandesham",
+    "desc": "A fire accident separates Bhoomi and Gagan from their respective fathers. S01 E722."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788964200000,
+    "stopTs": 1788966000000,
+    "title": "Chamanthi",
+    "desc": "Chamanthi, a servant in a politician&apos;s house, ends up marrying the politician&apos;s son. S01 E523."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788966000000,
+    "stopTs": 1788967800000,
+    "title": "Jayam",
+    "desc": "Ganga starts rigorous training under Rudra, a former boxer, aiming to protect her mother. S01 E363."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:15",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788967800000,
+    "stopTs": 1788970500000,
+    "title": "Jagadhatri",
+    "desc": "A woman faces various challenges in balancing her roles as a daughter and an agent. S09 E904."
+  },
+  {
+    "start": "16:15",
+    "stop": "17:00",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788970500000,
+    "stopTs": 1788973200000,
+    "title": "Auto Vijayashanthi",
+    "desc": "Vijayashanti, an auto driver, comes across Chiranjeev who is neglected by his father. S01 E302."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788973200000,
+    "stopTs": 1788975000000,
+    "title": "Movie",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788975000000,
+    "stopTs": 1788976800000,
+    "title": "Gharana Mogudu",
+    "desc": "Venkatesh secretly plans to ruin his aunt who conspires to control and seize his business. S01 E336."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu HD",
+    "startTs": 1788976800000,
+    "stopTs": 1788978600000,
+    "title": "Gundamma Katha",
+    "desc": "Geetha, ridiculed for being overweight, tries to win her husband&apos;s heart. S01 E2495."
+  },
+  {
+    "start": "18:30",
+    "stop": "21:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu",
+    "startTs": 1788978600000,
+    "stopTs": 1788989400000,
+    "title": "Movie",
+    "desc": "Movie."
+  },
+  {
+    "start": "21:30",
+    "stop": "00:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu",
+    "startTs": 1788989400000,
+    "stopTs": 1789000200000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu",
+    "startTs": 1789000200000,
+    "stopTs": 1789002000000,
+    "title": "TeleShopping",
+    "desc": "Discover the convenience of shopping from home with our platform! Browse and buy your favorite goods effortlessly, all while lounging in your pajamas. Shop smart and stay cozy!"
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu",
+    "startTs": 1789002000000,
+    "stopTs": 1789003800000,
+    "title": "TeleShopping",
+    "desc": "Discover the convenience of shopping from home with our platform! Browse and buy your favorite goods effortlessly, all while lounging in your pajamas. Shop smart and stay cozy!"
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu",
+    "startTs": 1789003800000,
+    "stopTs": 1789005600000,
+    "title": "Mukku Pudaka",
+    "desc": "Srikar marries Avani despite his mom&apos;s objections. As Avani navigates the ups and downs of their relationship, she must prove herself and earn her place in Srikar&apos;s family."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu",
+    "startTs": 1789005600000,
+    "stopTs": 1789007400000,
+    "title": "Srikaram Subhakaram",
+    "desc": "Get your daily dose of insight from a top astrologer! Discover how planetary positions can predict life changes and outcomes with personalized horoscopes tailored just for you."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu",
+    "startTs": 1789007400000,
+    "stopTs": 1789009200000,
+    "title": "Omkaram",
+    "desc": "A famous astrologer shares practical remedies for viewers facing challenges in their personal and professional lives,providing guidance and insights to help them navigate their struggles with confidence"
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "ZeeTelugu.in",
+    "channelId": "ZeeTelugu.in",
+    "channelName": "Zee Telugu",
+    "startTs": 1789009200000,
+    "stopTs": 1789011000000,
+    "title": "Aarogyame Mahayogam",
+    "desc": "An expert offers practical advice on maintaining a balanced diet and recommends simple yet effective fitness routines to improve overall health, energy, and long-term well-being."
   }
 ]
