@@ -1,25 +1,14 @@
 [
   {
     "start": "02:30",
-    "stop": "03:30",
-    "channel": "EUROSPORTSHD.in",
-    "channelId": "EUROSPORTSHD.in",
-    "channelName": "EUROSPORTS HD",
-    "startTs": 1789007400000,
-    "stopTs": 1789011000000,
-    "title": "Allie; IMPACT in 60",
-    "desc": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling."
-  },
-  {
-    "start": "03:30",
     "stop": "04:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1789011000000,
-    "stopTs": 1789014600000,
-    "title": "TNA Xplosion",
-    "desc": "Professional wrestlers from all around the world compete against each other in the TNA Xplosion in order to win the coveted title."
+    "startTs": 1789093800000,
+    "stopTs": 1789101000000,
+    "title": "TNA Impact",
+    "desc": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win."
   },
   {
     "start": "04:30",
@@ -27,9 +16,9 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1789014600000,
-    "stopTs": 1789021800000,
-    "title": "Macao, Session 5; WTT Champions Table Tennis",
+    "startTs": 1789101000000,
+    "stopTs": 1789108200000,
+    "title": "Macao, Session 7; WTT Champions Table Tennis",
     "desc": "This is Sport - Table Tennis Category."
   },
   {
@@ -38,10 +27,10 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1789021800000,
-    "stopTs": 1789036200000,
-    "title": "PFL Charlotte: Battle - Rosta; Professional Fighters League",
-    "desc": "Highlights of Professional fighters from around the world compete against each other in a prestigious tournament in a bid to win the coveted title."
+    "startTs": 1789108200000,
+    "stopTs": 1789122600000,
+    "title": "TNA Rebellion",
+    "desc": "This is Sport - Wrestling Category."
   },
   {
     "start": "10:30",
@@ -49,31 +38,53 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1789036200000,
-    "stopTs": 1789043400000,
-    "title": "Macao, Session 5; WTT Champions Table Tennis",
+    "startTs": 1789122600000,
+    "stopTs": 1789129800000,
+    "title": "Macao, Session 8; WTT Champions Table Tennis",
     "desc": "This is Sport - Table Tennis Category."
   },
   {
     "start": "12:30",
+    "stop": "13:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1789129800000,
+    "stopTs": 1789133400000,
+    "title": "Rebellion; IMPACT in 60",
+    "desc": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling."
+  },
+  {
+    "start": "13:30",
     "stop": "14:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1789043400000,
-    "stopTs": 1789050600000,
-    "title": "AEW Dynamite",
-    "desc": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title."
+    "startTs": 1789133400000,
+    "stopTs": 1789137000000,
+    "title": "TNA Wrestling: Pehalwani Patakha",
+    "desc": "Highlights from the IMPACT wrestling series of TNA Wrestling, where professional wrestlers compete against each other for victory, in Hindi."
   },
   {
     "start": "14:30",
-    "stop": "16:30",
+    "stop": "15:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1789050600000,
-    "stopTs": 1789057800000,
-    "title": "Ajax vs. PSV; Eredivisie Soccer",
-    "desc": "Professional football teams compete against each other in order to emerge victorious in the Eredivisie, a premier football tournament in the Netherlands."
+    "startTs": 1789137000000,
+    "stopTs": 1789140600000,
+    "title": "Dutch League Highlights",
+    "desc": "Highlights of the Dutch League wherein professional football players compete against each other to emerge victorious and win the coveted trophy."
+  },
+  {
+    "start": "15:30",
+    "stop": "15:45",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1789140600000,
+    "stopTs": 1789141500000,
+    "title": "Showtime with Rohit Sharma",
+    "desc": "The host has a conversation with professional cricketer Rohit Sharma regarding his history and fondest memories with the franchise of Mumbai Indians."
   }
 ]
