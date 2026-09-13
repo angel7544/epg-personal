@@ -1,465 +1,69 @@
 [
   {
     "start": "02:30",
-    "stop": "03:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789180200000,
-    "stopTs": 1789183800000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789183800000,
-    "stopTs": 1789187400000,
-    "title": "Indian Diplomacy-Leadership In Multilateral Institutions-BRICS",
-    "desc": "Indian Diplomacy-Leadership In Multilateral Institutions-BRICS"
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789187400000,
-    "stopTs": 1789191000000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
-  },
-  {
-    "start": "05:30",
-    "stop": "07:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789191000000,
-    "stopTs": 1789198200000,
-    "title": "BRICS Bridge To Tomorrow",
-    "desc": "BRICS Bridge To Tomorrow"
-  },
-  {
-    "start": "06:30",
-    "stop": "07:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD INDIA",
-    "startTs": 1789194600000,
-    "stopTs": 1789198200000,
-    "title": "DD India News Hour",
-    "desc": "he host presents latest updates and developments from across the globe pertaining to current affairs, the economy, business and more."
-  },
-  {
-    "start": "07:30",
-    "stop": "09:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789198200000,
-    "stopTs": 1789205400000,
-    "title": "BRICS Bridge To Tomorrow-Arrival In Bharat Mandapam",
-    "desc": "BRICS Bridge To Tomorrow-Arrival In Bharat Mandapam"
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD INDIA",
-    "startTs": 1789200000000,
-    "stopTs": 1789201800000,
-    "title": "Indian Diplomacy",
-    "desc": "The host discusses with the designated officials on matters relating to India&apos;s affairs and diplomatic relations with the foreign countries."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD INDIA",
-    "startTs": 1789201800000,
-    "stopTs": 1789203600000,
-    "title": "DD India",
-    "desc": "The host provides a detailed report on the Victory Day parade staged in Moscow, Russia, whilst highlighting the historical significance of the same."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD INDIA",
-    "startTs": 1789203600000,
-    "stopTs": 1789205400000,
-    "title": "DD India",
-    "desc": "The host provides a detailed report on the Victory Day parade staged in Moscow, Russia, whilst highlighting the historical significance of the same."
-  },
-  {
-    "start": "09:30",
-    "stop": "11:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789205400000,
-    "stopTs": 1789212600000,
-    "title": "BRICS Bridge To Tomorrow",
-    "desc": "BRICS Bridge To Tomorrow"
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD INDIA",
-    "startTs": 1789207200000,
-    "stopTs": 1789209000000,
-    "title": "Defence Dynamics",
-    "desc": "The host presents the latest news stories and developments pertaining to India&apos;s defence systems and their military regimes."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD INDIA",
-    "startTs": 1789209000000,
-    "stopTs": 1789212600000,
-    "title": "DD India News Hour",
-    "desc": "he host presents latest updates and developments from across the globe pertaining to current affairs, the economy, business and more."
-  },
-  {
-    "start": "11:30",
-    "stop": "14:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789212600000,
-    "stopTs": 1789223400000,
-    "title": "BRICS Bridge To Tomorrow-Events And Bilaterals",
-    "desc": "BRICS Bridge To Tomorrow-Events And Bilaterals"
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD INDIA",
-    "startTs": 1789214400000,
-    "stopTs": 1789216200000,
-    "title": "Connecting the Dots",
-    "desc": "The host presents a detailed report on some of the pressing global issues and current affairs that have an impact on the lives of people."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD INDIA",
-    "startTs": 1789216200000,
-    "stopTs": 1789218000000,
-    "title": "DD India",
-    "desc": "The host provides a detailed report on the Victory Day parade staged in Moscow, Russia, whilst highlighting the historical significance of the same."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD INDIA",
-    "startTs": 1789218000000,
-    "stopTs": 1789219800000,
-    "title": "DD India",
-    "desc": "The host provides a detailed report on the Victory Day parade staged in Moscow, Russia, whilst highlighting the historical significance of the same."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD INDIA",
-    "startTs": 1789219800000,
-    "stopTs": 1789221600000,
-    "title": "Voice of the Global South",
-    "desc": "Senior news correspondent and anchor Akshay Dongare presents a detailed report on a wide range of stories from Latin America, Asia, Africa, and Oceania."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD INDIA",
-    "startTs": 1789221600000,
-    "stopTs": 1789223400000,
-    "title": "In conversation with Hitesh Kumar S. Makwana-Surveyor General of India",
-    "desc": "The host invites Hitesh Kumar S Makwana, Surveyor General of India, to discuss his vision for overhauling India&apos;s geospatial governance, with a focus on accurate data for effective policymaking."
-  },
-  {
-    "start": "14:30",
-    "stop": "16:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789223400000,
-    "stopTs": 1789230600000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD INDIA",
-    "startTs": 1789225200000,
-    "stopTs": 1789227000000,
-    "title": "Indian Diplomacy",
-    "desc": "The host discusses with the designated officials on matters relating to India&apos;s affairs and diplomatic relations with the foreign countries."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD INDIA",
-    "startTs": 1789227000000,
-    "stopTs": 1789230600000,
-    "title": "DD India News Hour",
-    "desc": "he host presents latest updates and developments from across the globe pertaining to current affairs, the economy, business and more."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789230600000,
-    "stopTs": 1789234200000,
-    "title": "Bridge To Tomorrow: BRICS India 2026 Can Expanded BRICS Trigger Multilateral Reforms? Open Forum",
-    "desc": "Bridge To Tomorrow: BRICS India 2026 Can Expanded BRICS Trigger Multilateral Reforms? Open Forum"
-  },
-  {
-    "start": "17:30",
-    "stop": "18:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789234200000,
-    "stopTs": 1789237800000,
-    "title": "Indian Diplomacy-Leadership In Multilateral Institutions-BRICS",
-    "desc": "Indian Diplomacy-Leadership In Multilateral Institutions-BRICS"
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789237800000,
-    "stopTs": 1789239600000,
-    "title": "Connecting The Dots",
-    "desc": "&apos;Connect the Dots&apos; is a collection of inspiring stories of 20 entrepreneurs written by Rashmi Bansal."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789239600000,
-    "stopTs": 1789241400000,
-    "title": "The Economic Brief",
-    "desc": "TV host David Johnson humorously explains economic topics in the series."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789241400000,
-    "stopTs": 1789245000000,
-    "title": "Bridge To Tomorrow:BRICS India 2026- Big Table, Big Stakes: Rise Of India And The Non West",
-    "desc": "Bridge To Tomorrow:BRICS India 2026- Big Table, Big Stakes: Rise Of India And The Non West"
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789245000000,
-    "stopTs": 1789246800000,
-    "title": "Defence Dynamics",
-    "desc": "Defence Dynamics on DD India explores military strategies and innovations."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789246800000,
-    "stopTs": 1789248600000,
-    "title": "Voice Of The Global South",
-    "desc": "India&apos;s Voice of Global South Summit aims to unite developing countries to discuss concerns, interests, and priorities, exchange ideas, and promote unity in addressing these issues."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789248600000,
-    "stopTs": 1789252200000,
-    "title": "Indian Diplomacy-Leadership In Multilateral Institutions-BRICS",
-    "desc": "Indian Diplomacy-Leadership In Multilateral Institutions-BRICS"
-  },
-  {
-    "start": "22:30",
-    "stop": "00:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789252200000,
-    "stopTs": 1789259400000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India",
-    "startTs": 1789254000000,
-    "stopTs": 1789255800000,
-    "title": "Voice of the Global South",
-    "desc": "Senior news correspondent and anchor Akshay Dongare presents a detailed report on a wide range of stories from Latin America, Asia, Africa, and Oceania."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India",
-    "startTs": 1789255800000,
-    "stopTs": 1789259400000,
-    "title": "DD India News Hour",
-    "desc": "he host presents latest updates and developments from across the globe pertaining to current affairs, the economy, business and more."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789259400000,
-    "stopTs": 1789261200000,
-    "title": "Explorer Of The Misty Mountains",
-    "desc": "The host explores the natural landscapes and local cultures of north-eastern India, embarking on a journey of discovery."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789261200000,
-    "stopTs": 1789263000000,
-    "title": "Sadhguru Speaks",
-    "desc": "Gain wisdom from Sadhguru as he addresses key life topics and spiritual insights. Tune in for enlightening perspectives and guidance for personal growth."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789263000000,
-    "stopTs": 1789264800000,
-    "title": "Dd-India Live",
-    "desc": "The newsreader provides a thorough report on some of the most significant and recent global news articles and updates in real-time."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789264800000,
-    "stopTs": 1789266600000,
-    "title": "Dd-India Live",
-    "desc": "The newsreader provides a thorough report on some of the most significant and recent global news articles and updates in real-time."
-  },
-  {
-    "start": "02:30",
     "stop": "03:00",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789266600000,
     "stopTs": 1789268400000,
-    "title": "The Economic Brief",
-    "desc": "TV host David Johnson humorously explains economic topics in the series."
+    "title": "Indian Diplomacy",
+    "desc": "The host discusses the matters of India&apos;s foreign affairs and diplomatic relations."
   },
   {
     "start": "03:00",
     "stop": "03:30",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789268400000,
     "stopTs": 1789270200000,
-    "title": "Voice Of The Global South",
-    "desc": "India&apos;s Voice of Global South Summit aims to unite developing countries to discuss concerns, interests, and priorities, exchange ideas, and promote unity in addressing these issues."
+    "title": "Media Scan",
+    "desc": "Anchor Smita Mishra presents a detailed report on the top stories doing the rounds in various media."
   },
   {
     "start": "03:30",
     "stop": "04:00",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789270200000,
     "stopTs": 1789272000000,
-    "title": "Bridge To Tomorrow: Brics India 2026, Exclusive Interview With H.E. Denis Alipov Russian Ambassador To India",
-    "desc": "Bridge To Tomorrow: Brics India 2026, Exclusive Interview With H.E. Denis Alipov Russian Ambassador To India"
+    "title": "55th International Film Festival of India-2024 (IFFI)",
+    "desc": "Personalities from the film industry attend the 55th International Film Festival of India."
   },
   {
     "start": "04:00",
     "stop": "04:30",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789272000000,
     "stopTs": 1789273800000,
-    "title": "Connecting The Dots",
-    "desc": "&apos;Connect the Dots&apos; is a collection of inspiring stories of 20 entrepreneurs written by Rashmi Bansal."
+    "title": "Voice of the Global South",
+    "desc": "Akshay Dongare presents a range of stories from different parts of the world."
   },
   {
     "start": "04:30",
     "stop": "05:30",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789273800000,
     "stopTs": 1789277400000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
+    "title": "DD India News Hour",
+    "desc": "The host presents latest updates and top stories across the globe."
   },
   {
     "start": "05:30",
-    "stop": "06:30",
+    "stop": "06:00",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789277400000,
-    "stopTs": 1789281000000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
+    "stopTs": 1789279200000,
+    "title": "Mann Ki Baat Prime Minister Broadcast on All India Radio",
+    "desc": "The Prime Minister of India shares his thoughts about relevant and pressing issues."
   },
   {
     "start": "06:00",
@@ -470,62 +74,62 @@
     "startTs": 1789279200000,
     "stopTs": 1789281000000,
     "title": "In conversation with Hitesh Kumar S. Makwana-Surveyor General of India",
-    "desc": "The host invites Hitesh Kumar S Makwana, Surveyor General of India, to discuss his vision for overhauling India&apos;s geospatial governance, with a focus on accurate data for effective policymaking."
+    "desc": "The host invites Hitesh Kumar S Makwana to discuss India&apos;s geospatial landscape."
   },
   {
     "start": "06:30",
     "stop": "07:00",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789281000000,
     "stopTs": 1789282800000,
-    "title": "Dd-India Live",
-    "desc": "The newsreader provides a thorough report on some of the most significant and recent global news articles and updates in real-time."
+    "title": "DD India",
+    "desc": "The host provides a detailed report surrounding the Victory Day parade in Moscow, Russia."
   },
   {
     "start": "07:00",
     "stop": "07:30",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789282800000,
     "stopTs": 1789284600000,
-    "title": "Bridge To Tomorrow: Brics India 2026, In Conversation With Nebiyu Tedla Negas, Ambassador, Embassy Of Ethiopia To India",
-    "desc": "Bridge To Tomorrow: Brics India 2026, In Conversation With Nebiyu Tedla Negas, Ambassador, Embassy Of Ethiopia To India"
+    "title": "DD India",
+    "desc": "The host provides a detailed report surrounding the Victory Day parade in Moscow, Russia."
   },
   {
     "start": "07:30",
     "stop": "08:00",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789284600000,
     "stopTs": 1789286400000,
-    "title": "Bridge To Tomorrow: Brics India 2026, Exclusive Interview With H.E. Denis Alipov Russian Ambassador To India",
-    "desc": "Bridge To Tomorrow: Brics India 2026, Exclusive Interview With H.E. Denis Alipov Russian Ambassador To India"
+    "title": "Wellness Watch",
+    "desc": "The host explores the latest trends in health and wellness, offering practical tips."
   },
   {
     "start": "08:00",
     "stop": "08:30",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789286400000,
     "stopTs": 1789288200000,
-    "title": "Bridge To Tomorrow: Brics India 2026 In Conversation With Alberto A. Guani Ambassador Of Uruguay To India",
-    "desc": "Bridge To Tomorrow: Brics India 2026 In Conversation With Alberto A. Guani Ambassador Of Uruguay To India"
+    "title": "Connecting the Dots",
+    "desc": "The host presents a detailed report on the pressing global issues and current affairs."
   },
   {
     "start": "08:30",
-    "stop": "09:30",
+    "stop": "09:00",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789288200000,
-    "stopTs": 1789291800000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
+    "stopTs": 1789290000000,
+    "title": "DD India",
+    "desc": "The host provides a detailed report surrounding the Victory Day parade in Moscow, Russia."
   },
   {
     "start": "09:00",
@@ -536,128 +140,117 @@
     "startTs": 1789290000000,
     "stopTs": 1789291800000,
     "title": "DD India",
-    "desc": "The host provides a detailed report on the Victory Day parade staged in Moscow, Russia, whilst highlighting the historical significance of the same."
+    "desc": "The host provides a detailed report surrounding the Victory Day parade in Moscow, Russia."
   },
   {
     "start": "09:30",
     "stop": "10:00",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789291800000,
     "stopTs": 1789293600000,
-    "title": "Voice Of The Global South",
-    "desc": "India&apos;s Voice of Global South Summit aims to unite developing countries to discuss concerns, interests, and priorities, exchange ideas, and promote unity in addressing these issues."
+    "title": "55th International Film Festival of India-2024 (IFFI)",
+    "desc": "Personalities from the film industry attend the 55th International Film Festival of India."
   },
   {
     "start": "10:00",
     "stop": "10:30",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789293600000,
     "stopTs": 1789295400000,
-    "title": "The Economic Brief",
-    "desc": "TV host David Johnson humorously explains economic topics in the series."
+    "title": "Indian Diplomacy",
+    "desc": "The host discusses the matters of India&apos;s foreign affairs and diplomatic relations."
   },
   {
     "start": "10:30",
-    "stop": "11:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789295400000,
-    "stopTs": 1789297200000,
-    "title": "Dd-India Live",
-    "desc": "The newsreader provides a thorough report on some of the most significant and recent global news articles and updates in real-time."
-  },
-  {
-    "start": "11:00",
     "stop": "11:30",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1789297200000,
+    "channelName": "DD India",
+    "startTs": 1789295400000,
     "stopTs": 1789299000000,
-    "title": "Bridge To Tomorrow: Brics India 2026, Exclusive Interview With H.E. Denis Alipov Russian Ambassador To India",
-    "desc": "Bridge To Tomorrow: Brics India 2026, Exclusive Interview With H.E. Denis Alipov Russian Ambassador To India"
+    "title": "DD India News Hour",
+    "desc": "The host presents latest updates and top stories across the globe."
   },
   {
     "start": "11:30",
     "stop": "12:00",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789299000000,
     "stopTs": 1789300800000,
-    "title": "Defence Dynamics",
-    "desc": "Defence Dynamics on DD India explores military strategies and innovations."
+    "title": "Eco India",
+    "desc": "The host sheds light on the efforts of an organisation that promotes eco-friendly products."
   },
   {
     "start": "12:00",
     "stop": "12:30",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789300800000,
     "stopTs": 1789302600000,
-    "title": "Bridge To Tomorrow: Brics India 2026, Exclusive Interview With H.E. Denis Alipov Russian Ambassador To India",
-    "desc": "Bridge To Tomorrow: Brics India 2026, Exclusive Interview With H.E. Denis Alipov Russian Ambassador To India"
+    "title": "The Economic Brief-Rio Summit Spl",
+    "desc": "The host shares the global economic developments from the 2024 G20 Rio de Janeiro summit."
   },
   {
     "start": "12:30",
     "stop": "13:00",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789302600000,
     "stopTs": 1789304400000,
-    "title": "Dd-India Live",
-    "desc": "The newsreader provides a thorough report on some of the most significant and recent global news articles and updates in real-time."
+    "title": "DD India",
+    "desc": "The host provides a detailed report surrounding the Victory Day parade in Moscow, Russia."
   },
   {
     "start": "13:00",
     "stop": "13:30",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789304400000,
     "stopTs": 1789306200000,
-    "title": "Bridge To Tomorrow: Brics India 2026 In Conversation With Alberto A. Guani Ambassador Of Uruguay To India",
-    "desc": "Bridge To Tomorrow: Brics India 2026 In Conversation With Alberto A. Guani Ambassador Of Uruguay To India"
+    "title": "DD India",
+    "desc": "The host provides a detailed report surrounding the Victory Day parade in Moscow, Russia."
   },
   {
     "start": "13:30",
     "stop": "14:00",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789306200000,
     "stopTs": 1789308000000,
-    "title": "Connecting The Dots",
-    "desc": "&apos;Connect the Dots&apos; is a collection of inspiring stories of 20 entrepreneurs written by Rashmi Bansal."
+    "title": "Voice of the Global South",
+    "desc": "Akshay Dongare presents a range of stories from different parts of the world."
   },
   {
     "start": "14:00",
     "stop": "14:30",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789308000000,
     "stopTs": 1789309800000,
-    "title": "Voice Of The Global South",
-    "desc": "India&apos;s Voice of Global South Summit aims to unite developing countries to discuss concerns, interests, and priorities, exchange ideas, and promote unity in addressing these issues."
+    "title": "International Cooperative Alliance",
+    "desc": "The host interviews experts on the International Cooperative Alliance conference."
   },
   {
     "start": "14:30",
-    "stop": "15:30",
+    "stop": "15:00",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789309800000,
-    "stopTs": 1789313400000,
-    "title": "Indian Diplomacy,Leadership In Multilateral Institutions - Brics Anchor - Sreeram Chauliya Producer - Deepak / Sukhveer",
-    "desc": "Indian Diplomacy,Leadership In Multilateral Institutions - Brics Anchor - Sreeram Chauliya Producer - Deepak / Sukhveer"
+    "stopTs": 1789311600000,
+    "title": "Wellness Watch",
+    "desc": "The host explores the latest trends in health and wellness, offering practical tips."
   },
   {
     "start": "15:00",
@@ -668,29 +261,29 @@
     "startTs": 1789311600000,
     "stopTs": 1789313400000,
     "title": "Media Scan",
-    "desc": "The host Smita Mishra presents a critical analysis of the latest news and developments presented on different forms of media from around the world."
+    "desc": "Anchor Smita Mishra presents a detailed report on the top stories doing the rounds in various media."
   },
   {
     "start": "15:30",
     "stop": "16:30",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789313400000,
     "stopTs": 1789317000000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
+    "title": "DD India News Hour",
+    "desc": "The host presents latest updates and top stories across the globe."
   },
   {
     "start": "16:30",
-    "stop": "17:30",
+    "stop": "17:00",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789317000000,
-    "stopTs": 1789320600000,
-    "title": "Indian Diplomacy,Leadership In Multilateral Institutions - Brics",
-    "desc": "Indian Diplomacy,Leadership In Multilateral Institutions - Brics"
+    "stopTs": 1789318800000,
+    "title": "55th International Film Festival of India-2024 (IFFI)",
+    "desc": "Personalities from the film industry attend the 55th International Film Festival of India."
   },
   {
     "start": "17:00",
@@ -701,18 +294,458 @@
     "startTs": 1789318800000,
     "stopTs": 1789320600000,
     "title": "International Cooperative Alliance",
-    "desc": "The host sheds light on the International Cooperative Alliance conference while interviewing experts to give a deeper understanding of the organisation&apos;s purpose and agenda."
+    "desc": "The host interviews experts on the International Cooperative Alliance conference."
   },
   {
     "start": "17:30",
     "stop": "18:30",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
+    "channelName": "DD India",
     "startTs": 1789320600000,
     "stopTs": 1789324200000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
+    "title": "DD India News Hour",
+    "desc": "The host presents latest updates and top stories across the globe."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789324200000,
+    "stopTs": 1789326000000,
+    "title": "Spotlight Cinema",
+    "desc": "The host sheds light on the life and works of prominent figures in the world of cinema."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789326000000,
+    "stopTs": 1789327800000,
+    "title": "Eco India",
+    "desc": "The host sheds light on the efforts of an organisation that promotes eco-friendly products."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789327800000,
+    "stopTs": 1789331400000,
+    "title": "DD India News Hour",
+    "desc": "The host presents latest updates and top stories across the globe."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1789329600000,
+    "stopTs": 1789331400000,
+    "title": "Connecting The Dots",
+    "desc": "&apos;Connect the Dots&apos; is a collection of inspiring stories of 20 entrepreneurs written by Rashmi Bansal."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789331400000,
+    "stopTs": 1789333200000,
+    "title": "Explorer of the Misty Mountains",
+    "desc": "The host explores the natural landscapes and local cultures of north-eastern India."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789333200000,
+    "stopTs": 1789335000000,
+    "title": "Wellness Watch",
+    "desc": "The host explores the latest trends in health and wellness, offering practical tips."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789335000000,
+    "stopTs": 1789338600000,
+    "title": "DD India News Hour",
+    "desc": "The host presents latest updates and top stories across the globe."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789338600000,
+    "stopTs": 1789340400000,
+    "title": "Indian Diplomacy",
+    "desc": "The host discusses the matters of India&apos;s foreign affairs and diplomatic relations."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789340400000,
+    "stopTs": 1789342200000,
+    "title": "Connecting the Dots",
+    "desc": "The host presents a detailed report on the pressing global issues and current affairs."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789342200000,
+    "stopTs": 1789345800000,
+    "title": "DD India News Hour",
+    "desc": "The host presents latest updates and top stories across the globe."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789345800000,
+    "stopTs": 1789347600000,
+    "title": "Explorer of the Misty Mountains",
+    "desc": "The host explores the natural landscapes and local cultures of north-eastern India."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789347600000,
+    "stopTs": 1789349400000,
+    "title": "Meditation Session By Gurudev Sri Sri Ravi Shankar",
+    "desc": "Spiritual leader Sri Sri Ravi Shankar illuminates the practice of meditation."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789349400000,
+    "stopTs": 1789351200000,
+    "title": "DD India Live",
+    "desc": "The host presents some of the latest updates and top stories of the country, live."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789351200000,
+    "stopTs": 1789353000000,
+    "title": "DD India Live",
+    "desc": "The host presents some of the latest updates and top stories of the country, live."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789353000000,
+    "stopTs": 1789356600000,
+    "title": "DD India News Hour",
+    "desc": "The host presents latest updates and top stories across the globe."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789356600000,
+    "stopTs": 1789358400000,
+    "title": "55th International Film Festival of India-2024 (IFFI)",
+    "desc": "Personalities from the film industry attend the 55th International Film Festival of India."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789358400000,
+    "stopTs": 1789360200000,
+    "title": "Indian Diplomacy",
+    "desc": "The host discusses the matters of India&apos;s foreign affairs and diplomatic relations."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789360200000,
+    "stopTs": 1789363800000,
+    "title": "DD India News Hour",
+    "desc": "The host presents latest updates and top stories across the globe."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789363800000,
+    "stopTs": 1789367400000,
+    "title": "DD India News Hour",
+    "desc": "The host presents latest updates and top stories across the globe."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789367400000,
+    "stopTs": 1789369200000,
+    "title": "DD India",
+    "desc": "The host provides a detailed report surrounding the Victory Day parade in Moscow, Russia."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789369200000,
+    "stopTs": 1789371000000,
+    "title": "DD India",
+    "desc": "The host provides a detailed report surrounding the Victory Day parade in Moscow, Russia."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789371000000,
+    "stopTs": 1789372800000,
+    "title": "Connecting the Dots",
+    "desc": "The host presents a detailed report on the pressing global issues and current affairs."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789372800000,
+    "stopTs": 1789374600000,
+    "title": "Eco India",
+    "desc": "The host sheds light on the efforts of an organisation that promotes eco-friendly products."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789374600000,
+    "stopTs": 1789378200000,
+    "title": "DD India News Hour",
+    "desc": "The host presents latest updates and top stories across the globe."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789378200000,
+    "stopTs": 1789380000000,
+    "title": "55th International Film Festival of India-2024 (IFFI)",
+    "desc": "Personalities from the film industry attend the 55th International Film Festival of India."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789380000000,
+    "stopTs": 1789381800000,
+    "title": "Wellness Watch",
+    "desc": "The host explores the latest trends in health and wellness, offering practical tips."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789381800000,
+    "stopTs": 1789383600000,
+    "title": "Express News",
+    "desc": "The anchor covers news updates from around the world on an exhaustive range of topics."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789383600000,
+    "stopTs": 1789385400000,
+    "title": "In conversation with Hitesh Kumar S. Makwana-Surveyor General of India",
+    "desc": "The host invites Hitesh Kumar S Makwana to discuss India&apos;s geospatial landscape."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789385400000,
+    "stopTs": 1789387200000,
+    "title": "DD India",
+    "desc": "The host provides a detailed report surrounding the Victory Day parade in Moscow, Russia."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789387200000,
+    "stopTs": 1789389000000,
+    "title": "Defence Dynamics",
+    "desc": "The host presents the latest news stories pertaining to India&apos;s defence systems."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789389000000,
+    "stopTs": 1789390800000,
+    "title": "DD India",
+    "desc": "The host provides a detailed report surrounding the Victory Day parade in Moscow, Russia."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789390800000,
+    "stopTs": 1789392600000,
+    "title": "In Conversation With",
+    "desc": "The host engages in a conversation with experts and political leaders."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789392600000,
+    "stopTs": 1789394400000,
+    "title": "Express News",
+    "desc": "The anchor covers news updates from around the world on an exhaustive range of topics."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789394400000,
+    "stopTs": 1789396200000,
+    "title": "DD India",
+    "desc": "The host provides a detailed report surrounding the Victory Day parade in Moscow, Russia."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789396200000,
+    "stopTs": 1789398000000,
+    "title": "Voice of the Global South",
+    "desc": "Akshay Dongare presents a range of stories from different parts of the world."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789398000000,
+    "stopTs": 1789399800000,
+    "title": "Defence Dynamics",
+    "desc": "The host presents the latest news stories pertaining to India&apos;s defence systems."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789399800000,
+    "stopTs": 1789403400000,
+    "title": "DD India News Hour",
+    "desc": "The host presents latest updates and top stories across the globe."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789403400000,
+    "stopTs": 1789405200000,
+    "title": "55th International Film Festival of India-2024 (IFFI)",
+    "desc": "Personalities from the film industry attend the 55th International Film Festival of India."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789405200000,
+    "stopTs": 1789407000000,
+    "title": "Eco India",
+    "desc": "The host sheds light on the efforts of an organisation that promotes eco-friendly products."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1789407000000,
+    "stopTs": 1789410600000,
+    "title": "DD India News Hour",
+    "desc": "The host presents latest updates and top stories across the globe."
   },
   {
     "start": "18:30",
@@ -720,10 +753,10 @@
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
     "channelName": "DD India HD",
-    "startTs": 1789324200000,
-    "stopTs": 1789326000000,
-    "title": "Wellness Watch- Lifestyle Habits That Lead To Ageing Faster",
-    "desc": "Wellness Watch - Lifestyle Habits That Lead to Ageing Faster explores how poor diet, stress, inactivity, and harmful routines accelerate ageing, urging healthier choices."
+    "startTs": 1789410600000,
+    "stopTs": 1789412400000,
+    "title": "The Economic Brief",
+    "desc": "TV host David Johnson humorously explains economic topics in the series."
   },
   {
     "start": "19:00",
@@ -731,10 +764,10 @@
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
     "channelName": "DD India HD",
-    "startTs": 1789326000000,
-    "stopTs": 1789327800000,
-    "title": "Tale Of Trails-The Shangrila",
-    "desc": "Journey through the breathtaking landscapes of Shangrila, uncovering its mystical beauty, ancient traditions, and hidden trails in this immersive travel exploration of paradise."
+    "startTs": 1789412400000,
+    "stopTs": 1789414200000,
+    "title": "Connecting The Dots",
+    "desc": "&apos;Connect the Dots&apos; is a collection of inspiring stories of 20 entrepreneurs written by Rashmi Bansal."
   },
   {
     "start": "19:30",
@@ -742,8 +775,8 @@
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
     "channelName": "DD India HD",
-    "startTs": 1789327800000,
-    "stopTs": 1789331400000,
+    "startTs": 1789414200000,
+    "stopTs": 1789417800000,
     "title": "Dd-India News Hour",
     "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
   },
@@ -753,10 +786,10 @@
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
     "channelName": "DD India HD",
-    "startTs": 1789331400000,
-    "stopTs": 1789333200000,
-    "title": "Voice Of The Global South",
-    "desc": "India&apos;s Voice of Global South Summit aims to unite developing countries to discuss concerns, interests, and priorities, exchange ideas, and promote unity in addressing these issues."
+    "startTs": 1789417800000,
+    "stopTs": 1789419600000,
+    "title": "Tale Of Trails-The Shangrila",
+    "desc": "Journey through the breathtaking landscapes of Shangrila, uncovering its mystical beauty, ancient traditions, and hidden trails in this immersive travel exploration of paradise."
   },
   {
     "start": "21:00",
@@ -764,8 +797,8 @@
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
     "channelName": "DD India HD",
-    "startTs": 1789333200000,
-    "stopTs": 1789335000000,
+    "startTs": 1789419600000,
+    "stopTs": 1789421400000,
     "title": "Defence Dynamics",
     "desc": "Defence Dynamics on DD India explores military strategies and innovations."
   },
@@ -775,8 +808,8 @@
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
     "channelName": "DD India HD",
-    "startTs": 1789335000000,
-    "stopTs": 1789338600000,
+    "startTs": 1789421400000,
+    "stopTs": 1789425000000,
     "title": "Dd-India News Hour",
     "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
   },
@@ -786,10 +819,10 @@
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
     "channelName": "DD India HD",
-    "startTs": 1789338600000,
-    "stopTs": 1789340400000,
-    "title": "Connecting The Dots",
-    "desc": "&apos;Connect the Dots&apos; is a collection of inspiring stories of 20 entrepreneurs written by Rashmi Bansal."
+    "startTs": 1789425000000,
+    "stopTs": 1789426800000,
+    "title": "Voice Of The Global South",
+    "desc": "India&apos;s Voice of Global South Summit aims to unite developing countries to discuss concerns, interests, and priorities, exchange ideas, and promote unity in addressing these issues."
   },
   {
     "start": "23:00",
@@ -797,10 +830,10 @@
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
     "channelName": "DD India HD",
-    "startTs": 1789340400000,
-    "stopTs": 1789342200000,
-    "title": "The Economic Brief",
-    "desc": "TV host David Johnson humorously explains economic topics in the series."
+    "startTs": 1789426800000,
+    "stopTs": 1789428600000,
+    "title": "Eco India",
+    "desc": "The host highlights projects and efforts addressing environmental issues."
   },
   {
     "start": "23:30",
@@ -808,8 +841,8 @@
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
     "channelName": "DD India HD",
-    "startTs": 1789342200000,
-    "stopTs": 1789345800000,
+    "startTs": 1789428600000,
+    "stopTs": 1789432200000,
     "title": "Dd-India News Hour",
     "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
   },
@@ -819,8 +852,8 @@
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
     "channelName": "DD India HD",
-    "startTs": 1789345800000,
-    "stopTs": 1789347600000,
+    "startTs": 1789432200000,
+    "stopTs": 1789434000000,
     "title": "Tale Of Trails-The Shangrila",
     "desc": "Journey through the breathtaking landscapes of Shangrila, uncovering its mystical beauty, ancient traditions, and hidden trails in this immersive travel exploration of paradise."
   },
@@ -830,8 +863,8 @@
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
     "channelName": "DD India HD",
-    "startTs": 1789347600000,
-    "stopTs": 1789349400000,
+    "startTs": 1789434000000,
+    "stopTs": 1789435800000,
     "title": "Meditation Session By Gurudev Sri Sri Ravi Shankar",
     "desc": "Guru Srisri Ravishankar delivers a discourse to discuss the benefits of meditation and encourages people to make it a part of their day-to-day routine."
   },
@@ -841,8 +874,8 @@
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
     "channelName": "DD India HD",
-    "startTs": 1789349400000,
-    "stopTs": 1789351200000,
+    "startTs": 1789435800000,
+    "stopTs": 1789437600000,
     "title": "Dd-India Live",
     "desc": "The newsreader provides a thorough report on some of the most significant and recent global news articles and updates in real-time."
   },
@@ -852,8 +885,8 @@
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
     "channelName": "DD India HD",
-    "startTs": 1789351200000,
-    "stopTs": 1789353000000,
+    "startTs": 1789437600000,
+    "stopTs": 1789439400000,
     "title": "Dd-India Live",
     "desc": "The newsreader provides a thorough report on some of the most significant and recent global news articles and updates in real-time."
   },
@@ -863,8 +896,8 @@
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
     "channelName": "DD India HD",
-    "startTs": 1789353000000,
-    "stopTs": 1789356600000,
+    "startTs": 1789439400000,
+    "stopTs": 1789443000000,
     "title": "Dd-India News Hour",
     "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
   }

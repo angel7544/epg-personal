@@ -1,511 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789182000000,
-    "stopTs": 1789183800000,
-    "title": "Aaj Ki Khabar",
-    "desc": "Daily news roundup presenting the day&apos;s most important headlines, critical political developments, market updates, and global affairs in a crisp, fast-paced, and comprehensive bulletin."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789183800000,
-    "stopTs": 1789185600000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789185600000,
-    "stopTs": 1789187400000,
-    "title": "Sanyasi",
-    "desc": "A spiritual program featuring stories, teachings, and insights into the life of ascetics, inspiring faith, simplicity, and devotion."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789187400000,
-    "stopTs": 1789189200000,
-    "title": "Uk / Up Reporter Live",
-    "desc": "Live reporting from Uttar Pradesh and Uttarakhand, delivering breaking regional headlines, government policy updates, weather alerts, civic challenges, and in-depth state political coverage."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789189200000,
-    "stopTs": 1789191000000,
-    "title": "Special Report",
-    "desc": "Detailed investigative and feature reports uncovering critical socio-economic issues, ground realities, hidden community stories, and administrative accountability across the country."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789191000000,
-    "stopTs": 1789192800000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789192800000,
-    "stopTs": 1789194600000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789194600000,
-    "stopTs": 1789196400000,
-    "title": "Bullitin Live 12 Noon",
-    "desc": "Midday live news update on current affairs, breaking political stories, market trends, and critical national developments delivered with prompt, accurate, and comprehensive ground depth."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789196400000,
-    "stopTs": 1789198200000,
-    "title": "Prime Crime",
-    "desc": "Investigative program covering crime stories, forensic evidence, police operations, and real-life mystery cases to expose illegal syndicates and ensure strict accountability and justice."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789198200000,
-    "stopTs": 1789200000000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789200000000,
-    "stopTs": 1789201800000,
-    "title": "Bulletin/Special",
-    "desc": "Special news bulletin providing urgent and verified ground updates, breaking stories, live expert commentary, and comprehensive coverage of major events shaping our nation right now."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789201800000,
-    "stopTs": 1789203600000,
-    "title": "Bulletin Live @ 2 PM",
-    "desc": "A live news bulletin presenting updates at 2 PM, covering breaking stories, politics, society, and economy with analysis and reports."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789203600000,
-    "stopTs": 1789205400000,
-    "title": "Entertainment",
-    "desc": "Entertainment brings viewers engaging features, stories and content from the world of entertainment, offering a selection of programmes and moments for audiences to enjoy."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789205400000,
-    "stopTs": 1789207200000,
-    "title": "Super Fast 50",
-    "desc": "Quick, concise news updates covering top national headlines, breaking stories, sports highlights, business news, and world affairs delivered in a fast, crisp, and high-impact format today."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789207200000,
-    "stopTs": 1789209000000,
-    "title": "Special Program-Janta Bol",
-    "desc": "Platform for public voices expressing opinions, civic concerns, local community challenges, and constructive feedback on governance policies to foster democratic participation and real reform."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789209000000,
-    "stopTs": 1789210800000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789210800000,
-    "stopTs": 1789212600000,
-    "title": "Sanyasi",
-    "desc": "A spiritual program featuring stories, teachings, and insights into the life of ascetics, inspiring faith, simplicity, and devotion."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789212600000,
-    "stopTs": 1789214400000,
-    "title": "News Room Live",
-    "desc": "News Room Live brings viewers live coverage of important news and developing events, with updates, discussions and perspectives on stories making headlines across the country."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789214400000,
-    "stopTs": 1789216200000,
-    "title": "Special Report",
-    "desc": "Detailed investigative and feature reports uncovering critical socio-economic issues, ground realities, hidden community stories, and administrative accountability across the country."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789216200000,
-    "stopTs": 1789218000000,
-    "title": "Cross Fire",
-    "desc": "Cross Fire brings different viewpoints into a lively discussion, examining current issues through debate, questions and opposing perspectives to explore the facts and arguments involved."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789218000000,
-    "stopTs": 1789219800000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789219800000,
-    "stopTs": 1789221600000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789221600000,
-    "stopTs": 1789223400000,
-    "title": "Special",
-    "desc": "An half an hour program deals with Automobile innovations, new vehicle launches, in-depth test drive reviews, maintenance tips, and smart electric mobility trends in the automotive industry."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789223400000,
-    "stopTs": 1789225200000,
-    "title": "Prime Focus",
-    "desc": "Prime Focus examines important current issues through detailed coverage, discussions and analysis, offering viewers deeper perspectives on events and developments of public interest."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789225200000,
-    "stopTs": 1789227000000,
-    "title": "UK Prime Bulletin",
-    "desc": "Prime news bulletin covering Uttarakhand&apos;s regional developments, tourism policies, disaster management plans, local governance, and mountain infrastructure initiatives every evening."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789227000000,
-    "stopTs": 1789228800000,
-    "title": "UP Prime 9 PM",
-    "desc": "The presenter delivers a comprehensive prime-time analysis of crucial political developments, key administrative policies, governance, and impactful civic matters across Uttar Pradesh."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789228800000,
-    "stopTs": 1789230600000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789230600000,
-    "stopTs": 1789232400000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789232400000,
-    "stopTs": 1789234200000,
-    "title": "Special Report",
-    "desc": "Detailed investigative and feature reports uncovering critical socio-economic issues, ground realities, hidden community stories, and administrative accountability across the country."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789234200000,
-    "stopTs": 1789236000000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789236000000,
-    "stopTs": 1789237800000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789237800000,
-    "stopTs": 1789239600000,
-    "title": "Aaj Ki Khabar",
-    "desc": "Daily news roundup presenting the day&apos;s most important headlines, critical political developments, market updates, and global affairs in a crisp, fast-paced, and comprehensive bulletin."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789239600000,
-    "stopTs": 1789241400000,
-    "title": "UK Prime Bulletin",
-    "desc": "Prime news bulletin covering Uttarakhand&apos;s regional developments, tourism policies, disaster management plans, local governance, and mountain infrastructure initiatives every evening."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789241400000,
-    "stopTs": 1789243200000,
-    "title": "Prime Agenda 7 Pm",
-    "desc": "Prime-time talk show discussing politics, policy reforms, heated electoral debates, and current socio-economic challenges with prominent analysts, politicians, and subject matter experts."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789243200000,
-    "stopTs": 1789245000000,
-    "title": "Prime Agenda 7 Pm",
-    "desc": "Prime-time talk show discussing politics, policy reforms, heated electoral debates, and current socio-economic challenges with prominent analysts, politicians, and subject matter experts."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789245000000,
-    "stopTs": 1789246800000,
-    "title": "Entertainment",
-    "desc": "Entertainment brings viewers engaging features, stories and content from the world of entertainment, offering a selection of programmes and moments for audiences to enjoy."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789246800000,
-    "stopTs": 1789248600000,
-    "title": "Super Fast 50",
-    "desc": "Quick, concise news updates covering top national headlines, breaking stories, sports highlights, business news, and world affairs delivered in a fast, crisp, and high-impact format today."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789248600000,
-    "stopTs": 1789250400000,
-    "title": "Prime Crime",
-    "desc": "Investigative program covering crime stories, forensic evidence, police operations, and real-life mystery cases to expose illegal syndicates and ensure strict accountability and justice."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789250400000,
-    "stopTs": 1789252200000,
-    "title": "Aaj Ki Khabar",
-    "desc": "Daily news roundup presenting the day&apos;s most important headlines, critical political developments, market updates, and global affairs in a crisp, fast-paced, and comprehensive bulletin."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789252200000,
-    "stopTs": 1789255800000,
-    "title": "Prime Agenda 7 Pm",
-    "desc": "Prime-time talk show discussing politics, policy reforms, heated electoral debates, and current socio-economic challenges with prominent analysts, politicians, and subject matter experts."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789255800000,
-    "stopTs": 1789257600000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789257600000,
-    "stopTs": 1789259400000,
-    "title": "UP Prime 9 PM",
-    "desc": "The presenter delivers a comprehensive prime-time analysis of crucial political developments, key administrative policies, governance, and impactful civic matters across Uttar Pradesh."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789259400000,
-    "stopTs": 1789261200000,
-    "title": "CMS Program",
-    "desc": "A current affairs program analyzing government policies, schemes, and developments, offering insights into their impact on people and society."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789261200000,
-    "stopTs": 1789263000000,
-    "title": "Super Fast 50",
-    "desc": "Quick, concise news updates covering top national headlines, breaking stories, sports highlights, business news, and world affairs delivered in a fast, crisp, and high-impact format today."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789263000000,
-    "stopTs": 1789264800000,
-    "title": "Bulletin Live 7",
-    "desc": "Evening live news bulletin summarizing the most significant national and global headlines, political developments, economic updates, and breaking stories happening around the globe today."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "SadhnaPrimeNews.in",
-    "channelId": "SadhnaPrimeNews.in",
-    "channelName": "Sadhna Prime News",
-    "startTs": 1789264800000,
-    "stopTs": 1789266600000,
-    "title": "UK Prime Bulletin",
-    "desc": "Prime news bulletin covering Uttarakhand&apos;s regional developments, tourism policies, disaster management plans, local governance, and mountain infrastructure initiatives every evening."
-  },
-  {
     "start": "02:30",
     "stop": "03:00",
     "channel": "SadhnaPrimeNews.in",
@@ -513,8 +7,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789266600000,
     "stopTs": 1789268400000,
-    "title": "Bulletin Live 8",
-    "desc": "The news anchor presents live, real-time reporting, prominent breaking stories, and an in-depth evening analysis of major political, economic, and civic developments from across the country."
+    "title": "News",
+    "desc": "The host presents the latest news updates from around the nation and the world."
   },
   {
     "start": "03:00",
@@ -524,8 +18,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789268400000,
     "stopTs": 1789270200000,
-    "title": "Aaj Ki Khabar",
-    "desc": "Daily news roundup presenting the day&apos;s most important headlines, critical political developments, market updates, and global affairs in a crisp, fast-paced, and comprehensive bulletin."
+    "title": "Prime Agenda",
+    "desc": "A discussion with a panel of experts regarding the latest news from around the world."
   },
   {
     "start": "03:30",
@@ -535,8 +29,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789270200000,
     "stopTs": 1789272000000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
+    "title": "News",
+    "desc": "The host presents the latest news updates from around the nation and the world."
   },
   {
     "start": "04:00",
@@ -546,8 +40,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789272000000,
     "stopTs": 1789273800000,
-    "title": "Sanyasi",
-    "desc": "A spiritual program featuring stories, teachings, and insights into the life of ascetics, inspiring faith, simplicity, and devotion."
+    "title": "News",
+    "desc": "The host presents the latest news updates from around the nation and the world."
   },
   {
     "start": "04:30",
@@ -557,8 +51,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789273800000,
     "stopTs": 1789275600000,
-    "title": "Prime Focus",
-    "desc": "Prime Focus examines important current issues through detailed coverage, discussions and analysis, offering viewers deeper perspectives on events and developments of public interest."
+    "title": "News",
+    "desc": "The host presents the latest news updates from around the nation and the world."
   },
   {
     "start": "05:00",
@@ -568,19 +62,19 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789275600000,
     "stopTs": 1789277400000,
-    "title": "Special Report",
-    "desc": "Detailed investigative and feature reports uncovering critical socio-economic issues, ground realities, hidden community stories, and administrative accountability across the country."
+    "title": "News Special",
+    "desc": "The host presents the latest regional and national news, updates and developments."
   },
   {
     "start": "05:30",
-    "stop": "06:00",
+    "stop": "06:30",
     "channel": "SadhnaPrimeNews.in",
     "channelId": "SadhnaPrimeNews.in",
     "channelName": "Sadhna Prime News",
     "startTs": 1789277400000,
-    "stopTs": 1789279200000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
+    "stopTs": 1789281000000,
+    "title": "News",
+    "desc": "The host presents the latest news updates from around the nation and the world."
   },
   {
     "start": "06:00",
@@ -601,8 +95,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789281000000,
     "stopTs": 1789282800000,
-    "title": "Bullitin Live 12 Noon",
-    "desc": "Midday live news update on current affairs, breaking political stories, market trends, and critical national developments delivered with prompt, accurate, and comprehensive ground depth."
+    "title": "Superfast News",
+    "desc": "The host presents the latest updates on various social, political and economic issues."
   },
   {
     "start": "07:00",
@@ -612,8 +106,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789282800000,
     "stopTs": 1789284600000,
-    "title": "Medical Program",
-    "desc": "Health-related show discussing medical advancements and public health tips."
+    "title": "News Special",
+    "desc": "The host presents the latest regional and national news, updates and developments."
   },
   {
     "start": "07:30",
@@ -623,8 +117,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789284600000,
     "stopTs": 1789286400000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
+    "title": "Live News",
+    "desc": "The host collates and presents some of the most important news and latest updates, live."
   },
   {
     "start": "08:00",
@@ -634,8 +128,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789286400000,
     "stopTs": 1789288200000,
-    "title": "Bulletin/Special",
-    "desc": "Special news bulletin providing urgent and verified ground updates, breaking stories, live expert commentary, and comprehensive coverage of major events shaping our nation right now."
+    "title": "News Special",
+    "desc": "The host presents the latest regional and national news, updates and developments."
   },
   {
     "start": "08:30",
@@ -645,8 +139,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789288200000,
     "stopTs": 1789290000000,
-    "title": "Bulletin Live @ 2 PM",
-    "desc": "A live news bulletin presenting updates at 2 PM, covering breaking stories, politics, society, and economy with analysis and reports."
+    "title": "News",
+    "desc": "The host presents the latest news updates from around the nation and the world."
   },
   {
     "start": "09:00",
@@ -656,8 +150,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789290000000,
     "stopTs": 1789291800000,
-    "title": "Entertainment",
-    "desc": "Entertainment brings viewers engaging features, stories and content from the world of entertainment, offering a selection of programmes and moments for audiences to enjoy."
+    "title": "News Special",
+    "desc": "The host presents the latest regional and national news, updates and developments."
   },
   {
     "start": "09:30",
@@ -667,8 +161,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789291800000,
     "stopTs": 1789293600000,
-    "title": "Super Fast 50",
-    "desc": "Quick, concise news updates covering top national headlines, breaking stories, sports highlights, business news, and world affairs delivered in a fast, crisp, and high-impact format today."
+    "title": "News",
+    "desc": "The host presents the latest news updates from around the nation and the world."
   },
   {
     "start": "10:00",
@@ -678,8 +172,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789293600000,
     "stopTs": 1789295400000,
-    "title": "Special Program-Janta Bol",
-    "desc": "Platform for public voices expressing opinions, civic concerns, local community challenges, and constructive feedback on governance policies to foster democratic participation and real reform."
+    "title": "Apka Jila Apka Reporter",
+    "desc": "The host presents the latest news on a range of issues of local and national importance."
   },
   {
     "start": "10:30",
@@ -689,8 +183,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789295400000,
     "stopTs": 1789297200000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
+    "title": "News @4 Live",
+    "desc": "The host presents the latest news and updates on the nation&apos;s current affairs, live."
   },
   {
     "start": "11:00",
@@ -700,8 +194,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789297200000,
     "stopTs": 1789299000000,
-    "title": "Sanyasi",
-    "desc": "A spiritual program featuring stories, teachings, and insights into the life of ascetics, inspiring faith, simplicity, and devotion."
+    "title": "News Special",
+    "desc": "The host presents the latest regional and national news, updates and developments."
   },
   {
     "start": "11:30",
@@ -711,8 +205,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789299000000,
     "stopTs": 1789300800000,
-    "title": "News Room Live",
-    "desc": "News Room Live brings viewers live coverage of important news and developing events, with updates, discussions and perspectives on stories making headlines across the country."
+    "title": "Din Bhar Ki Badi Khabar",
+    "desc": "The host presents the day&apos;s news and updates on a range of issues of national importance."
   },
   {
     "start": "12:00",
@@ -722,8 +216,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789300800000,
     "stopTs": 1789302600000,
-    "title": "Special Report",
-    "desc": "Detailed investigative and feature reports uncovering critical socio-economic issues, ground realities, hidden community stories, and administrative accountability across the country."
+    "title": "News Special",
+    "desc": "The host presents the latest regional and national news, updates and developments."
   },
   {
     "start": "12:30",
@@ -733,8 +227,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789302600000,
     "stopTs": 1789304400000,
-    "title": "Uk Debate",
-    "desc": "Debate program focusing on issues relevant to public policy, democratic governance, economic reforms, and social challenges featuring insightful commentary from leading national experts."
+    "title": "Haryana Dangal",
+    "desc": "The host presents the latest news related to elections and politics in Haryana."
   },
   {
     "start": "13:00",
@@ -744,19 +238,19 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789304400000,
     "stopTs": 1789306200000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
+    "title": "News Special",
+    "desc": "The host presents the latest regional and national news, updates and developments."
   },
   {
     "start": "13:30",
-    "stop": "14:00",
+    "stop": "14:30",
     "channel": "SadhnaPrimeNews.in",
     "channelId": "SadhnaPrimeNews.in",
     "channelName": "Sadhna Prime News",
     "startTs": 1789306200000,
-    "stopTs": 1789308000000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
+    "stopTs": 1789309800000,
+    "title": "Prime Agenda",
+    "desc": "A discussion with a panel of experts regarding the latest news from around the world."
   },
   {
     "start": "14:00",
@@ -771,14 +265,25 @@
   },
   {
     "start": "14:30",
-    "stop": "15:30",
+    "stop": "15:00",
     "channel": "SadhnaPrimeNews.in",
     "channelId": "SadhnaPrimeNews.in",
     "channelName": "Sadhna Prime News",
     "startTs": 1789309800000,
+    "stopTs": 1789311600000,
+    "title": "Special Report",
+    "desc": "The host presents the latest news on a range of issues of national and global importance."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789311600000,
     "stopTs": 1789313400000,
-    "title": "Zindagi",
-    "desc": "A lifestyle and social program exploring real-life stories, relationships, and cultural values that inspire, entertain, and connect with audiences."
+    "title": "UK Prime",
+    "desc": "The host presents the latest news and updates on various issues related to Uttarakhand."
   },
   {
     "start": "15:30",
@@ -788,8 +293,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789313400000,
     "stopTs": 1789315200000,
-    "title": "UP Prime 9 PM",
-    "desc": "The presenter delivers a comprehensive prime-time analysis of crucial political developments, key administrative policies, governance, and impactful civic matters across Uttar Pradesh."
+    "title": "UP Prime",
+    "desc": "The host presents the latest and important news updates from Uttar Pradesh, India."
   },
   {
     "start": "16:00",
@@ -799,8 +304,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789315200000,
     "stopTs": 1789317000000,
-    "title": "Prime Crime",
-    "desc": "Investigative program covering crime stories, forensic evidence, police operations, and real-life mystery cases to expose illegal syndicates and ensure strict accountability and justice."
+    "title": "Apka Jila Apka Reporter",
+    "desc": "The host presents the latest news on a range of issues of local and national importance."
   },
   {
     "start": "16:30",
@@ -810,8 +315,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789317000000,
     "stopTs": 1789318800000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
+    "title": "Final Bull",
+    "desc": "The host presents the latest social, political and economic news updates and developments."
   },
   {
     "start": "17:00",
@@ -821,19 +326,19 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789318800000,
     "stopTs": 1789320600000,
-    "title": "Special Report",
-    "desc": "Detailed investigative and feature reports uncovering critical socio-economic issues, ground realities, hidden community stories, and administrative accountability across the country."
+    "title": "UK Prime",
+    "desc": "The host presents the latest news and updates on various issues related to Uttarakhand."
   },
   {
     "start": "17:30",
-    "stop": "18:00",
+    "stop": "18:30",
     "channel": "SadhnaPrimeNews.in",
     "channelId": "SadhnaPrimeNews.in",
     "channelName": "Sadhna Prime News",
     "startTs": 1789320600000,
-    "stopTs": 1789322400000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
+    "stopTs": 1789324200000,
+    "title": "Prime Agenda",
+    "desc": "A discussion with a panel of experts regarding the latest news from around the world."
   },
   {
     "start": "18:00",
@@ -854,8 +359,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789324200000,
     "stopTs": 1789326000000,
-    "title": "Aaj Ki Khabar",
-    "desc": "Daily news roundup presenting the day&apos;s most important headlines, critical political developments, market updates, and global affairs in a crisp, fast-paced, and comprehensive bulletin."
+    "title": "UP Prime",
+    "desc": "The host presents the latest and important news updates from Uttar Pradesh, India."
   },
   {
     "start": "19:00",
@@ -865,8 +370,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789326000000,
     "stopTs": 1789327800000,
-    "title": "UK Prime Bulletin",
-    "desc": "Prime news bulletin covering Uttarakhand&apos;s regional developments, tourism policies, disaster management plans, local governance, and mountain infrastructure initiatives every evening."
+    "title": "Apka Jila Apka Reporter",
+    "desc": "The host presents the latest news on a range of issues of local and national importance."
   },
   {
     "start": "19:30",
@@ -876,8 +381,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789327800000,
     "stopTs": 1789329600000,
-    "title": "Prime Agenda 7 Pm",
-    "desc": "Prime-time talk show discussing politics, policy reforms, heated electoral debates, and current socio-economic challenges with prominent analysts, politicians, and subject matter experts."
+    "title": "Special Report",
+    "desc": "The host presents the latest news on a range of issues of national and global importance."
   },
   {
     "start": "20:00",
@@ -887,19 +392,19 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789329600000,
     "stopTs": 1789331400000,
-    "title": "Prime Agenda 7 Pm",
-    "desc": "Prime-time talk show discussing politics, policy reforms, heated electoral debates, and current socio-economic challenges with prominent analysts, politicians, and subject matter experts."
+    "title": "Haryana Dangal",
+    "desc": "The host presents the latest news related to elections and politics in Haryana."
   },
   {
     "start": "20:30",
-    "stop": "21:00",
+    "stop": "21:30",
     "channel": "SadhnaPrimeNews.in",
     "channelId": "SadhnaPrimeNews.in",
     "channelName": "Sadhna Prime News",
     "startTs": 1789331400000,
-    "stopTs": 1789333200000,
-    "title": "Entertainment",
-    "desc": "Entertainment brings viewers engaging features, stories and content from the world of entertainment, offering a selection of programmes and moments for audiences to enjoy."
+    "stopTs": 1789335000000,
+    "title": "Prime Agenda",
+    "desc": "A discussion with a panel of experts regarding the latest news from around the world."
   },
   {
     "start": "21:00",
@@ -920,8 +425,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789335000000,
     "stopTs": 1789336800000,
-    "title": "Prime Crime",
-    "desc": "Investigative program covering crime stories, forensic evidence, police operations, and real-life mystery cases to expose illegal syndicates and ensure strict accountability and justice."
+    "title": "UP Prime",
+    "desc": "The host presents the latest and important news updates from Uttar Pradesh, India."
   },
   {
     "start": "22:00",
@@ -931,30 +436,41 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789336800000,
     "stopTs": 1789338600000,
-    "title": "Aaj Ki Khabar",
-    "desc": "Daily news roundup presenting the day&apos;s most important headlines, critical political developments, market updates, and global affairs in a crisp, fast-paced, and comprehensive bulletin."
+    "title": "UK Prime",
+    "desc": "The host presents the latest news and updates on various issues related to Uttarakhand."
   },
   {
     "start": "22:30",
-    "stop": "23:30",
+    "stop": "23:00",
     "channel": "SadhnaPrimeNews.in",
     "channelId": "SadhnaPrimeNews.in",
     "channelName": "Sadhna Prime News",
     "startTs": 1789338600000,
+    "stopTs": 1789340400000,
+    "title": "Special Report",
+    "desc": "The host presents the latest news on a range of issues of national and global importance."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789340400000,
     "stopTs": 1789342200000,
-    "title": "Prime Agenda 7 Pm",
-    "desc": "Prime-time talk show discussing politics, policy reforms, heated electoral debates, and current socio-economic challenges with prominent analysts, politicians, and subject matter experts."
+    "title": "News Special",
+    "desc": "The host presents the latest regional and national news, updates and developments."
   },
   {
     "start": "23:30",
-    "stop": "00:00",
+    "stop": "00:30",
     "channel": "SadhnaPrimeNews.in",
     "channelId": "SadhnaPrimeNews.in",
     "channelName": "Sadhna Prime News",
     "startTs": 1789342200000,
-    "stopTs": 1789344000000,
-    "title": "Bulletin",
-    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
+    "stopTs": 1789345800000,
+    "title": "Prime Agenda",
+    "desc": "A discussion with a panel of experts regarding the latest news from around the world."
   },
   {
     "start": "00:00",
@@ -975,8 +491,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789345800000,
     "stopTs": 1789347600000,
-    "title": "CMS Program",
-    "desc": "A current affairs program analyzing government policies, schemes, and developments, offering insights into their impact on people and society."
+    "title": "News",
+    "desc": "The host presents the latest news updates from around the nation and the world."
   },
   {
     "start": "01:00",
@@ -986,8 +502,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789347600000,
     "stopTs": 1789349400000,
-    "title": "News",
-    "desc": "General news coverage of national and international headlines, socio-economic developments, political insights, ground reports, and major current affairs happening across the world today."
+    "title": "News Special",
+    "desc": "The host presents the latest regional and national news, updates and developments."
   },
   {
     "start": "01:30",
@@ -997,8 +513,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789349400000,
     "stopTs": 1789351200000,
-    "title": "Bulletin Live 7",
-    "desc": "Evening live news bulletin summarizing the most significant national and global headlines, political developments, economic updates, and breaking stories happening around the globe today."
+    "title": "News",
+    "desc": "The host presents the latest news updates from around the nation and the world."
   },
   {
     "start": "02:00",
@@ -1008,8 +524,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789351200000,
     "stopTs": 1789353000000,
-    "title": "UK Prime Bulletin",
-    "desc": "Prime news bulletin covering Uttarakhand&apos;s regional developments, tourism policies, disaster management plans, local governance, and mountain infrastructure initiatives every evening."
+    "title": "News Special",
+    "desc": "The host presents the latest regional and national news, updates and developments."
   },
   {
     "start": "02:30",
@@ -1019,8 +535,8 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789353000000,
     "stopTs": 1789354800000,
-    "title": "Bulletin Live 8",
-    "desc": "The news anchor presents live, real-time reporting, prominent breaking stories, and an in-depth evening analysis of major political, economic, and civic developments from across the country."
+    "title": "News",
+    "desc": "The host presents the latest news updates from around the nation and the world."
   },
   {
     "start": "03:00",
@@ -1030,7 +546,502 @@
     "channelName": "Sadhna Prime News",
     "startTs": 1789354800000,
     "stopTs": 1789356600000,
-    "title": "NIS",
-    "desc": "News Information Service delivering timely, factual, and unbiased reporting on key political events, socio-economic policies, administrative decisions, and community developments nationwide."
+    "title": "Prime Agenda",
+    "desc": "A discussion with a panel of experts regarding the latest news from around the world."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789356600000,
+    "stopTs": 1789358400000,
+    "title": "News",
+    "desc": "The host presents the latest news updates from around the nation and the world."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789358400000,
+    "stopTs": 1789360200000,
+    "title": "News",
+    "desc": "The host presents the latest news updates from around the nation and the world."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789360200000,
+    "stopTs": 1789362000000,
+    "title": "News",
+    "desc": "The host presents the latest news updates from around the nation and the world."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789362000000,
+    "stopTs": 1789363800000,
+    "title": "News Special",
+    "desc": "The host presents the latest regional and national news, updates and developments."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789363800000,
+    "stopTs": 1789367400000,
+    "title": "News",
+    "desc": "The host presents the latest news updates from around the nation and the world."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789367400000,
+    "stopTs": 1789369200000,
+    "title": "Superfast News",
+    "desc": "The host presents the latest updates on various social, political and economic issues."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789369200000,
+    "stopTs": 1789371000000,
+    "title": "News Special",
+    "desc": "The host presents the latest regional and national news, updates and developments."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789371000000,
+    "stopTs": 1789372800000,
+    "title": "Live News",
+    "desc": "The host collates and presents some of the most important news and latest updates, live."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789372800000,
+    "stopTs": 1789374600000,
+    "title": "News Special",
+    "desc": "The host presents the latest regional and national news, updates and developments."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789374600000,
+    "stopTs": 1789376400000,
+    "title": "News",
+    "desc": "The host presents the latest news updates from around the nation and the world."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789376400000,
+    "stopTs": 1789378200000,
+    "title": "News Special",
+    "desc": "The host presents the latest regional and national news, updates and developments."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789378200000,
+    "stopTs": 1789380000000,
+    "title": "News",
+    "desc": "The host presents the latest news updates from around the nation and the world."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789380000000,
+    "stopTs": 1789381800000,
+    "title": "Apka Jila Apka Reporter",
+    "desc": "The host presents the latest news on a range of issues of local and national importance."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789381800000,
+    "stopTs": 1789383600000,
+    "title": "News @4 Live",
+    "desc": "The host presents the latest news and updates on the nation&apos;s current affairs, live."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789383600000,
+    "stopTs": 1789385400000,
+    "title": "News Special",
+    "desc": "The host presents the latest regional and national news, updates and developments."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789385400000,
+    "stopTs": 1789387200000,
+    "title": "Din Bhar Ki Badi Khabar",
+    "desc": "The host presents the day&apos;s news and updates on a range of issues of national importance."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789387200000,
+    "stopTs": 1789389000000,
+    "title": "News Special",
+    "desc": "The host presents the latest regional and national news, updates and developments."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789389000000,
+    "stopTs": 1789390800000,
+    "title": "Haryana Dangal",
+    "desc": "The host presents the latest news related to elections and politics in Haryana."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789390800000,
+    "stopTs": 1789392600000,
+    "title": "News Special",
+    "desc": "The host presents the latest regional and national news, updates and developments."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789392600000,
+    "stopTs": 1789396200000,
+    "title": "Prime Agenda",
+    "desc": "A discussion with a panel of experts regarding the latest news from around the world."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789396200000,
+    "stopTs": 1789398000000,
+    "title": "Special Report",
+    "desc": "The host presents the latest news on a range of issues of national and global importance."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789398000000,
+    "stopTs": 1789399800000,
+    "title": "UK Prime",
+    "desc": "The host presents the latest news and updates on various issues related to Uttarakhand."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789399800000,
+    "stopTs": 1789401600000,
+    "title": "UP Prime",
+    "desc": "The host presents the latest and important news updates from Uttar Pradesh, India."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789401600000,
+    "stopTs": 1789403400000,
+    "title": "Apka Jila Apka Reporter",
+    "desc": "The host presents the latest news on a range of issues of local and national importance."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789403400000,
+    "stopTs": 1789405200000,
+    "title": "Final Bull",
+    "desc": "The host presents the latest social, political and economic news updates and developments."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789405200000,
+    "stopTs": 1789407000000,
+    "title": "UK Prime",
+    "desc": "The host presents the latest news and updates on various issues related to Uttarakhand."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789407000000,
+    "stopTs": 1789410600000,
+    "title": "Prime Agenda",
+    "desc": "A discussion with a panel of experts regarding the latest news from around the world."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789408800000,
+    "stopTs": 1789410600000,
+    "title": "Bulletin",
+    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789410600000,
+    "stopTs": 1789412400000,
+    "title": "Aaj Ki Khabar",
+    "desc": "Daily news roundup presenting the day&apos;s most important headlines, critical political developments, market updates, and global affairs in a crisp, fast-paced, and comprehensive bulletin."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789412400000,
+    "stopTs": 1789414200000,
+    "title": "UK Prime Bulletin",
+    "desc": "Prime news bulletin covering Uttarakhand&apos;s regional developments, tourism policies, disaster management plans, local governance, and mountain infrastructure initiatives every evening."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789414200000,
+    "stopTs": 1789416000000,
+    "title": "Prime Agenda 7 Pm",
+    "desc": "Prime-time talk show discussing politics, policy reforms, heated electoral debates, and current socio-economic challenges with prominent analysts, politicians, and subject matter experts."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789416000000,
+    "stopTs": 1789417800000,
+    "title": "Prime Agenda 7 Pm",
+    "desc": "Prime-time talk show discussing politics, policy reforms, heated electoral debates, and current socio-economic challenges with prominent analysts, politicians, and subject matter experts."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789417800000,
+    "stopTs": 1789419600000,
+    "title": "Entertainment",
+    "desc": "Entertainment brings viewers engaging features, stories and content from the world of entertainment, offering a selection of programmes and moments for audiences to enjoy."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789419600000,
+    "stopTs": 1789421400000,
+    "title": "Super Fast 50",
+    "desc": "Quick, concise news updates covering top national headlines, breaking stories, sports highlights, business news, and world affairs delivered in a fast, crisp, and high-impact format today."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789421400000,
+    "stopTs": 1789423200000,
+    "title": "Prime Crime",
+    "desc": "Investigative program covering crime stories, forensic evidence, police operations, and real-life mystery cases to expose illegal syndicates and ensure strict accountability and justice."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789423200000,
+    "stopTs": 1789425000000,
+    "title": "Aaj Ki Khabar",
+    "desc": "Daily news roundup presenting the day&apos;s most important headlines, critical political developments, market updates, and global affairs in a crisp, fast-paced, and comprehensive bulletin."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789425000000,
+    "stopTs": 1789428600000,
+    "title": "Prime Agenda 7 Pm",
+    "desc": "Prime-time talk show discussing politics, policy reforms, heated electoral debates, and current socio-economic challenges with prominent analysts, politicians, and subject matter experts."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789428600000,
+    "stopTs": 1789430400000,
+    "title": "Bulletin",
+    "desc": "Bulletin delivers concise updates on the latest news and important developments, covering key events and stories to keep viewers informed about current happenings across the country."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789430400000,
+    "stopTs": 1789432200000,
+    "title": "UP Prime 9 PM",
+    "desc": "The presenter delivers a comprehensive prime-time analysis of crucial political developments, key administrative policies, governance, and impactful civic matters across Uttar Pradesh."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789432200000,
+    "stopTs": 1789434000000,
+    "title": "CMS Program",
+    "desc": "A current affairs program analyzing government policies, schemes, and developments, offering insights into their impact on people and society."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789434000000,
+    "stopTs": 1789435800000,
+    "title": "Super Fast 50",
+    "desc": "Quick, concise news updates covering top national headlines, breaking stories, sports highlights, business news, and world affairs delivered in a fast, crisp, and high-impact format today."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789435800000,
+    "stopTs": 1789437600000,
+    "title": "Bulletin Live 7",
+    "desc": "Evening live news bulletin summarizing the most significant national and global headlines, political developments, economic updates, and breaking stories happening around the globe today."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789437600000,
+    "stopTs": 1789439400000,
+    "title": "UK Prime Bulletin",
+    "desc": "Prime news bulletin covering Uttarakhand&apos;s regional developments, tourism policies, disaster management plans, local governance, and mountain infrastructure initiatives every evening."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789439400000,
+    "stopTs": 1789441200000,
+    "title": "Bulletin Live 8",
+    "desc": "The news anchor presents live, real-time reporting, prominent breaking stories, and an in-depth evening analysis of major political, economic, and civic developments from across the country."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "SadhnaPrimeNews.in",
+    "channelId": "SadhnaPrimeNews.in",
+    "channelName": "Sadhna Prime News",
+    "startTs": 1789441200000,
+    "stopTs": 1789443000000,
+    "title": "Aaj Ki Khabar",
+    "desc": "Daily news roundup presenting the day&apos;s most important headlines, critical political developments, market updates, and global affairs in a crisp, fast-paced, and comprehensive bulletin."
   }
 ]
