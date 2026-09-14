@@ -1775,6 +1775,8 @@ http://localhost:5000/live/2946.m3u8
 http://localhost:5000/live/2947.m3u8
 #EXTINF:-1 tvg-id="EnrichTV.in" tvg-logo="" group-title="JioTV",Enrich TV
 http://localhost:5000/live/2953.m3u8
+#EXTINF:-1 tvg-id="TV45.in" tvg-logo="" group-title="JioTV",TV45
+http://localhost:5000/live/2954.m3u8
 #EXTINF:-1 tvg-id="ETVPlusHD.in" tvg-logo="" group-title="JioTV",ETV Plus HD
 http://localhost:5000/live/2956.m3u8
 #EXTINF:-1 tvg-id="PublicFirst.in" tvg-logo="" group-title="JioTV",Public First
@@ -1917,7 +1919,7 @@ http://localhost:5000/live/3095.m3u8
 http://localhost:5000/live/3103.m3u8
 #EXTINF:-1 tvg-id="SmritiPatraTV.in" tvg-logo="" group-title="JioTV",Smriti Patra TV
 http://localhost:5000/live/3104.m3u8
-#EXTINF:-1 tvg-id="NationalTvIndia.in" tvg-logo="" group-title="JioTV",National Tv India
+#EXTINF:-1 tvg-id="NationalTVIndia.in" tvg-logo="" group-title="JioTV",National Tv India
 http://localhost:5000/live/3105.m3u8
 #EXTINF:-1 tvg-id="BhakthiSiri.in" tvg-logo="" group-title="JioTV",Bhakthi Siri
 http://localhost:5000/live/3107.m3u8
