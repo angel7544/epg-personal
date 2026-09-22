@@ -1,212 +1,47 @@
 [
   {
     "start": "02:30",
-    "stop": "06:30",
-    "channel": "ZeePunjabi.in",
-    "channelId": "ZeePunjabi.in",
-    "channelName": "Zee Punjabi",
-    "startTs": 1789957800000,
-    "stopTs": 1789972200000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "03:30",
-    "stop": "06:30",
-    "channel": "ZeePunjabi.in",
-    "channelId": "ZeePunjabi.in",
-    "channelName": "Zee Punjabi",
-    "startTs": 1789961400000,
-    "stopTs": 1789972200000,
-    "title": "Super Singh",
-    "desc": "Super Singh lives in Canada. His life changes when he gains superpowers and has to return to save Punjab from the drug lords and corrupt politicians."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:30",
-    "channel": "ZeePunjabi.in",
-    "channelId": "ZeePunjabi.in",
-    "channelName": "Zee Punjabi",
-    "startTs": 1789972200000,
-    "stopTs": 1789975800000,
-    "title": "Desi Beats",
-    "desc": "This collection features popular and fun songs from different artists worldwide. It&apos;s a mix of catchy tunes designed to entertain and appeal to a broad audience, offering a diverse musical experience."
-  },
-  {
-    "start": "07:30",
-    "stop": "10:30",
-    "channel": "ZeePunjabi.in",
-    "channelId": "ZeePunjabi.in",
-    "channelName": "Zee Punjabi",
-    "startTs": 1789975800000,
-    "stopTs": 1789986600000,
-    "title": "Kuriyan Jawan Bapu Pareshan",
-    "desc": "A man wishes to have a son but instead has three daughters. After growing up, the three young women care for their father and prove that they are no less than boys."
-  },
-  {
-    "start": "09:30",
-    "stop": "12:30",
-    "channel": "ZeePunjabi.in",
-    "channelId": "ZeePunjabi.in",
-    "channelName": "Zee Punjabi",
-    "startTs": 1789983000000,
-    "stopTs": 1789993800000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "10:30",
-    "stop": "13:30",
-    "channel": "ZeePunjabi.in",
-    "channelId": "ZeePunjabi.in",
-    "channelName": "Zee Punjabi",
-    "startTs": 1789986600000,
-    "stopTs": 1789997400000,
-    "title": "PHD - Pyar Hai Drama",
-    "desc": "PHD - Pyar Hai Drama"
-  },
-  {
-    "start": "12:30",
-    "stop": "15:30",
-    "channel": "ZeePunjabi.in",
-    "channelId": "ZeePunjabi.in",
-    "channelName": "Zee Punjabi",
-    "startTs": 1789993800000,
-    "stopTs": 1790004600000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "13:30",
-    "stop": "16:30",
-    "channel": "ZeePunjabi.in",
-    "channelId": "ZeePunjabi.in",
-    "channelName": "Zee Punjabi",
-    "startTs": 1789997400000,
-    "stopTs": 1790008200000,
-    "title": "Ki Mein Jhooth Boleya",
-    "desc": "Manvir pretends to be married to move in with his girlfriend, but his lies cause chaos when he rents a house only for married couples."
-  },
-  {
-    "start": "15:30",
-    "stop": "20:00",
-    "channel": "ZeePunjabi.in",
-    "channelId": "ZeePunjabi.in",
-    "channelName": "Zee Punjabi",
-    "startTs": 1790004600000,
-    "stopTs": 1790020800000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "16:30",
-    "stop": "16:56",
-    "channel": "ZeePunjabi.in",
-    "channelId": "ZeePunjabi.in",
-    "channelName": "Zee Punjabi",
-    "startTs": 1790008200000,
-    "stopTs": 1790009760000,
-    "title": "Desi Beats",
-    "desc": "This collection features popular and fun songs from different artists worldwide. It&apos;s a mix of catchy tunes designed to entertain and appeal to a broad audience, offering a diverse musical experience."
-  },
-  {
-    "start": "16:56",
-    "stop": "19:34",
-    "channel": "ZeePunjabi.in",
-    "channelId": "ZeePunjabi.in",
-    "channelName": "Zee Punjabi",
-    "startTs": 1790009760000,
-    "stopTs": 1790019240000,
-    "title": "Super Singh",
-    "desc": "Super Singh lives in Canada. His life changes when he gains superpowers and has to return to save Punjab from the drug lords and corrupt politicians."
-  },
-  {
-    "start": "19:34",
-    "stop": "20:30",
-    "channel": "ZeePunjabi.in",
-    "channelId": "ZeePunjabi.in",
-    "channelName": "Zee Punjabi",
-    "startTs": 1790019240000,
-    "stopTs": 1790022600000,
-    "title": "Desi Beats",
-    "desc": "This collection features popular and fun songs from different artists worldwide. It&apos;s a mix of catchy tunes designed to entertain and appeal to a broad audience, offering a diverse musical experience."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "ZeePunjabi.in",
-    "channelId": "ZeePunjabi.in",
-    "channelName": "Zee Punjabi",
-    "startTs": 1790020800000,
-    "stopTs": 1790022600000,
-    "title": "Music",
-    "desc": "Showcasing Punjabi music, culture and entertainment. It features popular tracks, rising artists and vibrant performances while celebrating the rich legacy of Punjabi musical heritage."
-  },
-  {
-    "start": "20:30",
-    "stop": "22:30",
-    "channel": "ZeePunjabi.in",
-    "channelId": "ZeePunjabi.in",
-    "channelName": "Zee Punjabi",
-    "startTs": 1790022600000,
-    "stopTs": 1790029800000,
-    "title": "Takht Shri Harimandir Ji Patna Sahib",
-    "desc": "A spiritual broadcast from the sacred Takht Shri Harimandir Ji Patna Sahib, offering prayers, divine hymns and blessings that connect devotees to Sikh faith and devotion."
-  },
-  {
-    "start": "22:30",
-    "stop": "00:30",
-    "channel": "ZeePunjabi.in",
-    "channelId": "ZeePunjabi.in",
-    "channelName": "Zee Punjabi",
-    "startTs": 1790029800000,
-    "stopTs": 1790037000000,
-    "title": "Takht Shri Harimandir Ji Patna Sahib",
-    "desc": "A spiritual broadcast from the sacred Takht Shri Harimandir Ji Patna Sahib, offering prayers, divine hymns and blessings that connect devotees to Sikh faith and devotion."
-  },
-  {
-    "start": "00:30",
-    "stop": "02:30",
-    "channel": "ZeePunjabi.in",
-    "channelId": "ZeePunjabi.in",
-    "channelName": "Zee Punjabi",
-    "startTs": 1790037000000,
-    "stopTs": 1790044200000,
-    "title": "Takht Shri Harimandir Ji Patna Sahib",
-    "desc": "A spiritual broadcast from the sacred Takht Shri Harimandir Ji Patna Sahib, offering prayers, divine hymns and blessings that connect devotees to Sikh faith and devotion."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "ZeePunjabi.in",
-    "channelId": "ZeePunjabi.in",
-    "channelName": "Zee Punjabi",
-    "startTs": 1790042400000,
-    "stopTs": 1790044200000,
-    "title": "Teleshopping",
-    "desc": "The host showcases the specifications of a wide selection of products that can be bought from the comfort of one&apos;s home."
-  },
-  {
-    "start": "02:30",
-    "stop": "06:30",
+    "stop": "03:00",
     "channel": "ZeePunjabi.in",
     "channelId": "ZeePunjabi.in",
     "channelName": "Zee Punjabi",
     "startTs": 1790044200000,
-    "stopTs": 1790058600000,
-    "title": "Music",
-    "desc": "Showcasing Punjabi music, culture, and entertainment. It features popular tracks, rising artists, and vibrant performances while celebrating the rich legacy of Punjabi musical heritage."
+    "stopTs": 1790046000000,
+    "title": "Desi Beats",
+    "desc": "A comprehensive compilation of some of the most popular Punjabi songs composed by renowned artists and singers played back-to-back."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "ZeePunjabi.in",
+    "channelId": "ZeePunjabi.in",
+    "channelName": "Zee Punjabi",
+    "startTs": 1790046000000,
+    "stopTs": 1790047800000,
+    "title": "Desi Beats",
+    "desc": "This collection features popular and fun songs from different artists worldwide. It&apos;s a mix of catchy tunes designed to entertain and appeal to a broad audience, offering a diverse musical experience."
   },
   {
     "start": "03:30",
-    "stop": "06:30",
+    "stop": "06:27",
     "channel": "ZeePunjabi.in",
     "channelId": "ZeePunjabi.in",
     "channelName": "Zee Punjabi",
     "startTs": 1790047800000,
-    "stopTs": 1790058600000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
+    "stopTs": 1790058420000,
+    "title": "Laiye Je Yariyaan",
+    "desc": "Raunak hires Sukh to help save his failing transport business, but Sukh turns out to be deceitful and worsens the situation."
+  },
+  {
+    "start": "06:27",
+    "stop": "07:00",
+    "channel": "ZeePunjabi.in",
+    "channelId": "ZeePunjabi.in",
+    "channelName": "Zee Punjabi",
+    "startTs": 1790058420000,
+    "stopTs": 1790060400000,
+    "title": "Desi Beats",
+    "desc": "This collection features popular and fun songs from different artists worldwide. It&apos;s a mix of catchy tunes designed to entertain and appeal to a broad audience, offering a diverse musical experience."
   },
   {
     "start": "06:30",
@@ -216,8 +51,8 @@
     "channelName": "Zee Punjabi",
     "startTs": 1790058600000,
     "stopTs": 1790060400000,
-    "title": "Music",
-    "desc": "Showcasing Punjabi music, culture, and entertainment. It features popular tracks, rising artists, and vibrant performances while celebrating the rich legacy of Punjabi musical heritage."
+    "title": "Desi Beats",
+    "desc": "A comprehensive compilation of some of the most popular Punjabi songs composed by renowned artists and singers played back-to-back."
   },
   {
     "start": "07:00",
@@ -227,8 +62,8 @@
     "channelName": "Zee Punjabi",
     "startTs": 1790060400000,
     "stopTs": 1790062200000,
-    "title": "Music",
-    "desc": "Showcasing Punjabi music, culture, and entertainment. It features popular tracks, rising artists, and vibrant performances while celebrating the rich legacy of Punjabi musical heritage."
+    "title": "Desi Beats",
+    "desc": "This collection features popular and fun songs from different artists worldwide. It&apos;s a mix of catchy tunes designed to entertain and appeal to a broad audience, offering a diverse musical experience."
   },
   {
     "start": "07:30",
@@ -238,8 +73,8 @@
     "channelName": "Zee Punjabi",
     "startTs": 1790062200000,
     "stopTs": 1790073000000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "title": "Qismat 2",
+    "desc": "A story about unrequitted love - the shapes it takes, the ways it change us and often heartbreaking role it take us on. Following Shiv, Bani and Majaz as they navigate through life, love and sorrow."
   },
   {
     "start": "10:30",
@@ -249,8 +84,8 @@
     "channelName": "Zee Punjabi",
     "startTs": 1790073000000,
     "stopTs": 1790083800000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "title": "Babe Bhangra Paunde Ne",
+    "desc": "Jaggi and his friends desire to be rich by hook or by crook. Things take a humourous turn when they sell innovative undergarments and adopt an old man."
   },
   {
     "start": "13:30",
@@ -260,8 +95,8 @@
     "channelName": "Zee Punjabi",
     "startTs": 1790083800000,
     "stopTs": 1790094600000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "title": "Fuffad Ji",
+    "desc": "In a joint family, Arjan Singh, a dominating son-in-law, begins to lose his importance with the arrival of a new adorable son-in-law. What ensues is a hilarious tale of rivalry between the two."
   },
   {
     "start": "16:30",
@@ -271,19 +106,30 @@
     "channelName": "Zee Punjabi",
     "startTs": 1790094600000,
     "stopTs": 1790096400000,
-    "title": "Music",
-    "desc": "Showcasing Punjabi music, culture, and entertainment. It features popular tracks, rising artists, and vibrant performances while celebrating the rich legacy of Punjabi musical heritage."
+    "title": "Desi Beats",
+    "desc": "This collection features popular and fun songs from different artists worldwide. It&apos;s a mix of catchy tunes designed to entertain and appeal to a broad audience, offering a diverse musical experience."
   },
   {
     "start": "17:00",
-    "stop": "20:00",
+    "stop": "19:33",
     "channel": "ZeePunjabi.in",
     "channelId": "ZeePunjabi.in",
     "channelName": "Zee Punjabi",
     "startTs": 1790096400000,
-    "stopTs": 1790107200000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "stopTs": 1790105580000,
+    "title": "Laiye Je Yariyaan",
+    "desc": "Raunak hires Sukh to help save his failing transport business, but Sukh turns out to be deceitful and worsens the situation."
+  },
+  {
+    "start": "19:33",
+    "stop": "20:30",
+    "channel": "ZeePunjabi.in",
+    "channelId": "ZeePunjabi.in",
+    "channelName": "Zee Punjabi",
+    "startTs": 1790105580000,
+    "stopTs": 1790109000000,
+    "title": "Desi Beats",
+    "desc": "This collection features popular and fun songs from different artists worldwide. It&apos;s a mix of catchy tunes designed to entertain and appeal to a broad audience, offering a diverse musical experience."
   },
   {
     "start": "20:00",
@@ -293,41 +139,52 @@
     "channelName": "Zee Punjabi",
     "startTs": 1790107200000,
     "stopTs": 1790109000000,
-    "title": "Music",
-    "desc": "Showcasing Punjabi music, culture, and entertainment. It features popular tracks, rising artists, and vibrant performances while celebrating the rich legacy of Punjabi musical heritage."
+    "title": "Desi Beats",
+    "desc": "A comprehensive compilation of some of the most popular Punjabi songs composed by renowned artists and singers played back-to-back."
   },
   {
     "start": "20:30",
-    "stop": "02:00",
+    "stop": "00:30",
     "channel": "ZeePunjabi.in",
     "channelId": "ZeePunjabi.in",
     "channelName": "Zee Punjabi",
     "startTs": 1790109000000,
-    "stopTs": 1790128800000,
+    "stopTs": 1790123400000,
     "title": "Takht Shri Harimandir Ji Patna Sahib",
     "desc": "A spiritual broadcast from the sacred Takht Shri Harimandir Ji Patna Sahib, offering prayers, divine hymns and blessings that connect devotees to Sikh faith and devotion."
   },
   {
-    "start": "02:00",
+    "start": "00:30",
     "stop": "02:30",
     "channel": "ZeePunjabi.in",
     "channelId": "ZeePunjabi.in",
     "channelName": "Zee Punjabi",
-    "startTs": 1790128800000,
+    "startTs": 1790123400000,
     "stopTs": 1790130600000,
-    "title": "Teleshopping",
-    "desc": "Discover a wide variety of products and enjoy a seamless home shopping experience with expert guidance, great deals, and the convenience of buying without leaving your home."
+    "title": "Takht Shri Harimandir Ji Patna Sahib",
+    "desc": "A spiritual broadcast from the sacred Takht Shri Harimandir Ji Patna Sahib, offering prayers, divine hymns and blessings that connect devotees to Sikh faith and devotion."
   },
   {
     "start": "02:30",
-    "stop": "03:30",
+    "stop": "03:00",
     "channel": "ZeePunjabi.in",
     "channelId": "ZeePunjabi.in",
     "channelName": "Zee Punjabi",
     "startTs": 1790130600000,
+    "stopTs": 1790132400000,
+    "title": "Desi Beats",
+    "desc": "This collection features popular and fun songs from different artists worldwide. It&apos;s a mix of catchy tunes designed to entertain and appeal to a broad audience, offering a diverse musical experience."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "ZeePunjabi.in",
+    "channelId": "ZeePunjabi.in",
+    "channelName": "Zee Punjabi",
+    "startTs": 1790132400000,
     "stopTs": 1790134200000,
-    "title": "Zee Music",
-    "desc": "A Punjabi music programme featuring popular songs, music videos and performances from celebrated artists, bringing viewers a lively mix of regional melodies, entertainment and contemporary music."
+    "title": "Desi Beats",
+    "desc": "This collection features popular and fun songs from different artists worldwide. It&apos;s a mix of catchy tunes designed to entertain and appeal to a broad audience, offering a diverse musical experience."
   },
   {
     "start": "03:30",
@@ -337,7 +194,150 @@
     "channelName": "Zee Punjabi",
     "startTs": 1790134200000,
     "stopTs": 1790145000000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "title": "Viah Te Loan",
+    "desc": "Gunnu, a young boy, falls in love with Raunak from a nearby village. But she sets a condition-he must arrange 10 lakh rupees if he wants to marry her."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "ZeePunjabi.in",
+    "channelId": "ZeePunjabi.in",
+    "channelName": "Zee Punjabi",
+    "startTs": 1790145000000,
+    "stopTs": 1790146800000,
+    "title": "Desi Beats",
+    "desc": "This collection features popular and fun songs from different artists worldwide. It&apos;s a mix of catchy tunes designed to entertain and appeal to a broad audience, offering a diverse musical experience."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "ZeePunjabi.in",
+    "channelId": "ZeePunjabi.in",
+    "channelName": "Zee Punjabi",
+    "startTs": 1790146800000,
+    "stopTs": 1790148600000,
+    "title": "Desi Beats",
+    "desc": "This collection features popular and fun songs from different artists worldwide. It&apos;s a mix of catchy tunes designed to entertain and appeal to a broad audience, offering a diverse musical experience."
+  },
+  {
+    "start": "07:30",
+    "stop": "10:30",
+    "channel": "ZeePunjabi.in",
+    "channelId": "ZeePunjabi.in",
+    "channelName": "Zee Punjabi",
+    "startTs": 1790148600000,
+    "stopTs": 1790159400000,
+    "title": "Puaada",
+    "desc": "Jaggi, a farmer, and Raunak, a young woman, love each other and wish to get married. However, they face several challenges in their quest to unite."
+  },
+  {
+    "start": "10:30",
+    "stop": "13:30",
+    "channel": "ZeePunjabi.in",
+    "channelId": "ZeePunjabi.in",
+    "channelName": "Zee Punjabi",
+    "startTs": 1790159400000,
+    "stopTs": 1790170200000,
+    "title": "Mr. & Mrs. 420",
+    "desc": "Deputy aspires to be an actor while Jass needs a good job to be able to marry his girlfriend. They move to another town in search of opportunities."
+  },
+  {
+    "start": "13:30",
+    "stop": "16:30",
+    "channel": "ZeePunjabi.in",
+    "channelId": "ZeePunjabi.in",
+    "channelName": "Zee Punjabi",
+    "startTs": 1790170200000,
+    "stopTs": 1790181000000,
+    "title": "Bai Ji Kuttange",
+    "desc": "Bai Ji, a rich man, likes control. His brother falls for his worker, causing problems. This leads to funny situations and chaos. Get ready to laugh!"
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "ZeePunjabi.in",
+    "channelId": "ZeePunjabi.in",
+    "channelName": "Zee Punjabi",
+    "startTs": 1790181000000,
+    "stopTs": 1790182800000,
+    "title": "Desi Beats",
+    "desc": "This collection features popular and fun songs from different artists worldwide. It&apos;s a mix of catchy tunes designed to entertain and appeal to a broad audience, offering a diverse musical experience."
+  },
+  {
+    "start": "17:00",
+    "stop": "20:00",
+    "channel": "ZeePunjabi.in",
+    "channelId": "ZeePunjabi.in",
+    "channelName": "Zee Punjabi",
+    "startTs": 1790182800000,
+    "stopTs": 1790193600000,
+    "title": "Viah Te Loan",
+    "desc": "Gunnu, a young boy, falls in love with Raunak from a nearby village. But she sets a condition-he must arrange 10 lakh rupees if he wants to marry her."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "ZeePunjabi.in",
+    "channelId": "ZeePunjabi.in",
+    "channelName": "Zee Punjabi",
+    "startTs": 1790193600000,
+    "stopTs": 1790195400000,
+    "title": "Desi Beats",
+    "desc": "This collection features popular and fun songs from different artists worldwide. It&apos;s a mix of catchy tunes designed to entertain and appeal to a broad audience, offering a diverse musical experience."
+  },
+  {
+    "start": "20:30",
+    "stop": "00:30",
+    "channel": "ZeePunjabi.in",
+    "channelId": "ZeePunjabi.in",
+    "channelName": "Zee Punjabi",
+    "startTs": 1790195400000,
+    "stopTs": 1790209800000,
+    "title": "Takht Shri Harimandir Ji Patna Sahib",
+    "desc": "A spiritual broadcast from the sacred Takht Shri Harimandir Ji Patna Sahib, offering prayers, divine hymns and blessings that connect devotees to Sikh faith and devotion."
+  },
+  {
+    "start": "00:30",
+    "stop": "02:30",
+    "channel": "ZeePunjabi.in",
+    "channelId": "ZeePunjabi.in",
+    "channelName": "Zee Punjabi",
+    "startTs": 1790209800000,
+    "stopTs": 1790217000000,
+    "title": "Takht Shri Harimandir Ji Patna Sahib",
+    "desc": "A spiritual broadcast from the sacred Takht Shri Harimandir Ji Patna Sahib, offering prayers, divine hymns and blessings that connect devotees to Sikh faith and devotion."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "ZeePunjabi.in",
+    "channelId": "ZeePunjabi.in",
+    "channelName": "Zee Punjabi",
+    "startTs": 1790217000000,
+    "stopTs": 1790218800000,
+    "title": "Desi Beats",
+    "desc": "This collection features popular and fun songs from different artists worldwide. It&apos;s a mix of catchy tunes designed to entertain and appeal to a broad audience, offering a diverse musical experience."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "ZeePunjabi.in",
+    "channelId": "ZeePunjabi.in",
+    "channelName": "Zee Punjabi",
+    "startTs": 1790218800000,
+    "stopTs": 1790220600000,
+    "title": "Desi Beats",
+    "desc": "This collection features popular and fun songs from different artists worldwide. It&apos;s a mix of catchy tunes designed to entertain and appeal to a broad audience, offering a diverse musical experience."
+  },
+  {
+    "start": "03:30",
+    "stop": "06:30",
+    "channel": "ZeePunjabi.in",
+    "channelId": "ZeePunjabi.in",
+    "channelName": "Zee Punjabi",
+    "startTs": 1790220600000,
+    "stopTs": 1790231400000,
+    "title": "Oye Chandigarh Chaliye",
+    "desc": "Four friends from a village move to Chandigarh chasing luxury, but their dream turns into a nightmare when they get trapped in a life of crime."
   }
 ]
