@@ -1,410 +1,25 @@
 [
   {
     "start": "02:30",
-    "stop": "04:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790044200000,
-    "stopTs": 1790051400000,
-    "title": "Khara Sauda",
-    "desc": "The host and experts discuss and analyse the latest financial and economic news."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790051400000,
-    "stopTs": 1790053200000,
-    "title": "10 Ka Bazaar",
-    "desc": "Experts to discuss and analyse latest financial, economic and market related updates."
-  },
-  {
-    "start": "05:00",
-    "stop": "06:00",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790053200000,
-    "stopTs": 1790056800000,
-    "title": "Your Stocks",
-    "desc": "The hosts review, analyse and predict the stock market trends of the country."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790056800000,
-    "stopTs": 1790058600000,
-    "title": "Munafe Ki Mandi",
-    "desc": "The host sheds light on important updates and details pertaining to the gold market."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790058600000,
-    "stopTs": 1790060400000,
-    "title": "F&O Junction",
-    "desc": "The host presents the latest updates and developments in business and finance."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790060400000,
-    "stopTs": 1790062200000,
-    "title": "Midcap Masala",
-    "desc": "The host invites eminent experts to discuss the latest trends in the stock market."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790062200000,
-    "stopTs": 1790064000000,
-    "title": "Corporate Connection",
-    "desc": "The host shares the latest news stories and updates from the business sector."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790064000000,
-    "stopTs": 1790065800000,
-    "title": "Stocks Fatafat",
-    "desc": "The host presents the latest information about the Indian stock market."
-  },
-  {
-    "start": "08:30",
-    "stop": "10:00",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790065800000,
-    "stopTs": 1790071200000,
-    "title": "Closing Calls",
-    "desc": "The host delivers a report of various stocks and the overall market at closing time."
-  },
-  {
-    "start": "10:00",
-    "stop": "11:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790071200000,
-    "stopTs": 1790076600000,
-    "title": "Bano Apna Finance Minister",
-    "desc": "The host invites financial experts to provide a detailed analysis of market trends."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790076600000,
-    "stopTs": 1790078400000,
-    "title": "Swadesh Khabar",
-    "desc": "The host presents the latest news updates from across the nation."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790078400000,
-    "stopTs": 1790080200000,
-    "title": "Commodity Fatafat",
-    "desc": "The host analyses the latest news stories related to India&apos;s commodities market."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790080200000,
-    "stopTs": 1790082000000,
-    "title": "Kal Ki Taiyari",
-    "desc": "The host sheds light on the latest developments regarding the changes in the stock market."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790082000000,
-    "stopTs": 1790083800000,
-    "title": "Consumer Is King",
-    "desc": "The host reviews the latest financial and economic news from India and interviews experts."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790083800000,
-    "stopTs": 1790085600000,
-    "title": "Et Now Swadesh On The Go",
-    "desc": "The host sheds light on some of the top businesses of India and their key strategies."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790085600000,
-    "stopTs": 1790087400000,
-    "title": "Kal Ki Taiyari",
-    "desc": "The host sheds light on the latest developments regarding the changes in the stock market."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790087400000,
-    "stopTs": 1790091000000,
-    "title": "Bano Apna Finance Minister",
-    "desc": "The host invites financial experts to provide a detailed analysis of market trends."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790091000000,
-    "stopTs": 1790092800000,
-    "title": "Bazaar & Business",
-    "desc": "A panel of experts analyse the latest developments in financial markets and the economy."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790092800000,
-    "stopTs": 1790094600000,
-    "title": "Guest Editor",
-    "desc": "The host and panel of experts share the latest updates about the financial sector."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790094600000,
-    "stopTs": 1790096400000,
-    "title": "Commodity Fatafat",
-    "desc": "The host analyses the latest news stories related to India&apos;s commodities market."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790096400000,
-    "stopTs": 1790098200000,
-    "title": "Kal Ki Taiyari",
-    "desc": "The host sheds light on the latest developments regarding the changes in the stock market."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790098200000,
-    "stopTs": 1790101800000,
-    "title": "Bano Apna Finance Minister",
-    "desc": "The host invites financial experts to provide a detailed analysis of market trends."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790101800000,
-    "stopTs": 1790103600000,
-    "title": "Bazaar & Business",
-    "desc": "A panel of experts analyse the latest developments in financial markets and the economy."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790103600000,
-    "stopTs": 1790105400000,
-    "title": "Guest Editor",
-    "desc": "The host and panel of experts share the latest updates about the financial sector."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790105400000,
-    "stopTs": 1790107200000,
-    "title": "Consumer Is King",
-    "desc": "The host reviews the latest financial and economic news from India and interviews experts."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790107200000,
-    "stopTs": 1790109000000,
-    "title": "Kal Ki Taiyari",
-    "desc": "The host sheds light on the latest developments regarding the changes in the stock market."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790109000000,
-    "stopTs": 1790112600000,
-    "title": "Bano Apna Finance Minister",
-    "desc": "The host invites financial experts to provide a detailed analysis of market trends."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790112600000,
-    "stopTs": 1790114400000,
-    "title": "Bazaar & Business",
-    "desc": "A panel of experts analyse the latest developments in financial markets and the economy."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790114400000,
-    "stopTs": 1790116200000,
-    "title": "Guest Editor",
-    "desc": "The host and panel of experts share the latest updates about the financial sector."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790116200000,
-    "stopTs": 1790118000000,
-    "title": "Consumer Is King",
-    "desc": "The host reviews the latest financial and economic news from India and interviews experts."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790118000000,
-    "stopTs": 1790119800000,
-    "title": "Commodity Vishesh",
-    "desc": "The host invites experts to discuss the current state of commodity markets."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790119800000,
-    "stopTs": 1790121600000,
-    "title": "Bazaar & Business",
-    "desc": "A panel of experts analyse the latest developments in financial markets and the economy."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790121600000,
-    "stopTs": 1790123400000,
-    "title": "Guest Editor",
-    "desc": "The host and panel of experts share the latest updates about the financial sector."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790123400000,
-    "stopTs": 1790127000000,
-    "title": "Bano Apna Finance Minister",
-    "desc": "The host invites financial experts to provide a detailed analysis of market trends."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790127000000,
-    "stopTs": 1790128800000,
-    "title": "Bazaar & Business",
-    "desc": "A panel of experts analyse the latest developments in financial markets and the economy."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "ETNowSwadesh.in",
-    "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
-    "startTs": 1790128800000,
-    "stopTs": 1790130600000,
-    "title": "Good Morning Swadesh",
-    "desc": "Experts discuss developments in the global stock market and assess stock performance."
-  },
-  {
-    "start": "02:30",
-    "stop": "04:30",
+    "stop": "03:30",
     "channel": "ETNowSwadesh.in",
     "channelId": "ETNowSwadesh.in",
     "channelName": "ET Now Swadesh",
     "startTs": 1790130600000,
+    "stopTs": 1790134200000,
+    "title": "Power Trade",
+    "desc": "This is News - News Bulletin Category"
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790134200000,
     "stopTs": 1790137800000,
-    "title": "Khara Sauda",
-    "desc": "The host and experts discuss and analyse the latest financial and economic news."
+    "title": "Market Live",
+    "desc": "The host provides a detailed report on the latest updates and developments pertaining to the stock market, business and finance, live."
   },
   {
     "start": "04:30",
@@ -415,18 +30,29 @@
     "startTs": 1790137800000,
     "stopTs": 1790139600000,
     "title": "10 Ka Bazaar",
-    "desc": "Experts to discuss and analyse latest financial, economic and market related updates."
+    "desc": "The host invites a panel of experts to discuss and analyse the latest financial and economic updates that impact the economy, market and investor behaviour."
   },
   {
     "start": "05:00",
-    "stop": "06:00",
+    "stop": "05:30",
     "channel": "ETNowSwadesh.in",
     "channelId": "ETNowSwadesh.in",
     "channelName": "ET Now Swadesh",
     "startTs": 1790139600000,
+    "stopTs": 1790141400000,
+    "title": "Midcap Masala",
+    "desc": "The host invites eminent experts to discuss the latest trends in the stock market and highlights the most profitable companies to invest in."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790141400000,
     "stopTs": 1790143200000,
-    "title": "Your Stocks",
-    "desc": "The hosts review, analyse and predict the stock market trends of the country."
+    "title": "Munafe Ki Mandi",
+    "desc": "The host sheds light on important updates and details pertaining to the gold market and other aspects of profit and loss in stocks according to current standards."
   },
   {
     "start": "06:00",
@@ -436,30 +62,30 @@
     "channelName": "ET Now Swadesh",
     "startTs": 1790143200000,
     "stopTs": 1790145000000,
-    "title": "Munafe Ki Mandi",
-    "desc": "The host sheds light on important updates and details pertaining to the gold market."
+    "title": "F&O Junction",
+    "desc": "The host presents the latest updates and developments in business and finance from across the nation and around the globe."
   },
   {
     "start": "06:30",
-    "stop": "07:00",
+    "stop": "07:30",
     "channel": "ETNowSwadesh.in",
     "channelId": "ETNowSwadesh.in",
     "channelName": "ET Now Swadesh",
     "startTs": 1790145000000,
-    "stopTs": 1790146800000,
-    "title": "F&O Junction",
-    "desc": "The host presents the latest updates and developments in business and finance."
+    "stopTs": 1790148600000,
+    "title": "Your Stocks",
+    "desc": "The hosts review and analyse the stock market trends of the country while advising the viewers to make the right investment decision."
   },
   {
     "start": "07:00",
     "stop": "07:30",
     "channel": "ETNowSwadesh.in",
     "channelId": "ETNowSwadesh.in",
-    "channelName": "ET Now Swadesh",
+    "channelName": "ET NOW SWADESH",
     "startTs": 1790146800000,
     "stopTs": 1790148600000,
     "title": "Midcap Masala",
-    "desc": "The host invites eminent experts to discuss the latest trends in the stock market."
+    "desc": "The host invites eminent experts to discuss the latest trends in the stock market and highlights the most profitable companies to invest in."
   },
   {
     "start": "07:30",
@@ -469,8 +95,8 @@
     "channelName": "ET Now Swadesh",
     "startTs": 1790148600000,
     "stopTs": 1790150400000,
-    "title": "Corporate Connection",
-    "desc": "The host shares the latest news stories and updates from the business sector."
+    "title": "Stocks Fatafat",
+    "desc": "The host presents the latest information about the Indian stock market and provides updates on the stocks one should keep an on."
   },
   {
     "start": "08:00",
@@ -480,8 +106,8 @@
     "channelName": "ET Now Swadesh",
     "startTs": 1790150400000,
     "stopTs": 1790152200000,
-    "title": "Stocks Fatafat",
-    "desc": "The host presents the latest information about the Indian stock market."
+    "title": "Corporate Connection",
+    "desc": "The host sheds light on the latest and most important news stories, updates, developments and events from the business sector."
   },
   {
     "start": "08:30",
@@ -491,19 +117,41 @@
     "channelName": "ET Now Swadesh",
     "startTs": 1790152200000,
     "stopTs": 1790157600000,
-    "title": "Closing Calls",
-    "desc": "The host delivers a report of various stocks and the overall market at closing time."
+    "title": "Closing Trades",
+    "desc": "Towards nearing the close of the market, the host provides latest updates of fluctuations and market-affecting events, with experts weighing in."
   },
   {
     "start": "10:00",
-    "stop": "11:30",
+    "stop": "10:30",
     "channel": "ETNowSwadesh.in",
     "channelId": "ETNowSwadesh.in",
     "channelName": "ET Now Swadesh",
     "startTs": 1790157600000,
+    "stopTs": 1790159400000,
+    "title": "Market Top 20",
+    "desc": "This is News - News Bulletin Category"
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790159400000,
+    "stopTs": 1790161200000,
+    "title": "Swadesh Khabar",
+    "desc": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790161200000,
     "stopTs": 1790163000000,
-    "title": "Bano Apna Finance Minister",
-    "desc": "The host invites financial experts to provide a detailed analysis of market trends."
+    "title": "Commodity Fatafat",
+    "desc": "The host analyses the latest news stories, important developments and major updates related to India&apos;s ever-evolving commodities market."
   },
   {
     "start": "11:30",
@@ -513,8 +161,8 @@
     "channelName": "ET Now Swadesh",
     "startTs": 1790163000000,
     "stopTs": 1790164800000,
-    "title": "Swadesh Khabar",
-    "desc": "The host presents the latest news updates from across the nation."
+    "title": "Khabrein Fatafat",
+    "desc": "This is News - News Bulletin Category"
   },
   {
     "start": "12:00",
@@ -524,8 +172,8 @@
     "channelName": "ET Now Swadesh",
     "startTs": 1790164800000,
     "stopTs": 1790166600000,
-    "title": "Commodity Fatafat",
-    "desc": "The host analyses the latest news stories related to India&apos;s commodities market."
+    "title": "Kal Ki Taiyari",
+    "desc": "The host sheds light on the latest developments regarding the changes in the stock market, trends and investment opportunities."
   },
   {
     "start": "12:30",
@@ -535,8 +183,8 @@
     "channelName": "ET Now Swadesh",
     "startTs": 1790166600000,
     "stopTs": 1790168400000,
-    "title": "Kal Ki Taiyari",
-    "desc": "The host sheds light on the latest developments regarding the changes in the stock market."
+    "title": "Consumer Is King",
+    "desc": "The host presents the latest financial and economic news updates and developments from all over India and interviews experts about their impact on the economy, market and investor behaviour."
   },
   {
     "start": "13:00",
@@ -546,8 +194,8 @@
     "channelName": "ET Now Swadesh",
     "startTs": 1790168400000,
     "stopTs": 1790170200000,
-    "title": "Consumer Is King",
-    "desc": "The host reviews the latest financial and economic news from India and interviews experts."
+    "title": "Bano Apna Finance Minister",
+    "desc": "The host invites financial industry experts to provide a detailed analysis of the key aspects of market trends and share their insights on how to achieve better returns."
   },
   {
     "start": "13:30",
@@ -557,8 +205,8 @@
     "channelName": "ET Now Swadesh",
     "startTs": 1790170200000,
     "stopTs": 1790172000000,
-    "title": "Et Now Swadesh On The Go",
-    "desc": "The host sheds light on some of the top businesses of India and their key strategies."
+    "title": "Nivesh Ki ABCD",
+    "desc": "A host invites an expert to discuss investment opportunities, examining the advantages and disadvantages of various options."
   },
   {
     "start": "14:00",
@@ -568,19 +216,30 @@
     "channelName": "ET Now Swadesh",
     "startTs": 1790172000000,
     "stopTs": 1790173800000,
-    "title": "Kal Ki Taiyari",
-    "desc": "The host sheds light on the latest developments regarding the changes in the stock market."
+    "title": "Consumer Is King",
+    "desc": "The host presents the latest financial and economic news updates and developments from all over India and interviews experts about their impact on the economy, market and investor behaviour."
   },
   {
     "start": "14:30",
-    "stop": "15:30",
+    "stop": "15:00",
     "channel": "ETNowSwadesh.in",
     "channelId": "ETNowSwadesh.in",
     "channelName": "ET Now Swadesh",
     "startTs": 1790173800000,
-    "stopTs": 1790177400000,
+    "stopTs": 1790175600000,
     "title": "Bano Apna Finance Minister",
-    "desc": "The host invites financial experts to provide a detailed analysis of market trends."
+    "desc": "The host invites financial industry experts to provide a detailed analysis of the key aspects of market trends and share their insights on how to achieve better returns."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790175600000,
+    "stopTs": 1790177400000,
+    "title": "Kal Ki Taiyari",
+    "desc": "The host sheds light on the latest developments regarding the changes in the stock market, trends and investment opportunities."
   },
   {
     "start": "15:30",
@@ -590,8 +249,8 @@
     "channelName": "ET Now Swadesh",
     "startTs": 1790177400000,
     "stopTs": 1790179200000,
-    "title": "Bazaar & Business",
-    "desc": "A panel of experts analyse the latest developments in financial markets and the economy."
+    "title": "Khabrein Fatafat",
+    "desc": "This is News - News Bulletin Category"
   },
   {
     "start": "16:00",
@@ -601,8 +260,8 @@
     "channelName": "ET Now Swadesh",
     "startTs": 1790179200000,
     "stopTs": 1790181000000,
-    "title": "Guest Editor",
-    "desc": "The host and panel of experts share the latest updates about the financial sector."
+    "title": "Consumer Is King",
+    "desc": "The host presents the latest financial and economic news updates and developments from all over India and interviews experts about their impact on the economy, market and investor behaviour."
   },
   {
     "start": "16:30",
@@ -612,8 +271,8 @@
     "channelName": "ET Now Swadesh",
     "startTs": 1790181000000,
     "stopTs": 1790182800000,
-    "title": "Commodity Fatafat",
-    "desc": "The host analyses the latest news stories related to India&apos;s commodities market."
+    "title": "Nivesh Ki ABCD",
+    "desc": "A host invites an expert to discuss investment opportunities, examining the advantages and disadvantages of various options."
   },
   {
     "start": "17:00",
@@ -624,17 +283,479 @@
     "startTs": 1790182800000,
     "stopTs": 1790184600000,
     "title": "Kal Ki Taiyari",
-    "desc": "The host sheds light on the latest developments regarding the changes in the stock market."
+    "desc": "The host sheds light on the latest developments regarding the changes in the stock market, trends and investment opportunities."
   },
   {
     "start": "17:30",
-    "stop": "18:30",
+    "stop": "18:00",
     "channel": "ETNowSwadesh.in",
     "channelId": "ETNowSwadesh.in",
     "channelName": "ET Now Swadesh",
     "startTs": 1790184600000,
-    "stopTs": 1790188200000,
+    "stopTs": 1790186400000,
     "title": "Bano Apna Finance Minister",
-    "desc": "The host invites financial experts to provide a detailed analysis of market trends."
+    "desc": "The host invites financial industry experts to provide a detailed analysis of the key aspects of market trends and share their insights on how to achieve better returns."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790186400000,
+    "stopTs": 1790188200000,
+    "title": "Market Ke Maharathi",
+    "desc": "Financial experts update viewers regarding the latest developments from the stock markets by sharing information about share prices and trends from various exchanges."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790188200000,
+    "stopTs": 1790190000000,
+    "title": "Consumer Is King",
+    "desc": "The host presents the latest financial and economic news updates and developments from all over India and interviews experts about their impact on the economy, market and investor behaviour."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790190000000,
+    "stopTs": 1790191800000,
+    "title": "Bano Apna Finance Minister",
+    "desc": "The host invites financial industry experts to provide a detailed analysis of the key aspects of market trends and share their insights on how to achieve better returns."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790191800000,
+    "stopTs": 1790193600000,
+    "title": "Kal Ki Taiyari",
+    "desc": "The host sheds light on the latest developments regarding the changes in the stock market, trends and investment opportunities."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790193600000,
+    "stopTs": 1790195400000,
+    "title": "Commodity Fatafat",
+    "desc": "The host analyses the latest news stories, important developments and major updates related to India&apos;s ever-evolving commodities market."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790195400000,
+    "stopTs": 1790199000000,
+    "title": "Sawaal Public Ka",
+    "desc": "The host facilitates discussions and debates with a panel of experts, who share their views on various matters of national importance."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790199000000,
+    "stopTs": 1790200800000,
+    "title": "Consumer Is King",
+    "desc": "The host presents the latest financial and economic news updates and developments from all over India and interviews experts about their impact on the economy, market and investor behaviour."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790200800000,
+    "stopTs": 1790202600000,
+    "title": "Kal Ki Taiyari",
+    "desc": "The host sheds light on the latest developments regarding the changes in the stock market, trends and investment opportunities."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790202600000,
+    "stopTs": 1790204400000,
+    "title": "Commodity Fatafat",
+    "desc": "The host analyses the latest news stories, important developments and major updates related to India&apos;s ever-evolving commodities market."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790204400000,
+    "stopTs": 1790206200000,
+    "title": "Bano Apna Finance Minister",
+    "desc": "The host invites financial industry experts to provide a detailed analysis of the key aspects of market trends and share their insights on how to achieve better returns."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790206200000,
+    "stopTs": 1790209800000,
+    "title": "Sawal Public Ka",
+    "desc": "The host offers fresh insights into recent developments and provides viewers with a comprehensive overview of emerging trends."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790209800000,
+    "stopTs": 1790211600000,
+    "title": "Consumer Is King",
+    "desc": "The host presents the latest financial and economic news updates and developments from all over India and interviews experts about their impact on the economy, market and investor behaviour."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790211600000,
+    "stopTs": 1790213400000,
+    "title": "Kal Ki Taiyari",
+    "desc": "The host sheds light on the latest developments regarding the changes in the stock market, trends and investment opportunities."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790213400000,
+    "stopTs": 1790215200000,
+    "title": "Bazaar Savere",
+    "desc": "This is Business And Finance - Special Report Category"
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790215200000,
+    "stopTs": 1790217000000,
+    "title": "Trader&apos;s Radar",
+    "desc": "This is Business And Finance - Special Report Category"
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790217000000,
+    "stopTs": 1790220600000,
+    "title": "Power Trade",
+    "desc": "This is News - News Bulletin Category"
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790220600000,
+    "stopTs": 1790224200000,
+    "title": "Market Live",
+    "desc": "The host provides a detailed report on the latest updates and developments pertaining to the stock market, business and finance, live."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790224200000,
+    "stopTs": 1790226000000,
+    "title": "10 Ka Bazaar",
+    "desc": "The host invites a panel of experts to discuss and analyse the latest financial and economic updates that impact the economy, market and investor behaviour."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790226000000,
+    "stopTs": 1790227800000,
+    "title": "Midcap Masala",
+    "desc": "The host invites eminent experts to discuss the latest trends in the stock market and highlights the most profitable companies to invest in."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790227800000,
+    "stopTs": 1790229600000,
+    "title": "Munafe Ki Mandi",
+    "desc": "The host sheds light on important updates and details pertaining to the gold market and other aspects of profit and loss in stocks according to current standards."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790229600000,
+    "stopTs": 1790231400000,
+    "title": "F&O Junction",
+    "desc": "The host presents the latest updates and developments in business and finance from across the nation and around the globe."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790231400000,
+    "stopTs": 1790235000000,
+    "title": "Your Stocks",
+    "desc": "The hosts review and analyse the stock market trends of the country while advising the viewers to make the right investment decision."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790235000000,
+    "stopTs": 1790236800000,
+    "title": "Stocks Fatafat",
+    "desc": "The host presents the latest information about the Indian stock market and provides updates on the stocks one should keep an on."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790236800000,
+    "stopTs": 1790238600000,
+    "title": "Corporate Connection",
+    "desc": "The host sheds light on the latest and most important news stories, updates, developments and events from the business sector."
+  },
+  {
+    "start": "08:30",
+    "stop": "10:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790238600000,
+    "stopTs": 1790244000000,
+    "title": "Closing Trades",
+    "desc": "Towards nearing the close of the market, the host provides latest updates of fluctuations and market-affecting events, with experts weighing in."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790244000000,
+    "stopTs": 1790245800000,
+    "title": "Market Top 20",
+    "desc": "This is News - News Bulletin Category"
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790245800000,
+    "stopTs": 1790247600000,
+    "title": "Swadesh Khabar",
+    "desc": "The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790247600000,
+    "stopTs": 1790249400000,
+    "title": "Commodity Fatafat",
+    "desc": "The host analyses the latest news stories, important developments and major updates related to India&apos;s ever-evolving commodities market."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790249400000,
+    "stopTs": 1790251200000,
+    "title": "Khabrein Fatafat",
+    "desc": "This is News - News Bulletin Category"
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790251200000,
+    "stopTs": 1790253000000,
+    "title": "Kal Ki Taiyari",
+    "desc": "The host sheds light on the latest developments regarding the changes in the stock market, trends and investment opportunities."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790253000000,
+    "stopTs": 1790254800000,
+    "title": "Consumer Is King",
+    "desc": "The host presents the latest financial and economic news updates and developments from all over India and interviews experts about their impact on the economy, market and investor behaviour."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790254800000,
+    "stopTs": 1790256600000,
+    "title": "Bano Apna Finance Minister",
+    "desc": "The host invites financial industry experts to provide a detailed analysis of the key aspects of market trends and share their insights on how to achieve better returns."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790256600000,
+    "stopTs": 1790258400000,
+    "title": "Insurance Mantra",
+    "desc": "The host elaborates on various insurance policies, explaining coverage options, benefits and strategies to help viewers make informed decisions about their financial protection."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790258400000,
+    "stopTs": 1790260200000,
+    "title": "Consumer Is King",
+    "desc": "The host presents the latest financial and economic news updates and developments from all over India and interviews experts about their impact on the economy, market and investor behaviour."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790260200000,
+    "stopTs": 1790262000000,
+    "title": "Bano Apna Finance Minister",
+    "desc": "The host invites financial industry experts to provide a detailed analysis of the key aspects of market trends and share their insights on how to achieve better returns."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790262000000,
+    "stopTs": 1790263800000,
+    "title": "Kal Ki Taiyari",
+    "desc": "The host sheds light on the latest developments regarding the changes in the stock market, trends and investment opportunities."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790263800000,
+    "stopTs": 1790265600000,
+    "title": "Khabrein Fatafat",
+    "desc": "This is News - News Bulletin Category"
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790265600000,
+    "stopTs": 1790267400000,
+    "title": "Consumer Is King",
+    "desc": "The host presents the latest financial and economic news updates and developments from all over India and interviews experts about their impact on the economy, market and investor behaviour."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790267400000,
+    "stopTs": 1790269200000,
+    "title": "Insurance Mantra",
+    "desc": "The host elaborates on various insurance policies, explaining coverage options, benefits and strategies to help viewers make informed decisions about their financial protection."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790269200000,
+    "stopTs": 1790271000000,
+    "title": "Kal Ki Taiyari",
+    "desc": "The host sheds light on the latest developments regarding the changes in the stock market, trends and investment opportunities."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790271000000,
+    "stopTs": 1790272800000,
+    "title": "Bano Apna Finance Minister",
+    "desc": "The host invites financial industry experts to provide a detailed analysis of the key aspects of market trends and share their insights on how to achieve better returns."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "ETNowSwadesh.in",
+    "channelId": "ETNowSwadesh.in",
+    "channelName": "ET Now Swadesh",
+    "startTs": 1790272800000,
+    "stopTs": 1790274600000,
+    "title": "Market Ke Maharathi",
+    "desc": "Financial experts update viewers regarding the latest developments from the stock markets by sharing information about share prices and trends from various exchanges."
   }
 ]
