@@ -1,25 +1,14 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790303400000,
-    "stopTs": 1790305200000,
-    "title": "Regional News Live",
-    "desc": "The host presents the latest news updates and developments surrounding social, political and economic issues from around the region, live."
-  },
-  {
     "start": "03:00",
     "stop": "03:29",
     "channel": "DDOdia.in",
     "channelId": "DDOdia.in",
     "channelName": "DD Oriya",
-    "startTs": 1790305200000,
-    "stopTs": 1790306940000,
+    "startTs": 1790391600000,
+    "stopTs": 1790393340000,
     "title": "Edusat",
-    "desc": "A subject-matter expert provides a comprehensive explanation of various concepts encompassing different topics and subjects in an easy-to-understand manner."
+    "desc": "A subject matter expert provides a comprehensive explanation of various concepts encompassing different topics and subjects in an easy-to-understand manner."
   },
   {
     "start": "03:29",
@@ -27,571 +16,10 @@
     "channel": "DDOdia.in",
     "channelId": "DDOdia.in",
     "channelName": "DD Oriya",
-    "startTs": 1790306940000,
-    "stopTs": 1790307000000,
-    "title": "Graphical News Headlines",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790307000000,
-    "stopTs": 1790308800000,
-    "title": "Edusat",
-    "desc": "A subject-matter expert provides a comprehensive explanation of various concepts encompassing different topics and subjects in an easy-to-understand manner."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:29",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790308800000,
-    "stopTs": 1790310540000,
-    "title": "DDK, SBP Contribution",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "04:29",
-    "stop": "04:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790310540000,
-    "stopTs": 1790310600000,
-    "title": "Graphical News Headlines",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790310600000,
-    "stopTs": 1790312400000,
-    "title": "Semane Samartha",
-    "desc": "The host interviews inspiring individuals with physical disabilities about their achievements and success in their respective fields."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:29",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790312400000,
-    "stopTs": 1790314140000,
-    "title": "Chhania",
-    "desc": "The filmmaker presents an interesting story revolving around the lives of various members in a family unit and the society."
-  },
-  {
-    "start": "05:29",
-    "stop": "05:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790314140000,
-    "stopTs": 1790314200000,
-    "title": "Graphical News Headlines",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790314200000,
-    "stopTs": 1790316000000,
-    "title": "Mu Kichhi Be Karipare",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:29",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790316000000,
-    "stopTs": 1790317740000,
-    "title": "Loka Nrutya / Loka Sangeeta",
-    "desc": "Oriya classical dancers and musicians come together on stage and entertain the audience with their mesmerising performances."
-  },
-  {
-    "start": "06:29",
-    "stop": "06:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790317740000,
-    "stopTs": 1790317800000,
-    "title": "Graphical News Headlines",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790317800000,
-    "stopTs": 1790319600000,
-    "title": "Prog. DDK, BPN",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:29",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790319600000,
-    "stopTs": 1790321340000,
-    "title": "Tote Jhure Mu Rati Dina",
-    "desc": "Stories with a moral, originating from the state of Odisha, are enacted by actors and played back-to-back to captivate the audience."
-  },
-  {
-    "start": "07:29",
-    "stop": "07:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790321340000,
-    "stopTs": 1790321400000,
-    "title": "Graphical News Headlines",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790321400000,
-    "stopTs": 1790323200000,
-    "title": "Health Show",
-    "desc": "The hosts present various fitness tips and routines along with nutritious diets that can help people lead a healthy lifestyle."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:29",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790323200000,
-    "stopTs": 1790324940000,
-    "title": "Ama Rosei",
-    "desc": "The chef prepares a wide range of exotic and sumptuous cuisine from different parts of the world and shares their recipes."
-  },
-  {
-    "start": "08:29",
-    "stop": "08:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790324940000,
-    "stopTs": 1790325000000,
-    "title": "Graphical News Headlines",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790325000000,
-    "stopTs": 1790326800000,
-    "title": "SP-TV Report On 37Th Samacon",
-    "desc": "This is TV Show - Entertainment Category"
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790326800000,
-    "stopTs": 1790328600000,
-    "title": "Sugama Sangeeta",
-    "desc": "A comprehensive compilation of musical Kannada poetry sung by talented musicians is played back-to-back to enthral the listeners."
-  },
-  {
-    "start": "09:30",
-    "stop": "09:40",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790328600000,
-    "stopTs": 1790329200000,
-    "title": "Mukhya Samachar",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "start": "09:40",
-    "stop": "10:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790329200000,
-    "stopTs": 1790330400000,
-    "title": "Regional Music",
-    "desc": "Talented singers and musicians perform a comprehensive compilation of traditional songs and music renditions to pay tribute to the culture of the locals."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:29",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790330400000,
-    "stopTs": 1790332140000,
-    "title": "Tote Jhure Mu Rati Dina",
-    "desc": "Stories with a moral, originating from the state of Odisha, are enacted by actors and played back-to-back to captivate the audience."
-  },
-  {
-    "start": "10:29",
-    "stop": "10:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790332140000,
-    "stopTs": 1790332200000,
-    "title": "Graphical News Headlines",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790332200000,
-    "stopTs": 1790334000000,
-    "title": "Ajira Nari",
-    "desc": "The host highlights the achievements of women across various professional fields and discusses their journey to success."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:29",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790334000000,
-    "stopTs": 1790335740000,
-    "title": "Kunti Kuntala Sakuntala",
-    "desc": "A young, innocent girl faces numerous trials and hardships as she transitions from innocence to maturity, navigating the challenges of contemporary Odia society as a woman."
-  },
-  {
-    "start": "11:29",
-    "stop": "11:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790335740000,
-    "stopTs": 1790335800000,
-    "title": "Graphical News Headlines",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:29",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790335800000,
-    "stopTs": 1790339340000,
-    "title": "Parikrama",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "start": "12:29",
-    "stop": "12:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790339340000,
-    "stopTs": 1790339400000,
-    "title": "Graphical News Headlines",
-    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790339400000,
-    "stopTs": 1790341200000,
-    "title": "Krushi Darshan",
-    "desc": "The host presents the latest updates related to agriculture from across the country, and speaks about the new developments and technology in the field."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790341200000,
-    "stopTs": 1790343000000,
-    "title": "Tike Katha Heba",
-    "desc": "The host invites prominent personalities from all walks of life to talk about their life, achievements and where they think their career is heading."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790343000000,
-    "stopTs": 1790344800000,
-    "title": "Samachar",
-    "desc": "The host presents the latest economic, social and political updates at length, from across India and the world for the viewers."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790344800000,
-    "stopTs": 1790346600000,
-    "title": "Edusat",
-    "desc": "A subject matter expert provides a comprehensive explanation of various concepts encompassing different topics and subjects in an easy-to-understand manner."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790346600000,
-    "stopTs": 1790348400000,
-    "title": "Edusat",
-    "desc": "A subject-matter expert provides a comprehensive explanation of various concepts encompassing different topics and subjects in an easy-to-understand manner."
-  },
-  {
-    "start": "15:00",
-    "stop": "16:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790348400000,
-    "stopTs": 1790352000000,
-    "title": "Parikrama Live",
-    "desc": "The host presents some of the latest news stories and developments pertaining to economics and politics among other topics, live."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790352000000,
-    "stopTs": 1790353800000,
-    "title": "Ama Rosei",
-    "desc": "The chef prepares a wide range of exotic and sumptuous cuisine from different parts of the world and shares their recipes."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790353800000,
-    "stopTs": 1790355600000,
-    "title": "Aaina",
-    "desc": "Talented musicians and performers take the stage to showcase their skills and perform their various artistries in a bid to enthrall the audience."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790355600000,
-    "stopTs": 1790357400000,
-    "title": "Tote Jhure Mu Rati Dina",
-    "desc": "Stories with a moral, originating from the state of Odisha, are enacted by actors and played back-to-back to captivate the audience."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790357400000,
-    "stopTs": 1790359200000,
-    "title": "Ajira Nari",
-    "desc": "The host highlights the achievements of women across various professional fields and discusses their journey to success."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790359200000,
-    "stopTs": 1790361000000,
-    "title": "Chhania",
-    "desc": "The filmmaker presents an interesting story revolving around the lives of various members in a family unit and the society."
-  },
-  {
-    "start": "18:30",
-    "stop": "18:45",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790361000000,
-    "stopTs": 1790361900000,
-    "title": "Sakalara Mahaka",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "18:45",
-    "stop": "19:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790361900000,
-    "stopTs": 1790362800000,
-    "title": "Sangeeta Murchhana",
-    "desc": "The host explains the concept of &apos;murchhana&apos; and sheds light on its significance and usage in classical Hindustani and Carnatic music."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790362800000,
-    "stopTs": 1790364600000,
-    "title": "Supravat",
-    "desc": "The host presents the latest news stories and updates pertaining to pressing socio-economic issues across the state of Odisha."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790364600000,
-    "stopTs": 1790366400000,
-    "title": "From Archive",
-    "desc": "Some of the most memorable and insightful shows featuring interesting segments from the archives of the channel are presented."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790366400000,
-    "stopTs": 1790368200000,
-    "title": "Loka Geet / Loka Nrutya",
-    "desc": "Oriya classical dancers and musicians come together on stage and entertain the audience with their mesmerising performances."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790368200000,
-    "stopTs": 1790370000000,
-    "title": "Teleshopping",
-    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790370000000,
-    "stopTs": 1790371800000,
-    "title": "Ama Rosei",
-    "desc": "The chef prepares a wide range of exotic and sumptuous cuisine from different parts of the world and shares their recipes."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790371800000,
-    "stopTs": 1790375400000,
-    "title": "Teleshopping",
-    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790375400000,
-    "stopTs": 1790377200000,
-    "title": "Pragati",
-    "desc": "The host provides a detailed report on the latest updates and developments regarding the progress made in various sectors."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790377200000,
-    "stopTs": 1790379000000,
-    "title": "Pallishree",
-    "desc": "Experts share various farming techniques and discuss modern agricultural schemes introduced by the Government of India."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790379000000,
-    "stopTs": 1790380800000,
-    "title": "Krishi Darshan",
-    "desc": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790380800000,
-    "stopTs": 1790382600000,
-    "title": "Bharat Nirman",
-    "desc": "Experts shed light on the new and ongoing rural infrastructure projects launched by the central government to improve the standard of living of the rural masses."
-  },
-  {
-    "start": "00:30",
-    "stop": "00:55",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790382600000,
-    "stopTs": 1790384100000,
-    "title": "Namah Bharat",
-    "desc": "This is TV Show - Entertainment Category"
-  },
-  {
-    "start": "00:55",
-    "stop": "03:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790384100000,
+    "startTs": 1790393340000,
     "stopTs": 1790393400000,
-    "title": "Independence Day Flag Hoisting & address To The Nation By Hon&apos;ble Prime Minister Live",
-    "desc": "Prominent personalities, officers and dignitaries gather to celebrate India&apos;s Independence Day with a flag-hoisting ceremony and a speech by the prime minister, live."
+    "title": "Graphical News Headlines",
+    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
   },
   {
     "start": "03:30",
@@ -601,8 +29,8 @@
     "channelName": "DD Oriya",
     "startTs": 1790393400000,
     "stopTs": 1790395200000,
-    "title": "Hon&apos;ble Governor&apos;s Message On Independence Day Followed by Hon&apos;ble Chief Minister&apos;s Message Followed By Patriotic Chorus",
-    "desc": "State leaders deliver heartfelt speeches as citizens across India participate in the celebration of the country&apos;s 79th Independence Day."
+    "title": "Edusat",
+    "desc": "A subject-matter expert provides a comprehensive explanation of various concepts encompassing different topics and subjects in an easy-to-understand manner."
   },
   {
     "start": "04:00",
@@ -612,8 +40,8 @@
     "channelName": "DD Oriya",
     "startTs": 1790395200000,
     "stopTs": 1790396940000,
-    "title": "Regional News",
-    "desc": "The host presents a detailed look at relevant local news stories and civic issue headlines that concern the public directly."
+    "title": "DDK, SBP Contribution",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "04:29",
@@ -645,8 +73,8 @@
     "channelName": "DD Oriya",
     "startTs": 1790398800000,
     "stopTs": 1790400540000,
-    "title": "Dance Drama",
-    "desc": "Various groups of talented artists and performers come together in order to stage a dance drama rich in culture and history."
+    "title": "Chhania",
+    "desc": "The filmmaker presents an interesting story revolving around the lives of various members in a family unit and the society."
   },
   {
     "start": "05:29",
@@ -667,8 +95,8 @@
     "channelName": "DD Oriya",
     "startTs": 1790400600000,
     "stopTs": 1790402400000,
-    "title": "Aaina",
-    "desc": "Talented musicians and performers take the stage to showcase their skills and perform their various artistries in a bid to enthrall the audience."
+    "title": "Mu Kichhi Be Karipare",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "06:00",
@@ -678,8 +106,8 @@
     "channelName": "DD Oriya",
     "startTs": 1790402400000,
     "stopTs": 1790404140000,
-    "title": "Agyan",
-    "desc": "The host reflects on India&apos;s struggle for independence and the numerous sacrifices made by several heroes of the pre-independence era."
+    "title": "Aaina",
+    "desc": "Talented musicians and performers take the stage to showcase their skills and perform their various artistries in a bid to enthrall the audience."
   },
   {
     "start": "06:29",
@@ -733,8 +161,8 @@
     "channelName": "DD Oriya",
     "startTs": 1790407800000,
     "stopTs": 1790409600000,
-    "title": "Dance Drama",
-    "desc": "Various groups of talented artists and performers come together in order to stage a dance drama rich in culture and history."
+    "title": "Odishi Dance",
+    "desc": "Talented artists perform &apos;Odissi&apos;, an Indian classical dance from Odisha, to enthrall the audience with their captivating skills."
   },
   {
     "start": "08:00",
@@ -760,47 +188,47 @@
   },
   {
     "start": "08:30",
-    "stop": "09:30",
+    "stop": "09:00",
     "channel": "DDOdia.in",
     "channelId": "DDOdia.in",
     "channelName": "DD Oriya",
     "startTs": 1790411400000,
+    "stopTs": 1790413200000,
+    "title": "Tv Report On 2nd Naocon",
+    "desc": "This is TV Show - Entertainment Category"
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790413200000,
     "stopTs": 1790415000000,
-    "title": "Swayamsidha",
-    "desc": "Expelled from her village for protesting injustice, Chandi grows up following her grandfather&apos;s ideals. She returns after her grandfather&apos;s death and word of her bravery spreads around."
+    "title": "Dhulia Baba",
+    "desc": "Dhulia Baba, a fraudulent spiritual leader, pretends to be a holy man and lures respect and monetary offerings from the villagers."
   },
   {
     "start": "09:30",
-    "stop": "09:45",
+    "stop": "09:40",
     "channel": "DDOdia.in",
     "channelId": "DDOdia.in",
     "channelName": "DD Oriya",
     "startTs": 1790415000000,
-    "stopTs": 1790415900000,
+    "stopTs": 1790415600000,
     "title": "Mukhya Samachar",
     "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
-    "start": "09:45",
-    "stop": "10:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790415900000,
-    "stopTs": 1790416800000,
-    "title": "Patriotic Song",
-    "desc": "Listen to talented artists and musicians come together to perform a moving rendition of a patriotic song that stirs emotions."
-  },
-  {
-    "start": "10:00",
+    "start": "09:40",
     "stop": "10:29",
     "channel": "DDOdia.in",
     "channelId": "DDOdia.in",
     "channelName": "DD Oriya",
-    "startTs": 1790416800000,
+    "startTs": 1790415600000,
     "stopTs": 1790418540000,
-    "title": "Beat Bajiba Dhoom Nachiba",
-    "desc": "Bringing the best in television."
+    "title": "Hasya Kabita Asara",
+    "desc": "This is TV Show - Entertainment Category"
   },
   {
     "start": "10:29",
@@ -815,25 +243,14 @@
   },
   {
     "start": "10:30",
-    "stop": "11:00",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790418600000,
-    "stopTs": 1790420400000,
-    "title": "Tathapi Jeevana",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "11:00",
     "stop": "11:29",
     "channel": "DDOdia.in",
     "channelId": "DDOdia.in",
     "channelName": "DD Oriya",
-    "startTs": 1790420400000,
+    "startTs": 1790418600000,
     "stopTs": 1790422140000,
-    "title": "Gandhi Darshana",
-    "desc": "The host invites various personalities to discuss the importance of Mahatma Gandhi, highlighting his campaign for India&apos;s independence."
+    "title": "Beat Bajiba Dhoom Nachiba",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "11:29",
@@ -876,8 +293,8 @@
     "channelName": "DD Oriya",
     "startTs": 1790427600000,
     "stopTs": 1790429400000,
-    "title": "Nayanpur Express",
-    "desc": "Bringing the best in television."
+    "title": "Manisa",
+    "desc": "This is Film - Drama Category"
   },
   {
     "start": "13:30",
@@ -898,18 +315,51 @@
     "channelName": "DD Oriya",
     "startTs": 1790431200000,
     "stopTs": 1790433000000,
-    "title": "We The Soldiers",
-    "desc": "The host sheds light on the Indian army and showcases the lifestyle and achievements of the soldiers and the challenges they experience."
+    "title": "Edusat",
+    "desc": "A subject-matter expert provides a comprehensive explanation of various concepts encompassing different topics and subjects in an easy-to-understand manner."
   },
   {
     "start": "14:30",
-    "stop": "16:00",
+    "stop": "15:00",
     "channel": "DDOdia.in",
     "channelId": "DDOdia.in",
     "channelName": "DD Oriya",
     "startTs": 1790433000000,
+    "stopTs": 1790434800000,
+    "title": "Edusat",
+    "desc": "A subject-matter expert provides a comprehensive explanation of various concepts encompassing different topics and subjects in an easy-to-understand manner."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:29",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790434800000,
+    "stopTs": 1790436540000,
+    "title": "Bashi Phula",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "15:29",
+    "stop": "15:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790436540000,
+    "stopTs": 1790436600000,
+    "title": "Graphical News Headlines",
+    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790436600000,
     "stopTs": 1790438400000,
-    "title": "Hon&apos; Ble Pm&apos;s Speech On Independence Day 2026",
+    "title": "Reels Bhauja",
     "desc": "This is TV Show - Entertainment Category"
   },
   {
@@ -920,8 +370,8 @@
     "channelName": "DD Oriya",
     "startTs": 1790438400000,
     "stopTs": 1790440200000,
-    "title": "Musical Feature - Udam Singh",
-    "desc": "Bringing the best in television."
+    "title": "Apda Ka Samna",
+    "desc": "The host interacts with various esteemed guests and experts to learn about natural disasters and the methods to prevent and prepare for them."
   },
   {
     "start": "16:30",
@@ -931,40 +381,458 @@
     "channelName": "DD Oriya",
     "startTs": 1790440200000,
     "stopTs": 1790442000000,
-    "title": "Manaba Seva Madhaba Katha",
-    "desc": "This is TV Show - Religious Category"
+    "title": "Manaba Katha Madhaba Katha",
+    "desc": "A religious speaker delivers a discourse explaining the intricate link between human and divine experience, suggesting a spiritual and philosophical connection between the two."
   },
   {
     "start": "17:00",
-    "stop": "17:30",
-    "channel": "DDOdia.in",
-    "channelId": "DDOdia.in",
-    "channelName": "DD Oriya",
-    "startTs": 1790442000000,
-    "stopTs": 1790443800000,
-    "title": "TV Report On Independence Day",
-    "desc": "This is News - News Bulletin Category"
-  },
-  {
-    "start": "17:30",
     "stop": "18:00",
     "channel": "DDOdia.in",
     "channelId": "DDOdia.in",
     "channelName": "DD Oriya",
-    "startTs": 1790443800000,
+    "startTs": 1790442000000,
     "stopTs": 1790445600000,
-    "title": "Gandhi Darshana",
-    "desc": "The host invites various personalities to discuss the importance of Mahatma Gandhi, highlighting his campaign for India&apos;s independence."
+    "title": "Beat Bajiba Dhoom Nachiba",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "18:00",
-    "stop": "18:30",
+    "stop": "00:30",
     "channel": "DDOdia.in",
     "channelId": "DDOdia.in",
     "channelName": "DD Oriya",
     "startTs": 1790445600000,
-    "stopTs": 1790447400000,
-    "title": "Programme On 1817",
-    "desc": "The host looks back on the 1817 rebellions in India and the various protests that erupted against the British government."
+    "stopTs": 1790469000000,
+    "title": "Chhania",
+    "desc": "The filmmaker presents an interesting story revolving around the lives of various members in a family unit and the society."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790469000000,
+    "stopTs": 1790470800000,
+    "title": "Jagarana",
+    "desc": "Devotees stay up for an all-night sacred vigil and recite religious hymns and chants accompanied by music in honour of a goddess."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790470800000,
+    "stopTs": 1790472600000,
+    "title": "Gyana Bigyana",
+    "desc": "The host engages in educationally nourishing discourses with numerous subject-matter experts in order to explore and analyse recent breakthroughs that are shaping the scientific world."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790472600000,
+    "stopTs": 1790474400000,
+    "title": "Classical Music",
+    "desc": "A comprehensive compilation of melodious songs composed and performed by renowned composers and artists in classical music."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790474400000,
+    "stopTs": 1790476200000,
+    "title": "Semane Samartha",
+    "desc": "The host interviews inspiring individuals with physical disabilities about their achievements and success in their respective fields."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790476200000,
+    "stopTs": 1790478000000,
+    "title": "Regional News Live",
+    "desc": "The host presents the latest news updates and developments surrounding social, political and economic issues from around the region, live."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:29",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790478000000,
+    "stopTs": 1790479740000,
+    "title": "Katha Kathare",
+    "desc": "The host engages in conversations with experts and prominent figures from various fields, who share their insights and opinions on topics within their areas of expertise."
+  },
+  {
+    "start": "03:29",
+    "stop": "03:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790479740000,
+    "stopTs": 1790479800000,
+    "title": "Graphical News Headlines",
+    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790479800000,
+    "stopTs": 1790481600000,
+    "title": "Bhakti Nilaya",
+    "desc": "This is TV Show - Entertainment Category"
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790481600000,
+    "stopTs": 1790483400000,
+    "title": "Jana Ajana",
+    "desc": "Two teams compete in a quiz to answer the most number of questions posed by the host on a variety of topics and emerge victorious."
+  },
+  {
+    "start": "04:30",
+    "stop": "04:45",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790483400000,
+    "stopTs": 1790484300000,
+    "title": "Santali Samachar",
+    "desc": "The host provides insights into some of the latest news, current affairs and major developments of national and global significance in the Santali language."
+  },
+  {
+    "start": "04:45",
+    "stop": "05:00",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790484300000,
+    "stopTs": 1790485200000,
+    "title": "Sambalpuri Samachar",
+    "desc": "The host provides the latest news and updates pertaining to politics, socio-economic developments and current affairs of the country."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:29",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790485200000,
+    "stopTs": 1790486940000,
+    "title": "Dance Drama",
+    "desc": "Various groups of talented artists and performers come together in order to stage a dance drama rich in culture and history."
+  },
+  {
+    "start": "05:29",
+    "stop": "05:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790486940000,
+    "stopTs": 1790487000000,
+    "title": "Graphical News Headlines",
+    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790487000000,
+    "stopTs": 1790488800000,
+    "title": "Hon&apos;ble Prime Minister&apos;s Mann Ki Batt",
+    "desc": "The host features the Prime Minister&apos;s address to the nation, discussing key issues, inspirational stories and government initiatives shaping India&apos;s progress."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:29",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790488800000,
+    "stopTs": 1790490540000,
+    "title": "Hon&apos;ble Prime Minister&apos;s Mann Ki Baat",
+    "desc": "The Prime Minister of India addresses all the citizens of the nation and delivers his thoughts on relevant and pressing issues."
+  },
+  {
+    "start": "06:29",
+    "stop": "06:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790490540000,
+    "stopTs": 1790490600000,
+    "title": "Graphical News Headlines",
+    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790490600000,
+    "stopTs": 1790492400000,
+    "title": "Youth Programme",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:29",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790492400000,
+    "stopTs": 1790494140000,
+    "title": "Sugama Sangeeta",
+    "desc": "A comprehensive compilation of musical Kannada poetry sung by talented musicians is played back-to-back to enthral the listeners."
+  },
+  {
+    "start": "07:29",
+    "stop": "07:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790494140000,
+    "stopTs": 1790494200000,
+    "title": "Graphical News Headlines",
+    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:29",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790494200000,
+    "stopTs": 1790497740000,
+    "title": "Krida O Kridabit",
+    "desc": "The host sheds light on some of the latest news stories, updates and major developments pertaining to the world of sports."
+  },
+  {
+    "start": "08:29",
+    "stop": "08:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790497740000,
+    "stopTs": 1790497800000,
+    "title": "Graphical News Headlines",
+    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790497800000,
+    "stopTs": 1790499600000,
+    "title": "World Retina Day",
+    "desc": "This is TV Show - Entertainment Category"
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790499600000,
+    "stopTs": 1790501400000,
+    "title": "Khata Mitha",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "09:30",
+    "stop": "09:40",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790501400000,
+    "stopTs": 1790502000000,
+    "title": "Mukhya Samachar",
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "start": "09:40",
+    "stop": "10:00",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790502000000,
+    "stopTs": 1790503200000,
+    "title": "Dibetes & Retina",
+    "desc": "This is TV Show - Entertainment Category"
+  },
+  {
+    "start": "10:00",
+    "stop": "10:29",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790503200000,
+    "stopTs": 1790504940000,
+    "title": "Randi Pua Ananta",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "10:29",
+    "stop": "10:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790504940000,
+    "stopTs": 1790505000000,
+    "title": "Graphical News Headlines",
+    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:29",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790505000000,
+    "stopTs": 1790508540000,
+    "title": "Tathapi Jeevana",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "11:29",
+    "stop": "11:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790508540000,
+    "stopTs": 1790508600000,
+    "title": "Graphical News Headlines",
+    "desc": "The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790508600000,
+    "stopTs": 1790510400000,
+    "title": "Parikrama Live",
+    "desc": "The host presents some of the latest news stories and developments pertaining to economics and politics among other topics, live."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790510400000,
+    "stopTs": 1790512200000,
+    "title": "Flagship Program",
+    "desc": "The host strikes a conversation with renowned experts, who provide a comprehensive and detailed insight into flagship programmes."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790512200000,
+    "stopTs": 1790514000000,
+    "title": "Krushi Darshan",
+    "desc": "The host presents the latest updates related to agriculture from across the country, and speaks about the new developments and technology in the field."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790514000000,
+    "stopTs": 1790515800000,
+    "title": "Arohi",
+    "desc": "The host holds insightful conversations with talented artists, showcasing their skills and discussing their musical journey."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790515800000,
+    "stopTs": 1790517600000,
+    "title": "Samachar",
+    "desc": "The host presents the latest economic, social and political updates at length, from across India and the world for the viewers."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790517600000,
+    "stopTs": 1790519400000,
+    "title": "Janiba Jiniba",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790519400000,
+    "stopTs": 1790521200000,
+    "title": "Hon&apos;ble Prime Minister&apos;s Mann Ki Baat",
+    "desc": "The Prime Minister of India addresses all the citizens of the nation and delivers his thoughts on relevant and pressing issues."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790521200000,
+    "stopTs": 1790523000000,
+    "title": "Randi Pua Ananta",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790523000000,
+    "stopTs": 1790526600000,
+    "title": "Beat Bajiba Dhoom Nachiba",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "16:30",
+    "stop": "00:30",
+    "channel": "DDOdia.in",
+    "channelId": "DDOdia.in",
+    "channelName": "DD Oriya",
+    "startTs": 1790526600000,
+    "stopTs": 1790555400000,
+    "title": "Hasya Kabita Asara",
+    "desc": "This is TV Show - Entertainment Category"
   }
 ]
