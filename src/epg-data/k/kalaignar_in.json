@@ -1,25 +1,47 @@
 [
   {
     "start": "02:30",
+    "stop": "03:30",
+    "channel": "KALAIGNAR.in",
+    "channelId": "KALAIGNAR.in",
+    "channelName": "KALAIGNAR",
+    "startTs": 1790476200000,
+    "stopTs": 1790479800000,
+    "title": "Sunday Super Comedy",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "03:30",
     "stop": "04:30",
     "channel": "KALAIGNAR.in",
     "channelId": "KALAIGNAR.in",
     "channelName": "KALAIGNAR",
-    "startTs": 1790389800000,
-    "stopTs": 1790397000000,
-    "title": "Champion",
-    "desc": "Jones, a talented and disciplined footballer, is judged by his peers for his financial status. However, when he finds out about his past, he faces a dilemma."
+    "startTs": 1790479800000,
+    "stopTs": 1790483400000,
+    "title": "Pattimandram",
+    "desc": "Two groups of people from different walks of life participate in a debate in the presence of a panel of well-known judges and audience."
   },
   {
     "start": "04:30",
+    "stop": "06:30",
+    "channel": "KALAIGNAR.in",
+    "channelId": "KALAIGNAR.in",
+    "channelName": "KALAIGNAR",
+    "startTs": 1790483400000,
+    "stopTs": 1790490600000,
+    "title": "Miss You",
+    "desc": "An aspiring director falls in love with a woman under unusual circumstances and crosses paths with a dangerous politician."
+  },
+  {
+    "start": "06:30",
     "stop": "07:30",
     "channel": "KALAIGNAR.in",
     "channelId": "KALAIGNAR.in",
     "channelName": "KALAIGNAR",
-    "startTs": 1790397000000,
-    "stopTs": 1790407800000,
-    "title": "Diary",
-    "desc": "Varadhan Annadurai, a newly appointed police officer, takes up an unsolved murder case of a couple, who were killed during their honeymoon."
+    "startTs": 1790490600000,
+    "stopTs": 1790494200000,
+    "title": "Movie Special",
+    "desc": "The host is in conversation with celebrities from the Tamil film industry. They discuss various aspects of the industry in depth."
   },
   {
     "start": "07:30",
@@ -27,8 +49,8 @@
     "channel": "KALAIGNAR.in",
     "channelId": "KALAIGNAR.in",
     "channelName": "KALAIGNAR",
-    "startTs": 1790407800000,
-    "stopTs": 1790409600000,
+    "startTs": 1790494200000,
+    "stopTs": 1790496000000,
     "title": "News",
     "desc": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country."
   },
@@ -38,10 +60,10 @@
     "channel": "KALAIGNAR.in",
     "channelId": "KALAIGNAR.in",
     "channelName": "KALAIGNAR",
-    "startTs": 1790409600000,
-    "stopTs": 1790424000000,
-    "title": "Inthavaara Kalakalappu",
-    "desc": "A comprehensive compilation of hilarious comedy scenes, featuring popular artists, is played back-to-back for the entertainment of the viewers."
+    "startTs": 1790496000000,
+    "stopTs": 1790510400000,
+    "title": "Indian",
+    "desc": "Frustrated with the rampant corruption in Indian bureaucracy, an army veteran takes it upon himself to reinstate law and justice in society."
   },
   {
     "start": "12:00",
@@ -49,64 +71,31 @@
     "channel": "KALAIGNAR.in",
     "channelId": "KALAIGNAR.in",
     "channelName": "KALAIGNAR",
-    "startTs": 1790424000000,
-    "stopTs": 1790425800000,
+    "startTs": 1790510400000,
+    "stopTs": 1790512200000,
     "title": "News",
     "desc": "The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country."
   },
   {
     "start": "12:30",
-    "stop": "13:00",
+    "stop": "15:30",
     "channel": "KALAIGNAR.in",
     "channelId": "KALAIGNAR.in",
     "channelName": "KALAIGNAR",
-    "startTs": 1790425800000,
-    "stopTs": 1790427600000,
-    "title": "Katrathu Samayal",
-    "desc": "The host presents a wide range of delicious recipes, demonstrates their preparation and shares useful culinary tips with the viewers."
+    "startTs": 1790512200000,
+    "stopTs": 1790523000000,
+    "title": "Muni",
+    "desc": "A man, with a deep fear of ghosts, moves into a new house unaware of the spirit inhabiting it. When he gets possessed, he must help the spirit get vengeance from the ones who murdered him."
   },
   {
-    "start": "13:00",
-    "stop": "13:30",
+    "start": "15:30",
+    "stop": "18:30",
     "channel": "KALAIGNAR.in",
     "channelId": "KALAIGNAR.in",
     "channelName": "KALAIGNAR",
-    "startTs": 1790427600000,
-    "stopTs": 1790429400000,
-    "title": "Ramanujar",
-    "desc": "Ramanuja, a learned philosopher, travels the subcontinent and brings his teachings to ardent followers of the Hindu faith."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:30",
-    "channel": "KALAIGNAR.in",
-    "channelId": "KALAIGNAR.in",
-    "channelName": "KALAIGNAR",
-    "startTs": 1790429400000,
-    "stopTs": 1790433000000,
-    "title": "Priyamanaval",
-    "desc": "A gentle mother enjoys an idyllic existence alongside her spouse and offspring. However, a resentful companion secretly schemes to seize her fortune."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "KALAIGNAR.in",
-    "channelId": "KALAIGNAR.in",
-    "channelName": "KALAIGNAR",
-    "startTs": 1790433000000,
-    "stopTs": 1790434800000,
-    "title": "Kannethirey Thondrinaal",
-    "desc": "Rathnam exchanges newborn babies Sakthi and Anitha to grant riches to his child. Therefore, Rudra faces destiny because Anitha grows improperly."
-  },
-  {
-    "start": "15:00",
-    "stop": "16:00",
-    "channel": "KALAIGNAR.in",
-    "channelId": "KALAIGNAR.in",
-    "channelName": "KALAIGNAR",
-    "startTs": 1790434800000,
-    "stopTs": 1790438400000,
-    "title": "Chella Kutties",
-    "desc": "This is Children - Entertainment Category."
+    "startTs": 1790523000000,
+    "stopTs": 1790533800000,
+    "title": "Veyil",
+    "desc": "After receiving severe punishment from his father, the eldest son of a family runs away. Several years later, he returns home with a feeling of remorse."
   }
 ]
