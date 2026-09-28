@@ -1,14 +1,25 @@
 [
   {
+    "start": "02:30",
+    "stop": "04:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1790562600000,
+    "stopTs": 1790569800000,
+    "title": "AEW Collision",
+    "desc": "Popular pro-wrestlers from the AEW Roster compete against each other in fights every Saturday to win the championship title."
+  },
+  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1790483400000,
-    "stopTs": 1790487000000,
-    "title": "6 Hours of Fuji - Race; FIA World Endurance Championship",
-    "desc": "This is Sport - Racing Category."
+    "startTs": 1790569800000,
+    "stopTs": 1790573400000,
+    "title": "Bully Ray vs. Jeff Hardy; TNA Unfinished Business",
+    "desc": "Highlights of the rivalry between wrestlers Bully Ray and Jeff Hardy leading up to their battle for the TNA World Heavyweight Title at Lockdown 2013."
   },
   {
     "start": "05:30",
@@ -16,31 +27,75 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1790487000000,
-    "stopTs": 1790494200000,
-    "title": "AEW Dynamite",
-    "desc": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title."
+    "startTs": 1790573400000,
+    "stopTs": 1790580600000,
+    "title": "TCS Sydney Marathon; Marathon",
+    "desc": "The host presents marathon coverage, showcasing runners&apos; journeys and race highlights."
   },
   {
     "start": "07:30",
-    "stop": "07:45",
+    "stop": "10:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1790494200000,
-    "stopTs": 1790495100000,
-    "title": "Showtime with Yashasvi Jaiswal",
-    "desc": "This is Sport - Cricket Category."
+    "startTs": 1790580600000,
+    "stopTs": 1790591400000,
+    "title": "TNA Wrestling: No Surrender",
+    "desc": "This is Sport - Wrestling Category."
   },
   {
-    "start": "07:45",
-    "stop": "16:00",
+    "start": "10:30",
+    "stop": "12:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1790495100000,
-    "stopTs": 1790524800000,
-    "title": "2nd ODI: South Africa vs. Australia; One-Day International Cricket",
-    "desc": "Professional cricket teams compete against each other to emerge victorious and win the title in a One Day International tournament."
+    "startTs": 1790591400000,
+    "stopTs": 1790598600000,
+    "title": "Lodz; FIM Speedway Grand Prix Series",
+    "desc": "This is Sport - Racing Category."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1790598600000,
+    "stopTs": 1790602200000,
+    "title": "WWE LFG",
+    "desc": "An inside look at what it truly takes to become a part of the WWE."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1790602200000,
+    "stopTs": 1790604000000,
+    "title": "WWE&apos;s Greatest Moments",
+    "desc": "Showcasing iconic events that have shaped WWE history and thrilled fans for decades, from legendary heroes to shocking betrayals and epic battles."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1790604000000,
+    "stopTs": 1790605800000,
+    "title": "2nd ODI: South Africa vs Australia; One-Day International Cricket",
+    "desc": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe."
+  },
+  {
+    "start": "14:30",
+    "stop": "16:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1790605800000,
+    "stopTs": 1790613000000,
+    "title": "Inter Miami CF at Columbus Crew; MLS Soccer",
+    "desc": "Professional football players compete against each other in the MLS Soccer."
   }
 ]
