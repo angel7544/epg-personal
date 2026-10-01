@@ -1,69 +1,25 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "ZeeDelhiNCRHaryana.in",
-    "channelId": "ZeeDelhiNCRHaryana.in",
-    "channelName": "Zee Delhi NCR Haryana",
-    "startTs": 1790825400000,
-    "stopTs": 1790827200000,
-    "title": "Breaking News",
-    "desc": "The host presents the latest news stories and updates pertaining to various political and socio-economic issues around the globe."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "ZeeDelhiNCRHaryana.in",
-    "channelId": "ZeeDelhiNCRHaryana.in",
-    "channelName": "ZEE Delhi NCR Haryana",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "Top 100",
-    "desc": "A host presents coverage of social, political, and economic news, while tracking global developments that affect the country, explained in simple language for audiences everywhere today."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "ZeeDelhiNCRHaryana.in",
-    "channelId": "ZeeDelhiNCRHaryana.in",
-    "channelName": "ZEE Delhi NCR Haryana",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "Delhi Live",
-    "desc": "Real-time city coverage bringing you live updates, ground reports, traffic alerts, and breaking news directly from the streets of the bustling national capital."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "ZeeDelhiNCRHaryana.in",
-    "channelId": "ZeeDelhiNCRHaryana.in",
-    "channelName": "ZEE Delhi NCR Haryana",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "Reporter File&apos;S",
-    "desc": "Tune in to our news bulletin show for the latest updates and must-know stories from around the globe-keeping you informed and engaged with the world!"
-  },
-  {
     "start": "05:30",
     "stop": "06:00",
     "channel": "ZeeDelhiNCRHaryana.in",
     "channelId": "ZeeDelhiNCRHaryana.in",
-    "channelName": "ZEE Delhi NCR Haryana",
+    "channelName": "Zee Delhi NCR Haryana",
     "startTs": 1790832600000,
     "stopTs": 1790834400000,
     "title": "Badi Khabar",
-    "desc": "Tune in to our news bulletin show for the latest updates and must-know stories from around the globe-keeping you informed and engaged with the world!"
+    "desc": "The host presents the biggest news stories and updates of the day from various sectors of society throughout the country."
   },
   {
     "start": "06:00",
     "stop": "06:30",
     "channel": "ZeeDelhiNCRHaryana.in",
     "channelId": "ZeeDelhiNCRHaryana.in",
-    "channelName": "ZEE Delhi NCR Haryana",
+    "channelName": "Zee Delhi NCR Haryana",
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
-    "title": "1 Min Puri Khabar News",
-    "desc": "A host presents coverage of social, political, and economic news, while tracking global developments that affect the country, explained in simple language for audiences everywhere today."
+    "title": "1 Minute Puri Khabar",
+    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on important events."
   },
   {
     "start": "06:30",
@@ -1075,6 +1031,61 @@
     "startTs": 1791000000000,
     "stopTs": 1791001800000,
     "title": "Top 100",
+    "desc": "A host presents coverage of social, political, and economic news, while tracking global developments that affect the country, explained in simple language for audiences everywhere today."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "ZeeDelhiNCRHaryana.in",
+    "channelId": "ZeeDelhiNCRHaryana.in",
+    "channelName": "ZEE Delhi NCR Haryana",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "Delhi Live",
+    "desc": "Real-time city coverage bringing you live updates, ground reports, traffic alerts, and breaking news directly from the streets of the bustling national capital."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "ZeeDelhiNCRHaryana.in",
+    "channelId": "ZeeDelhiNCRHaryana.in",
+    "channelName": "ZEE Delhi NCR Haryana",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "Delhi Dil Se- Special Show",
+    "desc": "A heartwarming lifestyle series showcasing inspiring personal stories, vibrant culture, local heroics, and the beating heart of Delhi&apos;s diverse community and urban heritage."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "ZeeDelhiNCRHaryana.in",
+    "channelId": "ZeeDelhiNCRHaryana.in",
+    "channelName": "ZEE Delhi NCR Haryana",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "Badi Khabar",
+    "desc": "Tune in to our news bulletin show for the latest updates and must-know stories from around the globe-keeping you informed and engaged with the world!"
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "ZeeDelhiNCRHaryana.in",
+    "channelId": "ZeeDelhiNCRHaryana.in",
+    "channelName": "ZEE Delhi NCR Haryana",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "1 Min Puri Khabar News",
+    "desc": "A host presents coverage of social, political, and economic news, while tracking global developments that affect the country, explained in simple language for audiences everywhere today."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "ZeeDelhiNCRHaryana.in",
+    "channelId": "ZeeDelhiNCRHaryana.in",
+    "channelName": "ZEE Delhi NCR Haryana",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "Apna Shahar Apni Khabar",
     "desc": "A host presents coverage of social, political, and economic news, while tracking global developments that affect the country, explained in simple language for audiences everywhere today."
   }
 ]

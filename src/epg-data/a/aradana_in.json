@@ -1,69 +1,25 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
+    "start": "05:30",
+    "stop": "06:00",
     "channel": "ARADANA.in",
     "channelId": "ARADANA.in",
     "channelName": "ARADANA",
-    "startTs": 1790825400000,
-    "stopTs": 1790827200000,
-    "title": "Subhakankshalu",
-    "desc": "The wonderful host presents the people who send in their wishes for their near and dear ones on the occasion of their birthdays."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "AradanaTV.in",
-    "channelId": "AradanaTV.in",
-    "channelName": "ARADANA",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "Amrutha Bhandam",
-    "desc": "This program features a religious discourse by a Christian preacher."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "AradanaTV.in",
-    "channelId": "AradanaTV.in",
-    "channelName": "ARADANA",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "Tele Choice",
-    "desc": "Shop from your sofa! This show presents many products you can buy from home. See cool gadgets, clothes, and more. Buy easily and have fun!"
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "AradanaTV.in",
-    "channelId": "AradanaTV.in",
-    "channelName": "ARADANA",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "Ps.Sam Saini",
-    "desc": "Watch motivational sermons and teachings, guiding viewers towards spiritual enrichment and empowerment."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "AradanaTV.in",
-    "channelId": "AradanaTV.in",
-    "channelName": "ARADANA",
     "startTs": 1790832600000,
     "stopTs": 1790834400000,
-    "title": "Dr.P.J.Stephen Paul",
-    "desc": "Dr. P.J. Stephen Paul loves Jesus. He asks Jesus to be kind and loving to everyone. He hopes for Jesus&apos; mercy and care for all people."
+    "title": "Dr. P. J. Stephen Paul",
+    "desc": "A renowned religious leader praises offers prayers to the Almighty and seeks blessings, while promoting a righteous and peaceful life to followers."
   },
   {
     "start": "06:00",
     "stop": "06:30",
-    "channel": "AradanaTV.in",
-    "channelId": "AradanaTV.in",
+    "channel": "ARADANA.in",
+    "channelId": "ARADANA.in",
     "channelName": "ARADANA",
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
     "title": "Rev.Sudarshan Rao",
-    "desc": "Reverend Sudharshan Rao reads verses from the Holy Bible, delivers a discourse on it and urges everyone to read the Word of God every day."
+    "desc": "An eminent religious leader provides a comprehensive and detailed insight into the teachings of the Bible and guides people on the right path."
   },
   {
     "start": "06:30",
@@ -1076,5 +1032,60 @@
     "stopTs": 1791001800000,
     "title": "Amruthabahandam",
     "desc": "A priest gives a religious discourse to the followers of Christianity."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "AradanaTV.in",
+    "channelId": "AradanaTV.in",
+    "channelName": "ARADANA",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "Tele Choice",
+    "desc": "Shop from your sofa! This show presents many products you can buy from home. See cool gadgets, clothes, and more. Buy easily and have fun!"
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "AradanaTV.in",
+    "channelId": "AradanaTV.in",
+    "channelName": "ARADANA",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "Special Program",
+    "desc": "Find peace and inspiration! Our shows offer positive stories and spiritual wisdom. They will lift your spirits and feed your soul. Watch and be transformed!"
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "AradanaTV.in",
+    "channelId": "AradanaTV.in",
+    "channelName": "ARADANA",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "Dr.P.J.Stephen Paul",
+    "desc": "Dr. P.J. Stephen Paul loves Jesus. He asks Jesus to be kind and loving to everyone. He hopes for Jesus&apos; mercy and care for all people."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "AradanaTV.in",
+    "channelId": "AradanaTV.in",
+    "channelName": "ARADANA",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Rev.Sudarshan Rao",
+    "desc": "Reverend Sudharshan Rao reads verses from the Holy Bible, delivers a discourse on it and urges everyone to read the Word of God every day."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "AradanaTV.in",
+    "channelId": "AradanaTV.in",
+    "channelName": "ARADANA",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "Bro.Shyam Kishore",
+    "desc": "This program features Brother Shyam Kishore sharing devotional discourses."
   }
 ]

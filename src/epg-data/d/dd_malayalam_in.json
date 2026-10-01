@@ -1,69 +1,14 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "DDMalayalam.in",
-    "channelId": "DDMalayalam.in",
-    "channelName": "DD Malayalam",
-    "startTs": 1790825400000,
-    "stopTs": 1790829000000,
-    "title": "Samakalikam",
-    "desc": "The host sheds light on the latest political, sports, entertainment and socio-economic updates from across the country and the world."
-  },
-  {
-    "start": "03:40",
-    "stop": "04:30",
-    "channel": "DDMalayalam.in",
-    "channelId": "DDMalayalam.in",
-    "channelName": "DD Malayalam",
-    "startTs": 1790826000000,
-    "stopTs": 1790829000000,
-    "title": "Classical Music",
-    "desc": "Comedy program featuring humorous acts, lively characters, and entertaining stories aimed at bringing joy and laughter to audiences through light-hearted content."
-  },
-  {
-    "start": "04:30",
-    "stop": "04:40",
-    "channel": "DDMalayalam.in",
-    "channelId": "DDMalayalam.in",
-    "channelName": "DD Malayalam",
-    "startTs": 1790829000000,
-    "stopTs": 1790829600000,
-    "title": "News Headlines",
-    "desc": "Live display of headlines presenting important news stories and updates in real-time, keeping viewers informed with quick summaries of major developments."
-  },
-  {
-    "start": "04:40",
-    "stop": "05:30",
-    "channel": "DDMalayalam.in",
-    "channelId": "DDMalayalam.in",
-    "channelName": "DD Malayalam",
-    "startTs": 1790829600000,
-    "stopTs": 1790832600000,
-    "title": "Samoohyapadam",
-    "desc": "Program exploring social concerns through reports, interviews, and real-life stories, aiming to educate and inspire viewers to understand and engage with their surroundings."
-  },
-  {
     "start": "05:30",
-    "stop": "05:40",
-    "channel": "DDMalayalam.in",
-    "channelId": "DDMalayalam.in",
-    "channelName": "DD Malayalam",
-    "startTs": 1790832600000,
-    "stopTs": 1790833200000,
-    "title": "News Headlines",
-    "desc": "Live display of headlines presenting important news stories and updates in real-time, keeping viewers informed with quick summaries of major developments."
-  },
-  {
-    "start": "05:40",
     "stop": "06:00",
     "channel": "DDMalayalam.in",
     "channelId": "DDMalayalam.in",
     "channelName": "DD Malayalam",
-    "startTs": 1790833200000,
+    "startTs": 1790832600000,
     "stopTs": 1790834400000,
-    "title": "Krishidarshan",
-    "desc": "An informative agriculture-related program providing farmers with updates, tips, and insights about farming techniques, seasonal practices, and rural development initiatives."
+    "title": "Varthakal",
+    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
   },
   {
     "start": "06:00",
@@ -73,19 +18,19 @@
     "channelName": "DD Malayalam",
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
-    "title": "Munnott",
-    "desc": "Informative program discussing important social issues, encouraging awareness, dialogue, and reflection through thoughtful segments and community-centered stories."
+    "title": "Krishi Darshan",
+    "desc": "The host sheds light on important updates surrounding agriculture from across the nation whilst providing key inputs that can be of help to farmers."
   },
   {
     "start": "06:30",
-    "stop": "06:32",
+    "stop": "07:00",
     "channel": "DDMalayalam.in",
     "channelId": "DDMalayalam.in",
     "channelName": "DD Malayalam",
     "startTs": 1790836200000,
-    "stopTs": 1790836320000,
-    "title": "News Headlines",
-    "desc": "Live display of headlines presenting important news stories and updates in real-time, keeping viewers informed with quick summaries of major developments."
+    "stopTs": 1790838000000,
+    "title": "Music Room",
+    "desc": "The host engages in candid conversations with celebrated musicians to explore their creative processes and musical achievements."
   },
   {
     "start": "06:32",
@@ -1186,5 +1131,82 @@
     "stopTs": 1791001800000,
     "title": "Travelogue",
     "desc": "A travel-based journey exploring the role of biodiversity, highlighting the rich ecological variety and importance of conserving nature across different landscapes and communities."
+  },
+  {
+    "start": "04:30",
+    "stop": "04:40",
+    "channel": "DDMalayalam.in",
+    "channelId": "DDMalayalam.in",
+    "channelName": "DD Malayalam",
+    "startTs": 1791001800000,
+    "stopTs": 1791002400000,
+    "title": "News Headlines",
+    "desc": "Live display of headlines presenting important news stories and updates in real-time, keeping viewers informed with quick summaries of major developments."
+  },
+  {
+    "start": "04:40",
+    "stop": "05:30",
+    "channel": "DDMalayalam.in",
+    "channelId": "DDMalayalam.in",
+    "channelName": "DD Malayalam",
+    "startTs": 1791002400000,
+    "stopTs": 1791005400000,
+    "title": "Samoohyapadam",
+    "desc": "Program exploring social concerns through reports, interviews, and real-life stories, aiming to educate and inspire viewers to understand and engage with their surroundings."
+  },
+  {
+    "start": "05:30",
+    "stop": "05:40",
+    "channel": "DDMalayalam.in",
+    "channelId": "DDMalayalam.in",
+    "channelName": "DD Malayalam",
+    "startTs": 1791005400000,
+    "stopTs": 1791006000000,
+    "title": "News Headlines",
+    "desc": "Live display of headlines presenting important news stories and updates in real-time, keeping viewers informed with quick summaries of major developments."
+  },
+  {
+    "start": "05:40",
+    "stop": "06:00",
+    "channel": "DDMalayalam.in",
+    "channelId": "DDMalayalam.in",
+    "channelName": "DD Malayalam",
+    "startTs": 1791006000000,
+    "stopTs": 1791007200000,
+    "title": "Classical Music",
+    "desc": "Comedy program featuring humorous acts, lively characters, and entertaining stories aimed at bringing joy and laughter to audiences through light-hearted content."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "DDMalayalam.in",
+    "channelId": "DDMalayalam.in",
+    "channelName": "DD Malayalam",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Krishidarshan",
+    "desc": "An informative agriculture-related program providing farmers with updates, tips, and insights about farming techniques, seasonal practices, and rural development initiatives."
+  },
+  {
+    "start": "06:30",
+    "stop": "06:32",
+    "channel": "DDMalayalam.in",
+    "channelId": "DDMalayalam.in",
+    "channelName": "DD Malayalam",
+    "startTs": 1791009000000,
+    "stopTs": 1791009120000,
+    "title": "News Headlines",
+    "desc": "Live display of headlines presenting important news stories and updates in real-time, keeping viewers informed with quick summaries of major developments."
+  },
+  {
+    "start": "06:32",
+    "stop": "07:30",
+    "channel": "DDMalayalam.in",
+    "channelId": "DDMalayalam.in",
+    "channelName": "DD Malayalam",
+    "startTs": 1791009120000,
+    "stopTs": 1791012600000,
+    "title": "Thaddhesseyam 2020",
+    "desc": "An exploration of traditional values and modern challenges in a changing world."
   }
 ]

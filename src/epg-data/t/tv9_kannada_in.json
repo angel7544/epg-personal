@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "TV9Kannada.in",
-    "channelId": "TV9Kannada.in",
-    "channelName": "TV9 Kannada",
-    "startTs": 1790825400000,
-    "stopTs": 1790827200000,
-    "title": "TV9 NEWS / Debate /Discussions",
-    "desc": "The host presents the latest news updates on various pressing issues of the nation; the host engages in debate and discussion with a panel of experts on important issues affecting society."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "TV9Kannada.in",
-    "channelId": "TV9Kannada.in",
-    "channelName": "TV9 Kannada",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "TV9 Vishesha",
-    "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around state."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "TV9Kannada.in",
-    "channelId": "TV9Kannada.in",
-    "channelName": "TV9 Kannada",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "News",
-    "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around state, country and world."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "TV9Kannada.in",
-    "channelId": "TV9Kannada.in",
-    "channelName": "TV9 Kannada",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "Special Report",
-    "desc": "The host presents the biggest news of the day in detail. A detailed account of latest top stories, issues and events happening across Karnataka."
-  },
-  {
     "start": "05:30",
     "stop": "06:00",
     "channel": "TV9Kannada.in",
@@ -52,7 +8,7 @@
     "startTs": 1790832600000,
     "stopTs": 1790834400000,
     "title": "Breaking News",
-    "desc": "The host presents the biggest happening of the hour. The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
+    "desc": "The host presents the latest news stories and updates pertaining to various political and socio-economic issues around the globe."
   },
   {
     "start": "06:00",
@@ -63,7 +19,7 @@
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
     "title": "Sound Action Camera",
-    "desc": "The show has a host. The host talks about news. The host also talks about film gossips. This helps people who watch it, stay up to date."
+    "desc": "The host presents various trending and controversial news updates and major developments from the world of entertainment."
   },
   {
     "start": "06:30",
@@ -1054,5 +1010,49 @@
     "stopTs": 1791001800000,
     "title": "TV9 Vishesha",
     "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around state."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "TV9Kannada.in",
+    "channelId": "TV9Kannada.in",
+    "channelName": "TV9 Kannada",
+    "startTs": 1791001800000,
+    "stopTs": 1791005400000,
+    "title": "Breaking News",
+    "desc": "The host presents the biggest happening of the hour. The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "TV9Kannada.in",
+    "channelId": "TV9Kannada.in",
+    "channelName": "TV9 Kannada",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "Breaking News",
+    "desc": "The host presents the biggest happening of the hour. The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "TV9Kannada.in",
+    "channelId": "TV9Kannada.in",
+    "channelName": "TV9 Kannada",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Sound Action Camera",
+    "desc": "The show has a host. The host talks about news. The host also talks about film gossips. This helps people who watch it, stay up to date."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "TV9Kannada.in",
+    "channelId": "TV9Kannada.in",
+    "channelName": "TV9 Kannada",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "News Updates",
+    "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
   }
 ]

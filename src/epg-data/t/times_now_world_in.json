@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World HD",
-    "startTs": 1790825400000,
-    "stopTs": 1790829000000,
-    "title": "The Morning Newshour",
-    "desc": "The host presents the latest news updates and happenings related to various topics along with hard facts."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World HD",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "The Morning Newshour",
-    "desc": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world."
-  },
-  {
-    "start": "04:30",
-    "stop": "06:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World HD",
-    "startTs": 1790829000000,
-    "stopTs": 1790834400000,
-    "title": "Times Now Live",
-    "desc": "A live show covering news from different region."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World HD",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "Times Now Live",
-    "desc": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
-  },
-  {
     "start": "05:30",
     "stop": "06:00",
     "channel": "TimesNowWorld.in",
@@ -62,8 +18,8 @@
     "channelName": "Times Now World HD",
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
-    "title": "Times Now Live",
-    "desc": "A live show covering news from different region."
+    "title": "News Flash",
+    "desc": "The host provides an in-depth insight into some of the latest news, current affairs and developments on a range of topics of public interest from across the country."
   },
   {
     "start": "06:30",
@@ -955,5 +911,38 @@
     "stopTs": 1791001800000,
     "title": "The Morning Newshour",
     "desc": "The host presents the latest news updates and happenings related to various topics along with hard facts."
+  },
+  {
+    "start": "04:30",
+    "stop": "06:00",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791001800000,
+    "stopTs": 1791007200000,
+    "title": "Iec: Piyush Goyal + Jyotiraditya Sc",
+    "desc": "Indian Economic Conclave: Discover the latest from Piyush Goyal and Jyotiraditya Scindia at the event."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Ekam Spiritual Discourse",
+    "desc": "Dive into profound teachings for spiritual enlightenment and personal growth."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "Times Now Live",
+    "desc": "A live show covering news from different region."
   }
 ]

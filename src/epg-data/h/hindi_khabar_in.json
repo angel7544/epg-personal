@@ -1,71 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "HindiKhabar.in",
-    "channelId": "HindiKhabar.in",
-    "channelName": "Hindi Khabar",
-    "startTs": 1790825400000,
-    "stopTs": 1790827200000,
-    "title": "Special Show",
-    "desc": "A presentation of a wide range of products, providing a convenient shopping experience."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "HindiKhabar.in",
-    "channelId": "HindiKhabar.in",
-    "channelName": "Hindi Khabar",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "Speed News",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "HindiKhabar.in",
-    "channelId": "HindiKhabar.in",
-    "channelName": "Hindi Khabar",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "Desh Ki Khabar",
-    "desc": "The host presents the latest news stories from all around the nation."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "HindiKhabar.in",
-    "channelId": "HindiKhabar.in",
-    "channelName": "Hindi Khabar",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "Apna Uttrakhand",
-    "desc": "The host presents the latest updates on various important issues in Uttarakhand."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "HindiKhabar.in",
-    "channelId": "HindiKhabar.in",
-    "channelName": "Hindi Khabar",
-    "startTs": 1790832600000,
-    "stopTs": 1790834400000,
-    "title": "Apna Uttar Pradesh",
-    "desc": "A presenter reports important news and socio-political developments in Uttar Pradesh."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "HindiKhabar.in",
-    "channelId": "HindiKhabar.in",
-    "channelName": "Hindi Khabar",
-    "startTs": 1790834400000,
-    "stopTs": 1790836200000,
-    "title": "Desh Pradesh",
-    "desc": "The presenter shares the latest news updates from Uttar Pradesh, Uttarakhand and the rest of India."
-  },
-  {
     "start": "06:30",
     "stop": "07:00",
     "channel": "HindiKhabar.in",
@@ -74,7 +8,7 @@
     "startTs": 1790836200000,
     "stopTs": 1790838000000,
     "title": "Speed News",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world."
+    "desc": "Speed News delivers the latest headlines and breaking developments in a fast-paced format, keeping viewers updated on important national, regional and global events."
   },
   {
     "start": "07:00",
@@ -84,8 +18,8 @@
     "channelName": "Hindi Khabar",
     "startTs": 1790838000000,
     "stopTs": 1790839800000,
-    "title": "Debate Show",
-    "desc": "The host invites a panel of guests to engage in a debate on various pressing matters."
+    "title": "Debate",
+    "desc": "Debate brings opposing views and informed voices together to examine major news and public issues, offering analysis, arguments and perspectives on matters affecting society."
   },
   {
     "start": "07:30",
@@ -96,7 +30,7 @@
     "startTs": 1790839800000,
     "stopTs": 1790841600000,
     "title": "Apna Uttrakhand",
-    "desc": "The host presents the latest updates on various important issues in Uttarakhand."
+    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across Uttarakhand."
   },
   {
     "start": "08:00",
@@ -107,7 +41,7 @@
     "startTs": 1790841600000,
     "stopTs": 1790843400000,
     "title": "Janta Bole",
-    "desc": "The host shares the news and also interacts with the public who share their grievances."
+    "desc": "Janta Bole gives ordinary citizens a platform to share their views on current issues, highlighting public opinions, concerns and experiences from across the country."
   },
   {
     "start": "08:30",
@@ -118,7 +52,7 @@
     "startTs": 1790843400000,
     "stopTs": 1790845200000,
     "title": "Apna Uttar Pradesh",
-    "desc": "A presenter reports important news and socio-political developments in Uttar Pradesh."
+    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across Uttar Pradesh."
   },
   {
     "start": "09:00",
@@ -129,7 +63,7 @@
     "startTs": 1790845200000,
     "stopTs": 1790847000000,
     "title": "Desh Pradesh",
-    "desc": "The presenter shares the latest news updates from Uttar Pradesh, Uttarakhand and the rest of India."
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "09:30",
@@ -140,7 +74,7 @@
     "startTs": 1790847000000,
     "stopTs": 1790848800000,
     "title": "Special Show",
-    "desc": "A presentation of a wide range of products, providing a convenient shopping experience."
+    "desc": "Special Show presents focused coverage of important events and developing stories, combining news, expert perspectives and detailed analysis to give viewers greater context."
   },
   {
     "start": "10:00",
@@ -151,7 +85,7 @@
     "startTs": 1790848800000,
     "stopTs": 1790850600000,
     "title": "Desh Ki Khabar",
-    "desc": "The host presents the latest news stories from all around the nation."
+    "desc": "The host presents a detailed report of the top five news updates and developments pertaining to society, politics, economy and sports from across the nation."
   },
   {
     "start": "10:30",
@@ -162,7 +96,7 @@
     "startTs": 1790850600000,
     "stopTs": 1790852400000,
     "title": "Speed News",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world."
+    "desc": "Speed News delivers the latest headlines and breaking developments in a fast-paced format, keeping viewers updated on important national, regional and global events."
   },
   {
     "start": "11:00",
@@ -173,7 +107,7 @@
     "startTs": 1790852400000,
     "stopTs": 1790854200000,
     "title": "Big Bulletin Cg Debate",
-    "desc": "The host invites experts to debate pertaining to the current affairs of the nation."
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "11:30",
@@ -184,7 +118,7 @@
     "startTs": 1790854200000,
     "stopTs": 1790856000000,
     "title": "Desh Pradesh",
-    "desc": "The presenter shares the latest news updates from Uttar Pradesh, Uttarakhand and the rest of India."
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "12:00",
@@ -195,7 +129,7 @@
     "startTs": 1790856000000,
     "stopTs": 1790857800000,
     "title": "Apna Uttar Pradesh",
-    "desc": "A presenter reports important news and socio-political developments in Uttar Pradesh."
+    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across Uttar Pradesh."
   },
   {
     "start": "12:30",
@@ -205,8 +139,8 @@
     "channelName": "Hindi Khabar",
     "startTs": 1790857800000,
     "stopTs": 1790859600000,
-    "title": "Big Bulletin Uttarakhand Debate Live",
-    "desc": "Experts share their views on the latest developments in Uttarakhand, live."
+    "title": "Big Bullatin Uttarakhand Debate Live",
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "13:00",
@@ -217,7 +151,7 @@
     "startTs": 1790859600000,
     "stopTs": 1790861400000,
     "title": "Apna Uttrakhand",
-    "desc": "The host presents the latest updates on various important issues in Uttarakhand."
+    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across Uttarakhand."
   },
   {
     "start": "13:30",
@@ -227,8 +161,8 @@
     "channelName": "Hindi Khabar",
     "startTs": 1790861400000,
     "stopTs": 1790863800000,
-    "title": "JKSK UP Debate Live",
-    "desc": "The host invites a panel of guests and discusses the latest national events."
+    "title": "Jksk Up Debate Live",
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "14:10",
@@ -239,7 +173,7 @@
     "startTs": 1790863800000,
     "stopTs": 1790865000000,
     "title": "Desh Pradesh",
-    "desc": "The presenter shares the latest news updates from Uttar Pradesh, Uttarakhand and the rest of India."
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "14:30",
@@ -250,7 +184,7 @@
     "startTs": 1790865000000,
     "stopTs": 1790866800000,
     "title": "Special Show",
-    "desc": "A presentation of a wide range of products, providing a convenient shopping experience."
+    "desc": "Special Show presents focused coverage of important events and developing stories, combining news, expert perspectives and detailed analysis to give viewers greater context."
   },
   {
     "start": "15:00",
@@ -261,7 +195,7 @@
     "startTs": 1790866800000,
     "stopTs": 1790868600000,
     "title": "Apna Uttrakhand",
-    "desc": "The host presents the latest updates on various important issues in Uttarakhand."
+    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across Uttarakhand."
   },
   {
     "start": "15:30",
@@ -272,7 +206,7 @@
     "startTs": 1790868600000,
     "stopTs": 1790870400000,
     "title": "News Special Live",
-    "desc": "The host presents latest news and updates from the country and around the world."
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "16:00",
@@ -283,7 +217,7 @@
     "startTs": 1790870400000,
     "stopTs": 1790872200000,
     "title": "Desh Pradesh",
-    "desc": "The presenter shares the latest news updates from Uttar Pradesh, Uttarakhand and the rest of India."
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "16:30",
@@ -294,7 +228,7 @@
     "startTs": 1790872200000,
     "stopTs": 1790874000000,
     "title": "News Special Live",
-    "desc": "The host presents latest news and updates from the country and around the world."
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "17:00",
@@ -305,7 +239,7 @@
     "startTs": 1790874000000,
     "stopTs": 1790875800000,
     "title": "Desh Ki Khabar",
-    "desc": "The host presents the latest news stories from all around the nation."
+    "desc": "The host presents a detailed report of the top five news updates and developments pertaining to society, politics, economy and sports from across the nation."
   },
   {
     "start": "17:30",
@@ -316,7 +250,7 @@
     "startTs": 1790875800000,
     "stopTs": 1790876400000,
     "title": "24 Khabar 24 Reporter",
-    "desc": "."
+    "desc": "24 Khabar 24 Reporter brings the latest national and regional news, with on-ground reports, breaking developments and detailed coverage of stories shaping the day."
   },
   {
     "start": "17:40",
@@ -326,8 +260,8 @@
     "channelName": "Hindi Khabar",
     "startTs": 1790876400000,
     "stopTs": 1790879400000,
-    "title": "JKSK UP Debate",
-    "desc": "The host invites a panel of experts to share their views on issues affecting many lives."
+    "title": "Jksk Up Debate",
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "18:30",
@@ -338,7 +272,7 @@
     "startTs": 1790879400000,
     "stopTs": 1790881200000,
     "title": "Special Show",
-    "desc": "A presentation of a wide range of products, providing a convenient shopping experience."
+    "desc": "Special Show presents focused coverage of important events and developing stories, combining news, expert perspectives and detailed analysis to give viewers greater context."
   },
   {
     "start": "19:00",
@@ -348,8 +282,8 @@
     "channelName": "Hindi Khabar",
     "startTs": 1790881200000,
     "stopTs": 1790883000000,
-    "title": "8:30 Pm Bulletin",
-    "desc": "The host presents new stories pertaining to the current affairs of the nation."
+    "title": "8.30 Pm Bulletin",
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "19:30",
@@ -359,8 +293,8 @@
     "channelName": "Hindi Khabar",
     "startTs": 1790883000000,
     "stopTs": 1790884800000,
-    "title": "News SPL",
-    "desc": "The host provides a detailed report on matters concerning the nation and the world."
+    "title": "News Special",
+    "desc": "The host presents a detailed report of the top five news updates and developments pertaining to society, politics, economy and sports from across the nation."
   },
   {
     "start": "20:00",
@@ -371,7 +305,7 @@
     "startTs": 1790884800000,
     "stopTs": 1790886600000,
     "title": "Janta Bole",
-    "desc": "The host shares the news and also interacts with the public who share their grievances."
+    "desc": "Janta Bole gives ordinary citizens a platform to share their views on current issues, highlighting public opinions, concerns and experiences from across the country."
   },
   {
     "start": "20:30",
@@ -381,8 +315,8 @@
     "channelName": "Hindi Khabar",
     "startTs": 1790886600000,
     "stopTs": 1790888400000,
-    "title": "Big Bulletin Uttarakhand Debate",
-    "desc": "The host presents news updates and moderates a debate on matters concerning Uttarakhand."
+    "title": "Big Bullatin Uttarakhand Debate",
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "21:00",
@@ -392,8 +326,8 @@
     "channelName": "Hindi Khabar",
     "startTs": 1790888400000,
     "stopTs": 1790890200000,
-    "title": "8:30 Pm Bulletin",
-    "desc": "The host presents new stories pertaining to the current affairs of the nation."
+    "title": "8.30 Pm Bulletin",
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "21:30",
@@ -403,8 +337,8 @@
     "channelName": "Hindi Khabar",
     "startTs": 1790890200000,
     "stopTs": 1790892000000,
-    "title": "News SPL",
-    "desc": "The host provides a detailed report on matters concerning the nation and the world."
+    "title": "News Special",
+    "desc": "The host presents a detailed report of the top five news updates and developments pertaining to society, politics, economy and sports from across the nation."
   },
   {
     "start": "22:00",
@@ -415,7 +349,7 @@
     "startTs": 1790892000000,
     "stopTs": 1790893800000,
     "title": "24 Khabar 24 Reporter",
-    "desc": "."
+    "desc": "24 Khabar 24 Reporter brings the latest national and regional news, with on-ground reports, breaking developments and detailed coverage of stories shaping the day."
   },
   {
     "start": "22:30",
@@ -425,8 +359,8 @@
     "channelName": "Hindi Khabar",
     "startTs": 1790893800000,
     "stopTs": 1790895600000,
-    "title": "JKSK UP Debate",
-    "desc": "The host invites a panel of experts to share their views on issues affecting many lives."
+    "title": "Jksk Up Debate",
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "23:00",
@@ -437,7 +371,7 @@
     "startTs": 1790895600000,
     "stopTs": 1790897400000,
     "title": "Special Show",
-    "desc": "A presentation of a wide range of products, providing a convenient shopping experience."
+    "desc": "Special Show presents focused coverage of important events and developing stories, combining news, expert perspectives and detailed analysis to give viewers greater context."
   },
   {
     "start": "23:30",
@@ -447,8 +381,8 @@
     "channelName": "Hindi Khabar",
     "startTs": 1790897400000,
     "stopTs": 1790899200000,
-    "title": "8:30 Pm Bulletin",
-    "desc": "The host presents new stories pertaining to the current affairs of the nation."
+    "title": "8.30 Pm Bulletin",
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "00:00",
@@ -458,8 +392,8 @@
     "channelName": "Hindi Khabar",
     "startTs": 1790899200000,
     "stopTs": 1790901000000,
-    "title": "News SPL",
-    "desc": "The host provides a detailed report on matters concerning the nation and the world."
+    "title": "News Special",
+    "desc": "The host presents a detailed report of the top five news updates and developments pertaining to society, politics, economy and sports from across the nation."
   },
   {
     "start": "00:30",
@@ -470,7 +404,7 @@
     "startTs": 1790901000000,
     "stopTs": 1790902800000,
     "title": "Big Bulletin Del Debate",
-    "desc": "The host engages experts from various fields in debates on current affairs shaping the country."
+    "desc": "The host chats with experts about important upcoming political and social issues."
   },
   {
     "start": "01:00",
@@ -481,7 +415,7 @@
     "startTs": 1790902800000,
     "stopTs": 1790904600000,
     "title": "Special Show",
-    "desc": "A presentation of a wide range of products, providing a convenient shopping experience."
+    "desc": "Special Show presents focused coverage of important events and developing stories, combining news, expert perspectives and detailed analysis to give viewers greater context."
   },
   {
     "start": "01:30",
@@ -492,7 +426,7 @@
     "startTs": 1790904600000,
     "stopTs": 1790906400000,
     "title": "Subah Savere",
-    "desc": "The host covers key news, providing insights on significant events and updates."
+    "desc": "Subah Savere is a morning news programme covering the day&apos;s top headlines, current affairs, weather and important developments to help viewers start their day informed."
   },
   {
     "start": "02:00",
@@ -503,7 +437,7 @@
     "startTs": 1790906400000,
     "stopTs": 1790908200000,
     "title": "Apna Uttrakhand",
-    "desc": "The host presents the latest updates on various important issues in Uttarakhand."
+    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across Uttarakhand."
   },
   {
     "start": "02:30",
@@ -514,7 +448,7 @@
     "startTs": 1790908200000,
     "stopTs": 1790910000000,
     "title": "Speed News",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world."
+    "desc": "Speed News delivers the latest headlines and breaking developments in a fast-paced format, keeping viewers updated on important national, regional and global events."
   },
   {
     "start": "03:00",
@@ -525,7 +459,7 @@
     "startTs": 1790910000000,
     "stopTs": 1790911800000,
     "title": "Desh Pradesh",
-    "desc": "The presenter shares the latest news updates from Uttar Pradesh, Uttarakhand and the rest of India."
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "03:30",
@@ -536,7 +470,7 @@
     "startTs": 1790911800000,
     "stopTs": 1790913600000,
     "title": "Special Show",
-    "desc": "A presentation of a wide range of products, providing a convenient shopping experience."
+    "desc": "Special Show presents focused coverage of important events and developing stories, combining news, expert perspectives and detailed analysis to give viewers greater context."
   },
   {
     "start": "04:00",
@@ -547,7 +481,7 @@
     "startTs": 1790913600000,
     "stopTs": 1790915400000,
     "title": "Speed News",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world."
+    "desc": "Speed News delivers the latest headlines and breaking developments in a fast-paced format, keeping viewers updated on important national, regional and global events."
   },
   {
     "start": "04:30",
@@ -558,7 +492,7 @@
     "startTs": 1790915400000,
     "stopTs": 1790917200000,
     "title": "Desh Ki Khabar",
-    "desc": "The host presents the latest news stories from all around the nation."
+    "desc": "The host presents a detailed report of the top five news updates and developments pertaining to society, politics, economy and sports from across the nation."
   },
   {
     "start": "05:00",
@@ -569,7 +503,7 @@
     "startTs": 1790917200000,
     "stopTs": 1790919000000,
     "title": "Apna Uttrakhand",
-    "desc": "The host presents the latest updates on various important issues in Uttarakhand."
+    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across Uttarakhand."
   },
   {
     "start": "05:30",
@@ -580,7 +514,7 @@
     "startTs": 1790919000000,
     "stopTs": 1790920800000,
     "title": "Apna Uttar Pradesh",
-    "desc": "A presenter reports important news and socio-political developments in Uttar Pradesh."
+    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across Uttar Pradesh."
   },
   {
     "start": "06:00",
@@ -591,7 +525,7 @@
     "startTs": 1790920800000,
     "stopTs": 1790922600000,
     "title": "Desh Pradesh",
-    "desc": "The presenter shares the latest news updates from Uttar Pradesh, Uttarakhand and the rest of India."
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "06:30",
@@ -602,7 +536,7 @@
     "startTs": 1790922600000,
     "stopTs": 1790924400000,
     "title": "Speed News",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world."
+    "desc": "Speed News delivers the latest headlines and breaking developments in a fast-paced format, keeping viewers updated on important national, regional and global events."
   },
   {
     "start": "07:00",
@@ -612,8 +546,8 @@
     "channelName": "Hindi Khabar",
     "startTs": 1790924400000,
     "stopTs": 1790926200000,
-    "title": "Debate Show",
-    "desc": "The host invites a panel of guests to engage in a debate on various pressing matters."
+    "title": "Debate",
+    "desc": "Debate brings opposing views and informed voices together to examine major news and public issues, offering analysis, arguments and perspectives on matters affecting society."
   },
   {
     "start": "07:30",
@@ -624,7 +558,7 @@
     "startTs": 1790926200000,
     "stopTs": 1790928000000,
     "title": "Apna Uttrakhand",
-    "desc": "The host presents the latest updates on various important issues in Uttarakhand."
+    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across Uttarakhand."
   },
   {
     "start": "08:00",
@@ -635,7 +569,7 @@
     "startTs": 1790928000000,
     "stopTs": 1790929800000,
     "title": "Janta Bole",
-    "desc": "The host shares the news and also interacts with the public who share their grievances."
+    "desc": "Janta Bole gives ordinary citizens a platform to share their views on current issues, highlighting public opinions, concerns and experiences from across the country."
   },
   {
     "start": "08:30",
@@ -646,7 +580,7 @@
     "startTs": 1790929800000,
     "stopTs": 1790931600000,
     "title": "Apna Uttar Pradesh",
-    "desc": "A presenter reports important news and socio-political developments in Uttar Pradesh."
+    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across Uttar Pradesh."
   },
   {
     "start": "09:00",
@@ -657,7 +591,7 @@
     "startTs": 1790931600000,
     "stopTs": 1790933400000,
     "title": "Desh Pradesh",
-    "desc": "The presenter shares the latest news updates from Uttar Pradesh, Uttarakhand and the rest of India."
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "09:30",
@@ -668,7 +602,7 @@
     "startTs": 1790933400000,
     "stopTs": 1790935200000,
     "title": "Special Show",
-    "desc": "A presentation of a wide range of products, providing a convenient shopping experience."
+    "desc": "Special Show presents focused coverage of important events and developing stories, combining news, expert perspectives and detailed analysis to give viewers greater context."
   },
   {
     "start": "10:00",
@@ -679,7 +613,7 @@
     "startTs": 1790935200000,
     "stopTs": 1790937000000,
     "title": "Desh Ki Khabar",
-    "desc": "The host presents the latest news stories from all around the nation."
+    "desc": "The host presents a detailed report of the top five news updates and developments pertaining to society, politics, economy and sports from across the nation."
   },
   {
     "start": "10:30",
@@ -690,7 +624,7 @@
     "startTs": 1790937000000,
     "stopTs": 1790938800000,
     "title": "Speed News",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world."
+    "desc": "Speed News delivers the latest headlines and breaking developments in a fast-paced format, keeping viewers updated on important national, regional and global events."
   },
   {
     "start": "11:00",
@@ -701,7 +635,7 @@
     "startTs": 1790938800000,
     "stopTs": 1790940600000,
     "title": "Big Bulletin Del Debate",
-    "desc": "The host engages experts from various fields in debates on current affairs shaping the country."
+    "desc": "The host chats with experts about important upcoming political and social issues."
   },
   {
     "start": "11:30",
@@ -712,7 +646,7 @@
     "startTs": 1790940600000,
     "stopTs": 1790942400000,
     "title": "Desh Pradesh",
-    "desc": "The presenter shares the latest news updates from Uttar Pradesh, Uttarakhand and the rest of India."
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "12:00",
@@ -723,7 +657,7 @@
     "startTs": 1790942400000,
     "stopTs": 1790944200000,
     "title": "Apna Uttar Pradesh",
-    "desc": "A presenter reports important news and socio-political developments in Uttar Pradesh."
+    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across Uttar Pradesh."
   },
   {
     "start": "12:30",
@@ -733,8 +667,8 @@
     "channelName": "Hindi Khabar",
     "startTs": 1790944200000,
     "stopTs": 1790946000000,
-    "title": "Big Bulletin Uttarakhand Debate Live",
-    "desc": "Experts share their views on the latest developments in Uttarakhand, live."
+    "title": "Big Bullatin Uttarakhand Debate Live",
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "13:00",
@@ -745,7 +679,7 @@
     "startTs": 1790946000000,
     "stopTs": 1790947800000,
     "title": "Apna Uttrakhand",
-    "desc": "The host presents the latest updates on various important issues in Uttarakhand."
+    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across Uttarakhand."
   },
   {
     "start": "13:30",
@@ -755,8 +689,8 @@
     "channelName": "Hindi Khabar",
     "startTs": 1790947800000,
     "stopTs": 1790950200000,
-    "title": "JKSK UP Debate Live",
-    "desc": "The host invites a panel of guests and discusses the latest national events."
+    "title": "Jksk Up Debate Live",
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "14:10",
@@ -767,7 +701,7 @@
     "startTs": 1790950200000,
     "stopTs": 1790951400000,
     "title": "Desh Pradesh",
-    "desc": "The presenter shares the latest news updates from Uttar Pradesh, Uttarakhand and the rest of India."
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "14:30",
@@ -778,7 +712,7 @@
     "startTs": 1790951400000,
     "stopTs": 1790953200000,
     "title": "Special Show",
-    "desc": "A presentation of a wide range of products, providing a convenient shopping experience."
+    "desc": "Special Show presents focused coverage of important events and developing stories, combining news, expert perspectives and detailed analysis to give viewers greater context."
   },
   {
     "start": "15:00",
@@ -789,7 +723,7 @@
     "startTs": 1790953200000,
     "stopTs": 1790955000000,
     "title": "Apna Uttrakhand",
-    "desc": "The host presents the latest updates on various important issues in Uttarakhand."
+    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across Uttarakhand."
   },
   {
     "start": "15:30",
@@ -800,7 +734,7 @@
     "startTs": 1790955000000,
     "stopTs": 1790956800000,
     "title": "News Special Live",
-    "desc": "The host presents latest news and updates from the country and around the world."
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "16:00",
@@ -811,7 +745,7 @@
     "startTs": 1790956800000,
     "stopTs": 1790958600000,
     "title": "Desh Pradesh",
-    "desc": "The presenter shares the latest news updates from Uttar Pradesh, Uttarakhand and the rest of India."
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "16:30",
@@ -822,7 +756,7 @@
     "startTs": 1790958600000,
     "stopTs": 1790960400000,
     "title": "News Special Live",
-    "desc": "The host presents latest news and updates from the country and around the world."
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "17:00",
@@ -833,7 +767,7 @@
     "startTs": 1790960400000,
     "stopTs": 1790962200000,
     "title": "Desh Ki Khabar",
-    "desc": "The host presents the latest news stories from all around the nation."
+    "desc": "The host presents a detailed report of the top five news updates and developments pertaining to society, politics, economy and sports from across the nation."
   },
   {
     "start": "17:30",
@@ -844,7 +778,7 @@
     "startTs": 1790962200000,
     "stopTs": 1790962800000,
     "title": "24 Khabar 24 Reporter",
-    "desc": "."
+    "desc": "24 Khabar 24 Reporter brings the latest national and regional news, with on-ground reports, breaking developments and detailed coverage of stories shaping the day."
   },
   {
     "start": "17:40",
@@ -854,8 +788,8 @@
     "channelName": "Hindi Khabar",
     "startTs": 1790962800000,
     "stopTs": 1790965800000,
-    "title": "JKSK UP Debate",
-    "desc": "The host invites a panel of experts to share their views on issues affecting many lives."
+    "title": "Jksk Up Debate",
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
   },
   {
     "start": "18:30",
@@ -1074,6 +1008,61 @@
     "channelName": "Hindi Khabar",
     "startTs": 1791000000000,
     "stopTs": 1791001800000,
+    "title": "Speed News",
+    "desc": "Speed News delivers the latest headlines and breaking developments in a fast-paced format, keeping viewers updated on important national, regional and global events."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "HindiKhabar.in",
+    "channelId": "HindiKhabar.in",
+    "channelName": "Hindi Khabar",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "Desh Ki Khabar",
+    "desc": "The host presents a detailed report of the top five news updates and developments pertaining to society, politics, economy and sports from across the nation."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "HindiKhabar.in",
+    "channelId": "HindiKhabar.in",
+    "channelName": "Hindi Khabar",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "Apna Uttrakhand",
+    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across Uttarakhand."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "HindiKhabar.in",
+    "channelId": "HindiKhabar.in",
+    "channelName": "Hindi Khabar",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "Apna Uttar Pradesh",
+    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across Uttar Pradesh."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "HindiKhabar.in",
+    "channelId": "HindiKhabar.in",
+    "channelName": "Hindi Khabar",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Desh Pradesh",
+    "desc": "Catch up on the latest buzz in politics, sports, and social-economic news with us!"
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "HindiKhabar.in",
+    "channelId": "HindiKhabar.in",
+    "channelName": "Hindi Khabar",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
     "title": "Speed News",
     "desc": "Speed News delivers the latest headlines and breaking developments in a fast-paced format, keeping viewers updated on important national, regional and global events."
   }

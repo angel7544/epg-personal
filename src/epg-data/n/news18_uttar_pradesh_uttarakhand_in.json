@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "News18UttarPradeshUttarakhand.in",
-    "channelId": "News18UttarPradeshUttarakhand.in",
-    "channelName": "News18 Uttar Pradesh Uttarakhand",
-    "startTs": 1790825400000,
-    "stopTs": 1790827200000,
-    "title": "Top 10 Mahanagar + UP 9 Baje",
-    "desc": "The host presents the top 10 news stories from various Indian cities; the host presents the latest news stories from Uttar Pradesh, India."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "News18UttarPradeshUttarakhand.in",
-    "channelId": "News18UttarPradeshUttarakhand.in",
-    "channelName": "News18 Uttar Pradesh Uttarakhand",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "Up-Uttarakhand Top 100+ Special Show",
-    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "News18UttarPradeshUttarakhand.in",
-    "channelId": "News18UttarPradeshUttarakhand.in",
-    "channelName": "News18 Uttar Pradesh Uttarakhand",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "10 Ka Dum + 5 Minutes 25 Khabrein",
-    "desc": "Catch 10 major updates and 25 quick headlines from UP and UK in this dynamic segment combining depth and speed for busy viewers."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "News18UttarPradeshUttarakhand.in",
-    "channelId": "News18UttarPradeshUttarakhand.in",
-    "channelName": "News18 Uttar Pradesh Uttarakhand",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "Apna Uttrakhand + Top 10 Pahad",
-    "desc": "Explore the top stories and key developments from Uttarakhand&apos;s hills in this focused program tailored to local interests and regional concerns."
-  },
-  {
     "start": "05:30",
     "stop": "06:00",
     "channel": "News18UttarPradeshUttarakhand.in",
@@ -52,7 +8,7 @@
     "startTs": 1790832600000,
     "stopTs": 1790834400000,
     "title": "Top 10 Political + 11 Baje 11 Khabarein",
-    "desc": "In this fast-paced combo show, viewers receive the top 10 political headlines along with an in-depth segment presenting 11 crucial updates at 11 o&apos;clock."
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "start": "06:00",
@@ -62,8 +18,8 @@
     "channelName": "News18 Uttar Pradesh Uttarakhand",
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
-    "title": "Viral Top 25 + Spl Pgm",
-    "desc": "This engaging program combines internet-breaking news with a special report format that gives context to the most shared and talked-about issues."
+    "title": "Election Express",
+    "desc": "The host presents the insights gathered from India&apos;s vast election landscape, showcasing diverse voices and regional perspectives across the nation."
   },
   {
     "start": "06:30",
@@ -1076,5 +1032,60 @@
     "stopTs": 1791001800000,
     "title": "Up-Uttarakhand Top 100+ Special Show",
     "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "News18UttarPradeshUttarakhand.in",
+    "channelId": "News18UttarPradeshUttarakhand.in",
+    "channelName": "News18 Uttar Pradesh Uttarakhand",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "10 Ka Dum + 5 Minutes 25 Khabrein",
+    "desc": "Catch 10 major updates and 25 quick headlines from UP and UK in this dynamic segment combining depth and speed for busy viewers."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "News18UttarPradeshUttarakhand.in",
+    "channelId": "News18UttarPradeshUttarakhand.in",
+    "channelName": "News18 Uttar Pradesh Uttarakhand",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "Apna Uttrakhand + Top 10 Pahad",
+    "desc": "Explore the top stories and key developments from Uttarakhand&apos;s hills in this focused program tailored to local interests and regional concerns."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "News18UttarPradeshUttarakhand.in",
+    "channelId": "News18UttarPradeshUttarakhand.in",
+    "channelName": "News18 Uttar Pradesh Uttarakhand",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "Top 10 Political + 11 Baje 11 Khabarein",
+    "desc": "In this fast-paced combo show, viewers receive the top 10 political headlines along with an in-depth segment presenting 11 crucial updates at 11 o&apos;clock."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "News18UttarPradeshUttarakhand.in",
+    "channelId": "News18UttarPradeshUttarakhand.in",
+    "channelName": "News18 Uttar Pradesh Uttarakhand",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Viral Top 25 + Spl Pgm",
+    "desc": "This engaging program combines internet-breaking news with a special report format that gives context to the most shared and talked-about issues."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "News18UttarPradeshUttarakhand.in",
+    "channelId": "News18UttarPradeshUttarakhand.in",
+    "channelName": "News18 Uttar Pradesh Uttarakhand",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "Up Ukd Top 100+Spl Pgm",
+    "desc": "A combined show of top 100 stories from Uttar Pradesh and Uttarakhand, enhanced with a special segment exploring critical issues in more detail."
   }
 ]

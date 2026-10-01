@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "News18Odia.in",
-    "channelId": "News18Odia.in",
-    "channelName": "News18 Odia",
-    "startTs": 1790825400000,
-    "stopTs": 1790827200000,
-    "title": "Nagar Mahanagar",
-    "desc": "The host provides a detailed report featuring insightful updates and developments pertaining to matters from across various cities."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "News18Odia.in",
-    "channelId": "News18Odia.in",
-    "channelName": "News18 Odia",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "Khabar Fatafat",
-    "desc": "A quick, no-nonsense bulletin delivering the top headlines from politics, business, sports, and entertainment in a fast-paced format."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "News18Odia.in",
-    "channelId": "News18Odia.in",
-    "channelName": "News18 Odia",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "News18 Live",
-    "desc": "Delivers uninterrupted live coverage of breaking news, major headlines, and viral developments, keeping viewers updated with real-time information nationwide."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "News18Odia.in",
-    "channelId": "News18Odia.in",
-    "channelName": "News18 Odia",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "Special Report",
-    "desc": "Exclusive insights and updates featured in today&apos;s Special Report segment."
-  },
-  {
     "start": "05:30",
     "stop": "06:00",
     "channel": "News18Odia.in",
@@ -51,8 +7,8 @@
     "channelName": "News18 Odia",
     "startTs": 1790832600000,
     "stopTs": 1790834400000,
-    "title": "Big Breaking News",
-    "desc": "Delivers major breaking news from across the country with real-time updates, live coverage, and expert opinions on key developments."
+    "title": "Aapananka Gaon Aapananka Khabar",
+    "desc": "The host covers local news, highlighting political events, social issues and community developments that impact villages and districts across the region."
   },
   {
     "start": "06:00",
@@ -63,7 +19,7 @@
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
     "title": "Khabar Fatafat",
-    "desc": "A quick, no-nonsense bulletin delivering the top headlines from politics, business, sports, and entertainment in a fast-paced format."
+    "desc": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
   },
   {
     "start": "06:30",
@@ -1076,5 +1032,60 @@
     "stopTs": 1791001800000,
     "title": "Khabar Fatafat",
     "desc": "A quick, no-nonsense bulletin delivering the top headlines from politics, business, sports, and entertainment in a fast-paced format."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "News18Odia.in",
+    "channelId": "News18Odia.in",
+    "channelName": "News18 Odia",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "News18 Live",
+    "desc": "Delivers uninterrupted live coverage of breaking news, major headlines, and viral developments, keeping viewers updated with real-time information nationwide."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "News18Odia.in",
+    "channelId": "News18Odia.in",
+    "channelName": "News18 Odia",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "Special Report",
+    "desc": "Exclusive insights and updates featured in today&apos;s Special Report segment."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "News18Odia.in",
+    "channelId": "News18Odia.in",
+    "channelName": "News18 Odia",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "Big Breaking News",
+    "desc": "Delivers major breaking news from across the country with real-time updates, live coverage, and expert opinions on key developments."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "News18Odia.in",
+    "channelId": "News18Odia.in",
+    "channelName": "News18 Odia",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Khabar Fatafat",
+    "desc": "A quick, no-nonsense bulletin delivering the top headlines from politics, business, sports, and entertainment in a fast-paced format."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "News18Odia.in",
+    "channelId": "News18Odia.in",
+    "channelName": "News18 Odia",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "News18 Ground Zero",
+    "desc": "Get to the heart of the matter with News18 Ground Zero&apos;s in-depth coverage."
   }
 ]

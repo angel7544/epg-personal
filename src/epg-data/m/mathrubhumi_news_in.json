@@ -1,27 +1,5 @@
 [
   {
-    "start": "01:30",
-    "stop": "04:00",
-    "channel": "MathrubhumiNews.in",
-    "channelId": "MathrubhumiNews.in",
-    "channelName": "Mathrubhumi News",
-    "startTs": 1790818200000,
-    "stopTs": 1790827200000,
-    "title": "Wake Up Kerala",
-    "desc": "The host invites several people to discuss the latest updates from the world of entertainment as well as the lives and achievements of famous personalities."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "MathrubhumiNews.in",
-    "channelId": "MathrubhumiNews.in",
-    "channelName": "Mathrubhumi News",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "Morning Minnal",
-    "desc": "This morning&apos;s program briefly summarises the day&apos;s top news in various areas, such as politics, sports, entertainment, and more."
-  },
-  {
     "start": "04:30",
     "stop": "06:00",
     "channel": "MathrubhumiNews.in",
@@ -30,7 +8,7 @@
     "startTs": 1790829000000,
     "stopTs": 1790834400000,
     "title": "Mathrubhumi Breaking Hours",
-    "desc": "Catch up on the latest in socio-political and economic news from around the world."
+    "desc": "The anchor presents the most important social, political and economic news and developments from the nation around the world."
   },
   {
     "start": "06:00",
@@ -40,8 +18,8 @@
     "channelName": "Mathrubhumi News",
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
-    "title": "Vakradristi",
-    "desc": "The host presents a sharp and humorous satirical take on key contemporary political affairs, prominent public figures, and major socio-cultural controversies across Kerala and the nation."
+    "title": "Mathrubhumi Breaking Hours",
+    "desc": "The anchor presents the most important social, political and economic news and developments from the nation around the world."
   },
   {
     "start": "06:30",
@@ -900,5 +878,38 @@
     "stopTs": 1791001800000,
     "title": "Morning Minnal",
     "desc": "This morning&apos;s program briefly summarises the day&apos;s top news in various areas, such as politics, sports, entertainment, and more."
+  },
+  {
+    "start": "04:30",
+    "stop": "06:00",
+    "channel": "MathrubhumiNews.in",
+    "channelId": "MathrubhumiNews.in",
+    "channelName": "Mathrubhumi News",
+    "startTs": 1791001800000,
+    "stopTs": 1791007200000,
+    "title": "Mathrubhumi Breaking Hours",
+    "desc": "Catch up on the latest in socio-political and economic news from around the world."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "MathrubhumiNews.in",
+    "channelId": "MathrubhumiNews.in",
+    "channelName": "Mathrubhumi News",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Vakradristi",
+    "desc": "The host presents a sharp and humorous satirical take on key contemporary political affairs, prominent public figures, and major socio-cultural controversies across Kerala and the nation."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "MathrubhumiNews.in",
+    "channelId": "MathrubhumiNews.in",
+    "channelName": "Mathrubhumi News",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "Mathrubhumi Breaking Hours",
+    "desc": "Catch up on the latest in socio-political and economic news from around the world."
   }
 ]

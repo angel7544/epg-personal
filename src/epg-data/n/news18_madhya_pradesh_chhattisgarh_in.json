@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "News18MadhyaPradeshChhattisgarh.in",
-    "channelId": "News18MadhyaPradeshChhattisgarh.in",
-    "channelName": "News18 Madhya Pradesh Chhattisgarh",
-    "startTs": 1790825400000,
-    "stopTs": 1790827200000,
-    "title": "City at 9",
-    "desc": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "News18MadhyaPradeshChhattisgarh.in",
-    "channelId": "News18MadhyaPradeshChhattisgarh.in",
-    "channelName": "News18 Madhya Pradesh Chhattisgarh",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "News Special",
-    "desc": "Daily bulletin offering updates and perspectives from Madhya Pradesh, with coverage of politics, development, and human-interest stories."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "News18MadhyaPradeshChhattisgarh.in",
-    "channelId": "News18MadhyaPradeshChhattisgarh.in",
-    "channelName": "News18 Madhya Pradesh Chhattisgarh",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "Superfast 100",
-    "desc": "A mixed-format program delivering six top stories and other key developments with clarity, speed, and sharp editorial voice."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "News18MadhyaPradeshChhattisgarh.in",
-    "channelId": "News18MadhyaPradeshChhattisgarh.in",
-    "channelName": "News18 Madhya Pradesh Chhattisgarh",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "Hamar Chhattisgarh",
-    "desc": "Morning city news bulletin offering viewers a round-up of urban developments, civic issues, and lifestyle features before the day begins."
-  },
-  {
     "start": "05:30",
     "stop": "06:00",
     "channel": "News18MadhyaPradeshChhattisgarh.in",
@@ -51,8 +7,8 @@
     "channelName": "News18 Madhya Pradesh Chhattisgarh",
     "startTs": 1790832600000,
     "stopTs": 1790834400000,
-    "title": "Big Breaking",
-    "desc": "A regional news segment focused on political updates, civic stories, and voices from Madhya Pradesh in an accessible local format."
+    "title": "Dumdaar Gyarah",
+    "desc": "The anchor delivers fast-paced updates on regional, political, social and economic affairs, providing timely insights about the latest developments."
   },
   {
     "start": "06:00",
@@ -62,8 +18,8 @@
     "channelName": "News18 Madhya Pradesh Chhattisgarh",
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
-    "title": "Khabron Ki 50-50/News Spl",
-    "desc": "Catch our anchor sharing 50 exciting breaking news updates you don&apos;t want to miss!"
+    "title": "Special Report",
+    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
   },
   {
     "start": "06:30",
@@ -1076,5 +1032,60 @@
     "stopTs": 1791001800000,
     "title": "News Special",
     "desc": "Daily bulletin offering updates and perspectives from Madhya Pradesh, with coverage of politics, development, and human-interest stories."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "News18MadhyaPradeshChhattisgarh.in",
+    "channelId": "News18MadhyaPradeshChhattisgarh.in",
+    "channelName": "News18 Madhya Pradesh Chhattisgarh",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "Superfast 100",
+    "desc": "A mixed-format program delivering six top stories and other key developments with clarity, speed, and sharp editorial voice."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "News18MadhyaPradeshChhattisgarh.in",
+    "channelId": "News18MadhyaPradeshChhattisgarh.in",
+    "channelName": "News18 Madhya Pradesh Chhattisgarh",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "Hamar Chhattisgarh",
+    "desc": "Morning city news bulletin offering viewers a round-up of urban developments, civic issues, and lifestyle features before the day begins."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "News18MadhyaPradeshChhattisgarh.in",
+    "channelId": "News18MadhyaPradeshChhattisgarh.in",
+    "channelName": "News18 Madhya Pradesh Chhattisgarh",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "Big Breaking",
+    "desc": "A regional news segment focused on political updates, civic stories, and voices from Madhya Pradesh in an accessible local format."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "News18MadhyaPradeshChhattisgarh.in",
+    "channelId": "News18MadhyaPradeshChhattisgarh.in",
+    "channelName": "News18 Madhya Pradesh Chhattisgarh",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Khabron Ki 50-50/News Spl",
+    "desc": "Catch our anchor sharing 50 exciting breaking news updates you don&apos;t want to miss!"
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "News18MadhyaPradeshChhattisgarh.in",
+    "channelId": "News18MadhyaPradeshChhattisgarh.in",
+    "channelName": "News18 Madhya Pradesh Chhattisgarh",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "Superfast 100",
+    "desc": "A mixed-format program delivering six top stories and other key developments with clarity, speed, and sharp editorial voice."
   }
 ]

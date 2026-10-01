@@ -1,27 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1790825400000,
-    "stopTs": 1790829000000,
-    "title": "Man Vs. Wild",
-    "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:24",
-    "channel": "DiscoveryChannel.in",
-    "channelId": "DiscoveryChannel.in",
-    "channelName": "Discovery Channel",
-    "startTs": 1790829000000,
-    "stopTs": 1790832240000,
-    "title": "Man, Woman, Wild",
-    "desc": "Stranded on a remote, rat-infested island, Mykel and Ruth must survive. Surrounded by undrinkable seawater and no supplies, they battle the elements-and each other-to stay alive."
-  },
-  {
     "start": "05:24",
     "stop": "06:30",
     "channel": "DiscoveryChannel.in",
@@ -30,7 +8,7 @@
     "startTs": 1790832240000,
     "stopTs": 1790836200000,
     "title": "Marooned With Ed Stafford",
-    "desc": "Ed Stafford is alone in Borneo&apos;s thick jungles with no tools, no food, and no backup. Just raw survival instincts against dense forest, wild creatures, and unrelenting rain."
+    "desc": "Ed is stranded in the Sonoran Desert with no food, water or even a knife. In this situation, he attempts to survive on his own for 10 days."
   },
   {
     "start": "06:30",
@@ -669,5 +647,49 @@
     "stopTs": 1791001620000,
     "title": "Man Vs. Wild",
     "desc": "Bear navigates Ireland&apos;s rugged terrain, scaling 2000ft cliffs, building fires, and foraging for food, and feasting on the carcass of a dead sheep."
+  },
+  {
+    "start": "04:27",
+    "stop": "04:53",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1791001620000,
+    "stopTs": 1791003180000,
+    "title": "Man Eats Wild",
+    "desc": "Mario Kalpou travels the world, hunting and fishing, while sharing and celebrating cultures and foods he encounters along the way, learning from locals and their traditions."
+  },
+  {
+    "start": "04:53",
+    "stop": "05:19",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1791003180000,
+    "stopTs": 1791004740000,
+    "title": "Man Eats Wild",
+    "desc": "Mario Kalpou travels worldwide, showcasing cultures and cuisines while hunting and fishing. He meets locals, learns recipes, and shares stories from his journeys everywhere."
+  },
+  {
+    "start": "05:19",
+    "stop": "06:14",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1791004740000,
+    "stopTs": 1791008040000,
+    "title": "Ed Stafford&apos;s Rite of Passage",
+    "desc": "Adventurer Ed Stafford travels the world to learn how indigenous cultures turn boys into men, enduring Brazil&apos;s 24 hours of agony and Ethiopia&apos;s bull-jumping rites."
+  },
+  {
+    "start": "06:14",
+    "stop": "07:09",
+    "channel": "DiscoveryChannel.in",
+    "channelId": "DiscoveryChannel.in",
+    "channelName": "Discovery Channel",
+    "startTs": 1791008040000,
+    "stopTs": 1791011340000,
+    "title": "Arabia: A Journey Through The Heart Of The Middle East",
+    "desc": "The award-winning adventurer and travel writer, Levison Wood&apos;s account of his most complex expedition yet: circumnavigating the Arabian Peninsula."
   }
 ]

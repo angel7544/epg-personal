@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "ETVTelangana.in",
-    "channelId": "ETVTelangana.in",
-    "channelName": "ETV Telangana",
-    "startTs": 1790825400000,
-    "stopTs": 1790827200000,
-    "title": "Ghantaravam",
-    "desc": "The anchor delivers the latest news, key updates and significant developments from across the globe, keeping viewers informed."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "ETVTelangana.in",
-    "channelId": "ETVTelangana.in",
-    "channelName": "ETV Telangana",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "Sukhibhava",
-    "desc": "The philanthropic vision of raising health and hygiene awareness among people and bringing the best of medicinal uses."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "ETVTelangana.in",
-    "channelId": "ETVTelangana.in",
-    "channelName": "ETV Telangana",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "Ghantaravam",
-    "desc": "An hourly news insertion of 7 min each giving the latest news and views from around the world."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "ETVTelangana.in",
-    "channelId": "ETVTelangana.in",
-    "channelName": "ETV Telangana",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "Yuva",
-    "desc": "Youth are offered a platform to express their views and opinions on the latest issues and policies for them."
-  },
-  {
     "start": "05:30",
     "stop": "06:00",
     "channel": "ETVTelangana.in",
@@ -52,7 +8,7 @@
     "startTs": 1790832600000,
     "stopTs": 1790834400000,
     "title": "Ghantaravam",
-    "desc": "An hourly news insertion of 7 min each giving the latest news and views from around the world."
+    "desc": "The anchor delivers the latest news, key updates and significant developments from across the globe, keeping viewers informed."
   },
   {
     "start": "06:00",
@@ -62,8 +18,8 @@
     "channelName": "ETV Telangana",
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
-    "title": "Idisangathi",
-    "desc": "Contemporary issues of relevance are reported on and analysed by experts."
+    "title": "Idi Sangathi",
+    "desc": "The host offers a comprehensive review of regional and national news, providing a deep dive into relevant issues and their impact on society."
   },
   {
     "start": "06:30",
@@ -1098,5 +1054,60 @@
     "stopTs": 1791001800000,
     "title": "Nyaya Seva",
     "desc": "The host invites a team of law experts who take up calls from the viewers and provide them with appropriate solutions based on their legal issues."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "ETVTelangana.in",
+    "channelId": "ETVTelangana.in",
+    "channelName": "ETV Telangana",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "Ghantaravam",
+    "desc": "An hourly news insertion of 7 min each giving the latest news and views from around the world."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "ETVTelangana.in",
+    "channelId": "ETVTelangana.in",
+    "channelName": "ETV Telangana",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "Yuva",
+    "desc": "Youth are offered a platform to express their views and opinions on the latest issues and policies for them."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "ETVTelangana.in",
+    "channelId": "ETVTelangana.in",
+    "channelName": "ETV Telangana",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "Ghantaravam",
+    "desc": "An hourly news insertion of 7 min each giving the latest news and views from around the world."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "ETVTelangana.in",
+    "channelId": "ETVTelangana.in",
+    "channelName": "ETV Telangana",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Idisangathi",
+    "desc": "Contemporary issues of relevance are reported on and analysed by experts."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "ETVTelangana.in",
+    "channelId": "ETVTelangana.in",
+    "channelName": "ETV Telangana",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "Ghantaravam",
+    "desc": "An hourly news insertion of 7 min each giving the latest news and views from around the world."
   }
 ]

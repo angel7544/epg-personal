@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "DY365.in",
-    "channelId": "DY365.in",
-    "channelName": "DY365",
-    "startTs": 1790825400000,
-    "stopTs": 1790827200000,
-    "title": "Morning Prime Time",
-    "desc": "The host presents a summary of the latest social, economic and political news updates and developments from the nation and around the world."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "DY365.in",
-    "channelId": "DY365.in",
-    "channelName": "DY365",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "Morning Prime Time",
-    "desc": "The host presents information on the latest news stories and developments surrounding various socio-economic and political issues."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "DY365.in",
-    "channelId": "DY365.in",
-    "channelName": "DY365",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "Hindi Top News",
-    "desc": "Stay updated with Hindi news featuring in-depth reports, breaking stories, and balanced analysis that keeps viewers informed about national events, local affairs, and global trends."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "DY365.in",
-    "channelId": "DY365.in",
-    "channelName": "DY365",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "Special Program",
-    "desc": "The host shares an engaging special story with insightful analysis and commentary."
-  },
-  {
     "start": "05:30",
     "stop": "06:00",
     "channel": "DY365.in",
@@ -52,7 +8,7 @@
     "startTs": 1790832600000,
     "stopTs": 1790834400000,
     "title": "Breaking News",
-    "desc": "Get the latest breaking news updates and top developments from the day, keeping you informed about regional, national, and international events as they unfold."
+    "desc": "The host presents numerous top stories, latest happenings and significant updates from the national and international front."
   },
   {
     "start": "06:00",
@@ -63,7 +19,7 @@
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
     "title": "Breaking News",
-    "desc": "Get the latest breaking news updates and top developments from the day, keeping you informed about regional, national, and international events as they unfold."
+    "desc": "The host presents numerous top stories, latest happenings and significant updates from the national and international front."
   },
   {
     "start": "06:30",
@@ -1076,5 +1032,60 @@
     "stopTs": 1791001800000,
     "title": "Morning Prime Time",
     "desc": "The host presents information on the latest news stories and developments surrounding various socio-economic and political issues."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "DY365.in",
+    "channelId": "DY365.in",
+    "channelName": "DY365",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "Hindi Top News",
+    "desc": "Stay updated with Hindi news featuring in-depth reports, breaking stories, and balanced analysis that keeps viewers informed about national events, local affairs, and global trends."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "DY365.in",
+    "channelId": "DY365.in",
+    "channelName": "DY365",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "Special Program",
+    "desc": "The host shares an engaging special story with insightful analysis and commentary."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "DY365.in",
+    "channelId": "DY365.in",
+    "channelName": "DY365",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "Breaking News",
+    "desc": "Get the latest breaking news updates and top developments from the day, keeping you informed about regional, national, and international events as they unfold."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "DY365.in",
+    "channelId": "DY365.in",
+    "channelName": "DY365",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Breaking News",
+    "desc": "Get the latest breaking news updates and top developments from the day, keeping you informed about regional, national, and international events as they unfold."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "DY365.in",
+    "channelId": "DY365.in",
+    "channelName": "DY365",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "Breaking News",
+    "desc": "Get the latest breaking news updates and top developments from the day, keeping you informed about regional, national, and international events as they unfold."
   }
 ]

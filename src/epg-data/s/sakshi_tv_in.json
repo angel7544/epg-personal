@@ -1,69 +1,14 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "SakshiTV.in",
-    "channelId": "SakshiTV.in",
-    "channelName": "Sakshi TV",
-    "startTs": 1790825400000,
-    "stopTs": 1790827200000,
-    "title": "News Express / Sakshi News",
-    "desc": "The presenter shares news updates of the day on priority basis; the host presents the latest developments, current affairs and headlines."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "SakshiTV.in",
-    "channelId": "SakshiTV.in",
-    "channelName": "Sakshi TV",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "Magazine Story",
-    "desc": "An in-depth analysis of events and issues that attract public attention."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "SakshiTV.in",
-    "channelId": "SakshiTV.in",
-    "channelName": "Sakshi TV",
-    "startTs": 1790829000000,
-    "stopTs": 1790832600000,
-    "title": "News Express / Morning Prime Time",
-    "desc": "Senior journalists and political editors deliver sharp debates, ground reports and expert panels, covering breaking headlines and key developments from across the nation."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "SakshiTV.in",
-    "channelId": "SakshiTV.in",
-    "channelName": "Sakshi TV",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "Crime Report",
-    "desc": "The host presents the latest crime stories from across the country, offering updates on ongoing criminal cases and providing insights into police investigations and developments."
-  },
-  {
     "start": "05:30",
-    "stop": "06:00",
-    "channel": "SakshiTV.in",
-    "channelId": "SakshiTV.in",
-    "channelName": "Sakshi TV",
-    "startTs": 1790832600000,
-    "stopTs": 1790834400000,
-    "title": "News Express / Morning Prime Time",
-    "desc": "Senior journalists and political editors deliver sharp debates, ground reports and expert panels, covering breaking headlines and key developments from across the nation."
-  },
-  {
-    "start": "06:00",
     "stop": "06:30",
     "channel": "SakshiTV.in",
     "channelId": "SakshiTV.in",
     "channelName": "Sakshi TV",
-    "startTs": 1790834400000,
+    "startTs": 1790832600000,
     "stopTs": 1790836200000,
-    "title": "Political Corridor",
-    "desc": "A prime-time segment covering the day&apos;s biggest headlines with deep dives, expert views, and detailed on-ground reporting."
+    "title": "News Express / Sakshi News",
+    "desc": "The presenter shares news updates of the day on priority basis; the host presents the latest developments, current affairs and headlines."
   },
   {
     "start": "06:30",
@@ -922,5 +867,60 @@
     "stopTs": 1791001800000,
     "title": "Magazine Story",
     "desc": "An in-depth analysis of events and issues that attract public attention."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "SakshiTV.in",
+    "channelId": "SakshiTV.in",
+    "channelName": "Sakshi TV",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "News Express / Morning Prime Time",
+    "desc": "Senior journalists and political editors deliver sharp debates, ground reports and expert panels, covering breaking headlines and key developments from across the nation."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "SakshiTV.in",
+    "channelId": "SakshiTV.in",
+    "channelName": "Sakshi TV",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "Commercial",
+    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping from home."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "SakshiTV.in",
+    "channelId": "SakshiTV.in",
+    "channelName": "Sakshi TV",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "News Express / Morning Prime Time",
+    "desc": "Senior journalists and political editors deliver sharp debates, ground reports and expert panels, covering breaking headlines and key developments from across the nation."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "SakshiTV.in",
+    "channelId": "SakshiTV.in",
+    "channelName": "Sakshi TV",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Political Corridor",
+    "desc": "A prime-time segment covering the day&apos;s biggest headlines with deep dives, expert views, and detailed on-ground reporting."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "SakshiTV.in",
+    "channelId": "SakshiTV.in",
+    "channelName": "Sakshi TV",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "News Express / Mid Day News",
+    "desc": "A fast-paced news program delivering the most important updates of the day. Covering key stories, events, and breaking news from around the world, it provides concise, reliable information."
   }
 ]

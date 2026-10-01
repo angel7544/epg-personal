@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "TV5News.in",
-    "channelId": "TV5News.in",
-    "channelName": "TV5 Telugu",
-    "startTs": 1790825400000,
-    "stopTs": 1790827200000,
-    "title": "9 AM News",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "TV5News.in",
-    "channelId": "TV5News.in",
-    "channelName": "TV5 Telugu",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "Favorite 5",
-    "desc": "This program revives classic movies. It showcases beloved films from the past, offering a fresh look for modern audiences to enjoy these timeless stories."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "TV5News.in",
-    "channelId": "TV5News.in",
-    "channelName": "TV5 Telugu",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "10 AM News",
-    "desc": "A host talks with experts. They discuss problems happening all over the country. They try to understand these issues. The discussion aims to find solutions."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "TV5News.in",
-    "channelId": "TV5News.in",
-    "channelName": "TV5 Telugu",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "10 AM News",
-    "desc": "A host talks with experts. They discuss problems happening all over the country. They try to understand these issues. The discussion aims to find solutions."
-  },
-  {
     "start": "05:30",
     "stop": "06:00",
     "channel": "TV5News.in",
@@ -52,7 +8,7 @@
     "startTs": 1790832600000,
     "stopTs": 1790834400000,
     "title": "11 AM News / Big Breaking",
-    "desc": "This is a news update. We will share the most recent news stories and important events that happened today. Stay informed with our quick and easy summary."
+    "desc": "The host presents an insight into the latest news and updates relating to political, social and economic issues from around the world."
   },
   {
     "start": "06:00",
@@ -62,8 +18,8 @@
     "channelName": "TV5 Telugu",
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
-    "title": "Special Focus",
-    "desc": "This documentary looks at today&apos;s world. It covers important problems, both in politics and everyday life. The film shows what is happening now and makes us think about the future."
+    "title": "Daily Mirror",
+    "desc": "The host sheds light on the latest news stories and significant developments from various fields impacting people across the world."
   },
   {
     "start": "06:30",
@@ -878,5 +834,60 @@
     "stopTs": 1791001800000,
     "title": "Rudraksha Slot",
     "desc": "Popular song and dance, script and dialogues, screenplay and direction, heroes and heroines, roles and rhythm of these popular films of the past are brought back to life in this program"
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "TV5News.in",
+    "channelId": "TV5News.in",
+    "channelName": "TV5 Telugu",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "10 AM News",
+    "desc": "A host talks with experts. They discuss problems happening all over the country. They try to understand these issues. The discussion aims to find solutions."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "TV5News.in",
+    "channelId": "TV5News.in",
+    "channelName": "TV5 Telugu",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "10 AM News",
+    "desc": "A host talks with experts. They discuss problems happening all over the country. They try to understand these issues. The discussion aims to find solutions."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "TV5News.in",
+    "channelId": "TV5News.in",
+    "channelName": "TV5 Telugu",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "11 AM News / Big Breaking",
+    "desc": "This is a news update. We will share the most recent news stories and important events that happened today. Stay informed with our quick and easy summary."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "TV5News.in",
+    "channelId": "TV5News.in",
+    "channelName": "TV5 Telugu",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Special Focus",
+    "desc": "This documentary looks at today&apos;s world. It covers important problems, both in politics and everyday life. The film shows what is happening now and makes us think about the future."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "TV5News.in",
+    "channelId": "TV5News.in",
+    "channelName": "TV5 Telugu",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "12 Noon News",
+    "desc": "This is a news update. We will share the most recent news stories and important events that happened today. Stay informed with our quick and easy summary."
   }
 ]

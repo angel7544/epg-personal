@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1790825400000,
-    "stopTs": 1790827200000,
-    "title": "News 100",
-    "desc": "The host presents the top 100 news updates pertaining to the political, social, economic and sports fronts from around the country and the world."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "Morning Breaking",
-    "desc": "The host presents the latest political, social and economic news updates and speaks about the recent developments from around the globe."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "10 AM Special Debate",
-    "desc": "The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "TV9Bharatvarsh.in",
-    "channelId": "TV9Bharatvarsh.in",
-    "channelName": "TV9 Bharatvarsh",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "10:30 Pm Special",
-    "desc": "The host shares the latest updates on economics, politics, and social issues, covering current affairs, trends, and important developments for a clear, easy-to-understand overview today."
-  },
-  {
     "start": "05:30",
     "stop": "06:00",
     "channel": "TV9Bharatvarsh.in",
@@ -51,8 +7,8 @@
     "channelName": "TV9 Bharatvarsh",
     "startTs": 1790832600000,
     "stopTs": 1790834400000,
-    "title": "11 AM Special Debate",
-    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economy, politics, sports and entertainment."
+    "title": "11 am Spl Debate",
+    "desc": "The host facilitates debates with various experts on the panel, who provide different perspectives on issues of national importance."
   },
   {
     "start": "06:00",
@@ -62,8 +18,8 @@
     "channelName": "TV9 Bharatvarsh",
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
-    "title": "11:30 Spl Debate",
-    "desc": "A live debate shows lively discussions on current affairs, politics, and global issues. Diverse panelists share clear views on pressing topics and real-world impact today."
+    "title": "11:30 Special Debate",
+    "desc": "The host facilitates high-level debates on the nation&apos;s most pivotal developments and pressing political issues, as the experts provide their diverse perspectives."
   },
   {
     "start": "06:30",
@@ -955,5 +911,60 @@
     "stopTs": 1791001800000,
     "title": "Morning Breaking",
     "desc": "The host presents the latest political, social and economic news updates and speaks about the recent developments from around the globe."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "10 AM Special Debate",
+    "desc": "The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "10 30 Spl Debate",
+    "desc": "A live debate shows lively discussions on current affairs, politics, and global issues. Diverse panelists share clear views on pressing topics and real-world impact today."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "11 AM Special Debate",
+    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economy, politics, sports and entertainment."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "11:30 Spl Debate",
+    "desc": "A live debate shows lively discussions on current affairs, politics, and global issues. Diverse panelists share clear views on pressing topics and real-world impact today."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "TV9Bharatvarsh.in",
+    "channelId": "TV9Bharatvarsh.in",
+    "channelName": "TV9 Bharatvarsh",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "12 PM Special",
+    "desc": "Tune in to the 12 PM Special where the news anchor shares intriguing updates and highlights from around the world"
   }
 ]

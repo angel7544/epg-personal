@@ -1,16 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "TimesNow.in",
-    "channelId": "TimesNow.in",
-    "channelName": "TIMES NOW",
-    "startTs": 1790825400000,
-    "stopTs": 1790829000000,
-    "title": "The Morning Newshour",
-    "desc": "The host talks to a panel of experts about several issues that take place across the country."
-  },
-  {
     "start": "04:30",
     "stop": "06:00",
     "channel": "TimesNow.in",
@@ -19,7 +8,7 @@
     "startTs": 1790829000000,
     "stopTs": 1790834400000,
     "title": "Times Now Live",
-    "desc": "Get ready for an exclusive interview show! See your beloved stars share personal stories. Discover their paths to success. Learn about their lives in a new way."
+    "desc": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
   },
   {
     "start": "06:00",
@@ -30,7 +19,7 @@
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
     "title": "Times Now Live",
-    "desc": "Get ready for an exclusive interview show! See your beloved stars share personal stories. Discover their paths to success. Learn about their lives in a new way."
+    "desc": "The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally."
   },
   {
     "start": "06:30",
@@ -625,5 +614,38 @@
     "stopTs": 1791001800000,
     "title": "The Morning Newshour",
     "desc": "The host talks to a panel of experts about several issues that take place across the country."
+  },
+  {
+    "start": "04:30",
+    "stop": "06:00",
+    "channel": "TimesNow.in",
+    "channelId": "TimesNow.in",
+    "channelName": "TIMES NOW",
+    "startTs": 1791001800000,
+    "stopTs": 1791007200000,
+    "title": "Iec: Piyush Goyal + Jyotiraditya Sc",
+    "desc": "A host talks with experts. They discuss problems happening all over the country. They try to understand these issues. The discussion aims to find solutions."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "TimesNow.in",
+    "channelId": "TimesNow.in",
+    "channelName": "TIMES NOW",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Ekam Spiritual Discourse",
+    "desc": "Embark on a soul-nourishing journey delving into spirituality&apos;s diverse facets, offering teachings."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "TimesNow.in",
+    "channelId": "TimesNow.in",
+    "channelName": "TIMES NOW",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "Times Now Live",
+    "desc": "Get ready for an exclusive interview show! See your beloved stars share personal stories. Discover their paths to success. Learn about their lives in a new way."
   }
 ]

@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1790825400000,
-    "stopTs": 1790829000000,
-    "title": "9Am Big Breaking-Live",
-    "desc": "The host presents a detailed report and the latest updates on the breaking news stories taking place in the country, live."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "Parapancha",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1790829000000,
-    "stopTs": 1790832600000,
-    "title": "Express 50-Live",
-    "desc": "A 50-second express news ride through Kannada headlines, this segment brings fast-paced news coverage with clarity and sharp focus."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "3 Maha Suddi",
-    "desc": "The host presents a detailed report on the latest political matters of the state and analyses the recent statements of politicians."
-  },
-  {
     "start": "05:30",
     "stop": "06:00",
     "channel": "News18Kannada.in",
@@ -51,8 +7,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1790832600000,
     "stopTs": 1790834400000,
-    "title": "News@11Am-Live",
-    "desc": "The host presents the latest political, economic, social and sports top stories on the national and international front."
+    "title": "Express 50",
+    "desc": "The host presents the top 50 news headlines and significant developments pertaining to various pressing issues across the nation."
   },
   {
     "start": "06:00",
@@ -62,8 +18,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
-    "title": "Maja Nodi",
-    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+    "title": "Maatu Kathe",
+    "desc": "The host presents a detailed report of some of the latest news stories about political, economic, social and cultural topics from all around the region."
   },
   {
     "start": "06:30",
@@ -1043,5 +999,49 @@
     "stopTs": 1791001800000,
     "title": "9Am Big Breaking-Live",
     "desc": "The host presents a detailed report and the latest updates on the breaking news stories taking place in the country, live."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1791001800000,
+    "stopTs": 1791005400000,
+    "title": "Express 50-Live",
+    "desc": "A 50-second express news ride through Kannada headlines, this segment brings fast-paced news coverage with clarity and sharp focus."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "News@11Am-Live",
+    "desc": "The host presents the latest political, economic, social and sports top stories on the national and international front."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Maja Nodi",
+    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "News@12Noon-Live",
+    "desc": "The host presents the latest political, economic, social and sports top stories on the national and international front."
   }
 ]

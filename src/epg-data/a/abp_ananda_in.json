@@ -1,60 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "ABPAnanda.in",
-    "channelId": "ABPAnanda.in",
-    "channelName": "ABP Ananda",
-    "startTs": 1790825400000,
-    "stopTs": 1790827200000,
-    "title": "Ananda Sakal",
-    "desc": "The host presents the latest news updates and significant developments pertaining to various pressing issues across the country."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:10",
-    "channel": "ABPAnanda.in",
-    "channelId": "ABPAnanda.in",
-    "channelName": "ABP Ananda",
-    "startTs": 1790827200000,
-    "stopTs": 1790827800000,
-    "title": "Ananda Sakal",
-    "desc": "The host presents the latest news updates and significant developments pertaining to various pressing issues across the country."
-  },
-  {
-    "start": "04:10",
-    "stop": "04:30",
-    "channel": "ABPAnanda.in",
-    "channelId": "ABPAnanda.in",
-    "channelName": "ABP Ananda",
-    "startTs": 1790827800000,
-    "stopTs": 1790829000000,
-    "title": "Ananda Sakal",
-    "desc": "A morning news program offering a quick and clear update on politics, local affairs, weather, and important headlines to begin the day."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "ABPAnanda.in",
-    "channelId": "ABPAnanda.in",
-    "channelName": "ABP Ananda",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "Doshtay Doshdik",
-    "desc": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "ABPAnanda.in",
-    "channelId": "ABPAnanda.in",
-    "channelName": "ABP Ananda",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "Ananda News",
-    "desc": "Covers major news stories, current events, and regional highlights in Bengali to keep viewers informed and engaged with everyday developments."
-  },
-  {
     "start": "05:30",
     "stop": "06:00",
     "channel": "ABPAnanda.in",
@@ -63,7 +8,7 @@
     "startTs": 1790832600000,
     "stopTs": 1790834400000,
     "title": "Ananda Live @ 11 Am",
-    "desc": "A host shares up to date news on social, economic, and political topics, giving updates on events and explaining new developments in clear language today."
+    "desc": "The host talks about the latest news stories about political, economic, social and cultural topics from all around the region, live."
   },
   {
     "start": "06:00",
@@ -74,7 +19,7 @@
     "startTs": 1790834400000,
     "stopTs": 1790835000000,
     "title": "Ek Jholoke",
-    "desc": "Stay updated with the latest news, major updates, and important developments. Follow to know about current events. Learn about recent happenings."
+    "desc": "The host presents the latest news updates and significant developments pertaining to various pressing issues across the country."
   },
   {
     "start": "06:10",
@@ -85,7 +30,7 @@
     "startTs": 1790835000000,
     "stopTs": 1790836200000,
     "title": "Ananda Khabor",
-    "desc": "The host presents all the major news updates and developments pertaining to politics, society and economy from around the country."
+    "desc": "The host sheds light on the news updates and developments that spread positivity and happiness, interviewing the people related to it."
   },
   {
     "start": "06:30",
@@ -1241,5 +1186,71 @@
     "stopTs": 1791001800000,
     "title": "Ananda Sakal",
     "desc": "A morning news program offering a quick and clear update on politics, local affairs, weather, and important headlines to begin the day."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "ABPAnanda.in",
+    "channelId": "ABPAnanda.in",
+    "channelName": "ABP Ananda",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "Doshtay Doshdik",
+    "desc": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "ABPAnanda.in",
+    "channelId": "ABPAnanda.in",
+    "channelName": "ABP Ananda",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "Ananda News",
+    "desc": "Covers major news stories, current events, and regional highlights in Bengali to keep viewers informed and engaged with everyday developments."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "ABPAnanda.in",
+    "channelId": "ABPAnanda.in",
+    "channelName": "ABP Ananda",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "Ananda Live @ 11 Am",
+    "desc": "A host shares up to date news on social, economic, and political topics, giving updates on events and explaining new developments in clear language today."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:10",
+    "channel": "ABPAnanda.in",
+    "channelId": "ABPAnanda.in",
+    "channelName": "ABP Ananda",
+    "startTs": 1791007200000,
+    "stopTs": 1791007800000,
+    "title": "Ek Jholoke",
+    "desc": "Stay updated with the latest news, major updates, and important developments. Follow to know about current events. Learn about recent happenings."
+  },
+  {
+    "start": "06:10",
+    "stop": "06:30",
+    "channel": "ABPAnanda.in",
+    "channelId": "ABPAnanda.in",
+    "channelName": "ABP Ananda",
+    "startTs": 1791007800000,
+    "stopTs": 1791009000000,
+    "title": "Ananda Khabor",
+    "desc": "The host presents all the major news updates and developments pertaining to politics, society and economy from around the country."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "ABPAnanda.in",
+    "channelId": "ABPAnanda.in",
+    "channelName": "ABP Ananda",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "Barotar Breaking",
+    "desc": "The host presents the breaking news, latest political and socio-economic news, updates and developments taking place in the country."
   }
 ]

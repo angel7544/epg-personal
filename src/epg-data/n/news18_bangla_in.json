@@ -11,61 +11,6 @@
     "desc": "This is News - News Bulletin Category"
   },
   {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "Morning Superfast",
-    "desc": "Quick-paced morning news show delivering the latest updates and stories."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "Top News@10",
-    "desc": "Get the latest news on India, politics, entertainment, sports, and feature stories."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "Jhoro Ponero",
-    "desc": "A power-packed show covering 15 hot-button issues through fast-paced coverage, debates, and viewer feedback from across the Bengali-speaking world."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1790832600000,
-    "stopTs": 1790834400000,
-    "title": "Khobor Dinbhor",
-    "desc": "The host discusses key socio-economic and political news and updates from the city."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "News18Bangla.in",
-    "channelId": "News18Bangla.in",
-    "channelName": "News18 Bangla",
-    "startTs": 1790834400000,
-    "stopTs": 1790836200000,
-    "title": "Jhoro Ponero",
-    "desc": "A power-packed show covering 15 hot-button issues through fast-paced coverage, debates, and viewer feedback from across the Bengali-speaking world."
-  },
-  {
     "start": "06:30",
     "stop": "07:00",
     "channel": "News18Bangla.in",
@@ -779,5 +724,60 @@
     "stopTs": 1791001800000,
     "title": "Morning Superfast",
     "desc": "Quick-paced morning news show delivering the latest updates and stories."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "Top News@10",
+    "desc": "Get the latest news on India, politics, entertainment, sports, and feature stories."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "Jhoro Ponero",
+    "desc": "A power-packed show covering 15 hot-button issues through fast-paced coverage, debates, and viewer feedback from across the Bengali-speaking world."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "Khobor Dinbhor",
+    "desc": "The host discusses key socio-economic and political news and updates from the city."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Jhoro Ponero",
+    "desc": "A power-packed show covering 15 hot-button issues through fast-paced coverage, debates, and viewer feedback from across the Bengali-speaking world."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "News18Bangla.in",
+    "channelId": "News18Bangla.in",
+    "channelName": "News18 Bangla",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "Khobor Dinbhor",
+    "desc": "The host discusses key socio-economic and political news and updates from the city."
   }
 ]

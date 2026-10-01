@@ -1,60 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1790825400000,
-    "stopTs": 1790827200000,
-    "title": "Kalinga Khabar",
-    "desc": "The host sheds light on the latest news updates and developments pertaining to various pressing issues from the state of Odisha."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:25",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1790827200000,
-    "stopTs": 1790828700000,
-    "title": "Kalinga Express",
-    "desc": "A news bulletin program with stories and updates covering breaking national events, socio-economic developments, political headlines, and ground reports with complete analytical clarity."
-  },
-  {
-    "start": "04:25",
-    "stop": "04:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1790828700000,
-    "stopTs": 1790829000000,
-    "title": "Dekh Khabar Rakh Nazar",
-    "desc": "Laugh along with satirical discussions on recent social issues and news updates."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "Breaking@10",
-    "desc": "Breaking developments and urgent headlines are presented with live updates, on ground reports and expert insights on the latest unfolding events."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "Janta Sab Janta",
-    "desc": "The host provides exclusive insights: The unscripted moments, special guests, backstage creative processes, and candid interviews that reveal the fascinating world behind the cameras."
-  },
-  {
     "start": "05:30",
     "stop": "06:00",
     "channel": "KalingaTV.in",
@@ -63,7 +8,7 @@
     "startTs": 1790832600000,
     "stopTs": 1790834400000,
     "title": "News Alert",
-    "desc": "Join discussion on socio-economic and political news, and updates making headlines."
+    "desc": "The host presents a detailed report of the latest news updates and key developments from political, socio-economic and sports fronts."
   },
   {
     "start": "06:00",
@@ -74,7 +19,7 @@
     "startTs": 1790834400000,
     "stopTs": 1790835900000,
     "title": "News Alert",
-    "desc": "Join discussion on socio-economic and political news, and updates making headlines."
+    "desc": "The host presents a detailed report of the latest news updates and key developments from political, socio-economic and sports fronts."
   },
   {
     "start": "06:25",
@@ -85,7 +30,7 @@
     "startTs": 1790835900000,
     "stopTs": 1790836200000,
     "title": "Reporter Didi",
-    "desc": "The host highlights various social issues concerning civic rights, public education, healthcare access, and gender equality, sparking vital conversations for progressive community reform."
+    "desc": "The host presents the latest news updates on various pressing issues impacting citizens and interacts with them to gain valuable insights."
   },
   {
     "start": "06:30",
@@ -1252,5 +1197,82 @@
     "stopTs": 1791001500000,
     "title": "Kalinga Express",
     "desc": "A news bulletin program with stories and updates covering breaking national events, socio-economic developments, political headlines, and ground reports with complete analytical clarity."
+  },
+  {
+    "start": "04:25",
+    "stop": "04:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1791001500000,
+    "stopTs": 1791001800000,
+    "title": "Dekh Khabar Rakh Nazar",
+    "desc": "Laugh along with satirical discussions on recent social issues and news updates."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "Breaking@10",
+    "desc": "Breaking developments and urgent headlines are presented with live updates, on ground reports and expert insights on the latest unfolding events."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "Bhinna Manisa Bhinna Katha",
+    "desc": "Bhinna Manisa Bhinna Katha."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "News Alert",
+    "desc": "Join discussion on socio-economic and political news, and updates making headlines."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:25",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1791007200000,
+    "stopTs": 1791008700000,
+    "title": "News Alert",
+    "desc": "Join discussion on socio-economic and political news, and updates making headlines."
+  },
+  {
+    "start": "06:25",
+    "stop": "06:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1791008700000,
+    "stopTs": 1791009000000,
+    "title": "Reporter Didi",
+    "desc": "The host highlights various social issues concerning civic rights, public education, healthcare access, and gender equality, sparking vital conversations for progressive community reform."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "News @Noon",
+    "desc": "Midday news brings important national and regional updates, covering politics, society, economy and current affairs with clear and concise reporting."
   }
 ]

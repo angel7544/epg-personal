@@ -1,47 +1,25 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790825400000,
-    "stopTs": 1790829000000,
-    "title": "Bazaar Open Exchange",
-    "desc": "Top market experts and CEOs analyse the market scenario and discuss the stocks of the companies."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "Bazaar Corporate Radar",
-    "desc": "Tune in to Mitali Mukherjee&apos;s show for insights from top CEOs, economists, and analysts."
-  },
-  {
     "start": "05:00",
     "stop": "06:00",
     "channel": "CNBCTV18PrimeHD.in",
     "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
+    "channelName": "CNBC TV18 Prime",
     "startTs": 1790830800000,
     "stopTs": 1790834400000,
     "title": "Europe Early Edition",
-    "desc": "Covers early financial news and European market activity. The show sets the tone for investors by reporting morning updates from across the Eurozone."
+    "desc": "The hosts provide insights into some of the latest economic news and business developments from various European cities and their impact on global markets."
   },
   {
     "start": "06:00",
     "stop": "06:30",
     "channel": "CNBCTV18PrimeHD.in",
     "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
+    "channelName": "CNBC TV18 Prime",
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
     "title": "Squawk Box Europe",
-    "desc": "CNBC&apos;s show provides three hours of lively, unscripted market debate. It prepares viewers for the start of the European trading day with dynamic financial insights."
+    "desc": "The host invites prominent personalities and analysts to share their valuable insights on the latest developments in the fields of business and finance and also answer questions asked by viewers."
   },
   {
     "start": "06:30",
@@ -645,6 +623,61 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791000000000,
     "stopTs": 1791001800000,
+    "title": "Cnbc-Tv18 Editorial",
+    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "Cnbc-Tv18 Editorial",
+    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "Cnbc-Tv18 Editorial",
+    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "Cnbc-Tv18 Editorial",
+    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Cnbc-Tv18 Editorial",
+    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
     "title": "Cnbc-Tv18 Editorial",
     "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
   }

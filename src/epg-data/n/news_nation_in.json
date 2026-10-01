@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "NewsNation.in",
-    "channelId": "NewsNation.in",
-    "channelName": "News Nation",
-    "startTs": 1790825400000,
-    "stopTs": 1790827200000,
-    "title": "Battle Ground",
-    "desc": "This is News - News Bulletin Category"
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "NewsNation.in",
-    "channelId": "NewsNation.in",
-    "channelName": "News Nation",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "Battle Ground",
-    "desc": "A new show takes a deep dive into seven crucial Battleground States, exploring the key issues and voter sentiments that could shape the upcoming election."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "NewsNation.in",
-    "channelId": "NewsNation.in",
-    "channelName": "News Nation",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "Khabar Pakki Hai",
-    "desc": "The host presents comprehensive coverage of major news, political shifts, and urgent issues, offering viewers in-depth analysis and up-to-date information."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "NewsNation.in",
-    "channelId": "NewsNation.in",
-    "channelName": "News Nation",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "Khabar Pakki Hai",
-    "desc": "The host presents comprehensive coverage of major news, political shifts, and urgent issues, offering viewers in-depth analysis and up-to-date information."
-  },
-  {
     "start": "05:30",
     "stop": "06:00",
     "channel": "NewsNation.in",
@@ -51,8 +7,8 @@
     "channelName": "News Nation",
     "startTs": 1790832600000,
     "stopTs": 1790834400000,
-    "title": "News Special",
-    "desc": "Latest news updates related to various topics like sports, politics and business also watch the weirdest incidents that have taken place in the country."
+    "title": "Lie Detector Test",
+    "desc": "The host presents accurate information and facts of certain events taking place across the country, in order to spread awareness and stop misinformation among the viewers."
   },
   {
     "start": "06:00",
@@ -62,8 +18,8 @@
     "channelName": "News Nation",
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
-    "title": "Lie Detector Test",
-    "desc": "The host provides insights into the latest updates of the elections and the political developments taking place in the country."
+    "title": "News Control Room",
+    "desc": "The host presents an in-depth analysis of the latest news stories and developments pertaining to various political and socio-economic issues from around the globe."
   },
   {
     "start": "06:30",
@@ -1076,5 +1032,60 @@
     "stopTs": 1791001800000,
     "title": "Battle Ground",
     "desc": "A new show takes a deep dive into seven crucial Battleground States, exploring the key issues and voter sentiments that could shape the upcoming election."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "NewsNation.in",
+    "channelId": "NewsNation.in",
+    "channelName": "News Nation",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "Khabar Pakki Hai",
+    "desc": "The host presents comprehensive coverage of major news, political shifts, and urgent issues, offering viewers in-depth analysis and up-to-date information."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "NewsNation.in",
+    "channelId": "NewsNation.in",
+    "channelName": "News Nation",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "Khabar Pakki Hai",
+    "desc": "The host presents comprehensive coverage of major news, political shifts, and urgent issues, offering viewers in-depth analysis and up-to-date information."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "NewsNation.in",
+    "channelId": "NewsNation.in",
+    "channelName": "News Nation",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "News Special",
+    "desc": "Latest news updates related to various topics like sports, politics and business also watch the weirdest incidents that have taken place in the country."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "NewsNation.in",
+    "channelId": "NewsNation.in",
+    "channelName": "News Nation",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Lie Detector Test",
+    "desc": "The host provides insights into the latest updates of the elections and the political developments taking place in the country."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "NewsNation.in",
+    "channelId": "NewsNation.in",
+    "channelName": "News Nation",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "News Control Room",
+    "desc": "The host presents comprehensive coverage of major news, political shifts, and urgent issues, offering viewers in-depth analysis and up-to-date information."
   }
 ]

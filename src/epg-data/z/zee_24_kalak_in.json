@@ -1,69 +1,25 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "Zee24Kalak.in",
-    "channelId": "Zee24Kalak.in",
-    "channelName": "Zee 24 Kalak",
-    "startTs": 1790825400000,
-    "stopTs": 1790827200000,
-    "title": "Fatafat Samachar",
-    "desc": "The host presents a brief and quick overview of some of the most important stories and the latest developments from all over the country."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "Zee24Kalak.in",
-    "channelId": "Zee24Kalak.in",
-    "channelName": "Zee 24 Kalak",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "Morning Prime Time",
-    "desc": "Tune in as the host delivers the latest regional, national, and international news, keeping you informed with up-to-date info on all the current events you need to know!"
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "Zee24Kalak.in",
-    "channelId": "Zee24Kalak.in",
-    "channelName": "Zee 24 Kalak",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "Khabar @ 10",
-    "desc": "Tune in as the host delivers the latest regional, national, and international news, keeping you informed with up-to-date info on all the current events you need to know!"
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "Zee24Kalak.in",
-    "channelId": "Zee24Kalak.in",
-    "channelName": "Zee 24 Kalak",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "Reels Ni Ramzat",
-    "desc": "Tune in as the host delivers the latest regional, national, and international news, keeping you informed with up-to-date info on all the current events you need to know!"
-  },
-  {
     "start": "05:30",
     "stop": "06:00",
     "channel": "Zee24Kalak.in",
     "channelId": "Zee24Kalak.in",
-    "channelName": "Zee 24 Kalak",
+    "channelName": "ZEE 24 KALAK",
     "startTs": 1790832600000,
     "stopTs": 1790834400000,
     "title": "Sawar Na Mota Samachar",
-    "desc": "Tune in as the host delivers the latest regional, national, and international news, keeping you informed with up-to-date info on all the current events you need to know!"
+    "desc": "The host presents the latest political and socio-economic news, updates and developments taking place in different parts of world."
   },
   {
     "start": "06:00",
     "stop": "06:30",
     "channel": "Zee24Kalak.in",
     "channelId": "Zee24Kalak.in",
-    "channelName": "Zee 24 Kalak",
+    "channelName": "ZEE 24 KALAK",
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
     "title": "Fatafat Samachar",
-    "desc": "&apos;Fatafat Samachar&apos; delivers quick news updates. It provides the latest headlines in a simple and fast format, keeping you informed on the go. Get your news quickly!"
+    "desc": "The host presents a brief and quick overview of some of the most important stories and the latest developments from all over the country."
   },
   {
     "start": "06:30",
@@ -1075,6 +1031,61 @@
     "startTs": 1791000000000,
     "stopTs": 1791001800000,
     "title": "Morning Prime Time",
+    "desc": "Tune in as the host delivers the latest regional, national, and international news, keeping you informed with up-to-date info on all the current events you need to know!"
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "Zee24Kalak.in",
+    "channelId": "Zee24Kalak.in",
+    "channelName": "Zee 24 Kalak",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "Khabar @ 10",
+    "desc": "Tune in as the host delivers the latest regional, national, and international news, keeping you informed with up-to-date info on all the current events you need to know!"
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "Zee24Kalak.in",
+    "channelId": "Zee24Kalak.in",
+    "channelName": "Zee 24 Kalak",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "Reels Ni Ramzat",
+    "desc": "Tune in as the host delivers the latest regional, national, and international news, keeping you informed with up-to-date info on all the current events you need to know!"
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "Zee24Kalak.in",
+    "channelId": "Zee24Kalak.in",
+    "channelName": "Zee 24 Kalak",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "Sawar Na Mota Samachar",
+    "desc": "Tune in as the host delivers the latest regional, national, and international news, keeping you informed with up-to-date info on all the current events you need to know!"
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "Zee24Kalak.in",
+    "channelId": "Zee24Kalak.in",
+    "channelName": "Zee 24 Kalak",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Fatafat Samachar",
+    "desc": "&apos;Fatafat Samachar&apos; delivers quick news updates. It provides the latest headlines in a simple and fast format, keeping you informed on the go. Get your news quickly!"
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "Zee24Kalak.in",
+    "channelId": "Zee24Kalak.in",
+    "channelName": "Zee 24 Kalak",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "Bapore 12Na Takore",
     "desc": "Tune in as the host delivers the latest regional, national, and international news, keeping you informed with up-to-date info on all the current events you need to know!"
   }
 ]

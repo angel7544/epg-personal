@@ -1,60 +1,5 @@
 [
   {
-    "start": "03:34",
-    "stop": "04:34",
-    "channel": "GoodNewsToday.in",
-    "channelId": "GoodNewsToday.in",
-    "channelName": "Good News Today",
-    "startTs": 1790825640000,
-    "stopTs": 1790829240000,
-    "title": "Shubh Samachar",
-    "desc": "The host rounds up the latest positive news updates, developments, and events from across the country, focusing on uplifting and encouraging stories."
-  },
-  {
-    "start": "04:34",
-    "stop": "05:00",
-    "channel": "GoodNewsToday.in",
-    "channelId": "GoodNewsToday.in",
-    "channelName": "Good News Today",
-    "startTs": 1790829240000,
-    "stopTs": 1790830800000,
-    "title": "Kismat Connection",
-    "desc": "Shailendra Pandey explains how birth dates determine numbers, each linked to a ruling planet that supposedly shapes a person&apos;s life in the Kismat Connection program."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:15",
-    "channel": "GoodNewsToday.in",
-    "channelId": "GoodNewsToday.in",
-    "channelName": "Good News Today",
-    "startTs": 1790830800000,
-    "stopTs": 1790831700000,
-    "title": "Achchi Baat Dhirendra Shastri Ke Saath",
-    "desc": "Join our lively host as they break down the hottest updates in politics, sports, and social and economic news, keeping you informed and entertained with every scoop!"
-  },
-  {
-    "start": "05:15",
-    "stop": "05:34",
-    "channel": "GoodNewsToday.in",
-    "channelId": "GoodNewsToday.in",
-    "channelName": "Good News Today",
-    "startTs": 1790831700000,
-    "stopTs": 1790832840000,
-    "title": "Teleshopping",
-    "desc": "A wide mix of popular, upbeat songs and tunes are played consecutively, entertaining the audience with catchy rhythms and familiar melodies throughout the show."
-  },
-  {
-    "start": "05:34",
-    "stop": "05:45",
-    "channel": "GoodNewsToday.in",
-    "channelId": "GoodNewsToday.in",
-    "channelName": "Good News Today",
-    "startTs": 1790832840000,
-    "stopTs": 1790833500000,
-    "title": "GNT Express",
-    "desc": "The host quickly presents recent and important news updates and developments of the day, keeping viewers informed with concise and timely reports."
-  },
-  {
     "start": "05:45",
     "stop": "06:04",
     "channel": "GoodNewsToday.in",
@@ -62,8 +7,8 @@
     "channelName": "Good News Today",
     "startTs": 1790833500000,
     "stopTs": 1790834640000,
-    "title": "Teleshopping",
-    "desc": "A wide mix of popular, upbeat songs and tunes are played consecutively, entertaining the audience with catchy rhythms and familiar melodies throughout the show."
+    "title": "Advt",
+    "desc": "The host presents an extensive variety of miscellaneous products that can be purchased from the warm comfort of one&apos;s home."
   },
   {
     "start": "06:04",
@@ -74,7 +19,7 @@
     "startTs": 1790834640000,
     "stopTs": 1790836440000,
     "title": "GNT Special",
-    "desc": "The host quickly presents recent and important news updates and developments of the day, delivering essential information in a fast-paced format."
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "start": "06:34",
@@ -944,5 +889,60 @@
     "stopTs": 1791002040000,
     "title": "GNT Special",
     "desc": "The host quickly presents recent and important news updates and developments of the day, delivering essential information in a fast-paced format."
+  },
+  {
+    "start": "04:34",
+    "stop": "05:00",
+    "channel": "GoodNewsToday.in",
+    "channelId": "GoodNewsToday.in",
+    "channelName": "Good News Today",
+    "startTs": 1791002040000,
+    "stopTs": 1791003600000,
+    "title": "Kismat Connection",
+    "desc": "Shailendra Pandey explains how birth dates determine numbers, each linked to a ruling planet that supposedly shapes a person&apos;s life in the Kismat Connection program."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:15",
+    "channel": "GoodNewsToday.in",
+    "channelId": "GoodNewsToday.in",
+    "channelName": "Good News Today",
+    "startTs": 1791003600000,
+    "stopTs": 1791004500000,
+    "title": "Achchi Baat Dhirendra Shastri Ke Saath",
+    "desc": "Join our lively host as they break down the hottest updates in politics, sports, and social and economic news, keeping you informed and entertained with every scoop!"
+  },
+  {
+    "start": "05:15",
+    "stop": "05:34",
+    "channel": "GoodNewsToday.in",
+    "channelId": "GoodNewsToday.in",
+    "channelName": "Good News Today",
+    "startTs": 1791004500000,
+    "stopTs": 1791005640000,
+    "title": "Teleshopping",
+    "desc": "A wide mix of popular, upbeat songs and tunes are played consecutively, entertaining the audience with catchy rhythms and familiar melodies throughout the show."
+  },
+  {
+    "start": "05:34",
+    "stop": "06:34",
+    "channel": "GoodNewsToday.in",
+    "channelId": "GoodNewsToday.in",
+    "channelName": "Good News Today",
+    "startTs": 1791005640000,
+    "stopTs": 1791009240000,
+    "title": "Fact Check",
+    "desc": "The host examines and verifies news stories circulating on social media, ensuring the accuracy of the information and separating fact from misinformation."
+  },
+  {
+    "start": "06:34",
+    "stop": "06:58",
+    "channel": "GoodNewsToday.in",
+    "channelId": "GoodNewsToday.in",
+    "channelName": "Good News Today",
+    "startTs": 1791009240000,
+    "stopTs": 1791010680000,
+    "title": "Good Luck Special",
+    "desc": "An astrologer gives predictions based on viewers&apos; birth dates, sun signs, and planetary positions, offering personalized insights into their future and astrological trends."
   }
 ]

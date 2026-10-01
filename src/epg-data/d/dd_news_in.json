@@ -1,58 +1,14 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1790825400000,
-    "stopTs": 1790829000000,
-    "title": "Janadesh-2026",
-    "desc": "The host sheds light on the latest updates and developments pertaining to elections, along with in-depth analysis and live interactions with reporters across regions nationwide."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "Creators Corner",
-    "desc": "Presents unique, informative, and inventive creations, exploring subjects such as health, culture, travel, technology, and art."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "News @10",
-    "desc": "A presenter reports the latest regional, national and international news of the day and provides updates on current events."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "DDNews.in",
-    "channelId": "DDNews.in",
-    "channelName": "DD News HD",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "News Punch",
-    "desc": "News Punch delivers fast, detailed coverage of key national and global news using advanced visuals, offering balanced, engaging reports with deep rural reach."
-  },
-  {
     "start": "05:30",
     "stop": "06:30",
     "channel": "DDNews.in",
     "channelId": "DDNews.in",
-    "channelName": "DD News HD",
+    "channelName": "DD News",
     "startTs": 1790832600000,
     "stopTs": 1790836200000,
-    "title": "Samachar",
-    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
+    "title": "11 Baje",
+    "desc": "This is News - News Bulletin Category"
   },
   {
     "start": "06:30",
@@ -779,5 +735,60 @@
     "stopTs": 1791001800000,
     "title": "Creators Corner",
     "desc": "A creative hub highlighting digital creators, innovations, and original artistic expressions."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News HD",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "News @10",
+    "desc": "A presenter reports the latest regional, national and international news of the day and provides updates on current events."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News HD",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "News Punch",
+    "desc": "News Punch delivers fast, detailed coverage of key national and global news using advanced visuals, offering balanced, engaging reports with deep rural reach."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News HD",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "Vande Bharat",
+    "desc": "This article shares the latest details about India&apos;s Vande Bharat Express, a fast electric train run by Indian Railways, with schedules, features, and recent service updates."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News HD",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Samachar",
+    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "DDNews.in",
+    "channelId": "DDNews.in",
+    "channelName": "DD News HD",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "Samachar",
+    "desc": "Hindi news bulletin covering the latest updates and developments around the country."
   }
 ]

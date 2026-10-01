@@ -1,16 +1,5 @@
 [
   {
-    "start": "03:00",
-    "stop": "04:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1790823600000,
-    "stopTs": 1790829000000,
-    "title": "Breaking Now @ 8.30",
-    "desc": "Tune into an update of the latest regional news from Kerala."
-  },
-  {
     "start": "03:30",
     "stop": "08:30",
     "channel": "JanamTV.in",
@@ -20,28 +9,6 @@
     "stopTs": 1790843400000,
     "title": "Live News",
     "desc": "The host collates and presents some of the most important news and latest updates that cater to the interests of the people, live."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1790829000000,
-    "stopTs": 1790832600000,
-    "title": "Happening Now @ 10AM - News",
-    "desc": "Take a look at the latest social, economic and political news of the day."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:30",
-    "channel": "JanamTV.in",
-    "channelId": "JanamTV.in",
-    "channelName": "JANAM TV",
-    "startTs": 1790832600000,
-    "stopTs": 1790836200000,
-    "title": "Happening Now @ 11AM - News",
-    "desc": "Take a look at the latest social, economic and political news of the day."
   },
   {
     "start": "06:30",
@@ -834,5 +801,38 @@
     "stopTs": 1791001800000,
     "title": "Senkumar Speaking",
     "desc": "The host interacts with the former Kerala police chief TP Senkumar. They talk about various terror organizations, communal riots etc."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1791001800000,
+    "stopTs": 1791005400000,
+    "title": "Happening Now @ 10AM - News",
+    "desc": "Take a look at the latest social, economic and political news of the day."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1791005400000,
+    "stopTs": 1791009000000,
+    "title": "Happening Now @ 11AM - News",
+    "desc": "Take a look at the latest social, economic and political news of the day."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:30",
+    "channel": "JanamTV.in",
+    "channelId": "JanamTV.in",
+    "channelName": "JANAM TV",
+    "startTs": 1791009000000,
+    "stopTs": 1791012600000,
+    "title": "Happening Now @ 12 Pm",
+    "desc": "Tune into the latest social, economic and political news of the day."
   }
 ]

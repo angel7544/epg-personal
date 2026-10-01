@@ -1,69 +1,25 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
+    "start": "05:30",
+    "stop": "06:00",
     "channel": "RAJNEWSTAMIL.in",
     "channelId": "RAJNEWSTAMIL.in",
     "channelName": "RAJ NEWS TAMIL",
-    "startTs": 1790825400000,
-    "stopTs": 1790827200000,
-    "title": "Commercial Slot",
-    "desc": "A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one&apos;s home."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "RajNews.in",
-    "channelId": "RajNews.in",
-    "channelName": "Raj News Tamil",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "Teleshopping",
-    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from their home."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "RajNews.in",
-    "channelId": "RajNews.in",
-    "channelName": "Raj News Tamil",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "Mukkiya Seithi 30",
-    "desc": "Get essential news updates in 30 minutes, covering key regional events."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "RajNews.in",
-    "channelId": "RajNews.in",
-    "channelName": "Raj News Tamil",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "Mukkiya Seithi 30",
-    "desc": "Get essential news updates in 30 minutes, covering key regional events."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "RajNews.in",
-    "channelId": "RajNews.in",
-    "channelName": "Raj News Tamil",
     "startTs": 1790832600000,
     "stopTs": 1790834400000,
     "title": "Pakal Seithikal",
-    "desc": "Catch up on daily news and significant updates from throughout the day."
+    "desc": "The host presents the latest political and socio-economic news, updates and developments taking place in and around the state."
   },
   {
     "start": "06:00",
     "stop": "06:30",
-    "channel": "RajNews.in",
-    "channelId": "RajNews.in",
-    "channelName": "Raj News Tamil",
+    "channel": "RAJNEWSTAMIL.in",
+    "channelId": "RAJNEWSTAMIL.in",
+    "channelName": "RAJ NEWS TAMIL",
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
     "title": "Pakal Seithikal",
-    "desc": "Catch up on daily news and significant updates from throughout the day."
+    "desc": "The host presents the latest political and socio-economic news, updates and developments taking place in and around the state."
   },
   {
     "start": "06:30",
@@ -900,5 +856,60 @@
     "stopTs": 1791001800000,
     "title": "Teleshopping",
     "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from their home."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "RajNews.in",
+    "channelId": "RajNews.in",
+    "channelName": "Raj News Tamil",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "Mukkiya Seithi 30",
+    "desc": "Get essential news updates in 30 minutes, covering key regional events."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "RajNews.in",
+    "channelId": "RajNews.in",
+    "channelName": "Raj News Tamil",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "Teleshopping",
+    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from their home."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "RajNews.in",
+    "channelId": "RajNews.in",
+    "channelName": "Raj News Tamil",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "Pakal Seithikal",
+    "desc": "Catch up on daily news and significant updates from throughout the day."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "RajNews.in",
+    "channelId": "RajNews.in",
+    "channelName": "Raj News Tamil",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Pakal Seithikal",
+    "desc": "Catch up on daily news and significant updates from throughout the day."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "RajNews.in",
+    "channelId": "RajNews.in",
+    "channelName": "Raj News Tamil",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "Viruviru Seithikal",
+    "desc": "Receive ongoing updates on key news stories and important developments."
   }
 ]

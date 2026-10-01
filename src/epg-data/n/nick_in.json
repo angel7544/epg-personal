@@ -1,27 +1,5 @@
 [
   {
-    "start": "01:45",
-    "stop": "04:30",
-    "channel": "Nickelodeon.in",
-    "channelId": "Nickelodeon.in",
-    "channelName": "Nick",
-    "startTs": 1790819100000,
-    "stopTs": 1790829000000,
-    "title": "Motu Patlu",
-    "desc": "Motu and Patlu are best friends and live in Furfuri Nagar. Patlu helps them get out of the various comical situations they end up in."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "NickHDPlus.in",
-    "channelId": "NickHDPlus.in",
-    "channelName": "NICK HD+",
-    "startTs": 1790825400000,
-    "stopTs": 1790829000000,
-    "title": "Motu Patlu",
-    "desc": "Motu and Patlu are best friends and live in Furfuri Nagar. Patlu helps them get out of the various comical situations they end up in."
-  },
-  {
     "start": "04:30",
     "stop": "06:30",
     "channel": "Nickelodeon.in",
@@ -30,7 +8,7 @@
     "startTs": 1790829000000,
     "stopTs": 1790836200000,
     "title": "Chikoo Aur Bunty",
-    "desc": "Catch the daily sibling banter and constant rivalry between 11yr old Chikoo and his 10yr old brother Bunty, as they both try to compete for their parent&apos;s affection, goodies, the TV remote and more!"
+    "desc": "Two mischievous brothers lock horns in hilarious daily adventures as they compete for attention, turning ordinary family life into a battleground of clever tricks and chaos."
   },
   {
     "start": "06:30",
@@ -504,5 +482,49 @@
     "stopTs": 1791001800000,
     "title": "Bittu Ke Ulte Pulte Bahane",
     "desc": "Focusing on the creative, highly relatable excuses crafted by young Bittu, this comedy shows his funny attempts to dodge tricky daily situations with family, friends, and teachers."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "Nickelodeon.in",
+    "channelId": "Nickelodeon.in",
+    "channelName": "Nick",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "Chikoo Aur Bunty",
+    "desc": "Catch the daily sibling banter and constant rivalry between 11yr old Chikoo and his 10yr old brother Bunty, as they both try to compete for their parent&apos;s affection, goodies, the TV remote and more!"
+  },
+  {
+    "start": "05:00",
+    "stop": "06:00",
+    "channel": "Nickelodeon.in",
+    "channelId": "Nickelodeon.in",
+    "channelName": "Nick",
+    "startTs": 1791003600000,
+    "stopTs": 1791007200000,
+    "title": "Chikoo Aur Bunty School Wapsi Ka Drama",
+    "desc": "Brothers Chikoo and Bunty engage in continuous sibling rivalry and chaotic banter, always trying to avoid getting caught in trouble by their watchful parents and school teachers."
+  },
+  {
+    "start": "06:00",
+    "stop": "07:30",
+    "channel": "Nickelodeon.in",
+    "channelId": "Nickelodeon.in",
+    "channelName": "Nick",
+    "startTs": 1791007200000,
+    "stopTs": 1791012600000,
+    "title": "Chikoo Aur Bunty",
+    "desc": "Catch the daily sibling banter and constant rivalry between 11yr old Chikoo and his 10yr old brother Bunty, as they both try to compete for their parent&apos;s affection, goodies, the TV remote and more!"
+  },
+  {
+    "start": "06:30",
+    "stop": "07:30",
+    "channel": "NickHDPlus.in",
+    "channelId": "NickHDPlus.in",
+    "channelName": "NICK HD+",
+    "startTs": 1791009000000,
+    "stopTs": 1791012600000,
+    "title": "Bittu Bahanebaaz",
+    "desc": "Clever young Bittu invents wild, hilarious excuses to avoid schoolwork, chores, and daily responsibilities, causing non-stop laughter and crazy situations for his patient parents and teachers."
   }
 ]

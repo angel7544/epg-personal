@@ -1,36 +1,14 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "CNNNews18.in",
-    "channelId": "CNNNews18.in",
-    "channelName": "CNN News18",
-    "startTs": 1790825400000,
-    "stopTs": 1790829000000,
-    "title": "The Morning News",
-    "desc": "Latest updates from sports, technology, stock market, entertainment and politics."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "CNNNews18.in",
-    "channelId": "CNNNews18.in",
-    "channelName": "CNN News18",
-    "startTs": 1790829000000,
-    "stopTs": 1790832600000,
-    "title": "Breaking On News18",
-    "desc": "The host presents the latest news in politics, social issues, economy and sports."
-  },
-  {
     "start": "05:30",
     "stop": "06:30",
     "channel": "CNNNews18.in",
     "channelId": "CNNNews18.in",
-    "channelName": "CNN News18",
+    "channelName": "CNN-News18",
     "startTs": 1790832600000,
     "stopTs": 1790836200000,
     "title": "Breaking On News18",
-    "desc": "The host presents the latest news in politics, social issues, economy and sports."
+    "desc": "The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world."
   },
   {
     "start": "06:30",
@@ -702,5 +680,60 @@
     "stopTs": 1791001800000,
     "title": "The Morning News",
     "desc": "Latest updates from sports, technology, stock market, entertainment and politics."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "CNNNews18.in",
+    "channelId": "CNNNews18.in",
+    "channelName": "CNN News18",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "Breaking On News18",
+    "desc": "The host presents the latest news in politics, social issues, economy and sports."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "CNNNews18.in",
+    "channelId": "CNNNews18.in",
+    "channelName": "CNN News18",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "The Right Perspective",
+    "desc": "The host gives an unbiased perspective on various issues that are plaguing India"
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "CNNNews18.in",
+    "channelId": "CNNNews18.in",
+    "channelName": "CNN News18",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "Breaking On News18",
+    "desc": "The host presents the latest news in politics, social issues, economy and sports."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "CNNNews18.in",
+    "channelId": "CNNNews18.in",
+    "channelName": "CNN News18",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "World 360",
+    "desc": "This is a weekly roundup of all the int&apos;l news, hosted by CNN&apos;s Ram Ramgopal."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "CNNNews18.in",
+    "channelId": "CNNNews18.in",
+    "channelName": "CNN News18",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "Breaking On News18",
+    "desc": "The host presents the latest news in politics, social issues, economy and sports."
   }
 ]

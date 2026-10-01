@@ -1,49 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "Zee24Taas.in",
-    "channelId": "Zee24Taas.in",
-    "channelName": "Zee 24 Taas",
-    "startTs": 1790825400000,
-    "stopTs": 1790827200000,
-    "title": "Aaj Kay Vishesh",
-    "desc": "The host provides an insight into some of the latest news, current affairs and important developments of the day on various topics of public interest."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "Zee24Taas.in",
-    "channelId": "Zee24Taas.in",
-    "channelName": "Zee 24 Taas",
-    "startTs": 1790827200000,
-    "stopTs": 1790829000000,
-    "title": "Top 50 News",
-    "desc": "Check out this awesome collection showcasing Gujarati devotional songs performed by talented musicians. It&apos;s a delightful mix that captures the spirit and beauty of these heartfelt melodies."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "Zee24Taas.in",
-    "channelId": "Zee24Taas.in",
-    "channelName": "Zee 24 Taas",
-    "startTs": 1790829000000,
-    "stopTs": 1790830800000,
-    "title": "Morning News",
-    "desc": "The host presents a summary of the latest social, economic and political news updates and developments from the nation and around the world."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "Zee24Taas.in",
-    "channelId": "Zee24Taas.in",
-    "channelName": "Zee 24 Taas",
-    "startTs": 1790830800000,
-    "stopTs": 1790832600000,
-    "title": "Top 50",
-    "desc": "Join the host as they share the latest buzz on global social, political, and economic happenings, keeping you informed and in the loop with all the key updates!"
-  },
-  {
     "start": "05:30",
     "stop": "06:00",
     "channel": "Zee24Taas.in",
@@ -52,7 +8,7 @@
     "startTs": 1790832600000,
     "stopTs": 1790834400000,
     "title": "Zatpat",
-    "desc": "The host presents a round-up of the latest social, political and economic news updates and developments from across the state."
+    "desc": "The host presents the latest news stories about political, economic, social and cultural topics from all around the region in quick succession."
   },
   {
     "start": "06:00",
@@ -63,7 +19,7 @@
     "startTs": 1790834400000,
     "stopTs": 1790836200000,
     "title": "Top 50",
-    "desc": "Join the host as they share the latest buzz on global social, political, and economic happenings, keeping you informed and in the loop with all the key updates!"
+    "desc": "The host delivers the top 50 news stories and recent developments on significant matters such as governance, economics, and socio-political issues, covering the state and other parts of the country."
   },
   {
     "start": "06:30",
@@ -1076,5 +1032,60 @@
     "stopTs": 1791001800000,
     "title": "Top 50 News",
     "desc": "Check out this awesome collection showcasing Gujarati devotional songs performed by talented musicians. It&apos;s a delightful mix that captures the spirit and beauty of these heartfelt melodies."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "Zee24Taas.in",
+    "channelId": "Zee24Taas.in",
+    "channelName": "Zee 24 Taas",
+    "startTs": 1791001800000,
+    "stopTs": 1791003600000,
+    "title": "Morning News",
+    "desc": "The host presents a summary of the latest social, economic and political news updates and developments from the nation and around the world."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "Zee24Taas.in",
+    "channelId": "Zee24Taas.in",
+    "channelName": "Zee 24 Taas",
+    "startTs": 1791003600000,
+    "stopTs": 1791005400000,
+    "title": "Top 50",
+    "desc": "Join the host as they share the latest buzz on global social, political, and economic happenings, keeping you informed and in the loop with all the key updates!"
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "Zee24Taas.in",
+    "channelId": "Zee24Taas.in",
+    "channelName": "Zee 24 Taas",
+    "startTs": 1791005400000,
+    "stopTs": 1791007200000,
+    "title": "Zatpat",
+    "desc": "The host presents a round-up of the latest social, political and economic news updates and developments from across the state."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "Zee24Taas.in",
+    "channelId": "Zee24Taas.in",
+    "channelName": "Zee 24 Taas",
+    "startTs": 1791007200000,
+    "stopTs": 1791009000000,
+    "title": "Top 50",
+    "desc": "Join the host as they share the latest buzz on global social, political, and economic happenings, keeping you informed and in the loop with all the key updates!"
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "Zee24Taas.in",
+    "channelId": "Zee24Taas.in",
+    "channelName": "Zee 24 Taas",
+    "startTs": 1791009000000,
+    "stopTs": 1791010800000,
+    "title": "Maharashtra Super Fast",
+    "desc": "The host presents the latest updates and developments pertaining to politics, economy and society in the state of Maharashtra."
   }
 ]
