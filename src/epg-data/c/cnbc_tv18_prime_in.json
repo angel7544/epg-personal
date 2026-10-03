@@ -1,366 +1,14 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790911800000,
-    "stopTs": 1790915400000,
-    "title": "Bazaar Open Exchange",
-    "desc": "Top market experts and CEOs analyse the market scenario and discuss the stocks of the companies."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790915400000,
-    "stopTs": 1790917200000,
-    "title": "Bazaar Corporate Radar",
-    "desc": "Tune in to Mitali Mukherjee&apos;s show for insights from top CEOs, economists, and analysts."
-  },
-  {
-    "start": "05:00",
-    "stop": "06:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790917200000,
-    "stopTs": 1790920800000,
-    "title": "Europe Early Edition",
-    "desc": "Covers early financial news and European market activity. The show sets the tone for investors by reporting morning updates from across the Eurozone."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790920800000,
-    "stopTs": 1790922600000,
-    "title": "Squawk Box Europe",
-    "desc": "CNBC&apos;s show provides three hours of lively, unscripted market debate. It prepares viewers for the start of the European trading day with dynamic financial insights."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790922600000,
-    "stopTs": 1790924400000,
-    "title": "The Global Reset",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790924400000,
-    "stopTs": 1790926200000,
-    "title": "Squawk Box Europe",
-    "desc": "CNBC&apos;s show provides three hours of lively, unscripted market debate. It prepares viewers for the start of the European trading day with dynamic financial insights."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790926200000,
-    "stopTs": 1790928000000,
-    "title": "The Big C India",
-    "desc": "Special segment focusing on the biggest financial and business stories in India. Covers major deals, market movers, and economic trends that matter most."
-  },
-  {
-    "start": "08:00",
-    "stop": "09:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790928000000,
-    "stopTs": 1790931600000,
-    "title": "Squawk Box Europe",
-    "desc": "CNBC&apos;s show provides three hours of lively, unscripted market debate. It prepares viewers for the start of the European trading day with dynamic financial insights."
-  },
-  {
-    "start": "09:00",
-    "stop": "10:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790931600000,
-    "stopTs": 1790935200000,
-    "title": "NSE Closing Bell",
-    "desc": "The show that kicks off when markets shut shop - discover the real reasons for the day&apos;s developments."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790935200000,
-    "stopTs": 1790937000000,
-    "title": "Markets Forward",
-    "desc": "Looks ahead to market strategies, forecasts, and sector-specific updates. Offers insights on how the day may end and what could shape tomorrow&apos;s trading."
-  },
-  {
-    "start": "10:30",
-    "stop": "13:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790937000000,
-    "stopTs": 1790946000000,
-    "title": "US Squawk Box",
-    "desc": "Start your day with &apos;Squawk Box,&apos; where big names share their top business and political stories."
-  },
-  {
-    "start": "13:00",
-    "stop": "15:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790946000000,
-    "stopTs": 1790953200000,
-    "title": "Squawk On The Street",
-    "desc": "Get real-time updates from major markets worldwide, live from the New York Stock Exchange."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790953200000,
-    "stopTs": 1790955000000,
-    "title": "Global Lens",
-    "desc": "The presenter provides information on the top news headlines from across the globe."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790955000000,
-    "stopTs": 1790956800000,
-    "title": "Money Movers",
-    "desc": "It offers real-time analysis of market movers and features interviews with key figures driving financial movements."
-  },
-  {
-    "start": "16:00",
-    "stop": "17:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790956800000,
-    "stopTs": 1790960400000,
-    "title": "Half Time Report",
-    "desc": "Midday recap of market movements, trading actions, and investor trends. The program helps viewers reassess their positions and plan for the second half of the day."
-  },
-  {
-    "start": "17:00",
-    "stop": "18:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790960400000,
-    "stopTs": 1790964000000,
-    "title": "The Exchange",
-    "desc": "In the 1980s, in Kuwait, two women aimed to disrupt the corrupt boys club in the stock market."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790964000000,
-    "stopTs": 1790965800000,
-    "title": "Power Lunch",
-    "desc": "Brings the viewer corporate updates and minute by minute market moves, all rolled into 90 minutes of prime time show."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790965800000,
-    "stopTs": 1790967600000,
-    "title": "Power Lunch",
-    "desc": "Brings the viewer corporate updates and minute by minute market moves, all rolled into 90 minutes of prime time show."
-  },
-  {
-    "start": "19:00",
-    "stop": "20:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790967600000,
-    "stopTs": 1790971200000,
-    "title": "Closing Bell",
-    "desc": "Join us after market close for a look at today&apos;s moves and tomorrow&apos;s prospects."
-  },
-  {
-    "start": "20:00",
-    "stop": "21:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790971200000,
-    "stopTs": 1790974800000,
-    "title": "Closing Bell: Overtime",
-    "desc": "Stay tuned for &apos;Closing Bell: Overtime,&apos; covering after-hours trading, news, and corporate earnings."
-  },
-  {
-    "start": "21:00",
-    "stop": "22:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790974800000,
-    "stopTs": 1790978400000,
-    "title": "Fast Money",
-    "desc": "&apos;Fast Money&apos; traders share insider knowledge to help you make profitable decisions."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790978400000,
-    "stopTs": 1790980200000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790980200000,
-    "stopTs": 1790982000000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790982000000,
-    "stopTs": 1790983800000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790983800000,
-    "stopTs": 1790985600000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790985600000,
-    "stopTs": 1790987400000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790987400000,
-    "stopTs": 1790989200000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790989200000,
-    "stopTs": 1790991000000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790991000000,
-    "stopTs": 1790992800000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790992800000,
-    "stopTs": 1790994600000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790994600000,
-    "stopTs": 1790996400000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
-  },
-  {
     "start": "03:00",
-    "stop": "03:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790996400000,
-    "stopTs": 1790998200000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
-  },
-  {
-    "start": "03:30",
     "stop": "04:00",
     "channel": "CNBCTV18PrimeHD.in",
     "channelId": "CNBCTV18PrimeHD.in",
     "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1790998200000,
+    "startTs": 1790996400000,
     "stopTs": 1791000000000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "American Greed",
+    "desc": "When unemployment strikes, Stephen Trantel shifts from broker to bank robber to support his family."
   },
   {
     "start": "04:00",
@@ -370,8 +18,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791000000000,
     "stopTs": 1791001800000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Let&apos;s Talk Money",
+    "desc": "Leading financial experts join the host to share actionable insights, breakdown smart money management strategies, and navigate lucrative investment and real estate opportunities."
   },
   {
     "start": "04:30",
@@ -381,8 +29,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791001800000,
     "stopTs": 1791003600000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Global Dialogues",
+    "desc": "The world&apos;s finest minds on a conclave of ideas on dealing with Covid-19"
   },
   {
     "start": "05:00",
@@ -392,8 +40,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791003600000,
     "stopTs": 1791005400000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Market Forum",
+    "desc": "Market Forum"
   },
   {
     "start": "05:30",
@@ -403,8 +51,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791005400000,
     "stopTs": 1791007200000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Cnbc-tv18 Future, Female, Forward",
+    "desc": "The host presents an update on the contribution of various women from different fields."
   },
   {
     "start": "06:00",
@@ -414,8 +62,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791007200000,
     "stopTs": 1791009000000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Market Forum",
+    "desc": "Market Forum"
   },
   {
     "start": "06:30",
@@ -425,8 +73,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791009000000,
     "stopTs": 1791010800000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Global Dialogues",
+    "desc": "The world&apos;s finest minds on a conclave of ideas on dealing with Covid-19"
   },
   {
     "start": "07:00",
@@ -436,8 +84,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791010800000,
     "stopTs": 1791012600000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Editors&apos; Playbook",
+    "desc": "Experts share insights on key market trends to understand what&apos;s driving the economy."
   },
   {
     "start": "07:30",
@@ -447,8 +95,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791012600000,
     "stopTs": 1791014400000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Medicine Box",
+    "desc": "Healthy Living Campaign - Promoting wellness through lifestyle choices."
   },
   {
     "start": "08:00",
@@ -458,8 +106,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791014400000,
     "stopTs": 1791016200000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Global Dialogues",
+    "desc": "The world&apos;s finest minds on a conclave of ideas on dealing with Covid-19"
   },
   {
     "start": "08:30",
@@ -469,8 +117,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791016200000,
     "stopTs": 1791018000000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Cnbc-tv18 Future, Female, Forward",
+    "desc": "The host presents an update on the contribution of various women from different fields."
   },
   {
     "start": "09:00",
@@ -480,8 +128,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791018000000,
     "stopTs": 1791019800000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "Global Dialogues",
+    "desc": "The world&apos;s finest minds on a conclave of ideas on dealing with Covid-19"
   },
   {
     "start": "09:30",
@@ -491,8 +139,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791019800000,
     "stopTs": 1791021600000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "Editors&apos; Playbook",
+    "desc": "Experts share insights on key market trends to understand what&apos;s driving the economy."
   },
   {
     "start": "10:00",
@@ -502,8 +150,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791021600000,
     "stopTs": 1791023400000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "Managing Middle East",
+    "desc": "Managing Middle East"
   },
   {
     "start": "10:30",
@@ -513,8 +161,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791023400000,
     "stopTs": 1791025200000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "On Assignment",
+    "desc": "Reports from the field, offering detailed coverage and insights into important events, issues and developments through on-location reporting, interviews and expert perspectives."
   },
   {
     "start": "11:00",
@@ -524,8 +172,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791025200000,
     "stopTs": 1791027000000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "Exec. Decisions",
+    "desc": "The host explores the minds of policymakers and the decisions that define their legacies."
   },
   {
     "start": "11:30",
@@ -535,8 +183,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791027000000,
     "stopTs": 1791028800000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "The Score",
+    "desc": "Explore NBA&apos;s expansion in Asia, from courts to boardrooms, with unprecedented access."
   },
   {
     "start": "12:00",
@@ -546,8 +194,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791028800000,
     "stopTs": 1791030600000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Global Dialogues",
+    "desc": "The world&apos;s finest minds on a conclave of ideas on dealing with Covid-19"
   },
   {
     "start": "12:30",
@@ -557,8 +205,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791030600000,
     "stopTs": 1791032400000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Market Forum",
+    "desc": "Market Forum"
   },
   {
     "start": "13:00",
@@ -568,8 +216,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791032400000,
     "stopTs": 1791034200000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Global Dialogues",
+    "desc": "The world&apos;s finest minds on a conclave of ideas on dealing with Covid-19"
   },
   {
     "start": "13:30",
@@ -579,8 +227,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791034200000,
     "stopTs": 1791036000000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Cnbc-tv18 Future, Female, Forward",
+    "desc": "The host presents an update on the contribution of various women from different fields."
   },
   {
     "start": "14:00",
@@ -590,8 +238,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791036000000,
     "stopTs": 1791037800000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Managing Middle East",
+    "desc": "Managing Middle East"
   },
   {
     "start": "14:30",
@@ -601,30 +249,19 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791037800000,
     "stopTs": 1791039600000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "On Assignment",
+    "desc": "Reports from the field, offering detailed coverage and insights into important events, issues and developments through on-location reporting, interviews and expert perspectives."
   },
   {
     "start": "15:00",
-    "stop": "15:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1791039600000,
-    "stopTs": 1791041400000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
-  },
-  {
-    "start": "15:30",
     "stop": "16:00",
     "channel": "CNBCTV18PrimeHD.in",
     "channelId": "CNBCTV18PrimeHD.in",
     "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1791041400000,
+    "startTs": 1791039600000,
     "stopTs": 1791043200000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "American Greed",
+    "desc": "When unemployment strikes, Stephen Trantel shifts from broker to bank robber to support his family."
   },
   {
     "start": "16:00",
@@ -634,8 +271,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791043200000,
     "stopTs": 1791045000000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Global Dialogues",
+    "desc": "The world&apos;s finest minds on a conclave of ideas on dealing with Covid-19"
   },
   {
     "start": "16:30",
@@ -645,8 +282,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791045000000,
     "stopTs": 1791046800000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Market Forum",
+    "desc": "Market Forum"
   },
   {
     "start": "17:00",
@@ -656,8 +293,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791046800000,
     "stopTs": 1791048600000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Medicine Box",
+    "desc": "Healthy Living Campaign - Promoting wellness through lifestyle choices."
   },
   {
     "start": "17:30",
@@ -667,19 +304,30 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791048600000,
     "stopTs": 1791050400000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Let&apos;s Talk Money",
+    "desc": "Leading financial experts join the host to share actionable insights, breakdown smart money management strategies, and navigate lucrative investment and real estate opportunities."
   },
   {
     "start": "18:00",
-    "stop": "19:00",
+    "stop": "18:30",
     "channel": "CNBCTV18PrimeHD.in",
     "channelId": "CNBCTV18PrimeHD.in",
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791050400000,
+    "stopTs": 1791052200000,
+    "title": "Exec. Decisions",
+    "desc": "The host explores the minds of policymakers and the decisions that define their legacies."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791052200000,
     "stopTs": 1791054000000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "The Score",
+    "desc": "Explore NBA&apos;s expansion in Asia, from courts to boardrooms, with unprecedented access."
   },
   {
     "start": "19:00",
@@ -689,8 +337,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791054000000,
     "stopTs": 1791055800000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "The Tech Download",
+    "desc": "An analytical take on the tech sector exploring breakthrough innovations across markets."
   },
   {
     "start": "19:30",
@@ -700,8 +348,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791055800000,
     "stopTs": 1791057600000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "CNBC Meets",
+    "desc": "William is a multifaceted artist known for his musical success, entrepreneurial ventures, and philanthropy."
   },
   {
     "start": "20:00",
@@ -711,8 +359,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791057600000,
     "stopTs": 1791059400000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "Managing Asia",
+    "desc": "Managing Asia is a highly distinguished business program that features views of top business leaders."
   },
   {
     "start": "20:30",
@@ -722,30 +370,19 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791059400000,
     "stopTs": 1791061200000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "The Score",
+    "desc": "Explore NBA&apos;s expansion in Asia, from courts to boardrooms, with unprecedented access."
   },
   {
     "start": "21:00",
-    "stop": "21:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1791061200000,
-    "stopTs": 1791063000000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
-  },
-  {
-    "start": "21:30",
     "stop": "22:00",
     "channel": "CNBCTV18PrimeHD.in",
     "channelId": "CNBCTV18PrimeHD.in",
     "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1791063000000,
+    "startTs": 1791061200000,
     "stopTs": 1791064800000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "American Greed",
+    "desc": "When unemployment strikes, Stephen Trantel shifts from broker to bank robber to support his family."
   },
   {
     "start": "22:00",
@@ -755,8 +392,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791064800000,
     "stopTs": 1791066600000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "Managing Middle East",
+    "desc": "Managing Middle East"
   },
   {
     "start": "22:30",
@@ -766,8 +403,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791066600000,
     "stopTs": 1791068400000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "On Assignment",
+    "desc": "Reports from the field, offering detailed coverage and insights into important events, issues and developments through on-location reporting, interviews and expert perspectives."
   },
   {
     "start": "23:00",
@@ -777,8 +414,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791068400000,
     "stopTs": 1791070200000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "Exec. Decisions",
+    "desc": "The host explores the minds of policymakers and the decisions that define their legacies."
   },
   {
     "start": "23:30",
@@ -788,30 +425,19 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791070200000,
     "stopTs": 1791072000000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "The Score",
+    "desc": "Explore NBA&apos;s expansion in Asia, from courts to boardrooms, with unprecedented access."
   },
   {
     "start": "00:00",
-    "stop": "00:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1791072000000,
-    "stopTs": 1791073800000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
-  },
-  {
-    "start": "00:30",
     "stop": "01:00",
     "channel": "CNBCTV18PrimeHD.in",
     "channelId": "CNBCTV18PrimeHD.in",
     "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1791073800000,
+    "startTs": 1791072000000,
     "stopTs": 1791075600000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "American Greed",
+    "desc": "When unemployment strikes, Stephen Trantel shifts from broker to bank robber to support his family."
   },
   {
     "start": "01:00",
@@ -821,8 +447,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791075600000,
     "stopTs": 1791077400000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "Managing Middle East",
+    "desc": "Managing Middle East"
   },
   {
     "start": "01:30",
@@ -832,8 +458,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791077400000,
     "stopTs": 1791079200000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "On Assignment",
+    "desc": "Reports from the field, offering detailed coverage and insights into important events, issues and developments through on-location reporting, interviews and expert perspectives."
   },
   {
     "start": "02:00",
@@ -843,8 +469,8 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791079200000,
     "stopTs": 1791081000000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "Exec. Decisions",
+    "desc": "The host explores the minds of policymakers and the decisions that define their legacies."
   },
   {
     "start": "02:30",
@@ -854,30 +480,19 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791081000000,
     "stopTs": 1791082800000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "The Score",
+    "desc": "Explore NBA&apos;s expansion in Asia, from courts to boardrooms, with unprecedented access."
   },
   {
     "start": "03:00",
-    "stop": "03:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1791082800000,
-    "stopTs": 1791084600000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
-  },
-  {
-    "start": "03:30",
     "stop": "04:00",
     "channel": "CNBCTV18PrimeHD.in",
     "channelId": "CNBCTV18PrimeHD.in",
     "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1791084600000,
+    "startTs": 1791082800000,
     "stopTs": 1791086400000,
-    "title": "CNBC Special",
-    "desc": "Join Entrepreneur Percy Tucker as he shares how frustration led to founding Computicket."
+    "title": "American Greed",
+    "desc": "When unemployment strikes, Stephen Trantel shifts from broker to bank robber to support his family."
   },
   {
     "start": "04:00",
@@ -887,7 +502,425 @@
     "channelName": "CNBC TV18 PRIME HD",
     "startTs": 1791086400000,
     "stopTs": 1791088200000,
-    "title": "Cnbc-Tv18 Editorial",
-    "desc": "CNBC presents some top news based on stocks, investments, the economy, and politics."
+    "title": "Editors&apos; Playbook",
+    "desc": "Experts share insights on key market trends to understand what&apos;s driving the economy."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791088200000,
+    "stopTs": 1791090000000,
+    "title": "Let&apos;s Talk Money",
+    "desc": "Leading financial experts join the host to share actionable insights, breakdown smart money management strategies, and navigate lucrative investment and real estate opportunities."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791090000000,
+    "stopTs": 1791091800000,
+    "title": "Global Dialogues",
+    "desc": "The world&apos;s finest minds on a conclave of ideas on dealing with Covid-19"
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791091800000,
+    "stopTs": 1791093600000,
+    "title": "Market Forum",
+    "desc": "Market Forum"
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791093600000,
+    "stopTs": 1791095400000,
+    "title": "Medicine Box",
+    "desc": "Healthy Living Campaign - Promoting wellness through lifestyle choices."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791095400000,
+    "stopTs": 1791097200000,
+    "title": "Cnbc-tv18 Future, Female, Forward",
+    "desc": "The host presents an update on the contribution of various women from different fields."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791097200000,
+    "stopTs": 1791099000000,
+    "title": "Market Forum",
+    "desc": "Market Forum"
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791099000000,
+    "stopTs": 1791100800000,
+    "title": "Global Dialogues",
+    "desc": "The world&apos;s finest minds on a conclave of ideas on dealing with Covid-19"
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791100800000,
+    "stopTs": 1791102600000,
+    "title": "Cnbc-tv18 Future, Female, Forward",
+    "desc": "The host presents an update on the contribution of various women from different fields."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791102600000,
+    "stopTs": 1791104400000,
+    "title": "Editors&apos; Playbook",
+    "desc": "Experts share insights on key market trends to understand what&apos;s driving the economy."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791104400000,
+    "stopTs": 1791106200000,
+    "title": "Global Dialogues",
+    "desc": "The world&apos;s finest minds on a conclave of ideas on dealing with Covid-19"
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791106200000,
+    "stopTs": 1791108000000,
+    "title": "Let&apos;s Talk Money",
+    "desc": "Leading financial experts join the host to share actionable insights, breakdown smart money management strategies, and navigate lucrative investment and real estate opportunities."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791108000000,
+    "stopTs": 1791109800000,
+    "title": "Exec. Decisions",
+    "desc": "The host explores the minds of policymakers and the decisions that define their legacies."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791109800000,
+    "stopTs": 1791111600000,
+    "title": "The Score",
+    "desc": "Explore NBA&apos;s expansion in Asia, from courts to boardrooms, with unprecedented access."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791111600000,
+    "stopTs": 1791113400000,
+    "title": "Managing Middle East",
+    "desc": "Managing Middle East"
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791113400000,
+    "stopTs": 1791115200000,
+    "title": "On Assignment",
+    "desc": "Reports from the field, offering detailed coverage and insights into important events, issues and developments through on-location reporting, interviews and expert perspectives."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791115200000,
+    "stopTs": 1791117000000,
+    "title": "Editors&apos; Playbook",
+    "desc": "Experts share insights on key market trends to understand what&apos;s driving the economy."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791117000000,
+    "stopTs": 1791118800000,
+    "title": "Global Dialogues",
+    "desc": "The world&apos;s finest minds on a conclave of ideas on dealing with Covid-19"
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791118800000,
+    "stopTs": 1791120600000,
+    "title": "Medicine Box",
+    "desc": "Healthy Living Campaign - Promoting wellness through lifestyle choices."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791120600000,
+    "stopTs": 1791122400000,
+    "title": "Global Dialogues",
+    "desc": "The world&apos;s finest minds on a conclave of ideas on dealing with Covid-19"
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791122400000,
+    "stopTs": 1791124200000,
+    "title": "Exec. Decisions",
+    "desc": "The host explores the minds of policymakers and the decisions that define their legacies."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791124200000,
+    "stopTs": 1791126000000,
+    "title": "The Score",
+    "desc": "Explore NBA&apos;s expansion in Asia, from courts to boardrooms, with unprecedented access."
+  },
+  {
+    "start": "15:00",
+    "stop": "16:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791126000000,
+    "stopTs": 1791129600000,
+    "title": "American Greed",
+    "desc": "When unemployment strikes, Stephen Trantel shifts from broker to bank robber to support his family."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791129600000,
+    "stopTs": 1791131400000,
+    "title": "Cnbc-tv18 Future, Female, Forward",
+    "desc": "The host presents an update on the contribution of various women from different fields."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791131400000,
+    "stopTs": 1791133200000,
+    "title": "Editors&apos; Playbook",
+    "desc": "Experts share insights on key market trends to understand what&apos;s driving the economy."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791133200000,
+    "stopTs": 1791135000000,
+    "title": "Market Forum",
+    "desc": "Market Forum"
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791135000000,
+    "stopTs": 1791136800000,
+    "title": "Medicine Box",
+    "desc": "Healthy Living Campaign - Promoting wellness through lifestyle choices."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791136800000,
+    "stopTs": 1791138600000,
+    "title": "Managing Middle East",
+    "desc": "Managing Middle East"
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791138600000,
+    "stopTs": 1791140400000,
+    "title": "On Assignment",
+    "desc": "Reports from the field, offering detailed coverage and insights into important events, issues and developments through on-location reporting, interviews and expert perspectives."
+  },
+  {
+    "start": "19:00",
+    "stop": "20:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791140400000,
+    "stopTs": 1791144000000,
+    "title": "American Greed",
+    "desc": "When unemployment strikes, Stephen Trantel shifts from broker to bank robber to support his family."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791144000000,
+    "stopTs": 1791145800000,
+    "title": "Managing Middle East",
+    "desc": "Managing Middle East"
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791145800000,
+    "stopTs": 1791147600000,
+    "title": "On Assignment",
+    "desc": "Reports from the field, offering detailed coverage and insights into important events, issues and developments through on-location reporting, interviews and expert perspectives."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791147600000,
+    "stopTs": 1791149400000,
+    "title": "Exec. Decisions",
+    "desc": "The host explores the minds of policymakers and the decisions that define their legacies."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791149400000,
+    "stopTs": 1791151200000,
+    "title": "The Score",
+    "desc": "Explore NBA&apos;s expansion in Asia, from courts to boardrooms, with unprecedented access."
+  },
+  {
+    "start": "22:00",
+    "stop": "23:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791151200000,
+    "stopTs": 1791154800000,
+    "title": "American Greed",
+    "desc": "When unemployment strikes, Stephen Trantel shifts from broker to bank robber to support his family."
+  },
+  {
+    "start": "23:00",
+    "stop": "02:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791154800000,
+    "stopTs": 1791165600000,
+    "title": "Squawk Box Asia",
+    "desc": "Asia&apos;s essential business program providing real-time market updates, global economic analysis, and expert perspectives shaping decisions for investors, leaders, and businesses."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791165600000,
+    "stopTs": 1791167400000,
+    "title": "Global Lens",
+    "desc": "The presenter provides information on the top news headlines from across the globe."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791167400000,
+    "stopTs": 1791171000000,
+    "title": "Bazaar Morning Call",
+    "desc": "Catch Bazaar, India&apos;s award-winning market show, setting the tone for millions of investors daily."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1791171000000,
+    "stopTs": 1791174600000,
+    "title": "Bazaar Open Exchange",
+    "desc": "Top market experts and CEOs analyse the market scenario and discuss the stocks of the companies."
   }
 ]

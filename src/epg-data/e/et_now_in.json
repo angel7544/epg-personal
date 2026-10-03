@@ -1,465 +1,14 @@
 [
   {
-    "start": "03:30",
-    "stop": "05:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790911800000,
-    "stopTs": 1790917200000,
-    "title": "First Trades",
-    "desc": "A show that discusses stocks that have been highly volatile in trading while the stock markets open."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790917200000,
-    "stopTs": 1790919000000,
-    "title": "Midcap Masala",
-    "desc": "Explores India&apos;s midcap stocks with expert analysis, top picks, and market trends, guiding investors toward high-growth opportunities."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790919000000,
-    "stopTs": 1790922600000,
-    "title": "Buy Now Sell Now",
-    "desc": "A stock market show where an expert answers queries of small investors whether to hold or sell a certain stock."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790922600000,
-    "stopTs": 1790924400000,
-    "title": "Markets @ Noon",
-    "desc": "The host shares clear, up-to-date news from politics, society, economy, and sports, covering major events at home and worldwide in an easy-to-understand way for everyone."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790924400000,
-    "stopTs": 1790926200000,
-    "title": "All About Your Company",
-    "desc": "Market-focused shows explore investment opportunities, corporate news, and financial strategies."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790926200000,
-    "stopTs": 1790928000000,
-    "title": "Markets @ Lunch",
-    "desc": "A show that discusses stocks that have been highly volatile in the afternoon trades."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790928000000,
-    "stopTs": 1790929800000,
-    "title": "Market Fatafat",
-    "desc": "The host presents the latest news, updates from the stock market in a quick succession."
-  },
-  {
-    "start": "08:30",
-    "stop": "10:15",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790929800000,
-    "stopTs": 1790936100000,
-    "title": "Closing Trades",
-    "desc": "A show that discusses stocks that have been highly volatile in trading while counting down to market closing."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790935200000,
-    "stopTs": 1790937000000,
-    "title": "The Interview",
-    "desc": "Interviewer Ayesha Faridi engages in an insightful conversation with guests, who share their professional journey and experiences."
-  },
-  {
-    "start": "10:15",
-    "stop": "10:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790936100000,
-    "stopTs": 1790937000000,
-    "title": "Commodity Central",
-    "desc": "Join our host as they share practical investment tips and money-saving strategies with a live audience, offering valuable insights on mastering the art of earning and investing!"
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790937000000,
-    "stopTs": 1790938800000,
-    "title": "Market Edge",
-    "desc": "The host shares clear, up-to-date news from politics, society, economy, and sports, covering major events at home and worldwide in an easy-to-understand way for everyone."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790938800000,
-    "stopTs": 1790940600000,
-    "title": "News Now",
-    "desc": "The host presents a look at the latest social, economic and political updates and current affairs across Asia."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790940600000,
-    "stopTs": 1790942400000,
-    "title": "The Money Show",
-    "desc": "The host provides tips and tools to a live audience and gives invaluable insights on earning, saving and investing."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790942400000,
-    "stopTs": 1790944200000,
-    "title": "South Central",
-    "desc": "The host shares the latest news across politics, society, economy, and sports, covering events at home and abroad in a simple, straightforward style for everyone."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790944200000,
-    "stopTs": 1790946000000,
-    "title": "News Now",
-    "desc": "The host presents a look at the latest social, economic and political updates and current affairs across Asia."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790946000000,
-    "stopTs": 1790947800000,
-    "title": "All About Your Company",
-    "desc": "Market-focused shows explore investment opportunities, corporate news, and financial strategies."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790947800000,
-    "stopTs": 1790949600000,
-    "title": "The Interview With Ayesha Faridi",
-    "desc": "This covers the launch of South Central and an interview with Ayesha Faridi, highlighting South India&apos;s cultural and economic influence and its growing impact."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790949600000,
-    "stopTs": 1790951400000,
-    "title": "Leaders Of Tomorrow",
-    "desc": "Awards that acknowledge exceptional and distinguished products and services of MSMEs in building a robust foundation for Indian economy."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790951400000,
-    "stopTs": 1790955000000,
-    "title": "India Tonight",
-    "desc": "Karan takes you through the day&apos;s current affairs with razor-sharp analysis and tackles some critical issues."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790953200000,
-    "stopTs": 1790955000000,
-    "title": "Market Edge",
-    "desc": "The host presents some of the latest news and developments in the economy and the stock market, including business insights from industry experts."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790955000000,
-    "stopTs": 1790956800000,
-    "title": "Business @ 9",
-    "desc": "Economic and business programs provide updates on trends, strategies, and growth opportunities."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790956800000,
-    "stopTs": 1790958600000,
-    "title": "The Interview With Ayesha Faridi",
-    "desc": "This covers the launch of South Central and an interview with Ayesha Faridi, highlighting South India&apos;s cultural and economic influence and its growing impact."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790958600000,
-    "stopTs": 1790960400000,
-    "title": "South Central",
-    "desc": "The host shares the latest news across politics, society, economy, and sports, covering events at home and abroad in a simple, straightforward style for everyone."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790960400000,
-    "stopTs": 1790962200000,
-    "title": "The Money Show",
-    "desc": "The host provides tips and tools to a live audience and gives invaluable insights on earning, saving and investing."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790962200000,
-    "stopTs": 1790964000000,
-    "title": "Beat The Street",
-    "desc": "The host sheds light on some developments related to the Indian stock market and expert stockbrokers."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790964000000,
-    "stopTs": 1790965800000,
-    "title": "All About Your Company",
-    "desc": "Market-focused shows explore investment opportunities, corporate news, and financial strategies."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790965800000,
-    "stopTs": 1790969400000,
-    "title": "India Tonight",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790969400000,
-    "stopTs": 1790971200000,
-    "title": "Startup Central",
-    "desc": "The host holds conversations with business leaders from various start-ups."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790971200000,
-    "stopTs": 1790973000000,
-    "title": "Brandverse",
-    "desc": "The host invites industry leaders and innovators to discuss business-related topics."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790973000000,
-    "stopTs": 1790974800000,
-    "title": "Deep Dive",
-    "desc": "The host invites financial experts, and they dive deep into the world of stock markets."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790974800000,
-    "stopTs": 1790976600000,
-    "title": "Insurance Mantra",
-    "desc": "The host explains policies, coverage and tips for financial protection."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790976600000,
-    "stopTs": 1790978400000,
-    "title": "The Interview",
-    "desc": "Interviewer Ayesha Faridi interviews guests who share their professional experiences."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790978400000,
-    "stopTs": 1790980200000,
-    "title": "Beat the Street",
-    "desc": "The host and subject-matter experts provide updates on trends in the Indian stock market."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790980200000,
-    "stopTs": 1790983800000,
-    "title": "India Tonight",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790983800000,
-    "stopTs": 1790985600000,
-    "title": "Business@9",
-    "desc": "The host presents information about the various business and economic news of the day."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790985600000,
-    "stopTs": 1790987400000,
-    "title": "The Interview",
-    "desc": "Interviewer Ayesha Faridi interviews guests who share their professional experiences."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790987400000,
-    "stopTs": 1790989200000,
-    "title": "South Central",
-    "desc": "The hosts shed light on a topic or issue that is in the national and international news. S002025 E01, 2025."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790989200000,
-    "stopTs": 1790991000000,
-    "title": "Startup Central",
-    "desc": "The host holds conversations with business leaders from various start-ups."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790991000000,
-    "stopTs": 1790992800000,
-    "title": "Market Edge",
-    "desc": "The host welcomes industry experts to discuss market trends and financial insights."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790992800000,
-    "stopTs": 1790994600000,
-    "title": "Beat the Street",
-    "desc": "The host and subject-matter experts provide updates on trends in the Indian stock market."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1790994600000,
-    "stopTs": 1790996400000,
-    "title": "All About Your Company",
-    "desc": "The presenter outlines Atlanta Electricals&apos; strategy for securing a 40% growth peak."
-  },
-  {
     "start": "03:00",
     "stop": "03:30",
     "channel": "ETNow.in",
     "channelId": "ETNow.in",
-    "channelName": "ET NOW",
+    "channelName": "ET Now",
     "startTs": 1790996400000,
     "stopTs": 1790998200000,
     "title": "Brandverse",
-    "desc": "The host invites industry leaders and innovators to discuss business-related topics."
+    "desc": "The host invites industry leaders and innovators to engage in insightful discussions on topics related to branding, media, technology and consumer culture."
   },
   {
     "start": "03:30",
@@ -470,7 +19,7 @@
     "startTs": 1790998200000,
     "stopTs": 1791000000000,
     "title": "Insurance Mantra",
-    "desc": "The host explains policies, coverage and tips for financial protection."
+    "desc": "Insurance Mantra features industry leaders praising a move. Bigwigs give a thumbs up, calling it a good step, as LIC&apos;s R Dora expresses appreciation publicly."
   },
   {
     "start": "04:00",
@@ -480,8 +29,8 @@
     "channelName": "ET NOW",
     "startTs": 1791000000000,
     "stopTs": 1791001800000,
-    "title": "The Money Show Weekend Edition",
-    "desc": "The Money Show Weekend Edition"
+    "title": "The Money Show",
+    "desc": "The host provides tips and tools to a live audience and gives invaluable insights on earning, saving and investing."
   },
   {
     "start": "04:30",
@@ -491,8 +40,8 @@
     "channelName": "ET NOW",
     "startTs": 1791001800000,
     "stopTs": 1791003600000,
-    "title": "The Times Drive",
-    "desc": "Get informed with auto news, comprehensive vehicle reviews, and new EV market trends."
+    "title": "Times Drive",
+    "desc": "The host brings the latest automobile news with detailed reviews, comparisons, expert interviews, buying tips, and DIY solutions, making car and bike updates engaging and practical."
   },
   {
     "start": "05:00",
@@ -503,7 +52,7 @@
     "startTs": 1791003600000,
     "stopTs": 1791005400000,
     "title": "Deep Dive",
-    "desc": "The host invites financial experts, and they dive deep into the world of stock markets."
+    "desc": "In-depth financial discussions explore market trends, corporate strategies, and economic forecasts, giving viewers insights into investments and business decisions."
   },
   {
     "start": "05:30",
@@ -514,7 +63,7 @@
     "startTs": 1791005400000,
     "stopTs": 1791007200000,
     "title": "News Now",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world."
+    "desc": "The host presents a look at the latest social, economic and political updates and current affairs across Asia."
   },
   {
     "start": "06:00",
@@ -524,8 +73,8 @@
     "channelName": "ET NOW",
     "startTs": 1791007200000,
     "stopTs": 1791009000000,
-    "title": "The Interview",
-    "desc": "Interviewer Ayesha Faridi interviews guests who share their professional experiences."
+    "title": "The Interview With Ayesha Faridi",
+    "desc": "This covers the launch of South Central and an interview with Ayesha Faridi, highlighting South India&apos;s cultural and economic influence and its growing impact."
   },
   {
     "start": "06:30",
@@ -536,7 +85,7 @@
     "startTs": 1791009000000,
     "stopTs": 1791010800000,
     "title": "News Now",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world."
+    "desc": "The host presents a look at the latest social, economic and political updates and current affairs across Asia."
   },
   {
     "start": "07:00",
@@ -547,7 +96,7 @@
     "startTs": 1791010800000,
     "stopTs": 1791012600000,
     "title": "Big Voices",
-    "desc": "The host interacts with experts who shed light on the latest financial news."
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
   },
   {
     "start": "07:30",
@@ -558,7 +107,7 @@
     "startTs": 1791012600000,
     "stopTs": 1791014400000,
     "title": "News Now",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world."
+    "desc": "The host presents a look at the latest social, economic and political updates and current affairs across Asia."
   },
   {
     "start": "08:00",
@@ -569,7 +118,7 @@
     "startTs": 1791014400000,
     "stopTs": 1791016200000,
     "title": "Big Voices",
-    "desc": "The host interacts with experts who shed light on the latest financial news."
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
   },
   {
     "start": "08:30",
@@ -580,7 +129,7 @@
     "startTs": 1791016200000,
     "stopTs": 1791018000000,
     "title": "News Now",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world."
+    "desc": "The host presents a look at the latest social, economic and political updates and current affairs across Asia."
   },
   {
     "start": "09:00",
@@ -591,7 +140,7 @@
     "startTs": 1791018000000,
     "stopTs": 1791019800000,
     "title": "Insurance Mantra",
-    "desc": "The host explains policies, coverage and tips for financial protection."
+    "desc": "Insurance Mantra features industry leaders praising a move. Bigwigs give a thumbs up, calling it a good step, as LIC&apos;s R Dora expresses appreciation publicly."
   },
   {
     "start": "09:30",
@@ -602,7 +151,7 @@
     "startTs": 1791019800000,
     "stopTs": 1791021600000,
     "title": "Big Voices",
-    "desc": "The host interacts with experts who shed light on the latest financial news."
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
   },
   {
     "start": "10:00",
@@ -613,7 +162,7 @@
     "startTs": 1791021600000,
     "stopTs": 1791023400000,
     "title": "Big Voices",
-    "desc": "The host interacts with experts who shed light on the latest financial news."
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
   },
   {
     "start": "10:30",
@@ -624,7 +173,7 @@
     "startTs": 1791023400000,
     "stopTs": 1791025200000,
     "title": "Big Voices",
-    "desc": "The host interacts with experts who shed light on the latest financial news."
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
   },
   {
     "start": "11:00",
@@ -635,7 +184,7 @@
     "startTs": 1791025200000,
     "stopTs": 1791027000000,
     "title": "Big Voices",
-    "desc": "The host interacts with experts who shed light on the latest financial news."
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
   },
   {
     "start": "11:30",
@@ -646,7 +195,7 @@
     "startTs": 1791027000000,
     "stopTs": 1791028800000,
     "title": "News Now",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world."
+    "desc": "The host presents a look at the latest social, economic and political updates and current affairs across Asia."
   },
   {
     "start": "12:00",
@@ -657,7 +206,7 @@
     "startTs": 1791028800000,
     "stopTs": 1791030600000,
     "title": "Big Voices",
-    "desc": "The host interacts with experts who shed light on the latest financial news."
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
   },
   {
     "start": "12:30",
@@ -668,7 +217,7 @@
     "startTs": 1791030600000,
     "stopTs": 1791032400000,
     "title": "Big Voices",
-    "desc": "The host interacts with experts who shed light on the latest financial news."
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
   },
   {
     "start": "13:00",
@@ -679,7 +228,7 @@
     "startTs": 1791032400000,
     "stopTs": 1791034200000,
     "title": "Big Voices",
-    "desc": "The host interacts with experts who shed light on the latest financial news."
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
   },
   {
     "start": "13:30",
@@ -690,7 +239,7 @@
     "startTs": 1791034200000,
     "stopTs": 1791036000000,
     "title": "Startup Central",
-    "desc": "The host holds conversations with business leaders from various start-ups."
+    "desc": "The host presents the latest news and updates related to the Startup India policy."
   },
   {
     "start": "14:00",
@@ -701,7 +250,7 @@
     "startTs": 1791036000000,
     "stopTs": 1791037800000,
     "title": "Brandverse",
-    "desc": "The host invites industry leaders and innovators to discuss business-related topics."
+    "desc": "Corporate and financial analysis offers expert insights into business and market dynamics."
   },
   {
     "start": "14:30",
@@ -712,7 +261,7 @@
     "startTs": 1791037800000,
     "stopTs": 1791039600000,
     "title": "Big Voices",
-    "desc": "The host interacts with experts who shed light on the latest financial news."
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
   },
   {
     "start": "15:00",
@@ -722,8 +271,8 @@
     "channelName": "ET NOW",
     "startTs": 1791039600000,
     "stopTs": 1791041400000,
-    "title": "Motown Show",
-    "desc": "The host presents the latest and evolving news about the automobile industry."
+    "title": "The Motown Show",
+    "desc": "Music and entertainment programs highlight iconic hits, artist journeys, and nostalgic experiences in the Motown genre."
   },
   {
     "start": "15:30",
@@ -733,8 +282,8 @@
     "channelName": "ET NOW",
     "startTs": 1791041400000,
     "stopTs": 1791043200000,
-    "title": "The Interview",
-    "desc": "Interviewer Ayesha Faridi interviews guests who share their professional experiences."
+    "title": "The Interview With Ayesha Faridi",
+    "desc": "This covers the launch of South Central and an interview with Ayesha Faridi, highlighting South India&apos;s cultural and economic influence and its growing impact."
   },
   {
     "start": "16:00",
@@ -745,7 +294,7 @@
     "startTs": 1791043200000,
     "stopTs": 1791045000000,
     "title": "Deep Dive",
-    "desc": "The host invites financial experts, and they dive deep into the world of stock markets."
+    "desc": "In-depth financial discussions explore market trends, corporate strategies, and economic forecasts, giving viewers insights into investments and business decisions."
   },
   {
     "start": "16:30",
@@ -756,7 +305,7 @@
     "startTs": 1791045000000,
     "stopTs": 1791046800000,
     "title": "All About Your Company",
-    "desc": "The presenter outlines Atlanta Electricals&apos; strategy for securing a 40% growth peak."
+    "desc": "Market-focused shows explore investment opportunities, corporate news, and financial strategies."
   },
   {
     "start": "17:00",
@@ -767,7 +316,7 @@
     "startTs": 1791046800000,
     "stopTs": 1791048600000,
     "title": "Big Voices",
-    "desc": "The host interacts with experts who shed light on the latest financial news."
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
   },
   {
     "start": "17:30",
@@ -777,8 +326,8 @@
     "channelName": "ET NOW",
     "startTs": 1791048600000,
     "stopTs": 1791050400000,
-    "title": "Motown Show",
-    "desc": "The host presents the latest and evolving news about the automobile industry."
+    "title": "The Motown Show",
+    "desc": "Music and entertainment programs highlight iconic hits, artist journeys, and nostalgic experiences in the Motown genre."
   },
   {
     "start": "18:00",
@@ -789,7 +338,7 @@
     "startTs": 1791050400000,
     "stopTs": 1791052200000,
     "title": "The Money Show",
-    "desc": "The host presents information about fiscal management and investment advice."
+    "desc": "The host provides tips and tools to a live audience and gives invaluable insights on earning, saving and investing."
   },
   {
     "start": "18:30",
@@ -1010,5 +559,511 @@
     "stopTs": 1791088200000,
     "title": "The Money Show",
     "desc": "The host provides tips and tools to a live audience and gives invaluable insights on earning, saving and investing."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791088200000,
+    "stopTs": 1791090000000,
+    "title": "The Motown Show",
+    "desc": "Music and entertainment programs highlight iconic hits, artist journeys, and nostalgic experiences in the Motown genre."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791090000000,
+    "stopTs": 1791091800000,
+    "title": "Times Drive",
+    "desc": "The host brings the latest automobile news with detailed reviews, comparisons, expert interviews, buying tips, and DIY solutions, making car and bike updates engaging and practical."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791091800000,
+    "stopTs": 1791093600000,
+    "title": "The Interview With Ayesha Faridi",
+    "desc": "This covers the launch of South Central and an interview with Ayesha Faridi, highlighting South India&apos;s cultural and economic influence and its growing impact."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791093600000,
+    "stopTs": 1791095400000,
+    "title": "Deep Dive",
+    "desc": "In-depth financial discussions explore market trends, corporate strategies, and economic forecasts, giving viewers insights into investments and business decisions."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791095400000,
+    "stopTs": 1791097200000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791097200000,
+    "stopTs": 1791099000000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791099000000,
+    "stopTs": 1791100800000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791100800000,
+    "stopTs": 1791102600000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791102600000,
+    "stopTs": 1791104400000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791104400000,
+    "stopTs": 1791106200000,
+    "title": "Insurance Mantra",
+    "desc": "Insurance Mantra features industry leaders praising a move. Bigwigs give a thumbs up, calling it a good step, as LIC&apos;s R Dora expresses appreciation publicly."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791106200000,
+    "stopTs": 1791108000000,
+    "title": "Startup Central",
+    "desc": "The host presents the latest news and updates related to the Startup India policy."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791108000000,
+    "stopTs": 1791109800000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791109800000,
+    "stopTs": 1791111600000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791111600000,
+    "stopTs": 1791113400000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791113400000,
+    "stopTs": 1791115200000,
+    "title": "Times Drive",
+    "desc": "The host brings the latest automobile news with detailed reviews, comparisons, expert interviews, buying tips, and DIY solutions, making car and bike updates engaging and practical."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791115200000,
+    "stopTs": 1791117000000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791117000000,
+    "stopTs": 1791118800000,
+    "title": "Brandverse",
+    "desc": "Corporate and financial analysis offers expert insights into business and market dynamics."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791118800000,
+    "stopTs": 1791120600000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791120600000,
+    "stopTs": 1791122400000,
+    "title": "The Interview With Ayesha Faridi",
+    "desc": "This covers the launch of South Central and an interview with Ayesha Faridi, highlighting South India&apos;s cultural and economic influence and its growing impact."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791122400000,
+    "stopTs": 1791124200000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791124200000,
+    "stopTs": 1791126000000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791126000000,
+    "stopTs": 1791127800000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791127800000,
+    "stopTs": 1791129600000,
+    "title": "The Interview With Ayesha Faridi",
+    "desc": "This covers the launch of South Central and an interview with Ayesha Faridi, highlighting South India&apos;s cultural and economic influence and its growing impact."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791129600000,
+    "stopTs": 1791131400000,
+    "title": "Deep Dive",
+    "desc": "In-depth financial discussions explore market trends, corporate strategies, and economic forecasts, giving viewers insights into investments and business decisions."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791131400000,
+    "stopTs": 1791133200000,
+    "title": "All About Your Company",
+    "desc": "Market-focused shows explore investment opportunities, corporate news, and financial strategies."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791133200000,
+    "stopTs": 1791135000000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791135000000,
+    "stopTs": 1791136800000,
+    "title": "The Motown Show",
+    "desc": "Music and entertainment programs highlight iconic hits, artist journeys, and nostalgic experiences in the Motown genre."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791136800000,
+    "stopTs": 1791138600000,
+    "title": "The Money Show",
+    "desc": "The host provides tips and tools to a live audience and gives invaluable insights on earning, saving and investing."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791138600000,
+    "stopTs": 1791140400000,
+    "title": "Insurance Mantra",
+    "desc": "Insurance Mantra features industry leaders praising a move. Bigwigs give a thumbs up, calling it a good step, as LIC&apos;s R Dora expresses appreciation publicly."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791140400000,
+    "stopTs": 1791142200000,
+    "title": "South Central",
+    "desc": "The host shares the latest news across politics, society, economy, and sports, covering events at home and abroad in a simple, straightforward style for everyone."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791142200000,
+    "stopTs": 1791144000000,
+    "title": "Startup Central",
+    "desc": "The host presents the latest news and updates related to the Startup India policy."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791144000000,
+    "stopTs": 1791145800000,
+    "title": "Brandverse",
+    "desc": "Corporate and financial analysis offers expert insights into business and market dynamics."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791145800000,
+    "stopTs": 1791147600000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791147600000,
+    "stopTs": 1791149400000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791149400000,
+    "stopTs": 1791151200000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791151200000,
+    "stopTs": 1791153000000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791153000000,
+    "stopTs": 1791154800000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791154800000,
+    "stopTs": 1791156600000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791156600000,
+    "stopTs": 1791158400000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791158400000,
+    "stopTs": 1791160200000,
+    "title": "Big Voices",
+    "desc": "The host speaks with experts who deliver insights into the market trends for the best investment decisions."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791160200000,
+    "stopTs": 1791162000000,
+    "title": "The Money Show",
+    "desc": "The host provides tips and tools to a live audience and gives invaluable insights on earning, saving and investing."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791162000000,
+    "stopTs": 1791163800000,
+    "title": "Beat The Street",
+    "desc": "The host sheds light on some developments related to the Indian stock market and expert stockbrokers."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791163800000,
+    "stopTs": 1791165600000,
+    "title": "Market Edge",
+    "desc": "The host shares clear, up-to-date news from politics, society, economy, and sports, covering major events at home and worldwide in an easy-to-understand way for everyone."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791165600000,
+    "stopTs": 1791167400000,
+    "title": "Market Cafe",
+    "desc": "An update on global market cues and complelling stock ideas to watch out for"
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791167400000,
+    "stopTs": 1791171000000,
+    "title": "The Market",
+    "desc": "The best guide for making serious money, with top fundamental ideas and tec hinical recommendations"
+  },
+  {
+    "start": "03:30",
+    "stop": "05:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1791171000000,
+    "stopTs": 1791176400000,
+    "title": "First Trades",
+    "desc": "A show that discusses stocks that have been highly volatile in trading while the stock markets open."
   }
 ]
