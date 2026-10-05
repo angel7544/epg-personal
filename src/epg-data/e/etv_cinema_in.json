@@ -1,234 +1,47 @@
 [
   {
     "start": "01:30",
-    "stop": "04:03",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791077400000,
-    "stopTs": 1791086580000,
-    "title": "Aaduthu Paaduthu",
-    "desc": "Two friends plan to start a new venture, but things change when a girl enters their lives."
-  },
-  {
-    "start": "04:03",
-    "stop": "04:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791086580000,
-    "stopTs": 1791088200000,
-    "title": "Film Based Program",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "04:16",
-    "stop": "04:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema",
-    "startTs": 1791087360000,
-    "stopTs": 1791088200000,
-    "title": "Telugu Hits",
-    "desc": "Telugu Hits brings you a collection of timeless Telugu classics, featuring unforgettable music, drama, and performances that define the essence of Telugu cinema."
-  },
-  {
-    "start": "04:30",
-    "stop": "07:19",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791088200000,
-    "stopTs": 1791098340000,
-    "title": "Aatma Balam",
-    "desc": "Unable to win Jaya, Kumar kills himself, but Anand is blamed for his death."
-  },
-  {
-    "start": "07:19",
-    "stop": "07:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791098340000,
-    "stopTs": 1791099000000,
-    "title": "Telugu Hits",
-    "desc": "A compilation of Telugu songs is played back-to-back to enthrall the audience."
-  },
-  {
-    "start": "07:30",
-    "stop": "09:51",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791099000000,
-    "stopTs": 1791107460000,
-    "title": "Saindhav",
-    "desc": "A man is compelled to encounter a crime boss so that he can rescue his ailing daughter."
-  },
-  {
-    "start": "09:51",
-    "stop": "10:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791107460000,
-    "stopTs": 1791109800000,
-    "title": "Film Based Program",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "10:16",
-    "stop": "10:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema",
-    "startTs": 1791108960000,
-    "stopTs": 1791109800000,
-    "title": "Telugu Hits",
-    "desc": "Telugu Hits brings you a collection of timeless Telugu classics, featuring unforgettable music, drama, and performances that define the essence of Telugu cinema."
-  },
-  {
-    "start": "10:30",
-    "stop": "13:13",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791109800000,
-    "stopTs": 1791119580000,
-    "title": "Thaali",
-    "desc": "After realizing the importance of the wedding chain, a man accepts a servant as his wife."
-  },
-  {
-    "start": "13:13",
-    "stop": "13:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791119580000,
-    "stopTs": 1791120600000,
-    "title": "Telugu Hits",
-    "desc": "A compilation of Telugu songs is played back-to-back to enthrall the audience."
-  },
-  {
-    "start": "13:30",
-    "stop": "16:11",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791120600000,
-    "stopTs": 1791130260000,
-    "title": "Sisindri Chittibabu",
-    "desc": "Sisindri Chittibabu"
-  },
-  {
-    "start": "16:11",
-    "stop": "16:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791130260000,
-    "stopTs": 1791131400000,
-    "title": "Telugu Hits",
-    "desc": "A compilation of Telugu songs is played back-to-back to enthrall the audience."
-  },
-  {
-    "start": "16:30",
-    "stop": "19:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791131400000,
-    "stopTs": 1791142200000,
-    "title": "Adirindi Alludu",
-    "desc": "A young man pretends to be a Brahmin in order to earn money for his mother&apos;s operation."
-  },
-  {
-    "start": "19:30",
-    "stop": "22:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791142200000,
-    "stopTs": 1791153000000,
-    "title": "Aaduthu Paaduthu",
-    "desc": "Two friends plan to start a new venture, but things change when a girl enters their lives."
-  },
-  {
-    "start": "22:30",
-    "stop": "00:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791153000000,
-    "stopTs": 1791160200000,
-    "title": "Songs",
-    "desc": "A comprehensive compilation of popular songs is played in rapid succession."
-  },
-  {
-    "start": "00:30",
-    "stop": "03:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791160200000,
-    "stopTs": 1791171000000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema",
-    "startTs": 1791162000000,
-    "stopTs": 1791163800000,
-    "title": "Madhurimalu",
-    "desc": "The film follows ordinary people at a government hospital who bond and support each other. The director presents many characters, each with happiness and hardship."
-  },
-  {
-    "start": "01:30",
-    "stop": "04:30",
+    "stop": "04:06",
     "channel": "ETVCinema.in",
     "channelId": "ETVCinema.in",
     "channelName": "ETV Cinema",
     "startTs": 1791163800000,
-    "stopTs": 1791174600000,
-    "title": "Appula Apparao",
-    "desc": "Appa Rao falls for Subbu. An astrologer predicts her death if she marries him."
+    "stopTs": 1791173160000,
+    "title": "Appula Appa Rao",
+    "desc": "Appa Rao, who makes a living by taking loans, happens to meet Subba Laxmi and falls for her. However, he finds himself in a dilemma when an astrologer predicts her death if she marries him."
   },
   {
-    "start": "03:30",
-    "stop": "06:30",
+    "start": "04:06",
+    "stop": "04:30",
     "channel": "ETVCinema.in",
     "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791171000000,
-    "stopTs": 1791181800000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
+    "channelName": "ETV Cinema",
+    "startTs": 1791173160000,
+    "stopTs": 1791174600000,
+    "title": "Film Based Programme",
+    "desc": "A special film based entertainment program where the host conducts exclusive interviews withcelebrities."
   },
   {
     "start": "04:30",
-    "stop": "07:30",
+    "stop": "07:11",
     "channel": "ETVCinema.in",
     "channelId": "ETVCinema.in",
     "channelName": "ETV Cinema",
     "startTs": 1791174600000,
-    "stopTs": 1791185400000,
+    "stopTs": 1791184260000,
     "title": "Bandham",
     "desc": "Bound by emotions and torn by fate, this family drama explores the deep ties of relationships, highlighting love, sacrifice, and redemption through the journey of a broken yet hopeful family."
   },
   {
-    "start": "06:30",
-    "stop": "09:30",
+    "start": "07:11",
+    "stop": "07:30",
     "channel": "ETVCinema.in",
     "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791181800000,
-    "stopTs": 1791192600000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
+    "channelName": "ETV Cinema",
+    "startTs": 1791184260000,
+    "stopTs": 1791185400000,
+    "title": "Telugu Hits",
+    "desc": "Telugu Hits brings you a collection of timeless Telugu classics, featuring unforgettable music, drama, and performances that define the essence of Telugu cinema."
   },
   {
     "start": "07:30",
@@ -242,17 +55,6 @@
     "desc": "A family drama revolving around relationships, emotions and traditional values, portraying love, unity and challenges faced by individuals in a heartfelt narrative."
   },
   {
-    "start": "09:30",
-    "stop": "12:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791192600000,
-    "stopTs": 1791203400000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
     "start": "10:30",
     "stop": "13:30",
     "channel": "ETVCinema.in",
@@ -264,45 +66,23 @@
     "desc": "Prabhu poses as forest ranger Sagar for a noble reason, but when exposed, he must face the consequences of his deception."
   },
   {
-    "start": "12:30",
-    "stop": "15:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791203400000,
-    "stopTs": 1791214200000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
     "start": "13:30",
-    "stop": "16:30",
+    "stop": "16:40",
     "channel": "ETVCinema.in",
     "channelId": "ETVCinema.in",
     "channelName": "ETV Cinema",
     "startTs": 1791207000000,
-    "stopTs": 1791217800000,
+    "stopTs": 1791218400000,
     "title": "Thatha Manavadu",
     "desc": "A daughter pledge to teach her father a lesson after learning about his betrayal"
   },
   {
-    "start": "15:30",
-    "stop": "18:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1791214200000,
-    "stopTs": 1791225000000,
-    "title": "Movie",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "16:30",
+    "start": "16:40",
     "stop": "19:30",
     "channel": "ETVCinema.in",
     "channelId": "ETVCinema.in",
     "channelName": "ETV Cinema",
-    "startTs": 1791217800000,
+    "startTs": 1791218400000,
     "stopTs": 1791228600000,
     "title": "28&apos;C",
     "desc": "28&apos;C"
@@ -372,5 +152,115 @@
     "stopTs": 1791271800000,
     "title": "Iddaru Ammayilu",
     "desc": "Bhanu falls for Sriram but her father wants her to marry the son of his friend."
+  },
+  {
+    "start": "07:30",
+    "stop": "10:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1791271800000,
+    "stopTs": 1791282600000,
+    "title": "Aame",
+    "desc": "Anjaneyulu, a banker, marries Ooha but he soon dies in an accident. Ooha struggles to stand up to the men in her family who attempt to take advantage of her."
+  },
+  {
+    "start": "10:30",
+    "stop": "13:00",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1791282600000,
+    "stopTs": 1791291600000,
+    "title": "Sarangapani Jathakam",
+    "desc": "Sarangapani, who finds comfort in horoscopes, embarks on a turbulent journey that forces him to confront hard truths about himself and his life within."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1791291600000,
+    "stopTs": 1791293400000,
+    "title": "Raagam Thanam Pallavi",
+    "desc": "A musical drama highlighting classical traditions, artistic passion and emotional journeys, blending music and storytelling in a culturally rich narrative."
+  },
+  {
+    "start": "13:30",
+    "stop": "16:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1791293400000,
+    "stopTs": 1791304200000,
+    "title": "Maavichiguru",
+    "desc": "A dying woman falsely accuses her husband of securing her son&apos;s future."
+  },
+  {
+    "start": "16:30",
+    "stop": "19:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1791304200000,
+    "stopTs": 1791315000000,
+    "title": "Aaviri",
+    "desc": "Facing unforeseen circumstances, a couple moves into an old house. Their child&apos;s encounters with supernatural events turn their lives upside down."
+  },
+  {
+    "start": "19:30",
+    "stop": "22:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1791315000000,
+    "stopTs": 1791325800000,
+    "title": "Akka Pettanam Chelleli Kapuram",
+    "desc": "Satyanarayana marries Chinni. Her sister raises suspicions. Issues arise when Satyanarayana assists his friend&apos;s lover."
+  },
+  {
+    "start": "22:30",
+    "stop": "00:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1791325800000,
+    "stopTs": 1791333000000,
+    "title": "Songs",
+    "desc": "This collection gathers upbeat tunes in one handy playlist, offering listeners a wide, enjoyable mix of catchy songs that are easy to sing along and share."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1791333000000,
+    "stopTs": 1791334800000,
+    "title": "Yoga Based Prog",
+    "desc": "Yoga Based Prog guides viewers with postures, breathing, and meditation to enhance physical fitness, mental peace, and spiritual balance for overall well-being."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1791334800000,
+    "stopTs": 1791336600000,
+    "title": "Madhurimalu",
+    "desc": "The film follows ordinary people at a government hospital who bond and support each other. The director presents many characters, each with happiness and hardship."
+  },
+  {
+    "start": "01:30",
+    "stop": "04:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1791336600000,
+    "stopTs": 1791347400000,
+    "title": "Alludu Pattina Baratham",
+    "desc": "Muthyalu is in love with his cousin, Radha, but she wishes to marry Radhakrishna. However, the trio&apos;s lives change when another woman, Rekha, makes a move."
   }
 ]
