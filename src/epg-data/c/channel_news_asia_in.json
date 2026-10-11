@@ -1,25 +1,58 @@
 [
   {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "ChannelNewsAsia.in",
+    "channelId": "ChannelNewsAsia.in",
+    "channelName": "Channel News Asia",
+    "startTs": 1791743400000,
+    "stopTs": 1791745200000,
+    "title": "Talking Point",
+    "desc": "Explores current events and their effects on people while presenting different perspectives."
+  },
+  {
     "start": "19:00",
+    "stop": "19:30",
+    "channel": "ChannelNewsAsia.in",
+    "channelId": "ChannelNewsAsia.in",
+    "channelName": "Channel News Asia",
+    "startTs": 1791745200000,
+    "stopTs": 1791747000000,
+    "title": "Money Mind",
+    "desc": "An insight into how to make the most of the finances, with tips for investors and economic analysis. S01 E24."
+  },
+  {
+    "start": "19:30",
     "stop": "20:00",
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791486000000,
-    "stopTs": 1791489600000,
-    "title": "War At The Gardens",
-    "desc": "."
+    "startTs": 1791747000000,
+    "stopTs": 1791748800000,
+    "title": "On the Red Dot",
+    "desc": "The issues that inspire, provoke, and unite the people of Singapore. S002025 E20, 2025."
   },
   {
     "start": "20:00",
+    "stop": "20:30",
+    "channel": "ChannelNewsAsia.in",
+    "channelId": "ChannelNewsAsia.in",
+    "channelName": "Channel News Asia",
+    "startTs": 1791748800000,
+    "stopTs": 1791750600000,
+    "title": "Asia Tonight",
+    "desc": "News and views from around the region, with a unique Asian perspective."
+  },
+  {
+    "start": "20:30",
     "stop": "21:00",
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791489600000,
-    "stopTs": 1791493200000,
-    "title": "Asia Tonight",
-    "desc": "News and views from around the region, with a unique Asian perspective."
+    "startTs": 1791750600000,
+    "stopTs": 1791752400000,
+    "title": "Salt of the Earth",
+    "desc": "Archaeologist Kensaku Kamimura unearths artifacts at the Shioana ruins. S01 E04."
   },
   {
     "start": "21:00",
@@ -27,21 +60,32 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791493200000,
-    "stopTs": 1791496800000,
-    "title": "Insight",
-    "desc": "Investigating and analysing topical issues that impact Asia and the rest of the world. S01 E19."
+    "startTs": 1791752400000,
+    "stopTs": 1791756000000,
+    "title": "Restless: Biohacking Better Health",
+    "desc": ". S01 E02."
   },
   {
     "start": "22:00",
+    "stop": "22:30",
+    "channel": "ChannelNewsAsia.in",
+    "channelId": "ChannelNewsAsia.in",
+    "channelName": "Channel News Asia",
+    "startTs": 1791756000000,
+    "stopTs": 1791757800000,
+    "title": "Singapore Tonight",
+    "desc": "A round-up of all the day&apos;s events in Singapore as well as coverage of breaking news."
+  },
+  {
+    "start": "22:30",
     "stop": "23:00",
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791496800000,
-    "stopTs": 1791500400000,
-    "title": "Singapore Tonight",
-    "desc": "A round-up of all the day&apos;s events in Singapore as well as coverage of breaking news."
+    "startTs": 1791757800000,
+    "stopTs": 1791759600000,
+    "title": "Talking Point",
+    "desc": "Explores current events and their effects on people while presenting different perspectives. S01 E20."
   },
   {
     "start": "23:00",
@@ -49,8 +93,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791500400000,
-    "stopTs": 1791511200000,
+    "startTs": 1791759600000,
+    "stopTs": 1791770400000,
     "title": "Asia First",
     "desc": "Top stories, market updates, and business intel from across the region."
   },
@@ -60,10 +104,10 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791511200000,
-    "stopTs": 1791514800000,
-    "title": "Insight",
-    "desc": "Investigating and analysing topical issues that impact Asia and the rest of the world. S01 E19."
+    "startTs": 1791770400000,
+    "stopTs": 1791774000000,
+    "title": "Restless: Biohacking Better Health",
+    "desc": ". S01 E02."
   },
   {
     "start": "03:00",
@@ -71,8 +115,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791514800000,
-    "stopTs": 1791522000000,
+    "startTs": 1791774000000,
+    "stopTs": 1791781200000,
     "title": "Asia Now",
     "desc": "Coverage of what&apos;s happening around the world and in the region, with expert analysis."
   },
@@ -82,10 +126,10 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791522000000,
-    "stopTs": 1791525600000,
-    "title": "Window Into The Wild",
-    "desc": "Mandai Wildlife Reserve is transforming into a world-first wildlife destination."
+    "startTs": 1791781200000,
+    "stopTs": 1791784800000,
+    "title": "Restless: Biohacking Better Health",
+    "desc": ". S01 E01."
   },
   {
     "start": "06:00",
@@ -93,8 +137,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791525600000,
-    "stopTs": 1791532800000,
+    "startTs": 1791784800000,
+    "stopTs": 1791792000000,
     "title": "Asia Now",
     "desc": "Coverage of what&apos;s happening around the world and in the region, with expert analysis."
   },
@@ -104,10 +148,10 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791532800000,
-    "stopTs": 1791536400000,
-    "title": "War At The Gardens",
-    "desc": "."
+    "startTs": 1791792000000,
+    "stopTs": 1791795600000,
+    "title": "Power to the People",
+    "desc": "Behind the scenes at energy company SSE, as an army of workers battle to keep our power flowing."
   },
   {
     "start": "09:00",
@@ -115,8 +159,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791536400000,
-    "stopTs": 1791536520000,
+    "startTs": 1791795600000,
+    "stopTs": 1791795720000,
     "title": "Headline News",
     "desc": "."
   },
@@ -126,8 +170,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791536520000,
-    "stopTs": 1791540000000,
+    "startTs": 1791795720000,
+    "stopTs": 1791799200000,
     "title": "Insight",
     "desc": "Investigating and analysing topical issues that impact Asia and the rest of the world. S01 E19."
   },
@@ -137,21 +181,32 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791540000000,
-    "stopTs": 1791543600000,
+    "startTs": 1791799200000,
+    "stopTs": 1791802800000,
     "title": "East Asia Tonight",
     "desc": "Presents key stories about economics and political updates from China, Japan and Korea."
   },
   {
     "start": "11:00",
+    "stop": "11:30",
+    "channel": "ChannelNewsAsia.in",
+    "channelId": "ChannelNewsAsia.in",
+    "channelName": "Channel News Asia",
+    "startTs": 1791802800000,
+    "stopTs": 1791804600000,
+    "title": "Money Mind",
+    "desc": "An insight into how to make the most of the finances, with tips for investors and economic analysis. S01 E24."
+  },
+  {
+    "start": "11:30",
     "stop": "12:00",
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791543600000,
-    "stopTs": 1791547200000,
-    "title": "Power to the People",
-    "desc": "Behind the scenes at energy company SSE, as an army of workers battle to keep our power flowing."
+    "startTs": 1791804600000,
+    "stopTs": 1791806400000,
+    "title": "On the Red Dot",
+    "desc": "The issues that inspire, provoke, and unite the people of Singapore. S002025 E20, 2025."
   },
   {
     "start": "12:00",
@@ -159,8 +214,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791547200000,
-    "stopTs": 1791550800000,
+    "startTs": 1791806400000,
+    "stopTs": 1791810000000,
     "title": "Asia Tonight",
     "desc": "News and views from around the region, with a unique Asian perspective."
   },
@@ -170,10 +225,10 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791550800000,
-    "stopTs": 1791554400000,
-    "title": "Japan Hour",
-    "desc": "A collection of programmes highlighting Japan&apos;s gastronomy, culture, and tourism."
+    "startTs": 1791810000000,
+    "stopTs": 1791813600000,
+    "title": "Love Auditors",
+    "desc": "Exploring a trend where parents hire private detectives to vet their children&apos;s romantic partners."
   },
   {
     "start": "14:00",
@@ -181,8 +236,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791554400000,
-    "stopTs": 1791558000000,
+    "startTs": 1791813600000,
+    "stopTs": 1791817200000,
     "title": "Singapore Tonight",
     "desc": "A round-up of all the day&apos;s events in Singapore as well as coverage of breaking news."
   },
@@ -192,10 +247,10 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791558000000,
-    "stopTs": 1791561600000,
-    "title": "Singapore Hour",
-    "desc": "Featuring your ultimate insider&apos;s guide to travel, work, and play in the Lion City."
+    "startTs": 1791817200000,
+    "stopTs": 1791820800000,
+    "title": "Restless: Biohacking Better Health",
+    "desc": ". S01 E02."
   },
   {
     "start": "16:00",
@@ -203,8 +258,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791561600000,
-    "stopTs": 1791561780000,
+    "startTs": 1791820800000,
+    "stopTs": 1791820980000,
     "title": "Headline News",
     "desc": "."
   },
@@ -214,8 +269,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791561780000,
-    "stopTs": 1791565200000,
+    "startTs": 1791820980000,
+    "stopTs": 1791824400000,
     "title": "East Asia Tonight",
     "desc": "Presents key stories about economics and political updates from China, Japan and Korea."
   },
@@ -225,10 +280,10 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791565200000,
-    "stopTs": 1791568800000,
-    "title": "Power to the People",
-    "desc": "Behind the scenes at energy company SSE, as an army of workers battle to keep our power flowing."
+    "startTs": 1791824400000,
+    "stopTs": 1791828000000,
+    "title": "Singapore Hour",
+    "desc": "Featuring your ultimate insider&apos;s guide to travel, work, and play in the Lion City."
   },
   {
     "start": "18:00",
@@ -236,8 +291,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1791568800000,
-    "stopTs": 1791572400000,
+    "startTs": 1791828000000,
+    "stopTs": 1791831600000,
     "title": "Singapore Tonight",
     "desc": "A round-up of all the day&apos;s events in Singapore as well as coverage of breaking news."
   }
