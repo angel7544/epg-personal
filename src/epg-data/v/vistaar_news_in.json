@@ -1,520 +1,14 @@
 [
   {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791777600000,
-    "stopTs": 1791779400000,
-    "title": "Gyanendra Ka Gyan",
-    "desc": "Join Gyanendra for profound wisdom and deep insights into life. Unlock new perspectives for personal growth and inspiration. Tune in for transformative teachings now!"
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791779400000,
-    "stopTs": 1791781200000,
-    "title": "Khabar Vistaar Se",
-    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791781200000,
-    "stopTs": 1791783000000,
-    "title": "Vistaar Vishesh",
-    "desc": "Stay informed with in-depth coverage and special reports. Vistaar Vishesh brings you critical insights and stories you won&apos;t find anywhere else-tune in now!"
-  },
-  {
     "start": "05:30",
     "stop": "06:00",
     "channel": "VistaarNews.in",
     "channelId": "VistaarNews.in",
     "channelName": "Vistaar News",
-    "startTs": 1791783000000,
-    "stopTs": 1791784800000,
-    "title": "Khabar Vistaar Se",
-    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791784800000,
-    "stopTs": 1791786600000,
-    "title": "Logsabha",
-    "desc": "News Bulletin -- Various events and Current affairs."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791786600000,
-    "stopTs": 1791788400000,
-    "title": "Khabar Vistaar Se",
-    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791788400000,
-    "stopTs": 1791790200000,
-    "title": "Khabar Fatafat",
-    "desc": "News Bulletin -- Various events and Current affairs."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791790200000,
-    "stopTs": 1791792000000,
-    "title": "Khabar Vistaar Se",
-    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791792000000,
-    "stopTs": 1791793800000,
-    "title": "Laadali Mahtaari",
-    "desc": "Celebrate the beauty of motherhood and resilience with Laadali Mahtaari. A journey of love and sacrifice that will inspire you. Tune in for heartwarming moments today!"
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791793800000,
-    "stopTs": 1791795600000,
-    "title": "Khabar Vistaar Se",
-    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791795600000,
-    "stopTs": 1791797400000,
-    "title": "Glamour Ki Duniya",
-    "desc": "Check out the latest news from the glamour world."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791797400000,
-    "stopTs": 1791799200000,
-    "title": "Ye Toh Viral Hai",
-    "desc": "Stay on top of viral trends and stories that are making waves. Discover what&apos;s trending and why it matters. Don&apos;t miss out on Ye Toh Viral Hai!"
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791799200000,
-    "stopTs": 1791801000000,
-    "title": "Vande Bharat Express",
-    "desc": "The host presents an analysis of the latest news, updates, and developments regarding the Vande Bharat Express."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791801000000,
-    "stopTs": 1791804600000,
-    "title": "Loudspeaker",
-    "desc": "Get ready for an exciting ride through powerful stories and debates. Tune in for the latest happenings and bold voices shaping the world. Don&apos;t miss it!"
-  },
-  {
-    "start": "11:30",
-    "stop": "12:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791804600000,
-    "stopTs": 1791808200000,
-    "title": "Siyasat",
-    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791808200000,
-    "stopTs": 1791811800000,
-    "title": "Aapka Sheher Aapka Reporter",
-    "desc": "The latest political, economic, social and sports updates from various places across the nation."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791811800000,
-    "stopTs": 1791815400000,
-    "title": "Logsabha",
-    "desc": "News Bulletin -- Various events and Current affairs."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791815400000,
-    "stopTs": 1791819000000,
-    "title": "Gyanendra Ka Gyan",
-    "desc": "Join Gyanendra for profound wisdom and deep insights into life. Unlock new perspectives for personal growth and inspiration. Tune in for transformative teachings now!"
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791819000000,
-    "stopTs": 1791820800000,
-    "title": "The Editor&apos;s Show",
-    "desc": "Latest updates on forthcoming releases, tour dates and news."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791820800000,
-    "stopTs": 1791822600000,
-    "title": "Vistaar Vishesh",
-    "desc": "Stay informed with in-depth coverage and special reports. Vistaar Vishesh brings you critical insights and stories you won&apos;t find anywhere else-tune in now!"
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791822600000,
-    "stopTs": 1791824400000,
-    "title": "40 Loksabha 40 Khabar",
-    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791824400000,
-    "stopTs": 1791826200000,
-    "title": "Raftaar @ Vistaar",
-    "desc": "Stay updated with the latest stories and developments at lightning speed. Raftaar @ Vistaar brings you news and updates that matter-tune in now!"
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791826200000,
-    "stopTs": 1791828000000,
-    "title": "Logsabha",
-    "desc": "News Bulletin -- Various events and Current affairs."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791828000000,
-    "stopTs": 1791829800000,
-    "title": "Glamour Ki Duniya",
-    "desc": "Check out the latest news from the glamour world."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791829800000,
-    "stopTs": 1791831600000,
-    "title": "The Editor&apos;s Show",
-    "desc": "The host presents the latest updates pertaining to various pressing issues of the nation."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791831600000,
-    "stopTs": 1791833400000,
-    "title": "Vistaar Vishesh",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791833400000,
-    "stopTs": 1791835200000,
-    "title": "Glamour Ki Duniya",
-    "desc": "The host offers interesting insights into the production of famous Indian films."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791835200000,
-    "stopTs": 1791837000000,
-    "title": "Chhattisgadhiya Sable Badhiya",
-    "desc": "The host presents the latest updates and top news stories from the state of Chhattisgarh."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791837000000,
-    "stopTs": 1791838800000,
-    "title": "Khabar Fatafat",
-    "desc": "The host presents a detailed report of the latest news and developments."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791838800000,
-    "stopTs": 1791840600000,
-    "title": "Desh Ke Dil Se",
-    "desc": "The host presents the latest news stories pertaining to various issues around the country."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791840600000,
-    "stopTs": 1791844200000,
-    "title": "Seedhe Mudde Ki Baat",
-    "desc": "A reporter sheds light on a topic or issue that is in the national news."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791842400000,
-    "stopTs": 1791844200000,
-    "title": "Ye Toh Viral Hai",
-    "desc": "Stay on top of viral trends and stories that are making waves. Discover what&apos;s trending and why it matters. Don&apos;t miss out on Ye Toh Viral Hai!"
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791844200000,
-    "stopTs": 1791846000000,
-    "title": "Desh Ke Dil Se",
-    "desc": "The host presents the latest news stories pertaining to various issues around the country."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791846000000,
-    "stopTs": 1791847800000,
-    "title": "Chhattisgadhiya Sable Badhiya",
-    "desc": "The host presents the latest updates and top news stories from the state of Chhattisgarh."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791847800000,
-    "stopTs": 1791851400000,
-    "title": "Seedhe Mudde Ki Baat",
-    "desc": "A reporter sheds light on a topic or issue that is in the national news."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791849600000,
-    "stopTs": 1791851400000,
-    "title": "Ye Toh Viral Hai",
-    "desc": "Stay on top of viral trends and stories that are making waves. Discover what&apos;s trending and why it matters. Don&apos;t miss out on Ye Toh Viral Hai!"
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791851400000,
-    "stopTs": 1791853200000,
-    "title": "Desh Ke Dil Se",
-    "desc": "The host presents the latest news stories pertaining to various issues around the country."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791853200000,
-    "stopTs": 1791855000000,
-    "title": "Khabar Fatafat",
-    "desc": "The host presents a detailed report of the latest news and developments."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791855000000,
-    "stopTs": 1791856800000,
-    "title": "Suryodaya",
-    "desc": "The host begins the day with updates about various social, economic and political issues."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791856800000,
-    "stopTs": 1791858600000,
-    "title": "Chhattisgadhiya Sable Badhiya",
-    "desc": "The host presents the latest updates and top news stories from the state of Chhattisgarh."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791858600000,
-    "stopTs": 1791860400000,
-    "title": "Desh Ke Dil Se",
-    "desc": "The host presents the latest news stories pertaining to various issues around the country."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791860400000,
-    "stopTs": 1791862200000,
-    "title": "Aaj Ki Khabar",
-    "desc": "The host sheds light on the most recent news, updates and developments."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791862200000,
-    "stopTs": 1791864000000,
-    "title": "Khabar Fatafat",
-    "desc": "The host presents a detailed report of the latest news and developments."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791864000000,
-    "stopTs": 1791865800000,
-    "title": "Seedhe Mudde Ki Baat",
-    "desc": "A reporter sheds light on a topic or issue that is in the national news."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791865800000,
-    "stopTs": 1791867600000,
-    "title": "Khabar Vistaar Se",
-    "desc": "The host presents the latest news stories regarding various issues around the country."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791867600000,
-    "stopTs": 1791869400000,
-    "title": "Vistaar Vishesh",
-    "desc": "The host presents information about the social, economic and political issues of the day."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:30",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
     "startTs": 1791869400000,
-    "stopTs": 1791873000000,
+    "stopTs": 1791871200000,
     "title": "Khabar Vistaar Se",
-    "desc": "The host presents the latest news stories regarding various issues around the country."
+    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
   },
   {
     "start": "06:00",
@@ -536,7 +30,7 @@
     "startTs": 1791873000000,
     "stopTs": 1791874800000,
     "title": "Khabar Vistaar Se",
-    "desc": "The host presents the latest news stories regarding various issues around the country."
+    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
   },
   {
     "start": "07:00",
@@ -547,7 +41,7 @@
     "startTs": 1791874800000,
     "stopTs": 1791876600000,
     "title": "Khabar Fatafat",
-    "desc": "The host presents a detailed report of the latest news and developments."
+    "desc": "News Bulletin -- Various events and Current affairs."
   },
   {
     "start": "07:30",
@@ -557,8 +51,8 @@
     "channelName": "Vistaar News",
     "startTs": 1791876600000,
     "stopTs": 1791878400000,
-    "title": "Desh Ke Dil Se",
-    "desc": "The host presents the latest news stories pertaining to various issues around the country."
+    "title": "Khabar Vistaar Se",
+    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
   },
   {
     "start": "08:00",
@@ -568,8 +62,8 @@
     "channelName": "Vistaar News",
     "startTs": 1791878400000,
     "stopTs": 1791880200000,
-    "title": "Khabar Vistaar Se",
-    "desc": "The host presents the latest news stories regarding various issues around the country."
+    "title": "Laadali Mahtaari",
+    "desc": "Celebrate the beauty of motherhood and resilience with Laadali Mahtaari. A journey of love and sacrifice that will inspire you. Tune in for heartwarming moments today!"
   },
   {
     "start": "08:30",
@@ -579,8 +73,8 @@
     "channelName": "Vistaar News",
     "startTs": 1791880200000,
     "stopTs": 1791882000000,
-    "title": "2 Baje 20 Khabar",
-    "desc": "The host presents the top 20 news updates pertaining to the current affairs of the day."
+    "title": "Khabar Vistaar Se",
+    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
   },
   {
     "start": "09:00",
@@ -591,7 +85,7 @@
     "startTs": 1791882000000,
     "stopTs": 1791883800000,
     "title": "Glamour Ki Duniya",
-    "desc": "The host offers interesting insights into the production of famous Indian films."
+    "desc": "Check out the latest news from the glamour world."
   },
   {
     "start": "09:30",
@@ -601,8 +95,8 @@
     "channelName": "Vistaar News",
     "startTs": 1791883800000,
     "stopTs": 1791885600000,
-    "title": "Khabar Vistaar Se",
-    "desc": "The host presents the latest news stories regarding various issues around the country."
+    "title": "Ye Toh Viral Hai",
+    "desc": "Stay on top of viral trends and stories that are making waves. Discover what&apos;s trending and why it matters. Don&apos;t miss out on Ye Toh Viral Hai!"
   },
   {
     "start": "10:00",
@@ -612,8 +106,8 @@
     "channelName": "Vistaar News",
     "startTs": 1791885600000,
     "stopTs": 1791887400000,
-    "title": "Khabar Fatafat",
-    "desc": "The host presents a detailed report of the latest news and developments."
+    "title": "Vande Bharat Express",
+    "desc": "The host presents an analysis of the latest news, updates, and developments regarding the Vande Bharat Express."
   },
   {
     "start": "10:30",
@@ -623,8 +117,8 @@
     "channelName": "Vistaar News",
     "startTs": 1791887400000,
     "stopTs": 1791891000000,
-    "title": "15 Sambhag 15 Khabar",
-    "desc": "The host presents some of the latest updates on the current affairs of the day."
+    "title": "Loudspeaker",
+    "desc": "Get ready for an exciting ride through powerful stories and debates. Tune in for the latest happenings and bold voices shaping the world. Don&apos;t miss it!"
   },
   {
     "start": "11:30",
@@ -634,8 +128,8 @@
     "channelName": "Vistaar News",
     "startTs": 1791891000000,
     "stopTs": 1791894600000,
-    "title": "Aapka Sheher Aapka Reporter",
-    "desc": "The host presents the latest news stories and updates on various cities in India."
+    "title": "Siyasat",
+    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
   },
   {
     "start": "12:30",
@@ -645,30 +139,19 @@
     "channelName": "Vistaar News",
     "startTs": 1791894600000,
     "stopTs": 1791898200000,
-    "title": "News Update",
-    "desc": "The presenter shares the most recent news updates from the region."
+    "title": "Aapka Sheher Aapka Reporter",
+    "desc": "The latest political, economic, social and sports updates from various places across the nation."
   },
   {
     "start": "13:30",
-    "stop": "14:00",
-    "channel": "VistaarNews.in",
-    "channelId": "VistaarNews.in",
-    "channelName": "Vistaar News",
-    "startTs": 1791898200000,
-    "stopTs": 1791900000000,
-    "title": "Desh Ke Dil Se",
-    "desc": "The host presents the latest news stories pertaining to various issues around the country."
-  },
-  {
-    "start": "14:00",
     "stop": "14:30",
     "channel": "VistaarNews.in",
     "channelId": "VistaarNews.in",
     "channelName": "Vistaar News",
-    "startTs": 1791900000000,
+    "startTs": 1791898200000,
     "stopTs": 1791901800000,
-    "title": "Chhattisgadhiya Sable Badhiya",
-    "desc": "The host presents the latest updates and top news stories from the state of Chhattisgarh."
+    "title": "Logsabha",
+    "desc": "News Bulletin -- Various events and Current affairs."
   },
   {
     "start": "14:30",
@@ -678,8 +161,8 @@
     "channelName": "Vistaar News",
     "startTs": 1791901800000,
     "stopTs": 1791905400000,
-    "title": "Seedhe Mudde Ki Baat",
-    "desc": "A reporter sheds light on a topic or issue that is in the national news."
+    "title": "Gyanendra Ka Gyan",
+    "desc": "Join Gyanendra for profound wisdom and deep insights into life. Unlock new perspectives for personal growth and inspiration. Tune in for transformative teachings now!"
   },
   {
     "start": "15:30",
@@ -690,7 +173,7 @@
     "startTs": 1791905400000,
     "stopTs": 1791907200000,
     "title": "The Editor&apos;s Show",
-    "desc": "The host presents the latest updates pertaining to various pressing issues of the nation."
+    "desc": "Latest updates on forthcoming releases, tour dates and news."
   },
   {
     "start": "16:00",
@@ -701,7 +184,7 @@
     "startTs": 1791907200000,
     "stopTs": 1791909000000,
     "title": "Vistaar Vishesh",
-    "desc": "The host presents information about the social, economic and political issues of the day."
+    "desc": "Stay informed with in-depth coverage and special reports. Vistaar Vishesh brings you critical insights and stories you won&apos;t find anywhere else-tune in now!"
   },
   {
     "start": "16:30",
@@ -711,8 +194,8 @@
     "channelName": "Vistaar News",
     "startTs": 1791909000000,
     "stopTs": 1791910800000,
-    "title": "10 Baje 10 Report",
-    "desc": "The host sheds light on the top 10 news stories from various fields influencing people."
+    "title": "40 Loksabha 40 Khabar",
+    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
   },
   {
     "start": "17:00",
@@ -722,19 +205,19 @@
     "channelName": "Vistaar News",
     "startTs": 1791910800000,
     "stopTs": 1791912600000,
-    "title": "Khabar Fatafat",
-    "desc": "The host presents a detailed report of the latest news and developments."
+    "title": "Raftaar @ Vistaar",
+    "desc": "Stay updated with the latest stories and developments at lightning speed. Raftaar @ Vistaar brings you news and updates that matter-tune in now!"
   },
   {
     "start": "17:30",
-    "stop": "18:30",
+    "stop": "18:00",
     "channel": "VistaarNews.in",
     "channelId": "VistaarNews.in",
     "channelName": "Vistaar News",
     "startTs": 1791912600000,
-    "stopTs": 1791916200000,
-    "title": "Seedhe Mudde Ki Baat",
-    "desc": "A reporter sheds light on a topic or issue that is in the national news."
+    "stopTs": 1791914400000,
+    "title": "Logsabha",
+    "desc": "News Bulletin -- Various events and Current affairs."
   },
   {
     "start": "18:00",
@@ -964,6 +447,490 @@
     "channelName": "Vistaar News",
     "startTs": 1791952200000,
     "stopTs": 1791954000000,
+    "title": "Khabar Vistaar Se",
+    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791954000000,
+    "stopTs": 1791955800000,
+    "title": "Vistaar Vishesh",
+    "desc": "Stay informed with in-depth coverage and special reports. Vistaar Vishesh brings you critical insights and stories you won&apos;t find anywhere else-tune in now!"
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791955800000,
+    "stopTs": 1791957600000,
+    "title": "Khabar Vistaar Se",
+    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791957600000,
+    "stopTs": 1791959400000,
+    "title": "Logsabha",
+    "desc": "News Bulletin -- Various events and Current affairs."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791959400000,
+    "stopTs": 1791961200000,
+    "title": "Khabar Vistaar Se",
+    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791961200000,
+    "stopTs": 1791963000000,
+    "title": "Khabar Fatafat",
+    "desc": "News Bulletin -- Various events and Current affairs."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791963000000,
+    "stopTs": 1791964800000,
+    "title": "Khabar Vistaar Se",
+    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791964800000,
+    "stopTs": 1791966600000,
+    "title": "Laadali Mahtaari",
+    "desc": "Celebrate the beauty of motherhood and resilience with Laadali Mahtaari. A journey of love and sacrifice that will inspire you. Tune in for heartwarming moments today!"
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791966600000,
+    "stopTs": 1791968400000,
+    "title": "Khabar Vistaar Se",
+    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791968400000,
+    "stopTs": 1791970200000,
+    "title": "Glamour Ki Duniya",
+    "desc": "Check out the latest news from the glamour world."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791970200000,
+    "stopTs": 1791972000000,
+    "title": "Ye Toh Viral Hai",
+    "desc": "Stay on top of viral trends and stories that are making waves. Discover what&apos;s trending and why it matters. Don&apos;t miss out on Ye Toh Viral Hai!"
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791972000000,
+    "stopTs": 1791973800000,
+    "title": "Vande Bharat Express",
+    "desc": "The host presents an analysis of the latest news, updates, and developments regarding the Vande Bharat Express."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791973800000,
+    "stopTs": 1791977400000,
+    "title": "Loudspeaker",
+    "desc": "Get ready for an exciting ride through powerful stories and debates. Tune in for the latest happenings and bold voices shaping the world. Don&apos;t miss it!"
+  },
+  {
+    "start": "11:30",
+    "stop": "12:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791977400000,
+    "stopTs": 1791981000000,
+    "title": "Siyasat",
+    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791981000000,
+    "stopTs": 1791984600000,
+    "title": "Aapka Sheher Aapka Reporter",
+    "desc": "The latest political, economic, social and sports updates from various places across the nation."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791984600000,
+    "stopTs": 1791988200000,
+    "title": "Logsabha",
+    "desc": "News Bulletin -- Various events and Current affairs."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791988200000,
+    "stopTs": 1791991800000,
+    "title": "Gyanendra Ka Gyan",
+    "desc": "Join Gyanendra for profound wisdom and deep insights into life. Unlock new perspectives for personal growth and inspiration. Tune in for transformative teachings now!"
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791991800000,
+    "stopTs": 1791993600000,
+    "title": "The Editor&apos;s Show",
+    "desc": "Latest updates on forthcoming releases, tour dates and news."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791993600000,
+    "stopTs": 1791995400000,
+    "title": "Vistaar Vishesh",
+    "desc": "Stay informed with in-depth coverage and special reports. Vistaar Vishesh brings you critical insights and stories you won&apos;t find anywhere else-tune in now!"
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791995400000,
+    "stopTs": 1791997200000,
+    "title": "40 Loksabha 40 Khabar",
+    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791997200000,
+    "stopTs": 1791999000000,
+    "title": "Raftaar @ Vistaar",
+    "desc": "Stay updated with the latest stories and developments at lightning speed. Raftaar @ Vistaar brings you news and updates that matter-tune in now!"
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1791999000000,
+    "stopTs": 1792000800000,
+    "title": "Logsabha",
+    "desc": "News Bulletin -- Various events and Current affairs."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792000800000,
+    "stopTs": 1792002600000,
+    "title": "Glamour Ki Duniya",
+    "desc": "Check out the latest news from the glamour world."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792002600000,
+    "stopTs": 1792004400000,
+    "title": "Raftaar @ Vistaar",
+    "desc": "Stay updated with the latest stories and developments at lightning speed. Raftaar @ Vistaar brings you news and updates that matter-tune in now!"
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792004400000,
+    "stopTs": 1792006200000,
+    "title": "Ye Toh Viral Hai",
+    "desc": "Stay on top of viral trends and stories that are making waves. Discover what&apos;s trending and why it matters. Don&apos;t miss out on Ye Toh Viral Hai!"
+  },
+  {
+    "start": "19:30",
+    "stop": "20:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792006200000,
+    "stopTs": 1792009800000,
+    "title": "Gyanendra Ka Gyan",
+    "desc": "Join Gyanendra for profound wisdom and deep insights into life. Unlock new perspectives for personal growth and inspiration. Tune in for transformative teachings now!"
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792009800000,
+    "stopTs": 1792011600000,
+    "title": "The Editor&apos;s Show",
+    "desc": "Latest updates on forthcoming releases, tour dates and news."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792011600000,
+    "stopTs": 1792013400000,
+    "title": "Vistaar Vishesh",
+    "desc": "Stay informed with in-depth coverage and special reports. Vistaar Vishesh brings you critical insights and stories you won&apos;t find anywhere else-tune in now!"
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792013400000,
+    "stopTs": 1792015200000,
+    "title": "Raftaar @ Vistaar",
+    "desc": "Stay updated with the latest stories and developments at lightning speed. Raftaar @ Vistaar brings you news and updates that matter-tune in now!"
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792015200000,
+    "stopTs": 1792017000000,
+    "title": "Ye Toh Viral Hai",
+    "desc": "Stay on top of viral trends and stories that are making waves. Discover what&apos;s trending and why it matters. Don&apos;t miss out on Ye Toh Viral Hai!"
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792017000000,
+    "stopTs": 1792018800000,
+    "title": "Logsabha",
+    "desc": "News Bulletin -- Various events and Current affairs."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792018800000,
+    "stopTs": 1792020600000,
+    "title": "40 Loksabha 40 Khabar",
+    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792020600000,
+    "stopTs": 1792022400000,
+    "title": "Raftaar @ Vistaar",
+    "desc": "Stay updated with the latest stories and developments at lightning speed. Raftaar @ Vistaar brings you news and updates that matter-tune in now!"
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792022400000,
+    "stopTs": 1792024200000,
+    "title": "Ye Toh Viral Hai",
+    "desc": "Stay on top of viral trends and stories that are making waves. Discover what&apos;s trending and why it matters. Don&apos;t miss out on Ye Toh Viral Hai!"
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792024200000,
+    "stopTs": 1792026000000,
+    "title": "Morning Bulletin",
+    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792026000000,
+    "stopTs": 1792027800000,
+    "title": "Raftaar @ Vistaar",
+    "desc": "Stay updated with the latest stories and developments at lightning speed. Raftaar @ Vistaar brings you news and updates that matter-tune in now!"
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792027800000,
+    "stopTs": 1792029600000,
+    "title": "Suryodaya",
+    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792029600000,
+    "stopTs": 1792031400000,
+    "title": "Chhattisgarhiya Sable Badhiya",
+    "desc": "This is a news bulletin that keeps the viewers updated with the news and happenings in the region."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792031400000,
+    "stopTs": 1792033200000,
+    "title": "Desh Ke Dilse",
+    "desc": "News Bulletin -- Various events and Current affairs."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792033200000,
+    "stopTs": 1792035000000,
+    "title": "Chai Par Charcha",
+    "desc": "The host invites experts from various fields to discuss important news, developments and critical updates nationwide."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792035000000,
+    "stopTs": 1792036800000,
+    "title": "Vande Bharat Express",
+    "desc": "The host presents an analysis of the latest news, updates, and developments regarding the Vande Bharat Express."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792036800000,
+    "stopTs": 1792038600000,
+    "title": "Gyanendra Ka Gyan",
+    "desc": "Join Gyanendra for profound wisdom and deep insights into life. Unlock new perspectives for personal growth and inspiration. Tune in for transformative teachings now!"
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792038600000,
+    "stopTs": 1792040400000,
+    "title": "Khabar Vistaar Se",
+    "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792040400000,
+    "stopTs": 1792042200000,
+    "title": "Vistaar Vishesh",
+    "desc": "Stay informed with in-depth coverage and special reports. Vistaar Vishesh brings you critical insights and stories you won&apos;t find anywhere else-tune in now!"
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "VistaarNews.in",
+    "channelId": "VistaarNews.in",
+    "channelName": "Vistaar News",
+    "startTs": 1792042200000,
+    "stopTs": 1792044000000,
     "title": "Khabar Vistaar Se",
     "desc": "The host discusses the latest news updates and developments related to elections and other political matters."
   }

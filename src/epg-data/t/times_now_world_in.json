@@ -1,531 +1,102 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791775800000,
-    "stopTs": 1791777600000,
-    "title": "The Morning Newshour",
-    "desc": "."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791777600000,
-    "stopTs": 1791779400000,
-    "title": "The Morning Newshour",
-    "desc": "."
-  },
-  {
-    "start": "04:30",
-    "stop": "07:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791779400000,
-    "stopTs": 1791788400000,
-    "title": "Times Now Live",
-    "desc": "."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World HD",
-    "startTs": 1791784800000,
-    "stopTs": 1791786600000,
-    "title": "Times Now Live",
-    "desc": "A live show covering news from different region."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World HD",
-    "startTs": 1791786600000,
-    "stopTs": 1791788400000,
-    "title": "Times Now Live",
-    "desc": "A live show covering news from different region."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791788400000,
-    "stopTs": 1791790200000,
-    "title": "Times LIVE 30",
-    "desc": "."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791790200000,
-    "stopTs": 1791792000000,
-    "title": "Newsroom 365",
-    "desc": "."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791792000000,
-    "stopTs": 1791793800000,
-    "title": "Times LIVE 30",
-    "desc": "."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791793800000,
-    "stopTs": 1791795600000,
-    "title": "Breaking Ground",
-    "desc": "."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791795600000,
-    "stopTs": 1791797400000,
-    "title": "Breaking Ground",
-    "desc": "."
-  },
-  {
-    "start": "09:30",
-    "stop": "11:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791797400000,
-    "stopTs": 1791804600000,
-    "title": "Times Now LiveWire",
-    "desc": "."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World HD",
-    "startTs": 1791799200000,
-    "stopTs": 1791801000000,
-    "title": "Times Now Live Wire",
-    "desc": "All the dots connected to reveal the real story,you will get on TNLiveWire from 3-5 PM."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World HD",
-    "startTs": 1791801000000,
-    "stopTs": 1791804600000,
-    "title": "Times Now Live Wire",
-    "desc": "All the dots connected to reveal the real story,you will get on TNLiveWire from 3-5 PM."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791804600000,
-    "stopTs": 1791806400000,
-    "title": "Breaking Ground",
-    "desc": "."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791806400000,
-    "stopTs": 1791808200000,
-    "title": "Breaking Ground",
-    "desc": "."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791808200000,
-    "stopTs": 1791810000000,
-    "title": "Blueprint",
-    "desc": "."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791810000000,
-    "stopTs": 1791811800000,
-    "title": "Blueprint",
-    "desc": "."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791811800000,
-    "stopTs": 1791813600000,
-    "title": "Nation Wants to Know",
-    "desc": "."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791813600000,
-    "stopTs": 1791815400000,
-    "title": "Nation Wants to Know",
-    "desc": "."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791815400000,
-    "stopTs": 1791817200000,
-    "title": "India Upfront",
-    "desc": "."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791817200000,
-    "stopTs": 1791819000000,
-    "title": "India Upfront",
-    "desc": "."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791819000000,
-    "stopTs": 1791820800000,
-    "title": "The Newshour @ 9",
-    "desc": "."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791820800000,
-    "stopTs": 1791822600000,
-    "title": "The Newshour @ 9",
-    "desc": "."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791822600000,
-    "stopTs": 1791824400000,
-    "title": "The Newshour 10 Agenda",
-    "desc": "."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791824400000,
-    "stopTs": 1791826200000,
-    "title": "The Newshour 10 Agenda",
-    "desc": "."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791826200000,
-    "stopTs": 1791828000000,
-    "title": "India Upfront",
-    "desc": "."
-  },
-  {
-    "start": "18:00",
-    "stop": "00:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791828000000,
-    "stopTs": 1791851400000,
-    "title": "India Upfront",
-    "desc": "."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World HD",
-    "startTs": 1791829800000,
-    "stopTs": 1791833400000,
-    "title": "India Upfront",
-    "desc": "The host presents the latest news updates and happenings related to various topics along with hard facts."
-  },
-  {
-    "start": "19:30",
-    "stop": "21:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World HD",
-    "startTs": 1791833400000,
-    "stopTs": 1791840600000,
-    "title": "The Newshour First",
-    "desc": "At 9 PM prime time, you will see Navika Kumar bring you the big debates."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World HD",
-    "startTs": 1791840600000,
-    "stopTs": 1791844200000,
-    "title": "India Upfront",
-    "desc": "The host presents the latest news updates and happenings related to various topics along with hard facts."
-  },
-  {
-    "start": "22:30",
-    "stop": "00:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World HD",
-    "startTs": 1791844200000,
-    "stopTs": 1791851400000,
-    "title": "The News Hour First",
-    "desc": "At 9 PM, Navika Kumar hosts impactful debates in prime time. Tune in for the latest discussions."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791851400000,
-    "stopTs": 1791853200000,
-    "title": "India Upfront",
-    "desc": "."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791853200000,
-    "stopTs": 1791855000000,
-    "title": "India Upfront",
-    "desc": "."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791855000000,
-    "stopTs": 1791856800000,
-    "title": "First Break",
-    "desc": "."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791856800000,
-    "stopTs": 1791858600000,
-    "title": "First Break",
-    "desc": "."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791858600000,
-    "stopTs": 1791860400000,
-    "title": "The Morning Newshour",
-    "desc": "."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791860400000,
-    "stopTs": 1791862200000,
-    "title": "The Morning Newshour",
-    "desc": "."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791862200000,
-    "stopTs": 1791864000000,
-    "title": "The Morning Newshour",
-    "desc": "."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "TimesNowWorld.in",
-    "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
-    "startTs": 1791864000000,
-    "stopTs": 1791865800000,
-    "title": "The Morning Newshour",
-    "desc": "."
-  },
-  {
     "start": "04:30",
     "stop": "06:00",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791865800000,
     "stopTs": 1791871200000,
     "title": "Times Now Live",
-    "desc": "."
+    "desc": "A live show covering news from different region."
   },
   {
     "start": "06:00",
     "stop": "06:30",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791871200000,
     "stopTs": 1791873000000,
-    "title": "News Flash",
-    "desc": "."
+    "title": "Times Now Live",
+    "desc": "A live show covering news from different region."
   },
   {
     "start": "06:30",
     "stop": "07:00",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791873000000,
     "stopTs": 1791874800000,
     "title": "Times Now Live",
-    "desc": "."
+    "desc": "A live show covering news from different region."
   },
   {
     "start": "07:00",
     "stop": "07:30",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791874800000,
     "stopTs": 1791876600000,
-    "title": "Times LIVE 30",
-    "desc": "."
+    "title": "Times Live 30",
+    "desc": "Host highlights top 30 news from India and worldwide: politics, society, economy, sports, disasters."
   },
   {
     "start": "07:30",
     "stop": "08:00",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791876600000,
     "stopTs": 1791878400000,
     "title": "Newsroom 365",
-    "desc": "."
+    "desc": "The host presents the latest news updates and happenings related to various topics along with hard facts."
   },
   {
     "start": "08:00",
     "stop": "08:30",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791878400000,
     "stopTs": 1791880200000,
-    "title": "Times LIVE 30",
-    "desc": "."
+    "title": "Times Live 30",
+    "desc": "Host highlights top 30 news from India and worldwide: politics, society, economy, sports, disasters."
   },
   {
     "start": "08:30",
-    "stop": "09:00",
+    "stop": "09:30",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791880200000,
-    "stopTs": 1791882000000,
+    "stopTs": 1791883800000,
     "title": "Breaking Ground",
-    "desc": "."
+    "desc": "Delve into the preparation one undergoes to participate in professional wrestling bouts."
   },
   {
     "start": "09:00",
     "stop": "09:30",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791882000000,
     "stopTs": 1791883800000,
     "title": "Breaking Ground",
-    "desc": "."
+    "desc": "The host presents the latest updates and developments on various political, social and economic issues affecting the country."
   },
   {
     "start": "09:30",
-    "stop": "11:30",
+    "stop": "10:00",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791883800000,
-    "stopTs": 1791891000000,
-    "title": "Times Now LiveWire",
-    "desc": "."
+    "stopTs": 1791885600000,
+    "title": "Times Now Live Wire",
+    "desc": "All the dots connected to reveal the real story,you will get on TNLiveWire from 3-5 PM."
   },
   {
     "start": "10:00",
@@ -554,154 +125,154 @@
     "stop": "12:00",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791891000000,
     "stopTs": 1791892800000,
     "title": "Breaking Ground",
-    "desc": "."
+    "desc": "Delve into the preparation one undergoes to participate in professional wrestling bouts."
   },
   {
     "start": "12:00",
     "stop": "12:30",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791892800000,
     "stopTs": 1791894600000,
     "title": "Breaking Ground",
-    "desc": "."
+    "desc": "Delve into the preparation one undergoes to participate in professional wrestling bouts."
   },
   {
     "start": "12:30",
     "stop": "13:00",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791894600000,
     "stopTs": 1791896400000,
-    "title": "Blueprint",
-    "desc": "."
+    "title": "Blue Print",
+    "desc": "A story has many angles. The best way to find the correct one is by studying its Blueprint."
   },
   {
     "start": "13:00",
     "stop": "13:30",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791896400000,
     "stopTs": 1791898200000,
-    "title": "Blueprint",
-    "desc": "."
+    "title": "Blue Print",
+    "desc": "A story has many angles. The best way to find the correct one is by studying its Blueprint."
   },
   {
     "start": "13:30",
-    "stop": "14:00",
+    "stop": "14:30",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791898200000,
-    "stopTs": 1791900000000,
-    "title": "Nation Wants to Know",
-    "desc": "."
+    "stopTs": 1791901800000,
+    "title": "Nation Wants To Know",
+    "desc": "The host presents the major national and international issues and discusses them with experts."
   },
   {
     "start": "14:00",
     "stop": "14:30",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791900000000,
     "stopTs": 1791901800000,
     "title": "Nation Wants to Know",
-    "desc": "."
+    "desc": "The host delves into pressing national issues, offering in-depth analyses, investigative reports and interviews to uncover the truth behind significant events and controversies."
   },
   {
     "start": "14:30",
-    "stop": "15:00",
+    "stop": "15:30",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791901800000,
-    "stopTs": 1791903600000,
+    "stopTs": 1791905400000,
     "title": "India Upfront",
-    "desc": "."
+    "desc": "The host presents the latest news updates and happenings related to various topics along with hard facts."
   },
   {
     "start": "15:00",
     "stop": "15:30",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791903600000,
     "stopTs": 1791905400000,
     "title": "India Upfront",
-    "desc": "."
+    "desc": "The host provides in-depth insights and factual analysis on the latest news, updates and developments on a range of issues relating to India."
   },
   {
     "start": "15:30",
-    "stop": "16:00",
+    "stop": "16:30",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791905400000,
-    "stopTs": 1791907200000,
+    "stopTs": 1791909000000,
     "title": "The Newshour @ 9",
-    "desc": "."
+    "desc": "At 9 PM prime time, you will see Navika Kumar bring you the big debates."
   },
   {
     "start": "16:00",
     "stop": "16:30",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791907200000,
     "stopTs": 1791909000000,
     "title": "The Newshour @ 9",
-    "desc": "."
+    "desc": "The host invites prominent personalities from various fields and holds a debate with them on several social and political issues."
   },
   {
     "start": "16:30",
-    "stop": "17:00",
+    "stop": "17:30",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791909000000,
-    "stopTs": 1791910800000,
-    "title": "The Newshour 10 Agenda",
-    "desc": "."
+    "stopTs": 1791912600000,
+    "title": "Newshour 10 Agenda",
+    "desc": "Host gathers experts from various fields to discuss recent social, economic, and political events."
   },
   {
     "start": "17:00",
     "stop": "17:30",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791910800000,
     "stopTs": 1791912600000,
     "title": "The Newshour 10 Agenda",
-    "desc": "."
+    "desc": "The host provides an in-depth analysis of the latest updates and developments on various national and international issues."
   },
   {
     "start": "17:30",
-    "stop": "18:00",
+    "stop": "18:30",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791912600000,
-    "stopTs": 1791914400000,
-    "title": "India Upfront",
-    "desc": "."
+    "stopTs": 1791916200000,
+    "title": "News Now Overnight",
+    "desc": "Experts provide clear analysis of daily news across the country."
   },
   {
     "start": "18:00",
     "stop": "18:30",
     "channel": "TimesNowWorld.in",
     "channelId": "TimesNowWorld.in",
-    "channelName": "Times Now World",
+    "channelName": "Times Now World HD",
     "startTs": 1791914400000,
     "stopTs": 1791916200000,
     "title": "India Upfront",
-    "desc": "."
+    "desc": "The host provides in-depth insights and factual analysis on the latest news, updates and developments on a range of issues relating to India."
   },
   {
     "start": "18:30",
@@ -715,6 +286,17 @@
     "desc": "The host presents the latest news updates and happenings related to various topics along with hard facts."
   },
   {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791918000000,
+    "stopTs": 1791919800000,
+    "title": "The Newshour First",
+    "desc": "The hosts invite a panel of experts to engage in a debate and discuss various issues pertaining to the political, social and economic issues of the nation."
+  },
+  {
     "start": "19:30",
     "stop": "21:30",
     "channel": "TimesNowWorld.in",
@@ -724,6 +306,39 @@
     "stopTs": 1791927000000,
     "title": "The Newshour First",
     "desc": "At 9 PM prime time, you will see Navika Kumar bring you the big debates."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791921600000,
+    "stopTs": 1791923400000,
+    "title": "The Newshour First",
+    "desc": "The hosts invite a panel of experts to engage in a debate and discuss various issues pertaining to the political, social and economic issues of the nation."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791923400000,
+    "stopTs": 1791925200000,
+    "title": "India Upfront",
+    "desc": "The host provides in-depth insights and factual analysis on the latest news, updates and developments on a range of issues relating to India."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791925200000,
+    "stopTs": 1791927000000,
+    "title": "India Upfront",
+    "desc": "The host provides in-depth insights and factual analysis on the latest news, updates and developments on a range of issues relating to India."
   },
   {
     "start": "21:30",
@@ -737,6 +352,17 @@
     "desc": "The host presents the latest news updates and happenings related to various topics along with hard facts."
   },
   {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791928800000,
+    "stopTs": 1791930600000,
+    "title": "The Newshour First",
+    "desc": "The hosts invite a panel of experts to engage in a debate and discuss various issues pertaining to the political, social and economic issues of the nation."
+  },
+  {
     "start": "22:30",
     "stop": "23:30",
     "channel": "TimesNowWorld.in",
@@ -746,6 +372,17 @@
     "stopTs": 1791934200000,
     "title": "News Hour First",
     "desc": "At 9 PM, Navika Kumar hosts impactful debates in prime time. Tune in for the latest discussions."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791932400000,
+    "stopTs": 1791934200000,
+    "title": "The Newshour First",
+    "desc": "The hosts invite a panel of experts to engage in a debate and discuss various issues pertaining to the political, social and economic issues of the nation."
   },
   {
     "start": "23:30",
@@ -759,6 +396,17 @@
     "desc": "At 9 PM prime time, you will see Navika Kumar bring you the big debates."
   },
   {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791936000000,
+    "stopTs": 1791937800000,
+    "title": "The Newshour First",
+    "desc": "The hosts invite a panel of experts to engage in a debate and discuss various issues pertaining to the political, social and economic issues of the nation."
+  },
+  {
     "start": "00:30",
     "stop": "01:30",
     "channel": "TimesNowWorld.in",
@@ -768,6 +416,17 @@
     "stopTs": 1791941400000,
     "title": "First Break",
     "desc": "The anchor presents the latest updates on the important national and international stories."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791939600000,
+    "stopTs": 1791941400000,
+    "title": "NH 9",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "01:30",
@@ -781,6 +440,17 @@
     "desc": "The anchor presents the latest updates on the important national and international stories."
   },
   {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791943200000,
+    "stopTs": 1791945000000,
+    "title": "First Break",
+    "desc": "The host presents the latest updates on the important national and international political and economic news stories from around the world."
+  },
+  {
     "start": "02:30",
     "stop": "03:30",
     "channel": "TimesNowWorld.in",
@@ -790,6 +460,17 @@
     "stopTs": 1791948600000,
     "title": "The Morning Newshour",
     "desc": "The host presents the latest news updates and happenings related to various topics along with hard facts."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791946800000,
+    "stopTs": 1791948600000,
+    "title": "The Morning Newshour",
+    "desc": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world."
   },
   {
     "start": "03:30",
@@ -803,6 +484,17 @@
     "desc": "The host presents the latest news updates and happenings related to various topics along with hard facts."
   },
   {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791950400000,
+    "stopTs": 1791952200000,
+    "title": "The Morning Newshour",
+    "desc": "The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the nation and the world."
+  },
+  {
     "start": "04:30",
     "stop": "06:00",
     "channel": "TimesNowWorld.in",
@@ -810,6 +502,380 @@
     "channelName": "Times Now World HD",
     "startTs": 1791952200000,
     "stopTs": 1791957600000,
+    "title": "Times Now Live",
+    "desc": "A live show covering news from different region."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791957600000,
+    "stopTs": 1791959400000,
+    "title": "Times Now Live",
+    "desc": "A live show covering news from different region."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791959400000,
+    "stopTs": 1791961200000,
+    "title": "Times Now Live",
+    "desc": "A live show covering news from different region."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791961200000,
+    "stopTs": 1791963000000,
+    "title": "Times Live 30",
+    "desc": "Host highlights top 30 news from India and worldwide: politics, society, economy, sports, disasters."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791963000000,
+    "stopTs": 1791964800000,
+    "title": "Newsroom 365",
+    "desc": "The host presents the latest news updates and happenings related to various topics along with hard facts."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791964800000,
+    "stopTs": 1791966600000,
+    "title": "Times Live 30",
+    "desc": "Host highlights top 30 news from India and worldwide: politics, society, economy, sports, disasters."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791966600000,
+    "stopTs": 1791970200000,
+    "title": "Breaking Ground",
+    "desc": "Delve into the preparation one undergoes to participate in professional wrestling bouts."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791968400000,
+    "stopTs": 1791970200000,
+    "title": "Breaking Ground",
+    "desc": "The host presents the latest updates and developments on various political, social and economic issues affecting the country."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791970200000,
+    "stopTs": 1791972000000,
+    "title": "Times Now Live Wire",
+    "desc": "All the dots connected to reveal the real story,you will get on TNLiveWire from 3-5 PM."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791972000000,
+    "stopTs": 1791973800000,
+    "title": "Times Now Live Wire",
+    "desc": "All the dots connected to reveal the real story,you will get on TNLiveWire from 3-5 PM."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791973800000,
+    "stopTs": 1791977400000,
+    "title": "Times Now Live Wire",
+    "desc": "All the dots connected to reveal the real story,you will get on TNLiveWire from 3-5 PM."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791977400000,
+    "stopTs": 1791979200000,
+    "title": "Breaking Ground",
+    "desc": "Delve into the preparation one undergoes to participate in professional wrestling bouts."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791979200000,
+    "stopTs": 1791981000000,
+    "title": "Breaking Ground",
+    "desc": "Delve into the preparation one undergoes to participate in professional wrestling bouts."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791981000000,
+    "stopTs": 1791982800000,
+    "title": "Blue Print",
+    "desc": "A story has many angles. The best way to find the correct one is by studying its Blueprint."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791982800000,
+    "stopTs": 1791984600000,
+    "title": "Blue Print",
+    "desc": "A story has many angles. The best way to find the correct one is by studying its Blueprint."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791984600000,
+    "stopTs": 1791988200000,
+    "title": "Nation Wants To Know",
+    "desc": "The host presents the major national and international issues and discusses them with experts."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791986400000,
+    "stopTs": 1791988200000,
+    "title": "Nation Wants to Know",
+    "desc": "The host delves into pressing national issues, offering in-depth analyses, investigative reports and interviews to uncover the truth behind significant events and controversies."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791988200000,
+    "stopTs": 1791991800000,
+    "title": "India Upfront",
+    "desc": "The host presents the latest news updates and happenings related to various topics along with hard facts."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791990000000,
+    "stopTs": 1791991800000,
+    "title": "India Upfront",
+    "desc": "The host provides in-depth insights and factual analysis on the latest news, updates and developments on a range of issues relating to India."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791991800000,
+    "stopTs": 1791995400000,
+    "title": "The Newshour @ 9",
+    "desc": "At 9 PM prime time, you will see Navika Kumar bring you the big debates."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791993600000,
+    "stopTs": 1791995400000,
+    "title": "The Newshour @ 9",
+    "desc": "The host invites prominent personalities from various fields and holds a debate with them on several social and political issues."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791995400000,
+    "stopTs": 1791999000000,
+    "title": "Newshour 10 Agenda",
+    "desc": "Host gathers experts from various fields to discuss recent social, economic, and political events."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791997200000,
+    "stopTs": 1791999000000,
+    "title": "The Newshour 10 Agenda",
+    "desc": "The host provides an in-depth analysis of the latest updates and developments on various national and international issues."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1791999000000,
+    "stopTs": 1792002600000,
+    "title": "News Now Overnight",
+    "desc": "Experts provide clear analysis of daily news across the country."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1792000800000,
+    "stopTs": 1792002600000,
+    "title": "India Upfront",
+    "desc": "The host provides in-depth insights and factual analysis on the latest news, updates and developments on a range of issues relating to India."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1792002600000,
+    "stopTs": 1792006200000,
+    "title": "India Upfront",
+    "desc": "The host presents the latest news updates and happenings related to various topics along with hard facts."
+  },
+  {
+    "start": "19:30",
+    "stop": "21:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1792006200000,
+    "stopTs": 1792013400000,
+    "title": "The Newshour First",
+    "desc": "At 9 PM prime time, you will see Navika Kumar bring you the big debates."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1792013400000,
+    "stopTs": 1792017000000,
+    "title": "India Upfront",
+    "desc": "The host presents the latest news updates and happenings related to various topics along with hard facts."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1792017000000,
+    "stopTs": 1792020600000,
+    "title": "News Hour First",
+    "desc": "At 9 PM, Navika Kumar hosts impactful debates in prime time. Tune in for the latest discussions."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1792020600000,
+    "stopTs": 1792024200000,
+    "title": "The Newshour First",
+    "desc": "At 9 PM prime time, you will see Navika Kumar bring you the big debates."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1792024200000,
+    "stopTs": 1792027800000,
+    "title": "First Break",
+    "desc": "The anchor presents the latest updates on the important national and international stories."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1792027800000,
+    "stopTs": 1792031400000,
+    "title": "First Break",
+    "desc": "The anchor presents the latest updates on the important national and international stories."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1792031400000,
+    "stopTs": 1792035000000,
+    "title": "The Morning Newshour",
+    "desc": "The host presents the latest news updates and happenings related to various topics along with hard facts."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1792035000000,
+    "stopTs": 1792038600000,
+    "title": "The Morning Newshour",
+    "desc": "The host presents the latest news updates and happenings related to various topics along with hard facts."
+  },
+  {
+    "start": "04:30",
+    "stop": "06:00",
+    "channel": "TimesNowWorld.in",
+    "channelId": "TimesNowWorld.in",
+    "channelName": "Times Now World HD",
+    "startTs": 1792038600000,
+    "stopTs": 1792044000000,
     "title": "Times Now Live",
     "desc": "A live show covering news from different region."
   }
