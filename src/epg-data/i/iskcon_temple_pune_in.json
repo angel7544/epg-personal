@@ -1,49 +1,5 @@
 [
   {
-    "start": "23:30",
-    "stop": "23:45",
-    "channel": "ISKCONTemple,Pune.in",
-    "channelId": "ISKCONTemple,Pune.in",
-    "channelName": "ISKCON Temple, Pune",
-    "startTs": 1792366200000,
-    "stopTs": 1792367100000,
-    "title": "Temple Opens",
-    "desc": "Temple Opens"
-  },
-  {
-    "start": "23:45",
-    "stop": "00:30",
-    "channel": "ISKCONTemple,Pune.in",
-    "channelId": "ISKCONTemple,Pune.in",
-    "channelName": "ISKCON Temple, Pune",
-    "startTs": 1792367100000,
-    "stopTs": 1792369800000,
-    "title": "Kakad Morning Aarti",
-    "desc": "Kakad Morning Aarti"
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "ISKCONTemple,Pune.in",
-    "channelId": "ISKCONTemple,Pune.in",
-    "channelName": "ISKCON Temple, Pune",
-    "startTs": 1792369800000,
-    "stopTs": 1792371600000,
-    "title": "Dhuni Poojai ( In Front of Dhuni )",
-    "desc": "Dhuni Poojai ( In Front of Dhuni )"
-  },
-  {
-    "start": "01:00",
-    "stop": "02:15",
-    "channel": "ISKCONTemple,Pune.in",
-    "channelId": "ISKCONTemple,Pune.in",
-    "channelName": "ISKCON Temple, Pune",
-    "startTs": 1792371600000,
-    "stopTs": 1792376100000,
-    "title": "Homam",
-    "desc": "Homam"
-  },
-  {
     "start": "02:15",
     "stop": "05:30",
     "channel": "ISKCONTemple,Pune.in",
@@ -150,6 +106,160 @@
     "channelName": "ISKCON Temple, Pune",
     "startTs": 1792423800000,
     "stopTs": 1792452600000,
+    "title": "Temple Closed For Day",
+    "desc": "Temple Closed For Day"
+  },
+  {
+    "start": "23:30",
+    "stop": "23:45",
+    "channel": "ISKCONTemple,Pune.in",
+    "channelId": "ISKCONTemple,Pune.in",
+    "channelName": "ISKCON Temple, Pune",
+    "startTs": 1792452600000,
+    "stopTs": 1792453500000,
+    "title": "Temple Opens",
+    "desc": "Temple Opens"
+  },
+  {
+    "start": "23:45",
+    "stop": "00:30",
+    "channel": "ISKCONTemple,Pune.in",
+    "channelId": "ISKCONTemple,Pune.in",
+    "channelName": "ISKCON Temple, Pune",
+    "startTs": 1792453500000,
+    "stopTs": 1792456200000,
+    "title": "Kakad Morning Aarti",
+    "desc": "Kakad Morning Aarti"
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "ISKCONTemple,Pune.in",
+    "channelId": "ISKCONTemple,Pune.in",
+    "channelName": "ISKCON Temple, Pune",
+    "startTs": 1792456200000,
+    "stopTs": 1792458000000,
+    "title": "Dhuni Poojai ( In Front of Dhuni )",
+    "desc": "Dhuni Poojai ( In Front of Dhuni )"
+  },
+  {
+    "start": "01:00",
+    "stop": "02:15",
+    "channel": "ISKCONTemple,Pune.in",
+    "channelId": "ISKCONTemple,Pune.in",
+    "channelName": "ISKCON Temple, Pune",
+    "startTs": 1792458000000,
+    "stopTs": 1792462500000,
+    "title": "Homam",
+    "desc": "Homam"
+  },
+  {
+    "start": "02:15",
+    "stop": "05:30",
+    "channel": "ISKCONTemple,Pune.in",
+    "channelId": "ISKCONTemple,Pune.in",
+    "channelName": "ISKCON Temple, Pune",
+    "startTs": 1792462500000,
+    "stopTs": 1792474200000,
+    "title": "Morning Abhishekam",
+    "desc": "Morning Abhishekam"
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "ISKCONTemple,Pune.in",
+    "channelId": "ISKCONTemple,Pune.in",
+    "channelName": "ISKCON Temple, Pune",
+    "startTs": 1792474200000,
+    "stopTs": 1792477800000,
+    "title": "Bhajans",
+    "desc": "Bhajans"
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "ISKCONTemple,Pune.in",
+    "channelId": "ISKCONTemple,Pune.in",
+    "channelName": "ISKCON Temple, Pune",
+    "startTs": 1792477800000,
+    "stopTs": 1792479600000,
+    "title": "Afternoon Abhishekam And Mangala Aarti",
+    "desc": "Afternoon Abhishekam And Mangala Aarti"
+  },
+  {
+    "start": "07:00",
+    "stop": "10:30",
+    "channel": "ISKCONTemple,Pune.in",
+    "channelId": "ISKCONTemple,Pune.in",
+    "channelName": "ISKCON Temple, Pune",
+    "startTs": 1792479600000,
+    "stopTs": 1792492200000,
+    "title": "Madyan (Afternoon) Aarti",
+    "desc": "Madyan (Afternoon) Aarti"
+  },
+  {
+    "start": "10:30",
+    "stop": "12:45",
+    "channel": "ISKCONTemple,Pune.in",
+    "channelId": "ISKCONTemple,Pune.in",
+    "channelName": "ISKCON Temple, Pune",
+    "startTs": 1792492200000,
+    "stopTs": 1792500300000,
+    "title": "Temple Opens",
+    "desc": "Temple Opens"
+  },
+  {
+    "start": "12:45",
+    "stop": "13:15",
+    "channel": "ISKCONTemple,Pune.in",
+    "channelId": "ISKCONTemple,Pune.in",
+    "channelName": "ISKCON Temple, Pune",
+    "startTs": 1792500300000,
+    "stopTs": 1792502100000,
+    "title": "Dhoop (Evening) Aarti",
+    "desc": "Dhoop (Evening) Aarti"
+  },
+  {
+    "start": "13:15",
+    "stop": "14:00",
+    "channel": "ISKCONTemple,Pune.in",
+    "channelId": "ISKCONTemple,Pune.in",
+    "channelName": "ISKCON Temple, Pune",
+    "startTs": 1792502100000,
+    "stopTs": 1792504800000,
+    "title": "Bhajans",
+    "desc": "Bhajans"
+  },
+  {
+    "start": "14:00",
+    "stop": "15:00",
+    "channel": "ISKCONTemple,Pune.in",
+    "channelId": "ISKCONTemple,Pune.in",
+    "channelName": "ISKCON Temple, Pune",
+    "startTs": 1792504800000,
+    "stopTs": 1792508400000,
+    "title": "Thiru Vilakku Poojai",
+    "desc": "Thiru Vilakku Poojai"
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "ISKCONTemple,Pune.in",
+    "channelId": "ISKCONTemple,Pune.in",
+    "channelName": "ISKCON Temple, Pune",
+    "startTs": 1792508400000,
+    "stopTs": 1792510200000,
+    "title": "Seja (Night) Aarti",
+    "desc": "Seja (Night) Aarti"
+  },
+  {
+    "start": "15:30",
+    "stop": "23:30",
+    "channel": "ISKCONTemple,Pune.in",
+    "channelId": "ISKCONTemple,Pune.in",
+    "channelName": "ISKCON Temple, Pune",
+    "startTs": 1792510200000,
+    "stopTs": 1792539000000,
     "title": "Temple Closed For Day",
     "desc": "Temple Closed For Day"
   }
