@@ -1,366 +1,135 @@
 [
   {
-    "start": "01:08",
-    "stop": "03:00",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792458480000,
-    "stopTs": 1792465200000,
-    "title": "Spotlight",
-    "desc": "Martin Baron joins the Boston Globe as an editor and pushes four journalists to pursue a story about the child molestation charges against the local church."
-  },
-  {
-    "start": "01:11",
-    "stop": "03:03",
-    "channel": "MNHD.in",
-    "channelId": "MNHD.in",
-    "channelName": "MN+ HD",
-    "startTs": 1792458660000,
-    "stopTs": 1792465380000,
-    "title": "Spotlight",
-    "desc": "Martin Baron joins the Boston Globe as an editor and pushes four journalists to pursue a story about the child molestation charges against the local church."
-  },
-  {
-    "start": "03:00",
-    "stop": "04:45",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792465200000,
-    "stopTs": 1792471500000,
-    "title": "Big Eyes",
-    "desc": "The husband of Margaret Keane, a phenomenal painter, wrongfully claims credit for her works and enjoys her success until a legal battle between the two reveals the truth to the world."
-  },
-  {
-    "start": "03:03",
-    "stop": "04:49",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792465380000,
-    "stopTs": 1792471740000,
-    "title": "Big Eyes",
-    "desc": "The awakening of painter Margaret Keane, her phenomenal success in the 1950s, and the subsequent legal difficulties she had with her husband, who claimed credit for her works in the 1960s."
-  },
-  {
-    "start": "04:45",
-    "stop": "06:53",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792471500000,
-    "stopTs": 1792479180000,
-    "title": "The Prestige",
-    "desc": "Two friends and fellow magicians become bitter enemies after a sudden tragedy. However, as they devote themselves to this rivalry, they make sacrifices that bring them fame and terrible consequences."
-  },
-  {
-    "start": "04:49",
-    "stop": "06:57",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792471740000,
-    "stopTs": 1792479420000,
-    "title": "The Prestige",
-    "desc": "Two stage magicians engage in competitive one-upmanship in an attempt to create the ultimate stage illusion"
-  },
-  {
-    "start": "06:53",
-    "stop": "09:05",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792479180000,
-    "stopTs": 1792487100000,
-    "title": "Captain Phillips",
-    "desc": "Somali pirates attack the Maersk Alabama, a container ship, while it is on its course to Kenya. Richard Phillips, the captain of the ship, uses his wits to negotiate with them to save his crew."
-  },
-  {
-    "start": "06:57",
-    "stop": "09:09",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792479420000,
-    "stopTs": 1792487340000,
-    "title": "Captain Phillips",
-    "desc": "Two U.S. Marines in World War II are assigned to protect Navajo Marines, who use their native language as an unbreakable radio cypher."
-  },
-  {
-    "start": "09:05",
-    "stop": "11:00",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792487100000,
-    "stopTs": 1792494000000,
-    "title": "Silver Linings Playbook",
-    "desc": "After spending eight months in a mental institution, a man tries to start a new life."
-  },
-  {
-    "start": "09:09",
-    "stop": "11:05",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792487340000,
-    "stopTs": 1792494300000,
-    "title": "Silver Linings Playbook",
-    "desc": "After a stint at a mental institution, Pat tries to reconcile with his ex-wife. Things get complicated when he meets the mysterious Tiffany."
-  },
-  {
-    "start": "11:00",
-    "stop": "13:24",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792494000000,
-    "stopTs": 1792502640000,
-    "title": "King Richard",
-    "desc": "Equipped with an elaborate plan, clear vision and unwavering determination, Richard Williams, a sports coach, encourages his daughters, Venus and Serena, to become tennis champions."
-  },
-  {
-    "start": "11:05",
-    "stop": "13:30",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792494300000,
-    "stopTs": 1792503000000,
-    "title": "King Richard",
-    "desc": "A look at how tennis superstars Venus and Serena Williams became who they are after the coaching from their father Richard."
-  },
-  {
-    "start": "13:24",
-    "stop": "15:29",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792502640000,
-    "stopTs": 1792510140000,
-    "title": "Pride and Prejudice",
-    "desc": "While wealthy suitors excite her ambitious mother, independent Elizabeth Bennet cleverly counters proud Mr Darcy. Consequently, sharp debates ensue."
-  },
-  {
-    "start": "13:30",
-    "stop": "15:35",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792503000000,
-    "stopTs": 1792510500000,
-    "title": "Pride And Prejudice",
-    "desc": "While the arrival of wealthy gentlemen sends her marriage-minded mother into a frenzy, willful and opinionated Elizabeth Bennet matches wits with haughty Mr. Darcy."
-  },
-  {
-    "start": "15:29",
-    "stop": "18:02",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792510140000,
-    "stopTs": 1792519320000,
-    "title": "The Pianist",
-    "desc": "A Jewish musician&apos;s privileged lifestyle comes to an end with the Nazi invasion of Germany, following which he must endure the horrors of the Holocaust."
-  },
-  {
-    "start": "15:35",
-    "stop": "18:07",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792510500000,
-    "stopTs": 1792519620000,
-    "title": "The Pianist",
-    "desc": "During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive."
-  },
-  {
-    "start": "18:02",
-    "stop": "19:50",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792519320000,
-    "stopTs": 1792525800000,
-    "title": "Monster&apos;s Ball",
-    "desc": "Hank, a prison guard, is a part of convicted murderer Lawrence Musgrove&apos;s execution, but when he meets Leticia, a Black woman, he becomes smitten with her, unaware that she is Musgrove&apos;s widow."
-  },
-  {
-    "start": "18:07",
-    "stop": "19:56",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792519620000,
-    "stopTs": 1792526160000,
-    "title": "Monster&apos;s Ball",
-    "desc": "After a family tragedy, a racist prison guard re-examines his attitudes while falling in love with the African-American wife of the last prisoner he executed."
-  },
-  {
-    "start": "19:50",
-    "stop": "21:30",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792525800000,
-    "stopTs": 1792531800000,
-    "title": "The Family Fang",
-    "desc": "After the police inform them about their parents&apos; mysterious disappearance, two siblings embark on a mission to uncover the truth."
-  },
-  {
-    "start": "19:56",
-    "stop": "21:30",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792526160000,
-    "stopTs": 1792531800000,
-    "title": "Family Fang",
-    "desc": "A brother and sister return to their family home in search of their world famous parents who have disappeared."
-  },
-  {
-    "start": "21:30",
-    "stop": "23:25",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792531800000,
-    "stopTs": 1792538700000,
-    "title": "Jennifer Lopez: Dance Again 3D",
-    "desc": "A documentary that chronicles Jennifer Lopez&apos;s life on- and off-stage during her first-ever world tour."
-  },
-  {
-    "start": "23:25",
-    "stop": "01:20",
-    "channel": "MoviesNowPlus.in",
-    "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
-    "startTs": 1792538700000,
-    "stopTs": 1792545600000,
-    "title": "The Company You Keep",
-    "desc": "Jim Grant, a member of an anti-Vietnam War militant group, is accused of bank robbery. He works as an attorney in New York and has eluded the FBI for 30 years. Then, a young reporter exposes him."
-  },
-  {
     "start": "01:20",
     "stop": "03:05",
     "channel": "MoviesNowPlus.in",
     "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
+    "channelName": "MN+ HD",
     "startTs": 1792545600000,
     "stopTs": 1792551900000,
-    "title": "Eternal Sunshine Of The Spotless Mind",
-    "desc": "When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories."
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "desc": "Joel undergoes a medical procedure to erase Clementine from his memory."
   },
   {
     "start": "03:05",
     "stop": "05:35",
     "channel": "MoviesNowPlus.in",
     "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
+    "channelName": "MN+ HD",
     "startTs": 1792551900000,
     "stopTs": 1792560900000,
-    "title": "Once Upon A Time In Hollywood",
-    "desc": "Rick, a washed-out actor, and Cliff, his stunt double, struggle to recapture fame in Los Angeles. Meanwhile, living next door to Rick is Sharon Tate and her husband Roman Polanski."
+    "title": "Once Upon a Time... In Hollywood",
+    "desc": "A fading actor and his stunt double struggle to restart their Hollywood careers."
   },
   {
     "start": "05:35",
     "stop": "07:15",
     "channel": "MoviesNowPlus.in",
     "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
+    "channelName": "MN+ HD",
     "startTs": 1792560900000,
     "stopTs": 1792566900000,
     "title": "Charlie Countryman",
-    "desc": "While travelling abroad, a guy falls for a Romanian beauty whose unreachable heart has its origins in her violent, charismatic ex."
+    "desc": "Charlie&apos;s mum&apos;s spirit sends him to Bucharest, where he fulfils a promise to a passenger."
   },
   {
     "start": "07:15",
     "stop": "09:45",
     "channel": "MoviesNowPlus.in",
     "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
+    "channelName": "MN+ HD",
     "startTs": 1792566900000,
     "stopTs": 1792575900000,
-    "title": "Gladiator (2000)",
-    "desc": "When a Roman general is betrayed and his family murdered by an emperor&apos;s corrupt son, he comes to Rome as a gladiator to seek revenge."
+    "title": "Gladiator",
+    "desc": "A betrayed Roman general comes back as a gladiator to avenge the murder of his relatives."
   },
   {
     "start": "09:45",
     "stop": "11:45",
     "channel": "MoviesNowPlus.in",
     "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
+    "channelName": "MN+ HD",
     "startTs": 1792575900000,
     "stopTs": 1792583100000,
-    "title": "Inferno (2016)",
-    "desc": "Robert Langdon, with amnesia, teams up with Sienna to thwart a global plot."
+    "title": "Inferno",
+    "desc": "Robert Langdon teams up with Sienna Brooks to protect the world from an evil plan."
   },
   {
     "start": "11:45",
     "stop": "13:50",
     "channel": "MoviesNowPlus.in",
     "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
+    "channelName": "MN+ HD",
     "startTs": 1792583100000,
     "stopTs": 1792590600000,
     "title": "Philadelphia",
-    "desc": "When a man with HIV is fired by his law firm because of his condition, he hires a homophobic small-time lawyer as the only willing advocate for a wrongful dismissal suit."
+    "desc": "A man with AIDS hires a homophobic lawyer for a wrongful dismissal suit."
   },
   {
     "start": "13:50",
     "stop": "15:30",
     "channel": "MoviesNowPlus.in",
     "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
+    "channelName": "MN+ HD",
     "startTs": 1792590600000,
     "stopTs": 1792596600000,
     "title": "Boychoir",
-    "desc": "After his single mother dies, a young boy with an excellent voice is sent to a prestigious choir school and has trouble adapting to the culture of the school."
+    "desc": "A demanding choir master pushes a gifted but troubled orphan to fulfil his true potential."
   },
   {
     "start": "15:30",
     "stop": "17:05",
     "channel": "MoviesNowPlus.in",
     "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
+    "channelName": "MN+ HD",
     "startTs": 1792596600000,
     "stopTs": 1792602300000,
     "title": "Poseidon",
-    "desc": "On New Year&apos;s Eve, the luxury ocean liner, Poseidon, capsizes after being swamped by a rogue wave. The survivors are left to fight for survival as they attempt to escape the sinking ship"
+    "desc": "A giant wave crashes into Poseidon, a luxurious cruise liner, flipping it upside down."
   },
   {
     "start": "17:05",
     "stop": "18:50",
     "channel": "MoviesNowPlus.in",
     "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
+    "channelName": "MN+ HD",
     "startTs": 1792602300000,
     "stopTs": 1792608600000,
-    "title": "The Woman In Gold",
-    "desc": "Elderly Maria battles Austria to reclaim her family&apos;s stolen artwork. It&apos;s personal!"
+    "title": "Woman in Gold",
+    "desc": "Maria Altman struggles to reclaim her aunt&apos;s painting, which was seized by the Nazis."
   },
   {
     "start": "18:50",
     "stop": "20:45",
     "channel": "MoviesNowPlus.in",
     "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
+    "channelName": "MN+ HD",
     "startTs": 1792608600000,
     "stopTs": 1792615500000,
     "title": "Nightcrawler",
-    "desc": "A petty thief desperate for work muscles into the world of crime journalism and becomes the star of his own story as he blurs the line between observer and participant."
+    "desc": "Louis Bloom starts resorting to extreme tactics to record footage of crime scenes."
   },
   {
     "start": "20:45",
-    "stop": "22:26",
+    "stop": "22:25",
     "channel": "MoviesNowPlus.in",
     "channelId": "MoviesNowPlus.in",
-    "channelName": "MN+",
+    "channelName": "MN+ HD",
     "startTs": 1792615500000,
-    "stopTs": 1792621560000,
+    "stopTs": 1792621500000,
     "title": "Charlie Countryman",
-    "desc": "While travelling abroad, a guy falls for a Romanian beauty whose unreachable heart has its origins in her violent, charismatic ex."
+    "desc": "Charlie&apos;s mum&apos;s spirit sends him to Bucharest, where he fulfils a promise to a passenger."
+  },
+  {
+    "start": "22:25",
+    "stop": "23:09",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+ HD",
+    "startTs": 1792621500000,
+    "stopTs": 1792624140000,
+    "title": "Live-Mandira Bedi-The Love Laugh Live Show",
+    "desc": "The host invites prominent personalities and engages them in candid conversations."
   },
   {
     "start": "22:26",
@@ -385,6 +154,17 @@
     "desc": "A prominent Indian news anchor interviews famous celebrities and brings out their fun side by talking about their life and love stories."
   },
   {
+    "start": "23:09",
+    "stop": "00:52",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+ HD",
+    "startTs": 1792624140000,
+    "stopTs": 1792630320000,
+    "title": "The Family Fang",
+    "desc": "Two siblings embark on a search to find their parents, who have mysteriously disappeared."
+  },
+  {
     "start": "23:30",
     "stop": "01:05",
     "channel": "MoviesNowPlus.in",
@@ -396,6 +176,17 @@
     "desc": "A brother and sister return to their family home in search of their world famous parents who have disappeared."
   },
   {
+    "start": "00:52",
+    "stop": "03:39",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+ HD",
+    "startTs": 1792630320000,
+    "stopTs": 1792640340000,
+    "title": "The Aviator",
+    "desc": "Howard Hughes designs planes and makes films while battling mental illness."
+  },
+  {
     "start": "01:05",
     "stop": "03:45",
     "channel": "MoviesNowPlus.in",
@@ -405,5 +196,214 @@
     "stopTs": 1792640700000,
     "title": "The Aviator",
     "desc": "A biopic depicting the early years of legendary director and aviator Howard Hughes&apos; career from the late 1920s to the mid-1940s"
+  },
+  {
+    "start": "03:39",
+    "stop": "05:45",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+ HD",
+    "startTs": 1792640340000,
+    "stopTs": 1792647900000,
+    "title": "Pride and Prejudice",
+    "desc": "While wealthy suitors excite her mother, independent Elizabeth Bennet counters Mr Darcy."
+  },
+  {
+    "start": "03:45",
+    "stop": "05:50",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+",
+    "startTs": 1792640700000,
+    "stopTs": 1792648200000,
+    "title": "Pride And Prejudice",
+    "desc": "While the arrival of wealthy gentlemen sends her marriage-minded mother into a frenzy, willful and opinionated Elizabeth Bennet matches wits with haughty Mr. Darcy."
+  },
+  {
+    "start": "05:45",
+    "stop": "08:23",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+ HD",
+    "startTs": 1792647900000,
+    "stopTs": 1792657380000,
+    "title": "Gangs of New York",
+    "desc": "After his father is murdered in a gang fight, a man sets out to seek retribution."
+  },
+  {
+    "start": "05:50",
+    "stop": "08:25",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+",
+    "startTs": 1792648200000,
+    "stopTs": 1792657500000,
+    "title": "Gangs of New York",
+    "desc": "In 1863, Amsterdam Vallon returns to the Five Points area of New York City seeking revenge against Bill the Butcher, his father&apos;s killer."
+  },
+  {
+    "start": "08:23",
+    "stop": "11:00",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+ HD",
+    "startTs": 1792657380000,
+    "stopTs": 1792666800000,
+    "title": "Elvis",
+    "desc": "As fame grips Elvis Presley, racism within the USA is brought into the spotlight."
+  },
+  {
+    "start": "08:25",
+    "stop": "10:55",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+",
+    "startTs": 1792657500000,
+    "stopTs": 1792666500000,
+    "title": "Elvis (2022)",
+    "desc": "The life of American music icon Elvis Presley, from his childhood to becoming a rock and movie star in the 1950s while maintaining a complex relationship with his manager, Colonel Tom Parker."
+  },
+  {
+    "start": "10:55",
+    "stop": "13:00",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+",
+    "startTs": 1792666500000,
+    "stopTs": 1792674000000,
+    "title": "Spotlight (2015)",
+    "desc": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core."
+  },
+  {
+    "start": "11:00",
+    "stop": "12:56",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+ HD",
+    "startTs": 1792666800000,
+    "stopTs": 1792673760000,
+    "title": "Spotlight",
+    "desc": "Four journalists pursue a story about child molestation charges against a local church."
+  },
+  {
+    "start": "12:56",
+    "stop": "15:30",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+ HD",
+    "startTs": 1792673760000,
+    "stopTs": 1792683000000,
+    "title": "Ali",
+    "desc": "A renowned boxer achieves fame through championships and controversial actions."
+  },
+  {
+    "start": "13:00",
+    "stop": "15:30",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+",
+    "startTs": 1792674000000,
+    "stopTs": 1792683000000,
+    "title": "Ali",
+    "desc": "A biography of sports legend, Muhammad Ali, from his early days to his days in the ring."
+  },
+  {
+    "start": "15:30",
+    "stop": "17:32",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+ HD",
+    "startTs": 1792683000000,
+    "stopTs": 1792690320000,
+    "title": "The Social Network",
+    "desc": "When Mark Zuckerberg creates Facebook, along with popularity, he also faces legal trouble."
+  },
+  {
+    "start": "17:30",
+    "stop": "19:30",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+",
+    "startTs": 1792690200000,
+    "stopTs": 1792697400000,
+    "title": "Julie & Julia",
+    "desc": "Julia Child&apos;s story of her start in the cooking profession is intertwined with blogger Julie Powell&apos;s 2002 challenge to cook all the recipes in Child&apos;s first book."
+  },
+  {
+    "start": "17:32",
+    "stop": "19:36",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+ HD",
+    "startTs": 1792690320000,
+    "stopTs": 1792697760000,
+    "title": "Julie & Julia",
+    "desc": "Though separated by time, Julia and Julie&apos;s passion for food intertwines their lives."
+  },
+  {
+    "start": "19:30",
+    "stop": "21:16",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+",
+    "startTs": 1792697400000,
+    "stopTs": 1792703760000,
+    "title": "Big Eyes",
+    "desc": "The awakening of painter Margaret Keane, her phenomenal success in the 1950s, and the subsequent legal difficulties she had with her husband, who claimed credit for her works in the 1960s."
+  },
+  {
+    "start": "21:16",
+    "stop": "21:30",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+",
+    "startTs": 1792703760000,
+    "stopTs": 1792704600000,
+    "title": "LLL S03_MAANVI & KRITI 03",
+    "desc": "The host engages in a candid conversation with celebrity guests who share intimate details about their personal and professional lives."
+  },
+  {
+    "start": "21:30",
+    "stop": "23:25",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+",
+    "startTs": 1792704600000,
+    "stopTs": 1792711500000,
+    "title": "The Company You Keep",
+    "desc": "Jim Grant, a member of an anti-Vietnam War militant group, is accused of bank robbery. He works as an attorney in New York and has eluded the FBI for 30 years. Then, a young reporter exposes him."
+  },
+  {
+    "start": "23:25",
+    "stop": "01:15",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+",
+    "startTs": 1792711500000,
+    "stopTs": 1792718100000,
+    "title": "The Woman In Gold",
+    "desc": "Elderly Maria battles Austria to reclaim her family&apos;s stolen artwork. It&apos;s personal!"
+  },
+  {
+    "start": "01:15",
+    "stop": "03:10",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+",
+    "startTs": 1792718100000,
+    "stopTs": 1792725000000,
+    "title": "Nightcrawler",
+    "desc": "A petty thief desperate for work muscles into the world of crime journalism and becomes the star of his own story as he blurs the line between observer and participant."
+  },
+  {
+    "start": "03:10",
+    "stop": "05:05",
+    "channel": "MoviesNowPlus.in",
+    "channelId": "MoviesNowPlus.in",
+    "channelName": "MN+",
+    "startTs": 1792725000000,
+    "stopTs": 1792731900000,
+    "title": "V For Vendetta",
+    "desc": "A shadowy freedom fighter known only as &apos;V&apos; uses terrorist tactics to fight against his totalitarian society."
   }
 ]
