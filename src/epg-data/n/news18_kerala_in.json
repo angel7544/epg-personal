@@ -1,476 +1,14 @@
 [
   {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792549800000,
-    "stopTs": 1792551600000,
-    "title": "Jagratha",
-    "desc": "The host interacts with experts, who give insight on social topics to create awareness."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792551600000,
-    "stopTs": 1792553400000,
-    "title": "Ithu Kando",
-    "desc": "The hosts share interesting news stories and funny videos trending on social media."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792553400000,
-    "stopTs": 1792557000000,
-    "title": "9 Mani Vartha",
-    "desc": "The host presents a detailed report of the latest news stories from around the region."
-  },
-  {
     "start": "04:30",
-    "stop": "07:00",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792557000000,
-    "stopTs": 1792566000000,
-    "title": "News Trends",
-    "desc": "The host presents the latest trending news updates on important matters of the nation."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792564200000,
-    "stopTs": 1792567800000,
-    "title": "Sakalamana Keralam",
-    "desc": "A debate-format show that highlights current political and cultural issues, promoting healthy disagreement and critical thinking."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792566000000,
-    "stopTs": 1792567800000,
-    "title": "Fast News 30 Minutes",
-    "desc": "The host provides rapid-fire roundup of the day&apos;s top headlines and key updates."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792567800000,
-    "stopTs": 1792569600000,
-    "title": "Pakal Vartha",
-    "desc": "The host presents the latest news updates from around the state and the nation."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792569600000,
-    "stopTs": 1792571400000,
-    "title": "Sakalamana Keralam",
-    "desc": "The host provides a detailed report on matters concerning the state of Kerala."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792571400000,
-    "stopTs": 1792575000000,
-    "title": "Spot Live",
-    "desc": "The host provides real-time coverage and expert analysis of major events, live."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792575000000,
-    "stopTs": 1792576800000,
-    "title": "News Update",
-    "desc": "The host delivers news updates on trending issues across the state of Punjab."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792576800000,
-    "stopTs": 1792578600000,
-    "title": "Njanundivide Chodikkan",
-    "desc": "A reporter sheds light on a topic or issue that is in the national news."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792578600000,
-    "stopTs": 1792582200000,
-    "title": "Pothu Vedi",
-    "desc": "The host presents the latest news updates and interacts with the common people."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792580400000,
-    "stopTs": 1792582200000,
-    "title": "Pothuvedi",
-    "desc": "A discussion-driven show that explores burning questions with guest speakers, often raising socially or politically sensitive issues."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792582200000,
-    "stopTs": 1792584000000,
-    "title": "News Update",
-    "desc": "The host delivers news updates on trending issues across the state of Punjab."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792584000000,
-    "stopTs": 1792585800000,
-    "title": "Fast News 30 Minutes",
-    "desc": "The host provides rapid-fire roundup of the day&apos;s top headlines and key updates."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792585800000,
-    "stopTs": 1792587600000,
-    "title": "6 Pm Live",
-    "desc": "The host presents the latest news on topics of national and public interest, live."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792587600000,
-    "stopTs": 1792589400000,
-    "title": "Sakalamana Keralam",
-    "desc": "The host provides a detailed report on matters concerning the state of Kerala."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792589400000,
-    "stopTs": 1792593000000,
-    "title": "Prime Debate",
-    "desc": "The host invites a panel of experts to share their opinions on important topics."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792593000000,
-    "stopTs": 1792596600000,
-    "title": "Special Edition",
-    "desc": "Personalities from different fields of expertise discuss and debate various issues."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792596600000,
-    "stopTs": 1792600200000,
-    "title": "News Update",
-    "desc": "The host delivers news updates on trending issues across the state of Punjab."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792598400000,
-    "stopTs": 1792600200000,
-    "title": "Njanundivide Chodikkan",
-    "desc": "Analytical deep dives into special reports covering politics, environment, health, and human stories that go beyond surface headlines."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792600200000,
-    "stopTs": 1792602000000,
-    "title": "Police Patrol",
-    "desc": "The host sheds light on various unscrupulous activities that conspire in society."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792602000000,
-    "stopTs": 1792603800000,
-    "title": "Fast News 30 Minutes",
-    "desc": "The host provides rapid-fire roundup of the day&apos;s top headlines and key updates."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792603800000,
-    "stopTs": 1792605600000,
-    "title": "Ranganathan Interview",
-    "desc": "The host engages in conversation with prominent personalities to learn about their lives."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792605600000,
-    "stopTs": 1792607400000,
-    "title": "Njanundivide Chodikkan",
-    "desc": "A reporter sheds light on a topic or issue that is in the national news."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792607400000,
-    "stopTs": 1792611000000,
-    "title": "Prime Debate",
-    "desc": "The host invites a panel of experts to share their opinions on important topics."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792611000000,
-    "stopTs": 1792612800000,
-    "title": "Police Patrol",
-    "desc": "The host sheds light on various unscrupulous activities that conspire in society."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792612800000,
-    "stopTs": 1792614600000,
-    "title": "Fast News 30 Minutes",
-    "desc": "The host provides rapid-fire roundup of the day&apos;s top headlines and key updates."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792614600000,
-    "stopTs": 1792618200000,
-    "title": "Special Edition",
-    "desc": "Personalities from different fields of expertise discuss and debate various issues."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792618200000,
-    "stopTs": 1792620000000,
-    "title": "Ranganathan Interview",
-    "desc": "The host engages in conversation with prominent personalities to learn about their lives."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792620000000,
-    "stopTs": 1792621800000,
-    "title": "Police Patrol",
-    "desc": "The host sheds light on various unscrupulous activities that conspire in society."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792621800000,
-    "stopTs": 1792625400000,
-    "title": "Special Edition",
-    "desc": "Personalities from different fields of expertise discuss and debate various issues."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792625400000,
-    "stopTs": 1792629000000,
-    "title": "Prime Debate",
-    "desc": "The host invites a panel of experts to share their opinions on important topics."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792627200000,
-    "stopTs": 1792629000000,
-    "title": "Njanundivide Chodikkan",
-    "desc": "Analytical deep dives into special reports covering politics, environment, health, and human stories that go beyond surface headlines."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792629000000,
-    "stopTs": 1792630800000,
-    "title": "Njanundivide Chodikkan",
-    "desc": "A reporter sheds light on a topic or issue that is in the national news."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:25",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792630800000,
-    "stopTs": 1792632300000,
-    "title": "Naattilenthundu",
-    "desc": "The presenter sheds light on the top news headlines and updates from around the country."
-  },
-  {
-    "start": "01:25",
-    "stop": "01:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792632300000,
-    "stopTs": 1792632600000,
-    "title": "Nalla Vaakku",
-    "desc": "A religious leader shares perspectives on the idea of being closer to the Almighty."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:25",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792632600000,
-    "stopTs": 1792635900000,
-    "title": "Ravile",
-    "desc": "The host presents an in-depth analysis of important news updates and developments."
-  },
-  {
-    "start": "02:25",
-    "stop": "02:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792635900000,
-    "stopTs": 1792636200000,
-    "title": "Innu Ithu Sambhavikkum",
-    "desc": "The host presents the social, economic and political issues of the day."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792636200000,
-    "stopTs": 1792638000000,
-    "title": "Jagratha",
-    "desc": "The host interacts with experts, who give insight on social topics to create awareness."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792638000000,
-    "stopTs": 1792639800000,
-    "title": "Ithu Kando",
-    "desc": "The hosts share interesting news stories and funny videos trending on social media."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1792639800000,
-    "stopTs": 1792643400000,
-    "title": "9 Mani Vartha",
-    "desc": "The host presents a detailed report of the latest news stories from around the region."
-  },
-  {
-    "start": "04:30",
-    "stop": "07:00",
+    "stop": "06:30",
     "channel": "News18Kerala.in",
     "channelId": "News18Kerala.in",
     "channelName": "News18 Kerala",
     "startTs": 1792643400000,
-    "stopTs": 1792652400000,
+    "stopTs": 1792650600000,
     "title": "News Trends",
-    "desc": "The host presents the latest trending news updates on important matters of the nation."
+    "desc": "Join the host for the latest buzz on news, entertainment, and politics!"
   },
   {
     "start": "06:30",
@@ -488,33 +26,33 @@
     "stop": "07:30",
     "channel": "News18Kerala.in",
     "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
+    "channelName": "NEWS18 KERALA",
     "startTs": 1792652400000,
     "stopTs": 1792654200000,
     "title": "Fast News 30 Minutes",
-    "desc": "The host provides rapid-fire roundup of the day&apos;s top headlines and key updates."
+    "desc": "The host provides rapid-fire roundup of the day&apos;s top headlines and key updates, delivering all the essential news in just thirty minutes."
   },
   {
     "start": "07:30",
-    "stop": "08:00",
+    "stop": "08:30",
     "channel": "News18Kerala.in",
     "channelId": "News18Kerala.in",
     "channelName": "News18 Kerala",
     "startTs": 1792654200000,
-    "stopTs": 1792656000000,
+    "stopTs": 1792657800000,
     "title": "Pakal Vartha",
-    "desc": "The host presents the latest news updates from around the state and the nation."
+    "desc": "Stay updated on breaking news and global affairs with our engaging presenter!"
   },
   {
     "start": "08:00",
     "stop": "08:30",
     "channel": "News18Kerala.in",
     "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
+    "channelName": "NEWS18 KERALA",
     "startTs": 1792656000000,
     "stopTs": 1792657800000,
     "title": "Sakalamana Keralam",
-    "desc": "The host provides a detailed report on matters concerning the state of Kerala."
+    "desc": "The host provides a detailed report featuring the latest news updates and key developments on matters concerning the state of Kerala."
   },
   {
     "start": "08:30",
@@ -525,7 +63,7 @@
     "startTs": 1792657800000,
     "stopTs": 1792661400000,
     "title": "Spot Live",
-    "desc": "The host provides real-time coverage and expert analysis of major events, live."
+    "desc": "Stay updated with breaking news and global affairs-engaging insights await you!"
   },
   {
     "start": "09:30",
@@ -536,7 +74,7 @@
     "startTs": 1792661400000,
     "stopTs": 1792663200000,
     "title": "News Update",
-    "desc": "The host delivers news updates on trending issues across the state of Punjab."
+    "desc": "Join the host for the latest buzz on news, entertainment, and politics!"
   },
   {
     "start": "10:00",
@@ -547,18 +85,18 @@
     "startTs": 1792663200000,
     "stopTs": 1792665000000,
     "title": "Njanundivide Chodikkan",
-    "desc": "A reporter sheds light on a topic or issue that is in the national news."
+    "desc": "Analytical deep dives into special reports covering politics, environment, health, and human stories that go beyond surface headlines."
   },
   {
     "start": "10:30",
-    "stop": "11:30",
+    "stop": "11:00",
     "channel": "News18Kerala.in",
     "channelId": "News18Kerala.in",
     "channelName": "News18 Kerala",
     "startTs": 1792665000000,
-    "stopTs": 1792668600000,
-    "title": "Pothu Vedi",
-    "desc": "The host presents the latest news updates and interacts with the common people."
+    "stopTs": 1792666800000,
+    "title": "Sakalamana Keralam",
+    "desc": "A debate-format show that highlights current political and cultural issues, promoting healthy disagreement and critical thinking."
   },
   {
     "start": "11:00",
@@ -580,7 +118,7 @@
     "startTs": 1792668600000,
     "stopTs": 1792670400000,
     "title": "News Update",
-    "desc": "The host delivers news updates on trending issues across the state of Punjab."
+    "desc": "Join the host for the latest buzz on news, entertainment, and politics!"
   },
   {
     "start": "12:00",
@@ -590,30 +128,30 @@
     "channelName": "News18 Kerala",
     "startTs": 1792670400000,
     "stopTs": 1792672200000,
-    "title": "Fast News 30 Minutes",
-    "desc": "The host provides rapid-fire roundup of the day&apos;s top headlines and key updates."
+    "title": "Njanundivide Chodikkan",
+    "desc": "Analytical deep dives into special reports covering politics, environment, health, and human stories that go beyond surface headlines."
   },
   {
     "start": "12:30",
-    "stop": "13:00",
+    "stop": "13:30",
     "channel": "News18Kerala.in",
     "channelId": "News18Kerala.in",
     "channelName": "News18 Kerala",
     "startTs": 1792672200000,
-    "stopTs": 1792674000000,
-    "title": "6 Pm Live",
-    "desc": "The host presents the latest news on topics of national and public interest, live."
+    "stopTs": 1792675800000,
+    "title": "Live 6 Pm",
+    "desc": "Catch the latest scoop on breaking news and current socio-political happenings!"
   },
   {
     "start": "13:00",
     "stop": "13:30",
     "channel": "News18Kerala.in",
     "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
+    "channelName": "NEWS18 KERALA",
     "startTs": 1792674000000,
     "stopTs": 1792675800000,
     "title": "Sakalamana Keralam",
-    "desc": "The host provides a detailed report on matters concerning the state of Kerala."
+    "desc": "The host provides a detailed report featuring the latest news updates and key developments on matters concerning the state of Kerala."
   },
   {
     "start": "13:30",
@@ -624,7 +162,7 @@
     "startTs": 1792675800000,
     "stopTs": 1792679400000,
     "title": "Prime Debate",
-    "desc": "The host invites a panel of experts to share their opinions on important topics."
+    "desc": "A platform for public discourse addressing civic concerns, governance, and development with audience interaction and expert panels."
   },
   {
     "start": "14:30",
@@ -635,18 +173,18 @@
     "startTs": 1792679400000,
     "stopTs": 1792683000000,
     "title": "Special Edition",
-    "desc": "Personalities from different fields of expertise discuss and debate various issues."
+    "desc": "A comprehensive coverage of Kerala&apos;s events, trends, and important developments, bringing together regional stories from diverse districts."
   },
   {
     "start": "15:30",
-    "stop": "16:30",
+    "stop": "16:00",
     "channel": "News18Kerala.in",
     "channelId": "News18Kerala.in",
     "channelName": "News18 Kerala",
     "startTs": 1792683000000,
-    "stopTs": 1792686600000,
-    "title": "News Update",
-    "desc": "The host delivers news updates on trending issues across the state of Punjab."
+    "stopTs": 1792684800000,
+    "title": "Live 9 Pm",
+    "desc": "Catch the latest scoop on breaking news and current socio-political happenings!"
   },
   {
     "start": "16:00",
@@ -668,7 +206,7 @@
     "startTs": 1792686600000,
     "stopTs": 1792688400000,
     "title": "Police Patrol",
-    "desc": "The host sheds light on various unscrupulous activities that conspire in society."
+    "desc": "Stay updated on breaking news and global affairs with our engaging presenter!"
   },
   {
     "start": "17:00",
@@ -678,8 +216,8 @@
     "channelName": "News18 Kerala",
     "startTs": 1792688400000,
     "stopTs": 1792690200000,
-    "title": "Fast News 30 Minutes",
-    "desc": "The host provides rapid-fire roundup of the day&apos;s top headlines and key updates."
+    "title": "Sakalamana Keralam",
+    "desc": "A debate-format show that highlights current political and cultural issues, promoting healthy disagreement and critical thinking."
   },
   {
     "start": "17:30",
@@ -689,8 +227,8 @@
     "channelName": "News18 Kerala",
     "startTs": 1792690200000,
     "stopTs": 1792692000000,
-    "title": "Sakalamana Keralam",
-    "desc": "The host provides a detailed report on matters concerning the state of Kerala."
+    "title": "News Update",
+    "desc": "Join the host for the latest buzz on news, entertainment, and politics!"
   },
   {
     "start": "18:00",
@@ -700,8 +238,8 @@
     "channelName": "News18 Kerala",
     "startTs": 1792692000000,
     "stopTs": 1792693800000,
-    "title": "Q18",
-    "desc": "The host raises 18 questions to several guests on the show and learns insights from them."
+    "title": "Police Patrol",
+    "desc": "Stay updated on breaking news and global affairs with our engaging presenter!"
   },
   {
     "start": "18:30",
@@ -832,6 +370,347 @@
     "channelName": "News18 Kerala",
     "startTs": 1792726200000,
     "stopTs": 1792729800000,
+    "title": "Vartharambham",
+    "desc": "Stay updated with breaking news and global affairs-engaging insights await you!"
+  },
+  {
+    "start": "04:30",
+    "stop": "06:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792729800000,
+    "stopTs": 1792737000000,
+    "title": "News Trends",
+    "desc": "Join the host for the latest buzz on news, entertainment, and politics!"
+  },
+  {
+    "start": "06:30",
+    "stop": "07:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792737000000,
+    "stopTs": 1792740600000,
+    "title": "Sakalamana Keralam",
+    "desc": "A debate-format show that highlights current political and cultural issues, promoting healthy disagreement and critical thinking."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792740600000,
+    "stopTs": 1792744200000,
+    "title": "Pakal Vartha",
+    "desc": "Stay updated on breaking news and global affairs with our engaging presenter!"
+  },
+  {
+    "start": "08:30",
+    "stop": "09:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792744200000,
+    "stopTs": 1792747800000,
+    "title": "Spot Live",
+    "desc": "Stay updated with breaking news and global affairs-engaging insights await you!"
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792747800000,
+    "stopTs": 1792749600000,
+    "title": "News Update",
+    "desc": "Join the host for the latest buzz on news, entertainment, and politics!"
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792749600000,
+    "stopTs": 1792751400000,
+    "title": "Njanundivide Chodikkan",
+    "desc": "Analytical deep dives into special reports covering politics, environment, health, and human stories that go beyond surface headlines."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792751400000,
+    "stopTs": 1792753200000,
+    "title": "Sakalamana Keralam",
+    "desc": "A debate-format show that highlights current political and cultural issues, promoting healthy disagreement and critical thinking."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792753200000,
+    "stopTs": 1792755000000,
+    "title": "Pothuvedi",
+    "desc": "A discussion-driven show that explores burning questions with guest speakers, often raising socially or politically sensitive issues."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792755000000,
+    "stopTs": 1792756800000,
+    "title": "News Update",
+    "desc": "Join the host for the latest buzz on news, entertainment, and politics!"
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792756800000,
+    "stopTs": 1792758600000,
+    "title": "Njanundivide Chodikkan",
+    "desc": "Analytical deep dives into special reports covering politics, environment, health, and human stories that go beyond surface headlines."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792758600000,
+    "stopTs": 1792762200000,
+    "title": "Live 6 Pm",
+    "desc": "Catch the latest scoop on breaking news and current socio-political happenings!"
+  },
+  {
+    "start": "13:30",
+    "stop": "14:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792762200000,
+    "stopTs": 1792765800000,
+    "title": "Prime Debate",
+    "desc": "A platform for public discourse addressing civic concerns, governance, and development with audience interaction and expert panels."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792765800000,
+    "stopTs": 1792769400000,
+    "title": "Special Edition",
+    "desc": "A comprehensive coverage of Kerala&apos;s events, trends, and important developments, bringing together regional stories from diverse districts."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792769400000,
+    "stopTs": 1792771200000,
+    "title": "Live 9 Pm",
+    "desc": "Catch the latest scoop on breaking news and current socio-political happenings!"
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792771200000,
+    "stopTs": 1792773000000,
+    "title": "Njanundivide Chodikkan",
+    "desc": "Analytical deep dives into special reports covering politics, environment, health, and human stories that go beyond surface headlines."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792773000000,
+    "stopTs": 1792774800000,
+    "title": "Police Patrol",
+    "desc": "Stay updated on breaking news and global affairs with our engaging presenter!"
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792774800000,
+    "stopTs": 1792776600000,
+    "title": "Sakalamana Keralam",
+    "desc": "A debate-format show that highlights current political and cultural issues, promoting healthy disagreement and critical thinking."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792776600000,
+    "stopTs": 1792778400000,
+    "title": "News Update",
+    "desc": "Join the host for the latest buzz on news, entertainment, and politics!"
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792778400000,
+    "stopTs": 1792780200000,
+    "title": "Police Patrol",
+    "desc": "Stay updated on breaking news and global affairs with our engaging presenter!"
+  },
+  {
+    "start": "18:30",
+    "stop": "19:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792780200000,
+    "stopTs": 1792783800000,
+    "title": "Prime Debate",
+    "desc": "A platform for public discourse addressing civic concerns, governance, and development with audience interaction and expert panels."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792783800000,
+    "stopTs": 1792785600000,
+    "title": "Police Patrol",
+    "desc": "Stay updated on breaking news and global affairs with our engaging presenter!"
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792785600000,
+    "stopTs": 1792787400000,
+    "title": "News Update",
+    "desc": "Join the host for the latest buzz on news, entertainment, and politics!"
+  },
+  {
+    "start": "20:30",
+    "stop": "21:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792787400000,
+    "stopTs": 1792791000000,
+    "title": "Prime Debate",
+    "desc": "A platform for public discourse addressing civic concerns, governance, and development with audience interaction and expert panels."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792791000000,
+    "stopTs": 1792794600000,
+    "title": "Special Edition",
+    "desc": "A comprehensive coverage of Kerala&apos;s events, trends, and important developments, bringing together regional stories from diverse districts."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792794600000,
+    "stopTs": 1792798200000,
+    "title": "Prime Debate",
+    "desc": "A platform for public discourse addressing civic concerns, governance, and development with audience interaction and expert panels."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792798200000,
+    "stopTs": 1792800000000,
+    "title": "Police Patrol",
+    "desc": "Stay updated on breaking news and global affairs with our engaging presenter!"
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792800000000,
+    "stopTs": 1792801800000,
+    "title": "Njanundivide Chodikkan",
+    "desc": "Analytical deep dives into special reports covering politics, environment, health, and human stories that go beyond surface headlines."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792801800000,
+    "stopTs": 1792805400000,
+    "title": "Prime Debate",
+    "desc": "A platform for public discourse addressing civic concerns, governance, and development with audience interaction and expert panels."
+  },
+  {
+    "start": "01:30",
+    "stop": "03:00",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792805400000,
+    "stopTs": 1792810800000,
+    "title": "Morning Wibes",
+    "desc": "Stay updated on social, political, and entertainment news with our engaging host!"
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792810800000,
+    "stopTs": 1792812600000,
+    "title": "Police Patrol",
+    "desc": "Stay updated on breaking news and global affairs with our engaging presenter!"
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1792812600000,
+    "stopTs": 1792816200000,
     "title": "Vartharambham",
     "desc": "Stay updated with breaking news and global affairs-engaging insights await you!"
   }
