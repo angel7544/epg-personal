@@ -1,643 +1,5 @@
 [
   {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792823400000,
-    "stopTs": 1792825200000,
-    "title": "News @Noon",
-    "desc": "Midday news brings important national and regional updates, covering politics, society, economy and current affairs with clear and concise reporting."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792825200000,
-    "stopTs": 1792827000000,
-    "title": "News @Noon",
-    "desc": "Midday news brings important national and regional updates, covering politics, society, economy and current affairs with clear and concise reporting."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792827000000,
-    "stopTs": 1792828800000,
-    "title": "Kalinga Khabar",
-    "desc": "The anchor presents a roundup of all the latest social, political and economic updates and developments"
-  },
-  {
-    "start": "08:00",
-    "stop": "08:25",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792828800000,
-    "stopTs": 1792830300000,
-    "title": "Kalinga Khabar",
-    "desc": "The anchor presents a roundup of all the latest social, political and economic updates and developments"
-  },
-  {
-    "start": "08:25",
-    "stop": "08:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792830300000,
-    "stopTs": 1792830600000,
-    "title": "Dekh Khabar Rakh Nazar",
-    "desc": "Laugh along with satirical discussions on recent social issues and news updates."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792830600000,
-    "stopTs": 1792832400000,
-    "title": "Afternoon Live",
-    "desc": "Explore in-depth political, socio-economic, and cultural analyses on pressing national policies, civic challenges, grassroots movements, and current affairs with senior expert commentators."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792832400000,
-    "stopTs": 1792834200000,
-    "title": "Tike Halchal Tike Hulchul",
-    "desc": "Two people from feuding families pretend to fall in love for revenge, but their staged romance turns real, sparking chaos and reshaping loyalties within feud."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792834200000,
-    "stopTs": 1792836000000,
-    "title": "News Corridor",
-    "desc": "Join discussion on socio-economic and political news, and updates making headlines."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792836000000,
-    "stopTs": 1792837800000,
-    "title": "News Corridor",
-    "desc": "Join discussion on socio-economic and political news, and updates making headlines."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792837800000,
-    "stopTs": 1792839600000,
-    "title": "Kalinga Khabar",
-    "desc": "The anchor presents a roundup of all the latest social, political and economic updates and developments"
-  },
-  {
-    "start": "11:00",
-    "stop": "11:25",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792839600000,
-    "stopTs": 1792841100000,
-    "title": "Kalinga Khabar",
-    "desc": "The anchor presents a roundup of all the latest social, political and economic updates and developments"
-  },
-  {
-    "start": "11:25",
-    "stop": "11:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792841100000,
-    "stopTs": 1792841400000,
-    "title": "Reporter Didi",
-    "desc": "The host highlights various social issues concerning civic rights, public education, healthcare access, and gender equality, sparking vital conversations for progressive community reform."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792841400000,
-    "stopTs": 1792843200000,
-    "title": "Gaan Live",
-    "desc": "Enjoy live performances and musical talents from various artists. Watch today!"
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792843200000,
-    "stopTs": 1792845000000,
-    "title": "Kalinga Express",
-    "desc": "A news bulletin program with stories and updates covering breaking national events, socio-economic developments, political headlines, and ground reports with complete analytical clarity."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792845000000,
-    "stopTs": 1792846800000,
-    "title": "6Pm Breaking",
-    "desc": "Odisha News, Politics, Entertainment, Weather, Jobs, Education, Business, Science and Technology, and Crime."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:28",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792846800000,
-    "stopTs": 1792848480000,
-    "title": "6Pm Breaking",
-    "desc": "Odisha News, Politics, Entertainment, Weather, Jobs, Education, Business, Science and Technology, and Crime."
-  },
-  {
-    "start": "13:28",
-    "stop": "14:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792848480000,
-    "stopTs": 1792850400000,
-    "title": "Ajira Khabar",
-    "desc": "Anchor provides detailed live reports on the latest news updates and events of the day."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:20",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792850400000,
-    "stopTs": 1792851600000,
-    "title": "Ajira Khabar",
-    "desc": "Anchor provides detailed live reports on the latest news updates and events of the day."
-  },
-  {
-    "start": "14:20",
-    "stop": "14:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792851600000,
-    "stopTs": 1792852200000,
-    "title": "Dekh Khabar Rakh Nazar",
-    "desc": "Laugh along with satirical discussions on recent social issues and news updates."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792852200000,
-    "stopTs": 1792854000000,
-    "title": "Bhitiri Katha",
-    "desc": "The host interviews diverse personalities, delving into their personal and professional realms."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792854000000,
-    "stopTs": 1792855800000,
-    "title": "Sei Gaan ti",
-    "desc": "Sei Gaan Ti celebrates soulful melodies and heartfelt lyrics, weaving musical journeys that evoke emotion, cultural richness, and the timeless charm of cherished songs."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792855800000,
-    "stopTs": 1792857600000,
-    "title": "Kalinga @ 9",
-    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792857600000,
-    "stopTs": 1792859400000,
-    "title": "Janta Sab Janta",
-    "desc": "The host provides exclusive insights: The unscripted moments, special guests, backstage creative processes, and candid interviews that reveal the fascinating world behind the cameras."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792859400000,
-    "stopTs": 1792861200000,
-    "title": "Bharat @10",
-    "desc": "Late night bulletin covers national developments, political debates and major headlines, offering in depth coverage and updates from across the country."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:25",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792861200000,
-    "stopTs": 1792862700000,
-    "title": "Metro Plus",
-    "desc": "This program updates the viewers with the significant events held in Hyderabad city of Andhra Pradesh."
-  },
-  {
-    "start": "17:25",
-    "stop": "17:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792862700000,
-    "stopTs": 1792863000000,
-    "title": "Dekh Khabar Rakh Nazar",
-    "desc": "Laugh along with satirical discussions on recent social issues and news updates."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792863000000,
-    "stopTs": 1792864800000,
-    "title": "Ajira Khabar",
-    "desc": "Anchor provides detailed live reports on the latest news updates and events of the day."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792864800000,
-    "stopTs": 1792866600000,
-    "title": "Gaan Live",
-    "desc": "Enjoy live performances and musical talents from various artists. Watch today!"
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792866600000,
-    "stopTs": 1792868400000,
-    "title": "Rashiphala",
-    "desc": "A renowned astrologer provides predictions to the viewers based on the positions of the planets."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792868400000,
-    "stopTs": 1792870200000,
-    "title": "Bhitiri Katha",
-    "desc": "The host interviews diverse personalities, delving into their personal and professional realms."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792870200000,
-    "stopTs": 1792872000000,
-    "title": "Sei Gaan ti",
-    "desc": "Sei Gaan Ti celebrates soulful melodies and heartfelt lyrics, weaving musical journeys that evoke emotion, cultural richness, and the timeless charm of cherished songs."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792872000000,
-    "stopTs": 1792873800000,
-    "title": "Bharat @10",
-    "desc": "Late night bulletin covers national developments, political debates and major headlines, offering in depth coverage and updates from across the country."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792873800000,
-    "stopTs": 1792875600000,
-    "title": "Kalinga Express",
-    "desc": "A news bulletin program with stories and updates covering breaking national events, socio-economic developments, political headlines, and ground reports with complete analytical clarity."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792875600000,
-    "stopTs": 1792877400000,
-    "title": "Gaan Live",
-    "desc": "Enjoy live performances and musical talents from various artists. Watch today!"
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792877400000,
-    "stopTs": 1792879200000,
-    "title": "Bhitiri Katha",
-    "desc": "The host interviews diverse personalities, delving into their personal and professional realms."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792879200000,
-    "stopTs": 1792881000000,
-    "title": "Metro Plus",
-    "desc": "This program updates the viewers with the significant events held in Hyderabad city of Andhra Pradesh."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792881000000,
-    "stopTs": 1792882800000,
-    "title": "Ajira Khabar",
-    "desc": "Anchor provides detailed live reports on the latest news updates and events of the day."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792882800000,
-    "stopTs": 1792884600000,
-    "title": "Ajira Khabar",
-    "desc": "Anchor provides detailed live reports on the latest news updates and events of the day."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792884600000,
-    "stopTs": 1792886400000,
-    "title": "Kalinga Express",
-    "desc": "A news bulletin program with stories and updates covering breaking national events, socio-economic developments, political headlines, and ground reports with complete analytical clarity."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792886400000,
-    "stopTs": 1792888200000,
-    "title": "Bhagabat Kathamruta",
-    "desc": "Bhagabat Kathamruta brings timeless wisdom from the Bhagavata, narrating divine stories and spiritual teachings that inspire devotion, moral values, and inner transformation."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792888200000,
-    "stopTs": 1792890000000,
-    "title": "Guhari suna Maa",
-    "desc": "Guhari suna Maa is a devotional program celebrating spirituality and devotion."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:25",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792890000000,
-    "stopTs": 1792891500000,
-    "title": "Mahabir Mahima",
-    "desc": "Devotional segments celebrate the life and teachings of a revered spiritual figure, sharing inspiring stories, rituals and messages of faith and devotion."
-  },
-  {
-    "start": "01:25",
-    "stop": "01:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792891500000,
-    "stopTs": 1792891800000,
-    "title": "Yoga Sutra",
-    "desc": "Yoga Sutra"
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792891800000,
-    "stopTs": 1792893600000,
-    "title": "Kalinga Supravat",
-    "desc": "The host highlights the most recent news, updates and developments from around the globe."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:25",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792893600000,
-    "stopTs": 1792895100000,
-    "title": "Rashiphala",
-    "desc": "A renowned astrologer provides predictions to the viewers based on the positions of the planets."
-  },
-  {
-    "start": "02:25",
-    "stop": "02:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792895100000,
-    "stopTs": 1792895400000,
-    "title": "Yoga Sutra",
-    "desc": "Yoga Sutra"
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792895400000,
-    "stopTs": 1792897200000,
-    "title": "Bisaya Vastu",
-    "desc": "An informative discussion program exploring social topics, public concerns and meaningful issues through insightful conversations, analysis and diverse perspectives from experts."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792897200000,
-    "stopTs": 1792899000000,
-    "title": "Janta Sab Janta",
-    "desc": "The host provides exclusive insights: The unscripted moments, special guests, backstage creative processes, and candid interviews that reveal the fascinating world behind the cameras."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792899000000,
-    "stopTs": 1792900800000,
-    "title": "Kalinga Khabar",
-    "desc": "The anchor presents a roundup of all the latest social, political and economic updates and developments"
-  },
-  {
-    "start": "04:00",
-    "stop": "04:25",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792900800000,
-    "stopTs": 1792902300000,
-    "title": "Aama School",
-    "desc": "Aama School"
-  },
-  {
-    "start": "04:25",
-    "stop": "04:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792902300000,
-    "stopTs": 1792902600000,
-    "title": "Dekh Khabar Rakh Nazar",
-    "desc": "Laugh along with satirical discussions on recent social issues and news updates."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792902600000,
-    "stopTs": 1792904400000,
-    "title": "Breaking@10",
-    "desc": "Breaking developments and urgent headlines are presented with live updates, on ground reports and expert insights on the latest unfolding events."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792904400000,
-    "stopTs": 1792906200000,
-    "title": "Tike Halchal Tike Hulchul",
-    "desc": "Two people from feuding families pretend to fall in love for revenge, but their staged romance turns real, sparking chaos and reshaping loyalties within feud."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792906200000,
-    "stopTs": 1792908000000,
-    "title": "News Alert",
-    "desc": "Join discussion on socio-economic and political news, and updates making headlines."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:25",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792908000000,
-    "stopTs": 1792909500000,
-    "title": "News Alert",
-    "desc": "Join discussion on socio-economic and political news, and updates making headlines."
-  },
-  {
-    "start": "06:25",
-    "stop": "06:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792909500000,
-    "stopTs": 1792909800000,
-    "title": "Reporter Didi",
-    "desc": "The host highlights various social issues concerning civic rights, public education, healthcare access, and gender equality, sparking vital conversations for progressive community reform."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792909800000,
-    "stopTs": 1792911600000,
-    "title": "News @Noon",
-    "desc": "Midday news brings important national and regional updates, covering politics, society, economy and current affairs with clear and concise reporting."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1792911600000,
-    "stopTs": 1792913400000,
-    "title": "News @Noon",
-    "desc": "Midday news brings important national and regional updates, covering politics, society, economy and current affairs with clear and concise reporting."
-  },
-  {
     "start": "07:30",
     "stop": "08:00",
     "channel": "KalingaTV.in",
@@ -931,8 +293,8 @@
     "channelName": "Kalinga TV",
     "startTs": 1792953000000,
     "stopTs": 1792954800000,
-    "title": "Rashiphala",
-    "desc": "A renowned astrologer provides predictions to the viewers based on the positions of the planets."
+    "title": "Rashi Phala",
+    "desc": "An astrologer studies celestial objects and predicts the future for the 12 zodiac signs."
   },
   {
     "start": "19:00",
@@ -943,7 +305,7 @@
     "startTs": 1792954800000,
     "stopTs": 1792956600000,
     "title": "Bhinna Manisa Bhinna Katha",
-    "desc": "Bhinna Manisa Bhinna Katha."
+    "desc": "The host converses with individuals from all walks of life about social issues."
   },
   {
     "start": "19:30",
@@ -953,8 +315,8 @@
     "channelName": "Kalinga TV",
     "startTs": 1792956600000,
     "stopTs": 1792958400000,
-    "title": "Dekh Khabar.. Round Up",
-    "desc": "Explore the latest news with a humorous twist on social issues and updates."
+    "title": "Dekh khabar.. Round Up",
+    "desc": "The host provides the latest updates and stories from around the world."
   },
   {
     "start": "20:00",
@@ -965,7 +327,7 @@
     "startTs": 1792958400000,
     "stopTs": 1792960200000,
     "title": "Bharat @10",
-    "desc": "Late night bulletin covers national developments, political debates and major headlines, offering in depth coverage and updates from across the country."
+    "desc": "The host presents the latest news stories from various fronts around the country."
   },
   {
     "start": "20:30",
@@ -976,7 +338,7 @@
     "startTs": 1792960200000,
     "stopTs": 1792962000000,
     "title": "Kalinga Express",
-    "desc": "A news bulletin program with stories and updates covering breaking national events, socio-economic developments, political headlines, and ground reports with complete analytical clarity."
+    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
   },
   {
     "start": "21:00",
@@ -987,7 +349,7 @@
     "startTs": 1792962000000,
     "stopTs": 1792963800000,
     "title": "Gaan Live",
-    "desc": "Enjoy live performances and musical talents from various artists. Watch today!"
+    "desc": "The host presents various popular songs based on different themes, live."
   },
   {
     "start": "21:30",
@@ -998,7 +360,7 @@
     "startTs": 1792963800000,
     "stopTs": 1792965600000,
     "title": "Katha Pachhar Katha",
-    "desc": "When disaster hits a Bihar coal mine, three men fight for workers: a disgraced ex-naval officer, an engineer, and an escaped convict seeking shelter and hope."
+    "desc": "Bringing the best in television."
   },
   {
     "start": "22:00",
@@ -1008,8 +370,8 @@
     "channelName": "Kalinga TV",
     "startTs": 1792965600000,
     "stopTs": 1792967400000,
-    "title": "Dekh Khabar.. Round Up",
-    "desc": "Explore the latest news with a humorous twist on social issues and updates."
+    "title": "Dekh khabar.. Round Up",
+    "desc": "The host provides the latest updates and stories from around the world."
   },
   {
     "start": "22:30",
@@ -1020,7 +382,7 @@
     "startTs": 1792967400000,
     "stopTs": 1792969200000,
     "title": "Ajira Khabar",
-    "desc": "Anchor provides detailed live reports on the latest news updates and events of the day."
+    "desc": "The host presents a detailed report on the latest news from across the region."
   },
   {
     "start": "23:00",
@@ -1031,7 +393,7 @@
     "startTs": 1792969200000,
     "stopTs": 1792971000000,
     "title": "Ajira Khabar",
-    "desc": "Anchor provides detailed live reports on the latest news updates and events of the day."
+    "desc": "The host presents a detailed report on the latest news from across the region."
   },
   {
     "start": "23:30",
@@ -1042,7 +404,7 @@
     "startTs": 1792971000000,
     "stopTs": 1792972800000,
     "title": "Kalinga Express",
-    "desc": "A news bulletin program with stories and updates covering breaking national events, socio-economic developments, political headlines, and ground reports with complete analytical clarity."
+    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
   },
   {
     "start": "00:00",
@@ -1053,7 +415,7 @@
     "startTs": 1792972800000,
     "stopTs": 1792974600000,
     "title": "Bhagabat Kathamruta",
-    "desc": "Bhagabat Kathamruta brings timeless wisdom from the Bhagavata, narrating divine stories and spiritual teachings that inspire devotion, moral values, and inner transformation."
+    "desc": "."
   },
   {
     "start": "00:30",
@@ -1063,8 +425,8 @@
     "channelName": "Kalinga TV",
     "startTs": 1792974600000,
     "stopTs": 1792976400000,
-    "title": "Manima Sunima Heu",
-    "desc": "Tune in to listen to a comprehensive compilation of devotional songs and hymns sung in praise of Lord Jagganath"
+    "title": "Guhari suna maa",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "01:00",
@@ -1074,8 +436,8 @@
     "channelName": "Kalinga TV",
     "startTs": 1792976400000,
     "stopTs": 1792978200000,
-    "title": "Mahabir Mahima",
-    "desc": "Devotional segments celebrate the life and teachings of a revered spiritual figure, sharing inspiring stories, rituals and messages of faith and devotion."
+    "title": "Sri Harikatha",
+    "desc": "A religious leader presents a sermon on the stories of Lord Vishnu and his various forms."
   },
   {
     "start": "01:30",
@@ -1086,7 +448,7 @@
     "startTs": 1792978200000,
     "stopTs": 1792980000000,
     "title": "Kalinga Supravat",
-    "desc": "The host highlights the most recent news, updates and developments from around the globe."
+    "desc": "The host engages in insightful conversations with renowned personalities from Odisha."
   },
   {
     "start": "02:00",
@@ -1096,8 +458,8 @@
     "channelName": "Kalinga TV",
     "startTs": 1792980000000,
     "stopTs": 1792981500000,
-    "title": "Rashiphala",
-    "desc": "A renowned astrologer provides predictions to the viewers based on the positions of the planets."
+    "title": "Rashi Phala",
+    "desc": "An astrologer studies celestial objects and predicts the future for the 12 zodiac signs."
   },
   {
     "start": "02:25",
@@ -1107,8 +469,8 @@
     "channelName": "Kalinga TV",
     "startTs": 1792981500000,
     "stopTs": 1792981800000,
-    "title": "Dekh Khabar Rakh Nazar",
-    "desc": "Laugh along with satirical discussions on recent social issues and news updates."
+    "title": "Dekh khabar Rakh Nazar",
+    "desc": "The host presents the latest news updates on social issues with a satirical twist."
   },
   {
     "start": "02:30",
@@ -1118,8 +480,8 @@
     "channelName": "Kalinga TV",
     "startTs": 1792981800000,
     "stopTs": 1792983600000,
-    "title": "Janta Sab Janta",
-    "desc": "The host provides exclusive insights: The unscripted moments, special guests, backstage creative processes, and candid interviews that reveal the fascinating world behind the cameras."
+    "title": "Bhitiri Katha",
+    "desc": "The host interviews personalities from different walks of life."
   },
   {
     "start": "03:00",
@@ -1130,7 +492,7 @@
     "startTs": 1792983600000,
     "stopTs": 1792985100000,
     "title": "Metro Plus",
-    "desc": "This program updates the viewers with the significant events held in Hyderabad city of Andhra Pradesh."
+    "desc": "The host presents the latest news stories pertaining to various issues from the metropolitan cities."
   },
   {
     "start": "03:25",
@@ -1141,7 +503,7 @@
     "startTs": 1792985100000,
     "stopTs": 1792985400000,
     "title": "Reporter Didi",
-    "desc": "The host highlights various social issues concerning civic rights, public education, healthcare access, and gender equality, sparking vital conversations for progressive community reform."
+    "desc": "The host presents the latest news updates on various pressing issues impacting citizens."
   },
   {
     "start": "03:30",
@@ -1152,6 +514,633 @@
     "startTs": 1792985400000,
     "stopTs": 1792987200000,
     "title": "Kalinga Khabar",
-    "desc": "The anchor presents a roundup of all the latest social, political and economic updates and developments"
+    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:25",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1792987200000,
+    "stopTs": 1792988700000,
+    "title": "Kalinga Express",
+    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
+  },
+  {
+    "start": "04:25",
+    "stop": "04:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1792988700000,
+    "stopTs": 1792989000000,
+    "title": "Corona Jeje",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1792989000000,
+    "stopTs": 1792990800000,
+    "title": "Breaking @10",
+    "desc": "The host presents an analysis of the recent political, business and socio-economic news."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1792990800000,
+    "stopTs": 1792992600000,
+    "title": "Dekh khabar.. Round Up",
+    "desc": "The host provides the latest updates and stories from around the world."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1792992600000,
+    "stopTs": 1792994400000,
+    "title": "News Alert",
+    "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:25",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1792994400000,
+    "stopTs": 1792995900000,
+    "title": "News Alert",
+    "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
+  },
+  {
+    "start": "06:25",
+    "stop": "06:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1792995900000,
+    "stopTs": 1792996200000,
+    "title": "Dekh khabar Rakh Nazar",
+    "desc": "The host presents the latest news updates on social issues with a satirical twist."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1792996200000,
+    "stopTs": 1792998000000,
+    "title": "News @Noon",
+    "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:25",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1792998000000,
+    "stopTs": 1792999500000,
+    "title": "News @Noon",
+    "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
+  },
+  {
+    "start": "07:25",
+    "stop": "07:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1792999500000,
+    "stopTs": 1792999800000,
+    "title": "Corona Jeje",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1792999800000,
+    "stopTs": 1793001600000,
+    "title": "Kalinga Khabar",
+    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793001600000,
+    "stopTs": 1793003400000,
+    "title": "Ama Patrika",
+    "desc": "Odia authors open up about the methods they employ for their writing process."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793003400000,
+    "stopTs": 1793005200000,
+    "title": "Afternoon Live",
+    "desc": "The host presents the latest news updates on various pressing issues, live."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793005200000,
+    "stopTs": 1793007000000,
+    "title": "Big Report",
+    "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793007000000,
+    "stopTs": 1793008800000,
+    "title": "News Corridor",
+    "desc": "The host presents an in-depth analysis of the latest news updates on various issues."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:25",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793008800000,
+    "stopTs": 1793010300000,
+    "title": "News Corridor",
+    "desc": "The host presents an in-depth analysis of the latest news updates on various issues."
+  },
+  {
+    "start": "10:25",
+    "stop": "10:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793010300000,
+    "stopTs": 1793010600000,
+    "title": "Corona Jeje",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793010600000,
+    "stopTs": 1793012400000,
+    "title": "Kalinga Khabar",
+    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:25",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793012400000,
+    "stopTs": 1793013900000,
+    "title": "Reporter Special",
+    "desc": "A journalist presents a detailed report of the latest news updates on various issues."
+  },
+  {
+    "start": "11:25",
+    "stop": "11:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793013900000,
+    "stopTs": 1793014200000,
+    "title": "Reporter Didi",
+    "desc": "The host presents the latest news updates on various pressing issues impacting citizens."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793014200000,
+    "stopTs": 1793016000000,
+    "title": "Gaan Live",
+    "desc": "The host presents various popular songs based on different themes, live."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793016000000,
+    "stopTs": 1793017800000,
+    "title": "Kalinga Express",
+    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793017800000,
+    "stopTs": 1793019600000,
+    "title": "6 PM Breaking",
+    "desc": "The host presents the latest news updates on various pressing issues, live."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:23",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793019600000,
+    "stopTs": 1793020980000,
+    "title": "6 PM Breaking",
+    "desc": "The host presents the latest news updates on various pressing issues, live."
+  },
+  {
+    "start": "13:23",
+    "stop": "13:28",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793020980000,
+    "stopTs": 1793021280000,
+    "title": "Dekh khabar Rakh Nazar",
+    "desc": "The host presents the latest news updates on social issues with a satirical twist."
+  },
+  {
+    "start": "13:28",
+    "stop": "14:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793021280000,
+    "stopTs": 1793023200000,
+    "title": "Ajira Khabar",
+    "desc": "The host presents a detailed report on the latest news from across the region."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:20",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793023200000,
+    "stopTs": 1793024400000,
+    "title": "Ajira Khabar",
+    "desc": "The host presents a detailed report on the latest news from across the region."
+  },
+  {
+    "start": "14:20",
+    "stop": "14:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793024400000,
+    "stopTs": 1793025000000,
+    "title": "Dekh khabar Rakh Nazar",
+    "desc": "The host presents the latest news updates on social issues with a satirical twist."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793025000000,
+    "stopTs": 1793026800000,
+    "title": "8 @ 8PM",
+    "desc": "The host presents the top eight news stories from various fronts around the country."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793026800000,
+    "stopTs": 1793028600000,
+    "title": "Aghatan Aparadh",
+    "desc": "The host presents the latest news updates pertaining to unlawful activities."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793028600000,
+    "stopTs": 1793030400000,
+    "title": "kalinga@9",
+    "desc": "The host delivers timely news coverage, featuring the latest updates on current events."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793030400000,
+    "stopTs": 1793032200000,
+    "title": "Mano ki Na Mano",
+    "desc": "A team of experts investigates local paranormal activities in Odisha."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793032200000,
+    "stopTs": 1793034000000,
+    "title": "Bharat @10",
+    "desc": "The host presents the latest news stories from various fronts around the country."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:25",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793034000000,
+    "stopTs": 1793035500000,
+    "title": "Big Report",
+    "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
+  },
+  {
+    "start": "17:25",
+    "stop": "17:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793035500000,
+    "stopTs": 1793035800000,
+    "title": "Dekh khabar Rakh Nazar",
+    "desc": "The host presents the latest news updates on social issues with a satirical twist."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793035800000,
+    "stopTs": 1793037600000,
+    "title": "Ajira Khabar",
+    "desc": "The host presents a detailed report on the latest news from across the region."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793037600000,
+    "stopTs": 1793039400000,
+    "title": "Kalinga Express",
+    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793039400000,
+    "stopTs": 1793041200000,
+    "title": "Rashiphala",
+    "desc": "A renowned astrologer provides predictions to the viewers based on the positions of the planets."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793041200000,
+    "stopTs": 1793043000000,
+    "title": "8@8Pm",
+    "desc": "Comprehensive evening news delivers top stories, political developments and major events, keeping viewers informed with timely reports and expert analysis."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793043000000,
+    "stopTs": 1793044800000,
+    "title": "Niara Manisha",
+    "desc": "Niara Manisha portrays unique human journeys, weaving heartfelt stories of resilience, values, and everyday experiences that inspire reflection and connect with audiences deeply."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793044800000,
+    "stopTs": 1793046600000,
+    "title": "Bharat @10",
+    "desc": "Late night bulletin covers national developments, political debates and major headlines, offering in depth coverage and updates from across the country."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793046600000,
+    "stopTs": 1793048400000,
+    "title": "Kalinga Express",
+    "desc": "A news bulletin program with stories and updates covering breaking national events, socio-economic developments, political headlines, and ground reports with complete analytical clarity."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793048400000,
+    "stopTs": 1793050200000,
+    "title": "Gaan Live",
+    "desc": "Enjoy live performances and musical talents from various artists. Watch today!"
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793050200000,
+    "stopTs": 1793052000000,
+    "title": "Khabar Pathasala",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793052000000,
+    "stopTs": 1793053800000,
+    "title": "Khabar Pathasala",
+    "desc": "Hosts share the latest updates and developments on economic, political, and social issues, offering clear current affairs insights and straightforward context for everyday audiences to understand."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793053800000,
+    "stopTs": 1793055600000,
+    "title": "Ajira Khabar",
+    "desc": "Anchor provides detailed live reports on the latest news updates and events of the day."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793055600000,
+    "stopTs": 1793057400000,
+    "title": "Ajira Khabar",
+    "desc": "Anchor provides detailed live reports on the latest news updates and events of the day."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793057400000,
+    "stopTs": 1793059200000,
+    "title": "Kalinga Express",
+    "desc": "A news bulletin program with stories and updates covering breaking national events, socio-economic developments, political headlines, and ground reports with complete analytical clarity."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793059200000,
+    "stopTs": 1793061000000,
+    "title": "Bhagabat Kathamruta",
+    "desc": "Bhagabat Kathamruta brings timeless wisdom from the Bhagavata, narrating divine stories and spiritual teachings that inspire devotion, moral values, and inner transformation."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793061000000,
+    "stopTs": 1793062800000,
+    "title": "Guhari suna Maa",
+    "desc": "Guhari suna Maa is a devotional program celebrating spirituality and devotion."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:25",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793062800000,
+    "stopTs": 1793064300000,
+    "title": "Mahabir Mahima",
+    "desc": "Devotional segments celebrate the life and teachings of a revered spiritual figure, sharing inspiring stories, rituals and messages of faith and devotion."
+  },
+  {
+    "start": "01:25",
+    "stop": "01:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793064300000,
+    "stopTs": 1793064600000,
+    "title": "Yoga Sutra",
+    "desc": "Yoga Sutra"
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793064600000,
+    "stopTs": 1793066400000,
+    "title": "Kalinga Supravat",
+    "desc": "The host highlights the most recent news, updates and developments from around the globe."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:25",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793066400000,
+    "stopTs": 1793067900000,
+    "title": "Rashiphala",
+    "desc": "A renowned astrologer provides predictions to the viewers based on the positions of the planets."
+  },
+  {
+    "start": "02:25",
+    "stop": "02:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793067900000,
+    "stopTs": 1793068200000,
+    "title": "Yoga Sutra",
+    "desc": "Yoga Sutra"
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793068200000,
+    "stopTs": 1793070000000,
+    "title": "Sei Gaan ti",
+    "desc": "Sei Gaan Ti celebrates soulful melodies and heartfelt lyrics, weaving musical journeys that evoke emotion, cultural richness, and the timeless charm of cherished songs."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793070000000,
+    "stopTs": 1793071800000,
+    "title": "Bhagabat Kathamruta",
+    "desc": "Bhagabat Kathamruta brings timeless wisdom from the Bhagavata, narrating divine stories and spiritual teachings that inspire devotion, moral values, and inner transformation."
   }
 ]

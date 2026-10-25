@@ -1,104 +1,5 @@
 [
   {
-    "start": "06:30",
-    "stop": "06:45",
-    "channel": "SomnathTemple.in",
-    "channelId": "SomnathTemple.in",
-    "channelName": "Somnath Temple",
-    "startTs": 1792823400000,
-    "stopTs": 1792824300000,
-    "title": "Afternoon Aarti",
-    "desc": "Priests and devotees conduct ceremonial worship of the temple deities."
-  },
-  {
-    "start": "06:45",
-    "stop": "13:30",
-    "channel": "SomnathTemple.in",
-    "channelId": "SomnathTemple.in",
-    "channelName": "Somnath Temple",
-    "startTs": 1792824300000,
-    "stopTs": 1792848600000,
-    "title": "Darshan",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "13:30",
-    "stop": "13:45",
-    "channel": "SomnathTemple.in",
-    "channelId": "SomnathTemple.in",
-    "channelName": "Somnath Temple",
-    "startTs": 1792848600000,
-    "stopTs": 1792849500000,
-    "title": "Evening Aarti",
-    "desc": "A religious leader performs an &apos;arti&apos; in the presence of ardent devotees."
-  },
-  {
-    "start": "13:45",
-    "stop": "16:30",
-    "channel": "SomnathTemple.in",
-    "channelId": "SomnathTemple.in",
-    "channelName": "Somnath Temple",
-    "startTs": 1792849500000,
-    "stopTs": 1792859400000,
-    "title": "Darshan",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "16:30",
-    "stop": "00:30",
-    "channel": "SomnathTemple.in",
-    "channelId": "SomnathTemple.in",
-    "channelName": "Somnath Temple",
-    "startTs": 1792859400000,
-    "stopTs": 1792888200000,
-    "title": "Temple Closed",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:30",
-    "channel": "SomnathTemple.in",
-    "channelId": "SomnathTemple.in",
-    "channelName": "Somnath Temple",
-    "startTs": 1792888200000,
-    "stopTs": 1792891800000,
-    "title": "Darshan",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "01:30",
-    "stop": "01:45",
-    "channel": "SomnathTemple.in",
-    "channelId": "SomnathTemple.in",
-    "channelName": "Somnath Temple",
-    "startTs": 1792891800000,
-    "stopTs": 1792892700000,
-    "title": "Mangal Aarti",
-    "desc": "Priests perform a ritual of worship to express devotion and gratitude to the Almighty."
-  },
-  {
-    "start": "01:45",
-    "stop": "06:30",
-    "channel": "SomnathTemple.in",
-    "channelId": "SomnathTemple.in",
-    "channelName": "Somnath Temple",
-    "startTs": 1792892700000,
-    "stopTs": 1792909800000,
-    "title": "Darshan",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "06:30",
-    "stop": "06:45",
-    "channel": "SomnathTemple.in",
-    "channelId": "SomnathTemple.in",
-    "channelName": "Somnath Temple",
-    "startTs": 1792909800000,
-    "stopTs": 1792910700000,
-    "title": "Afternoon Aarti",
-    "desc": "Priests and devotees conduct ceremonial worship of the temple deities."
-  },
-  {
     "start": "06:45",
     "stop": "13:30",
     "channel": "SomnathTemple.in",
@@ -139,6 +40,94 @@
     "channelName": "Somnath Temple",
     "startTs": 1792945800000,
     "stopTs": 1792974600000,
+    "title": "Temple Closed",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:30",
+    "channel": "SomnathTemple.in",
+    "channelId": "SomnathTemple.in",
+    "channelName": "Somnath Temple",
+    "startTs": 1792974600000,
+    "stopTs": 1792978200000,
+    "title": "Darshan",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "01:30",
+    "stop": "01:45",
+    "channel": "SomnathTemple.in",
+    "channelId": "SomnathTemple.in",
+    "channelName": "Somnath Temple",
+    "startTs": 1792978200000,
+    "stopTs": 1792979100000,
+    "title": "Mangal Aarti",
+    "desc": "Priests perform a ritual of worship to express devotion and gratitude to the Almighty."
+  },
+  {
+    "start": "01:45",
+    "stop": "06:30",
+    "channel": "SomnathTemple.in",
+    "channelId": "SomnathTemple.in",
+    "channelName": "Somnath Temple",
+    "startTs": 1792979100000,
+    "stopTs": 1792996200000,
+    "title": "Darshan",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "06:30",
+    "stop": "06:45",
+    "channel": "SomnathTemple.in",
+    "channelId": "SomnathTemple.in",
+    "channelName": "Somnath Temple",
+    "startTs": 1792996200000,
+    "stopTs": 1792997100000,
+    "title": "Afternoon Aarti",
+    "desc": "Priests and devotees conduct ceremonial worship of the temple deities."
+  },
+  {
+    "start": "06:45",
+    "stop": "13:30",
+    "channel": "SomnathTemple.in",
+    "channelId": "SomnathTemple.in",
+    "channelName": "Somnath Temple",
+    "startTs": 1792997100000,
+    "stopTs": 1793021400000,
+    "title": "Darshan",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "13:30",
+    "stop": "13:45",
+    "channel": "SomnathTemple.in",
+    "channelId": "SomnathTemple.in",
+    "channelName": "Somnath Temple",
+    "startTs": 1793021400000,
+    "stopTs": 1793022300000,
+    "title": "Evening Aarti",
+    "desc": "A religious leader performs an &apos;arti&apos; in the presence of ardent devotees."
+  },
+  {
+    "start": "13:45",
+    "stop": "16:30",
+    "channel": "SomnathTemple.in",
+    "channelId": "SomnathTemple.in",
+    "channelName": "Somnath Temple",
+    "startTs": 1793022300000,
+    "stopTs": 1793032200000,
+    "title": "Darshan",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "16:30",
+    "stop": "00:30",
+    "channel": "SomnathTemple.in",
+    "channelId": "SomnathTemple.in",
+    "channelName": "Somnath Temple",
+    "startTs": 1793032200000,
+    "stopTs": 1793061000000,
     "title": "Temple Closed",
     "desc": "Bringing the best in television."
   }
