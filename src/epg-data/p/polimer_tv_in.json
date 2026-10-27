@@ -1,60 +1,5 @@
 [
   {
-    "start": "20:30",
-    "stop": "23:30",
-    "channel": "PolimerTV.in",
-    "channelId": "PolimerTV.in",
-    "channelName": "Polimer TV",
-    "startTs": 1793046600000,
-    "stopTs": 1793057400000,
-    "title": "Music Xpress",
-    "desc": "A comprehensive compilation of some of the most popular songs is played."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "PolimerTV.in",
-    "channelId": "PolimerTV.in",
-    "channelName": "Polimer TV",
-    "startTs": 1793057400000,
-    "stopTs": 1793059200000,
-    "title": "Perumal Subrapatham",
-    "desc": "A curated compilation of religious songs in praise of Lord Perumal is played back to back."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "PolimerTV.in",
-    "channelId": "PolimerTV.in",
-    "channelName": "Polimer TV",
-    "startTs": 1793059200000,
-    "stopTs": 1793061000000,
-    "title": "Kandha Sasti",
-    "desc": "A comprehensive compilation of hymns and Hindu devotional songs praising Lord Muruga."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "PolimerTV.in",
-    "channelId": "PolimerTV.in",
-    "channelName": "Polimer TV",
-    "startTs": 1793061000000,
-    "stopTs": 1793062800000,
-    "title": "Kandha Guru Kavacham",
-    "desc": "A religious leader provides a discourse on various spiritual teachings to devotees."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "PolimerTV.in",
-    "channelId": "PolimerTV.in",
-    "channelName": "Polimer TV",
-    "startTs": 1793062800000,
-    "stopTs": 1793064600000,
-    "title": "Manam Thedum Alayam",
-    "desc": "Explore the significance of various Hindu temples, deities and spiritual concepts."
-  },
-  {
     "start": "01:30",
     "stop": "03:30",
     "channel": "PolimerTV.in",
@@ -63,7 +8,7 @@
     "startTs": 1793064600000,
     "stopTs": 1793071800000,
     "title": "Polimer News",
-    "desc": "The host presents the latest updates pertaining to current affairs across Chennai."
+    "desc": "The host presents the latest updates and developments pertaining to various pressing issues and current affairs across Chennai."
   },
   {
     "start": "03:30",
@@ -74,7 +19,7 @@
     "startTs": 1793071800000,
     "stopTs": 1793073000000,
     "title": "Tele Shopping / Cini Mini",
-    "desc": "The host talks about television shopping; a series of songs from Tamil movies is played."
+    "desc": "The host presents a wide variety of television products that customers can purchase from their homes; a compilation of interesting sequences and melodious songs from popular Tamil movies is presented."
   },
   {
     "start": "03:50",
@@ -85,7 +30,7 @@
     "startTs": 1793073000000,
     "stopTs": 1793074500000,
     "title": "Tele Shopping / Cinema Cinema",
-    "desc": "The host talks about products that can be purchased; The host reviews latest movie releases."
+    "desc": "The host talks about various products that can be bought from home. The host reviews the latest movie releases from the Kannada film industry and discusses topics that concern cinemagoers."
   },
   {
     "start": "04:15",
@@ -96,7 +41,7 @@
     "startTs": 1793074500000,
     "stopTs": 1793076000000,
     "title": "Tele Shopping / Thirai Kathambam",
-    "desc": "Various products to buy are showcased; a curated collection of movie scenes."
+    "desc": "Various products are showcased from multiple brands for customers to buy from the comfort of their homes; a curated collection of popular movie scenes."
   },
   {
     "start": "04:40",
@@ -107,7 +52,7 @@
     "startTs": 1793076000000,
     "stopTs": 1793084400000,
     "title": "Alaigal Oivathillai",
-    "desc": "Two people from different religions fall in love, but face opposition from their families."
+    "desc": "Love blossoms between two individuals, but their differing religious beliefs create various obstacles in their relationship."
   },
   {
     "start": "07:00",
@@ -118,7 +63,7 @@
     "startTs": 1793084400000,
     "stopTs": 1793086200000,
     "title": "Kuttram",
-    "desc": "A detailed account of several heinous crimes perpetrated in the state is presented."
+    "desc": "A detailed account of several heinous crimes perpetrated in the state is presented, emphasising key facts, motives and evidence."
   },
   {
     "start": "07:30",
@@ -129,7 +74,7 @@
     "startTs": 1793086200000,
     "stopTs": 1793089800000,
     "title": "Polimer News",
-    "desc": "The host presents the latest updates pertaining to current affairs across Chennai."
+    "desc": "The host presents the latest updates and developments pertaining to various pressing issues and current affairs across Chennai."
   },
   {
     "start": "08:30",
@@ -140,7 +85,7 @@
     "startTs": 1793089800000,
     "stopTs": 1793100600000,
     "title": "Pudhiya Mugam",
-    "desc": "A man&apos;s bravery leads to him joining the Indian Army after facing a tragedy."
+    "desc": "A man&apos;s bravery and heroism leads to him joining the Indian Army after witnessing a tragedy. Later, he falls in love with a woman who is unaware of his identity."
   },
   {
     "start": "11:30",
@@ -151,7 +96,7 @@
     "startTs": 1793100600000,
     "stopTs": 1793102400000,
     "title": "Pazhaya Tape",
-    "desc": "A compilation of some of the best retro songs from Tamil movies played back to back."
+    "desc": "A comprehensive compilation of some of the best and popular evergreen retro songs from Tamil movies is played back to back."
   },
   {
     "start": "12:00",
@@ -173,7 +118,7 @@
     "startTs": 1793104200000,
     "stopTs": 1793106000000,
     "title": "Kandha Guru Kavacham",
-    "desc": "A religious leader provides a discourse on various spiritual teachings to devotees."
+    "desc": "A religious leader provides a detailed discourse on various spiritual teachings to devotees and encourages them to lead a faithful life."
   },
   {
     "start": "13:00",
@@ -184,7 +129,7 @@
     "startTs": 1793106000000,
     "stopTs": 1793115000000,
     "title": "Geethanjali",
-    "desc": "Problem ensues when James, who loves Julie, is forced to marry Diana."
+    "desc": "James, a Hindu orphan, is raised by Lawrence, a Catholic priest. Later, things become complicated when he falls for Julie, but Lawrence urges him to marry Diana."
   },
   {
     "start": "15:30",
@@ -195,7 +140,7 @@
     "startTs": 1793115000000,
     "stopTs": 1793116800000,
     "title": "Cinema Cinema",
-    "desc": "The host explores the latest updates about the film industry and its personalities."
+    "desc": "The host sheds light on the latest updates, top news stories and key developments pertaining to the film industry and its personalities."
   },
   {
     "start": "16:00",
@@ -206,7 +151,7 @@
     "startTs": 1793116800000,
     "stopTs": 1793118600000,
     "title": "Thirai Kathambam",
-    "desc": "A compilation of movie scenes from the latest Kollywood films played in quick succession."
+    "desc": "A comprehensive compilation of movie scenes from the latest Kollywood films featuring prominent actors and comedians is played in quick succession."
   },
   {
     "start": "16:30",
@@ -217,7 +162,7 @@
     "startTs": 1793118600000,
     "stopTs": 1793120400000,
     "title": "Kuttram",
-    "desc": "A detailed account of several heinous crimes perpetrated in the state is presented."
+    "desc": "A detailed account of several heinous crimes perpetrated in the state is presented, emphasising key facts, motives and evidence."
   },
   {
     "start": "17:00",
@@ -228,7 +173,7 @@
     "startTs": 1793120400000,
     "stopTs": 1793124000000,
     "title": "Polimer News",
-    "desc": "The host presents the latest updates pertaining to current affairs across Chennai."
+    "desc": "The host presents the latest updates and developments pertaining to various pressing issues and current affairs across Chennai."
   },
   {
     "start": "18:00",
@@ -239,6 +184,248 @@
     "startTs": 1793124000000,
     "stopTs": 1793133000000,
     "title": "Kozhi Koovuthu",
-    "desc": "Velusamy joins the army to marry Kamatchi, unaware that she is in love with a postman."
+    "desc": "Velusamy, a jobless man, desires to marry his niece Kamatchi. He joins the army to earn a living so that he can marry her. Meanwhile, Kamatchi falls in love with Ramakrishnan, the village postman."
+  },
+  {
+    "start": "20:30",
+    "stop": "23:30",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793133000000,
+    "stopTs": 1793143800000,
+    "title": "Music Xpress",
+    "desc": "A comprehensive compilation of some of the most popular songs produced by renowned artists is played to enthrall the audience."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793143800000,
+    "stopTs": 1793145600000,
+    "title": "Perumal Subrapatham",
+    "desc": "A curated compilation of sacred hymns and religious songs in devotion and praise of the Lord Perumal is played back to back."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793145600000,
+    "stopTs": 1793147400000,
+    "title": "Kandha Sasti",
+    "desc": "A comprehensive compilation of hymns and Hindu devotional songs praising Lord Muruga played back-to-back seeking his blessings."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793147400000,
+    "stopTs": 1793149200000,
+    "title": "Kandha Guru Kavacham",
+    "desc": "A religious leader provides a detailed discourse on various spiritual teachings to devotees and encourages them to lead a faithful life."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793149200000,
+    "stopTs": 1793151000000,
+    "title": "Manam Thedum Alayam",
+    "desc": "Explore the history and cultural significance of various Hindu temples, the profound symbolism of revered deities and spiritual concepts."
+  },
+  {
+    "start": "01:30",
+    "stop": "03:30",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793151000000,
+    "stopTs": 1793158200000,
+    "title": "Polimer News",
+    "desc": "The host presents the latest updates and developments pertaining to various pressing issues and current affairs across Chennai."
+  },
+  {
+    "start": "03:30",
+    "stop": "03:50",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793158200000,
+    "stopTs": 1793159400000,
+    "title": "Tele Shopping / Cini Mini",
+    "desc": "The host presents a wide variety of television products that customers can purchase from their homes; a compilation of interesting sequences and melodious songs from popular Tamil movies is presented."
+  },
+  {
+    "start": "03:50",
+    "stop": "04:15",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793159400000,
+    "stopTs": 1793160900000,
+    "title": "Tele Shopping / Cinema Cinema",
+    "desc": "The host talks about various products that can be bought from home. The host reviews the latest movie releases from the Kannada film industry and discusses topics that concern cinemagoers."
+  },
+  {
+    "start": "04:15",
+    "stop": "04:40",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793160900000,
+    "stopTs": 1793162400000,
+    "title": "Tele Shopping / Thirai Kathambam",
+    "desc": "Various products are showcased from multiple brands for customers to buy from the comfort of their homes; a curated collection of popular movie scenes."
+  },
+  {
+    "start": "04:40",
+    "stop": "07:00",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793162400000,
+    "stopTs": 1793170800000,
+    "title": "Raja Muthirai",
+    "desc": "Raja, a CBI officer with a family, finds out that a terrorist has escaped from Tihar jail and killed his father. Later, he goes in search of the terrorist with the help of Margandayan, a prisoner."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793170800000,
+    "stopTs": 1793172600000,
+    "title": "Kuttram",
+    "desc": "A detailed account of several heinous crimes perpetrated in the state is presented, emphasising key facts, motives and evidence."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:30",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793172600000,
+    "stopTs": 1793176200000,
+    "title": "Polimer News",
+    "desc": "The host presents the latest updates and developments pertaining to various pressing issues and current affairs across Chennai."
+  },
+  {
+    "start": "08:30",
+    "stop": "11:30",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793176200000,
+    "stopTs": 1793187000000,
+    "title": "Sirayil Pootha Chinna Malar",
+    "desc": "An evil landlord holds hostage his sister and her husband, Muthappa, as he is unhappy with their union. Years later, he goes berserk when he sees a young man who resembles Muthappa."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793187000000,
+    "stopTs": 1793188800000,
+    "title": "Pazhaya Tape",
+    "desc": "A comprehensive compilation of some of the best and popular evergreen retro songs from Tamil movies is played back to back."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793188800000,
+    "stopTs": 1793190600000,
+    "title": "Arul Isai",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793190600000,
+    "stopTs": 1793192400000,
+    "title": "Kandha Guru Kavacham",
+    "desc": "A religious leader provides a detailed discourse on various spiritual teachings to devotees and encourages them to lead a faithful life."
+  },
+  {
+    "start": "13:00",
+    "stop": "15:30",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793192400000,
+    "stopTs": 1793201400000,
+    "title": "Perasiriyar Chanakyan",
+    "desc": "The arrival of a new professor causes positive changes in Travancore Maharaja College which is besieged by the rivalry between two opposing groups of students."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793201400000,
+    "stopTs": 1793203200000,
+    "title": "Cinema Cinema",
+    "desc": "The host sheds light on the latest updates, top news stories and key developments pertaining to the film industry and its personalities."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793203200000,
+    "stopTs": 1793205000000,
+    "title": "Thirai Kathambam",
+    "desc": "A comprehensive compilation of movie scenes from the latest Kollywood films featuring prominent actors and comedians is played in quick succession."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793205000000,
+    "stopTs": 1793206800000,
+    "title": "Kuttram",
+    "desc": "A detailed account of several heinous crimes perpetrated in the state is presented, emphasising key facts, motives and evidence."
+  },
+  {
+    "start": "17:00",
+    "stop": "18:00",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793206800000,
+    "stopTs": 1793210400000,
+    "title": "Polimer News",
+    "desc": "The host presents the latest updates and developments pertaining to various pressing issues and current affairs across Chennai."
+  },
+  {
+    "start": "18:00",
+    "stop": "20:30",
+    "channel": "PolimerTV.in",
+    "channelId": "PolimerTV.in",
+    "channelName": "Polimer TV",
+    "startTs": 1793210400000,
+    "stopTs": 1793219400000,
+    "title": "Neruppile Pootha Malar",
+    "desc": "Lawrence decides to uncover the mysterious deaths of church pastors after he breaks up with Mary and moves to a new town."
   }
 ]
