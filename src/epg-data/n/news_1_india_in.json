@@ -1,465 +1,14 @@
 [
   {
     "start": "03:30",
-    "stop": "06:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793244600000,
-    "stopTs": 1793255400000,
-    "title": "News",
-    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793255400000,
-    "stopTs": 1793257200000,
-    "title": "Khabar @12",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793257200000,
-    "stopTs": 1793259000000,
-    "title": "Desh Dinbhar",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793259000000,
-    "stopTs": 1793260800000,
-    "title": "De Danadan",
-    "desc": "The host sheds light on the current trends in the market regarding gold and silver, stock investment while interacting with various experts during the festive season."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793260800000,
-    "stopTs": 1793262600000,
-    "title": "Devbhoomi Dophar",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates from around Uttarakhand."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793262600000,
-    "stopTs": 1793264400000,
-    "title": "Khabar Dophar",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793264400000,
-    "stopTs": 1793266200000,
-    "title": "Teleshopping",
-    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793266200000,
-    "stopTs": 1793268000000,
-    "title": "De Danadan",
-    "desc": "The host sheds light on the current trends in the market regarding gold and silver, stock investment while interacting with various experts during the festive season."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793268000000,
-    "stopTs": 1793269800000,
-    "title": "News Live",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793269800000,
-    "stopTs": 1793271600000,
-    "title": "4 Ka Chakravyuh",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793271600000,
-    "stopTs": 1793273400000,
-    "title": "Mashal Debate Show",
-    "desc": "The host invites a panel of experts from different fields who discuss and analyse the latest political and socio-economic news stories, live."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793273400000,
-    "stopTs": 1793275200000,
-    "title": "Up Ki Lalkar Debate Show",
-    "desc": "The host invites a panel of experts from different fields who discuss and analyse the latest political and socio-economic news stories, live."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793275200000,
-    "stopTs": 1793277000000,
-    "title": "Devbhoomi Dinbhar",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates from around Uttarakhand."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793277000000,
-    "stopTs": 1793278800000,
-    "title": "News Room Live",
-    "desc": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793278800000,
-    "stopTs": 1793280600000,
-    "title": "Desh Dinbhar",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793280600000,
-    "stopTs": 1793282400000,
-    "title": "Uttar Pradesh Vishesh",
-    "desc": "The host presents the latest news and updates from around the state of Uttar Pradesh."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793282400000,
-    "stopTs": 1793284200000,
-    "title": "Uttarakhand Vishesh",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates from around Uttarakhand."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793284200000,
-    "stopTs": 1793286000000,
-    "title": "Baat Me Dum Hai",
-    "desc": "The host presents an in-depth analysis of the top stories, latest happening and major events that have made the headlines."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793286000000,
-    "stopTs": 1793287800000,
-    "title": "Baat Me Dum Hai",
-    "desc": "The host presents an in-depth analysis of the top stories, latest happening and major events that have made the headlines."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793287800000,
-    "stopTs": 1793289600000,
-    "title": "Ye Khabar Hai",
-    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across the world."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793289600000,
-    "stopTs": 1793291400000,
-    "title": "Dilli Live",
-    "desc": "The host presents the 100 latest and the most relevant social, political, economic and sports updates from Delhi."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793291400000,
-    "stopTs": 1793293200000,
-    "title": "Teleshopping/ Programme",
-    "desc": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one&apos;s home."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793293200000,
-    "stopTs": 1793295000000,
-    "title": "Teleshopping/ Programme",
-    "desc": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one&apos;s home."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793295000000,
-    "stopTs": 1793296800000,
-    "title": "Teleshopping/ Programme",
-    "desc": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one&apos;s home."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793296800000,
-    "stopTs": 1793298600000,
-    "title": "Teleshopping/ Programme",
-    "desc": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one&apos;s home."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793298600000,
-    "stopTs": 1793300400000,
-    "title": "Teleshopping",
-    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793300400000,
-    "stopTs": 1793302200000,
-    "title": "News",
-    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793302200000,
-    "stopTs": 1793304000000,
-    "title": "News",
-    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793304000000,
-    "stopTs": 1793305800000,
-    "title": "News",
-    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793305800000,
-    "stopTs": 1793307600000,
-    "title": "News",
-    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
-  },
-  {
-    "start": "21:00",
-    "stop": "22:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793307600000,
-    "stopTs": 1793313000000,
-    "title": "News",
-    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793313000000,
-    "stopTs": 1793314800000,
-    "title": "News",
-    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793314800000,
-    "stopTs": 1793316600000,
-    "title": "News",
-    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793316600000,
-    "stopTs": 1793318400000,
-    "title": "News",
-    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793318400000,
-    "stopTs": 1793320200000,
-    "title": "News",
-    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793320200000,
-    "stopTs": 1793322000000,
-    "title": "Recorded",
-    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793322000000,
-    "stopTs": 1793323800000,
-    "title": "Recorded",
-    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793323800000,
-    "stopTs": 1793325600000,
-    "title": "Namaste UP",
-    "desc": "The host presents the latest in political, economic, social and sports updates and stories of the day from all across the state of Uttar Pradesh."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793325600000,
-    "stopTs": 1793327400000,
-    "title": "Pranam Devbhoomi",
-    "desc": "&apos;Pranam Devbhoomi&apos; is a religious show exploring spirituality and cultural traditions."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793327400000,
-    "stopTs": 1793329200000,
-    "title": "Top Agenda",
-    "desc": "The host presents an in-depth analysis of a most important news update."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "News1India.in",
-    "channelId": "News1India.in",
-    "channelName": "News 1 India",
-    "startTs": 1793329200000,
-    "stopTs": 1793331000000,
-    "title": "Top Agenda",
-    "desc": "The host presents an in-depth analysis of a most important news update."
-  },
-  {
-    "start": "03:30",
     "stop": "04:00",
     "channel": "News1India.in",
     "channelId": "News1India.in",
     "channelName": "News 1 India",
     "startTs": 1793331000000,
     "stopTs": 1793332800000,
-    "title": "Ground Report@ Reporter",
-    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across the world."
+    "title": "Breaking News/Special Bulletin",
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "04:00",
@@ -469,8 +18,8 @@
     "channelName": "News 1 India",
     "startTs": 1793332800000,
     "stopTs": 1793334600000,
-    "title": "Entertainment Tadka",
-    "desc": "A daily entertainment bulletin focusing on Bollywood gossip, major controversies, and trending entertainment news. The show breaks down the latest updates from the Indian film and television industry."
+    "title": "Breaking News/Special Bulletin",
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "04:30",
@@ -481,7 +30,7 @@
     "startTs": 1793334600000,
     "stopTs": 1793336400000,
     "title": "10 Ka Agenda",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
+    "desc": "Bringing the best in television."
   },
   {
     "start": "05:00",
@@ -492,7 +41,7 @@
     "startTs": 1793336400000,
     "stopTs": 1793338200000,
     "title": "10 Ka Agenda",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
+    "desc": "Bringing the best in television."
   },
   {
     "start": "05:30",
@@ -502,8 +51,8 @@
     "channelName": "News 1 India",
     "startTs": 1793338200000,
     "stopTs": 1793340000000,
-    "title": "De Danadan",
-    "desc": "The host sheds light on the current trends in the market regarding gold and silver, stock investment while interacting with various experts during the festive season."
+    "title": "News Bulletin",
+    "desc": "The hosts present some of the latest updates, current affairs and developments."
   },
   {
     "start": "06:00",
@@ -513,8 +62,8 @@
     "channelName": "News 1 India",
     "startTs": 1793340000000,
     "stopTs": 1793341800000,
-    "title": "Badi Khabar",
-    "desc": "Take a look at an analysis of the varied facets of a major piece of news."
+    "title": "News Bulletin",
+    "desc": "The hosts present some of the latest updates, current affairs and developments."
   },
   {
     "start": "06:30",
@@ -525,7 +74,7 @@
     "startTs": 1793341800000,
     "stopTs": 1793343600000,
     "title": "Khabar @12",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
+    "desc": "The host presents some of the latest updates, current affairs and developments."
   },
   {
     "start": "07:00",
@@ -535,8 +84,8 @@
     "channelName": "News 1 India",
     "startTs": 1793343600000,
     "stopTs": 1793345400000,
-    "title": "Desh Dinbhar",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
+    "title": "Desh Din Bhar",
+    "desc": "The host presents the biggest news stories of the day happening in the country."
   },
   {
     "start": "07:30",
@@ -546,8 +95,8 @@
     "channelName": "News 1 India",
     "startTs": 1793345400000,
     "stopTs": 1793347200000,
-    "title": "De Danadan",
-    "desc": "The host sheds light on the current trends in the market regarding gold and silver, stock investment while interacting with various experts during the festive season."
+    "title": "1 PM Special",
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "08:00",
@@ -558,7 +107,7 @@
     "startTs": 1793347200000,
     "stopTs": 1793349000000,
     "title": "Devbhoomi Dophar",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates from around Uttarakhand."
+    "desc": "The host provides the latest information on various key issues affecting the state."
   },
   {
     "start": "08:30",
@@ -568,8 +117,8 @@
     "channelName": "News 1 India",
     "startTs": 1793349000000,
     "stopTs": 1793350800000,
-    "title": "Khabar Dophar",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
+    "title": "Khabar Dopehar",
+    "desc": "The host updates on social, economic and political issues and current events."
   },
   {
     "start": "09:00",
@@ -579,8 +128,8 @@
     "channelName": "News 1 India",
     "startTs": 1793350800000,
     "stopTs": 1793352600000,
-    "title": "Teleshopping",
-    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+    "title": "News Bulletin",
+    "desc": "The hosts present some of the latest updates, current affairs and developments."
   },
   {
     "start": "09:30",
@@ -590,8 +139,8 @@
     "channelName": "News 1 India",
     "startTs": 1793352600000,
     "stopTs": 1793354400000,
-    "title": "De Danadan",
-    "desc": "The host sheds light on the current trends in the market regarding gold and silver, stock investment while interacting with various experts during the festive season."
+    "title": "News Bulletin/Special Report",
+    "desc": "The host presents news updates; the host gives a detailed report on top stories."
   },
   {
     "start": "10:00",
@@ -601,8 +150,8 @@
     "channelName": "News 1 India",
     "startTs": 1793354400000,
     "stopTs": 1793356200000,
-    "title": "News Live",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
+    "title": "Entertainment Tadka",
+    "desc": "The host presents the latest news and developments from the film industry."
   },
   {
     "start": "10:30",
@@ -613,7 +162,7 @@
     "startTs": 1793356200000,
     "stopTs": 1793358000000,
     "title": "4 Ka Chakravyuh",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
+    "desc": "The host presents the latest news stories surrounding various issues around the country."
   },
   {
     "start": "11:00",
@@ -623,8 +172,8 @@
     "channelName": "News 1 India",
     "startTs": 1793358000000,
     "stopTs": 1793359800000,
-    "title": "Mashal Debate Show",
-    "desc": "The host invites a panel of experts from different fields who discuss and analyse the latest political and socio-economic news stories, live."
+    "title": "Reporter Live",
+    "desc": "The host presents a detailed report on the latest news and developments, live."
   },
   {
     "start": "11:30",
@@ -634,8 +183,8 @@
     "channelName": "News 1 India",
     "startTs": 1793359800000,
     "stopTs": 1793361600000,
-    "title": "Up Ki Lalkar Debate Show",
-    "desc": "The host invites a panel of experts from different fields who discuss and analyse the latest political and socio-economic news stories, live."
+    "title": "UP Ki Lalkar",
+    "desc": "The host invites experts to share their views on key political developments in the state."
   },
   {
     "start": "12:00",
@@ -646,7 +195,7 @@
     "startTs": 1793361600000,
     "stopTs": 1793363400000,
     "title": "Devbhoomi Dinbhar",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates from around Uttarakhand."
+    "desc": "The host presents the most important news updates from the Indian state of Uttarakhand."
   },
   {
     "start": "12:30",
@@ -657,7 +206,7 @@
     "startTs": 1793363400000,
     "stopTs": 1793365200000,
     "title": "News Room Live",
-    "desc": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
+    "desc": "The host discusses current social, economic and political issues with an expert, live."
   },
   {
     "start": "13:00",
@@ -667,8 +216,8 @@
     "channelName": "News 1 India",
     "startTs": 1793365200000,
     "stopTs": 1793367000000,
-    "title": "Desh Dinbhar",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
+    "title": "Desh Din Bhar",
+    "desc": "The host presents the biggest news stories of the day happening in the country."
   },
   {
     "start": "13:30",
@@ -679,7 +228,7 @@
     "startTs": 1793367000000,
     "stopTs": 1793368800000,
     "title": "Uttar Pradesh Vishesh",
-    "desc": "The host presents the latest news and updates from around the state of Uttar Pradesh."
+    "desc": "The host presents the latest news stories on crucial issues from the state of Uttar Pradesh."
   },
   {
     "start": "14:00",
@@ -690,7 +239,7 @@
     "startTs": 1793368800000,
     "stopTs": 1793370600000,
     "title": "Uttarakhand Vishesh",
-    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates from around Uttarakhand."
+    "desc": "The host provides the latest information on significant matters affecting Uttarakhand."
   },
   {
     "start": "14:30",
@@ -701,7 +250,7 @@
     "startTs": 1793370600000,
     "stopTs": 1793372400000,
     "title": "Baat Me Dum Hai",
-    "desc": "The host presents an in-depth analysis of the top stories, latest happening and major events that have made the headlines."
+    "desc": "The host discusses the latest and the most relevant social, political and economic issues."
   },
   {
     "start": "15:00",
@@ -712,7 +261,7 @@
     "startTs": 1793372400000,
     "stopTs": 1793374200000,
     "title": "Baat Me Dum Hai",
-    "desc": "The host presents an in-depth analysis of the top stories, latest happening and major events that have made the headlines."
+    "desc": "The host discusses the latest and the most relevant social, political and economic issues."
   },
   {
     "start": "15:30",
@@ -723,7 +272,7 @@
     "startTs": 1793374200000,
     "stopTs": 1793376000000,
     "title": "Ye Khabar Hai",
-    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across the world."
+    "desc": "The host presents important issues and provides updates on current events."
   },
   {
     "start": "16:00",
@@ -734,7 +283,7 @@
     "startTs": 1793376000000,
     "stopTs": 1793377800000,
     "title": "Dilli Live",
-    "desc": "The host presents the 100 latest and the most relevant social, political, economic and sports updates from Delhi."
+    "desc": "The host presents the latest information on various issues in New Delhi, live."
   },
   {
     "start": "16:30",
@@ -744,8 +293,8 @@
     "channelName": "News 1 India",
     "startTs": 1793377800000,
     "stopTs": 1793379600000,
-    "title": "Teleshopping/ Programme",
-    "desc": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one&apos;s home."
+    "title": "News Bulletin",
+    "desc": "The hosts present some of the latest updates, current affairs and developments."
   },
   {
     "start": "17:00",
@@ -755,8 +304,8 @@
     "channelName": "News 1 India",
     "startTs": 1793379600000,
     "stopTs": 1793381400000,
-    "title": "Teleshopping/ Programme",
-    "desc": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one&apos;s home."
+    "title": "News",
+    "desc": "."
   },
   {
     "start": "17:30",
@@ -766,8 +315,8 @@
     "channelName": "News 1 India",
     "startTs": 1793381400000,
     "stopTs": 1793383200000,
-    "title": "Teleshopping/ Programme",
-    "desc": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one&apos;s home."
+    "title": "News",
+    "desc": "."
   },
   {
     "start": "18:00",
@@ -777,8 +326,8 @@
     "channelName": "News 1 India",
     "startTs": 1793383200000,
     "stopTs": 1793385000000,
-    "title": "Teleshopping/ Programme",
-    "desc": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one&apos;s home."
+    "title": "News",
+    "desc": "."
   },
   {
     "start": "18:30",
@@ -909,6 +458,512 @@
     "channelName": "News 1 India",
     "startTs": 1793421000000,
     "stopTs": 1793422800000,
+    "title": "10 Ka Agenda",
+    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793422800000,
+    "stopTs": 1793424600000,
+    "title": "10 Ka Agenda",
+    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793424600000,
+    "stopTs": 1793426400000,
+    "title": "De Danadan",
+    "desc": "The host sheds light on the current trends in the market regarding gold and silver, stock investment while interacting with various experts during the festive season."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793426400000,
+    "stopTs": 1793428200000,
+    "title": "Badi Khabar",
+    "desc": "Take a look at an analysis of the varied facets of a major piece of news."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793428200000,
+    "stopTs": 1793430000000,
+    "title": "Khabar @12",
+    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793430000000,
+    "stopTs": 1793431800000,
+    "title": "Desh Dinbhar",
+    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793431800000,
+    "stopTs": 1793433600000,
+    "title": "De Danadan",
+    "desc": "The host sheds light on the current trends in the market regarding gold and silver, stock investment while interacting with various experts during the festive season."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793433600000,
+    "stopTs": 1793435400000,
+    "title": "Devbhoomi Dophar",
+    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates from around Uttarakhand."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793435400000,
+    "stopTs": 1793437200000,
+    "title": "Khabar Dophar",
+    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793437200000,
+    "stopTs": 1793439000000,
+    "title": "Teleshopping",
+    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793439000000,
+    "stopTs": 1793440800000,
+    "title": "De Danadan",
+    "desc": "The host sheds light on the current trends in the market regarding gold and silver, stock investment while interacting with various experts during the festive season."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793440800000,
+    "stopTs": 1793442600000,
+    "title": "News Live",
+    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793442600000,
+    "stopTs": 1793444400000,
+    "title": "4 Ka Chakravyuh",
+    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793444400000,
+    "stopTs": 1793446200000,
+    "title": "Mashal Debate Show",
+    "desc": "The host invites a panel of experts from different fields who discuss and analyse the latest political and socio-economic news stories, live."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793446200000,
+    "stopTs": 1793448000000,
+    "title": "Up Ki Lalkar Debate Show",
+    "desc": "The host invites a panel of experts from different fields who discuss and analyse the latest political and socio-economic news stories, live."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793448000000,
+    "stopTs": 1793449800000,
+    "title": "Devbhoomi Dinbhar",
+    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates from around Uttarakhand."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793449800000,
+    "stopTs": 1793451600000,
+    "title": "News Room Live",
+    "desc": "The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793451600000,
+    "stopTs": 1793453400000,
+    "title": "Desh Dinbhar",
+    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793453400000,
+    "stopTs": 1793455200000,
+    "title": "Uttar Pradesh Vishesh",
+    "desc": "The host presents the latest news and updates from around the state of Uttar Pradesh."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793455200000,
+    "stopTs": 1793457000000,
+    "title": "Uttarakhand Vishesh",
+    "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates from around Uttarakhand."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793457000000,
+    "stopTs": 1793458800000,
+    "title": "Sarkar",
+    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793458800000,
+    "stopTs": 1793460600000,
+    "title": "Sarkar",
+    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793460600000,
+    "stopTs": 1793462400000,
+    "title": "Ye Khabar Hai",
+    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across the world."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793462400000,
+    "stopTs": 1793464200000,
+    "title": "Dilli Live",
+    "desc": "The host presents the 100 latest and the most relevant social, political, economic and sports updates from Delhi."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793464200000,
+    "stopTs": 1793466000000,
+    "title": "Teleshopping/ Programme",
+    "desc": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one&apos;s home."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793466000000,
+    "stopTs": 1793467800000,
+    "title": "Teleshopping/ Programme",
+    "desc": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one&apos;s home."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793467800000,
+    "stopTs": 1793469600000,
+    "title": "Teleshopping/ Programme",
+    "desc": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one&apos;s home."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793469600000,
+    "stopTs": 1793471400000,
+    "title": "Teleshopping/ Programme",
+    "desc": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one&apos;s home."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793471400000,
+    "stopTs": 1793473200000,
+    "title": "Teleshopping",
+    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793473200000,
+    "stopTs": 1793475000000,
+    "title": "News",
+    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793475000000,
+    "stopTs": 1793476800000,
+    "title": "News",
+    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793476800000,
+    "stopTs": 1793478600000,
+    "title": "News",
+    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793478600000,
+    "stopTs": 1793480400000,
+    "title": "News",
+    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
+  },
+  {
+    "start": "21:00",
+    "stop": "22:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793480400000,
+    "stopTs": 1793485800000,
+    "title": "News",
+    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793485800000,
+    "stopTs": 1793487600000,
+    "title": "News",
+    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793487600000,
+    "stopTs": 1793489400000,
+    "title": "News",
+    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793489400000,
+    "stopTs": 1793491200000,
+    "title": "News",
+    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793491200000,
+    "stopTs": 1793493000000,
+    "title": "News",
+    "desc": "A news bulletin, which keeps the viewers updated with the latest regional and national news."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793493000000,
+    "stopTs": 1793494800000,
+    "title": "Recorded",
+    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793494800000,
+    "stopTs": 1793496600000,
+    "title": "Recorded",
+    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793496600000,
+    "stopTs": 1793498400000,
+    "title": "Namaste UP",
+    "desc": "The host presents the latest in political, economic, social and sports updates and stories of the day from all across the state of Uttar Pradesh."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793498400000,
+    "stopTs": 1793500200000,
+    "title": "Pranam Devbhoomi",
+    "desc": "&apos;Pranam Devbhoomi&apos; is a religious show exploring spirituality and cultural traditions."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793500200000,
+    "stopTs": 1793502000000,
+    "title": "Top Agenda",
+    "desc": "The host presents an in-depth analysis of a most important news update."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793502000000,
+    "stopTs": 1793503800000,
+    "title": "Top Agenda",
+    "desc": "The host presents an in-depth analysis of a most important news update."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793503800000,
+    "stopTs": 1793505600000,
+    "title": "Ground Report@ Reporter",
+    "desc": "The host presents a detailed report of the latest news updates pertaining to social, political and economic issues from across the world."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793505600000,
+    "stopTs": 1793507400000,
+    "title": "Entertainment Tadka",
+    "desc": "A daily entertainment bulletin focusing on Bollywood gossip, major controversies, and trending entertainment news. The show breaks down the latest updates from the Indian film and television industry."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "News1India.in",
+    "channelId": "News1India.in",
+    "channelName": "News 1 India",
+    "startTs": 1793507400000,
+    "stopTs": 1793509200000,
     "title": "10 Ka Agenda",
     "desc": "The host presents the major social, political and economic news stories of the day and interacts with reporters on ground for the latest updates."
   }
