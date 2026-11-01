@@ -1,27 +1,5 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "ManoramaNews.in",
-    "channelId": "ManoramaNews.in",
-    "channelName": "Manorama News",
-    "startTs": 1793503800000,
-    "stopTs": 1793507400000,
-    "title": "News Break",
-    "desc": "The host sheds light on the latest news stories, updates and developments from various spheres including business and politics."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "ManoramaNews.in",
-    "channelId": "ManoramaNews.in",
-    "channelName": "Manorama News",
-    "startTs": 1793507400000,
-    "stopTs": 1793511000000,
-    "title": "10.00 AM News Break",
-    "desc": "A fast-paced news update delivering top headlines, breaking stories, and important local and global developments."
-  },
-  {
     "start": "05:30",
     "stop": "06:30",
     "channel": "ManoramaNews.in",
@@ -29,8 +7,8 @@
     "channelName": "Manorama News",
     "startTs": 1793511000000,
     "stopTs": 1793514600000,
-    "title": "11.00 AM News Break",
-    "desc": "A crisp news bulletin bringing the latest updates, key events, and essential information to start the day informed."
+    "title": "News Break",
+    "desc": "The host shares the latest news stories, updates and developments from different spheres."
   },
   {
     "start": "06:30",
@@ -40,8 +18,8 @@
     "channelName": "Manorama News",
     "startTs": 1793514600000,
     "stopTs": 1793518200000,
-    "title": "12.00pm News Break",
-    "desc": "12.00pm News Break"
+    "title": "News Break",
+    "desc": "The host shares the latest news stories, updates and developments from different spheres."
   },
   {
     "start": "07:30",
@@ -51,8 +29,8 @@
     "channelName": "Manorama News",
     "startTs": 1793518200000,
     "stopTs": 1793520000000,
-    "title": "Orumani Vartha",
-    "desc": "The host presents the news updates from the world of politics, economics, sports and entertainment."
+    "title": "Orumani Vaartha",
+    "desc": "The host presents the latest social, political and economic news updates."
   },
   {
     "start": "08:00",
@@ -62,8 +40,8 @@
     "channelName": "Manorama News",
     "startTs": 1793520000000,
     "stopTs": 1793521800000,
-    "title": "01.30 PM Nattuvartha",
-    "desc": "The host presents a roundup of the latest social, political, and economic news and developments from the state."
+    "title": "Nattu Vartha",
+    "desc": "The host highlights pressing local matters with stories from the ground."
   },
   {
     "start": "08:30",
@@ -74,7 +52,7 @@
     "startTs": 1793521800000,
     "stopTs": 1793523600000,
     "title": "2 PM News",
-    "desc": "Take a look at the latest social, economic and political news of the day."
+    "desc": "The host discusses the latest socio-economic and political news, updates and developments."
   },
   {
     "start": "09:00",
@@ -84,8 +62,8 @@
     "channelName": "Manorama News",
     "startTs": 1793523600000,
     "stopTs": 1793525400000,
-    "title": "02.30 PM News Update",
-    "desc": "The host covers the latest key socio-economic and political news, updates, and headline-making developments."
+    "title": "News Update",
+    "desc": "A reporter provides updates on events, developments and happenings around the world."
   },
   {
     "start": "09:30",
@@ -96,7 +74,7 @@
     "startTs": 1793525400000,
     "stopTs": 1793527200000,
     "title": "3 PM News",
-    "desc": "The host updates the viewers with the latest news stories from across the world."
+    "desc": "The host discusses the latest socio-economic and political news, updates and developments."
   },
   {
     "start": "10:00",
@@ -106,8 +84,8 @@
     "channelName": "Manorama News",
     "startTs": 1793527200000,
     "stopTs": 1793529000000,
-    "title": "03.30 PM News Update",
-    "desc": "The host presents the latest social, political, and economic news updates, discussing recent developments from around the world."
+    "title": "News Update",
+    "desc": "A reporter provides updates on events, developments and happenings around the world."
   },
   {
     "start": "10:30",
@@ -118,7 +96,7 @@
     "startTs": 1793529000000,
     "stopTs": 1793532600000,
     "title": "4 PM News",
-    "desc": "Take a look at a roundup of the latest news, events and developments of the day."
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "11:30",
@@ -129,7 +107,7 @@
     "startTs": 1793532600000,
     "stopTs": 1793534400000,
     "title": "5 PM News",
-    "desc": "A news bulletin which updates the viewers with the latest news from across the world."
+    "desc": "The host discusses the latest socio-economic and political news, updates and developments."
   },
   {
     "start": "12:00",
@@ -139,8 +117,8 @@
     "channelName": "Manorama News",
     "startTs": 1793534400000,
     "stopTs": 1793536200000,
-    "title": "05.30 pm News Update",
-    "desc": "The host discusses the latest and most important socio-economic and political news, updates, and headline-making developments."
+    "title": "News Update",
+    "desc": "A reporter provides updates on events, developments and happenings around the world."
   },
   {
     "start": "12:30",
@@ -151,7 +129,7 @@
     "startTs": 1793536200000,
     "stopTs": 1793538000000,
     "title": "Sandhya Vartha",
-    "desc": "A news bulletin which updates the viewers with the latest news from across the world."
+    "desc": "The host presents the latest updates pertaining to the current affairs of the day."
   },
   {
     "start": "13:00",
@@ -161,8 +139,8 @@
     "channelName": "Manorama News",
     "startTs": 1793538000000,
     "stopTs": 1793539800000,
-    "title": "06.30 PM Nattuvartha",
-    "desc": "The host presents a summary of the latest socio-cultural, political, and economic news updates and developments from Kerala."
+    "title": "Nattu Vartha",
+    "desc": "The host highlights pressing local matters with stories from the ground."
   },
   {
     "start": "13:30",
@@ -173,7 +151,7 @@
     "startTs": 1793539800000,
     "stopTs": 1793541600000,
     "title": "News Update",
-    "desc": "A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world."
+    "desc": "The host presents information about the social, economic and political issues of the day. S01 E33."
   },
   {
     "start": "14:00",
@@ -184,7 +162,7 @@
     "startTs": 1793541600000,
     "stopTs": 1793543400000,
     "title": "Law & Order",
-    "desc": "Law and Order presents investigative news, legal issues, and societal impacts in a comprehensive reporting format."
+    "desc": "The host delves into major court rulings and legal controversies shaping society."
   },
   {
     "start": "14:30",
@@ -195,7 +173,7 @@
     "startTs": 1793543400000,
     "stopTs": 1793547000000,
     "title": "Counter Point",
-    "desc": "Debate,discussion and expert analysis on a specific news valued topic with people making the news."
+    "desc": "The host discusses various current issues with experts in different fields."
   },
   {
     "start": "15:30",
@@ -206,7 +184,7 @@
     "startTs": 1793547000000,
     "stopTs": 1793548800000,
     "title": "Prime Time News",
-    "desc": "Get updates on news stories and headlines from around the world."
+    "desc": "The host presents the latest news and developments surrounding various issues."
   },
   {
     "start": "16:00",
@@ -217,7 +195,7 @@
     "startTs": 1793548800000,
     "stopTs": 1793550600000,
     "title": "Thiruva Ethirva",
-    "desc": "The current political situation in Kerala is presented in a satirical tone."
+    "desc": "The host presents updates pertaining to the politics in Kerala in a satirical manner."
   },
   {
     "start": "16:30",
@@ -228,7 +206,7 @@
     "startTs": 1793550600000,
     "stopTs": 1793552400000,
     "title": "Kuttapathram",
-    "desc": "Explores real-life crime stories with a gripping narrative and investigative perspective. Uncover chilling cases and unknown details that shed light on the darker side of society."
+    "desc": "The host presents updates on sensational criminal cases, providing a deeper look."
   },
   {
     "start": "17:00",
@@ -239,7 +217,7 @@
     "startTs": 1793552400000,
     "stopTs": 1793554200000,
     "title": "Innu Nadannathu",
-    "desc": "The program usually recaps the day&apos;s important events and news stories for viewers, highlighting key developments."
+    "desc": "The host presents information on issues of the day and provides updates on current events."
   },
   {
     "start": "17:30",
@@ -250,7 +228,7 @@
     "startTs": 1793554200000,
     "stopTs": 1793556000000,
     "title": "News Tonight",
-    "desc": "A news bulletin with updates on the events and happenings of the day."
+    "desc": "The host presents a compilation of the latest news pertaining to the Gulf countries."
   },
   {
     "start": "18:00",
@@ -260,8 +238,8 @@
     "channelName": "Manorama News",
     "startTs": 1793556000000,
     "stopTs": 1793557800000,
-    "title": "Thiruva Ethirva",
-    "desc": "The current political situation in Kerala is presented in a satirical tone."
+    "title": "Marimayam",
+    "desc": "A host of interesting characters encounter comical situations at government institutions. S01 E999."
   },
   {
     "start": "18:30",
@@ -900,5 +878,27 @@
     "stopTs": 1793683800000,
     "title": "10.00 AM News Break",
     "desc": "A fast-paced news update delivering top headlines, breaking stories, and important local and global developments."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "ManoramaNews.in",
+    "channelId": "ManoramaNews.in",
+    "channelName": "Manorama News",
+    "startTs": 1793683800000,
+    "stopTs": 1793687400000,
+    "title": "11.00 AM News Break",
+    "desc": "A crisp news bulletin bringing the latest updates, key events, and essential information to start the day informed."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:30",
+    "channel": "ManoramaNews.in",
+    "channelId": "ManoramaNews.in",
+    "channelName": "Manorama News",
+    "startTs": 1793687400000,
+    "stopTs": 1793691000000,
+    "title": "12.00pm News Break",
+    "desc": "12.00pm News Break"
   }
 ]

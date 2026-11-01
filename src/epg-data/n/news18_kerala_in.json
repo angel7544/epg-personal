@@ -1,25 +1,14 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "News18Kerala.in",
-    "channelId": "News18Kerala.in",
-    "channelName": "News18 Kerala",
-    "startTs": 1793503800000,
-    "stopTs": 1793507400000,
-    "title": "9 Mani Vartha",
-    "desc": "The host presents a detailed report of the latest news stories about political, economic, social and cultural topics from all around the region."
-  },
-  {
     "start": "04:30",
-    "stop": "06:30",
+    "stop": "07:00",
     "channel": "News18Kerala.in",
     "channelId": "News18Kerala.in",
     "channelName": "News18 Kerala",
     "startTs": 1793507400000,
-    "stopTs": 1793514600000,
+    "stopTs": 1793516400000,
     "title": "News Trends",
-    "desc": "Join the host for the latest buzz on news, entertainment, and politics!"
+    "desc": "The host collates and presents the latest trending news updates and developments pertaining to important matters of the nation."
   },
   {
     "start": "06:30",
@@ -900,5 +889,16 @@
     "stopTs": 1793687400000,
     "title": "News Trends",
     "desc": "Join the host for the latest buzz on news, entertainment, and politics!"
+  },
+  {
+    "start": "06:30",
+    "stop": "07:30",
+    "channel": "News18Kerala.in",
+    "channelId": "News18Kerala.in",
+    "channelName": "News18 Kerala",
+    "startTs": 1793687400000,
+    "stopTs": 1793691000000,
+    "title": "Sakalamana Keralam",
+    "desc": "A debate-format show that highlights current political and cultural issues, promoting healthy disagreement and critical thinking."
   }
 ]

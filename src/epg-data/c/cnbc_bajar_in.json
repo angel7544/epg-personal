@@ -1,49 +1,5 @@
 [
   {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "CNBCBajar.in",
-    "channelId": "CNBCBajar.in",
-    "channelName": "CNBC Bajar",
-    "startTs": 1793505600000,
-    "stopTs": 1793507400000,
-    "title": "Tech Guru",
-    "desc": "The hosts share their reviews of the latest gadgets dominating the digital landscape whole providing guidance on navigating through technological trends."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "CNBCBajar.in",
-    "channelId": "CNBCBajar.in",
-    "channelName": "CNBC Bajar",
-    "startTs": 1793507400000,
-    "stopTs": 1793509200000,
-    "title": "Money Manager",
-    "desc": "Watch current updates about stock trends, investments, and the share market."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "CNBCBajar.in",
-    "channelId": "CNBCBajar.in",
-    "channelName": "CNBC Bajar",
-    "startTs": 1793509200000,
-    "stopTs": 1793511000000,
-    "title": "Property Guru",
-    "desc": "Get specialized guidance on a wide range of real issues related to real estate."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "CNBCBajar.in",
-    "channelId": "CNBCBajar.in",
-    "channelName": "CNBC Bajar",
-    "startTs": 1793511000000,
-    "stopTs": 1793512800000,
-    "title": "Stocks This Week",
-    "desc": "Take a look at the fluctuations that have taken place in the stock market during the week."
-  },
-  {
     "start": "06:00",
     "stop": "06:30",
     "channel": "CNBCBajar.in",
@@ -51,8 +7,8 @@
     "channelName": "CNBC Bajar",
     "startTs": 1793512800000,
     "stopTs": 1793514600000,
-    "title": "Commodity Report",
-    "desc": "The host presents the latest news about commodity price changes and stock trends."
+    "title": "Dipotsav: Agri Special",
+    "desc": "The host invites financial experts to engage in a conversation with them about the market predictions of agricultural commodities during the time of Diwali."
   },
   {
     "start": "06:30",
@@ -1076,5 +1032,60 @@
     "stopTs": 1793682000000,
     "title": "Market Live",
     "desc": "Tracks real-time stock market performance. Viewers get up-to-date financial data, live trading insights, and expert opinions as the market shifts throughout the day."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "CNBCBajar.in",
+    "channelId": "CNBCBajar.in",
+    "channelName": "CNBC Bajar",
+    "startTs": 1793682000000,
+    "stopTs": 1793683800000,
+    "title": "Market Live",
+    "desc": "Tracks real-time stock market performance. Viewers get up-to-date financial data, live trading insights, and expert opinions as the market shifts throughout the day."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "CNBCBajar.in",
+    "channelId": "CNBCBajar.in",
+    "channelName": "CNBC Bajar",
+    "startTs": 1793683800000,
+    "stopTs": 1793685600000,
+    "title": "Commodity Live",
+    "desc": "A host presents top stories and headlines from markets, industries, government, entertainment, and sports, delivering clear, easy to understand updates for viewers about today&apos;s world."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "CNBCBajar.in",
+    "channelId": "CNBCBajar.in",
+    "channelName": "CNBC Bajar",
+    "startTs": 1793685600000,
+    "stopTs": 1793687400000,
+    "title": "Bajar Helpline",
+    "desc": "The hosts shed light on the latest stock market updates and team up with financial experts to guide prospective investors."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "CNBCBajar.in",
+    "channelId": "CNBCBajar.in",
+    "channelName": "CNBC Bajar",
+    "startTs": 1793687400000,
+    "stopTs": 1793689200000,
+    "title": "Bajar Helpline",
+    "desc": "The hosts shed light on the latest stock market updates and team up with financial experts to guide prospective investors."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "CNBCBajar.in",
+    "channelId": "CNBCBajar.in",
+    "channelName": "CNBC Bajar",
+    "startTs": 1793689200000,
+    "stopTs": 1793691000000,
+    "title": "Aapni Company",
+    "desc": "The expert advisor helps understand a company&apos;s business and provides additional information about the financial performance of other companies."
   }
 ]

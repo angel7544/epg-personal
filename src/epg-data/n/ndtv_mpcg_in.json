@@ -1,49 +1,5 @@
 [
   {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "NDTVMadhyaPradeshChhattisgarh.in",
-    "channelId": "NDTVMadhyaPradeshChhattisgarh.in",
-    "channelName": "NDTV MPCG",
-    "startTs": 1793505600000,
-    "stopTs": 1793507400000,
-    "title": "News Bulletin With Generic Branding - NDTV MP CG",
-    "desc": "The host sheds light on the latest news and important developments in various fields that affect the people of Madhya Pradesh and Chhattisgarh."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "NDTVMadhyaPradeshChhattisgarh.in",
-    "channelId": "NDTVMadhyaPradeshChhattisgarh.in",
-    "channelName": "NDTV MPCG",
-    "startTs": 1793507400000,
-    "stopTs": 1793509200000,
-    "title": "Chunaav Madhy Pradesh Ka Chunaav Chhatteesagadh Ka",
-    "desc": "As states get into battle mode. A special focus on how elections are shaping up in Madhya Pradesh and Chhattisgarh"
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "NDTVMadhyaPradeshChhattisgarh.in",
-    "channelId": "NDTVMadhyaPradeshChhattisgarh.in",
-    "channelName": "NDTV MPCG",
-    "startTs": 1793509200000,
-    "stopTs": 1793511000000,
-    "title": "Hamara Bharat",
-    "desc": "Pan India stories from politics to trending news, showcasing the top news, and leading stories."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "NDTVMadhyaPradeshChhattisgarh.in",
-    "channelId": "NDTVMadhyaPradeshChhattisgarh.in",
-    "channelName": "NDTV MPCG",
-    "startTs": 1793511000000,
-    "stopTs": 1793512800000,
-    "title": "City Centre",
-    "desc": "Our reporters bring you in-depth city news reports and probe for the facts."
-  },
-  {
     "start": "06:00",
     "stop": "06:30",
     "channel": "NDTVMadhyaPradeshChhattisgarh.in",
@@ -52,7 +8,7 @@
     "startTs": 1793512800000,
     "stopTs": 1793514600000,
     "title": "Hamara Desh",
-    "desc": "Eminent politicians and personalities from a cross-section of society are grilled by a live audience in this talk show."
+    "desc": "The host welcomes various prominent politicians and personalities and conducts in-depth interviews and rigorous questioning."
   },
   {
     "start": "06:30",
@@ -922,5 +878,60 @@
     "stopTs": 1793682000000,
     "title": "Chunaav Madhy Pradesh Ka Chunaav Chhatteesagadh Ka",
     "desc": "As states get into battle mode. A special focus on how elections are shaping up in Madhya Pradesh and Chhattisgarh"
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "NDTVMadhyaPradeshChhattisgarh.in",
+    "channelId": "NDTVMadhyaPradeshChhattisgarh.in",
+    "channelName": "NDTV MPCG",
+    "startTs": 1793682000000,
+    "stopTs": 1793683800000,
+    "title": "MP Express + Chattisgarh Express",
+    "desc": "Every piece of news from the region, from micro to macro, is accurate and exact information, more news in less time."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "NDTVMadhyaPradeshChhattisgarh.in",
+    "channelId": "NDTVMadhyaPradeshChhattisgarh.in",
+    "channelName": "NDTV MPCG",
+    "startTs": 1793683800000,
+    "stopTs": 1793685600000,
+    "title": "City Centre",
+    "desc": "Our reporters bring you in-depth city news reports and probe for the facts."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "NDTVMadhyaPradeshChhattisgarh.in",
+    "channelId": "NDTVMadhyaPradeshChhattisgarh.in",
+    "channelName": "NDTV MPCG",
+    "startTs": 1793685600000,
+    "stopTs": 1793687400000,
+    "title": "Hum Bahrat Ke Log",
+    "desc": "Veteran anchor Sumit Awasthi brings to you the news - explained in an unbiased manner, where the only thing that matters is you."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "NDTVMadhyaPradeshChhattisgarh.in",
+    "channelId": "NDTVMadhyaPradeshChhattisgarh.in",
+    "channelName": "NDTV MPCG",
+    "startTs": 1793687400000,
+    "stopTs": 1793689200000,
+    "title": "News Bulletin With Generic Branding - NDTV MP CG",
+    "desc": "We bring you up-to-date local news and thoroughly investigate every angle of the story."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "NDTVMadhyaPradeshChhattisgarh.in",
+    "channelId": "NDTVMadhyaPradeshChhattisgarh.in",
+    "channelName": "NDTV MPCG",
+    "startTs": 1793689200000,
+    "stopTs": 1793691000000,
+    "title": "NDTV Special",
+    "desc": "Our special shows on the NDTV Network"
   }
 ]

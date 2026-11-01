@@ -1,58 +1,14 @@
 [
   {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET Now",
-    "startTs": 1793505600000,
-    "stopTs": 1793507400000,
-    "title": "The Money Show Weekend Edition",
-    "desc": "This is Documentary - Others Category"
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1793507400000,
-    "stopTs": 1793509200000,
-    "title": "The Motown Show",
-    "desc": "Music and entertainment programs highlight iconic hits, artist journeys, and nostalgic experiences in the Motown genre."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1793509200000,
-    "stopTs": 1793511000000,
-    "title": "Times Drive",
-    "desc": "The host brings the latest automobile news with detailed reviews, comparisons, expert interviews, buying tips, and DIY solutions, making car and bike updates engaging and practical."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "ETNow.in",
-    "channelId": "ETNow.in",
-    "channelName": "ET NOW",
-    "startTs": 1793511000000,
-    "stopTs": 1793512800000,
-    "title": "The Interview With Ayesha Faridi",
-    "desc": "This covers the launch of South Central and an interview with Ayesha Faridi, highlighting South India&apos;s cultural and economic influence and its growing impact."
-  },
-  {
     "start": "06:00",
     "stop": "06:30",
     "channel": "ETNow.in",
     "channelId": "ETNow.in",
-    "channelName": "ET NOW",
+    "channelName": "ET Now",
     "startTs": 1793512800000,
     "stopTs": 1793514600000,
     "title": "Deep Dive",
-    "desc": "In-depth financial discussions explore market trends, corporate strategies, and economic forecasts, giving viewers insights into investments and business decisions."
+    "desc": "The host invites financial experts, and they dive deep into the world of stock markets, where they analyse rise, falls, and the latest trends."
   },
   {
     "start": "06:30",
@@ -955,5 +911,49 @@
     "stopTs": 1793682000000,
     "title": "First Trades",
     "desc": "A show that discusses stocks that have been highly volatile in trading while the stock markets open."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1793682000000,
+    "stopTs": 1793683800000,
+    "title": "Midcap Masala",
+    "desc": "Explores India&apos;s midcap stocks with expert analysis, top picks, and market trends, guiding investors toward high-growth opportunities."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1793683800000,
+    "stopTs": 1793687400000,
+    "title": "Buy Now Sell Now",
+    "desc": "A stock market show where an expert answers queries of small investors whether to hold or sell a certain stock."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1793687400000,
+    "stopTs": 1793689200000,
+    "title": "Markets @ Noon",
+    "desc": "The host shares clear, up-to-date news from politics, society, economy, and sports, covering major events at home and worldwide in an easy-to-understand way for everyone."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "ETNow.in",
+    "channelId": "ETNow.in",
+    "channelName": "ET NOW",
+    "startTs": 1793689200000,
+    "stopTs": 1793691000000,
+    "title": "All About Your Company",
+    "desc": "Market-focused shows explore investment opportunities, corporate news, and financial strategies."
   }
 ]

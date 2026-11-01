@@ -1,47 +1,14 @@
 [
   {
-    "start": "03:30",
-    "stop": "05:30",
-    "channel": "DisneyChannel.in",
-    "channelId": "DisneyChannel.in",
-    "channelName": "Disney Channel",
-    "startTs": 1793503800000,
-    "stopTs": 1793511000000,
-    "title": "Mickey Mouse Clubhouse",
-    "desc": "Citizens collaborate with nature to create sustainable solutions, restore ecosystems, and demonstrate how community-led initiatives can make a meaningful environmental difference."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "DisneyChannel.in",
-    "channelId": "DisneyChannel.in",
-    "channelName": "Disney Channel",
-    "startTs": 1793507400000,
-    "stopTs": 1793511000000,
-    "title": "Patal Desh Ki Chintiyan",
-    "desc": "Animated series for children."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "DisneyChannel.in",
-    "channelId": "DisneyChannel.in",
-    "channelName": "Disney Channel",
-    "startTs": 1793511000000,
-    "stopTs": 1793512800000,
-    "title": "Doraemon",
-    "desc": "The story revolves around a robotic cat named doraemon, who travels back in time from the 22nd century to aid a pre-teen boy named nobita nobi."
-  },
-  {
     "start": "06:00",
     "stop": "06:30",
     "channel": "DisneyChannel.in",
     "channelId": "DisneyChannel.in",
-    "channelName": "Disney Channel",
+    "channelName": "Disney Channel HD",
     "startTs": 1793512800000,
     "stopTs": 1793514600000,
-    "title": "Jungle Tales With Mowgli",
-    "desc": "Mowgli, a young boy raised by wolves, explores the jungle alongside Baloo and Bagheera, embarking on wild adventures while outsmarting the fearsome tiger Shere Khan."
+    "title": "Jungle Tales with Mowgli",
+    "desc": "Mowgli is a young boy brought up in the jungle by a pack of wolves. Together with his animal friends, he goes on various adventures in the wilderness."
   },
   {
     "start": "06:30",
@@ -515,5 +482,27 @@
     "stopTs": 1793683800000,
     "title": "Mickey Mouse Clubhouse",
     "desc": "Citizens collaborate with nature to create sustainable solutions, restore ecosystems, and demonstrate how community-led initiatives can make a meaningful environmental difference."
+  },
+  {
+    "start": "05:30",
+    "stop": "08:30",
+    "channel": "DisneyChannel.in",
+    "channelId": "DisneyChannel.in",
+    "channelName": "Disney Channel",
+    "startTs": 1793683800000,
+    "stopTs": 1793694600000,
+    "title": "Doraemon",
+    "desc": "The story revolves around a robotic cat named doraemon, who travels back in time from the 22nd century to aid a pre-teen boy named nobita nobi."
+  },
+  {
+    "start": "06:00",
+    "stop": "08:00",
+    "channel": "DisneyChannel.in",
+    "channelId": "DisneyChannel.in",
+    "channelName": "Disney Channel",
+    "startTs": 1793685600000,
+    "stopTs": 1793692800000,
+    "title": "Doraemon",
+    "desc": "The story revolves around a robotic cat named doraemon, who travels back in time from the 22nd century to aid a pre-teen boy named nobita nobi."
   }
 ]

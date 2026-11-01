@@ -11,50 +11,6 @@
     "desc": "The host provides a detailed report on the latest news and developments."
   },
   {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "IndiaToday.in",
-    "channelId": "IndiaToday.in",
-    "channelName": "India Today",
-    "startTs": 1793507400000,
-    "stopTs": 1793509200000,
-    "title": "News",
-    "desc": "Brings top news stories of the day across politics, business, and society, helping viewers stay informed with timely updates, expert views, and sharp reporting."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "IndiaToday.in",
-    "channelId": "IndiaToday.in",
-    "channelName": "India Today",
-    "startTs": 1793509200000,
-    "stopTs": 1793511000000,
-    "title": "Heath 360: Car T-Cell Therapy",
-    "desc": "Discover the latest breakthroughs in Car Tech, featuring revolutionary electric vehicles, smart autonomous driving features, cutting-edge battery innovations, and future transit designs."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "IndiaToday.in",
-    "channelId": "IndiaToday.in",
-    "channelName": "India Today",
-    "startTs": 1793511000000,
-    "stopTs": 1793512800000,
-    "title": "News",
-    "desc": "Brings top news stories of the day across politics, business, and society, helping viewers stay informed with timely updates, expert views, and sharp reporting."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "IndiaToday.in",
-    "channelId": "IndiaToday.in",
-    "channelName": "India Today",
-    "startTs": 1793512800000,
-    "stopTs": 1793514600000,
-    "title": "World Today",
-    "desc": "BBC news coverage of business, sports and world affairs from correspondents from around the globe."
-  },
-  {
     "start": "06:30",
     "stop": "09:30",
     "channel": "IndiaToday.in",
@@ -1076,5 +1032,60 @@
     "stopTs": 1793682000000,
     "title": "India&apos;s Agenda",
     "desc": "As news develops the host brings it first and set the news agenda for competition and India."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "IndiaToday.in",
+    "channelId": "IndiaToday.in",
+    "channelName": "India Today",
+    "startTs": 1793682000000,
+    "stopTs": 1793683800000,
+    "title": "India&apos;s Agenda",
+    "desc": "As news develops the host brings it first and set the news agenda for competition and India."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "IndiaToday.in",
+    "channelId": "IndiaToday.in",
+    "channelName": "India Today",
+    "startTs": 1793683800000,
+    "stopTs": 1793685600000,
+    "title": "News",
+    "desc": "Brings top news stories of the day across politics, business, and society, helping viewers stay informed with timely updates, expert views, and sharp reporting."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "IndiaToday.in",
+    "channelId": "IndiaToday.in",
+    "channelName": "India Today",
+    "startTs": 1793685600000,
+    "stopTs": 1793687400000,
+    "title": "News",
+    "desc": "Brings top news stories of the day across politics, business, and society, helping viewers stay informed with timely updates, expert views, and sharp reporting."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "IndiaToday.in",
+    "channelId": "IndiaToday.in",
+    "channelName": "India Today",
+    "startTs": 1793687400000,
+    "stopTs": 1793689200000,
+    "title": "Lunch Break",
+    "desc": "The latest top stories, updates, and key developments from local, national, and international news."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "IndiaToday.in",
+    "channelId": "IndiaToday.in",
+    "channelName": "India Today",
+    "startTs": 1793689200000,
+    "stopTs": 1793691000000,
+    "title": "Lunch Break",
+    "desc": "The latest top stories, updates, and key developments from local, national, and international news."
   }
 ]

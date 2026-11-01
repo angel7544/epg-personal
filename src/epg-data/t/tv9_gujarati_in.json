@@ -1,38 +1,5 @@
 [
   {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "TV9Gujarati.in",
-    "channelId": "TV9Gujarati.in",
-    "channelName": "TV9 Gujarati",
-    "startTs": 1793505600000,
-    "stopTs": 1793507400000,
-    "title": "Bhakti",
-    "desc": "The host visits various prominent temples across the country and talks about the different rituals and deities to be worshipped."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "TV9Gujarati.in",
-    "channelId": "TV9Gujarati.in",
-    "channelName": "TV9 Gujarati",
-    "startTs": 1793507400000,
-    "stopTs": 1793509200000,
-    "title": "News At 10",
-    "desc": "Round-up of the day&apos;s stories."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "TV9Gujarati.in",
-    "channelId": "TV9Gujarati.in",
-    "channelName": "TV9 Gujarati",
-    "startTs": 1793509200000,
-    "stopTs": 1793511000000,
-    "title": "Tv9 Samachar",
-    "desc": "TV9 Gujarati&apos;s special show, &apos;Tv9 Samachar,&apos; delivers the latest news and insights."
-  },
-  {
     "start": "05:30",
     "stop": "06:30",
     "channel": "TV9Gujarati.in",
@@ -40,8 +7,8 @@
     "channelName": "TV9 Gujarati",
     "startTs": 1793511000000,
     "stopTs": 1793514600000,
-    "title": "Tv9 Samachar",
-    "desc": "TV9 Gujarati&apos;s special show, &apos;Tv9 Samachar,&apos; delivers the latest news and insights."
+    "title": "TV9 Samachar",
+    "desc": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world."
   },
   {
     "start": "06:30",
@@ -900,5 +867,49 @@
     "stopTs": 1793682000000,
     "title": "News At 10",
     "desc": "Round-up of the day&apos;s stories."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "TV9Gujarati.in",
+    "channelId": "TV9Gujarati.in",
+    "channelName": "TV9 Gujarati",
+    "startTs": 1793682000000,
+    "stopTs": 1793683800000,
+    "title": "Tv9 Samachar",
+    "desc": "TV9 Gujarati&apos;s special show, &apos;Tv9 Samachar,&apos; delivers the latest news and insights."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "TV9Gujarati.in",
+    "channelId": "TV9Gujarati.in",
+    "channelName": "TV9 Gujarati",
+    "startTs": 1793683800000,
+    "stopTs": 1793687400000,
+    "title": "Tv9 Samachar",
+    "desc": "TV9 Gujarati&apos;s special show, &apos;Tv9 Samachar,&apos; delivers the latest news and insights."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "TV9Gujarati.in",
+    "channelId": "TV9Gujarati.in",
+    "channelName": "TV9 Gujarati",
+    "startTs": 1793687400000,
+    "stopTs": 1793689200000,
+    "title": "Tv9 Samachar",
+    "desc": "TV9 Gujarati&apos;s special show, &apos;Tv9 Samachar,&apos; delivers the latest news and insights."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "TV9Gujarati.in",
+    "channelId": "TV9Gujarati.in",
+    "channelName": "TV9 Gujarati",
+    "startTs": 1793689200000,
+    "stopTs": 1793691000000,
+    "title": "News Fatafat",
+    "desc": "Latest news from around the world."
   }
 ]

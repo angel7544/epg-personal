@@ -1,38 +1,5 @@
 [
   {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "DDKisan.in",
-    "channelId": "DDKisan.in",
-    "channelName": "DD Kisan",
-    "startTs": 1793505600000,
-    "stopTs": 1793507400000,
-    "title": "Albele Hatho Ka Hunar",
-    "desc": "The host travels to different regions in India, meeting various local artisans to understand and shed light on their craft."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "DDKisan.in",
-    "channelId": "DDKisan.in",
-    "channelName": "DD Kisan",
-    "startTs": 1793507400000,
-    "stopTs": 1793509200000,
-    "title": "Mausam Khabar",
-    "desc": "Weather news bulletin with excerpts from IMD which will take on minute weather data in vice versa crops of the country"
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "DDKisan.in",
-    "channelId": "DDKisan.in",
-    "channelName": "DD Kisan",
-    "startTs": 1793509200000,
-    "stopTs": 1793511000000,
-    "title": "Ek Kadam Unnati Ki Ore",
-    "desc": "An inspiring series that motivates farmers to adopt modern ideas, improve productivity, and take small steps toward growth and long-term success."
-  },
-  {
     "start": "05:30",
     "stop": "06:30",
     "channel": "DDKisan.in",
@@ -40,8 +7,8 @@
     "channelName": "DD Kisan",
     "startTs": 1793511000000,
     "stopTs": 1793514600000,
-    "title": "Swasth Kisan - Live",
-    "desc": "A live health and wellness program offering guidance to maintain a healthy and productive lifestyle in rural areas."
+    "title": "Swasth Kisan",
+    "desc": "The host invites experts from the field of medicine who provide their insights on different ailments, their prevention and treatments."
   },
   {
     "start": "06:30",
@@ -977,5 +944,38 @@
     "stopTs": 1793682000000,
     "title": "Mausam Khabar",
     "desc": "Weather news bulletin with excerpts from IMD which will take on minute weather data in vice versa crops of the country"
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "DDKisan.in",
+    "channelId": "DDKisan.in",
+    "channelName": "DD Kisan",
+    "startTs": 1793682000000,
+    "stopTs": 1793683800000,
+    "title": "Ek Kadam Unnati Ki Ore",
+    "desc": "An inspiring series that motivates farmers to adopt modern ideas, improve productivity, and take small steps toward growth and long-term success."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "DDKisan.in",
+    "channelId": "DDKisan.in",
+    "channelName": "DD Kisan",
+    "startTs": 1793683800000,
+    "stopTs": 1793687400000,
+    "title": "Desh Ki Shaan Kisan",
+    "desc": "In this fun reality show, farmers team up with scientists to tackle challenges, share insights, and discover innovative ways to improve agriculture together. It&apos;s knowledge meets hands-on action!"
+  },
+  {
+    "start": "06:30",
+    "stop": "07:30",
+    "channel": "DDKisan.in",
+    "channelId": "DDKisan.in",
+    "channelName": "DD Kisan",
+    "startTs": 1793687400000,
+    "stopTs": 1793691000000,
+    "title": "Hum Kisi Se Kam Nai",
+    "desc": "Four teams of farmers and students compete in challenging quiz rounds, testing their knowledge of agriculture, farming practices, and related topics."
   }
 ]

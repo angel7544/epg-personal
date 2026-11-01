@@ -1,58 +1,14 @@
 [
   {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "VissaTV.in",
-    "channelId": "VissaTV.in",
-    "channelName": "Vissa TV",
-    "startTs": 1793505600000,
-    "stopTs": 1793507400000,
-    "title": "Multiplex",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "VissaTV.in",
-    "channelId": "VissaTV.in",
-    "channelName": "Vissa TV",
-    "startTs": 1793507400000,
-    "stopTs": 1793509200000,
-    "title": "Vissa Morning News",
-    "desc": "The host presents news about current affairs to help viewers arm themselves with crucial knowledge and be aware of the dangers and calamities that plague the nation."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "VissaTV.in",
-    "channelId": "VissaTV.in",
-    "channelName": "Vissa TV",
-    "startTs": 1793509200000,
-    "stopTs": 1793511000000,
-    "title": "Teleshopping",
-    "desc": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one&apos;s home."
-  },
-  {
     "start": "05:30",
-    "stop": "06:00",
+    "stop": "08:00",
     "channel": "VissaTV.in",
     "channelId": "VissaTV.in",
     "channelName": "Vissa TV",
     "startTs": 1793511000000,
-    "stopTs": 1793512800000,
-    "title": "Nee Katha Endi",
-    "desc": "This website reviews new movies. We give simple opinions to help you decide. Read our reviews to know if a film is good. Be informed before watching!"
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "VissaTV.in",
-    "channelId": "VissaTV.in",
-    "channelName": "Vissa TV",
-    "startTs": 1793512800000,
-    "stopTs": 1793514600000,
-    "title": "Teleshopping",
-    "desc": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one&apos;s home."
+    "stopTs": 1793520000000,
+    "title": "Movie",
+    "desc": "Bringing the best in cinema."
   },
   {
     "start": "06:30",
@@ -933,5 +889,60 @@
     "stopTs": 1793682000000,
     "title": "Vissa Morning News",
     "desc": "The host presents news about current affairs to help viewers arm themselves with crucial knowledge and be aware of the dangers and calamities that plague the nation."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "VissaTV.in",
+    "channelId": "VissaTV.in",
+    "channelName": "Vissa TV",
+    "startTs": 1793682000000,
+    "stopTs": 1793683800000,
+    "title": "Teleshopping",
+    "desc": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one&apos;s home."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "VissaTV.in",
+    "channelId": "VissaTV.in",
+    "channelName": "Vissa TV",
+    "startTs": 1793683800000,
+    "stopTs": 1793685600000,
+    "title": "Crazy Feeling-Live",
+    "desc": "Callers speak with the hosts about their favourite singers, songs, and actors while sharing friendly comments and jokes with each other."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "VissaTV.in",
+    "channelId": "VissaTV.in",
+    "channelName": "Vissa TV",
+    "startTs": 1793685600000,
+    "stopTs": 1793687400000,
+    "title": "Teleshopping",
+    "desc": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one&apos;s home."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "VissaTV.in",
+    "channelId": "VissaTV.in",
+    "channelName": "Vissa TV",
+    "startTs": 1793687400000,
+    "stopTs": 1793689200000,
+    "title": "Karthikeya Serial",
+    "desc": "A captivating drama series following the life of Karthikeya, exploring his journey through mystery, adventure, and self-discovery, rooted in spirituality and myth."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "VissaTV.in",
+    "channelId": "VissaTV.in",
+    "channelName": "Vissa TV",
+    "startTs": 1793689200000,
+    "stopTs": 1793691000000,
+    "title": "Teleshopping",
+    "desc": "The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one&apos;s home."
   }
 ]

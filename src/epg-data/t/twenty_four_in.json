@@ -1,16 +1,5 @@
 [
   {
-    "start": "01:30",
-    "stop": "05:00",
-    "channel": "TwentyFourNews.in",
-    "channelId": "TwentyFourNews.in",
-    "channelName": "Twenty Four",
-    "startTs": 1793496600000,
-    "stopTs": 1793509200000,
-    "title": "Good Morning With R Sreekandan Nair",
-    "desc": "Start your day with R Sreekandan Nair as he delivers the latest news and updates. Stay informed-watch Good Morning now!"
-  },
-  {
     "start": "05:00",
     "stop": "07:00",
     "channel": "TwentyFourNews.in",
@@ -669,5 +658,27 @@
     "stopTs": 1793682000000,
     "title": "Good Morning With Sreekandan Nair",
     "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
+  },
+  {
+    "start": "05:00",
+    "stop": "07:00",
+    "channel": "TwentyFourNews.in",
+    "channelId": "TwentyFourNews.in",
+    "channelName": "Twenty Four",
+    "startTs": 1793682000000,
+    "stopTs": 1793689200000,
+    "title": "Breaking News",
+    "desc": "The host highlights major national and international news, sharing top stories, current events, and important updates. Viewers get a concise briefing on what&apos;s happening around the world."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "TwentyFourNews.in",
+    "channelId": "TwentyFourNews.in",
+    "channelName": "Twenty Four",
+    "startTs": 1793689200000,
+    "stopTs": 1793691000000,
+    "title": "100 News",
+    "desc": "The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports."
   }
 ]

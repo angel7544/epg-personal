@@ -1,93 +1,5 @@
 [
   {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "SaamTV.in",
-    "channelId": "SaamTV.in",
-    "channelName": "Saam TV",
-    "startTs": 1793505600000,
-    "stopTs": 1793507400000,
-    "title": "Weekend Manatra",
-    "desc": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
-  },
-  {
-    "start": "04:26",
-    "stop": "04:56",
-    "channel": "SaamTV.in",
-    "channelId": "SaamTV.in",
-    "channelName": "Saam TV",
-    "startTs": 1793507160000,
-    "stopTs": 1793508960000,
-    "title": "Saam Newstime",
-    "desc": "A news bulletin keeping viewers updated with regional and national news."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "SaamTV.in",
-    "channelId": "SaamTV.in",
-    "channelName": "Saam TV",
-    "startTs": 1793507400000,
-    "stopTs": 1793509200000,
-    "title": "Weekend Manatra",
-    "desc": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
-  },
-  {
-    "start": "04:56",
-    "stop": "05:26",
-    "channel": "SaamTV.in",
-    "channelId": "SaamTV.in",
-    "channelName": "Saam TV",
-    "startTs": 1793508960000,
-    "stopTs": 1793510760000,
-    "title": "TOP 50",
-    "desc": "Catch the highlights of the day in TOP 50, your shortcut to important news."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "SaamTV.in",
-    "channelId": "SaamTV.in",
-    "channelName": "Saam TV",
-    "startTs": 1793509200000,
-    "stopTs": 1793511000000,
-    "title": "Weekend Manatra",
-    "desc": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
-  },
-  {
-    "start": "05:26",
-    "stop": "05:56",
-    "channel": "SaamTV.in",
-    "channelId": "SaamTV.in",
-    "channelName": "Saam TV",
-    "startTs": 1793510760000,
-    "stopTs": 1793512560000,
-    "title": "Saam Update",
-    "desc": "A concise news recap segment that brings key happenings of the day in under five minutes with visuals and on-point narration."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "SaamTV.in",
-    "channelId": "SaamTV.in",
-    "channelName": "Saam TV",
-    "startTs": 1793511000000,
-    "stopTs": 1793512800000,
-    "title": "Weekend Manatra",
-    "desc": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
-  },
-  {
-    "start": "05:56",
-    "stop": "06:26",
-    "channel": "SaamTV.in",
-    "channelId": "SaamTV.in",
-    "channelName": "Saam TV",
-    "startTs": 1793512560000,
-    "stopTs": 1793514360000,
-    "title": "Saam Update",
-    "desc": "A concise news recap segment that brings key happenings of the day in under five minutes with visuals and on-point narration."
-  },
-  {
     "start": "06:00",
     "stop": "06:30",
     "channel": "SaamTV.in",
@@ -97,17 +9,6 @@
     "stopTs": 1793514600000,
     "title": "Weekend Manatra",
     "desc": "The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs."
-  },
-  {
-    "start": "06:26",
-    "stop": "06:56",
-    "channel": "SaamTV.in",
-    "channelId": "SaamTV.in",
-    "channelName": "Saam TV",
-    "startTs": 1793514360000,
-    "stopTs": 1793516160000,
-    "title": "Saam Update",
-    "desc": "A concise news recap segment that brings key happenings of the day in under five minutes with visuals and on-point narration."
   },
   {
     "start": "06:30",
@@ -1989,5 +1890,49 @@
     "stopTs": 1793681760000,
     "title": "Saam Newstime",
     "desc": "A news bulletin keeping viewers updated with regional and national news."
+  },
+  {
+    "start": "04:56",
+    "stop": "05:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1793681760000,
+    "stopTs": 1793685360000,
+    "title": "Top 50 News",
+    "desc": "A rapid-fire countdown of the day&apos;s 50 biggest news stories from politics, sports, entertainment, and more, keeping viewers updated and engaged."
+  },
+  {
+    "start": "05:56",
+    "stop": "06:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1793685360000,
+    "stopTs": 1793687160000,
+    "title": "Saam Update",
+    "desc": "A concise news recap segment that brings key happenings of the day in under five minutes with visuals and on-point narration."
+  },
+  {
+    "start": "06:26",
+    "stop": "06:56",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1793687160000,
+    "stopTs": 1793688960000,
+    "title": "Saam Update",
+    "desc": "A concise news recap segment that brings key happenings of the day in under five minutes with visuals and on-point narration."
+  },
+  {
+    "start": "06:56",
+    "stop": "07:26",
+    "channel": "SaamTV.in",
+    "channelId": "SaamTV.in",
+    "channelName": "Saam TV",
+    "startTs": 1793688960000,
+    "stopTs": 1793690760000,
+    "title": "Saam News Fast",
+    "desc": "Lightning-fast news roundups delivering state, national, and international updates for audiences needing immediate awareness."
   }
 ]

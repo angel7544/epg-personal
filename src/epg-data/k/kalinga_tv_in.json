@@ -1,60 +1,5 @@
 [
   {
-    "start": "04:00",
-    "stop": "04:25",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1793505600000,
-    "stopTs": 1793507100000,
-    "title": "Aama School",
-    "desc": "This is TV Show - Education (Adult) Category"
-  },
-  {
-    "start": "04:25",
-    "stop": "04:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1793507100000,
-    "stopTs": 1793507400000,
-    "title": "Dekh khabar Rakh Nazar",
-    "desc": "The host presents the latest news updates and developments on pressing socio-economic and political issues, with a humorous and satirical twist."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1793507400000,
-    "stopTs": 1793509200000,
-    "title": "Breaking@10",
-    "desc": "Breaking developments and urgent headlines are presented with live updates, on ground reports and expert insights on the latest unfolding events."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1793509200000,
-    "stopTs": 1793511000000,
-    "title": "Metro Plus",
-    "desc": "This program updates the viewers with the significant events held in Hyderabad city of Andhra Pradesh."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga TV",
-    "startTs": 1793511000000,
-    "stopTs": 1793512800000,
-    "title": "News Alert",
-    "desc": "Join discussion on socio-economic and political news, and updates making headlines."
-  },
-  {
     "start": "06:00",
     "stop": "06:25",
     "channel": "KalingaTV.in",
@@ -63,7 +8,7 @@
     "startTs": 1793512800000,
     "stopTs": 1793514300000,
     "title": "News Alert",
-    "desc": "Join discussion on socio-economic and political news, and updates making headlines."
+    "desc": "The host presents a detailed report of the latest news updates and key developments from political, socio-economic and sports fronts."
   },
   {
     "start": "06:25",
@@ -74,7 +19,7 @@
     "startTs": 1793514300000,
     "stopTs": 1793514600000,
     "title": "Reporter Didi",
-    "desc": "The host highlights various social issues concerning civic rights, public education, healthcare access, and gender equality, sparking vital conversations for progressive community reform."
+    "desc": "The host presents the latest news updates on various pressing issues impacting citizens and interacts with them to gain valuable insights."
   },
   {
     "start": "06:30",
@@ -1274,5 +1219,71 @@
     "stopTs": 1793682000000,
     "title": "Breaking@10",
     "desc": "Breaking developments and urgent headlines are presented with live updates, on ground reports and expert insights on the latest unfolding events."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793682000000,
+    "stopTs": 1793683800000,
+    "title": "Tike Halchal Tike Hulchul",
+    "desc": "Two people from feuding families pretend to fall in love for revenge, but their staged romance turns real, sparking chaos and reshaping loyalties within feud."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793683800000,
+    "stopTs": 1793685600000,
+    "title": "News Alert",
+    "desc": "Join discussion on socio-economic and political news, and updates making headlines."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:25",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793685600000,
+    "stopTs": 1793687100000,
+    "title": "News Alert",
+    "desc": "Join discussion on socio-economic and political news, and updates making headlines."
+  },
+  {
+    "start": "06:25",
+    "stop": "06:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793687100000,
+    "stopTs": 1793687400000,
+    "title": "Reporter Didi",
+    "desc": "The host highlights various social issues concerning civic rights, public education, healthcare access, and gender equality, sparking vital conversations for progressive community reform."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793687400000,
+    "stopTs": 1793689200000,
+    "title": "News @Noon",
+    "desc": "Midday news brings important national and regional updates, covering politics, society, economy and current affairs with clear and concise reporting."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga TV",
+    "startTs": 1793689200000,
+    "stopTs": 1793691000000,
+    "title": "News @Noon",
+    "desc": "Midday news brings important national and regional updates, covering politics, society, economy and current affairs with clear and concise reporting."
   }
 ]

@@ -1,47 +1,14 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "NewsLive.in",
-    "channelId": "NewsLive.in",
-    "channelName": "News Live",
-    "startTs": 1793503800000,
-    "stopTs": 1793507400000,
-    "title": "Good Morning Assam",
-    "desc": "The host presents the latest social, economic and political news from Assam and provides information on relevant current events."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "NewsLive.in",
-    "channelId": "NewsLive.in",
-    "channelName": "News Live",
-    "startTs": 1793507400000,
-    "stopTs": 1793511000000,
-    "title": "Teleshopping",
-    "desc": "Learn about a wide selection of products and take advantage of a convenient method of shopping from home."
-  },
-  {
     "start": "05:30",
-    "stop": "06:00",
-    "channel": "NewsLive.in",
-    "channelId": "NewsLive.in",
-    "channelName": "News Live",
-    "startTs": 1793511000000,
-    "stopTs": 1793512800000,
-    "title": "Assamese News",
-    "desc": "The host delivers regional, national, and international news with current updates."
-  },
-  {
-    "start": "06:00",
     "stop": "06:30",
     "channel": "NewsLive.in",
     "channelId": "NewsLive.in",
     "channelName": "News Live",
-    "startTs": 1793512800000,
+    "startTs": 1793511000000,
     "stopTs": 1793514600000,
-    "title": "Assamese News",
-    "desc": "The host delivers regional, national, and international news with current updates."
+    "title": "Morning Prime Time",
+    "desc": "The host presents a summary of the latest social, economic and political news updates and developments from the nation and around the world."
   },
   {
     "start": "06:30",
@@ -658,5 +625,38 @@
     "stopTs": 1793683800000,
     "title": "Repeat Show",
     "desc": "Rebroadcast of previously aired shows and episodes for viewers who missed them"
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1793683800000,
+    "stopTs": 1793685600000,
+    "title": "Assamese News",
+    "desc": "The host delivers regional, national, and international news with current updates."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1793685600000,
+    "stopTs": 1793687400000,
+    "title": "Talk Time",
+    "desc": "The host interviews renowned personalities who share views on various topics."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:30",
+    "channel": "NewsLive.in",
+    "channelId": "NewsLive.in",
+    "channelName": "News Live",
+    "startTs": 1793687400000,
+    "stopTs": 1793691000000,
+    "title": "Mid Day Live",
+    "desc": "The host summarises the latest news updates and developments from around the world, live."
   }
 ]

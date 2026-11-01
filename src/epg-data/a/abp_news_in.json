@@ -1,49 +1,5 @@
 [
   {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1793505600000,
-    "stopTs": 1793507400000,
-    "title": "9 Second Mein News",
-    "desc": "A summary of the latest news updates and developments in politics, economics, and social and cultural issues."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1793507400000,
-    "stopTs": 1793509200000,
-    "title": "Aagey Ka Agenda",
-    "desc": "The host presents a detailed report on prevailing socio-political issues, exploring their impact, root causes, and the discourse surrounding them."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1793509200000,
-    "stopTs": 1793511000000,
-    "title": "Aagey Ka Agenda",
-    "desc": "The host presents a detailed report on prevailing socio-political issues, exploring their impact, root causes, and the discourse surrounding them."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1793511000000,
-    "stopTs": 1793512800000,
-    "title": "Khabar Pakki Hai",
-    "desc": "A light-hearted show that dives into daily life events, social quirks, and fun gossip, delivering entertainment with a humorous twist on familiar and relatable themes."
-  },
-  {
     "start": "06:00",
     "stop": "06:30",
     "channel": "ABPNews.in",
@@ -52,7 +8,7 @@
     "startTs": 1793512800000,
     "stopTs": 1793514600000,
     "title": "Khabar Pakki Hai",
-    "desc": "A light-hearted show that dives into daily life events, social quirks, and fun gossip, delivering entertainment with a humorous twist on familiar and relatable themes."
+    "desc": "Presents the latest news stories and developments pertaining to various pressing matters across the state of Punjab."
   },
   {
     "start": "06:30",
@@ -1098,5 +1054,60 @@
     "stopTs": 1793682000000,
     "title": "Aagey Ka Agenda",
     "desc": "The host presents a detailed report on prevailing socio-political issues, exploring their impact, root causes, and the discourse surrounding them."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1793682000000,
+    "stopTs": 1793683800000,
+    "title": "Aagey Ka Agenda",
+    "desc": "The host presents a detailed report on prevailing socio-political issues, exploring their impact, root causes, and the discourse surrounding them."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1793683800000,
+    "stopTs": 1793685600000,
+    "title": "Khabar Pakki Hai",
+    "desc": "A light-hearted show that dives into daily life events, social quirks, and fun gossip, delivering entertainment with a humorous twist on familiar and relatable themes."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1793685600000,
+    "stopTs": 1793687400000,
+    "title": "Khabar Pakki Hai",
+    "desc": "A light-hearted show that dives into daily life events, social quirks, and fun gossip, delivering entertainment with a humorous twist on familiar and relatable themes."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1793687400000,
+    "stopTs": 1793689200000,
+    "title": "Khabar Din Bhar",
+    "desc": "The host presents the latest updates on politics, current events, sports, and more, offering viewers a well-rounded overview of national and global happenings."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1793689200000,
+    "stopTs": 1793691000000,
+    "title": "Khabar Fatafat",
+    "desc": "The show talks about important new things happening now. It covers news about money, government, and people. The hosts explain what&apos;s going on in the world."
   }
 ]

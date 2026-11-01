@@ -1,58 +1,14 @@
 [
   {
-    "start": "04:00",
-    "stop": "04:30",
+    "start": "04:30",
+    "stop": "07:30",
     "channel": "LiveTimes.in",
     "channelId": "LiveTimes.in",
     "channelName": "Live Times",
-    "startTs": 1793505600000,
-    "stopTs": 1793507400000,
-    "title": "Express Live",
-    "desc": "The host presents the latest news updates and developments from across the nation and provides information on current events in quick succession, live."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "LiveTimes.in",
-    "channelId": "LiveTimes.in",
-    "channelName": "LIVE TIMES",
     "startTs": 1793507400000,
-    "stopTs": 1793509200000,
-    "title": "Live Reporter",
-    "desc": "Latest updates on all the news and developments."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "LiveTimes.in",
-    "channelId": "LiveTimes.in",
-    "channelName": "LIVE TIMES",
-    "startTs": 1793509200000,
-    "stopTs": 1793511000000,
-    "title": "Live News",
-    "desc": "Latest updates on all the news and developments."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "LiveTimes.in",
-    "channelId": "LiveTimes.in",
-    "channelName": "LIVE TIMES",
-    "startTs": 1793511000000,
-    "stopTs": 1793512800000,
-    "title": "Live News",
-    "desc": "Latest updates on all the news and developments."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "LiveTimes.in",
-    "channelId": "LiveTimes.in",
-    "channelName": "LIVE TIMES",
-    "startTs": 1793512800000,
-    "stopTs": 1793514600000,
-    "title": "Live News",
-    "desc": "Latest updates on all the news and developments."
+    "stopTs": 1793518200000,
+    "title": "News Live",
+    "desc": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world, live."
   },
   {
     "start": "06:30",
@@ -1053,6 +1009,61 @@
     "startTs": 1793680200000,
     "stopTs": 1793682000000,
     "title": "Live Reporter",
+    "desc": "Latest updates on all the news and developments."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "LiveTimes.in",
+    "channelId": "LiveTimes.in",
+    "channelName": "LIVE TIMES",
+    "startTs": 1793682000000,
+    "stopTs": 1793683800000,
+    "title": "Live News",
+    "desc": "Latest updates on all the news and developments."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "LiveTimes.in",
+    "channelId": "LiveTimes.in",
+    "channelName": "LIVE TIMES",
+    "startTs": 1793683800000,
+    "stopTs": 1793685600000,
+    "title": "Live News",
+    "desc": "Latest updates on all the news and developments."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "LiveTimes.in",
+    "channelId": "LiveTimes.in",
+    "channelName": "LIVE TIMES",
+    "startTs": 1793685600000,
+    "stopTs": 1793687400000,
+    "title": "Live News",
+    "desc": "Latest updates on all the news and developments."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "LiveTimes.in",
+    "channelId": "LiveTimes.in",
+    "channelName": "LIVE TIMES",
+    "startTs": 1793687400000,
+    "stopTs": 1793689200000,
+    "title": "Live News",
+    "desc": "Latest updates on all the news and developments."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "LiveTimes.in",
+    "channelId": "LiveTimes.in",
+    "channelName": "LIVE TIMES",
+    "startTs": 1793689200000,
+    "stopTs": 1793691000000,
+    "title": "Live News",
     "desc": "Latest updates on all the news and developments."
   }
 ]

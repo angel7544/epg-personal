@@ -1,58 +1,14 @@
 [
   {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 Prime",
-    "startTs": 1793505600000,
-    "stopTs": 1793507400000,
-    "title": "Samvat 2083",
-    "desc": "This is TV Show - Drama Category"
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1793507400000,
-    "stopTs": 1793509200000,
-    "title": "Let&apos;s Talk Money",
-    "desc": "Leading financial experts join the host to share actionable insights, breakdown smart money management strategies, and navigate lucrative investment and real estate opportunities."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1793509200000,
-    "stopTs": 1793511000000,
-    "title": "CNBC-TV18 Market Masters",
-    "desc": "The host moderates a panel wherein experts from the field of finance discuss and analyse the frequent market fluctuations."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "CNBCTV18PrimeHD.in",
-    "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
-    "startTs": 1793511000000,
-    "stopTs": 1793512800000,
-    "title": "Indianomics",
-    "desc": "Hosted by Latha Venkatesh, Indianomics gives viewers an insight into the latest in the Indian economy."
-  },
-  {
     "start": "06:00",
     "stop": "06:30",
     "channel": "CNBCTV18PrimeHD.in",
     "channelId": "CNBCTV18PrimeHD.in",
-    "channelName": "CNBC TV18 PRIME HD",
+    "channelName": "CNBC TV18 Prime",
     "startTs": 1793512800000,
     "stopTs": 1793514600000,
-    "title": "Storyboard18",
-    "desc": "Significant brand makeovers, media shifts, and key events in advertising and marketing sector."
+    "title": "Global Dialogues",
+    "desc": "The host shares updates on the economic, political and social developments happening across the world at an international level."
   },
   {
     "start": "06:30",
@@ -636,5 +592,27 @@
     "stopTs": 1793682000000,
     "title": "Bazaar Corporate Radar",
     "desc": "Tune in to Mitali Mukherjee&apos;s show for insights from top CEOs, economists, and analysts."
+  },
+  {
+    "start": "05:00",
+    "stop": "06:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1793682000000,
+    "stopTs": 1793685600000,
+    "title": "Capital Connection",
+    "desc": "Capital Connection gives you a reading on Asia&apos;s markets mid-day and sets you up for the European trading day."
+  },
+  {
+    "start": "06:00",
+    "stop": "09:00",
+    "channel": "CNBCTV18PrimeHD.in",
+    "channelId": "CNBCTV18PrimeHD.in",
+    "channelName": "CNBC TV18 PRIME HD",
+    "startTs": 1793685600000,
+    "stopTs": 1793696400000,
+    "title": "Squawk Box",
+    "desc": "Tune in to Bernie Lo&apos;s engaging discussions on daily stories from CNBC&apos;s Hong Kong studio."
   }
 ]

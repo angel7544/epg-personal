@@ -1,27 +1,5 @@
 [
   {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "MathrubhumiNews.in",
-    "channelId": "MathrubhumiNews.in",
-    "channelName": "Mathrubhumi News",
-    "startTs": 1793505600000,
-    "stopTs": 1793507400000,
-    "title": "Krishibhumi",
-    "desc": "The host holds insightful conversations with experts and farmers, discussing their success stories and the latest innovations in agricultural methods."
-  },
-  {
-    "start": "04:30",
-    "stop": "06:00",
-    "channel": "MathrubhumiNews.in",
-    "channelId": "MathrubhumiNews.in",
-    "channelName": "Mathrubhumi News",
-    "startTs": 1793507400000,
-    "stopTs": 1793512800000,
-    "title": "Mathrubhumi Breaking Hours",
-    "desc": "Catch up on the latest in socio-political and economic news from around the world."
-  },
-  {
     "start": "06:00",
     "stop": "06:30",
     "channel": "MathrubhumiNews.in",
@@ -29,8 +7,8 @@
     "channelName": "Mathrubhumi News",
     "startTs": 1793512800000,
     "stopTs": 1793514600000,
-    "title": "Vakradristi",
-    "desc": "The host presents a sharp and humorous satirical take on key contemporary political affairs, prominent public figures, and major socio-cultural controversies across Kerala and the nation."
+    "title": "Mathrubhumi Breaking Hours",
+    "desc": "The anchor presents the most important social, political and economic news and developments from the nation around the world."
   },
   {
     "start": "06:30",
@@ -922,5 +900,38 @@
     "stopTs": 1793685600000,
     "title": "Mathrubhumi Breaking Hours",
     "desc": "Catch up on the latest in socio-political and economic news from around the world."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "MathrubhumiNews.in",
+    "channelId": "MathrubhumiNews.in",
+    "channelName": "Mathrubhumi News",
+    "startTs": 1793685600000,
+    "stopTs": 1793687400000,
+    "title": "Vakradristi",
+    "desc": "The host presents a sharp and humorous satirical take on key contemporary political affairs, prominent public figures, and major socio-cultural controversies across Kerala and the nation."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "MathrubhumiNews.in",
+    "channelId": "MathrubhumiNews.in",
+    "channelName": "Mathrubhumi News",
+    "startTs": 1793687400000,
+    "stopTs": 1793689200000,
+    "title": "Mathrubhumi Breaking Hours",
+    "desc": "Catch up on the latest in socio-political and economic news from around the world."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "MathrubhumiNews.in",
+    "channelId": "MathrubhumiNews.in",
+    "channelName": "Mathrubhumi News",
+    "startTs": 1793689200000,
+    "stopTs": 1793691000000,
+    "title": "Minnal Vartha",
+    "desc": "This morning&apos;s program briefly summarises the day&apos;s top news in various areas, such as politics, sports, entertainment, and more."
   }
 ]
