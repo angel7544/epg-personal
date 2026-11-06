@@ -1,79 +1,90 @@
 [
   {
     "start": "04:30",
-    "stop": "08:00",
+    "stop": "11:00",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1793853000000,
-    "stopTs": 1793865600000,
-    "title": "Korea Open, Round of 16; BWF World Tour Badminton",
+    "startTs": 1793939400000,
+    "stopTs": 1793962800000,
+    "title": "Korea Open, Quarterfinals; BWF World Tour Badminton",
     "desc": "From Jinnam Stadium in Yeosu, Jeonranamdo, Korea, Republic of."
   },
   {
-    "start": "08:00",
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1793962800000,
+    "stopTs": 1793964600000,
+    "title": "TNA British Boot Camp",
+    "desc": "This is Sport - Wrestling Category."
+  },
+  {
+    "start": "11:30",
     "stop": "11:45",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1793865600000,
-    "stopTs": 1793879100000,
-    "title": "Sydney Thunder vs. Perth Scorchers; Women&apos;s Big Bash League Cricket",
-    "desc": "This is Sport - Cricket Category."
-  },
-  {
-    "start": "11:45",
-    "stop": "12:00",
-    "channel": "EUROSPORTSHD.in",
-    "channelId": "EUROSPORTSHD.in",
-    "channelName": "EUROSPORTS HD",
-    "startTs": 1793879100000,
-    "stopTs": 1793880000000,
+    "startTs": 1793964600000,
+    "stopTs": 1793965500000,
     "title": "Showtime With Munaf Patel",
     "desc": "This is Sport - Talk Show Category."
   },
   {
-    "start": "12:00",
-    "stop": "14:00",
+    "start": "11:45",
+    "stop": "12:45",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1793880000000,
-    "stopTs": 1793887200000,
-    "title": "TNA Impact",
-    "desc": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win."
+    "startTs": 1793965500000,
+    "stopTs": 1793969100000,
+    "title": "IMPACT 20: Iconic Stipulation Matches; IMPACT in 60",
+    "desc": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling."
   },
   {
-    "start": "14:00",
+    "start": "12:45",
+    "stop": "14:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1793969100000,
+    "stopTs": 1793975400000,
+    "title": "Frankfurt, Session 7; WTT Champions Table Tennis",
+    "desc": "This is Sport - Table Tennis Category."
+  },
+  {
+    "start": "14:30",
     "stop": "15:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1793887200000,
-    "stopTs": 1793892600000,
-    "title": "Frankfurt, Session 5; WTT Champions Table Tennis",
-    "desc": "This is Sport - Table Tennis Category."
+    "startTs": 1793975400000,
+    "stopTs": 1793979000000,
+    "title": "Hero Women&apos;s Indian Open Highlights",
+    "desc": "The highlights of professional women&apos;s golf include fierce competition, skillful play on tough courses and battles for tournament wins and top rankings."
   },
   {
     "start": "15:30",
-    "stop": "16:00",
+    "stop": "16:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1793892600000,
-    "stopTs": 1793894400000,
-    "title": "1st ODI: South Africa v Australia; One-Day International Cricket",
-    "desc": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe."
+    "startTs": 1793979000000,
+    "stopTs": 1793982600000,
+    "title": "TNA Wrestling: Pehalwani Patakha",
+    "desc": "Highlights from the IMPACT wrestling series of TNA Wrestling, where professional wrestlers compete against each other for victory, in Hindi."
   },
   {
-    "start": "16:00",
+    "start": "16:30",
     "stop": "18:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1793894400000,
-    "stopTs": 1793903400000,
-    "title": "AEW Dynamite",
-    "desc": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title."
+    "startTs": 1793982600000,
+    "stopTs": 1793989800000,
+    "title": "AEW Collision",
+    "desc": "Popular pro-wrestlers from the AEW Roster compete against each other in fights every Saturday to win the championship title."
   }
 ]
