@@ -1,443 +1,14 @@
 [
   {
     "start": "03:30",
-    "stop": "06:00",
+    "stop": "05:30",
     "channel": "CartoonNetwork.in",
     "channelId": "CartoonNetwork.in",
     "channelName": "CARTOON NETWORK",
-    "startTs": 1793935800000,
-    "stopTs": 1793944800000,
-    "title": "Baby Lemmings",
-    "desc": "Baby Lemmings try to overcome a number of challenges as they navigate the world through their playful and curious nature."
-  },
-  {
-    "start": "04:00",
-    "stop": "05:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793937600000,
-    "stopTs": 1793943000000,
-    "title": "The Jungle Book",
-    "desc": "The Jungle Book"
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "CARTOON NETWORK HD+",
-    "startTs": 1793939400000,
-    "stopTs": 1793943000000,
-    "title": "Teen Titans Go",
-    "desc": "This series hilariously explores the everyday lives of teen superheroes, revealing the challenges and laughs that come when they hang up their capes and navigate life as ordinary kids."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793943000000,
-    "stopTs": 1793944800000,
-    "title": "The Jungle Book",
-    "desc": "The Jungle Book"
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793944800000,
-    "stopTs": 1793946600000,
-    "title": "The Jungle Book",
-    "desc": "The Jungle Book"
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793946600000,
-    "stopTs": 1793948400000,
-    "title": "The Jungle Book",
-    "desc": "The Jungle Book"
-  },
-  {
-    "start": "07:00",
-    "stop": "09:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793948400000,
-    "stopTs": 1793955600000,
-    "title": "The Jungle Book",
-    "desc": "The Jungle Book"
-  },
-  {
-    "start": "07:30",
-    "stop": "08:30",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "CARTOON NETWORK HD+",
-    "startTs": 1793950200000,
-    "stopTs": 1793953800000,
-    "title": "We Bare Bears",
-    "desc": "Grizz, Panda, and Ice Bear embark on a wild adventure from a train track mishap to chaos in San Francisco, ultimately escaping danger and finding community as heroes."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:30",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "CARTOON NETWORK HD+",
-    "startTs": 1793953800000,
-    "stopTs": 1793957400000,
-    "title": "We Bare Bears",
-    "desc": "Grizz, Panda, and Ice Bear embark on a wild adventure from a train track mishap to chaos in San Francisco, ultimately escaping danger and finding community as heroes."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793955600000,
-    "stopTs": 1793957400000,
-    "title": "Teen Titans Go",
-    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793957400000,
-    "stopTs": 1793959200000,
-    "title": "Teen Titans Go",
-    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
-  },
-  {
-    "start": "10:00",
-    "stop": "11:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793959200000,
-    "stopTs": 1793962800000,
-    "title": "Teen Titans Go",
-    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:30",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "CARTOON NETWORK HD+",
-    "startTs": 1793961000000,
-    "stopTs": 1793964600000,
-    "title": "Regular Show",
-    "desc": "A blue jay named Mordecai and a raccoon named Rigby work as groundskeepers at a local park and get into surreal misadventures."
-  },
-  {
-    "start": "11:00",
-    "stop": "12:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793962800000,
-    "stopTs": 1793966400000,
-    "title": "Teen Titans Go",
-    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:30",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "CARTOON NETWORK HD+",
-    "startTs": 1793964600000,
-    "stopTs": 1793968200000,
-    "title": "Teen Titans Go",
-    "desc": "This series hilariously explores the everyday lives of teen superheroes, revealing the challenges and laughs that come when they hang up their capes and navigate life as ordinary kids."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793966400000,
-    "stopTs": 1793968200000,
-    "title": "Teen Titans Go",
-    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793968200000,
-    "stopTs": 1793970000000,
-    "title": "Teen Titans Go",
-    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793970000000,
-    "stopTs": 1793971800000,
-    "title": "Teen Titans Go",
-    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793971800000,
-    "stopTs": 1793973600000,
-    "title": "Teen Titans Go",
-    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
-  },
-  {
-    "start": "14:00",
-    "stop": "15:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793973600000,
-    "stopTs": 1793977200000,
-    "title": "Teen Titans Go",
-    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
-  },
-  {
-    "start": "14:30",
-    "stop": "16:00",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "CARTOON NETWORK HD+",
-    "startTs": 1793975400000,
-    "stopTs": 1793980800000,
-    "title": "We Bare Bears",
-    "desc": "Grizz, Panda, and Ice Bear embark on a wild adventure from a train track mishap to chaos in San Francisco, ultimately escaping danger and finding community as heroes."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793977200000,
-    "stopTs": 1793979000000,
-    "title": "Teen Titans Go",
-    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793979000000,
-    "stopTs": 1793980800000,
-    "title": "Teen Titans Go",
-    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
-  },
-  {
-    "start": "16:00",
-    "stop": "17:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793980800000,
-    "stopTs": 1793984400000,
-    "title": "Looney Tunes Cartoons",
-    "desc": "A compilation of the misadventures of the various classic Looney Tunes characters such as Bugs Bunny, Daffy Duck, Porky Pig and more."
-  },
-  {
-    "start": "16:45",
-    "stop": "17:30",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "CARTOON NETWORK HD+",
-    "startTs": 1793983500000,
-    "stopTs": 1793986200000,
-    "title": "Dragon Ball Super",
-    "desc": "The Red Ribbon Army is back, and they&apos;re not alone! Goku faces off against two new androids, bringing old rivalries and epic battles back to life. Let the showdown begin!"
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793984400000,
-    "stopTs": 1793986200000,
-    "title": "Omi No.1",
-    "desc": "Omi uses determination, martial arts skills and quick thinking to defeat rivals, overcome hilarious obstacles and prove he is the ultimate young champion."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793986200000,
-    "stopTs": 1793988000000,
-    "title": "Omi No.1",
-    "desc": "Omi uses determination, martial arts skills and quick thinking to defeat rivals, overcome hilarious obstacles and prove he is the ultimate young champion."
-  },
-  {
-    "start": "18:00",
-    "stop": "19:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793988000000,
-    "stopTs": 1793993400000,
-    "title": "Bionic Max",
-    "desc": "Max, the world&apos;s first bionic guinea pig, and his best friend Jean-Claude the goldfish escape from their lab and embark on an adventure to Woodchuck Woods."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:30",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "CARTOON NETWORK HD+",
-    "startTs": 1793989800000,
-    "stopTs": 1793993400000,
-    "title": "Ben 10",
-    "desc": "Ten-year-old Ben discovers a device named the Omnitrix. The device allows him to transform into 10 different alien forms replete with superpowers."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793993400000,
-    "stopTs": 1793997000000,
-    "title": "Hunter X Hunter",
-    "desc": "A boy embarks on a journey to become a Hunter, facing fierce trials, dangerous enemies, loyal friends, and the search for his father in a thrilling adventure world."
-  },
-  {
-    "start": "20:30",
-    "stop": "22:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1793997000000,
-    "stopTs": 1794004200000,
-    "title": "One Piece",
-    "desc": "It is following the journey of Monkey D. Luffy and his pirate crew searching for the legendary treasure One Piece."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:30",
-    "channel": "CartoonNetworkHDPlus.in",
-    "channelId": "CartoonNetworkHDPlus.in",
-    "channelName": "CARTOON NETWORK HD+",
-    "startTs": 1794000600000,
-    "stopTs": 1794004200000,
-    "title": "Ben 10",
-    "desc": "Ten-year-old Ben discovers a device named the Omnitrix. The device allows him to transform into 10 different alien forms replete with superpowers."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1794004200000,
-    "stopTs": 1794007800000,
-    "title": "Kiteretsu",
-    "desc": "Kiteretsu follows boy genius Eiichi Kite inventing gadgets with robot Korosuke, leading to hilarious mishaps and adventures with friends."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1794007800000,
-    "stopTs": 1794011400000,
-    "title": "We Bare Bears",
-    "desc": "Three bear brothers do whatever they can to be a part of human society by doing what everyone around them does."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1794011400000,
-    "stopTs": 1794015000000,
-    "title": "We Bare Bears",
-    "desc": "Three bear brothers do whatever they can to be a part of human society by doing what everyone around them does."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1794015000000,
-    "stopTs": 1794016800000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1794016800000,
-    "stopTs": 1794018600000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1794018600000,
-    "stopTs": 1794020400000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1794020400000,
-    "stopTs": 1794022200000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
     "startTs": 1794022200000,
-    "stopTs": 1794024000000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "stopTs": 1794029400000,
+    "title": "Looney Tunes Cartoons",
+    "desc": "Bugs Bunny, Daffy Duck, Porky Pig, Sylvester, Tweety, Road Runner and many others go through a series of funny misadventures."
   },
   {
     "start": "04:00",
@@ -447,8 +18,8 @@
     "channelName": "Cartoon Network",
     "startTs": 1794024000000,
     "stopTs": 1794029400000,
-    "title": "Movie",
-    "desc": "The movie name is yet to be announced by the channel."
+    "title": "The Jungle Book",
+    "desc": "The Jungle Book"
   },
   {
     "start": "04:30",
@@ -463,25 +34,14 @@
   },
   {
     "start": "05:30",
-    "stop": "05:40",
-    "channel": "CartoonNetwork.in",
-    "channelId": "CartoonNetwork.in",
-    "channelName": "Cartoon Network",
-    "startTs": 1794029400000,
-    "stopTs": 1794030000000,
-    "title": "Teen Titans Go",
-    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
-  },
-  {
-    "start": "05:40",
     "stop": "06:00",
     "channel": "CartoonNetwork.in",
     "channelId": "CartoonNetwork.in",
     "channelName": "Cartoon Network",
-    "startTs": 1794030000000,
+    "startTs": 1794029400000,
     "stopTs": 1794031200000,
-    "title": "Teen Titans Go",
-    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+    "title": "The Jungle Book",
+    "desc": "The Jungle Book"
   },
   {
     "start": "06:00",
@@ -491,8 +51,8 @@
     "channelName": "Cartoon Network",
     "startTs": 1794031200000,
     "stopTs": 1794038400000,
-    "title": "Teen Titans Go",
-    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+    "title": "The Jungle Book",
+    "desc": "The Jungle Book"
   },
   {
     "start": "06:30",
@@ -524,8 +84,8 @@
     "channelName": "Cartoon Network",
     "startTs": 1794038400000,
     "stopTs": 1794040200000,
-    "title": "Teen Titans Go",
-    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+    "title": "The Jungle Book",
+    "desc": "The Jungle Book"
   },
   {
     "start": "08:30",
@@ -535,8 +95,8 @@
     "channelName": "Cartoon Network",
     "startTs": 1794040200000,
     "stopTs": 1794045600000,
-    "title": "My Hero Academia",
-    "desc": "&apos;My Hero Academia&apos; is a popular Japanese manga by Kohei Horikoshi, following a world where superheroes train young heroes to battle villains, blending action, humor, and heartwarming friendships."
+    "title": "Ben 10",
+    "desc": "Ten year old Ben, grandpa and cousin&apos;s summer of adventure takes an odd turn when Ben discovers a watch-like object."
   },
   {
     "start": "09:00",
@@ -722,8 +282,8 @@
     "channelName": "Cartoon Network",
     "startTs": 1794074400000,
     "stopTs": 1794079800000,
-    "title": "Courage The Cowardly Dog",
-    "desc": "Join Courage, the cowardly dog, as he hilariously battles bizarre monsters to protect his clueless farmer owners. It&apos;s a wild ride filled with laughs, chills, and unexpected twists!"
+    "title": "Bionic Max",
+    "desc": "Max, the world&apos;s first bionic guinea pig, and his best friend Jean-Claude the goldfish escape from their lab and embark on an adventure to Woodchuck Woods."
   },
   {
     "start": "18:30",
@@ -878,5 +438,412 @@
     "stopTs": 1794115800000,
     "title": "We Bare Bears",
     "desc": "Grizz, Panda, and Ice Bear embark on a wild adventure from a train track mishap to chaos in San Francisco, ultimately escaping danger and finding community as heroes."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794115800000,
+    "stopTs": 1794117600000,
+    "title": "Teen Titans Go",
+    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+  },
+  {
+    "start": "06:00",
+    "stop": "08:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794117600000,
+    "stopTs": 1794124800000,
+    "title": "Teen Titans Go",
+    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "CartoonNetworkHDPlus.in",
+    "channelId": "CartoonNetworkHDPlus.in",
+    "channelName": "CARTOON NETWORK HD+",
+    "startTs": 1794119400000,
+    "stopTs": 1794121200000,
+    "title": "We Bare Bears",
+    "desc": "Grizz, Panda, and Ice Bear embark on a wild adventure from a train track mishap to chaos in San Francisco, ultimately escaping danger and finding community as heroes."
+  },
+  {
+    "start": "07:00",
+    "stop": "08:00",
+    "channel": "CartoonNetworkHDPlus.in",
+    "channelId": "CartoonNetworkHDPlus.in",
+    "channelName": "CARTOON NETWORK HD+",
+    "startTs": 1794121200000,
+    "stopTs": 1794124800000,
+    "title": "Teen Titans Go",
+    "desc": "This series hilariously explores the everyday lives of teen superheroes, revealing the challenges and laughs that come when they hang up their capes and navigate life as ordinary kids."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794124800000,
+    "stopTs": 1794126600000,
+    "title": "Teen Titans Go",
+    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+  },
+  {
+    "start": "08:30",
+    "stop": "10:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794126600000,
+    "stopTs": 1794132000000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "CartoonNetworkHDPlus.in",
+    "channelId": "CartoonNetworkHDPlus.in",
+    "channelName": "CARTOON NETWORK HD+",
+    "startTs": 1794128400000,
+    "stopTs": 1794130200000,
+    "title": "Teen Titans Go",
+    "desc": "This series hilariously explores the everyday lives of teen superheroes, revealing the challenges and laughs that come when they hang up their capes and navigate life as ordinary kids."
+  },
+  {
+    "start": "09:30",
+    "stop": "11:00",
+    "channel": "CartoonNetworkHDPlus.in",
+    "channelId": "CartoonNetworkHDPlus.in",
+    "channelName": "CARTOON NETWORK HD+",
+    "startTs": 1794130200000,
+    "stopTs": 1794135600000,
+    "title": "Ben 10",
+    "desc": "Ten-year-old Ben discovers a device named the Omnitrix. The device allows him to transform into 10 different alien forms replete with superpowers."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794132000000,
+    "stopTs": 1794133800000,
+    "title": "Teen Titans Go",
+    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794133800000,
+    "stopTs": 1794135600000,
+    "title": "Teen Titans Go",
+    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+  },
+  {
+    "start": "11:00",
+    "stop": "12:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794135600000,
+    "stopTs": 1794139200000,
+    "title": "Teen Titans Go",
+    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794139200000,
+    "stopTs": 1794141000000,
+    "title": "Teen Titans Go",
+    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794141000000,
+    "stopTs": 1794142800000,
+    "title": "Teen Titans Go",
+    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+  },
+  {
+    "start": "13:00",
+    "stop": "14:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794142800000,
+    "stopTs": 1794146400000,
+    "title": "Teen Titans Go",
+    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "CartoonNetworkHDPlus.in",
+    "channelId": "CartoonNetworkHDPlus.in",
+    "channelName": "CARTOON NETWORK HD+",
+    "startTs": 1794144600000,
+    "stopTs": 1794146400000,
+    "title": "We Bare Bears",
+    "desc": "Grizz, Panda, and Ice Bear embark on a wild adventure from a train track mishap to chaos in San Francisco, ultimately escaping danger and finding community as heroes."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794146400000,
+    "stopTs": 1794148200000,
+    "title": "Teen Titans Go",
+    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794148200000,
+    "stopTs": 1794150000000,
+    "title": "Teen Titans Go",
+    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+  },
+  {
+    "start": "15:00",
+    "stop": "16:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794150000000,
+    "stopTs": 1794153600000,
+    "title": "Teen Titans Go",
+    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794153600000,
+    "stopTs": 1794155400000,
+    "title": "Teen Titans Go",
+    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794155400000,
+    "stopTs": 1794157200000,
+    "title": "Teen Titans Go",
+    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794157200000,
+    "stopTs": 1794159000000,
+    "title": "Teen Titans Go",
+    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794159000000,
+    "stopTs": 1794160800000,
+    "title": "Teen Titans Go",
+    "desc": "When Robin&apos;s lifelong dream of having superpowers comes true, he&apos;s ecstatic! But soon he learns that every power has a price-one that could change everything he holds dear."
+  },
+  {
+    "start": "18:00",
+    "stop": "19:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794160800000,
+    "stopTs": 1794166200000,
+    "title": "Bionic Max",
+    "desc": "Max, the world&apos;s first bionic guinea pig, and his best friend Jean-Claude the goldfish escape from their lab and embark on an adventure to Woodchuck Woods."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:30",
+    "channel": "CartoonNetworkHDPlus.in",
+    "channelId": "CartoonNetworkHDPlus.in",
+    "channelName": "CARTOON NETWORK HD+",
+    "startTs": 1794162600000,
+    "stopTs": 1794166200000,
+    "title": "Ben 10",
+    "desc": "Ten-year-old Ben discovers a device named the Omnitrix. The device allows him to transform into 10 different alien forms replete with superpowers."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794166200000,
+    "stopTs": 1794169800000,
+    "title": "Hunter X Hunter",
+    "desc": "A boy embarks on a journey to become a Hunter, facing fierce trials, dangerous enemies, loyal friends, and the search for his father in a thrilling adventure world."
+  },
+  {
+    "start": "20:30",
+    "stop": "22:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794169800000,
+    "stopTs": 1794177000000,
+    "title": "One Piece",
+    "desc": "It is following the journey of Monkey D. Luffy and his pirate crew searching for the legendary treasure One Piece."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:30",
+    "channel": "CartoonNetworkHDPlus.in",
+    "channelId": "CartoonNetworkHDPlus.in",
+    "channelName": "CARTOON NETWORK HD+",
+    "startTs": 1794173400000,
+    "stopTs": 1794177000000,
+    "title": "Ben 10",
+    "desc": "Ten-year-old Ben discovers a device named the Omnitrix. The device allows him to transform into 10 different alien forms replete with superpowers."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794177000000,
+    "stopTs": 1794180600000,
+    "title": "Kiteretsu",
+    "desc": "Kiteretsu follows boy genius Eiichi Kite inventing gadgets with robot Korosuke, leading to hilarious mishaps and adventures with friends."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794180600000,
+    "stopTs": 1794184200000,
+    "title": "We Bare Bears",
+    "desc": "Three bear brothers do whatever they can to be a part of human society by doing what everyone around them does."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794184200000,
+    "stopTs": 1794187800000,
+    "title": "We Bare Bears",
+    "desc": "Three bear brothers do whatever they can to be a part of human society by doing what everyone around them does."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794187800000,
+    "stopTs": 1794189600000,
+    "title": "Looney Tunes Cartoons",
+    "desc": "A compilation of the misadventures of the various classic Looney Tunes characters such as Bugs Bunny, Daffy Duck, Porky Pig and more."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794189600000,
+    "stopTs": 1794191400000,
+    "title": "Looney Tunes Cartoons",
+    "desc": "A compilation of the misadventures of the various classic Looney Tunes characters such as Bugs Bunny, Daffy Duck, Porky Pig and more."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794191400000,
+    "stopTs": 1794193200000,
+    "title": "Looney Tunes Cartoons",
+    "desc": "A compilation of the misadventures of the various classic Looney Tunes characters such as Bugs Bunny, Daffy Duck, Porky Pig and more."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794193200000,
+    "stopTs": 1794195000000,
+    "title": "Looney Tunes Cartoons",
+    "desc": "A compilation of the misadventures of the various classic Looney Tunes characters such as Bugs Bunny, Daffy Duck, Porky Pig and more."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794195000000,
+    "stopTs": 1794196800000,
+    "title": "Looney Tunes Cartoons",
+    "desc": "A compilation of the misadventures of the various classic Looney Tunes characters such as Bugs Bunny, Daffy Duck, Porky Pig and more."
+  },
+  {
+    "start": "04:00",
+    "stop": "05:30",
+    "channel": "CartoonNetwork.in",
+    "channelId": "CartoonNetwork.in",
+    "channelName": "Cartoon Network",
+    "startTs": 1794196800000,
+    "stopTs": 1794202200000,
+    "title": "Wafadaar Oggy",
+    "desc": "Animated series for children."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "CartoonNetworkHDPlus.in",
+    "channelId": "CartoonNetworkHDPlus.in",
+    "channelName": "CARTOON NETWORK HD+",
+    "startTs": 1794198600000,
+    "stopTs": 1794202200000,
+    "title": "Teen Titans Go",
+    "desc": "This series hilariously explores the everyday lives of teen superheroes, revealing the challenges and laughs that come when they hang up their capes and navigate life as ordinary kids."
   }
 ]
