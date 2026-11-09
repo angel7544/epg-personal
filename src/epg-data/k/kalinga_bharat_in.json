@@ -5,8 +5,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794024000000,
-    "stopTs": 1794025500000,
+    "startTs": 1794196800000,
+    "stopTs": 1794198300000,
     "title": "Kalinga Express",
     "desc": "The host presents the latest news updates on various issues from the state of Odisha."
   },
@@ -16,10 +16,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794025500000,
-    "stopTs": 1794025800000,
-    "title": "Dekh khabar Rakh Nazar",
-    "desc": "The host presents the latest news updates on social issues with a satirical twist."
+    "startTs": 1794198300000,
+    "stopTs": 1794198600000,
+    "title": "Corona Jeje",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "04:30",
@@ -27,8 +27,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794025800000,
-    "stopTs": 1794027600000,
+    "startTs": 1794198600000,
+    "stopTs": 1794200400000,
     "title": "Breaking @10",
     "desc": "The host presents an analysis of the recent political, business and socio-economic news."
   },
@@ -38,10 +38,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794027600000,
-    "stopTs": 1794029400000,
-    "title": "Sandhani Aakhi",
-    "desc": "."
+    "startTs": 1794200400000,
+    "stopTs": 1794202200000,
+    "title": "Dekh khabar.. Round Up",
+    "desc": "The host provides the latest updates and stories from around the world."
   },
   {
     "start": "05:30",
@@ -49,8 +49,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794029400000,
-    "stopTs": 1794031200000,
+    "startTs": 1794202200000,
+    "stopTs": 1794204000000,
     "title": "News Alert",
     "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
   },
@@ -60,8 +60,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794031200000,
-    "stopTs": 1794032700000,
+    "startTs": 1794204000000,
+    "stopTs": 1794205500000,
     "title": "News Alert",
     "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
   },
@@ -71,10 +71,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794032700000,
-    "stopTs": 1794033000000,
-    "title": "Reporter Didi",
-    "desc": "The host presents the latest news updates on various pressing issues impacting citizens."
+    "startTs": 1794205500000,
+    "stopTs": 1794205800000,
+    "title": "Dekh khabar Rakh Nazar",
+    "desc": "The host presents the latest news updates on social issues with a satirical twist."
   },
   {
     "start": "06:30",
@@ -82,21 +82,32 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794033000000,
-    "stopTs": 1794034800000,
+    "startTs": 1794205800000,
+    "stopTs": 1794207600000,
     "title": "News @Noon",
     "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
   },
   {
     "start": "07:00",
+    "stop": "07:25",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga Bharat",
+    "startTs": 1794207600000,
+    "stopTs": 1794209100000,
+    "title": "News @Noon",
+    "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
+  },
+  {
+    "start": "07:25",
     "stop": "07:30",
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794034800000,
-    "stopTs": 1794036600000,
-    "title": "News @Noon",
-    "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
+    "startTs": 1794209100000,
+    "stopTs": 1794209400000,
+    "title": "Corona Jeje",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "07:30",
@@ -104,32 +115,21 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794036600000,
-    "stopTs": 1794038400000,
+    "startTs": 1794209400000,
+    "stopTs": 1794211200000,
     "title": "Kalinga Khabar",
     "desc": "The host presents the latest news updates on various issues from the state of Odisha."
   },
   {
     "start": "08:00",
-    "stop": "08:25",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga Bharat",
-    "startTs": 1794038400000,
-    "stopTs": 1794039900000,
-    "title": "Kalinga Khabar",
-    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
-  },
-  {
-    "start": "08:25",
     "stop": "08:30",
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794039900000,
-    "stopTs": 1794040200000,
-    "title": "Dekh khabar Rakh Nazar",
-    "desc": "The host presents the latest news updates on social issues with a satirical twist."
+    "startTs": 1794211200000,
+    "stopTs": 1794213000000,
+    "title": "Ama Patrika",
+    "desc": "Odia authors open up about the methods they employ for their writing process."
   },
   {
     "start": "08:30",
@@ -137,8 +137,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794040200000,
-    "stopTs": 1794042000000,
+    "startTs": 1794213000000,
+    "stopTs": 1794214800000,
     "title": "Afternoon Live",
     "desc": "The host presents the latest news updates on various pressing issues, live."
   },
@@ -148,10 +148,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794042000000,
-    "stopTs": 1794043800000,
-    "title": "Tike Halchal Tike Hulchul",
-    "desc": "Bringing the best in television."
+    "startTs": 1794214800000,
+    "stopTs": 1794216600000,
+    "title": "Big Report",
+    "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
   },
   {
     "start": "09:30",
@@ -159,21 +159,32 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794043800000,
-    "stopTs": 1794045600000,
+    "startTs": 1794216600000,
+    "stopTs": 1794218400000,
     "title": "News Corridor",
     "desc": "The host presents an in-depth analysis of the latest news updates on various issues."
   },
   {
     "start": "10:00",
+    "stop": "10:25",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga Bharat",
+    "startTs": 1794218400000,
+    "stopTs": 1794219900000,
+    "title": "News Corridor",
+    "desc": "The host presents an in-depth analysis of the latest news updates on various issues."
+  },
+  {
+    "start": "10:25",
     "stop": "10:30",
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794045600000,
-    "stopTs": 1794047400000,
-    "title": "News Corridor",
-    "desc": "The host presents an in-depth analysis of the latest news updates on various issues."
+    "startTs": 1794219900000,
+    "stopTs": 1794220200000,
+    "title": "Corona Jeje",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "10:30",
@@ -181,8 +192,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794047400000,
-    "stopTs": 1794049200000,
+    "startTs": 1794220200000,
+    "stopTs": 1794222000000,
     "title": "Kalinga Khabar",
     "desc": "The host presents the latest news updates on various issues from the state of Odisha."
   },
@@ -192,10 +203,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794049200000,
-    "stopTs": 1794050700000,
-    "title": "Kalinga Khabar",
-    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
+    "startTs": 1794222000000,
+    "stopTs": 1794223500000,
+    "title": "Reporter Special",
+    "desc": "A journalist presents a detailed report of the latest news updates on various issues."
   },
   {
     "start": "11:25",
@@ -203,8 +214,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794050700000,
-    "stopTs": 1794051000000,
+    "startTs": 1794223500000,
+    "stopTs": 1794223800000,
     "title": "Reporter Didi",
     "desc": "The host presents the latest news updates on various pressing issues impacting citizens."
   },
@@ -214,8 +225,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794051000000,
-    "stopTs": 1794052800000,
+    "startTs": 1794223800000,
+    "stopTs": 1794225600000,
     "title": "Gaan Live",
     "desc": "The host presents various popular songs based on different themes, live."
   },
@@ -225,8 +236,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794052800000,
-    "stopTs": 1794054600000,
+    "startTs": 1794225600000,
+    "stopTs": 1794227400000,
     "title": "Kalinga Express",
     "desc": "The host presents the latest news updates on various issues from the state of Odisha."
   },
@@ -236,21 +247,32 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794054600000,
-    "stopTs": 1794056400000,
+    "startTs": 1794227400000,
+    "stopTs": 1794229200000,
     "title": "6 PM Breaking",
     "desc": "The host presents the latest news updates on various pressing issues, live."
   },
   {
     "start": "13:00",
+    "stop": "13:23",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga Bharat",
+    "startTs": 1794229200000,
+    "stopTs": 1794230580000,
+    "title": "6 PM Breaking",
+    "desc": "The host presents the latest news updates on various pressing issues, live."
+  },
+  {
+    "start": "13:23",
     "stop": "13:28",
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794056400000,
-    "stopTs": 1794058080000,
-    "title": "6 PM Breaking",
-    "desc": "The host presents the latest news updates on various pressing issues, live."
+    "startTs": 1794230580000,
+    "stopTs": 1794230880000,
+    "title": "Dekh khabar Rakh Nazar",
+    "desc": "The host presents the latest news updates on social issues with a satirical twist."
   },
   {
     "start": "13:28",
@@ -258,8 +280,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794058080000,
-    "stopTs": 1794060000000,
+    "startTs": 1794230880000,
+    "stopTs": 1794232800000,
     "title": "Ajira Khabar",
     "desc": "The host presents a detailed report on the latest news from across the region."
   },
@@ -269,8 +291,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794060000000,
-    "stopTs": 1794061200000,
+    "startTs": 1794232800000,
+    "stopTs": 1794234000000,
     "title": "Ajira Khabar",
     "desc": "The host presents a detailed report on the latest news from across the region."
   },
@@ -280,8 +302,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794061200000,
-    "stopTs": 1794061800000,
+    "startTs": 1794234000000,
+    "stopTs": 1794234600000,
     "title": "Dekh khabar Rakh Nazar",
     "desc": "The host presents the latest news updates on social issues with a satirical twist."
   },
@@ -291,10 +313,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794061800000,
-    "stopTs": 1794063600000,
-    "title": "Bhitiri Katha",
-    "desc": "The host interviews personalities from different walks of life."
+    "startTs": 1794234600000,
+    "stopTs": 1794236400000,
+    "title": "8 @ 8PM",
+    "desc": "The host presents the top eight news stories from various fronts around the country."
   },
   {
     "start": "15:00",
@@ -302,10 +324,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794063600000,
-    "stopTs": 1794065400000,
-    "title": "Sei Gaan Ti",
-    "desc": "Bringing the best in television."
+    "startTs": 1794236400000,
+    "stopTs": 1794238200000,
+    "title": "Aghatan Aparadh",
+    "desc": "The host presents the latest news updates pertaining to unlawful activities."
   },
   {
     "start": "15:30",
@@ -313,8 +335,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794065400000,
-    "stopTs": 1794067200000,
+    "startTs": 1794238200000,
+    "stopTs": 1794240000000,
     "title": "kalinga@9",
     "desc": "The host delivers timely news coverage, featuring the latest updates on current events."
   },
@@ -324,10 +346,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794067200000,
-    "stopTs": 1794069000000,
-    "title": "Janata Sab Jaanata",
-    "desc": "The host interviews members of the public for their views on current affairs."
+    "startTs": 1794240000000,
+    "stopTs": 1794241800000,
+    "title": "Mano ki Na Mano",
+    "desc": "A team of experts investigates local paranormal activities in Odisha."
   },
   {
     "start": "16:30",
@@ -335,8 +357,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794069000000,
-    "stopTs": 1794070800000,
+    "startTs": 1794241800000,
+    "stopTs": 1794243600000,
     "title": "Bharat @10",
     "desc": "The host presents the latest news stories from various fronts around the country."
   },
@@ -346,8 +368,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794070800000,
-    "stopTs": 1794072300000,
+    "startTs": 1794243600000,
+    "stopTs": 1794245100000,
     "title": "Big Report",
     "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
   },
@@ -357,8 +379,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794072300000,
-    "stopTs": 1794072600000,
+    "startTs": 1794245100000,
+    "stopTs": 1794245400000,
     "title": "Dekh khabar Rakh Nazar",
     "desc": "The host presents the latest news updates on social issues with a satirical twist."
   },
@@ -368,8 +390,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794072600000,
-    "stopTs": 1794074400000,
+    "startTs": 1794245400000,
+    "stopTs": 1794247200000,
     "title": "Ajira Khabar",
     "desc": "The host presents a detailed report on the latest news from across the region."
   },
@@ -379,10 +401,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794074400000,
-    "stopTs": 1794076200000,
-    "title": "Gaan Live",
-    "desc": "The host presents various popular songs based on different themes, live."
+    "startTs": 1794247200000,
+    "stopTs": 1794249000000,
+    "title": "Kalinga Express",
+    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
   },
   {
     "start": "18:30",
@@ -390,8 +412,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794076200000,
-    "stopTs": 1794078000000,
+    "startTs": 1794249000000,
+    "stopTs": 1794250800000,
     "title": "Rashi Phala",
     "desc": "An astrologer studies celestial objects and predicts the future for the 12 zodiac signs."
   },
@@ -401,10 +423,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794078000000,
-    "stopTs": 1794079800000,
-    "title": "Bhitiri Katha",
-    "desc": "The host interviews personalities from different walks of life."
+    "startTs": 1794250800000,
+    "stopTs": 1794252600000,
+    "title": "8 @ 8PM",
+    "desc": "The host presents the top eight news stories from various fronts around the country."
   },
   {
     "start": "19:30",
@@ -412,10 +434,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794079800000,
-    "stopTs": 1794081600000,
-    "title": "Sei Gaan Ti",
-    "desc": "Bringing the best in television."
+    "startTs": 1794252600000,
+    "stopTs": 1794254400000,
+    "title": "Mano ki Na Mano",
+    "desc": "A team of experts investigates local paranormal activities in Odisha."
   },
   {
     "start": "20:00",
@@ -423,8 +445,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794081600000,
-    "stopTs": 1794083400000,
+    "startTs": 1794254400000,
+    "stopTs": 1794256200000,
     "title": "Bharat @10",
     "desc": "The host presents the latest news stories from various fronts around the country."
   },
@@ -434,10 +456,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794083400000,
-    "stopTs": 1794085200000,
-    "title": "Kalinga Express",
-    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
+    "startTs": 1794256200000,
+    "stopTs": 1794258000000,
+    "title": "Big Report",
+    "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
   },
   {
     "start": "21:00",
@@ -445,10 +467,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794085200000,
-    "stopTs": 1794087000000,
-    "title": "Gaan Live",
-    "desc": "The host presents various popular songs based on different themes, live."
+    "startTs": 1794258000000,
+    "stopTs": 1794259800000,
+    "title": "Gaon Live",
+    "desc": "The host sheds light on the latest updates and key developments in agricultural sector."
   },
   {
     "start": "21:30",
@@ -456,10 +478,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794087000000,
-    "stopTs": 1794088800000,
-    "title": "Bhitiri Katha",
-    "desc": "The host interviews personalities from different walks of life."
+    "startTs": 1794259800000,
+    "stopTs": 1794261600000,
+    "title": "8 At 8",
+    "desc": "The host presents the latest news updates in political, socio-economic and sports fronts."
   },
   {
     "start": "22:00",
@@ -467,10 +489,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794088800000,
-    "stopTs": 1794090600000,
-    "title": "Metro Plus",
-    "desc": "The host presents the latest news stories pertaining to various issues from the metropolitan cities."
+    "startTs": 1794261600000,
+    "stopTs": 1794263400000,
+    "title": "Reporter&apos;s special",
+    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
   },
   {
     "start": "22:30",
@@ -478,8 +500,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794090600000,
-    "stopTs": 1794092400000,
+    "startTs": 1794263400000,
+    "stopTs": 1794265200000,
     "title": "Ajira Khabar",
     "desc": "The host presents a detailed report on the latest news from across the region."
   },
@@ -489,8 +511,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794092400000,
-    "stopTs": 1794094200000,
+    "startTs": 1794265200000,
+    "stopTs": 1794267000000,
     "title": "Ajira Khabar",
     "desc": "The host presents a detailed report on the latest news from across the region."
   },
@@ -500,10 +522,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794094200000,
-    "stopTs": 1794096000000,
-    "title": "Kalinga Express",
-    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
+    "startTs": 1794267000000,
+    "stopTs": 1794268800000,
+    "title": "News Corridor",
+    "desc": "The host presents an in-depth analysis of the latest news updates on various issues."
   },
   {
     "start": "00:00",
@@ -511,10 +533,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794096000000,
-    "stopTs": 1794097800000,
-    "title": "Bhagabat Kathamruta",
-    "desc": "."
+    "startTs": 1794268800000,
+    "stopTs": 1794270600000,
+    "title": "Kalinga Express",
+    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
   },
   {
     "start": "00:30",
@@ -522,32 +544,21 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794097800000,
-    "stopTs": 1794099600000,
+    "startTs": 1794270600000,
+    "stopTs": 1794272400000,
     "title": "Guhari suna maa",
     "desc": "Bringing the best in television."
   },
   {
     "start": "01:00",
-    "stop": "01:25",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga Bharat",
-    "startTs": 1794099600000,
-    "stopTs": 1794101100000,
-    "title": "Mahabir Mahima",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "01:25",
     "stop": "01:30",
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794101100000,
-    "stopTs": 1794101400000,
-    "title": "Yoga Sutra",
-    "desc": "A yoga expert demonstrates different asanas for various parts of the body."
+    "startTs": 1794272400000,
+    "stopTs": 1794274200000,
+    "title": "Sri Harikatha",
+    "desc": "A religious leader presents a sermon on the stories of Lord Vishnu and his various forms."
   },
   {
     "start": "01:30",
@@ -555,8 +566,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794101400000,
-    "stopTs": 1794103200000,
+    "startTs": 1794274200000,
+    "stopTs": 1794276000000,
     "title": "Kalinga Supravat",
     "desc": "The host engages in insightful conversations with renowned personalities from Odisha."
   },
@@ -566,8 +577,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794103200000,
-    "stopTs": 1794104700000,
+    "startTs": 1794276000000,
+    "stopTs": 1794277500000,
     "title": "Rashi Phala",
     "desc": "An astrologer studies celestial objects and predicts the future for the 12 zodiac signs."
   },
@@ -577,10 +588,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794104700000,
-    "stopTs": 1794105000000,
-    "title": "Yoga Sutra",
-    "desc": "A yoga expert demonstrates different asanas for various parts of the body."
+    "startTs": 1794277500000,
+    "stopTs": 1794277800000,
+    "title": "Dekh khabar Rakh Nazar",
+    "desc": "The host presents the latest news updates on social issues with a satirical twist."
   },
   {
     "start": "02:30",
@@ -588,21 +599,32 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794105000000,
-    "stopTs": 1794106800000,
-    "title": "Bisaya Vastu",
-    "desc": "."
+    "startTs": 1794277800000,
+    "stopTs": 1794279600000,
+    "title": "Itinka Alap",
+    "desc": "The host discusses the latest and the most relevant social, political and economic issues."
   },
   {
     "start": "03:00",
+    "stop": "03:25",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga Bharat",
+    "startTs": 1794279600000,
+    "stopTs": 1794281100000,
+    "title": "Itinka Alap",
+    "desc": "The host discusses the latest and the most relevant social, political and economic issues."
+  },
+  {
+    "start": "03:25",
     "stop": "03:30",
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794106800000,
-    "stopTs": 1794108600000,
-    "title": "Janata Sab Jaanata",
-    "desc": "The host interviews members of the public for their views on current affairs."
+    "startTs": 1794281100000,
+    "stopTs": 1794281400000,
+    "title": "Reporter Didi",
+    "desc": "The host presents the latest news updates on various pressing issues impacting citizens."
   },
   {
     "start": "03:30",
@@ -610,8 +632,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794108600000,
-    "stopTs": 1794110400000,
+    "startTs": 1794281400000,
+    "stopTs": 1794283200000,
     "title": "Kalinga Khabar",
     "desc": "The host presents the latest news updates on various issues from the state of Odisha."
   },
@@ -621,10 +643,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794110400000,
-    "stopTs": 1794111900000,
-    "title": "Aama School",
-    "desc": "."
+    "startTs": 1794283200000,
+    "stopTs": 1794284700000,
+    "title": "Kalinga Express",
+    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
   },
   {
     "start": "04:25",
@@ -632,10 +654,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794111900000,
-    "stopTs": 1794112200000,
-    "title": "Dekh khabar Rakh Nazar",
-    "desc": "The host presents the latest news updates on social issues with a satirical twist."
+    "startTs": 1794284700000,
+    "stopTs": 1794285000000,
+    "title": "Corona Jeje",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "04:30",
@@ -643,8 +665,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794112200000,
-    "stopTs": 1794114000000,
+    "startTs": 1794285000000,
+    "stopTs": 1794286800000,
     "title": "Breaking @10",
     "desc": "The host presents an analysis of the recent political, business and socio-economic news."
   },
@@ -654,10 +676,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794114000000,
-    "stopTs": 1794115800000,
-    "title": "Metro Plus",
-    "desc": "The host presents the latest news stories pertaining to various issues from the metropolitan cities."
+    "startTs": 1794286800000,
+    "stopTs": 1794288600000,
+    "title": "Gaan Live",
+    "desc": "The host presents various popular songs based on different themes, live."
   },
   {
     "start": "05:30",
@@ -665,8 +687,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794115800000,
-    "stopTs": 1794117600000,
+    "startTs": 1794288600000,
+    "stopTs": 1794290400000,
     "title": "News Alert",
     "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
   },
@@ -676,8 +698,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794117600000,
-    "stopTs": 1794119100000,
+    "startTs": 1794290400000,
+    "stopTs": 1794291900000,
     "title": "News Alert",
     "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
   },
@@ -687,10 +709,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794119100000,
-    "stopTs": 1794119400000,
-    "title": "Reporter Didi",
-    "desc": "The host presents the latest news updates on various pressing issues impacting citizens."
+    "startTs": 1794291900000,
+    "stopTs": 1794292200000,
+    "title": "Dekh khabar Rakh Nazar",
+    "desc": "The host presents the latest news updates on social issues with a satirical twist."
   },
   {
     "start": "06:30",
@@ -698,21 +720,32 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794119400000,
-    "stopTs": 1794121200000,
+    "startTs": 1794292200000,
+    "stopTs": 1794294000000,
     "title": "News @Noon",
     "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
   },
   {
     "start": "07:00",
+    "stop": "07:25",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga Bharat",
+    "startTs": 1794294000000,
+    "stopTs": 1794295500000,
+    "title": "News @Noon",
+    "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
+  },
+  {
+    "start": "07:25",
     "stop": "07:30",
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794121200000,
-    "stopTs": 1794123000000,
-    "title": "News @Noon",
-    "desc": "The host presents a detailed report of the latest news updates on various pressing issues."
+    "startTs": 1794295500000,
+    "stopTs": 1794295800000,
+    "title": "Corona Jeje",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "07:30",
@@ -720,32 +753,21 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794123000000,
-    "stopTs": 1794124800000,
+    "startTs": 1794295800000,
+    "stopTs": 1794297600000,
     "title": "Kalinga Khabar",
     "desc": "The host presents the latest news updates on various issues from the state of Odisha."
   },
   {
     "start": "08:00",
-    "stop": "08:25",
-    "channel": "KalingaTV.in",
-    "channelId": "KalingaTV.in",
-    "channelName": "Kalinga Bharat",
-    "startTs": 1794124800000,
-    "stopTs": 1794126300000,
-    "title": "Kalinga Khabar",
-    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
-  },
-  {
-    "start": "08:25",
     "stop": "08:30",
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794126300000,
-    "stopTs": 1794126600000,
-    "title": "Dekh khabar Rakh Nazar",
-    "desc": "The host presents the latest news updates on social issues with a satirical twist."
+    "startTs": 1794297600000,
+    "stopTs": 1794299400000,
+    "title": "Mano ki Na Mano",
+    "desc": "A team of experts investigates local paranormal activities in Odisha."
   },
   {
     "start": "08:30",
@@ -753,8 +775,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794126600000,
-    "stopTs": 1794128400000,
+    "startTs": 1794299400000,
+    "stopTs": 1794301200000,
     "title": "Afternoon Live",
     "desc": "The host presents the latest news updates on various pressing issues, live."
   },
@@ -764,10 +786,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794128400000,
-    "stopTs": 1794130200000,
-    "title": "Sei Gaan Ti",
-    "desc": "Bringing the best in television."
+    "startTs": 1794301200000,
+    "stopTs": 1794303000000,
+    "title": "Bollywood Station",
+    "desc": "The host presents the latest news stories pertaining to various updates in the Bollywood industry."
   },
   {
     "start": "09:30",
@@ -775,21 +797,32 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794130200000,
-    "stopTs": 1794132000000,
+    "startTs": 1794303000000,
+    "stopTs": 1794304800000,
     "title": "News Corridor",
     "desc": "The host presents an in-depth analysis of the latest news updates on various issues."
   },
   {
     "start": "10:00",
+    "stop": "10:25",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga Bharat",
+    "startTs": 1794304800000,
+    "stopTs": 1794306300000,
+    "title": "News Corridor",
+    "desc": "The host presents an in-depth analysis of the latest news updates on various issues."
+  },
+  {
+    "start": "10:25",
     "stop": "10:30",
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794132000000,
-    "stopTs": 1794133800000,
-    "title": "News Corridor",
-    "desc": "The host presents an in-depth analysis of the latest news updates on various issues."
+    "startTs": 1794306300000,
+    "stopTs": 1794306600000,
+    "title": "Corona Jeje",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "10:30",
@@ -797,8 +830,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794133800000,
-    "stopTs": 1794135600000,
+    "startTs": 1794306600000,
+    "stopTs": 1794308400000,
     "title": "Kalinga Khabar",
     "desc": "The host presents the latest news updates on various issues from the state of Odisha."
   },
@@ -808,10 +841,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794135600000,
-    "stopTs": 1794137100000,
-    "title": "Kalinga Khabar",
-    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
+    "startTs": 1794308400000,
+    "stopTs": 1794309900000,
+    "title": "Reporter Special",
+    "desc": "A journalist presents a detailed report of the latest news updates on various issues."
   },
   {
     "start": "11:25",
@@ -819,8 +852,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794137100000,
-    "stopTs": 1794137400000,
+    "startTs": 1794309900000,
+    "stopTs": 1794310200000,
     "title": "Reporter Didi",
     "desc": "The host presents the latest news updates on various pressing issues impacting citizens."
   },
@@ -830,8 +863,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794137400000,
-    "stopTs": 1794139200000,
+    "startTs": 1794310200000,
+    "stopTs": 1794312000000,
     "title": "Gaan Live",
     "desc": "The host presents various popular songs based on different themes, live."
   },
@@ -841,8 +874,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794139200000,
-    "stopTs": 1794141000000,
+    "startTs": 1794312000000,
+    "stopTs": 1794313800000,
     "title": "Kalinga Express",
     "desc": "The host presents the latest news updates on various issues from the state of Odisha."
   },
@@ -852,21 +885,32 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794141000000,
-    "stopTs": 1794142800000,
+    "startTs": 1794313800000,
+    "stopTs": 1794315600000,
     "title": "6 PM Breaking",
     "desc": "The host presents the latest news updates on various pressing issues, live."
   },
   {
     "start": "13:00",
+    "stop": "13:23",
+    "channel": "KalingaTV.in",
+    "channelId": "KalingaTV.in",
+    "channelName": "Kalinga Bharat",
+    "startTs": 1794315600000,
+    "stopTs": 1794316980000,
+    "title": "6 PM Breaking",
+    "desc": "The host presents the latest news updates on various pressing issues, live."
+  },
+  {
+    "start": "13:23",
     "stop": "13:28",
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794142800000,
-    "stopTs": 1794144480000,
-    "title": "6 PM Breaking",
-    "desc": "The host presents the latest news updates on various pressing issues, live."
+    "startTs": 1794316980000,
+    "stopTs": 1794317280000,
+    "title": "Dekh khabar Rakh Nazar",
+    "desc": "The host presents the latest news updates on social issues with a satirical twist."
   },
   {
     "start": "13:28",
@@ -874,8 +918,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794144480000,
-    "stopTs": 1794146400000,
+    "startTs": 1794317280000,
+    "stopTs": 1794319200000,
     "title": "Ajira Khabar",
     "desc": "The host presents a detailed report on the latest news from across the region."
   },
@@ -885,8 +929,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794146400000,
-    "stopTs": 1794147600000,
+    "startTs": 1794319200000,
+    "stopTs": 1794320400000,
     "title": "Ajira Khabar",
     "desc": "The host presents a detailed report on the latest news from across the region."
   },
@@ -896,8 +940,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794147600000,
-    "stopTs": 1794148200000,
+    "startTs": 1794320400000,
+    "stopTs": 1794321000000,
     "title": "Dekh khabar Rakh Nazar",
     "desc": "The host presents the latest news updates on social issues with a satirical twist."
   },
@@ -907,10 +951,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794148200000,
-    "stopTs": 1794150000000,
-    "title": "Swatantra Sakhyatkar",
-    "desc": "."
+    "startTs": 1794321000000,
+    "stopTs": 1794322800000,
+    "title": "8 @ 8PM",
+    "desc": "The host presents the top eight news stories from various fronts around the country."
   },
   {
     "start": "15:00",
@@ -918,10 +962,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794150000000,
-    "stopTs": 1794151800000,
-    "title": "Aama School",
-    "desc": "."
+    "startTs": 1794322800000,
+    "stopTs": 1794324600000,
+    "title": "Aghatan Aparadh",
+    "desc": "The host presents the latest news updates pertaining to unlawful activities."
   },
   {
     "start": "15:30",
@@ -929,8 +973,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794151800000,
-    "stopTs": 1794153600000,
+    "startTs": 1794324600000,
+    "stopTs": 1794326400000,
     "title": "kalinga@9",
     "desc": "The host delivers timely news coverage, featuring the latest updates on current events."
   },
@@ -940,9 +984,9 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794153600000,
-    "stopTs": 1794155400000,
-    "title": "Katha Pachhar Katha",
+    "startTs": 1794326400000,
+    "stopTs": 1794328200000,
+    "title": "Rewind Ollywood",
     "desc": "Bringing the best in television."
   },
   {
@@ -951,8 +995,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794155400000,
-    "stopTs": 1794157200000,
+    "startTs": 1794328200000,
+    "stopTs": 1794330000000,
     "title": "Bharat @10",
     "desc": "The host presents the latest news stories from various fronts around the country."
   },
@@ -962,10 +1006,10 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794157200000,
-    "stopTs": 1794158700000,
-    "title": "Dekh khabar.. Round Up",
-    "desc": "The host provides the latest updates and stories from around the world."
+    "startTs": 1794330000000,
+    "stopTs": 1794331500000,
+    "title": "Bollywood Station",
+    "desc": "The host presents the latest news stories pertaining to various updates in the Bollywood industry."
   },
   {
     "start": "17:25",
@@ -973,8 +1017,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794158700000,
-    "stopTs": 1794159000000,
+    "startTs": 1794331500000,
+    "stopTs": 1794331800000,
     "title": "Dekh khabar Rakh Nazar",
     "desc": "The host presents the latest news updates on social issues with a satirical twist."
   },
@@ -984,8 +1028,8 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794159000000,
-    "stopTs": 1794160800000,
+    "startTs": 1794331800000,
+    "stopTs": 1794333600000,
     "title": "Ajira Khabar",
     "desc": "The host presents a detailed report on the latest news from across the region."
   },
@@ -995,9 +1039,9 @@
     "channel": "KalingaTV.in",
     "channelId": "KalingaTV.in",
     "channelName": "Kalinga Bharat",
-    "startTs": 1794160800000,
-    "stopTs": 1794162600000,
-    "title": "Gaan Live",
-    "desc": "The host presents various popular songs based on different themes, live."
+    "startTs": 1794333600000,
+    "stopTs": 1794335400000,
+    "title": "Kalinga Express",
+    "desc": "The host presents the latest news updates on various issues from the state of Odisha."
   }
 ]
