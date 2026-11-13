@@ -1,531 +1,14 @@
 [
   {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794459600000,
-    "stopTs": 1794461400000,
-    "title": "3 Maha Suddi",
-    "desc": "The host presents a detailed report on the latest political matters of the state and analyses the recent statements of politicians."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794461400000,
-    "stopTs": 1794463200000,
-    "title": "News11Am-Live",
-    "desc": "The host presents the latest political, economic, social and sports top stories on the national and international front."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794463200000,
-    "stopTs": 1794465000000,
-    "title": "Maja Nodi",
-    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794465000000,
-    "stopTs": 1794466800000,
-    "title": "News12Noon-Live",
-    "desc": "The host presents the latest political, economic, social and sports top stories on the national and international front."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794466800000,
-    "stopTs": 1794468600000,
-    "title": "Viral Suddi",
-    "desc": "Stay updated on local events, politics, sports, and community happenings-join us!"
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794468600000,
-    "stopTs": 1794470400000,
-    "title": "News@1Pm Live",
-    "desc": "Host presents live updates on key social, political, and economic news."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794470400000,
-    "stopTs": 1794472200000,
-    "title": "Matinee Show",
-    "desc": "Matinee shows are afternoon performances-learn to use the term confidently!"
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794472200000,
-    "stopTs": 1794474000000,
-    "title": "30 Minute-30 News-Live",
-    "desc": "The host presents the top 30 socio-economic, political and business news updates and developments from around the country, live."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794474000000,
-    "stopTs": 1794475800000,
-    "title": "Real Show",
-    "desc": "A reality-based news segment offering in-depth insights, spontaneous reactions, and unfiltered coverage of unfolding events across Karnataka."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794475800000,
-    "stopTs": 1794477600000,
-    "title": "News 18 - Live",
-    "desc": "Catch up on global news with the latest updates on everything important!"
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794477600000,
-    "stopTs": 1794479400000,
-    "title": "Mast Majaa",
-    "desc": "Mast Majaa is a Kannada comedy show featuring fun, entertaining segments and lively performances that offer humor and light-hearted entertainment to viewers."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794479400000,
-    "stopTs": 1794481200000,
-    "title": "News4Pm-Live",
-    "desc": "The host presents the latest political, economic, social and sports top stories on the national and international front."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794481200000,
-    "stopTs": 1794483000000,
-    "title": "Chaduranga-Live",
-    "desc": "Host presents a detailed report on the latest political updates and developments."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794483000000,
-    "stopTs": 1794484800000,
-    "title": "30 Minute-30 News-Live",
-    "desc": "The host presents the top 30 socio-economic, political and business news updates and developments from around the country, live."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794484800000,
-    "stopTs": 1794486600000,
-    "title": "Cinema Tent",
-    "desc": "Host shares updates on entertainment news and conducts related interviews."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794486600000,
-    "stopTs": 1794488400000,
-    "title": "Sakhat Suddi-Live",
-    "desc": "The host puts a spotlight on some of the most viral news updates trending on social media platforms and talks in length about them."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794488400000,
-    "stopTs": 1794490200000,
-    "title": "Kandiddu Kaanaddu",
-    "desc": "Stay updated on global news in society, economics, and politics. Stay connected!"
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794490200000,
-    "stopTs": 1794492000000,
-    "title": "Sanje Superfast",
-    "desc": "Stay updated on global news covering society, economics, politics, and more!"
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794492000000,
-    "stopTs": 1794493800000,
-    "title": "News 18 Panchayti",
-    "desc": "Catch up on global news with the latest updates on everything important!"
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794493800000,
-    "stopTs": 1794495600000,
-    "title": "Kannada Naadi-Live",
-    "desc": "Watch the live coverage of top stories, latest events and happenings from across Karnataka."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794495600000,
-    "stopTs": 1794497400000,
-    "title": "News 18 Vishesha Varadi",
-    "desc": "Catch up on global news with the latest updates on everything important!"
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794497400000,
-    "stopTs": 1794499200000,
-    "title": "Super Prime9Pm",
-    "desc": "A gripping show that offers a blend of thrilling narratives, character-driven plots, and dramatic turns to keep viewers engaged throughout the evening."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794499200000,
-    "stopTs": 1794501000000,
-    "title": "Ola Nota",
-    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794501000000,
-    "stopTs": 1794502800000,
-    "title": "Crime Diary",
-    "desc": "The host sheds light on the latest and the most important crime-related news and updates from different parts of the country."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794502800000,
-    "stopTs": 1794504600000,
-    "title": "Namma Bengaluru-Live",
-    "desc": "The host presents the latest news updates and developments pertaining to social, economic and political topics in Bengaluru, live."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794504600000,
-    "stopTs": 1794506400000,
-    "title": "Complete News11Pm - Live",
-    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794506400000,
-    "stopTs": 1794508200000,
-    "title": "Real Show",
-    "desc": "A reality-based news segment offering in-depth insights, spontaneous reactions, and unfiltered coverage of unfolding events across Karnataka."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794508200000,
-    "stopTs": 1794510000000,
-    "title": "Cinema Tent",
-    "desc": "Host shares updates on entertainment news and conducts related interviews."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794510000000,
-    "stopTs": 1794511800000,
-    "title": "Ola Nota",
-    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794511800000,
-    "stopTs": 1794513600000,
-    "title": "Kandiddu Kaanaddu",
-    "desc": "Stay updated on global news in society, economics, and politics. Stay connected!"
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794513600000,
-    "stopTs": 1794515400000,
-    "title": "Real Show",
-    "desc": "A reality-based news segment offering in-depth insights, spontaneous reactions, and unfiltered coverage of unfolding events across Karnataka."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794515400000,
-    "stopTs": 1794517200000,
-    "title": "Cinema Tent",
-    "desc": "Host shares updates on entertainment news and conducts related interviews."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794517200000,
-    "stopTs": 1794519000000,
-    "title": "6Pm-Rpt-Sakhat Suddi",
-    "desc": "Stay updated on global news in society, economics, and politics. Stay connected!"
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794519000000,
-    "stopTs": 1794520800000,
-    "title": "Ola Nota",
-    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794520800000,
-    "stopTs": 1794522600000,
-    "title": "News 18 Vishesha Varadi",
-    "desc": "Catch up on global news with the latest updates on everything important!"
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794522600000,
-    "stopTs": 1794524400000,
-    "title": "Kandiddu Kaanaddu",
-    "desc": "Stay updated on global news in society, economics, and politics. Stay connected!"
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794524400000,
-    "stopTs": 1794526200000,
-    "title": "6Pm-Rpt-Sakhat Suddi",
-    "desc": "Stay updated on global news in society, economics, and politics. Stay connected!"
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794526200000,
-    "stopTs": 1794528000000,
-    "title": "Real Show",
-    "desc": "A reality-based news segment offering in-depth insights, spontaneous reactions, and unfiltered coverage of unfolding events across Karnataka."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794528000000,
-    "stopTs": 1794529800000,
-    "title": "Cinema Tent",
-    "desc": "Host shares updates on entertainment news and conducts related interviews."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794529800000,
-    "stopTs": 1794533400000,
-    "title": "Namaste Karnataka-Live",
-    "desc": "Start your mornings with all the top headlines from Karnataka in this energetic and live news segment designed to kick-start your day."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794531600000,
-    "stopTs": 1794533400000,
-    "title": "En Kathe",
-    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794533400000,
-    "stopTs": 1794535200000,
-    "title": "Shubhodaya Superfast-Live",
-    "desc": "Get all the top news updates from Karnataka in this superfast morning show that blends breaking headlines with regional stories in real time."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794535200000,
-    "stopTs": 1794537000000,
-    "title": "Kannada Naadi-Live",
-    "desc": "Watch the live coverage of top stories, latest events and happenings from across Karnataka."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794537000000,
-    "stopTs": 1794540600000,
-    "title": "10 Nimisha 30 Suddi-Live",
-    "desc": "A live news wrap featuring 30 key updates in just 10 minutes, this show keeps Kannada viewers updated with real-time information across various domains."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794538800000,
-    "stopTs": 1794540600000,
-    "title": "Nammuralli News 18",
-    "desc": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794540600000,
-    "stopTs": 1794544200000,
-    "title": "9Am Big Breaking-Live",
-    "desc": "The host presents a detailed report and the latest updates on the breaking news stories taking place in the country, live."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "News18Kannada.in",
-    "channelId": "News18Kannada.in",
-    "channelName": "News18 Kannada",
-    "startTs": 1794542400000,
-    "stopTs": 1794544200000,
-    "title": "Parapancha",
-    "desc": "Bringing the best in television."
-  },
-  {
     "start": "04:30",
-    "stop": "05:30",
+    "stop": "05:00",
     "channel": "News18Kannada.in",
     "channelId": "News18Kannada.in",
     "channelName": "News18 Kannada",
     "startTs": 1794544200000,
-    "stopTs": 1794547800000,
-    "title": "Express 50-Live",
-    "desc": "A 50-second express news ride through Kannada headlines, this segment brings fast-paced news coverage with clarity and sharp focus."
+    "stopTs": 1794546000000,
+    "title": "Waw",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "05:00",
@@ -536,7 +19,7 @@
     "startTs": 1794546000000,
     "stopTs": 1794547800000,
     "title": "3 Maha Suddi",
-    "desc": "The host presents a detailed report on the latest political matters of the state and analyses the recent statements of politicians."
+    "desc": "The host presents a detailed report on the latest political matters of the state."
   },
   {
     "start": "05:30",
@@ -546,8 +29,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794547800000,
     "stopTs": 1794549600000,
-    "title": "News11Am-Live",
-    "desc": "The host presents the latest political, economic, social and sports top stories on the national and international front."
+    "title": "Express 50",
+    "desc": "The host presents the top 50 news headlines on various pressing issues of the nation."
   },
   {
     "start": "06:00",
@@ -557,8 +40,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794549600000,
     "stopTs": 1794551400000,
-    "title": "Maja Nodi",
-    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+    "title": "Maatu Kathe",
+    "desc": "The host presents a detailed report of some of the latest news stories."
   },
   {
     "start": "06:30",
@@ -568,8 +51,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794551400000,
     "stopTs": 1794553200000,
-    "title": "News12Noon-Live",
-    "desc": "The host presents the latest political, economic, social and sports top stories on the national and international front."
+    "title": "12 Gante Suddi",
+    "desc": "."
   },
   {
     "start": "07:00",
@@ -580,7 +63,7 @@
     "startTs": 1794553200000,
     "stopTs": 1794555000000,
     "title": "Viral Suddi",
-    "desc": "Stay updated on local events, politics, sports, and community happenings-join us!"
+    "desc": "The host shares updates on current affairs of widespread interest across the region."
   },
   {
     "start": "07:30",
@@ -590,8 +73,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794555000000,
     "stopTs": 1794556800000,
-    "title": "News@1Pm Live",
-    "desc": "Host presents live updates on key social, political, and economic news."
+    "title": "Suddi Madhyahna",
+    "desc": "The host presents a round-up of news on politics, current affairs and business in India."
   },
   {
     "start": "08:00",
@@ -602,7 +85,7 @@
     "startTs": 1794556800000,
     "stopTs": 1794558600000,
     "title": "Matinee Show",
-    "desc": "Matinee shows are afternoon performances-learn to use the term confidently!"
+    "desc": "The host invites aspiring artists to showcase their talents and entertain people."
   },
   {
     "start": "08:30",
@@ -612,8 +95,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794558600000,
     "stopTs": 1794560400000,
-    "title": "30 Minute-30 News-Live",
-    "desc": "The host presents the top 30 socio-economic, political and business news updates and developments from around the country, live."
+    "title": "30 Minutes 30 News Live",
+    "desc": "The host highlights the latest top 30 news stories within the span of 30 minutes, live."
   },
   {
     "start": "09:00",
@@ -624,7 +107,7 @@
     "startTs": 1794560400000,
     "stopTs": 1794562200000,
     "title": "Real Show",
-    "desc": "A reality-based news segment offering in-depth insights, spontaneous reactions, and unfiltered coverage of unfolding events across Karnataka."
+    "desc": "Bringing the best in television."
   },
   {
     "start": "09:30",
@@ -634,8 +117,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794562200000,
     "stopTs": 1794564000000,
-    "title": "News 18 - Live",
-    "desc": "Catch up on global news with the latest updates on everything important!"
+    "title": "3 Gante Suddi",
+    "desc": "The host presents the latest news stories and developments from around the globe."
   },
   {
     "start": "10:00",
@@ -645,8 +128,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794564000000,
     "stopTs": 1794565800000,
-    "title": "Mast Majaa",
-    "desc": "Mast Majaa is a Kannada comedy show featuring fun, entertaining segments and lively performances that offer humor and light-hearted entertainment to viewers."
+    "title": "Crime Diary",
+    "desc": "The host sheds light on the latest crime-related news from different parts of the country."
   },
   {
     "start": "10:30",
@@ -656,8 +139,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794565800000,
     "stopTs": 1794567600000,
-    "title": "News4Pm-Live",
-    "desc": "The host presents the latest political, economic, social and sports top stories on the national and international front."
+    "title": "4 Gante Suddi",
+    "desc": "The host presents the latest news stories and developments from around the globe."
   },
   {
     "start": "11:00",
@@ -667,8 +150,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794567600000,
     "stopTs": 1794569400000,
-    "title": "Chaduranga-Live",
-    "desc": "Host presents a detailed report on the latest political updates and developments."
+    "title": "Chaduranga",
+    "desc": "The host presents information on the political affairs of the state."
   },
   {
     "start": "11:30",
@@ -678,8 +161,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794569400000,
     "stopTs": 1794571200000,
-    "title": "30 Minute-30 News-Live",
-    "desc": "The host presents the top 30 socio-economic, political and business news updates and developments from around the country, live."
+    "title": "Sanje Samachara",
+    "desc": "The host provides the latest updates on various political, economic and social issues."
   },
   {
     "start": "12:00",
@@ -690,7 +173,7 @@
     "startTs": 1794571200000,
     "stopTs": 1794573000000,
     "title": "Cinema Tent",
-    "desc": "Host shares updates on entertainment news and conducts related interviews."
+    "desc": "The host presents news updates pertaining to the entertainment industry."
   },
   {
     "start": "12:30",
@@ -700,8 +183,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794573000000,
     "stopTs": 1794574800000,
-    "title": "Sakhat Suddi-Live",
-    "desc": "The host puts a spotlight on some of the most viral news updates trending on social media platforms and talks in length about them."
+    "title": "Sakhat Suddi",
+    "desc": "The host presents viral news stories and provides a detailed report on them."
   },
   {
     "start": "13:00",
@@ -712,7 +195,7 @@
     "startTs": 1794574800000,
     "stopTs": 1794576600000,
     "title": "Kandiddu Kaanaddu",
-    "desc": "Stay updated on global news in society, economics, and politics. Stay connected!"
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "13:30",
@@ -723,7 +206,7 @@
     "startTs": 1794576600000,
     "stopTs": 1794578400000,
     "title": "Sanje Superfast",
-    "desc": "Stay updated on global news covering society, economics, politics, and more!"
+    "desc": "The presenter shares a sequence of updates on current affairs in quick succession."
   },
   {
     "start": "14:00",
@@ -734,7 +217,7 @@
     "startTs": 1794578400000,
     "stopTs": 1794580200000,
     "title": "News 18 Panchayti",
-    "desc": "Catch up on global news with the latest updates on everything important!"
+    "desc": "The host presents information about the social, economic and political issues of the day."
   },
   {
     "start": "14:30",
@@ -744,8 +227,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794580200000,
     "stopTs": 1794582000000,
-    "title": "Kannada Naadi-Live",
-    "desc": "Watch the live coverage of top stories, latest events and happenings from across Karnataka."
+    "title": "Kannada Nadi Prime",
+    "desc": "."
   },
   {
     "start": "15:00",
@@ -755,8 +238,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794582000000,
     "stopTs": 1794583800000,
-    "title": "News 18 Vishesha Varadi",
-    "desc": "Catch up on global news with the latest updates on everything important!"
+    "title": "Vishesha Varadi",
+    "desc": "The host presents the week&apos;s top news stories and major events of public interest."
   },
   {
     "start": "15:30",
@@ -766,8 +249,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794583800000,
     "stopTs": 1794585600000,
-    "title": "Super Prime9Pm",
-    "desc": "A gripping show that offers a blend of thrilling narratives, character-driven plots, and dramatic turns to keep viewers engaged throughout the evening."
+    "title": "Super Prime at 9 PM",
+    "desc": "The host presents the latest news and developments from around the country."
   },
   {
     "start": "16:00",
@@ -777,8 +260,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794585600000,
     "stopTs": 1794587400000,
-    "title": "Ola Nota",
-    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+    "title": "Crime Diary",
+    "desc": "The host sheds light on the latest crime-related news from different parts of the country."
   },
   {
     "start": "16:30",
@@ -788,8 +271,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794587400000,
     "stopTs": 1794589200000,
-    "title": "Crime Diary",
-    "desc": "The host sheds light on the latest and the most important crime-related news and updates from different parts of the country."
+    "title": "Namma Bengaluru",
+    "desc": "The host provides updates on current events happening across Bangalore."
   },
   {
     "start": "17:00",
@@ -799,8 +282,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794589200000,
     "stopTs": 1794591000000,
-    "title": "Namma Bengaluru-Live",
-    "desc": "The host presents the latest news updates and developments pertaining to social, economic and political topics in Bengaluru, live."
+    "title": "Ola Nota",
+    "desc": "The presenter offers insights into ongoing regional affairs with relevant updates."
   },
   {
     "start": "17:30",
@@ -810,8 +293,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794591000000,
     "stopTs": 1794592800000,
-    "title": "Complete News11Pm - Live",
-    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
+    "title": "Complete News",
+    "desc": "."
   },
   {
     "start": "18:00",
@@ -821,8 +304,8 @@
     "channelName": "News18 Kannada",
     "startTs": 1794592800000,
     "stopTs": 1794594600000,
-    "title": "Real Show",
-    "desc": "A reality-based news segment offering in-depth insights, spontaneous reactions, and unfiltered coverage of unfolding events across Karnataka."
+    "title": "Mane Mane Masala",
+    "desc": "Bringing the best in television."
   },
   {
     "start": "18:30",
@@ -968,6 +451,17 @@
     "desc": "Start your mornings with all the top headlines from Karnataka in this energetic and live news segment designed to kick-start your day."
   },
   {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794618000000,
+    "stopTs": 1794619800000,
+    "title": "En Kathe",
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
     "start": "01:30",
     "stop": "02:00",
     "channel": "News18Kannada.in",
@@ -1001,6 +495,17 @@
     "desc": "A live news wrap featuring 30 key updates in just 10 minutes, this show keeps Kannada viewers updated with real-time information across various domains."
   },
   {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794625200000,
+    "stopTs": 1794627000000,
+    "title": "Nammuralli News 18",
+    "desc": "The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region."
+  },
+  {
     "start": "03:30",
     "stop": "04:30",
     "channel": "News18Kannada.in",
@@ -1012,6 +517,17 @@
     "desc": "The host presents a detailed report and the latest updates on the breaking news stories taking place in the country, live."
   },
   {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794628800000,
+    "stopTs": 1794630600000,
+    "title": "Parapancha",
+    "desc": "Bringing the best in television."
+  },
+  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "News18Kannada.in",
@@ -1021,6 +537,17 @@
     "stopTs": 1794634200000,
     "title": "Express 50-Live",
     "desc": "A 50-second express news ride through Kannada headlines, this segment brings fast-paced news coverage with clarity and sharp focus."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794632400000,
+    "stopTs": 1794634200000,
+    "title": "3 Maha Suddi",
+    "desc": "The host presents a detailed report on the latest political matters of the state and analyses the recent statements of politicians."
   },
   {
     "start": "05:30",
@@ -1043,5 +570,467 @@
     "stopTs": 1794637800000,
     "title": "Maja Nodi",
     "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794637800000,
+    "stopTs": 1794639600000,
+    "title": "News12Noon-Live",
+    "desc": "The host presents the latest political, economic, social and sports top stories on the national and international front."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794639600000,
+    "stopTs": 1794641400000,
+    "title": "Viral Suddi",
+    "desc": "Stay updated on local events, politics, sports, and community happenings-join us!"
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794641400000,
+    "stopTs": 1794643200000,
+    "title": "News@1Pm Live",
+    "desc": "Host presents live updates on key social, political, and economic news."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794643200000,
+    "stopTs": 1794645000000,
+    "title": "Matinee Show",
+    "desc": "Matinee shows are afternoon performances-learn to use the term confidently!"
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794645000000,
+    "stopTs": 1794646800000,
+    "title": "30 Minute-30 News-Live",
+    "desc": "The host presents the top 30 socio-economic, political and business news updates and developments from around the country, live."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794646800000,
+    "stopTs": 1794648600000,
+    "title": "Real Show",
+    "desc": "A reality-based news segment offering in-depth insights, spontaneous reactions, and unfiltered coverage of unfolding events across Karnataka."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794648600000,
+    "stopTs": 1794650400000,
+    "title": "News 18 - Live",
+    "desc": "Catch up on global news with the latest updates on everything important!"
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794650400000,
+    "stopTs": 1794652200000,
+    "title": "Chow Chow Churumuri",
+    "desc": "The host analyzes the latest political developments, major national issues and current affairs shaping India&apos;s social and political landscape."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794652200000,
+    "stopTs": 1794654000000,
+    "title": "News4Pm-Live",
+    "desc": "The host presents the latest political, economic, social and sports top stories on the national and international front."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794654000000,
+    "stopTs": 1794655800000,
+    "title": "Gili Gili Politics",
+    "desc": "The hosts deliver the latest political news with a comical and satirical twist."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794655800000,
+    "stopTs": 1794657600000,
+    "title": "30 Minute-30 News-Live",
+    "desc": "The host presents the top 30 socio-economic, political and business news updates and developments from around the country, live."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794657600000,
+    "stopTs": 1794659400000,
+    "title": "Cinema Tent",
+    "desc": "Host shares updates on entertainment news and conducts related interviews."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794659400000,
+    "stopTs": 1794661200000,
+    "title": "Sakhat Suddi-Live",
+    "desc": "The host puts a spotlight on some of the most viral news updates trending on social media platforms and talks in length about them."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794661200000,
+    "stopTs": 1794663000000,
+    "title": "Kandiddu Kaanaddu",
+    "desc": "Stay updated on global news in society, economics, and politics. Stay connected!"
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794663000000,
+    "stopTs": 1794664800000,
+    "title": "Sanje Superfast",
+    "desc": "Stay updated on global news covering society, economics, politics, and more!"
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794664800000,
+    "stopTs": 1794666600000,
+    "title": "Weekend Adda",
+    "desc": "The host explores updates on Kannada films, trailers, box office, and interviews personalities."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794666600000,
+    "stopTs": 1794668400000,
+    "title": "Kannada Naadi-Live",
+    "desc": "Watch the live coverage of top stories, latest events and happenings from across Karnataka."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794668400000,
+    "stopTs": 1794670200000,
+    "title": "News 18 Vishesha Varadi",
+    "desc": "Catch up on global news with the latest updates on everything important!"
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794670200000,
+    "stopTs": 1794672000000,
+    "title": "Super Prime9Pm",
+    "desc": "A gripping show that offers a blend of thrilling narratives, character-driven plots, and dramatic turns to keep viewers engaged throughout the evening."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794672000000,
+    "stopTs": 1794673800000,
+    "title": "Ola Nota",
+    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794673800000,
+    "stopTs": 1794675600000,
+    "title": "Crime Diary",
+    "desc": "The host sheds light on the latest and the most important crime-related news and updates from different parts of the country."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794675600000,
+    "stopTs": 1794677400000,
+    "title": "Namma Bengaluru-Live",
+    "desc": "The host presents the latest news updates and developments pertaining to social, economic and political topics in Bengaluru, live."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794677400000,
+    "stopTs": 1794679200000,
+    "title": "Complete News11Pm - Live",
+    "desc": "The host talks about the latest and most important socio-economic and political news, updates and developments making headlines."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794679200000,
+    "stopTs": 1794681000000,
+    "title": "Real Show",
+    "desc": "A reality-based news segment offering in-depth insights, spontaneous reactions, and unfiltered coverage of unfolding events across Karnataka."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794681000000,
+    "stopTs": 1794682800000,
+    "title": "Cinema Tent",
+    "desc": "Host shares updates on entertainment news and conducts related interviews."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794682800000,
+    "stopTs": 1794684600000,
+    "title": "Ola Nota",
+    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794684600000,
+    "stopTs": 1794686400000,
+    "title": "Kandiddu Kaanaddu",
+    "desc": "Stay updated on global news in society, economics, and politics. Stay connected!"
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794686400000,
+    "stopTs": 1794688200000,
+    "title": "Real Show",
+    "desc": "A reality-based news segment offering in-depth insights, spontaneous reactions, and unfiltered coverage of unfolding events across Karnataka."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794688200000,
+    "stopTs": 1794690000000,
+    "title": "Cinema Tent",
+    "desc": "Host shares updates on entertainment news and conducts related interviews."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794690000000,
+    "stopTs": 1794691800000,
+    "title": "6Pm-Rpt-Sakhat Suddi",
+    "desc": "Stay updated on global news in society, economics, and politics. Stay connected!"
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794691800000,
+    "stopTs": 1794693600000,
+    "title": "Ola Nota",
+    "desc": "Catch the latest live updates on politics, economics, and social stories nationwide!"
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794693600000,
+    "stopTs": 1794695400000,
+    "title": "News 18 Vishesha Varadi",
+    "desc": "Catch up on global news with the latest updates on everything important!"
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794695400000,
+    "stopTs": 1794697200000,
+    "title": "Kandiddu Kaanaddu",
+    "desc": "Stay updated on global news in society, economics, and politics. Stay connected!"
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794697200000,
+    "stopTs": 1794699000000,
+    "title": "6Pm-Rpt-Sakhat Suddi",
+    "desc": "Stay updated on global news in society, economics, and politics. Stay connected!"
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794699000000,
+    "stopTs": 1794700800000,
+    "title": "Real Show",
+    "desc": "A reality-based news segment offering in-depth insights, spontaneous reactions, and unfiltered coverage of unfolding events across Karnataka."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794700800000,
+    "stopTs": 1794702600000,
+    "title": "Cinema Tent",
+    "desc": "Host shares updates on entertainment news and conducts related interviews."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794702600000,
+    "stopTs": 1794706200000,
+    "title": "Namaste Karnataka-Live",
+    "desc": "Start your mornings with all the top headlines from Karnataka in this energetic and live news segment designed to kick-start your day."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794706200000,
+    "stopTs": 1794708000000,
+    "title": "Shubhodaya Superfast-Live",
+    "desc": "Get all the top news updates from Karnataka in this superfast morning show that blends breaking headlines with regional stories in real time."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794708000000,
+    "stopTs": 1794709800000,
+    "title": "Kannada Naadi-Live",
+    "desc": "Watch the live coverage of top stories, latest events and happenings from across Karnataka."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794709800000,
+    "stopTs": 1794713400000,
+    "title": "10 Nimisha 30 Suddi-Live",
+    "desc": "A live news wrap featuring 30 key updates in just 10 minutes, this show keeps Kannada viewers updated with real-time information across various domains."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794713400000,
+    "stopTs": 1794717000000,
+    "title": "9Am Big Breaking-Live",
+    "desc": "The host presents a detailed report and the latest updates on the breaking news stories taking place in the country, live."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "News18Kannada.in",
+    "channelId": "News18Kannada.in",
+    "channelName": "News18 Kannada",
+    "startTs": 1794717000000,
+    "stopTs": 1794720600000,
+    "title": "Express 50-Live",
+    "desc": "A 50-second express news ride through Kannada headlines, this segment brings fast-paced news coverage with clarity and sharp focus."
   }
 ]
