@@ -1,137 +1,5 @@
 [
   {
-    "start": "04:30",
-    "stop": "07:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1794544200000,
-    "stopTs": 1794555000000,
-    "title": "Adrushtavanthulu",
-    "desc": "A reformed criminal&apos;s morals are tested, when he meets his gangster friends from the past."
-  },
-  {
-    "start": "07:30",
-    "stop": "10:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1794555000000,
-    "stopTs": 1794565800000,
-    "title": "Takkari Donga",
-    "desc": "A thief is on the trail of an outlaw in order to dupe him and escape with his loot."
-  },
-  {
-    "start": "10:30",
-    "stop": "13:14",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1794565800000,
-    "stopTs": 1794575640000,
-    "title": "Daddy Daddy",
-    "desc": "A man asks a fruit seller to impersonate his deceased father to get hold of his property."
-  },
-  {
-    "start": "13:14",
-    "stop": "13:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1794575640000,
-    "stopTs": 1794576600000,
-    "title": "Telugu Hits",
-    "desc": "A compilation of Telugu songs is played back-to-back to enthrall the audience."
-  },
-  {
-    "start": "13:25",
-    "stop": "13:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema",
-    "startTs": 1794576300000,
-    "stopTs": 1794576600000,
-    "title": "Telugu Hits",
-    "desc": "Telugu Hits brings you a collection of timeless Telugu classics, featuring unforgettable music, drama, and performances that define the essence of Telugu cinema."
-  },
-  {
-    "start": "13:30",
-    "stop": "16:23",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1794576600000,
-    "stopTs": 1794586980000,
-    "title": "Suryavamsam",
-    "desc": "Bhanu receives help from Swapna when his loved ones reject him for being illiterate."
-  },
-  {
-    "start": "16:23",
-    "stop": "16:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1794586980000,
-    "stopTs": 1794587400000,
-    "title": "Telugu Hits",
-    "desc": "A compilation of Telugu songs is played back-to-back to enthrall the audience."
-  },
-  {
-    "start": "16:30",
-    "stop": "19:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema HD",
-    "startTs": 1794587400000,
-    "stopTs": 1794598200000,
-    "title": "Yamagola Malli Modalayindi",
-    "desc": "Young Yama&apos;s love for mortal girl defies fate in divine succession test."
-  },
-  {
-    "start": "19:30",
-    "stop": "22:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema",
-    "startTs": 1794598200000,
-    "stopTs": 1794609000000,
-    "title": "Kobbari Bondam",
-    "desc": "An innocent and coward Raju becomes powerful when possessed by a magical coin."
-  },
-  {
-    "start": "22:30",
-    "stop": "00:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema",
-    "startTs": 1794609000000,
-    "stopTs": 1794616200000,
-    "title": "Songs",
-    "desc": "This collection gathers upbeat tunes in one handy playlist, offering listeners a wide, enjoyable mix of catchy songs that are easy to sing along and share."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema",
-    "startTs": 1794616200000,
-    "stopTs": 1794618000000,
-    "title": "Yoga Based Prog",
-    "desc": "Yoga Based Prog guides viewers with postures, breathing, and meditation to enhance physical fitness, mental peace, and spiritual balance for overall well-being."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "ETVCinema.in",
-    "channelId": "ETVCinema.in",
-    "channelName": "ETV Cinema",
-    "startTs": 1794618000000,
-    "stopTs": 1794619800000,
-    "title": "Madhurimalu",
-    "desc": "The film follows ordinary people at a government hospital who bond and support each other. The director presents many characters, each with happiness and hardship."
-  },
-  {
     "start": "01:30",
     "stop": "04:30",
     "channel": "ETVCinema.in",
@@ -139,8 +7,8 @@
     "channelName": "ETV Cinema",
     "startTs": 1794619800000,
     "stopTs": 1794630600000,
-    "title": "Theja",
-    "desc": "Teja, a genius child, witnesses a murder and becomes a target for revenge."
+    "title": "Teja",
+    "desc": "Teja, a prodigy boy, has an intellect surpassing his age. However, when he testifies against a criminal, his life comes under threat."
   },
   {
     "start": "04:30",
@@ -166,25 +34,47 @@
   },
   {
     "start": "10:30",
-    "stop": "13:30",
+    "stop": "13:14",
     "channel": "ETVCinema.in",
     "channelId": "ETVCinema.in",
     "channelName": "ETV Cinema",
     "startTs": 1794652200000,
-    "stopTs": 1794663000000,
+    "stopTs": 1794662040000,
     "title": "Papam Pasivadu",
     "desc": "Venugopal and Janaki realise that their son has tuberculosis and send him by plane to Europe for better treatment. However, the plane crashes, and the boy faces trouble reuniting with his parents."
   },
   {
+    "start": "13:14",
+    "stop": "13:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1794662040000,
+    "stopTs": 1794663000000,
+    "title": "Telugu Hits",
+    "desc": "Telugu Hits brings you a collection of timeless Telugu classics, featuring unforgettable music, drama, and performances that define the essence of Telugu cinema."
+  },
+  {
     "start": "13:30",
-    "stop": "16:30",
+    "stop": "16:22",
     "channel": "ETVCinema.in",
     "channelId": "ETVCinema.in",
     "channelName": "ETV Cinema",
     "startTs": 1794663000000,
-    "stopTs": 1794673800000,
+    "stopTs": 1794673320000,
     "title": "Little Hearts",
     "desc": "Little Hearts"
+  },
+  {
+    "start": "16:22",
+    "stop": "16:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1794673320000,
+    "stopTs": 1794673800000,
+    "title": "Telugu Hits",
+    "desc": "Telugu Hits brings you a collection of timeless Telugu classics, featuring unforgettable music, drama, and performances that define the essence of Telugu cinema."
   },
   {
     "start": "16:30",
@@ -262,5 +152,93 @@
     "stopTs": 1794727800000,
     "title": "Devadasu",
     "desc": "When Devadasu and Parvati&apos;s love is not accepted by society, he turns to alcohol."
+  },
+  {
+    "start": "07:30",
+    "stop": "10:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1794727800000,
+    "stopTs": 1794738600000,
+    "title": "Simhasanam",
+    "desc": "Army chief Vikrama Simha accused of princess murder plot."
+  },
+  {
+    "start": "10:30",
+    "stop": "13:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1794738600000,
+    "stopTs": 1794749400000,
+    "title": "Eenadu",
+    "desc": "Commissioner Eshwar receives a suspicious call about 5 bombs planted in the city"
+  },
+  {
+    "start": "13:30",
+    "stop": "16:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1794749400000,
+    "stopTs": 1794760200000,
+    "title": "Anaganaga",
+    "desc": "Anaganaga"
+  },
+  {
+    "start": "16:30",
+    "stop": "19:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1794760200000,
+    "stopTs": 1794771000000,
+    "title": "Thimmarusu",
+    "desc": "A lawyer discovers an innocent man has been wrongly accused of murder and takes it upon himself to uncover the truth and bring the real culprits to justice."
+  },
+  {
+    "start": "19:30",
+    "stop": "22:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1794771000000,
+    "stopTs": 1794781800000,
+    "title": "Palnati Simham",
+    "desc": "Bhavani falls for Krishna who wants to marry Sujatha, enraging Bhavani&apos;s mother."
+  },
+  {
+    "start": "22:30",
+    "stop": "00:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1794781800000,
+    "stopTs": 1794789000000,
+    "title": "Songs",
+    "desc": "This collection gathers upbeat tunes in one handy playlist, offering listeners a wide, enjoyable mix of catchy songs that are easy to sing along and share."
+  },
+  {
+    "start": "00:30",
+    "stop": "03:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1794789000000,
+    "stopTs": 1794799800000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
+  },
+  {
+    "start": "03:30",
+    "stop": "06:30",
+    "channel": "ETVCinema.in",
+    "channelId": "ETVCinema.in",
+    "channelName": "ETV Cinema",
+    "startTs": 1794799800000,
+    "stopTs": 1794810600000,
+    "title": "Movie",
+    "desc": "The movie name is yet to be announced by the channel."
   }
 ]
