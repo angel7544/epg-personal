@@ -1,90 +1,68 @@
 [
   {
-    "start": "01:00",
-    "stop": "04:30",
+    "start": "00:00",
+    "stop": "05:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1794618000000,
-    "stopTs": 1794630600000,
-    "title": "Kumamoto Masters Japan, Semifinals; BWF World Tour Badminton",
+    "startTs": 1794700800000,
+    "stopTs": 1794720600000,
+    "title": "Full Gear PPV; AEW PPV 2026",
+    "desc": "This is Sport - Sport Category."
+  },
+  {
+    "start": "05:30",
+    "stop": "07:00",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1794720600000,
+    "stopTs": 1794726000000,
+    "title": "Kumamoto Masters Japan, Finals; BWF World Tour Badminton",
     "desc": "From Kumamoto Prefectural Gymnasium in Kumamoto, Kumamoto, Japan."
   },
   {
-    "start": "04:30",
-    "stop": "08:00",
+    "start": "07:00",
+    "stop": "07:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1794630600000,
-    "stopTs": 1794643200000,
-    "title": "Hobart Hurricanes vs. Brisbane Heat; Women&apos;s Big Bash League Cricket",
-    "desc": "This is Sport - Cricket Category."
-  },
-  {
-    "start": "08:00",
-    "stop": "11:45",
-    "channel": "EUROSPORTSHD.in",
-    "channelId": "EUROSPORTSHD.in",
-    "channelName": "EUROSPORTS HD",
-    "startTs": 1794643200000,
-    "stopTs": 1794656700000,
-    "title": "Perth Scorchers vs. Adelaide Strikers; Women&apos;s Big Bash League Cricket",
-    "desc": "This is Sport - Cricket Category."
-  },
-  {
-    "start": "11:45",
-    "stop": "14:00",
-    "channel": "EUROSPORTSHD.in",
-    "channelId": "EUROSPORTSHD.in",
-    "channelName": "EUROSPORTS HD",
-    "startTs": 1794656700000,
-    "stopTs": 1794664800000,
-    "title": "Dubai; T100 Triathlon World Tour",
-    "desc": "This is Sport - Triathlon Category."
-  },
-  {
-    "start": "14:00",
-    "stop": "15:00",
-    "channel": "EUROSPORTSHD.in",
-    "channelId": "EUROSPORTSHD.in",
-    "channelName": "EUROSPORTS HD",
-    "startTs": 1794664800000,
-    "stopTs": 1794668400000,
-    "title": "WWE LFG",
-    "desc": "An inside look at what it truly takes to become a part of the WWE."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "EUROSPORTSHD.in",
-    "channelId": "EUROSPORTSHD.in",
-    "channelName": "EUROSPORTS HD",
-    "startTs": 1794668400000,
-    "stopTs": 1794670200000,
+    "startTs": 1794726000000,
+    "stopTs": 1794727800000,
     "title": "1st ODI: Australia v England; One-Day International Cricket",
     "desc": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe."
   },
   {
-    "start": "15:30",
-    "stop": "16:30",
+    "start": "07:30",
+    "stop": "15:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1794670200000,
-    "stopTs": 1794673800000,
-    "title": "Hero Women&apos;s Indian Open Highlights",
-    "desc": "The highlights of professional women&apos;s golf include fierce competition, skillful play on tough courses and battles for tournament wins and top rankings."
+    "startTs": 1794727800000,
+    "stopTs": 1794756600000,
+    "title": "1st Test, Day 1: South Africa vs. Bangladesh; Test Cricket",
+    "desc": "Professional players from two cricket teams compete against each other to emerge victorious in a Test match to win the title."
   },
   {
-    "start": "16:30",
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1794756600000,
+    "stopTs": 1794758400000,
+    "title": "WWE&apos;s Greatest Moments",
+    "desc": "Showcasing iconic events that have shaped WWE history and thrilled fans for decades, from legendary heroes to shocking betrayals and epic battles."
+  },
+  {
+    "start": "16:00",
     "stop": "17:00",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1794673800000,
-    "stopTs": 1794675600000,
-    "title": "2nd ODI: South Africa vs Australia; One-Day International Cricket",
-    "desc": "An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe."
+    "startTs": 1794758400000,
+    "stopTs": 1794762000000,
+    "title": "TNA Xplosion",
+    "desc": "Professional wrestlers from all around the world compete against each other in the TNA Xplosion in order to win the coveted title."
   }
 ]

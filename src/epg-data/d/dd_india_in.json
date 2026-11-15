@@ -1,476 +1,14 @@
 [
   {
-    "start": "03:30",
-    "stop": "04:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD INDIA",
-    "startTs": 1794627000000,
-    "stopTs": 1794630600000,
-    "title": "DD India News Hour",
-    "desc": "he host presents latest updates and developments from across the globe pertaining to current affairs, the economy, business and more."
-  },
-  {
     "start": "04:00",
     "stop": "04:30",
     "channel": "DDIndia.in",
     "channelId": "DDIndia.in",
     "channelName": "DD India",
-    "startTs": 1794628800000,
-    "stopTs": 1794630600000,
-    "title": "Voice of the Global South",
-    "desc": "Senior news correspondent and anchor Akshay Dongare presents a detailed report on a wide range of stories from Latin America, Asia, Africa, and Oceania."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794630600000,
-    "stopTs": 1794634200000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794634200000,
-    "stopTs": 1794637800000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
-  },
-  {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794637800000,
-    "stopTs": 1794639600000,
-    "title": "Dd-India Live",
-    "desc": "The newsreader provides a thorough report on some of the most significant and recent global news articles and updates in real-time."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794639600000,
-    "stopTs": 1794641400000,
-    "title": "Dd-India Live",
-    "desc": "The newsreader provides a thorough report on some of the most significant and recent global news articles and updates in real-time."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794641400000,
-    "stopTs": 1794643200000,
-    "title": "Defence Dynamics",
-    "desc": "Defence Dynamics on DD India explores military strategies and innovations."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794643200000,
-    "stopTs": 1794645000000,
-    "title": "Eco-India",
-    "desc": "The host highlights individuals and organizations championing diverse environmental causes, shedding light on their projects and initiatives aimed at addressing pressing environmental issues."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794645000000,
-    "stopTs": 1794648600000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD INDIA",
-    "startTs": 1794646800000,
-    "stopTs": 1794648600000,
-    "title": "DD India",
-    "desc": "The host provides a detailed report on the Victory Day parade staged in Moscow, Russia, whilst highlighting the historical significance of the same."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794648600000,
-    "stopTs": 1794652200000,
-    "title": "Indian Diplomacy-India&apos;S Rise And Its Consequences",
-    "desc": "A deep dive into India&apos;s ascent in global diplomacy, examining its rise as a major power and the political, economic and social consequences of its growing influence on the international stage"
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India",
-    "startTs": 1794650400000,
-    "stopTs": 1794652200000,
-    "title": "The Economic Brief",
-    "desc": "The host discusses the key developments of the Indian economy, and its consequences which help shape the country both nationally and internationally."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794652200000,
-    "stopTs": 1794654000000,
-    "title": "Express News",
-    "desc": "100 Best News in Fast Mode from India and Around the Globe."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794654000000,
-    "stopTs": 1794655800000,
-    "title": "Wellness Watch-Cervical Cancer:The Silent Threat",
-    "desc": "An informative program shedding light on cervical cancer, its risks, symptoms, and prevention methods. Learn about early detection, the importance of awareness, and steps to protect women&apos;s health."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794655800000,
-    "stopTs": 1794657600000,
-    "title": "Dd-India Live",
-    "desc": "The newsreader provides a thorough report on some of the most significant and recent global news articles and updates in real-time."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794657600000,
-    "stopTs": 1794659400000,
-    "title": "Connecting The Dots",
-    "desc": "&apos;Connect the Dots&apos; is a collection of inspiring stories of 20 entrepreneurs written by Rashmi Bansal."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794659400000,
-    "stopTs": 1794661200000,
-    "title": "Dd-India Live",
-    "desc": "The newsreader provides a thorough report on some of the most significant and recent global news articles and updates in real-time."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794661200000,
-    "stopTs": 1794663000000,
-    "title": "Dd-India Live",
-    "desc": "The newsreader provides a thorough report on some of the most significant and recent global news articles and updates in real-time."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794663000000,
-    "stopTs": 1794664800000,
-    "title": "Express News",
-    "desc": "100 Best News in Fast Mode from India and Around the Globe."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794664800000,
-    "stopTs": 1794666600000,
-    "title": "Dd-India Live",
-    "desc": "The newsreader provides a thorough report on some of the most significant and recent global news articles and updates in real-time."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794666600000,
-    "stopTs": 1794668400000,
-    "title": "The Economic Brief",
-    "desc": "TV host David Johnson humorously explains economic topics in the series."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794668400000,
-    "stopTs": 1794670200000,
-    "title": "Defence Dynamics",
-    "desc": "Defence Dynamics on DD India explores military strategies and innovations."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794670200000,
-    "stopTs": 1794673800000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794673800000,
-    "stopTs": 1794675600000,
-    "title": "The Economic Brief",
-    "desc": "TV host David Johnson humorously explains economic topics in the series."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794675600000,
-    "stopTs": 1794677400000,
-    "title": "Wellness Watch-Cervical Cancer:The Silent Threat",
-    "desc": "An informative program shedding light on cervical cancer, its risks, symptoms, and prevention methods. Learn about early detection, the importance of awareness, and steps to protect women&apos;s health."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794677400000,
-    "stopTs": 1794681000000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794681000000,
-    "stopTs": 1794682800000,
-    "title": "Voice Of The Global South",
-    "desc": "India&apos;s Voice of Global South Summit aims to unite developing countries to discuss concerns, interests, and priorities, exchange ideas, and promote unity in addressing these issues."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794682800000,
-    "stopTs": 1794684600000,
-    "title": "The Economic Brief",
-    "desc": "TV host David Johnson humorously explains economic topics in the series."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794684600000,
-    "stopTs": 1794688200000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794688200000,
-    "stopTs": 1794690000000,
-    "title": "Souls Of The Mountains",
-    "desc": "Journey into the lives of mountain communities and their unique cultures. Discover the beauty and struggles of highland living in this captivating series."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794690000000,
-    "stopTs": 1794691800000,
-    "title": "Media Scan- Col Pavithran Rajan, One Of India&apos;s Biggest Names In Cyber Warfare",
-    "desc": "Media Scan- Col Pavithran Rajan, One Of India&apos;s Biggest Names In Cyber Warfare"
-  },
-  {
-    "start": "21:30",
-    "stop": "22:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794691800000,
-    "stopTs": 1794695400000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794695400000,
-    "stopTs": 1794697200000,
-    "title": "Indian Diplomacy-India&apos;s Unstoppable Rise",
-    "desc": "Indian Diplomacy-India&apos;s Unstoppable Rise"
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794697200000,
-    "stopTs": 1794699000000,
-    "title": "Voice Of The Global South",
-    "desc": "India&apos;s Voice of Global South Summit aims to unite developing countries to discuss concerns, interests, and priorities, exchange ideas, and promote unity in addressing these issues."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794699000000,
-    "stopTs": 1794702600000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794702600000,
-    "stopTs": 1794704400000,
-    "title": "Souls Of The Mountains",
-    "desc": "Journey into the lives of mountain communities and their unique cultures. Discover the beauty and struggles of highland living in this captivating series."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794704400000,
-    "stopTs": 1794706200000,
-    "title": "Sadhguru Speaks",
-    "desc": "Gain wisdom from Sadhguru as he addresses key life topics and spiritual insights. Tune in for enlightening perspectives and guidance for personal growth."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794706200000,
-    "stopTs": 1794708000000,
-    "title": "Dd-India Live",
-    "desc": "The newsreader provides a thorough report on some of the most significant and recent global news articles and updates in real-time."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794708000000,
-    "stopTs": 1794709800000,
-    "title": "Dd-India Live",
-    "desc": "The newsreader provides a thorough report on some of the most significant and recent global news articles and updates in real-time."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794709800000,
-    "stopTs": 1794711600000,
-    "title": "Media Scan- Col Pavithran Rajan, One Of India&apos;s Biggest Names In Cyber Warfare",
-    "desc": "Media Scan- Col Pavithran Rajan, One Of India&apos;s Biggest Names In Cyber Warfare"
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794711600000,
-    "stopTs": 1794713400000,
-    "title": "Voice Of The Global South",
-    "desc": "India&apos;s Voice of Global South Summit aims to unite developing countries to discuss concerns, interests, and priorities, exchange ideas, and promote unity in addressing these issues."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794713400000,
-    "stopTs": 1794715200000,
-    "title": "Connecting The Dots",
-    "desc": "&apos;Connect the Dots&apos; is a collection of inspiring stories of 20 entrepreneurs written by Rashmi Bansal."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
     "startTs": 1794715200000,
     "stopTs": 1794717000000,
-    "title": "The Economic Brief",
-    "desc": "TV host David Johnson humorously explains economic topics in the series."
+    "title": "Voice of the Global South",
+    "desc": "Senior news correspondent and anchor Akshay Dongare presents a detailed report on a wide range of stories from Latin America, Asia, Africa, and Oceania."
   },
   {
     "start": "04:30",
@@ -535,8 +73,8 @@
     "channelName": "DD India HD",
     "startTs": 1794727800000,
     "stopTs": 1794729600000,
-    "title": "Media Scan- Col Pavithran Rajan, One Of India&apos;s Biggest Names In Cyber Warfare",
-    "desc": "Media Scan- Col Pavithran Rajan, One Of India&apos;s Biggest Names In Cyber Warfare"
+    "title": "Media Scan",
+    "desc": "The host presents a critical analysis of the latest news and developments presented on different forms of media from around the world."
   },
   {
     "start": "08:00",
@@ -557,8 +95,8 @@
     "channelName": "DD India HD",
     "startTs": 1794731400000,
     "stopTs": 1794735000000,
-    "title": "Special Ddi Newshour Diwali Segment With Reporter Hsws From Across The Country",
-    "desc": "Special Ddi Newshour Diwali Segment With Reporter Hsws From Across The Country"
+    "title": "Dd-India News Hour",
+    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
   },
   {
     "start": "09:00",
@@ -634,8 +172,8 @@
     "channelName": "DD India HD",
     "startTs": 1794744000000,
     "stopTs": 1794745800000,
-    "title": "Indian Diplomacy-India&apos;s Unstoppable Rise",
-    "desc": "Indian Diplomacy-India&apos;s Unstoppable Rise"
+    "title": "Indian Diplomacy- The Usa-China Chip War And Its Implications For India",
+    "desc": "Indian Diplomacy- The Usa-China Chip War And Its Implications For India"
   },
   {
     "start": "12:30",
@@ -678,8 +216,8 @@
     "channelName": "DD India HD",
     "startTs": 1794751200000,
     "stopTs": 1794753000000,
-    "title": "Documentary On Cultural Significance Of Diwali",
-    "desc": "Documentary On Cultural Significance Of Diwali"
+    "title": "Voice Of The Global South",
+    "desc": "India&apos;s Voice of Global South Summit aims to unite developing countries to discuss concerns, interests, and priorities, exchange ideas, and promote unity in addressing these issues."
   },
   {
     "start": "14:30",
@@ -689,8 +227,8 @@
     "channelName": "DD India HD",
     "startTs": 1794753000000,
     "stopTs": 1794754800000,
-    "title": "Special Bulletin On Diwali Celebrations With National And International Inputs",
-    "desc": "Special Bulletin On Diwali Celebrations With National And International Inputs"
+    "title": "Defence Dynamics",
+    "desc": "Defence Dynamics on DD India explores military strategies and innovations."
   },
   {
     "start": "15:00",
@@ -722,8 +260,8 @@
     "channelName": "DD India HD",
     "startTs": 1794760200000,
     "stopTs": 1794762000000,
-    "title": "Special Bulletin On Diwali Celebrations With National And International Inputs",
-    "desc": "Special Bulletin On Diwali Celebrations With National And International Inputs"
+    "title": "Media Scan",
+    "desc": "The host presents a critical analysis of the latest news and developments presented on different forms of media from around the world."
   },
   {
     "start": "17:00",
@@ -733,8 +271,8 @@
     "channelName": "DD India HD",
     "startTs": 1794762000000,
     "stopTs": 1794763800000,
-    "title": "Documentary On Cultural Significance Of Diwali",
-    "desc": "Documentary On Cultural Significance Of Diwali"
+    "title": "Eco India",
+    "desc": "The host highlights projects and efforts addressing environmental issues."
   },
   {
     "start": "17:30",
@@ -755,8 +293,8 @@
     "channelName": "DD India HD",
     "startTs": 1794767400000,
     "stopTs": 1794769200000,
-    "title": "Indian Diplomacy-India&apos;s Unstoppable Rise",
-    "desc": "Indian Diplomacy-India&apos;s Unstoppable Rise"
+    "title": "Indian Diplomacy- The Usa-China Chip War And Its Implications For India",
+    "desc": "Indian Diplomacy- The Usa-China Chip War And Its Implications For India"
   },
   {
     "start": "19:00",
@@ -781,17 +319,6 @@
     "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
   },
   {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "DDIndia.in",
-    "channelId": "DDIndia.in",
-    "channelName": "DD India HD",
-    "startTs": 1794772800000,
-    "stopTs": 1794774600000,
-    "title": "Connecting The Dots",
-    "desc": "&apos;Connect the Dots&apos; shares inspiring stories of 20 successful entrepreneurs, highlighting their journeys, struggles and achievements through Rashmi Bansal&apos;s writing."
-  },
-  {
     "start": "20:30",
     "stop": "21:00",
     "channel": "DDIndia.in",
@@ -799,8 +326,8 @@
     "channelName": "DD India HD",
     "startTs": 1794774600000,
     "stopTs": 1794776400000,
-    "title": "Special Bulletin On Diwali Celebrations With National And International Inputs",
-    "desc": "Special Bulletin On Diwali Celebrations With National And International Inputs"
+    "title": "Souls Of The Mountains",
+    "desc": "Journey into the lives of mountain communities and their unique cultures. Discover the beauty and struggles of highland living in this captivating series."
   },
   {
     "start": "21:00",
@@ -843,8 +370,8 @@
     "channelName": "DD India HD",
     "startTs": 1794783600000,
     "stopTs": 1794785400000,
-    "title": "Indian Diplomacy-India&apos;s Unstoppable Rise",
-    "desc": "Indian Diplomacy-India&apos;s Unstoppable Rise"
+    "title": "Indian Diplomacy- The Usa-China Chip War And Its Implications For India",
+    "desc": "Indian Diplomacy- The Usa-China Chip War And Its Implications For India"
   },
   {
     "start": "23:30",
@@ -876,8 +403,8 @@
     "channelName": "DD India HD",
     "startTs": 1794790800000,
     "stopTs": 1794792600000,
-    "title": "Sadhguru Speaks",
-    "desc": "Gain wisdom from Sadhguru as he addresses key life topics and spiritual insights. Tune in for enlightening perspectives and guidance for personal growth."
+    "title": "Meditation Session By Gurudev Sri Sri Ravi Shankar:",
+    "desc": "Meditation Session By Gurudev Sri Sri Ravi Shankar:"
   },
   {
     "start": "01:30",
@@ -909,8 +436,8 @@
     "channelName": "DD India HD",
     "startTs": 1794796200000,
     "stopTs": 1794799800000,
-    "title": "Dd-India News Hour",
-    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
+    "title": "Dd-India News Hour (Edit And Play -Vvip Departure Shots For The Philippines",
+    "desc": "Dd-India News Hour Edit And Play -Vvip Departure Shots For The Philippines"
   },
   {
     "start": "03:30",
@@ -924,6 +451,17 @@
     "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
   },
   {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India",
+    "startTs": 1794801600000,
+    "stopTs": 1794803400000,
+    "title": "Indian Diplomacy",
+    "desc": "The host discusses with the designated officials on matters relating to India&apos;s affairs and diplomatic relations with the foreign countries."
+  },
+  {
     "start": "04:30",
     "stop": "05:30",
     "channel": "DDIndia.in",
@@ -931,6 +469,424 @@
     "channelName": "DD India HD",
     "startTs": 1794803400000,
     "stopTs": 1794807000000,
+    "title": "Dd-India News Hour",
+    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794807000000,
+    "stopTs": 1794810600000,
+    "title": "Dd-India News Hour",
+    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794810600000,
+    "stopTs": 1794812400000,
+    "title": "DD India Live",
+    "desc": "The program provides a live report on the latest and most significant news stories and updates worldwide."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794812400000,
+    "stopTs": 1794814200000,
+    "title": "DD India Live",
+    "desc": "The program provides a live report on the latest and most significant news stories and updates worldwide."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794814200000,
+    "stopTs": 1794816000000,
+    "title": "Connecting The Dots",
+    "desc": "&apos;Connect the Dots&apos; is a collection of inspiring stories of 20 entrepreneurs written by Rashmi Bansal."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794816000000,
+    "stopTs": 1794817800000,
+    "title": "Eco India",
+    "desc": "The host highlights projects and efforts addressing environmental issues."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794817800000,
+    "stopTs": 1794821400000,
+    "title": "Programme Mode-Pm In Philippines",
+    "desc": "Programme Mode-Pm In Philippines"
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794821400000,
+    "stopTs": 1794823200000,
+    "title": "Express News",
+    "desc": "100 Best News in Fast Mode from India and Around the Globe."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794823200000,
+    "stopTs": 1794825000000,
+    "title": "Voice Of The Global South",
+    "desc": "India&apos;s Voice of Global South Summit aims to unite developing countries to discuss concerns, interests, and priorities, exchange ideas, and promote unity in addressing these issues."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794825000000,
+    "stopTs": 1794826800000,
+    "title": "DD India Live",
+    "desc": "The program provides a live report on the latest and most significant news stories and updates worldwide."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794826800000,
+    "stopTs": 1794828600000,
+    "title": "Indian Diplomacy- The Usa-China Chip War And Its Implications For India",
+    "desc": "Indian Diplomacy- The Usa-China Chip War And Its Implications For India"
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794828600000,
+    "stopTs": 1794830400000,
+    "title": "DD India Live",
+    "desc": "The program provides a live report on the latest and most significant news stories and updates worldwide."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794830400000,
+    "stopTs": 1794832200000,
+    "title": "DD India Live",
+    "desc": "The program provides a live report on the latest and most significant news stories and updates worldwide."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794832200000,
+    "stopTs": 1794834000000,
+    "title": "DD India Live",
+    "desc": "The program provides a live report on the latest and most significant news stories and updates worldwide."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794834000000,
+    "stopTs": 1794835800000,
+    "title": "DD India Live",
+    "desc": "The program provides a live report on the latest and most significant news stories and updates worldwide."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794835800000,
+    "stopTs": 1794837600000,
+    "title": "Express News",
+    "desc": "100 Best News in Fast Mode from India and Around the Globe."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794837600000,
+    "stopTs": 1794839400000,
+    "title": "DD India Live",
+    "desc": "The program provides a live report on the latest and most significant news stories and updates worldwide."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794839400000,
+    "stopTs": 1794841200000,
+    "title": "India Lens",
+    "desc": "India Lens"
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794841200000,
+    "stopTs": 1794843000000,
+    "title": "Voice Of The Global South",
+    "desc": "India&apos;s Voice of Global South Summit aims to unite developing countries to discuss concerns, interests, and priorities, exchange ideas, and promote unity in addressing these issues."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794843000000,
+    "stopTs": 1794846600000,
+    "title": "Dd-India News Hour",
+    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794846600000,
+    "stopTs": 1794848400000,
+    "title": "India Lens",
+    "desc": "India Lens"
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794848400000,
+    "stopTs": 1794850200000,
+    "title": "Eco India",
+    "desc": "The host highlights projects and efforts addressing environmental issues."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794850200000,
+    "stopTs": 1794853800000,
+    "title": "Dd-India News Hour",
+    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794853800000,
+    "stopTs": 1794855600000,
+    "title": "The Economic Brief",
+    "desc": "TV host David Johnson humorously explains economic topics in the series."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794855600000,
+    "stopTs": 1794857400000,
+    "title": "Indian Diplomacy- The Usa-China Chip War And Its Implications For India",
+    "desc": "Indian Diplomacy- The Usa-China Chip War And Its Implications For India"
+  },
+  {
+    "start": "19:30",
+    "stop": "20:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794857400000,
+    "stopTs": 1794861000000,
+    "title": "Dd-India News Hour",
+    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794861000000,
+    "stopTs": 1794862800000,
+    "title": "Souls Of The Mountains",
+    "desc": "Journey into the lives of mountain communities and their unique cultures. Discover the beauty and struggles of highland living in this captivating series."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794862800000,
+    "stopTs": 1794864600000,
+    "title": "India Lens",
+    "desc": "India Lens"
+  },
+  {
+    "start": "21:30",
+    "stop": "22:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794864600000,
+    "stopTs": 1794868200000,
+    "title": "Dd-India News Hour",
+    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794868200000,
+    "stopTs": 1794870000000,
+    "title": "Defence Dynamics",
+    "desc": "Defence Dynamics on DD India explores military strategies and innovations."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794870000000,
+    "stopTs": 1794871800000,
+    "title": "Connecting The Dots",
+    "desc": "&apos;Connect the Dots&apos; is a collection of inspiring stories of 20 entrepreneurs written by Rashmi Bansal."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794871800000,
+    "stopTs": 1794875400000,
+    "title": "Dd-India News Hour",
+    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794875400000,
+    "stopTs": 1794877200000,
+    "title": "Tale Of Trails-The Shangrila",
+    "desc": "Journey through the breathtaking landscapes of Shangrila, uncovering its mystical beauty, ancient traditions, and hidden trails in this immersive travel exploration of paradise."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794877200000,
+    "stopTs": 1794879000000,
+    "title": "Meditation Session By Gurudev Sri Sri Ravi Shankar",
+    "desc": "Guru Srisri Ravishankar delivers a discourse to discuss the benefits of meditation and encourages people to make it a part of their day-to-day routine."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794879000000,
+    "stopTs": 1794880800000,
+    "title": "Dd-India Live",
+    "desc": "The newsreader provides a thorough report on some of the most significant and recent global news articles and updates in real-time."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794880800000,
+    "stopTs": 1794882600000,
+    "title": "Dd-India Live",
+    "desc": "The newsreader provides a thorough report on some of the most significant and recent global news articles and updates in real-time."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794882600000,
+    "stopTs": 1794886200000,
+    "title": "Dd-India News Hour",
+    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794886200000,
+    "stopTs": 1794889800000,
+    "title": "Dd-India News Hour",
+    "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:30",
+    "channel": "DDIndia.in",
+    "channelId": "DDIndia.in",
+    "channelName": "DD India HD",
+    "startTs": 1794889800000,
+    "stopTs": 1794893400000,
     "title": "Dd-India News Hour",
     "desc": "The host reports on the most recent events and updates from across the world in the areas of business, current affairs, and the economy."
   }
