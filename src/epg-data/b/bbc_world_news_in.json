@@ -1,23 +1,12 @@
 [
   {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "BBCWorldNews.in",
-    "channelId": "BBCWorldNews.in",
-    "channelName": "BBC World News",
-    "startTs": 1795321800000,
-    "stopTs": 1795323600000,
-    "title": "Clive Myrie&apos;s African Adventure",
-    "desc": "Clive travels to Marrakech, the Red City, known for its distinctive architecture. He learns how to create the most stunning Moroccan tile mosaics and stays overnight in the Atlas Mountains."
-  },
-  {
     "start": "05:00",
     "stop": "05:30",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795323600000,
-    "stopTs": 1795325400000,
+    "startTs": 1795410000000,
+    "stopTs": 1795411800000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -27,10 +16,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795325400000,
-    "stopTs": 1795327200000,
-    "title": "Talking Business",
-    "desc": "The so-called quiet quitting and &apos;act your wage&apos; craze encourages workers to do the bare minimum."
+    "startTs": 1795411800000,
+    "stopTs": 1795413600000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
   },
   {
     "start": "06:00",
@@ -38,21 +27,32 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795327200000,
-    "stopTs": 1795329000000,
+    "startTs": 1795413600000,
+    "stopTs": 1795415400000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "06:30",
+    "stop": "06:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795415400000,
+    "stopTs": 1795416900000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "06:55",
     "stop": "07:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795329000000,
-    "stopTs": 1795330800000,
-    "title": "The Travel Show",
-    "desc": "Zoologist and nature enthusiast Lira Valencia heads to Brazil&apos;s coast to explore human-wildlife coexistence, including the fishermen who have developed a unique relationship with dolphins."
+    "startTs": 1795416900000,
+    "stopTs": 1795417200000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "07:00",
@@ -60,21 +60,32 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795330800000,
-    "stopTs": 1795332600000,
+    "startTs": 1795417200000,
+    "stopTs": 1795419000000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "07:30",
+    "stop": "07:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795419000000,
+    "stopTs": 1795420500000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "07:55",
     "stop": "08:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795332600000,
-    "stopTs": 1795334400000,
-    "title": "AI Decoded",
-    "desc": "Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence."
+    "startTs": 1795420500000,
+    "stopTs": 1795420800000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "08:00",
@@ -82,43 +93,54 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795334400000,
-    "stopTs": 1795336200000,
+    "startTs": 1795420800000,
+    "stopTs": 1795422600000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "08:30",
-    "stop": "08:45",
-    "channel": "BBCWorldNews.in",
-    "channelId": "BBCWorldNews.in",
-    "channelName": "BBC World News",
-    "startTs": 1795336200000,
-    "stopTs": 1795337100000,
-    "title": "Africa Enterprise",
-    "desc": "CEOs and entrepreneurs across Africa share their insights into business trends on the continent with Nancy Kacungira. How can Africa take advantage of AI and new tech to increase economic growth?"
-  },
-  {
-    "start": "08:45",
     "stop": "09:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795337100000,
-    "stopTs": 1795338000000,
-    "title": "Tech Now",
-    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
+    "startTs": 1795422600000,
+    "stopTs": 1795424400000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "09:00",
+    "stop": "09:30",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795424400000,
+    "stopTs": 1795426200000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+  },
+  {
+    "start": "09:30",
+    "stop": "09:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795426200000,
+    "stopTs": 1795427700000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+  },
+  {
+    "start": "09:55",
     "stop": "10:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795338000000,
-    "stopTs": 1795341600000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1795427700000,
+    "stopTs": 1795428000000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "10:00",
@@ -126,8 +148,8 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795341600000,
-    "stopTs": 1795343400000,
+    "startTs": 1795428000000,
+    "stopTs": 1795429800000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
@@ -137,10 +159,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795343400000,
-    "stopTs": 1795345200000,
-    "title": "Focus On Africa: The Conversation",
-    "desc": "Exploring African social, cultural, and political issues. Each episode features real-world interviews on digital trends, mental health, cultural taboos, and geopolitics across the African continent."
+    "startTs": 1795429800000,
+    "stopTs": 1795431600000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "11:00",
@@ -148,21 +170,43 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795345200000,
-    "stopTs": 1795347000000,
+    "startTs": 1795431600000,
+    "stopTs": 1795433400000,
     "title": "BBC News",
     "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
   },
   {
     "start": "11:30",
+    "stop": "11:45",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795433400000,
+    "stopTs": 1795434300000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "11:45",
+    "stop": "11:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795434300000,
+    "stopTs": 1795434900000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+  },
+  {
+    "start": "11:55",
     "stop": "12:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795347000000,
-    "stopTs": 1795348800000,
-    "title": "The President&apos;s Path",
-    "desc": "Sumi Somaskanda and Caitriona Perry discuss the meeting of the leaders of the US, China and Russia."
+    "startTs": 1795434900000,
+    "stopTs": 1795435200000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "12:00",
@@ -170,10 +214,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795348800000,
-    "stopTs": 1795350600000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1795435200000,
+    "stopTs": 1795437000000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "12:30",
@@ -181,10 +225,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795350600000,
-    "stopTs": 1795352400000,
-    "title": "The Travel Show",
-    "desc": "Zoologist and nature enthusiast Lira Valencia heads to Brazil&apos;s coast to explore human-wildlife coexistence, including the fishermen who have developed a unique relationship with dolphins."
+    "startTs": 1795437000000,
+    "stopTs": 1795438800000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "13:00",
@@ -192,21 +236,32 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795352400000,
-    "stopTs": 1795354200000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1795438800000,
+    "stopTs": 1795440600000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "13:30",
+    "stop": "13:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795440600000,
+    "stopTs": 1795442100000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
+  },
+  {
+    "start": "13:55",
     "stop": "14:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795354200000,
-    "stopTs": 1795356000000,
+    "startTs": 1795442100000,
+    "stopTs": 1795442400000,
     "title": "Tech Now",
-    "desc": "Alasdair Keane is in Naples exploring how tech is transforming the America&apos;s Cup race, as Yasmin Morgan-Griffiths visits the Swiss startup that wants to generate electricity using railway tracks."
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
   },
   {
     "start": "14:00",
@@ -214,21 +269,32 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795356000000,
-    "stopTs": 1795357800000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1795442400000,
+    "stopTs": 1795444200000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "14:30",
+    "stop": "14:45",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795444200000,
+    "stopTs": 1795445100000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "14:45",
     "stop": "15:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795357800000,
-    "stopTs": 1795359600000,
-    "title": "Clive Myrie&apos;s African Adventure",
-    "desc": "Clive travels to Marrakech, the Red City, known for its distinctive architecture. He learns how to create the most stunning Moroccan tile mosaics and stays overnight in the Atlas Mountains."
+    "startTs": 1795445100000,
+    "stopTs": 1795446000000,
+    "title": "BBC News Now",
+    "desc": "All the big stories, live as they happen, presented by Lucy Hockings."
   },
   {
     "start": "15:00",
@@ -236,10 +302,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795359600000,
-    "stopTs": 1795361400000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1795446000000,
+    "stopTs": 1795447800000,
+    "title": "Verified Live",
+    "desc": "Matthew Amroliwala presents all the latest global and UK news, live from London."
   },
   {
     "start": "15:30",
@@ -247,10 +313,10 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795361400000,
-    "stopTs": 1795363200000,
-    "title": "Global Eye",
-    "desc": "Tim Whewell reports from eastern Libya, where a vast reconstruction programme led by the Haftar family is transforming cities and reshaping the country&apos;s political future."
+    "startTs": 1795447800000,
+    "stopTs": 1795449600000,
+    "title": "Verified Live",
+    "desc": "Matthew Amroliwala presents all the latest global and UK news, live from London."
   },
   {
     "start": "16:00",
@@ -258,20 +324,339 @@
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795363200000,
-    "stopTs": 1795365000000,
-    "title": "BBC News",
-    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+    "startTs": 1795449600000,
+    "stopTs": 1795451400000,
+    "title": "Verified Live",
+    "desc": "Matthew Amroliwala presents all the latest global and UK news, live from London."
   },
   {
     "start": "16:30",
+    "stop": "16:45",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795451400000,
+    "stopTs": 1795452300000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "16:45",
+    "stop": "16:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795452300000,
+    "stopTs": 1795452900000,
+    "title": "Verified Live",
+    "desc": "Matthew Amroliwala presents all the latest global and UK news, live from London."
+  },
+  {
+    "start": "16:55",
     "stop": "17:00",
     "channel": "BBCWorldNews.in",
     "channelId": "BBCWorldNews.in",
     "channelName": "BBC World News",
-    "startTs": 1795365000000,
-    "stopTs": 1795366800000,
+    "startTs": 1795452900000,
+    "stopTs": 1795453200000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795453200000,
+    "stopTs": 1795455000000,
+    "title": "Verified Live",
+    "desc": "Matthew Amroliwala presents all the latest global and UK news, live from London."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795455000000,
+    "stopTs": 1795456800000,
+    "title": "Focus on Africa",
+    "desc": "A presentation of the biggest stories from all over Africa and around the world, led by the BBC team."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795456800000,
+    "stopTs": 1795458600000,
+    "title": "The World Today with Maryam Moshiri",
+    "desc": "The best of the BBC&apos;s journalism from around the world."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795458600000,
+    "stopTs": 1795460400000,
+    "title": "The World Today with Maryam Moshiri",
+    "desc": "The best of the BBC&apos;s journalism from around the world."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795460400000,
+    "stopTs": 1795462200000,
+    "title": "The World Today with Maryam Moshiri",
+    "desc": "The best of the BBC&apos;s journalism from around the world."
+  },
+  {
+    "start": "19:30",
+    "stop": "19:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795462200000,
+    "stopTs": 1795463700000,
+    "title": "The World Today with Maryam Moshiri",
+    "desc": "The best of the BBC&apos;s journalism from around the world."
+  },
+  {
+    "start": "19:55",
+    "stop": "20:00",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795463700000,
+    "stopTs": 1795464000000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795464000000,
+    "stopTs": 1795465800000,
+    "title": "The Context USA",
+    "desc": "Special coverage from Washington DC and London, focusing on President Trump&apos;s second term."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795465800000,
+    "stopTs": 1795467600000,
+    "title": "The Context USA",
+    "desc": "Special coverage from Washington DC and London, focusing on President Trump&apos;s second term."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795467600000,
+    "stopTs": 1795469400000,
+    "title": "The Context",
+    "desc": "Presented by Christian Fraser. A regular panel of guests from across the political spectrum discuss the biggest international stories of the day."
+  },
+  {
+    "start": "21:30",
+    "stop": "21:55",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795469400000,
+    "stopTs": 1795470900000,
+    "title": "The Context",
+    "desc": "Presented by Christian Fraser. A regular panel of guests from across the political spectrum discuss the biggest international stories of the day."
+  },
+  {
+    "start": "21:55",
+    "stop": "22:00",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795470900000,
+    "stopTs": 1795471200000,
+    "title": "Tech Now",
+    "desc": "Bringing you the inside track on global trends and advancements happening in the tech space."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795471200000,
+    "stopTs": 1795473000000,
+    "title": "BBC World News America",
+    "desc": "An in-depth examination of major international news, events and current affairs with an emphasis on American news."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795473000000,
+    "stopTs": 1795474800000,
+    "title": "Newsnight",
+    "desc": "Featuring extensive coverage of the day&apos;s top national and international news stories, along with explanations about the context and potential aftereffects."
+  },
+  {
+    "start": "23:00",
+    "stop": "00:00",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795474800000,
+    "stopTs": 1795478400000,
+    "title": "BBC World News America",
+    "desc": "An in-depth examination of major international news, events and current affairs with an emphasis on American news."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795478400000,
+    "stopTs": 1795480200000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795480200000,
+    "stopTs": 1795482000000,
+    "title": "Newscast",
+    "desc": "Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795482000000,
+    "stopTs": 1795483800000,
+    "title": "BBC News",
+    "desc": "A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795483800000,
+    "stopTs": 1795485600000,
     "title": "Talking Business",
     "desc": "The so-called quiet quitting and &apos;act your wage&apos; craze encourages workers to do the bare minimum."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795485600000,
+    "stopTs": 1795487400000,
+    "title": "Newsday",
+    "desc": "The latest international news from London and Singapore."
+  },
+  {
+    "start": "02:30",
+    "stop": "02:45",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795487400000,
+    "stopTs": 1795488300000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "02:45",
+    "stop": "03:00",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795488300000,
+    "stopTs": 1795489200000,
+    "title": "BBC Sport",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795489200000,
+    "stopTs": 1795491000000,
+    "title": "Newsday",
+    "desc": "The latest international news from London and Singapore."
+  },
+  {
+    "start": "03:30",
+    "stop": "03:45",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795491000000,
+    "stopTs": 1795491900000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "03:45",
+    "stop": "04:00",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795491900000,
+    "stopTs": 1795492800000,
+    "title": "BBC Sport",
+    "desc": "This is News - News Bulletin Category."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795492800000,
+    "stopTs": 1795494600000,
+    "title": "Newsday",
+    "desc": "The latest international news from London and Singapore."
+  },
+  {
+    "start": "04:30",
+    "stop": "04:45",
+    "channel": "BBCWorldNews.in",
+    "channelId": "BBCWorldNews.in",
+    "channelName": "BBC World News",
+    "startTs": 1795494600000,
+    "stopTs": 1795495500000,
+    "title": "Business Today",
+    "desc": "This is News - News Bulletin Category."
   }
 ]
