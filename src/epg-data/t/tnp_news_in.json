@@ -1,929 +1,5 @@
 [
   {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795505400000,
-    "stopTs": 1795507200000,
-    "title": "Bharat Ki Beti",
-    "desc": "The host presents the latest news stories surrounding various issues around the country."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795507200000,
-    "stopTs": 1795509000000,
-    "title": "Bazaar Garam Hai",
-    "desc": "The host collates and presents the latest updates and developments in the share market."
-  },
-  {
-    "start": "08:25",
-    "stop": "08:55",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795508700000,
-    "stopTs": 1795510500000,
-    "title": "Dopahar Samachar",
-    "desc": "Main Stories of Nation-World."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795509000000,
-    "stopTs": 1795510800000,
-    "title": "Filmy Tadka",
-    "desc": "The host sheds light on the latest news stories pertaining to the entertainment industry."
-  },
-  {
-    "start": "08:55",
-    "stop": "09:25",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795510500000,
-    "stopTs": 1795512300000,
-    "title": "TNP Express",
-    "desc": "Fast-paced news coverage brings you breaking stories and updates on the go, ensuring you never miss out on important events."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795510800000,
-    "stopTs": 1795512600000,
-    "title": "Bulletin",
-    "desc": "The host presents the latest news and developments surrounding various current events."
-  },
-  {
-    "start": "09:25",
-    "stop": "09:55",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795512300000,
-    "stopTs": 1795514100000,
-    "title": "Madhya Pradesh-Chhattisgarh",
-    "desc": "News from MP and Chhattisgarh."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795512600000,
-    "stopTs": 1795514400000,
-    "title": "Recipe Mein Aaj",
-    "desc": "An eminent chef shares and demonstrates cooking recipes and dishes."
-  },
-  {
-    "start": "09:55",
-    "stop": "10:25",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795514100000,
-    "stopTs": 1795515900000,
-    "title": "Up Bulletin",
-    "desc": "Spiritual growth, devotion, and perseverance guide characters through adversity, helping them find inner peace and meaning."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795514400000,
-    "stopTs": 1795516200000,
-    "title": "Bollywood",
-    "desc": "The host provides the latest celebrity news and gossip from the Bollywood film industry."
-  },
-  {
-    "start": "10:25",
-    "stop": "10:45",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795515900000,
-    "stopTs": 1795517100000,
-    "title": "Bulletin",
-    "desc": "A roundup of top stories from politics, world news, sports, and entertainment-all served fresh and fast to keep you informed."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795516200000,
-    "stopTs": 1795518000000,
-    "title": "Khas Mulakat",
-    "desc": "The host holds an insightful conversation with various esteemed personalities."
-  },
-  {
-    "start": "10:45",
-    "stop": "11:25",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795517100000,
-    "stopTs": 1795519500000,
-    "title": "Bulletin",
-    "desc": "A roundup of top stories from politics, world news, sports, and entertainment-all served fresh and fast to keep you informed."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795518000000,
-    "stopTs": 1795519800000,
-    "title": "Bulletin",
-    "desc": "The host presents the latest news and developments surrounding various current events."
-  },
-  {
-    "start": "11:25",
-    "stop": "11:55",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795519500000,
-    "stopTs": 1795521300000,
-    "title": "5 Baje Ki 5 Badi Khabere",
-    "desc": "Characters navigate societal pressures, ethical dilemmas, and cultural norms while discovering their inner strength."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795519800000,
-    "stopTs": 1795521600000,
-    "title": "Khelega India",
-    "desc": "The host sheds light on the latest news updates and key stories pertaining to the field of sports."
-  },
-  {
-    "start": "11:55",
-    "stop": "12:25",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795521300000,
-    "stopTs": 1795523100000,
-    "title": "TNP Special",
-    "desc": "Family comedy-drama blends humor, relationships, and lessons learned as characters face unexpected situations and conflicts."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795521600000,
-    "stopTs": 1795523400000,
-    "title": "Tha Koi Gumnaam",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "12:25",
-    "stop": "12:55",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795523100000,
-    "stopTs": 1795524900000,
-    "title": "Hunkar",
-    "desc": "Fantasy adventure combines courage, magic, and life-changing quests as heroes confront challenges and uncover secrets."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795523400000,
-    "stopTs": 1795525200000,
-    "title": "Janta Toh Bolegi",
-    "desc": "The host asks locals to share their views on matters related to the state and the country."
-  },
-  {
-    "start": "12:55",
-    "stop": "13:25",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795524900000,
-    "stopTs": 1795526700000,
-    "title": "Gaon Ki Local",
-    "desc": "Speed News on rural issues."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795525200000,
-    "stopTs": 1795527000000,
-    "title": "Bulletin",
-    "desc": "The host presents the latest news and developments surrounding various current events."
-  },
-  {
-    "start": "13:25",
-    "stop": "14:25",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795526700000,
-    "stopTs": 1795530300000,
-    "title": "7 Ka Sangram",
-    "desc": "A debate show featuring heated discussions on current issues, offering diverse viewpoints and insights on topics that matter most in today&apos;s society."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795527000000,
-    "stopTs": 1795528800000,
-    "title": "CM Se Khas Mulakat",
-    "desc": "The host gives a detailed report on a meeting attended by the CM."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795528800000,
-    "stopTs": 1795530600000,
-    "title": "Hisaab Do Sarkaar",
-    "desc": "The host highlights some of the chief pressing issues affecting the populace."
-  },
-  {
-    "start": "14:25",
-    "stop": "14:55",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795530300000,
-    "stopTs": 1795532100000,
-    "title": "Jan Awaaz",
-    "desc": "Show on People&apos;s bytes."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795530600000,
-    "stopTs": 1795532400000,
-    "title": "Rastrahit Prime Time",
-    "desc": "The host presents crucial prime news and the updates relating to the welfare of the nation."
-  },
-  {
-    "start": "14:55",
-    "stop": "15:25",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795532100000,
-    "stopTs": 1795533900000,
-    "title": "Vande Bharat",
-    "desc": "Speed news covering the latest updates and developments in the country&apos;s transport and infrastructure particularly focused on the Vande Bharat project."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795532400000,
-    "stopTs": 1795534200000,
-    "title": "Bulletin",
-    "desc": "The host presents the latest news and developments surrounding various current events."
-  },
-  {
-    "start": "15:25",
-    "stop": "15:55",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795533900000,
-    "stopTs": 1795535700000,
-    "title": "TNA",
-    "desc": "Wellness, lifestyle, and motivation guide audiences through daily challenges, inspiring growth, positivity, and reflection."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795534200000,
-    "stopTs": 1795536000000,
-    "title": "Postmartm",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "15:55",
-    "stop": "16:25",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795535700000,
-    "stopTs": 1795537500000,
-    "title": "Mera Jila Meri Khabar",
-    "desc": "Culinary talent, creativity, and passion come alive in inspirational stories of cooking, innovation, and discovery."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795536000000,
-    "stopTs": 1795537800000,
-    "title": "Veerpath",
-    "desc": "The host updates the social, economic and political issues of the day."
-  },
-  {
-    "start": "16:25",
-    "stop": "16:55",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795537500000,
-    "stopTs": 1795539300000,
-    "title": "Khabrein Dinbhar Ki",
-    "desc": "News Bulletin of Entire Day&apos;s happening."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795537800000,
-    "stopTs": 1795539600000,
-    "title": "Bulletin",
-    "desc": "The host presents the latest news and developments surrounding various current events."
-  },
-  {
-    "start": "16:55",
-    "stop": "17:25",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795539300000,
-    "stopTs": 1795541100000,
-    "title": "Gaon Ki Local",
-    "desc": "Speed News on rural issues."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795539600000,
-    "stopTs": 1795541400000,
-    "title": "Sur Sartaj",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "17:25",
-    "stop": "17:55",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795541100000,
-    "stopTs": 1795542900000,
-    "title": "7 Ka Sangram",
-    "desc": "A debate show featuring heated discussions on current issues, offering diverse viewpoints and insights on topics that matter most in today&apos;s society."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795541400000,
-    "stopTs": 1795543200000,
-    "title": "Channel On Wheel",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "17:55",
-    "stop": "19:25",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795542900000,
-    "stopTs": 1795548300000,
-    "title": "Viral Trending",
-    "desc": "Based on Viral Videos."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795543200000,
-    "stopTs": 1795545000000,
-    "title": "Channel On Wheel",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795545000000,
-    "stopTs": 1795546800000,
-    "title": "Morning News",
-    "desc": "The host presents the latest news on a variety of topics of national and global concern."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795546800000,
-    "stopTs": 1795548600000,
-    "title": "Daily Update",
-    "desc": "The host sheds light on the latest news updates from across the nation and the world."
-  },
-  {
-    "start": "19:25",
-    "stop": "19:55",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795548300000,
-    "stopTs": 1795550100000,
-    "title": "Khabrein Dinbhar Ki",
-    "desc": "News Bulletin of Entire Day&apos;s happening."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795548600000,
-    "stopTs": 1795550400000,
-    "title": "Rajasthan News",
-    "desc": "The host provides updates on various social, economic and political issues in Rajasthan."
-  },
-  {
-    "start": "19:55",
-    "stop": "20:25",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795550100000,
-    "stopTs": 1795551900000,
-    "title": "Hunkaar",
-    "desc": "Debate Show on People&apos;s Problems."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795550400000,
-    "stopTs": 1795552200000,
-    "title": "Jan Bhakti",
-    "desc": "The host presents the latest news and updates regarding religious events and festivals."
-  },
-  {
-    "start": "20:25",
-    "stop": "20:55",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795551900000,
-    "stopTs": 1795553700000,
-    "title": "Dopahar Samachar",
-    "desc": "Main Stories of Nation-World."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795552200000,
-    "stopTs": 1795554000000,
-    "title": "Jan Ki Charcha",
-    "desc": "A panel of local representatives discuss various issues faced by the common people."
-  },
-  {
-    "start": "20:55",
-    "stop": "21:25",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795553700000,
-    "stopTs": 1795555500000,
-    "title": "TNP Express",
-    "desc": "Fast-paced news coverage brings you breaking stories and updates on the go, ensuring you never miss out on important events."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795554000000,
-    "stopTs": 1795555800000,
-    "title": "Jan Super Fast",
-    "desc": "The host presents the latest updates on various social, economic and political issues."
-  },
-  {
-    "start": "21:25",
-    "stop": "21:55",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795555500000,
-    "stopTs": 1795557300000,
-    "title": "Madhya Pradesh-Chhattisgarh",
-    "desc": "News from MP and Chhattisgarh."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795555800000,
-    "stopTs": 1795557600000,
-    "title": "Khabar Din Bhar",
-    "desc": "The host presents some of the latest updates, current affairs and developments."
-  },
-  {
-    "start": "21:55",
-    "stop": "22:25",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795557300000,
-    "stopTs": 1795559100000,
-    "title": "Up Bulletin",
-    "desc": "Spiritual growth, devotion, and perseverance guide characters through adversity, helping them find inner peace and meaning."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795557600000,
-    "stopTs": 1795559400000,
-    "title": "National Khabar",
-    "desc": "The host provides the latest updates and stories from around the country and the world."
-  },
-  {
-    "start": "22:25",
-    "stop": "22:45",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795559100000,
-    "stopTs": 1795560300000,
-    "title": "Khabrein Dinbhar Ki",
-    "desc": "News Bulletin of Entire Day&apos;s happening."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795559400000,
-    "stopTs": 1795561200000,
-    "title": "Dear Docter",
-    "desc": "The host interacts with a doctor who provides insights into various health issues."
-  },
-  {
-    "start": "22:45",
-    "stop": "23:45",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795560300000,
-    "stopTs": 1795563900000,
-    "title": "7 Ka Sangram",
-    "desc": "A debate show featuring heated discussions on current issues, offering diverse viewpoints and insights on topics that matter most in today&apos;s society."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795561200000,
-    "stopTs": 1795563000000,
-    "title": "In Short Story",
-    "desc": "Bringing the best in television."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795563000000,
-    "stopTs": 1795564800000,
-    "title": "Bollywood News",
-    "desc": "The host collates and presents the latest news updates from the world of Bollywood."
-  },
-  {
-    "start": "23:45",
-    "stop": "23:55",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795563900000,
-    "stopTs": 1795564500000,
-    "title": "Bulletin",
-    "desc": "A roundup of top stories from politics, world news, sports, and entertainment-all served fresh and fast to keep you informed."
-  },
-  {
-    "start": "23:55",
-    "stop": "00:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795564500000,
-    "stopTs": 1795566600000,
-    "title": "TNP Special",
-    "desc": "Family comedy-drama blends humor, relationships, and lessons learned as characters face unexpected situations and conflicts."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795564800000,
-    "stopTs": 1795566600000,
-    "title": "Bhajan Darshan",
-    "desc": "A comprehensive compilation of devotional songs and music is played back to back."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795566600000,
-    "stopTs": 1795570200000,
-    "title": "Hamar Pradesh",
-    "desc": "The host presents information about the issues of the day and updates on current events."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:25",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795568400000,
-    "stopTs": 1795569900000,
-    "title": "Up Bulletin",
-    "desc": "Spiritual growth, devotion, and perseverance guide characters through adversity, helping them find inner peace and meaning."
-  },
-  {
-    "start": "01:25",
-    "stop": "01:55",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795569900000,
-    "stopTs": 1795571700000,
-    "title": "TNP Tea Bulletin",
-    "desc": "Catch up with lighter, feel-good stories covering positive news, human interest tales, and heartwarming events from around the country."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795570200000,
-    "stopTs": 1795572000000,
-    "title": "National Bulletin",
-    "desc": "The host delivers ongoing news from India and worldwide with expert insights and updates."
-  },
-  {
-    "start": "01:55",
-    "stop": "02:25",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795571700000,
-    "stopTs": 1795573500000,
-    "title": "Mera Jila Meri Khabar",
-    "desc": "Culinary talent, creativity, and passion come alive in inspirational stories of cooking, innovation, and discovery."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795572000000,
-    "stopTs": 1795573800000,
-    "title": "Good Morning Bharat",
-    "desc": "The host presents a sharp overview of India&apos;s top headlines each morning."
-  },
-  {
-    "start": "02:25",
-    "stop": "02:55",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795573500000,
-    "stopTs": 1795575300000,
-    "title": "Breakfast Superfast",
-    "desc": "Get quick and essential updates on national and international events with superfast news coverage, keeping you informed without wasting time."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795573800000,
-    "stopTs": 1795575600000,
-    "title": "Bhagya Dasha",
-    "desc": "The presenter sheds light on the latest news stories around the country."
-  },
-  {
-    "start": "02:55",
-    "stop": "03:25",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795575300000,
-    "stopTs": 1795577100000,
-    "title": "12 Noon Special",
-    "desc": "Personal ambition, determination, and dreams drive an inspirational story of resilience, achievement, and growth."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795575600000,
-    "stopTs": 1795577400000,
-    "title": "24 Min",
-    "desc": "The host presents some of the latest updates, current affairs and developments."
-  },
-  {
-    "start": "03:25",
-    "stop": "03:55",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795577100000,
-    "stopTs": 1795578900000,
-    "title": "Morning Prime Time",
-    "desc": "Main Stories of the Day."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795577400000,
-    "stopTs": 1795579200000,
-    "title": "Desh Mein Aaj",
-    "desc": "The host presents the latest news stories and developments around India."
-  },
-  {
-    "start": "03:55",
-    "stop": "04:25",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795578900000,
-    "stopTs": 1795580700000,
-    "title": "Breakfast Superfast",
-    "desc": "Get quick and essential updates on national and international events with superfast news coverage, keeping you informed without wasting time."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795579200000,
-    "stopTs": 1795581000000,
-    "title": "Sehatmand Bharat",
-    "desc": "The host provides updates on initiatives aimed at promoting a healthier nation."
-  },
-  {
-    "start": "04:25",
-    "stop": "05:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795580700000,
-    "stopTs": 1795582800000,
-    "title": "Bulletin",
-    "desc": "A roundup of top stories from politics, world news, sports, and entertainment-all served fresh and fast to keep you informed."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795581000000,
-    "stopTs": 1795582800000,
-    "title": "Mudda Bharat Ka",
-    "desc": "The host delivers the latest breaking news and updates on global as well as local events."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795582800000,
-    "stopTs": 1795584600000,
-    "title": "Bulletin",
-    "desc": "The host presents the latest news and developments surrounding various current events."
-  },
-  {
-    "start": "05:25",
-    "stop": "05:55",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795584300000,
-    "stopTs": 1795586100000,
-    "title": "11 Badi Khabrein",
-    "desc": "Main Stories of Nation-World."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795584600000,
-    "stopTs": 1795586400000,
-    "title": "Siyasat",
-    "desc": "The host presents a special report on the news surrounding the contemporary Indian politics."
-  },
-  {
-    "start": "05:55",
-    "stop": "06:25",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP NEWS",
-    "startTs": 1795586100000,
-    "stopTs": 1795587900000,
-    "title": "Jan Awaz",
-    "desc": "A creative journey highlights personal expression, artistic growth, and the pursuit of dreams against all odds."
-  },
-  {
-    "start": "06:00",
-    "stop": "06:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
-    "startTs": 1795586400000,
-    "stopTs": 1795588200000,
-    "title": "Pol Toh Kholenge",
-    "desc": "The host presents updates surrounding the Lok Sabha elections in various regions of India."
-  },
-  {
     "start": "06:25",
     "stop": "07:25",
     "channel": "TNPNews.in",
@@ -937,24 +13,24 @@
   {
     "start": "06:30",
     "stop": "07:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795588200000,
     "stopTs": 1795590000000,
     "title": "Sajna Hai Mujhe",
-    "desc": "The host shares beauty tips and techniques to help viewers experiment with their looks."
+    "desc": "The host shares a host of beauty tips, tricks and techniques to help viewers groom themselves and experiment with their looks."
   },
   {
     "start": "07:00",
     "stop": "07:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795590000000,
     "stopTs": 1795591800000,
     "title": "Bulletin",
-    "desc": "The host presents the latest news and developments surrounding various current events."
+    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events."
   },
   {
     "start": "07:25",
@@ -970,13 +46,13 @@
   {
     "start": "07:30",
     "stop": "08:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795591800000,
     "stopTs": 1795593600000,
     "title": "Bharat Ki Beti",
-    "desc": "The host presents the latest news stories surrounding various issues around the country."
+    "desc": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country."
   },
   {
     "start": "07:55",
@@ -992,13 +68,13 @@
   {
     "start": "08:00",
     "stop": "08:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795593600000,
     "stopTs": 1795595400000,
     "title": "Bazaar Garam Hai",
-    "desc": "The host collates and presents the latest updates and developments in the share market."
+    "desc": "The host collates and presents the latest updates and developments about the share market and provides tips related to investments."
   },
   {
     "start": "08:25",
@@ -1014,13 +90,13 @@
   {
     "start": "08:30",
     "stop": "09:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795595400000,
     "stopTs": 1795597200000,
     "title": "Filmy Tadka",
-    "desc": "The host sheds light on the latest news stories pertaining to the entertainment industry."
+    "desc": "The host sheds light on the latest news stories pertaining to the entertainment industry and shares updates on renowned celebrities."
   },
   {
     "start": "08:55",
@@ -1036,13 +112,13 @@
   {
     "start": "09:00",
     "stop": "09:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795597200000,
     "stopTs": 1795599000000,
     "title": "Bulletin",
-    "desc": "The host presents the latest news and developments surrounding various current events."
+    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events."
   },
   {
     "start": "09:25",
@@ -1058,13 +134,13 @@
   {
     "start": "09:30",
     "stop": "10:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795599000000,
     "stopTs": 1795600800000,
     "title": "Recipe Mein Aaj",
-    "desc": "An eminent chef shares and demonstrates cooking recipes and dishes."
+    "desc": "An expert chef shares recipes from different cuisines, along with demonstrating the process of cooking the dish, step by step."
   },
   {
     "start": "09:55",
@@ -1080,13 +156,13 @@
   {
     "start": "10:00",
     "stop": "10:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795600800000,
     "stopTs": 1795602600000,
     "title": "Bollywood",
-    "desc": "The host provides the latest celebrity news and gossip from the Bollywood film industry."
+    "desc": "The host provides the latest Bollywood news and gossip while also showcasing trailers and promotions for upcoming films and television series."
   },
   {
     "start": "10:25",
@@ -1102,13 +178,13 @@
   {
     "start": "10:30",
     "stop": "11:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795602600000,
     "stopTs": 1795604400000,
     "title": "Khas Mulakat",
-    "desc": "The host holds an insightful conversation with various esteemed personalities."
+    "desc": "The host holds an insightful conversation with esteemed personalities from different fields, who share their valuable opinions."
   },
   {
     "start": "10:45",
@@ -1124,13 +200,13 @@
   {
     "start": "11:00",
     "stop": "11:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795604400000,
     "stopTs": 1795606200000,
     "title": "Bulletin",
-    "desc": "The host presents the latest news and developments surrounding various current events."
+    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events."
   },
   {
     "start": "11:25",
@@ -1146,13 +222,13 @@
   {
     "start": "11:30",
     "stop": "12:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795606200000,
     "stopTs": 1795608000000,
     "title": "Khelega India",
-    "desc": "The host sheds light on the latest news updates and key stories pertaining to the field of sports."
+    "desc": "The host sheds light on the latest news updates and key stories pertaining to the field of sports from around the country and the world."
   },
   {
     "start": "11:55",
@@ -1168,9 +244,9 @@
   {
     "start": "12:00",
     "stop": "12:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795608000000,
     "stopTs": 1795609800000,
     "title": "Tha Koi Gumnaam",
@@ -1190,13 +266,13 @@
   {
     "start": "12:30",
     "stop": "13:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795609800000,
     "stopTs": 1795611600000,
     "title": "Janta Toh Bolegi",
-    "desc": "The host asks locals to share their views on matters related to the state and the country."
+    "desc": "The host interviews locals on matters related to the state and country, encouraging them to share their views on these issues."
   },
   {
     "start": "12:55",
@@ -1212,13 +288,13 @@
   {
     "start": "13:00",
     "stop": "13:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795611600000,
     "stopTs": 1795613400000,
     "title": "Bulletin",
-    "desc": "The host presents the latest news and developments surrounding various current events."
+    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events."
   },
   {
     "start": "13:25",
@@ -1234,24 +310,24 @@
   {
     "start": "13:30",
     "stop": "14:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795613400000,
     "stopTs": 1795615200000,
     "title": "CM Se Khas Mulakat",
-    "desc": "The host gives a detailed report on a meeting attended by the CM."
+    "desc": "The host provides a detailed report on a meeting attended by the chief minister and sheds light on the issues and topics discussed during it."
   },
   {
     "start": "14:00",
     "stop": "14:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795615200000,
     "stopTs": 1795617000000,
     "title": "Hisaab Do Sarkaar",
-    "desc": "The host highlights some of the chief pressing issues affecting the populace."
+    "desc": "The host highlights some of the chief pressing issues affecting the populace and demands redress from the government for public grievances."
   },
   {
     "start": "14:25",
@@ -1267,13 +343,13 @@
   {
     "start": "14:30",
     "stop": "15:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795617000000,
     "stopTs": 1795618800000,
     "title": "Rastrahit Prime Time",
-    "desc": "The host presents crucial prime news and the updates relating to the welfare of the nation."
+    "desc": "The host presents essential prime news and the latest updates on governance, political, social, and economic issues, and major developments that impact the nation&apos;s welfare."
   },
   {
     "start": "14:55",
@@ -1289,13 +365,13 @@
   {
     "start": "15:00",
     "stop": "15:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795618800000,
     "stopTs": 1795620600000,
     "title": "Bulletin",
-    "desc": "The host presents the latest news and developments surrounding various current events."
+    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events."
   },
   {
     "start": "15:25",
@@ -1311,9 +387,9 @@
   {
     "start": "15:30",
     "stop": "16:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795620600000,
     "stopTs": 1795622400000,
     "title": "Postmartm",
@@ -1333,13 +409,13 @@
   {
     "start": "16:00",
     "stop": "16:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795622400000,
     "stopTs": 1795624200000,
     "title": "Veerpath",
-    "desc": "The host updates the social, economic and political issues of the day."
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
   },
   {
     "start": "16:25",
@@ -1355,13 +431,13 @@
   {
     "start": "16:30",
     "stop": "17:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795624200000,
     "stopTs": 1795626000000,
     "title": "Bulletin",
-    "desc": "The host presents the latest news and developments surrounding various current events."
+    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events."
   },
   {
     "start": "16:55",
@@ -1377,9 +453,9 @@
   {
     "start": "17:00",
     "stop": "17:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795626000000,
     "stopTs": 1795627800000,
     "title": "Sur Sartaj",
@@ -1399,9 +475,9 @@
   {
     "start": "17:30",
     "stop": "18:00",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795627800000,
     "stopTs": 1795629600000,
     "title": "Channel On Wheel",
@@ -1421,13 +497,35 @@
   {
     "start": "18:00",
     "stop": "18:30",
-    "channel": "TNPNews.in",
-    "channelId": "TNPNews.in",
-    "channelName": "TNP News",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
     "startTs": 1795629600000,
     "stopTs": 1795631400000,
     "title": "Channel On Wheel",
     "desc": "Bringing the best in television."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795631400000,
+    "stopTs": 1795633200000,
+    "title": "Morning News",
+    "desc": "The host provides an in-depth look at some of the latest news, current affairs and key developments on various topics of national and global concern."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795633200000,
+    "stopTs": 1795635000000,
+    "title": "Daily Update",
+    "desc": "The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world."
   },
   {
     "start": "19:25",
@@ -1441,6 +539,17 @@
     "desc": "News Bulletin of Entire Day&apos;s happening."
   },
   {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795635000000,
+    "stopTs": 1795636800000,
+    "title": "Rajasthan News",
+    "desc": "The host presents the latest updates on various social, economic and political issues and provides information on the current events in Rajasthan."
+  },
+  {
     "start": "19:55",
     "stop": "20:25",
     "channel": "TNPNews.in",
@@ -1450,6 +559,17 @@
     "stopTs": 1795638300000,
     "title": "Hunkaar",
     "desc": "Debate Show on People&apos;s Problems."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795636800000,
+    "stopTs": 1795638600000,
+    "title": "Jan Bhakti",
+    "desc": "The host presents the latest news and updates regarding religious events, festivals and auspicious occasions happening in the country and around the world."
   },
   {
     "start": "20:25",
@@ -1463,6 +583,17 @@
     "desc": "Main Stories of Nation-World."
   },
   {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795638600000,
+    "stopTs": 1795640400000,
+    "title": "Jan Ki Charcha",
+    "desc": "A panel of local representatives discuss various issues faced by the common people and offer their views on the ongoing developments in the country."
+  },
+  {
     "start": "20:55",
     "stop": "21:25",
     "channel": "TNPNews.in",
@@ -1472,6 +603,17 @@
     "stopTs": 1795641900000,
     "title": "TNP Express",
     "desc": "Fast-paced news coverage brings you breaking stories and updates on the go, ensuring you never miss out on important events."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795640400000,
+    "stopTs": 1795642200000,
+    "title": "Jan Super Fast",
+    "desc": "The host presents the latest updates and headlines on the social, economic, and political issues and shares information on current affairs."
   },
   {
     "start": "21:25",
@@ -1485,6 +627,17 @@
     "desc": "News from MP and Chhattisgarh."
   },
   {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795642200000,
+    "stopTs": 1795644000000,
+    "title": "Khabar Din Bhar",
+    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues."
+  },
+  {
     "start": "21:55",
     "stop": "22:25",
     "channel": "TNPNews.in",
@@ -1494,6 +647,17 @@
     "stopTs": 1795645500000,
     "title": "Up Bulletin",
     "desc": "Spiritual growth, devotion, and perseverance guide characters through adversity, helping them find inner peace and meaning."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795644000000,
+    "stopTs": 1795645800000,
+    "title": "National Khabar",
+    "desc": "The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country."
   },
   {
     "start": "22:25",
@@ -1507,6 +671,17 @@
     "desc": "News Bulletin of Entire Day&apos;s happening."
   },
   {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795645800000,
+    "stopTs": 1795647600000,
+    "title": "Dear Docter",
+    "desc": "The host engages in a conversation with a professional doctor who provides insights into various health issues and their remedies."
+  },
+  {
     "start": "22:45",
     "stop": "23:45",
     "channel": "TNPNews.in",
@@ -1516,6 +691,28 @@
     "stopTs": 1795650300000,
     "title": "7 Ka Sangram",
     "desc": "A debate show featuring heated discussions on current issues, offering diverse viewpoints and insights on topics that matter most in today&apos;s society."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795647600000,
+    "stopTs": 1795649400000,
+    "title": "In Short Story",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795649400000,
+    "stopTs": 1795651200000,
+    "title": "Bollywood News",
+    "desc": "The host collates and presents the latest news, sensational updates and information about new movies from the world of Bollywood."
   },
   {
     "start": "23:45",
@@ -1538,6 +735,17 @@
     "stopTs": 1795653000000,
     "title": "TNP Special",
     "desc": "Family comedy-drama blends humor, relationships, and lessons learned as characters face unexpected situations and conflicts."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795651200000,
+    "stopTs": 1795653000000,
+    "title": "Bhajan Darshan",
+    "desc": "A comprehensive compilation of devotional songs and music to aid in religious worship and meditation is played back to back."
   },
   {
     "start": "00:30",
@@ -1573,6 +781,17 @@
     "desc": "Catch up with lighter, feel-good stories covering positive news, human interest tales, and heartwarming events from around the country."
   },
   {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795656600000,
+    "stopTs": 1795658400000,
+    "title": "National Bulletin",
+    "desc": "The host delivers the latest news, providing comprehensive coverage and analysis of events in India and around the world."
+  },
+  {
     "start": "01:55",
     "stop": "02:25",
     "channel": "TNPNews.in",
@@ -1582,6 +801,17 @@
     "stopTs": 1795659900000,
     "title": "Mera Jila Meri Khabar",
     "desc": "Culinary talent, creativity, and passion come alive in inspirational stories of cooking, innovation, and discovery."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795658400000,
+    "stopTs": 1795660200000,
+    "title": "Good Morning Bharat",
+    "desc": "The host presents a sharp overview of India&apos;s top headlines, offering key insights into key political shifts, economic updates and social developments shaping the day."
   },
   {
     "start": "02:25",
@@ -1595,6 +825,17 @@
     "desc": "Get quick and essential updates on national and international events with superfast news coverage, keeping you informed without wasting time."
   },
   {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795660200000,
+    "stopTs": 1795662000000,
+    "title": "Bhagya Dasha",
+    "desc": "The presenter sheds light on the latest news stories and developments surrounding various political and socio-economic issues around the country."
+  },
+  {
     "start": "02:55",
     "stop": "03:25",
     "channel": "TNPNews.in",
@@ -1604,6 +845,17 @@
     "stopTs": 1795663500000,
     "title": "12 Noon Special",
     "desc": "Personal ambition, determination, and dreams drive an inspirational story of resilience, achievement, and growth."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795662000000,
+    "stopTs": 1795663800000,
+    "title": "24 Min",
+    "desc": "The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues."
   },
   {
     "start": "03:25",
@@ -1617,6 +869,17 @@
     "desc": "Main Stories of the Day."
   },
   {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795663800000,
+    "stopTs": 1795665600000,
+    "title": "Desh Mein Aaj",
+    "desc": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around India."
+  },
+  {
     "start": "03:55",
     "stop": "04:25",
     "channel": "TNPNews.in",
@@ -1628,6 +891,17 @@
     "desc": "Get quick and essential updates on national and international events with superfast news coverage, keeping you informed without wasting time."
   },
   {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795665600000,
+    "stopTs": 1795667400000,
+    "title": "Sehatmand Bharat",
+    "desc": "The host provides updates on health policies, expert insights and initiatives aimed at promoting a healthier nation for all citizens."
+  },
+  {
     "start": "04:25",
     "stop": "05:00",
     "channel": "TNPNews.in",
@@ -1637,6 +911,17 @@
     "stopTs": 1795669200000,
     "title": "Bulletin",
     "desc": "A roundup of top stories from politics, world news, sports, and entertainment-all served fresh and fast to keep you informed."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795667400000,
+    "stopTs": 1795669200000,
+    "title": "Mudda Bharat Ka",
+    "desc": "The host delivers the latest breaking news, in-depth analysis and updates on global as well as local events to keep audiences connected."
   },
   {
     "start": "05:00",
@@ -1661,6 +946,17 @@
     "desc": "Main Stories of Nation-World."
   },
   {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795671000000,
+    "stopTs": 1795672800000,
+    "title": "Siyasat",
+    "desc": "The host presents a special report on the news and events surrounding contemporary Indian politics, examining key issues and developments in the nation&apos;s political landscape."
+  },
+  {
     "start": "05:55",
     "stop": "06:25",
     "channel": "TNPNews.in",
@@ -1670,6 +966,17 @@
     "stopTs": 1795674300000,
     "title": "Jan Awaz",
     "desc": "A creative journey highlights personal expression, artistic growth, and the pursuit of dreams against all odds."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795672800000,
+    "stopTs": 1795674600000,
+    "title": "Pol Toh Kholenge",
+    "desc": "The host presents and sheds light on the latest updates and developments surrounding the Lok Sabha elections in various regions of India."
   },
   {
     "start": "06:25",
@@ -1683,6 +990,28 @@
     "desc": "Personal ambition, determination, and dreams drive an inspirational story of resilience, achievement, and growth."
   },
   {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795674600000,
+    "stopTs": 1795676400000,
+    "title": "Sajna Hai Mujhe",
+    "desc": "The host shares a host of beauty tips, tricks and techniques to help viewers groom themselves and experiment with their looks."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795676400000,
+    "stopTs": 1795678200000,
+    "title": "Bulletin",
+    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events."
+  },
+  {
     "start": "07:25",
     "stop": "07:55",
     "channel": "TNPNews.in",
@@ -1692,6 +1021,17 @@
     "stopTs": 1795679700000,
     "title": "Bulletin",
     "desc": "A roundup of top stories from politics, world news, sports, and entertainment-all served fresh and fast to keep you informed."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795678200000,
+    "stopTs": 1795680000000,
+    "title": "Bharat Ki Beti",
+    "desc": "The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country."
   },
   {
     "start": "07:55",
@@ -1705,6 +1045,17 @@
     "desc": "Debate Show on People&apos;s Problems."
   },
   {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795680000000,
+    "stopTs": 1795681800000,
+    "title": "Bazaar Garam Hai",
+    "desc": "The host collates and presents the latest updates and developments about the share market and provides tips related to investments."
+  },
+  {
     "start": "08:25",
     "stop": "08:55",
     "channel": "TNPNews.in",
@@ -1714,5 +1065,676 @@
     "stopTs": 1795683300000,
     "title": "Dopahar Samachar",
     "desc": "Main Stories of Nation-World."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795681800000,
+    "stopTs": 1795683600000,
+    "title": "Filmy Tadka",
+    "desc": "The host sheds light on the latest news stories pertaining to the entertainment industry and shares updates on renowned celebrities."
+  },
+  {
+    "start": "08:55",
+    "stop": "09:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795683300000,
+    "stopTs": 1795685100000,
+    "title": "TNP Express",
+    "desc": "Fast-paced news coverage brings you breaking stories and updates on the go, ensuring you never miss out on important events."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795683600000,
+    "stopTs": 1795685400000,
+    "title": "Bulletin",
+    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events."
+  },
+  {
+    "start": "09:25",
+    "stop": "09:55",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795685100000,
+    "stopTs": 1795686900000,
+    "title": "Madhya Pradesh-Chhattisgarh",
+    "desc": "News from MP and Chhattisgarh."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795685400000,
+    "stopTs": 1795687200000,
+    "title": "Recipe Mein Aaj",
+    "desc": "An expert chef shares recipes from different cuisines, along with demonstrating the process of cooking the dish, step by step."
+  },
+  {
+    "start": "09:55",
+    "stop": "10:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795686900000,
+    "stopTs": 1795688700000,
+    "title": "Up Bulletin",
+    "desc": "Spiritual growth, devotion, and perseverance guide characters through adversity, helping them find inner peace and meaning."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795687200000,
+    "stopTs": 1795689000000,
+    "title": "Bollywood",
+    "desc": "The host provides the latest Bollywood news and gossip while also showcasing trailers and promotions for upcoming films and television series."
+  },
+  {
+    "start": "10:25",
+    "stop": "10:45",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795688700000,
+    "stopTs": 1795689900000,
+    "title": "Bulletin",
+    "desc": "A roundup of top stories from politics, world news, sports, and entertainment-all served fresh and fast to keep you informed."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795689000000,
+    "stopTs": 1795690800000,
+    "title": "Khas Mulakat",
+    "desc": "The host holds an insightful conversation with esteemed personalities from different fields, who share their valuable opinions."
+  },
+  {
+    "start": "10:45",
+    "stop": "11:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795689900000,
+    "stopTs": 1795692300000,
+    "title": "Bulletin",
+    "desc": "A roundup of top stories from politics, world news, sports, and entertainment-all served fresh and fast to keep you informed."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795690800000,
+    "stopTs": 1795692600000,
+    "title": "Bulletin",
+    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events."
+  },
+  {
+    "start": "11:25",
+    "stop": "11:55",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795692300000,
+    "stopTs": 1795694100000,
+    "title": "5 Baje Ki 5 Badi Khabere",
+    "desc": "Characters navigate societal pressures, ethical dilemmas, and cultural norms while discovering their inner strength."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795692600000,
+    "stopTs": 1795694400000,
+    "title": "Khelega India",
+    "desc": "The host sheds light on the latest news updates and key stories pertaining to the field of sports from around the country and the world."
+  },
+  {
+    "start": "11:55",
+    "stop": "12:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795694100000,
+    "stopTs": 1795695900000,
+    "title": "TNP Special",
+    "desc": "Family comedy-drama blends humor, relationships, and lessons learned as characters face unexpected situations and conflicts."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795694400000,
+    "stopTs": 1795696200000,
+    "title": "Tha Koi Gumnaam",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "12:25",
+    "stop": "12:55",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795695900000,
+    "stopTs": 1795697700000,
+    "title": "Hunkar",
+    "desc": "Fantasy adventure combines courage, magic, and life-changing quests as heroes confront challenges and uncover secrets."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795696200000,
+    "stopTs": 1795698000000,
+    "title": "Janta Toh Bolegi",
+    "desc": "The host interviews locals on matters related to the state and country, encouraging them to share their views on these issues."
+  },
+  {
+    "start": "12:55",
+    "stop": "13:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795697700000,
+    "stopTs": 1795699500000,
+    "title": "Gaon Ki Local",
+    "desc": "Speed News on rural issues."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795698000000,
+    "stopTs": 1795699800000,
+    "title": "Bulletin",
+    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events."
+  },
+  {
+    "start": "13:25",
+    "stop": "14:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795699500000,
+    "stopTs": 1795703100000,
+    "title": "7 Ka Sangram",
+    "desc": "A debate show featuring heated discussions on current issues, offering diverse viewpoints and insights on topics that matter most in today&apos;s society."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795699800000,
+    "stopTs": 1795701600000,
+    "title": "CM Se Khas Mulakat",
+    "desc": "The host provides a detailed report on a meeting attended by the chief minister and sheds light on the issues and topics discussed during it."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795701600000,
+    "stopTs": 1795703400000,
+    "title": "Hisaab Do Sarkaar",
+    "desc": "The host highlights some of the chief pressing issues affecting the populace and demands redress from the government for public grievances."
+  },
+  {
+    "start": "14:25",
+    "stop": "14:55",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795703100000,
+    "stopTs": 1795704900000,
+    "title": "Jan Awaaz",
+    "desc": "Show on People&apos;s bytes."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795703400000,
+    "stopTs": 1795705200000,
+    "title": "Rastrahit Prime Time",
+    "desc": "The host presents essential prime news and the latest updates on governance, political, social, and economic issues, and major developments that impact the nation&apos;s welfare."
+  },
+  {
+    "start": "14:55",
+    "stop": "15:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795704900000,
+    "stopTs": 1795706700000,
+    "title": "Vande Bharat",
+    "desc": "Speed news covering the latest updates and developments in the country&apos;s transport and infrastructure particularly focused on the Vande Bharat project."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795705200000,
+    "stopTs": 1795707000000,
+    "title": "Bulletin",
+    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events."
+  },
+  {
+    "start": "15:25",
+    "stop": "15:55",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795706700000,
+    "stopTs": 1795708500000,
+    "title": "TNA",
+    "desc": "Wellness, lifestyle, and motivation guide audiences through daily challenges, inspiring growth, positivity, and reflection."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795707000000,
+    "stopTs": 1795708800000,
+    "title": "Postmartm",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "15:55",
+    "stop": "16:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795708500000,
+    "stopTs": 1795710300000,
+    "title": "Mera Jila Meri Khabar",
+    "desc": "Culinary talent, creativity, and passion come alive in inspirational stories of cooking, innovation, and discovery."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795708800000,
+    "stopTs": 1795710600000,
+    "title": "Veerpath",
+    "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events."
+  },
+  {
+    "start": "16:25",
+    "stop": "16:55",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795710300000,
+    "stopTs": 1795712100000,
+    "title": "Khabrein Dinbhar Ki",
+    "desc": "News Bulletin of Entire Day&apos;s happening."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795710600000,
+    "stopTs": 1795712400000,
+    "title": "Bulletin",
+    "desc": "The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events."
+  },
+  {
+    "start": "16:55",
+    "stop": "17:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795712100000,
+    "stopTs": 1795713900000,
+    "title": "Gaon Ki Local",
+    "desc": "Speed News on rural issues."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795712400000,
+    "stopTs": 1795714200000,
+    "title": "Sur Sartaj",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "17:25",
+    "stop": "17:55",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795713900000,
+    "stopTs": 1795715700000,
+    "title": "7 Ka Sangram",
+    "desc": "A debate show featuring heated discussions on current issues, offering diverse viewpoints and insights on topics that matter most in today&apos;s society."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795714200000,
+    "stopTs": 1795716000000,
+    "title": "Channel On Wheel",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "17:55",
+    "stop": "19:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795715700000,
+    "stopTs": 1795721100000,
+    "title": "Viral Trending",
+    "desc": "Based on Viral Videos."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "TNPNewsHD.in",
+    "channelId": "TNPNewsHD.in",
+    "channelName": "TNP News HD",
+    "startTs": 1795716000000,
+    "stopTs": 1795717800000,
+    "title": "Channel On Wheel",
+    "desc": "Bringing the best in television."
+  },
+  {
+    "start": "19:25",
+    "stop": "19:55",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795721100000,
+    "stopTs": 1795722900000,
+    "title": "Khabrein Dinbhar Ki",
+    "desc": "News Bulletin of Entire Day&apos;s happening."
+  },
+  {
+    "start": "19:55",
+    "stop": "20:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795722900000,
+    "stopTs": 1795724700000,
+    "title": "Hunkaar",
+    "desc": "Debate Show on People&apos;s Problems."
+  },
+  {
+    "start": "20:25",
+    "stop": "20:55",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795724700000,
+    "stopTs": 1795726500000,
+    "title": "Dopahar Samachar",
+    "desc": "Main Stories of Nation-World."
+  },
+  {
+    "start": "20:55",
+    "stop": "21:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795726500000,
+    "stopTs": 1795728300000,
+    "title": "TNP Express",
+    "desc": "Fast-paced news coverage brings you breaking stories and updates on the go, ensuring you never miss out on important events."
+  },
+  {
+    "start": "21:25",
+    "stop": "21:55",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795728300000,
+    "stopTs": 1795730100000,
+    "title": "Madhya Pradesh-Chhattisgarh",
+    "desc": "News from MP and Chhattisgarh."
+  },
+  {
+    "start": "21:55",
+    "stop": "22:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795730100000,
+    "stopTs": 1795731900000,
+    "title": "Up Bulletin",
+    "desc": "Spiritual growth, devotion, and perseverance guide characters through adversity, helping them find inner peace and meaning."
+  },
+  {
+    "start": "22:25",
+    "stop": "22:45",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795731900000,
+    "stopTs": 1795733100000,
+    "title": "Khabrein Dinbhar Ki",
+    "desc": "News Bulletin of Entire Day&apos;s happening."
+  },
+  {
+    "start": "22:45",
+    "stop": "23:45",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795733100000,
+    "stopTs": 1795736700000,
+    "title": "7 Ka Sangram",
+    "desc": "A debate show featuring heated discussions on current issues, offering diverse viewpoints and insights on topics that matter most in today&apos;s society."
+  },
+  {
+    "start": "23:45",
+    "stop": "23:55",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795736700000,
+    "stopTs": 1795737300000,
+    "title": "Bulletin",
+    "desc": "A roundup of top stories from politics, world news, sports, and entertainment-all served fresh and fast to keep you informed."
+  },
+  {
+    "start": "23:55",
+    "stop": "00:30",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795737300000,
+    "stopTs": 1795739400000,
+    "title": "TNP Special",
+    "desc": "Family comedy-drama blends humor, relationships, and lessons learned as characters face unexpected situations and conflicts."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795739400000,
+    "stopTs": 1795741200000,
+    "title": "Bulletin",
+    "desc": "A roundup of top stories from politics, world news, sports, and entertainment-all served fresh and fast to keep you informed."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795741200000,
+    "stopTs": 1795742700000,
+    "title": "Up Bulletin",
+    "desc": "Spiritual growth, devotion, and perseverance guide characters through adversity, helping them find inner peace and meaning."
+  },
+  {
+    "start": "01:25",
+    "stop": "01:55",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795742700000,
+    "stopTs": 1795744500000,
+    "title": "TNP Tea Bulletin",
+    "desc": "Catch up with lighter, feel-good stories covering positive news, human interest tales, and heartwarming events from around the country."
+  },
+  {
+    "start": "01:55",
+    "stop": "02:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795744500000,
+    "stopTs": 1795746300000,
+    "title": "Mera Jila Meri Khabar",
+    "desc": "Culinary talent, creativity, and passion come alive in inspirational stories of cooking, innovation, and discovery."
+  },
+  {
+    "start": "02:25",
+    "stop": "02:55",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795746300000,
+    "stopTs": 1795748100000,
+    "title": "Breakfast Superfast",
+    "desc": "Get quick and essential updates on national and international events with superfast news coverage, keeping you informed without wasting time."
+  },
+  {
+    "start": "02:55",
+    "stop": "03:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795748100000,
+    "stopTs": 1795749900000,
+    "title": "12 Noon Special",
+    "desc": "Personal ambition, determination, and dreams drive an inspirational story of resilience, achievement, and growth."
+  },
+  {
+    "start": "03:25",
+    "stop": "03:55",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795749900000,
+    "stopTs": 1795751700000,
+    "title": "Morning Prime Time",
+    "desc": "Main Stories of the Day."
+  },
+  {
+    "start": "03:55",
+    "stop": "04:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795751700000,
+    "stopTs": 1795753500000,
+    "title": "Breakfast Superfast",
+    "desc": "Get quick and essential updates on national and international events with superfast news coverage, keeping you informed without wasting time."
+  },
+  {
+    "start": "04:25",
+    "stop": "05:00",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795753500000,
+    "stopTs": 1795755600000,
+    "title": "Bulletin",
+    "desc": "A roundup of top stories from politics, world news, sports, and entertainment-all served fresh and fast to keep you informed."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795755600000,
+    "stopTs": 1795757100000,
+    "title": "Up Bulletin",
+    "desc": "Spiritual growth, devotion, and perseverance guide characters through adversity, helping them find inner peace and meaning."
+  },
+  {
+    "start": "05:25",
+    "stop": "05:55",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795757100000,
+    "stopTs": 1795758900000,
+    "title": "11 Badi Khabrein",
+    "desc": "Main Stories of Nation-World."
+  },
+  {
+    "start": "05:55",
+    "stop": "06:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795758900000,
+    "stopTs": 1795760700000,
+    "title": "Jan Awaz",
+    "desc": "A creative journey highlights personal expression, artistic growth, and the pursuit of dreams against all odds."
+  },
+  {
+    "start": "06:25",
+    "stop": "07:25",
+    "channel": "TNPNews.in",
+    "channelId": "TNPNews.in",
+    "channelName": "TNP NEWS",
+    "startTs": 1795760700000,
+    "stopTs": 1795764300000,
+    "title": "12 Noon Special",
+    "desc": "Personal ambition, determination, and dreams drive an inspirational story of resilience, achievement, and growth."
   }
 ]
