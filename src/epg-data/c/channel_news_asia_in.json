@@ -1,23 +1,12 @@
 [
   {
-    "start": "05:00",
-    "stop": "06:00",
-    "channel": "ChannelNewsAsia.in",
-    "channelId": "ChannelNewsAsia.in",
-    "channelName": "Channel News Asia",
-    "startTs": 1795410000000,
-    "stopTs": 1795413600000,
-    "title": "Inside The Trauma Unit",
-    "desc": ". S01 E01."
-  },
-  {
     "start": "06:00",
     "stop": "08:00",
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795413600000,
-    "stopTs": 1795420800000,
+    "startTs": 1795672800000,
+    "stopTs": 1795680000000,
     "title": "Asia Now",
     "desc": "Coverage of what&apos;s happening around the world and in the region, with expert analysis."
   },
@@ -27,10 +16,10 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795420800000,
-    "stopTs": 1795424400000,
-    "title": "Drugs 2.0",
-    "desc": "The team examine the production and detection of emerging psychoactive substances. S01 E02."
+    "startTs": 1795680000000,
+    "stopTs": 1795683600000,
+    "title": "Singapore Hour",
+    "desc": "Featuring your ultimate insider&apos;s guide to travel, work, and play in the Lion City."
   },
   {
     "start": "09:00",
@@ -38,21 +27,32 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795424400000,
-    "stopTs": 1795424520000,
+    "startTs": 1795683600000,
+    "stopTs": 1795683720000,
     "title": "Headline News",
     "desc": "."
   },
   {
     "start": "09:02",
+    "stop": "09:30",
+    "channel": "ChannelNewsAsia.in",
+    "channelId": "ChannelNewsAsia.in",
+    "channelName": "Channel News Asia",
+    "startTs": 1795683720000,
+    "stopTs": 1795685400000,
+    "title": "Talking Point",
+    "desc": "Explores current events and their effects on people while presenting different perspectives."
+  },
+  {
+    "start": "09:30",
     "stop": "10:00",
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795424520000,
-    "stopTs": 1795428000000,
-    "title": "Insight",
-    "desc": "Investigating and analysing topical issues that impact Asia and the rest of the world. S01 E25."
+    "startTs": 1795685400000,
+    "stopTs": 1795687200000,
+    "title": "Call Us Wunderkind",
+    "desc": "When their intellectual equals are adults and every hour is scheduled, where does a prodigy fit in?"
   },
   {
     "start": "10:00",
@@ -60,8 +60,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795428000000,
-    "stopTs": 1795431600000,
+    "startTs": 1795687200000,
+    "stopTs": 1795690800000,
     "title": "East Asia Tonight",
     "desc": "Presents key stories about economics and political updates from China, Japan and Korea."
   },
@@ -71,10 +71,10 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795431600000,
-    "stopTs": 1795433400000,
-    "title": "Money Mind",
-    "desc": "An insight into how to make the most of the finances, with tips for investors and economic analysis. S01 E30."
+    "startTs": 1795690800000,
+    "stopTs": 1795692600000,
+    "title": "Laws That Shaped A Nation",
+    "desc": "From social unrest to global success, we explore how the Rule of Law transformed Singapore."
   },
   {
     "start": "11:30",
@@ -82,8 +82,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795433400000,
-    "stopTs": 1795435200000,
+    "startTs": 1795692600000,
+    "stopTs": 1795694400000,
     "title": "On the Red Dot",
     "desc": "The issues that inspire, provoke, and unite the people of Singapore."
   },
@@ -93,8 +93,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795435200000,
-    "stopTs": 1795438800000,
+    "startTs": 1795694400000,
+    "stopTs": 1795698000000,
     "title": "Asia Tonight",
     "desc": "News and views from around the region, with a unique Asian perspective."
   },
@@ -104,10 +104,10 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795438800000,
-    "stopTs": 1795442400000,
-    "title": "Inside The Trauma Unit",
-    "desc": ". S01 E03."
+    "startTs": 1795698000000,
+    "stopTs": 1795701600000,
+    "title": "Insight",
+    "desc": "Investigating and analysing topical issues that impact Asia and the rest of the world. S01 E26."
   },
   {
     "start": "14:00",
@@ -115,21 +115,32 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795442400000,
-    "stopTs": 1795446000000,
+    "startTs": 1795701600000,
+    "stopTs": 1795705200000,
     "title": "Singapore Tonight",
     "desc": "A round-up of all the day&apos;s events in Singapore as well as coverage of breaking news."
   },
   {
     "start": "15:00",
+    "stop": "15:30",
+    "channel": "ChannelNewsAsia.in",
+    "channelId": "ChannelNewsAsia.in",
+    "channelName": "Channel News Asia",
+    "startTs": 1795705200000,
+    "stopTs": 1795707000000,
+    "title": "Laws That Shaped A Nation",
+    "desc": "From social unrest to global success, we explore how the Rule of Law transformed Singapore."
+  },
+  {
+    "start": "15:30",
     "stop": "16:00",
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795446000000,
-    "stopTs": 1795449600000,
-    "title": "Inside The Trauma Unit",
-    "desc": ". S01 E02."
+    "startTs": 1795707000000,
+    "stopTs": 1795708800000,
+    "title": "CNA Correspondent",
+    "desc": "CNA correspondents from Asia and Europe examine different current affairs."
   },
   {
     "start": "16:00",
@@ -137,8 +148,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795449600000,
-    "stopTs": 1795449780000,
+    "startTs": 1795708800000,
+    "stopTs": 1795708980000,
     "title": "Headline News",
     "desc": "."
   },
@@ -148,8 +159,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795449780000,
-    "stopTs": 1795453200000,
+    "startTs": 1795708980000,
+    "stopTs": 1795712400000,
     "title": "East Asia Tonight",
     "desc": "Presents key stories about economics and political updates from China, Japan and Korea."
   },
@@ -159,10 +170,10 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795453200000,
-    "stopTs": 1795456800000,
-    "title": "Singapore Hour",
-    "desc": "Featuring your ultimate insider&apos;s guide to travel, work, and play in the Lion City."
+    "startTs": 1795712400000,
+    "stopTs": 1795716000000,
+    "title": "Inside The Trauma Unit",
+    "desc": ". S01 E03."
   },
   {
     "start": "18:00",
@@ -170,8 +181,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795456800000,
-    "stopTs": 1795460400000,
+    "startTs": 1795716000000,
+    "stopTs": 1795719600000,
     "title": "Singapore Tonight",
     "desc": "A round-up of all the day&apos;s events in Singapore as well as coverage of breaking news."
   },
@@ -181,10 +192,10 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795460400000,
-    "stopTs": 1795464000000,
-    "title": "Insight",
-    "desc": "Investigating and analysing topical issues that impact Asia and the rest of the world. S01 E25."
+    "startTs": 1795719600000,
+    "stopTs": 1795723200000,
+    "title": "Inside The Trauma Unit",
+    "desc": ". S01 E02."
   },
   {
     "start": "20:00",
@@ -192,8 +203,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795464000000,
-    "stopTs": 1795467600000,
+    "startTs": 1795723200000,
+    "stopTs": 1795726800000,
     "title": "Asia Tonight",
     "desc": "News and views from around the region, with a unique Asian perspective."
   },
@@ -203,10 +214,10 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795467600000,
-    "stopTs": 1795471200000,
-    "title": "Inside The Trauma Unit",
-    "desc": ". S01 E03."
+    "startTs": 1795726800000,
+    "stopTs": 1795730400000,
+    "title": "Insight",
+    "desc": "Investigating and analysing topical issues that impact Asia and the rest of the world. S01 E26."
   },
   {
     "start": "22:00",
@@ -214,8 +225,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795471200000,
-    "stopTs": 1795474800000,
+    "startTs": 1795730400000,
+    "stopTs": 1795734000000,
     "title": "Singapore Tonight",
     "desc": "A round-up of all the day&apos;s events in Singapore as well as coverage of breaking news."
   },
@@ -225,8 +236,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795474800000,
-    "stopTs": 1795485600000,
+    "startTs": 1795734000000,
+    "stopTs": 1795744800000,
     "title": "Asia First",
     "desc": "Top stories, market updates, and business intel from across the region."
   },
@@ -236,10 +247,10 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795485600000,
-    "stopTs": 1795489200000,
-    "title": "Inside The Trauma Unit",
-    "desc": ". S01 E03."
+    "startTs": 1795744800000,
+    "stopTs": 1795748400000,
+    "title": "Insight",
+    "desc": "Investigating and analysing topical issues that impact Asia and the rest of the world. S01 E26."
   },
   {
     "start": "03:00",
@@ -247,21 +258,32 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795489200000,
-    "stopTs": 1795496400000,
+    "startTs": 1795748400000,
+    "stopTs": 1795755600000,
     "title": "Asia Now",
     "desc": "Coverage of what&apos;s happening around the world and in the region, with expert analysis."
   },
   {
     "start": "05:00",
+    "stop": "05:30",
+    "channel": "ChannelNewsAsia.in",
+    "channelId": "ChannelNewsAsia.in",
+    "channelName": "Channel News Asia",
+    "startTs": 1795755600000,
+    "stopTs": 1795757400000,
+    "title": "Laws That Shaped A Nation",
+    "desc": "From social unrest to global success, we explore how the Rule of Law transformed Singapore."
+  },
+  {
+    "start": "05:30",
     "stop": "06:00",
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795496400000,
-    "stopTs": 1795500000000,
-    "title": "Inside The Trauma Unit",
-    "desc": ". S01 E02."
+    "startTs": 1795757400000,
+    "stopTs": 1795759200000,
+    "title": "Call Us Wunderkind",
+    "desc": "When their intellectual equals are adults and every hour is scheduled, where does a prodigy fit in?"
   },
   {
     "start": "06:00",
@@ -269,32 +291,21 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795500000000,
-    "stopTs": 1795507200000,
+    "startTs": 1795759200000,
+    "stopTs": 1795766400000,
     "title": "Asia Now",
     "desc": "Coverage of what&apos;s happening around the world and in the region, with expert analysis."
   },
   {
     "start": "08:00",
-    "stop": "08:30",
-    "channel": "ChannelNewsAsia.in",
-    "channelId": "ChannelNewsAsia.in",
-    "channelName": "Channel News Asia",
-    "startTs": 1795507200000,
-    "stopTs": 1795509000000,
-    "title": "Money Mind",
-    "desc": "An insight into how to make the most of the finances, with tips for investors and economic analysis. S01 E30."
-  },
-  {
-    "start": "08:30",
     "stop": "09:00",
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795509000000,
-    "stopTs": 1795510800000,
-    "title": "CNA Correspondent",
-    "desc": "CNA correspondents from Asia and Europe examine different current affairs."
+    "startTs": 1795766400000,
+    "stopTs": 1795770000000,
+    "title": "Inside The Trauma Unit",
+    "desc": ". S01 E01."
   },
   {
     "start": "09:00",
@@ -302,8 +313,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795510800000,
-    "stopTs": 1795510920000,
+    "startTs": 1795770000000,
+    "stopTs": 1795770120000,
     "title": "Headline News",
     "desc": "."
   },
@@ -313,10 +324,10 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795510920000,
-    "stopTs": 1795514400000,
-    "title": "Singapore Hour",
-    "desc": "Featuring your ultimate insider&apos;s guide to travel, work, and play in the Lion City."
+    "startTs": 1795770120000,
+    "stopTs": 1795773600000,
+    "title": "Insight",
+    "desc": "Investigating and analysing topical issues that impact Asia and the rest of the world. S01 E26."
   },
   {
     "start": "10:00",
@@ -324,8 +335,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795514400000,
-    "stopTs": 1795518000000,
+    "startTs": 1795773600000,
+    "stopTs": 1795777200000,
     "title": "East Asia Tonight",
     "desc": "Presents key stories about economics and political updates from China, Japan and Korea."
   },
@@ -335,10 +346,10 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795518000000,
-    "stopTs": 1795521600000,
-    "title": "Inside The Trauma Unit",
-    "desc": ". S01 E01."
+    "startTs": 1795777200000,
+    "stopTs": 1795780800000,
+    "title": "Shermin&apos;s Manga Mayhem",
+    "desc": "Shermin&apos;s Manga Mayhem"
   },
   {
     "start": "12:00",
@@ -346,8 +357,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795521600000,
-    "stopTs": 1795525200000,
+    "startTs": 1795780800000,
+    "stopTs": 1795784400000,
     "title": "Asia Tonight",
     "desc": "News and views from around the region, with a unique Asian perspective."
   },
@@ -357,10 +368,10 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795525200000,
-    "stopTs": 1795528800000,
-    "title": "Shermin&apos;s Manga Mayhem",
-    "desc": "Shermin&apos;s Manga Mayhem"
+    "startTs": 1795784400000,
+    "stopTs": 1795788000000,
+    "title": "Japan Hour",
+    "desc": "Discover Fukui&apos;s local charms, from a historic dragon shrine and regional sake to the stylish craftsmanship of Sabae, Japan&apos;s eyewear capital. Travel by rail to historic Tsuruga and round off the journey with exquisite local pufferfish."
   },
   {
     "start": "14:00",
@@ -368,8 +379,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795528800000,
-    "stopTs": 1795532400000,
+    "startTs": 1795788000000,
+    "stopTs": 1795791600000,
     "title": "Singapore Tonight",
     "desc": "A round-up of all the day&apos;s events in Singapore as well as coverage of breaking news."
   },
@@ -379,10 +390,10 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795532400000,
-    "stopTs": 1795536000000,
-    "title": "Inside The Trauma Unit",
-    "desc": ". S01 E03."
+    "startTs": 1795791600000,
+    "stopTs": 1795795200000,
+    "title": "Singapore Hour",
+    "desc": "Featuring your ultimate insider&apos;s guide to travel, work, and play in the Lion City."
   },
   {
     "start": "16:00",
@@ -390,8 +401,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795536000000,
-    "stopTs": 1795536180000,
+    "startTs": 1795795200000,
+    "stopTs": 1795795380000,
     "title": "Headline News",
     "desc": "."
   },
@@ -401,8 +412,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795536180000,
-    "stopTs": 1795539600000,
+    "startTs": 1795795380000,
+    "stopTs": 1795798800000,
     "title": "East Asia Tonight",
     "desc": "Presents key stories about economics and political updates from China, Japan and Korea."
   },
@@ -412,10 +423,10 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795539600000,
-    "stopTs": 1795543200000,
-    "title": "Inside The Trauma Unit",
-    "desc": ". S01 E01."
+    "startTs": 1795798800000,
+    "stopTs": 1795802400000,
+    "title": "Shermin&apos;s Manga Mayhem",
+    "desc": "Shermin&apos;s Manga Mayhem"
   },
   {
     "start": "18:00",
@@ -423,8 +434,8 @@
     "channel": "ChannelNewsAsia.in",
     "channelId": "ChannelNewsAsia.in",
     "channelName": "Channel News Asia",
-    "startTs": 1795543200000,
-    "stopTs": 1795546800000,
+    "startTs": 1795802400000,
+    "stopTs": 1795806000000,
     "title": "Singapore Tonight",
     "desc": "A round-up of all the day&apos;s events in Singapore as well as coverage of breaking news."
   }

@@ -1,533 +1,5 @@
 [
   {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795588200000,
-    "stopTs": 1795590000000,
-    "title": "Khabar Din Bhar",
-    "desc": "News bulletin in Hindi giving the most updated news stories at this hour."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795590000000,
-    "stopTs": 1795591800000,
-    "title": "Khabar Din Bhar",
-    "desc": "News bulletin in Hindi giving the most updated news stories at this hour."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795591800000,
-    "stopTs": 1795593600000,
-    "title": "Khabar Din Bhar",
-    "desc": "News bulletin in Hindi giving the most updated news stories at this hour."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795593600000,
-    "stopTs": 1795595400000,
-    "title": "Khabar Din Bhar",
-    "desc": "News bulletin in Hindi giving the most updated news stories at this hour."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795595400000,
-    "stopTs": 1795597200000,
-    "title": "Khabar Din Bhar",
-    "desc": "News bulletin in Hindi giving the most updated news stories at this hour."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795597200000,
-    "stopTs": 1795599000000,
-    "title": "Saas Bahu Aur Saazish",
-    "desc": "Discussing the likely turn of events expected out of that evening&apos;s top programmes on key channels."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795599000000,
-    "stopTs": 1795600800000,
-    "title": "Saas Bahu Aur Saazish",
-    "desc": "Discussing the likely turn of events expected out of that evening&apos;s top programmes on key channels."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795600800000,
-    "stopTs": 1795602600000,
-    "title": "Khabar Filmi Hai",
-    "desc": "Garima presents news from the filmi duniya, including inside gossip, film premieres and parties."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795602600000,
-    "stopTs": 1795604400000,
-    "title": "Matribhumi",
-    "desc": "Presenting the latest updates on pressing issues from across the country."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795604400000,
-    "stopTs": 1795606200000,
-    "title": "Matribhumi",
-    "desc": "Presenting the latest updates on pressing issues from across the country."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795606200000,
-    "stopTs": 1795608000000,
-    "title": "Hunkar",
-    "desc": "Presenting the latest updates and developments on social, political and economic events."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795608000000,
-    "stopTs": 1795609800000,
-    "title": "Hunkar",
-    "desc": "Presenting the latest updates and developments on social, political and economic events."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795609800000,
-    "stopTs": 1795611600000,
-    "title": "Political Powercentre",
-    "desc": "Presents fresh information about countrywide developments and various political issues."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795611600000,
-    "stopTs": 1795613400000,
-    "title": "Political Powercentre",
-    "desc": "Presents fresh information about countrywide developments and various political issues."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795613400000,
-    "stopTs": 1795615200000,
-    "title": "Seedha Sawaal",
-    "desc": "Experts from various walks of life debate and share their thoughts on several topics."
-  },
-  {
-    "start": "14:00",
-    "stop": "14:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795615200000,
-    "stopTs": 1795617000000,
-    "title": "Seedha Sawaal",
-    "desc": "Experts from various walks of life debate and share their thoughts on several topics."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795617000000,
-    "stopTs": 1795618800000,
-    "title": "Bharat Ki Baat",
-    "desc": "Presenting the latest updates on pressing issues from around the world."
-  },
-  {
-    "start": "15:00",
-    "stop": "16:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795618800000,
-    "stopTs": 1795622400000,
-    "title": "Bharat Ki Baat",
-    "desc": "Presenting the latest updates on pressing issues from around the world."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795622400000,
-    "stopTs": 1795624200000,
-    "title": "24 Ghante 24 Reporter",
-    "desc": "News round up of the day with the help of 24 reporters."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795624200000,
-    "stopTs": 1795626000000,
-    "title": "24 Ghante 24 Reporter",
-    "desc": "News round up of the day with the help of 24 reporters."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795626000000,
-    "stopTs": 1795627800000,
-    "title": "Special Report",
-    "desc": "The host provides a detailed report from the world of sports."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795627800000,
-    "stopTs": 1795629600000,
-    "title": "Sansani",
-    "desc": "Presents the latest news, focusing on crimes across the globe to encourage safety awareness."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795629600000,
-    "stopTs": 1795631400000,
-    "title": "Special Report",
-    "desc": "The host provides a detailed report from the world of sports."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795631400000,
-    "stopTs": 1795633200000,
-    "title": "Special Report",
-    "desc": "The host provides a detailed report from the world of sports."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795633200000,
-    "stopTs": 1795635000000,
-    "title": "Advertorial",
-    "desc": "Presents new products from various companies and shows how they work."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795635000000,
-    "stopTs": 1795636800000,
-    "title": "Special Report",
-    "desc": "The host provides a detailed report from the world of sports."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795636800000,
-    "stopTs": 1795638600000,
-    "title": "Special Report",
-    "desc": "The host provides a detailed report from the world of sports."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795638600000,
-    "stopTs": 1795640400000,
-    "title": "Special Report",
-    "desc": "The host provides a detailed report from the world of sports."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795640400000,
-    "stopTs": 1795642200000,
-    "title": "Special Report",
-    "desc": "The host provides a detailed report from the world of sports."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795642200000,
-    "stopTs": 1795644000000,
-    "title": "Special Report",
-    "desc": "The host provides a detailed report from the world of sports."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795644000000,
-    "stopTs": 1795645800000,
-    "title": "Special Report",
-    "desc": "The host provides a detailed report from the world of sports."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795645800000,
-    "stopTs": 1795647600000,
-    "title": "Special Report",
-    "desc": "The host provides a detailed report from the world of sports."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795647600000,
-    "stopTs": 1795649400000,
-    "title": "Special Report",
-    "desc": "The host provides a detailed report from the world of sports."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795649400000,
-    "stopTs": 1795651200000,
-    "title": "Special Report",
-    "desc": "The host provides a detailed report from the world of sports."
-  },
-  {
-    "start": "00:00",
-    "stop": "00:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795651200000,
-    "stopTs": 1795653000000,
-    "title": "Special Report",
-    "desc": "The host provides a detailed report from the world of sports."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795653000000,
-    "stopTs": 1795654800000,
-    "title": "Special Report",
-    "desc": "The host provides a detailed report from the world of sports."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:15",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795654800000,
-    "stopTs": 1795655700000,
-    "title": "Special Report",
-    "desc": "The host provides a detailed report from the world of sports."
-  },
-  {
-    "start": "01:15",
-    "stop": "01:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795655700000,
-    "stopTs": 1795656600000,
-    "title": "Bhaagya Ki Baat",
-    "desc": "A renowned astrologer predicts the future based on the effects of planetary transitions."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795656600000,
-    "stopTs": 1795658400000,
-    "title": "Namaste Bharat",
-    "desc": "Presenting the latest updates and developments on pressing issues from across the country."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:22",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795658400000,
-    "stopTs": 1795659720000,
-    "title": "Namaste Bharat",
-    "desc": "Presenting the latest updates and developments on pressing issues from across the country."
-  },
-  {
-    "start": "02:22",
-    "stop": "02:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795659720000,
-    "stopTs": 1795660200000,
-    "title": "8 Minute 80 Khabar",
-    "desc": "Presents 80 news stories in 8 minutes, including crime, politics and economics."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795660200000,
-    "stopTs": 1795662000000,
-    "title": "Namaste Bharat",
-    "desc": "Presenting the latest updates and developments on pressing issues from across the country."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795662000000,
-    "stopTs": 1795663800000,
-    "title": "Namaste Bharat",
-    "desc": "Presenting the latest updates and developments on pressing issues from across the country."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795663800000,
-    "stopTs": 1795665600000,
-    "title": "9 Second Mein News",
-    "desc": "A summary of the latest updates in politics, economics, and social and cultural issues."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795665600000,
-    "stopTs": 1795667400000,
-    "title": "9 Second Mein News",
-    "desc": "A summary of the latest updates in politics, economics, and social and cultural issues."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795667400000,
-    "stopTs": 1795669200000,
-    "title": "Aagey Ka Agenda",
-    "desc": "Presents analysis on recent political affairs as well as special interviews."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795669200000,
-    "stopTs": 1795671000000,
-    "title": "Aagey Ka Agenda",
-    "desc": "Presents analysis on recent political affairs as well as special interviews."
-  },
-  {
-    "start": "05:30",
-    "stop": "06:00",
-    "channel": "ABPNews.in",
-    "channelId": "ABPNews.in",
-    "channelName": "ABP News",
-    "startTs": 1795671000000,
-    "stopTs": 1795672800000,
-    "title": "ABP Reporter",
-    "desc": "Presenting the latest updates on pressing issues from around the world."
-  },
-  {
     "start": "06:00",
     "stop": "06:30",
     "channel": "ABPNews.in",
@@ -800,7 +272,7 @@
     "startTs": 1795717800000,
     "stopTs": 1795719600000,
     "title": "Special Report",
-    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+    "desc": "The host provides a detailed report from the world of sports."
   },
   {
     "start": "19:00",
@@ -811,7 +283,7 @@
     "startTs": 1795719600000,
     "stopTs": 1795721400000,
     "title": "Advertorial",
-    "desc": "Manufacturers showcase new products and demonstrate their features, benefits, and practical uses to help consumers make informed choices."
+    "desc": "Presents new products from various companies and shows how they work."
   },
   {
     "start": "19:30",
@@ -822,7 +294,7 @@
     "startTs": 1795721400000,
     "stopTs": 1795723200000,
     "title": "Special Report",
-    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+    "desc": "The host provides a detailed report from the world of sports."
   },
   {
     "start": "20:00",
@@ -833,7 +305,7 @@
     "startTs": 1795723200000,
     "stopTs": 1795725000000,
     "title": "Special Report",
-    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+    "desc": "The host provides a detailed report from the world of sports."
   },
   {
     "start": "20:30",
@@ -844,7 +316,7 @@
     "startTs": 1795725000000,
     "stopTs": 1795726800000,
     "title": "Special Report",
-    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+    "desc": "The host provides a detailed report from the world of sports."
   },
   {
     "start": "21:00",
@@ -855,7 +327,7 @@
     "startTs": 1795726800000,
     "stopTs": 1795728600000,
     "title": "Special Report",
-    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+    "desc": "The host provides a detailed report from the world of sports."
   },
   {
     "start": "21:30",
@@ -866,7 +338,7 @@
     "startTs": 1795728600000,
     "stopTs": 1795730400000,
     "title": "Special Report",
-    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+    "desc": "The host provides a detailed report from the world of sports."
   },
   {
     "start": "22:00",
@@ -877,7 +349,7 @@
     "startTs": 1795730400000,
     "stopTs": 1795732200000,
     "title": "Special Report",
-    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+    "desc": "The host provides a detailed report from the world of sports."
   },
   {
     "start": "22:30",
@@ -888,7 +360,7 @@
     "startTs": 1795732200000,
     "stopTs": 1795734000000,
     "title": "Special Report",
-    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+    "desc": "The host provides a detailed report from the world of sports."
   },
   {
     "start": "23:00",
@@ -899,7 +371,7 @@
     "startTs": 1795734000000,
     "stopTs": 1795735800000,
     "title": "Special Report",
-    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+    "desc": "The host provides a detailed report from the world of sports."
   },
   {
     "start": "23:30",
@@ -910,7 +382,7 @@
     "startTs": 1795735800000,
     "stopTs": 1795737600000,
     "title": "Special Report",
-    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+    "desc": "The host provides a detailed report from the world of sports."
   },
   {
     "start": "00:00",
@@ -921,7 +393,7 @@
     "startTs": 1795737600000,
     "stopTs": 1795739400000,
     "title": "Special Report",
-    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+    "desc": "The host provides a detailed report from the world of sports."
   },
   {
     "start": "00:30",
@@ -932,7 +404,7 @@
     "startTs": 1795739400000,
     "stopTs": 1795741200000,
     "title": "Special Report",
-    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+    "desc": "The host provides a detailed report from the world of sports."
   },
   {
     "start": "01:00",
@@ -943,7 +415,7 @@
     "startTs": 1795741200000,
     "stopTs": 1795742100000,
     "title": "Special Report",
-    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+    "desc": "The host provides a detailed report from the world of sports."
   },
   {
     "start": "01:15",
@@ -954,7 +426,7 @@
     "startTs": 1795742100000,
     "stopTs": 1795743000000,
     "title": "Bhaagya Ki Baat",
-    "desc": "Luck, fate, and destiny spark insightful discussions and stories you won&apos;t want to miss. Explore how chance and purpose intertwine in everyday life."
+    "desc": "A renowned astrologer predicts the future based on the effects of planetary transitions."
   },
   {
     "start": "01:30",
@@ -965,7 +437,7 @@
     "startTs": 1795743000000,
     "stopTs": 1795744800000,
     "title": "Namaste Bharat",
-    "desc": "The host presents updates on current affairs, politics, and major developments from across India, offering a comprehensive view of national happenings."
+    "desc": "Presenting the latest updates and developments on pressing issues from across the country."
   },
   {
     "start": "02:00",
@@ -976,7 +448,7 @@
     "startTs": 1795744800000,
     "stopTs": 1795746120000,
     "title": "Namaste Bharat",
-    "desc": "The host presents updates on current affairs, politics, and major developments from across India, offering a comprehensive view of national happenings."
+    "desc": "Presenting the latest updates and developments on pressing issues from across the country."
   },
   {
     "start": "02:22",
@@ -987,7 +459,7 @@
     "startTs": 1795746120000,
     "stopTs": 1795746600000,
     "title": "8 Minute 80 Khabar",
-    "desc": "The host presents breaking news along with the latest political and socio-economic updates, offering timely insights into major national and global developments."
+    "desc": "Presents 80 news stories in 8 minutes, including crime, politics and economics."
   },
   {
     "start": "02:30",
@@ -998,7 +470,7 @@
     "startTs": 1795746600000,
     "stopTs": 1795748400000,
     "title": "Namaste Bharat",
-    "desc": "The host presents updates on current affairs, politics, and major developments from across India, offering a comprehensive view of national happenings."
+    "desc": "Presenting the latest updates and developments on pressing issues from across the country."
   },
   {
     "start": "03:00",
@@ -1009,7 +481,7 @@
     "startTs": 1795748400000,
     "stopTs": 1795750200000,
     "title": "Namaste Bharat",
-    "desc": "The host presents updates on current affairs, politics, and major developments from across India, offering a comprehensive view of national happenings."
+    "desc": "Presenting the latest updates and developments on pressing issues from across the country."
   },
   {
     "start": "03:30",
@@ -1020,7 +492,7 @@
     "startTs": 1795750200000,
     "stopTs": 1795752000000,
     "title": "9 Second Mein News",
-    "desc": "The host delivers breaking news along with the latest political and socio-economic updates, providing a quick and comprehensive snapshot of current events."
+    "desc": "A summary of the latest updates in politics, economics, and social and cultural issues."
   },
   {
     "start": "04:00",
@@ -1031,7 +503,7 @@
     "startTs": 1795752000000,
     "stopTs": 1795753800000,
     "title": "9 Second Mein News",
-    "desc": "The host delivers breaking news along with the latest political and socio-economic updates, providing a quick and comprehensive snapshot of current events."
+    "desc": "A summary of the latest updates in politics, economics, and social and cultural issues."
   },
   {
     "start": "04:30",
@@ -1042,7 +514,7 @@
     "startTs": 1795753800000,
     "stopTs": 1795755600000,
     "title": "Aagey Ka Agenda",
-    "desc": "The host presents a detailed report on prevailing socio-political issues, exploring their impact, root causes, and the discourse surrounding them."
+    "desc": "Presents analysis on recent political affairs as well as special interviews."
   },
   {
     "start": "05:00",
@@ -1053,7 +525,7 @@
     "startTs": 1795755600000,
     "stopTs": 1795757400000,
     "title": "Aagey Ka Agenda",
-    "desc": "The host presents a detailed report on prevailing socio-political issues, exploring their impact, root causes, and the discourse surrounding them."
+    "desc": "Presents analysis on recent political affairs as well as special interviews."
   },
   {
     "start": "05:30",
@@ -1064,7 +536,7 @@
     "startTs": 1795757400000,
     "stopTs": 1795759200000,
     "title": "ABP Reporter",
-    "desc": "A two-anchor news show where stories are presented with a clear agenda, focusing on in-depth coverage, analysis, and diverse viewpoints on current events."
+    "desc": "Presenting the latest updates on pressing issues from around the world."
   },
   {
     "start": "06:00",
@@ -1075,7 +547,7 @@
     "startTs": 1795759200000,
     "stopTs": 1795761000000,
     "title": "ABP Reporter",
-    "desc": "A two-anchor news show where stories are presented with a clear agenda, focusing on in-depth coverage, analysis, and diverse viewpoints on current events."
+    "desc": "Presenting the latest updates on pressing issues from around the world."
   },
   {
     "start": "06:30",
@@ -1086,7 +558,7 @@
     "startTs": 1795761000000,
     "stopTs": 1795762800000,
     "title": "Khabar Din Bhar",
-    "desc": "The host presents the latest updates on politics, current events, sports, and more, offering viewers a well-rounded overview of national and global happenings."
+    "desc": "News bulletin in Hindi giving the most updated news stories at this hour."
   },
   {
     "start": "07:00",
@@ -1096,6 +568,545 @@
     "channelName": "ABP News",
     "startTs": 1795762800000,
     "stopTs": 1795764600000,
+    "title": "Khabar Din Bhar",
+    "desc": "News bulletin in Hindi giving the most updated news stories at this hour."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795764600000,
+    "stopTs": 1795766400000,
+    "title": "Khabar Din Bhar",
+    "desc": "News bulletin in Hindi giving the most updated news stories at this hour."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795766400000,
+    "stopTs": 1795768200000,
+    "title": "Khabar Din Bhar",
+    "desc": "News bulletin in Hindi giving the most updated news stories at this hour."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795768200000,
+    "stopTs": 1795770000000,
+    "title": "Khabar Din Bhar",
+    "desc": "News bulletin in Hindi giving the most updated news stories at this hour."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795770000000,
+    "stopTs": 1795771800000,
+    "title": "Saas Bahu Aur Saazish",
+    "desc": "Discussing the likely turn of events expected out of that evening&apos;s top programmes on key channels."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795771800000,
+    "stopTs": 1795773600000,
+    "title": "Saas Bahu Aur Saazish",
+    "desc": "Discussing the likely turn of events expected out of that evening&apos;s top programmes on key channels."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795773600000,
+    "stopTs": 1795775400000,
+    "title": "Khabar Filmi Hai",
+    "desc": "Garima presents news from the filmi duniya, including inside gossip, film premieres and parties."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795775400000,
+    "stopTs": 1795777200000,
+    "title": "Matribhumi",
+    "desc": "Presenting the latest updates on pressing issues from across the country."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795777200000,
+    "stopTs": 1795779000000,
+    "title": "Matribhumi",
+    "desc": "Presenting the latest updates on pressing issues from across the country."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795779000000,
+    "stopTs": 1795780800000,
+    "title": "Hunkar",
+    "desc": "Presenting the latest updates and developments on social, political and economic events."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795780800000,
+    "stopTs": 1795782600000,
+    "title": "Hunkar",
+    "desc": "Presenting the latest updates and developments on social, political and economic events."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795782600000,
+    "stopTs": 1795784400000,
+    "title": "Political Powercentre",
+    "desc": "Presents fresh information about countrywide developments and various political issues."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795784400000,
+    "stopTs": 1795786200000,
+    "title": "Political Powercentre",
+    "desc": "Presents fresh information about countrywide developments and various political issues."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795786200000,
+    "stopTs": 1795788000000,
+    "title": "Seedha Sawaal",
+    "desc": "Experts from various walks of life debate and share their thoughts on several topics."
+  },
+  {
+    "start": "14:00",
+    "stop": "14:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795788000000,
+    "stopTs": 1795789800000,
+    "title": "Seedha Sawaal",
+    "desc": "Experts from various walks of life debate and share their thoughts on several topics."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795789800000,
+    "stopTs": 1795791600000,
+    "title": "Bharat Ki Baat",
+    "desc": "Presenting the latest updates on pressing issues from around the world."
+  },
+  {
+    "start": "15:00",
+    "stop": "16:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795791600000,
+    "stopTs": 1795795200000,
+    "title": "Bharat Ki Baat",
+    "desc": "Presenting the latest updates on pressing issues from around the world."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795795200000,
+    "stopTs": 1795797000000,
+    "title": "24 Ghante 24 Reporter",
+    "desc": "News round up of the day with the help of 24 reporters."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795797000000,
+    "stopTs": 1795798800000,
+    "title": "24 Ghante 24 Reporter",
+    "desc": "News round up of the day with the help of 24 reporters."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795798800000,
+    "stopTs": 1795800600000,
+    "title": "Special Report",
+    "desc": "The host provides a detailed report from the world of sports."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795800600000,
+    "stopTs": 1795802400000,
+    "title": "Sansani",
+    "desc": "Presents the latest news, focusing on crimes across the globe to encourage safety awareness."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795802400000,
+    "stopTs": 1795804200000,
+    "title": "Special Report",
+    "desc": "The host provides a detailed report from the world of sports."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795804200000,
+    "stopTs": 1795806000000,
+    "title": "Special Report",
+    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795806000000,
+    "stopTs": 1795807800000,
+    "title": "Advertorial",
+    "desc": "Manufacturers showcase new products and demonstrate their features, benefits, and practical uses to help consumers make informed choices."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795807800000,
+    "stopTs": 1795809600000,
+    "title": "Special Report",
+    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795809600000,
+    "stopTs": 1795811400000,
+    "title": "Special Report",
+    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795811400000,
+    "stopTs": 1795813200000,
+    "title": "Special Report",
+    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795813200000,
+    "stopTs": 1795815000000,
+    "title": "Special Report",
+    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795815000000,
+    "stopTs": 1795816800000,
+    "title": "Special Report",
+    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795816800000,
+    "stopTs": 1795818600000,
+    "title": "Special Report",
+    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795818600000,
+    "stopTs": 1795820400000,
+    "title": "Special Report",
+    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795820400000,
+    "stopTs": 1795822200000,
+    "title": "Special Report",
+    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795822200000,
+    "stopTs": 1795824000000,
+    "title": "Special Report",
+    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+  },
+  {
+    "start": "00:00",
+    "stop": "00:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795824000000,
+    "stopTs": 1795825800000,
+    "title": "Special Report",
+    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795825800000,
+    "stopTs": 1795827600000,
+    "title": "Special Report",
+    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:15",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795827600000,
+    "stopTs": 1795828500000,
+    "title": "Special Report",
+    "desc": "Special Pack to cover all national issues includng the hot topics of Nation as well as representing the heart of Nations current issues."
+  },
+  {
+    "start": "01:15",
+    "stop": "01:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795828500000,
+    "stopTs": 1795829400000,
+    "title": "Bhaagya Ki Baat",
+    "desc": "Luck, fate, and destiny spark insightful discussions and stories you won&apos;t want to miss. Explore how chance and purpose intertwine in everyday life."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795829400000,
+    "stopTs": 1795831200000,
+    "title": "Namaste Bharat",
+    "desc": "The host presents updates on current affairs, politics, and major developments from across India, offering a comprehensive view of national happenings."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:22",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795831200000,
+    "stopTs": 1795832520000,
+    "title": "Namaste Bharat",
+    "desc": "The host presents updates on current affairs, politics, and major developments from across India, offering a comprehensive view of national happenings."
+  },
+  {
+    "start": "02:22",
+    "stop": "02:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795832520000,
+    "stopTs": 1795833000000,
+    "title": "8 Minute 80 Khabar",
+    "desc": "The host presents breaking news along with the latest political and socio-economic updates, offering timely insights into major national and global developments."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795833000000,
+    "stopTs": 1795834800000,
+    "title": "Namaste Bharat",
+    "desc": "The host presents updates on current affairs, politics, and major developments from across India, offering a comprehensive view of national happenings."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795834800000,
+    "stopTs": 1795836600000,
+    "title": "Namaste Bharat",
+    "desc": "The host presents updates on current affairs, politics, and major developments from across India, offering a comprehensive view of national happenings."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795836600000,
+    "stopTs": 1795838400000,
+    "title": "9 Second Mein News",
+    "desc": "The host delivers breaking news along with the latest political and socio-economic updates, providing a quick and comprehensive snapshot of current events."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795838400000,
+    "stopTs": 1795840200000,
+    "title": "9 Second Mein News",
+    "desc": "The host delivers breaking news along with the latest political and socio-economic updates, providing a quick and comprehensive snapshot of current events."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795840200000,
+    "stopTs": 1795842000000,
+    "title": "Aagey Ka Agenda",
+    "desc": "The host presents a detailed report on prevailing socio-political issues, exploring their impact, root causes, and the discourse surrounding them."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795842000000,
+    "stopTs": 1795843800000,
+    "title": "Aagey Ka Agenda",
+    "desc": "The host presents a detailed report on prevailing socio-political issues, exploring their impact, root causes, and the discourse surrounding them."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795843800000,
+    "stopTs": 1795845600000,
+    "title": "ABP Reporter",
+    "desc": "A two-anchor news show where stories are presented with a clear agenda, focusing on in-depth coverage, analysis, and diverse viewpoints on current events."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795845600000,
+    "stopTs": 1795847400000,
+    "title": "Khabar Din Bhar",
+    "desc": "The host presents the latest updates on politics, current events, sports, and more, offering viewers a well-rounded overview of national and global happenings."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795847400000,
+    "stopTs": 1795849200000,
+    "title": "Khabar Din Bhar",
+    "desc": "The host presents the latest updates on politics, current events, sports, and more, offering viewers a well-rounded overview of national and global happenings."
+  },
+  {
+    "start": "07:00",
+    "stop": "07:30",
+    "channel": "ABPNews.in",
+    "channelId": "ABPNews.in",
+    "channelName": "ABP News",
+    "startTs": 1795849200000,
+    "stopTs": 1795851000000,
     "title": "Khabar Din Bhar",
     "desc": "The host presents the latest updates on politics, current events, sports, and more, offering viewers a well-rounded overview of national and global happenings."
   }
