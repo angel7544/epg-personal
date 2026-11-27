@@ -1,14 +1,36 @@
 [
   {
     "start": "04:30",
+    "stop": "06:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1795753800000,
+    "stopTs": 1795761000000,
+    "title": "San Diego FC at Inter Miami CF; MLS Soccer",
+    "desc": "Professional football players compete against each other in the MLS Soccer."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1795761000000,
+    "stopTs": 1795764600000,
+    "title": "TNA Wrestling: Pehalwani Patakha",
+    "desc": "Highlights from the IMPACT wrestling series of TNA Wrestling, where professional wrestlers compete against each other for victory, in Hindi."
+  },
+  {
+    "start": "07:30",
     "stop": "08:00",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1795667400000,
-    "stopTs": 1795680000000,
-    "title": "Sydney Thunder vs. Adelaide Strikers; Women&apos;s Big Bash League Cricket",
-    "desc": "This is Sport - Cricket Category."
+    "startTs": 1795764600000,
+    "stopTs": 1795766400000,
+    "title": "2nd T20: Australia vs England; T20 Cricket",
+    "desc": "Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match."
   },
   {
     "start": "08:00",
@@ -16,54 +38,65 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1795680000000,
-    "stopTs": 1795693500000,
-    "title": "Sydney Sixers vs. Melbourne Stars; Women&apos;s Big Bash League Cricket",
-    "desc": "From North Sydney Oval in North Sydney, New South Wales, Australia."
+    "startTs": 1795766400000,
+    "stopTs": 1795779900000,
+    "title": "3rd T20: Australia vs. England; T20 Cricket",
+    "desc": "From Brisbane Cricket Ground in Brisbane, Queensland, Australia."
   },
   {
     "start": "11:45",
-    "stop": "12:45",
+    "stop": "12:00",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1795693500000,
-    "stopTs": 1795697100000,
-    "title": "Dusty Rhodes; IMPACT in 60",
+    "startTs": 1795779900000,
+    "stopTs": 1795780800000,
+    "title": "Showtime With Munaf Patel",
+    "desc": "This is Sport - Talk Show Category."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1795780800000,
+    "stopTs": 1795782600000,
+    "title": "WWE&apos;s Greatest Moments",
+    "desc": "Showcasing iconic events that have shaped WWE history and thrilled fans for decades, from legendary heroes to shocking betrayals and epic battles."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1795782600000,
+    "stopTs": 1795786200000,
+    "title": "CM Punk; IMPACT in 60",
     "desc": "The filmmaker highlights some of the most memorable matches, wrestlers, championships, factions and more from the 18-year history of Impact Wrestling."
   },
   {
-    "start": "12:45",
+    "start": "13:30",
     "stop": "14:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1795697100000,
-    "stopTs": 1795703400000,
-    "title": "AEW Dynamite",
-    "desc": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title."
+    "startTs": 1795786200000,
+    "stopTs": 1795789800000,
+    "title": "TNA Wrestling: Pehalwani Patakha",
+    "desc": "Highlights from the IMPACT wrestling series of TNA Wrestling, where professional wrestlers compete against each other for victory, in Hindi."
   },
   {
     "start": "14:30",
-    "stop": "15:30",
-    "channel": "EUROSPORTSHD.in",
-    "channelId": "EUROSPORTSHD.in",
-    "channelName": "EUROSPORTS HD",
-    "startTs": 1795703400000,
-    "stopTs": 1795707000000,
-    "title": "2nd Test: South Africa vs Bangladesh; Test Cricket",
-    "desc": "Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches."
-  },
-  {
-    "start": "15:30",
     "stop": "16:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1795707000000,
-    "stopTs": 1795710600000,
-    "title": "Hogan vs. Sting; TNA Unfinished Business",
-    "desc": "Some of the world&apos;s leading wrestlers compete against each other in highly competitive and demanding contests to demonstrate their prowess."
+    "startTs": 1795789800000,
+    "stopTs": 1795797000000,
+    "title": "NEC vs. PSV; Eredivisie Soccer",
+    "desc": "From De Goffert Stadium in Nijmegen, Gelderland, Netherlands."
   },
   {
     "start": "16:30",
@@ -71,43 +104,54 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1795710600000,
-    "stopTs": 1795717800000,
-    "title": "TNA Impact",
-    "desc": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win."
+    "startTs": 1795797000000,
+    "stopTs": 1795804200000,
+    "title": "AEW Dynamite",
+    "desc": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title."
   },
   {
     "start": "18:30",
-    "stop": "20:15",
+    "stop": "18:45",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1795717800000,
-    "stopTs": 1795724100000,
-    "title": "Vojens - Race; FIM Speedway Grand Prix Series",
-    "desc": "This is Sport - Racing Category."
+    "startTs": 1795804200000,
+    "stopTs": 1795805100000,
+    "title": "Showtime with Axar Patel",
+    "desc": "Bringing the best in television."
   },
   {
-    "start": "20:15",
-    "stop": "23:30",
+    "start": "18:45",
+    "stop": "21:00",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1795724100000,
-    "stopTs": 1795735800000,
-    "title": "UP Brij Stars vs. Mumbai Marines; Big Cricket League",
+    "startTs": 1795805100000,
+    "stopTs": 1795813200000,
+    "title": "Hexagone MMA 49",
+    "desc": "This is Sport - Martial Arts Category."
+  },
+  {
+    "start": "21:00",
+    "stop": "00:30",
+    "channel": "EUROSPORTSHD.in",
+    "channelId": "EUROSPORTSHD.in",
+    "channelName": "EUROSPORTS HD",
+    "startTs": 1795813200000,
+    "stopTs": 1795825800000,
+    "title": "Final: Gujarat Diamonds vs UP Brij Stars; Big Cricket League",
     "desc": "This is Sport - Cricket Category."
   },
   {
-    "start": "23:30",
+    "start": "00:30",
     "stop": "01:30",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1795735800000,
-    "stopTs": 1795743000000,
-    "title": "Columbus Crew at FC Cincinnati; MLS Soccer",
-    "desc": "Professional football players compete against each other in the MLS Soccer."
+    "startTs": 1795825800000,
+    "stopTs": 1795829400000,
+    "title": "Hero Women&apos;s Indian Open Highlights",
+    "desc": "The highlights of professional women&apos;s golf include fierce competition, skillful play on tough courses and battles for tournament wins and top rankings."
   },
   {
     "start": "01:30",
@@ -115,8 +159,8 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1795743000000,
-    "stopTs": 1795746600000,
+    "startTs": 1795829400000,
+    "stopTs": 1795833000000,
     "title": "TNA Wrestling: Greatest Matches",
     "desc": "This is Sport - Wrestling Category."
   },
@@ -126,20 +170,20 @@
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1795746600000,
-    "stopTs": 1795753800000,
-    "title": "TNA Impact",
-    "desc": "Professional wrestlers compete against some of the renowned names in one of the most recognised wrestling competitions in order to win."
+    "startTs": 1795833000000,
+    "stopTs": 1795840200000,
+    "title": "AEW Dynamite",
+    "desc": "Professional wrestlers compete against each other in the AEW Dynamite event in order to emerge victorious and win the title."
   },
   {
     "start": "04:30",
-    "stop": "06:30",
+    "stop": "08:00",
     "channel": "EUROSPORTSHD.in",
     "channelId": "EUROSPORTSHD.in",
     "channelName": "EUROSPORTS HD",
-    "startTs": 1795753800000,
-    "stopTs": 1795761000000,
-    "title": "San Diego FC at Inter Miami CF; MLS Soccer",
-    "desc": "Professional football players compete against each other in the MLS Soccer."
+    "startTs": 1795840200000,
+    "stopTs": 1795852800000,
+    "title": "Melbourne Renegades vs. Melbourne Stars; Women&apos;s Big Bash League Cricket",
+    "desc": "This is Sport - Cricket Category."
   }
 ]
