@@ -1,498 +1,14 @@
 [
   {
-    "start": "06:30",
-    "stop": "07:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795761000000,
-    "stopTs": 1795762800000,
-    "title": "Midday News",
-    "desc": "Catch up with the most important stories from around the country."
-  },
-  {
-    "start": "07:00",
-    "stop": "07:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795762800000,
-    "stopTs": 1795764600000,
-    "title": "Midday News",
-    "desc": "Catch up with the most important stories from around the country."
-  },
-  {
-    "start": "07:30",
-    "stop": "08:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795764600000,
-    "stopTs": 1795766400000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
-  },
-  {
-    "start": "08:00",
-    "stop": "08:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795766400000,
-    "stopTs": 1795768200000,
-    "title": "Political Drive",
-    "desc": "District Political situation."
-  },
-  {
-    "start": "08:30",
-    "stop": "09:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795768200000,
-    "stopTs": 1795770000000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
-  },
-  {
-    "start": "09:00",
-    "stop": "09:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795770000000,
-    "stopTs": 1795771800000,
-    "title": "Jilla Rajakeeyam",
-    "desc": "District Political situation."
-  },
-  {
-    "start": "09:30",
-    "stop": "10:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795771800000,
-    "stopTs": 1795773600000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
-  },
-  {
-    "start": "10:00",
-    "stop": "10:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795773600000,
-    "stopTs": 1795775400000,
-    "title": "Special Drive",
-    "desc": "The host presents the latest news, updates and developments from across the nation and provides analyses on current affairs."
-  },
-  {
-    "start": "10:30",
-    "stop": "11:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795775400000,
-    "stopTs": 1795777200000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
-  },
-  {
-    "start": "11:00",
-    "stop": "11:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795777200000,
-    "stopTs": 1795779000000,
-    "title": "Political Drive",
-    "desc": "District Political situation."
-  },
-  {
-    "start": "11:30",
-    "stop": "12:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795779000000,
-    "stopTs": 1795780800000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
-  },
-  {
-    "start": "12:00",
-    "stop": "12:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795780800000,
-    "stopTs": 1795782600000,
-    "title": "Reporters Live",
-    "desc": "Watch live coverage of the latest updates and developments as the reporters present them from ground zero."
-  },
-  {
-    "start": "12:30",
-    "stop": "13:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795782600000,
-    "stopTs": 1795784400000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
-  },
-  {
-    "start": "13:00",
-    "stop": "13:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795784400000,
-    "stopTs": 1795786200000,
-    "title": "P Gusagusa",
-    "desc": "A mixed-news bulletin which keeps viewers updated with the current affairs."
-  },
-  {
-    "start": "13:30",
-    "stop": "14:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795786200000,
-    "stopTs": 1795789800000,
-    "title": "The QuestionWith Balram",
-    "desc": "The host offers information regarding political afffairs and provides detailed insight regarding upcoming elections."
-  },
-  {
-    "start": "14:30",
-    "stop": "15:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795789800000,
-    "stopTs": 1795791600000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
-  },
-  {
-    "start": "15:00",
-    "stop": "15:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795791600000,
-    "stopTs": 1795793400000,
-    "title": "Burning Point",
-    "desc": "A mixed-news bulletin which keeps viewers updated with the current affairs."
-  },
-  {
-    "start": "15:30",
-    "stop": "16:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795793400000,
-    "stopTs": 1795795200000,
-    "title": "News @Primetime",
-    "desc": "Find latest news, top stories on Prime Time News and get latest news updates."
-  },
-  {
-    "start": "16:00",
-    "stop": "16:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795795200000,
-    "stopTs": 1795797000000,
-    "title": "Jilla Rajakeeyam",
-    "desc": "District Political situation."
-  },
-  {
-    "start": "16:30",
-    "stop": "17:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795797000000,
-    "stopTs": 1795798800000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
-  },
-  {
-    "start": "17:00",
-    "stop": "17:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795798800000,
-    "stopTs": 1795800600000,
-    "title": "Special Drive",
-    "desc": "The host presents the latest news, updates and developments from across the nation and provides analyses on current affairs."
-  },
-  {
-    "start": "17:30",
-    "stop": "18:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795800600000,
-    "stopTs": 1795802400000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
-  },
-  {
-    "start": "18:00",
-    "stop": "18:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795802400000,
-    "stopTs": 1795804200000,
-    "title": "P Gusagusa",
-    "desc": "A mixed-news bulletin which keeps viewers updated with the current affairs."
-  },
-  {
-    "start": "18:30",
-    "stop": "19:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795804200000,
-    "stopTs": 1795806000000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
-  },
-  {
-    "start": "19:00",
-    "stop": "19:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795806000000,
-    "stopTs": 1795807800000,
-    "title": "Special Drive",
-    "desc": "The host presents the latest news, updates and developments from across the nation and provides analyses on current affairs."
-  },
-  {
-    "start": "19:30",
-    "stop": "20:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795807800000,
-    "stopTs": 1795809600000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
-  },
-  {
-    "start": "20:00",
-    "stop": "20:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795809600000,
-    "stopTs": 1795811400000,
-    "title": "Burning Point",
-    "desc": "A mixed-news bulletin which keeps viewers updated with the current affairs."
-  },
-  {
-    "start": "20:30",
-    "stop": "21:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795811400000,
-    "stopTs": 1795813200000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
-  },
-  {
-    "start": "21:00",
-    "stop": "21:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795813200000,
-    "stopTs": 1795815000000,
-    "title": "Jilla Rajakeeyam",
-    "desc": "District Political situation."
-  },
-  {
-    "start": "21:30",
-    "stop": "22:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795815000000,
-    "stopTs": 1795816800000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
-  },
-  {
-    "start": "22:00",
-    "stop": "22:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795816800000,
-    "stopTs": 1795818600000,
-    "title": "Special Drive",
-    "desc": "The host presents the latest news, updates and developments from across the nation and provides analyses on current affairs."
-  },
-  {
-    "start": "22:30",
-    "stop": "23:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795818600000,
-    "stopTs": 1795820400000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
-  },
-  {
-    "start": "23:00",
-    "stop": "23:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795820400000,
-    "stopTs": 1795822200000,
-    "title": "P Gusagusa",
-    "desc": "A mixed-news bulletin which keeps viewers updated with the current affairs."
-  },
-  {
-    "start": "23:30",
-    "stop": "00:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795822200000,
-    "stopTs": 1795825800000,
-    "title": "Sanathana Dharma Saarathulu",
-    "desc": "The programme explores and discusses aspects of Sanatana Dharma Hinduism."
-  },
-  {
-    "start": "00:30",
-    "stop": "01:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795825800000,
-    "stopTs": 1795827600000,
-    "title": "Wakeup News",
-    "desc": "The leading morning show."
-  },
-  {
-    "start": "01:00",
-    "stop": "01:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795827600000,
-    "stopTs": 1795829400000,
-    "title": "Jilla Rajakeeyam",
-    "desc": "District Political situation."
-  },
-  {
-    "start": "01:30",
-    "stop": "02:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795829400000,
-    "stopTs": 1795831200000,
-    "title": "Sunrise Show",
-    "desc": "Wake up to a better breakfast with Melissa Doyle and David Koch for all the latest news, sport and weather."
-  },
-  {
-    "start": "02:00",
-    "stop": "02:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795831200000,
-    "stopTs": 1795833000000,
-    "title": "Sunrise Show",
-    "desc": "Wake up to a better breakfast with Melissa Doyle and David Koch for all the latest news, sport and weather."
-  },
-  {
-    "start": "02:30",
-    "stop": "03:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795833000000,
-    "stopTs": 1795834800000,
-    "title": "Sunrise Show",
-    "desc": "Wake up to a better breakfast with Melissa Doyle and David Koch for all the latest news, sport and weather."
-  },
-  {
-    "start": "03:00",
-    "stop": "03:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795834800000,
-    "stopTs": 1795836600000,
-    "title": "P Gusagusa",
-    "desc": "A mixed-news bulletin which keeps viewers updated with the current affairs."
-  },
-  {
-    "start": "03:30",
-    "stop": "04:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795836600000,
-    "stopTs": 1795838400000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
-  },
-  {
-    "start": "04:00",
-    "stop": "04:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795838400000,
-    "stopTs": 1795840200000,
-    "title": "Special Drive",
-    "desc": "The host presents the latest news, updates and developments from across the nation and provides analyses on current affairs."
-  },
-  {
-    "start": "04:30",
-    "stop": "05:00",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795840200000,
-    "stopTs": 1795842000000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
-  },
-  {
-    "start": "05:00",
-    "stop": "05:30",
-    "channel": "BRKNews.in",
-    "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
-    "startTs": 1795842000000,
-    "stopTs": 1795843800000,
-    "title": "Political Drive",
-    "desc": "District Political situation."
-  },
-  {
     "start": "05:30",
-    "stop": "06:00",
+    "stop": "06:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795843800000,
-    "stopTs": 1795845600000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+    "stopTs": 1795847400000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "06:00",
@@ -507,14 +23,14 @@
   },
   {
     "start": "06:30",
-    "stop": "07:00",
+    "stop": "07:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795847400000,
-    "stopTs": 1795849200000,
-    "title": "Midday News",
-    "desc": "Catch up with the most important stories from around the country."
+    "stopTs": 1795851000000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "07:00",
@@ -529,14 +45,14 @@
   },
   {
     "start": "07:30",
-    "stop": "08:00",
+    "stop": "08:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795851000000,
-    "stopTs": 1795852800000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+    "stopTs": 1795854600000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "08:00",
@@ -551,14 +67,14 @@
   },
   {
     "start": "08:30",
-    "stop": "09:00",
+    "stop": "09:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795854600000,
-    "stopTs": 1795856400000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+    "stopTs": 1795858200000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "09:00",
@@ -573,14 +89,14 @@
   },
   {
     "start": "09:30",
-    "stop": "10:00",
+    "stop": "10:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795858200000,
-    "stopTs": 1795860000000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+    "stopTs": 1795861800000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "10:00",
@@ -595,14 +111,14 @@
   },
   {
     "start": "10:30",
-    "stop": "11:00",
+    "stop": "11:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795861800000,
-    "stopTs": 1795863600000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+    "stopTs": 1795865400000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "11:00",
@@ -617,14 +133,14 @@
   },
   {
     "start": "11:30",
-    "stop": "12:00",
+    "stop": "12:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795865400000,
-    "stopTs": 1795867200000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+    "stopTs": 1795869000000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "12:00",
@@ -639,14 +155,14 @@
   },
   {
     "start": "12:30",
-    "stop": "13:00",
+    "stop": "13:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795869000000,
-    "stopTs": 1795870800000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+    "stopTs": 1795872600000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "13:00",
@@ -664,22 +180,22 @@
     "stop": "14:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795872600000,
     "stopTs": 1795876200000,
-    "title": "The QuestionWith Balram",
-    "desc": "The host offers information regarding political afffairs and provides detailed insight regarding upcoming elections."
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "14:30",
-    "stop": "15:00",
+    "stop": "15:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795876200000,
-    "stopTs": 1795878000000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+    "stopTs": 1795879800000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "15:00",
@@ -694,14 +210,14 @@
   },
   {
     "start": "15:30",
-    "stop": "16:00",
+    "stop": "16:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795879800000,
-    "stopTs": 1795881600000,
-    "title": "News @Primetime",
-    "desc": "Find latest news, top stories on Prime Time News and get latest news updates."
+    "stopTs": 1795883400000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "16:00",
@@ -716,14 +232,14 @@
   },
   {
     "start": "16:30",
-    "stop": "17:00",
+    "stop": "17:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795883400000,
-    "stopTs": 1795885200000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+    "stopTs": 1795887000000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "17:00",
@@ -738,14 +254,14 @@
   },
   {
     "start": "17:30",
-    "stop": "18:00",
+    "stop": "18:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795887000000,
-    "stopTs": 1795888800000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+    "stopTs": 1795890600000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "18:00",
@@ -760,14 +276,14 @@
   },
   {
     "start": "18:30",
-    "stop": "19:00",
+    "stop": "19:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795890600000,
-    "stopTs": 1795892400000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+    "stopTs": 1795894200000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "19:00",
@@ -782,14 +298,14 @@
   },
   {
     "start": "19:30",
-    "stop": "20:00",
+    "stop": "20:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795894200000,
-    "stopTs": 1795896000000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+    "stopTs": 1795897800000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "20:00",
@@ -804,14 +320,14 @@
   },
   {
     "start": "20:30",
-    "stop": "21:00",
+    "stop": "21:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795897800000,
-    "stopTs": 1795899600000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+    "stopTs": 1795901400000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "21:00",
@@ -826,14 +342,14 @@
   },
   {
     "start": "21:30",
-    "stop": "22:00",
+    "stop": "22:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795901400000,
-    "stopTs": 1795903200000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+    "stopTs": 1795905000000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "22:00",
@@ -848,14 +364,14 @@
   },
   {
     "start": "22:30",
-    "stop": "23:00",
+    "stop": "23:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795905000000,
-    "stopTs": 1795906800000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+    "stopTs": 1795908600000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "23:00",
@@ -873,22 +389,22 @@
     "stop": "00:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795908600000,
     "stopTs": 1795912200000,
-    "title": "Sanathana Dharma Saarathulu",
-    "desc": "The programme explores and discusses aspects of Sanatana Dharma Hinduism."
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "00:30",
-    "stop": "01:00",
+    "stop": "01:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795912200000,
-    "stopTs": 1795914000000,
-    "title": "Wakeup News",
-    "desc": "The leading morning show."
+    "stopTs": 1795915800000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "01:00",
@@ -903,14 +419,14 @@
   },
   {
     "start": "01:30",
-    "stop": "02:00",
+    "stop": "02:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795915800000,
-    "stopTs": 1795917600000,
-    "title": "Sunrise Show",
-    "desc": "Wake up to a better breakfast with Melissa Doyle and David Koch for all the latest news, sport and weather."
+    "stopTs": 1795919400000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "02:00",
@@ -925,14 +441,14 @@
   },
   {
     "start": "02:30",
-    "stop": "03:00",
+    "stop": "03:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795919400000,
-    "stopTs": 1795921200000,
-    "title": "Sunrise Show",
-    "desc": "Wake up to a better breakfast with Melissa Doyle and David Koch for all the latest news, sport and weather."
+    "stopTs": 1795923000000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "03:00",
@@ -947,14 +463,14 @@
   },
   {
     "start": "03:30",
-    "stop": "04:00",
+    "stop": "04:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795923000000,
-    "stopTs": 1795924800000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+    "stopTs": 1795926600000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "04:00",
@@ -969,14 +485,14 @@
   },
   {
     "start": "04:30",
-    "stop": "05:00",
+    "stop": "05:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795926600000,
-    "stopTs": 1795928400000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+    "stopTs": 1795930200000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "05:00",
@@ -991,14 +507,14 @@
   },
   {
     "start": "05:30",
-    "stop": "06:00",
+    "stop": "06:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795930200000,
-    "stopTs": 1795932000000,
-    "title": "News Bulletin",
-    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+    "stopTs": 1795933800000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "06:00",
@@ -1013,14 +529,14 @@
   },
   {
     "start": "06:30",
-    "stop": "07:00",
+    "stop": "07:30",
     "channel": "BRKNews.in",
     "channelId": "BRKNews.in",
-    "channelName": "BRK NEWS",
+    "channelName": "BRK News",
     "startTs": 1795933800000,
-    "stopTs": 1795935600000,
-    "title": "Midday News",
-    "desc": "Catch up with the most important stories from around the country."
+    "stopTs": 1795937400000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
   },
   {
     "start": "07:00",
@@ -1030,6 +546,501 @@
     "channelName": "BRK NEWS",
     "startTs": 1795935600000,
     "stopTs": 1795937400000,
+    "title": "Midday News",
+    "desc": "Catch up with the most important stories from around the country."
+  },
+  {
+    "start": "07:30",
+    "stop": "08:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK News",
+    "startTs": 1795937400000,
+    "stopTs": 1795941000000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
+  },
+  {
+    "start": "08:00",
+    "stop": "08:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795939200000,
+    "stopTs": 1795941000000,
+    "title": "Political Drive",
+    "desc": "District Political situation."
+  },
+  {
+    "start": "08:30",
+    "stop": "09:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK News",
+    "startTs": 1795941000000,
+    "stopTs": 1795944600000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
+  },
+  {
+    "start": "09:00",
+    "stop": "09:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795942800000,
+    "stopTs": 1795944600000,
+    "title": "Jilla Rajakeeyam",
+    "desc": "District Political situation."
+  },
+  {
+    "start": "09:30",
+    "stop": "10:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK News",
+    "startTs": 1795944600000,
+    "stopTs": 1795948200000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
+  },
+  {
+    "start": "10:00",
+    "stop": "10:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795946400000,
+    "stopTs": 1795948200000,
+    "title": "Special Drive",
+    "desc": "The host presents the latest news, updates and developments from across the nation and provides analyses on current affairs."
+  },
+  {
+    "start": "10:30",
+    "stop": "11:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK News",
+    "startTs": 1795948200000,
+    "stopTs": 1795951800000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
+  },
+  {
+    "start": "11:00",
+    "stop": "11:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795950000000,
+    "stopTs": 1795951800000,
+    "title": "Political Drive",
+    "desc": "District Political situation."
+  },
+  {
+    "start": "11:30",
+    "stop": "12:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK News",
+    "startTs": 1795951800000,
+    "stopTs": 1795955400000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
+  },
+  {
+    "start": "12:00",
+    "stop": "12:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795953600000,
+    "stopTs": 1795955400000,
+    "title": "Reporters Live",
+    "desc": "Watch live coverage of the latest updates and developments as the reporters present them from ground zero."
+  },
+  {
+    "start": "12:30",
+    "stop": "13:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK News",
+    "startTs": 1795955400000,
+    "stopTs": 1795959000000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
+  },
+  {
+    "start": "13:00",
+    "stop": "13:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795957200000,
+    "stopTs": 1795959000000,
+    "title": "P Gusagusa",
+    "desc": "A mixed-news bulletin which keeps viewers updated with the current affairs."
+  },
+  {
+    "start": "13:30",
+    "stop": "14:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK News",
+    "startTs": 1795959000000,
+    "stopTs": 1795962600000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
+  },
+  {
+    "start": "14:30",
+    "stop": "15:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK News",
+    "startTs": 1795962600000,
+    "stopTs": 1795966200000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
+  },
+  {
+    "start": "15:00",
+    "stop": "15:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795964400000,
+    "stopTs": 1795966200000,
+    "title": "Burning Point",
+    "desc": "A mixed-news bulletin which keeps viewers updated with the current affairs."
+  },
+  {
+    "start": "15:30",
+    "stop": "16:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK News",
+    "startTs": 1795966200000,
+    "stopTs": 1795969800000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
+  },
+  {
+    "start": "16:00",
+    "stop": "16:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795968000000,
+    "stopTs": 1795969800000,
+    "title": "Jilla Rajakeeyam",
+    "desc": "District Political situation."
+  },
+  {
+    "start": "16:30",
+    "stop": "17:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK News",
+    "startTs": 1795969800000,
+    "stopTs": 1795973400000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
+  },
+  {
+    "start": "17:00",
+    "stop": "17:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795971600000,
+    "stopTs": 1795973400000,
+    "title": "Special Drive",
+    "desc": "The host presents the latest news, updates and developments from across the nation and provides analyses on current affairs."
+  },
+  {
+    "start": "17:30",
+    "stop": "18:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK News",
+    "startTs": 1795973400000,
+    "stopTs": 1795977000000,
+    "title": "News",
+    "desc": "The host presents the latest news stories pertaining to various issues around the country."
+  },
+  {
+    "start": "18:00",
+    "stop": "18:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795975200000,
+    "stopTs": 1795977000000,
+    "title": "P Gusagusa",
+    "desc": "A mixed-news bulletin which keeps viewers updated with the current affairs."
+  },
+  {
+    "start": "18:30",
+    "stop": "19:00",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795977000000,
+    "stopTs": 1795978800000,
+    "title": "News Bulletin",
+    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+  },
+  {
+    "start": "19:00",
+    "stop": "19:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795978800000,
+    "stopTs": 1795980600000,
+    "title": "Special Drive",
+    "desc": "The host presents the latest news, updates and developments from across the nation and provides analyses on current affairs."
+  },
+  {
+    "start": "19:30",
+    "stop": "20:00",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795980600000,
+    "stopTs": 1795982400000,
+    "title": "News Bulletin",
+    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+  },
+  {
+    "start": "20:00",
+    "stop": "20:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795982400000,
+    "stopTs": 1795984200000,
+    "title": "Burning Point",
+    "desc": "A mixed-news bulletin which keeps viewers updated with the current affairs."
+  },
+  {
+    "start": "20:30",
+    "stop": "21:00",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795984200000,
+    "stopTs": 1795986000000,
+    "title": "News Bulletin",
+    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+  },
+  {
+    "start": "21:00",
+    "stop": "21:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795986000000,
+    "stopTs": 1795987800000,
+    "title": "Jilla Rajakeeyam",
+    "desc": "District Political situation."
+  },
+  {
+    "start": "21:30",
+    "stop": "22:00",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795987800000,
+    "stopTs": 1795989600000,
+    "title": "News Bulletin",
+    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+  },
+  {
+    "start": "22:00",
+    "stop": "22:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795989600000,
+    "stopTs": 1795991400000,
+    "title": "Special Drive",
+    "desc": "The host presents the latest news, updates and developments from across the nation and provides analyses on current affairs."
+  },
+  {
+    "start": "22:30",
+    "stop": "23:00",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795991400000,
+    "stopTs": 1795993200000,
+    "title": "News Bulletin",
+    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+  },
+  {
+    "start": "23:00",
+    "stop": "23:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795993200000,
+    "stopTs": 1795995000000,
+    "title": "P Gusagusa",
+    "desc": "A mixed-news bulletin which keeps viewers updated with the current affairs."
+  },
+  {
+    "start": "23:30",
+    "stop": "00:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795995000000,
+    "stopTs": 1795998600000,
+    "title": "Sanathana Dharma Saarathulu",
+    "desc": "The programme explores and discusses aspects of Sanatana Dharma Hinduism."
+  },
+  {
+    "start": "00:30",
+    "stop": "01:00",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1795998600000,
+    "stopTs": 1796000400000,
+    "title": "Wakeup News",
+    "desc": "The leading morning show."
+  },
+  {
+    "start": "01:00",
+    "stop": "01:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1796000400000,
+    "stopTs": 1796002200000,
+    "title": "Jilla Rajakeeyam",
+    "desc": "District Political situation."
+  },
+  {
+    "start": "01:30",
+    "stop": "02:00",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1796002200000,
+    "stopTs": 1796004000000,
+    "title": "Sunrise Show",
+    "desc": "Wake up to a better breakfast with Melissa Doyle and David Koch for all the latest news, sport and weather."
+  },
+  {
+    "start": "02:00",
+    "stop": "02:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1796004000000,
+    "stopTs": 1796005800000,
+    "title": "Sunrise Show",
+    "desc": "Wake up to a better breakfast with Melissa Doyle and David Koch for all the latest news, sport and weather."
+  },
+  {
+    "start": "02:30",
+    "stop": "03:00",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1796005800000,
+    "stopTs": 1796007600000,
+    "title": "Sunrise Show",
+    "desc": "Wake up to a better breakfast with Melissa Doyle and David Koch for all the latest news, sport and weather."
+  },
+  {
+    "start": "03:00",
+    "stop": "03:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1796007600000,
+    "stopTs": 1796009400000,
+    "title": "P Gusagusa",
+    "desc": "A mixed-news bulletin which keeps viewers updated with the current affairs."
+  },
+  {
+    "start": "03:30",
+    "stop": "04:00",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1796009400000,
+    "stopTs": 1796011200000,
+    "title": "News Bulletin",
+    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+  },
+  {
+    "start": "04:00",
+    "stop": "04:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1796011200000,
+    "stopTs": 1796013000000,
+    "title": "Special Drive",
+    "desc": "The host presents the latest news, updates and developments from across the nation and provides analyses on current affairs."
+  },
+  {
+    "start": "04:30",
+    "stop": "05:00",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1796013000000,
+    "stopTs": 1796014800000,
+    "title": "News Bulletin",
+    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+  },
+  {
+    "start": "05:00",
+    "stop": "05:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1796014800000,
+    "stopTs": 1796016600000,
+    "title": "Political Drive",
+    "desc": "District Political situation."
+  },
+  {
+    "start": "05:30",
+    "stop": "06:00",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1796016600000,
+    "stopTs": 1796018400000,
+    "title": "News Bulletin",
+    "desc": "The latest news from India on breaking news, today&apos;s news headlines, politics, and business."
+  },
+  {
+    "start": "06:00",
+    "stop": "06:30",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1796018400000,
+    "stopTs": 1796020200000,
+    "title": "Special Drive",
+    "desc": "The host presents the latest news, updates and developments from across the nation and provides analyses on current affairs."
+  },
+  {
+    "start": "06:30",
+    "stop": "07:00",
+    "channel": "BRKNews.in",
+    "channelId": "BRKNews.in",
+    "channelName": "BRK NEWS",
+    "startTs": 1796020200000,
+    "stopTs": 1796022000000,
     "title": "Midday News",
     "desc": "Catch up with the most important stories from around the country."
   }
